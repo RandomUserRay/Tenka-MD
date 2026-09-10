@@ -53980,7 +53980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12941,
+    "exp": 12956,
     "level": 1,
     "koin": 6906,
     "unlockedFeatures": [],
@@ -53989,7 +53989,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T17:17:36.313Z",
+    "lastSeen": "2026-09-10T17:17:55.235Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54012,7 +54012,8 @@
       "top": 1785930825854,
       "cekfemboy": 1788093478147,
       "pin": 1788353518587,
-      "me": 1788354216245
+      "me": 1788354216245,
+      "marry": 1789060735235
     },
     "clanId": null,
     "isRegistered": false,
@@ -54031,8 +54032,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 3
   },
   "6283109376338": {
     "jid": "6283109376338",
