@@ -101673,13 +101673,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-10T23:04:58.199Z",
+    "lastSeen": "2026-09-10T23:05:16.826Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59964,
+    "exp": 59994,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101690,7 +101690,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789081503199,
+      "afk": 1789081521825,
       "d": 1788767374386,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -101726,7 +101726,8 @@
       "play": 1789050092065,
       "cektsundere": 1789051017958,
       "cekfemboy": 1789051466227,
-      "love": 1789051642267
+      "love": 1789051642267,
+      "ship": 1789081521124
     },
     "clanId": null,
     "isRegistered": false,
