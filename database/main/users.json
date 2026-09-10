@@ -118554,5 +118554,33 @@
     "access": [],
     "lastActiveDate": "11/9/2026",
     "activeDays": 1
+  },
+  "6285753509752": {
+    "jid": "6285753509752",
+    "name": "Unknown",
+    "number": "6285753509752",
+    "energi": 99999,
+    "isPremium": false,
+    "isBanned": false,
+    "exp": 15,
+    "level": 1,
+    "koin": 0,
+    "saldo": 0,
+    "unlockedFeatures": [],
+    "registeredAt": null,
+    "lastRegisteredAt": null,
+    "registrationCount": 0,
+    "hasClaimedRegisterReward": false,
+    "unregisteredAt": null,
+    "lastSeen": "2026-09-10T22:34:51.563Z",
+    "cooldowns": {},
+    "clanId": null,
+    "isRegistered": false,
+    "regName": null,
+    "regAge": null,
+    "regGender": null,
+    "rpg": {},
+    "inventory": {},
+    "access": []
   }
 }
