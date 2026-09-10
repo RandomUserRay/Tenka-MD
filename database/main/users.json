@@ -6713,10 +6713,10 @@
     "jid": "6283157956858",
     "name": "raya🇵🇭",
     "number": "6283157956858",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62195,
+    "exp": 62210,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -6725,7 +6725,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T03:00:39.782Z",
+    "lastSeen": "2026-09-10T19:55:44.499Z",
     "cooldowns": {
       "me": 1786371480628,
       "menu": 1786005735452,
@@ -6735,7 +6735,7 @@
       "allmenu": 1783681098754,
       "benefitpremium": 1780959383997,
       "warn": 1780990963290,
-      "s": 1788355978155,
+      "s": 1789070149497,
       "antispam": 1781256558987,
       "hd": 1781377078903,
       "afk": 1783307123142,
@@ -6774,8 +6774,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 3
   },
   "6285286502299": {
     "jid": "6285286502299",
