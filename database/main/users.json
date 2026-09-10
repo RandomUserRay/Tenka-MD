@@ -62289,10 +62289,10 @@
     "jid": "6289504621246",
     "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
     "number": "6289504621246",
-    "energi": 99961,
+    "energi": 99959,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14520,
+    "exp": 14565,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -62301,7 +62301,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T23:04:26.660Z",
+    "lastSeen": "2026-09-10T23:04:58.826Z",
     "cooldowns": {
       "afk": 1788613388224,
       "d": 1784339008980,
@@ -62322,7 +62322,7 @@
       "iqc": 1785491517652,
       "tts": 1789048967063,
       "top": 1788823228723,
-      "ship": 1789081469190,
+      "ship": 1789081497467,
       "ping": 1789051560066,
       "love": 1789051655599
     },
@@ -101673,13 +101673,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-10T23:04:41.199Z",
+    "lastSeen": "2026-09-10T23:04:58.199Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59934,
+    "exp": 59964,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101690,7 +101690,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789051722445,
+      "afk": 1789081503199,
       "d": 1788767374386,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -101754,8 +101754,8 @@
       "koran": 5
     },
     "access": [],
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 10
   },
   "6283178717373": {
     "jid": "6283178717373",
