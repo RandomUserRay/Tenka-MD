@@ -109748,7 +109748,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109758,7 +109758,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-09T12:32:06.402Z",
+    "lastSeen": "2026-09-10T23:10:09.244Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -110141,13 +110141,13 @@
   },
   "62895406420904": {
     "name": "Adilla",
-    "lastSeen": "2026-09-10T23:10:00.208Z",
+    "lastSeen": "2026-09-10T23:10:12.821Z",
     "jid": "62895406420904",
     "number": "62895406420904",
-    "energi": 99992,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1365,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110160,7 +110160,7 @@
     "cooldowns": {
       "menu": 1788857271996,
       "play": 1789080797844,
-      "ytmp4": 1788942942986
+      "ytmp4": 1789081828863
     },
     "clanId": null,
     "isRegistered": false,
