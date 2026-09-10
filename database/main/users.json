@@ -34067,7 +34067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 273960,
+    "exp": 273990,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34076,7 +34076,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T22:11:19.963Z",
+    "lastSeen": "2026-09-10T22:11:24.073Z",
     "cooldowns": {
       "ping": 1782994512723,
       "bego": 1782994588639,
@@ -35928,7 +35928,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220820,
+    "exp": 220835,
     "level": 1,
     "koin": 57223,
     "unlockedFeatures": [],
@@ -35937,7 +35937,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T22:05:33.283Z",
+    "lastSeen": "2026-09-10T22:11:33.646Z",
     "cooldowns": {
       "femboy": 1784282624511,
       "d": 1784202630407,
@@ -47467,13 +47467,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-09-09T12:52:59.288Z",
+    "lastSeen": "2026-09-10T22:11:27.928Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 557483,
+    "exp": 557498,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -47587,7 +47587,8 @@
       "asahotak": 1788590427883,
       "play2": 1788646857563,
       "ultah": 1788822535055,
-      "setbirthday": 1788822626197
+      "setbirthday": 1788822626197,
+      "setgoodbye": 1789078292903
     },
     "clanId": null,
     "isRegistered": false,
@@ -47616,8 +47617,8 @@
     "access": [],
     "lastStreamer": 1784788665524,
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 11,
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 12,
     "birthday": "31-03"
   },
   "6287732757354": {
