@@ -110139,13 +110139,13 @@
   },
   "62895406420904": {
     "name": "Adilla",
-    "lastSeen": "2026-09-10T22:52:48.089Z",
+    "lastSeen": "2026-09-10T22:53:02.844Z",
     "jid": "62895406420904",
     "number": "62895406420904",
-    "energi": 99997,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1275,
+    "exp": 1320,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110157,7 +110157,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "menu": 1788857271996,
-      "play": 1789080756103,
+      "play": 1789080797844,
       "ytmp4": 1788942942986
     },
     "clanId": null,
