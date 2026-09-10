@@ -178,16 +178,16 @@
     "energi": -1,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135947510,
+    "exp": 135947585,
     "level": 1,
-    "koin": 60877169,
+    "koin": 60827169,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T17:17:32.004Z",
+    "lastSeen": "2026-09-10T17:18:21.181Z",
     "cooldowns": {
       "profile": 1789060395779,
       "cekfemboy": 1780152179893,
@@ -265,7 +265,7 @@
       "gay": 1783610493669,
       "love": 1788086281760,
       "top": 1788076664383,
-      "marry": 1789060633095
+      "marry": 1789060761181
     },
     "clanId": null,
     "isRegistered": false,
@@ -280,8 +280,8 @@
       "maxMana": 68070,
       "stamina": 68070,
       "maxStamina": 68070,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6283867242353@s.whatsapp.net",
+      "marriedAt": 1789060700885,
       "bank": 7230563233,
       "attack": 108,
       "luck": 95,
@@ -11561,7 +11561,9 @@
       "maxMana": 110,
       "stamina": 45,
       "maxStamina": 110,
-      "bank": 250000
+      "bank": 250000,
+      "spouse": "6281212759099@s.whatsapp.net",
+      "marriedAt": 1789060700885
     },
     "inventory": {
       "iron": 2
