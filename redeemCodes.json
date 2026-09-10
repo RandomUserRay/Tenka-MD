@@ -675,7 +675,9 @@
     "type": "user",
     "days": 1,
     "limit": 1,
-    "claimedBy": [],
+    "claimedBy": [
+      "6285755379245@s.whatsapp.net"
+    ],
     "createdAt": 1789056922866
   }
 ]
