@@ -36937,5 +36937,26 @@
     "chat": {},
     "antilinkgc": "on",
     "antitagsw": "on"
+  },
+  "120363427872845781@g.us": {
+    "chatStats": {
+      "6285753509752@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789079674455,
+        "name": "wawa"
+      }
+    },
+    "jid": "120363427872845781@g.us",
+    "name": "four lancelot gen 17 agustus",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {}
   }
 }
