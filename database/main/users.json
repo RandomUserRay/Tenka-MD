@@ -94311,7 +94311,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2655,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94321,7 +94321,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T05:20:35.179Z",
+    "lastSeen": "2026-09-11T05:20:54.317Z",
     "cooldowns": {
       "s": 1786923206913,
       "hd": 1786972656322,
@@ -95785,7 +95785,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3870,
+    "exp": 3885,
     "level": 1,
     "koin": 2000000,
     "saldo": 0,
@@ -95795,7 +95795,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T04:38:11.363Z",
+    "lastSeen": "2026-09-11T05:20:49.544Z",
     "cooldowns": {
       "afk": 1789101496363,
       "play": 1788086719970,
@@ -95812,7 +95812,8 @@
       "pintar": 1788075965074,
       "femboy": 1788084570895,
       "dadu": 1788079899385,
-      "tt": 1789094778098
+      "tt": 1789094778098,
+      "accept": 1789104054544
     },
     "clanId": null,
     "isRegistered": false,
@@ -95831,7 +95832,8 @@
     "inventory": {},
     "access": [],
     "lastActiveDate": "11/9/2026",
-    "activeDays": 4
+    "activeDays": 4,
+    "fun": {}
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -118765,7 +118767,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -118775,7 +118777,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T04:38:15.099Z",
+    "lastSeen": "2026-09-11T05:20:50.641Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -118849,7 +118851,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -118859,7 +118861,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T04:39:09.989Z",
+    "lastSeen": "2026-09-11T05:21:00.849Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -118868,7 +118870,8 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "fun": {}
   },
   "6283163043381": {
     "jid": "6283163043381",
