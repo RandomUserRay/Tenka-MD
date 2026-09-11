@@ -61904,10 +61904,10 @@
     "jid": "62895604726050",
     "name": "fadhila^⁠_⁠^",
     "number": "62895604726050",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33150,
+    "exp": 33195,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61916,7 +61916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-09T11:39:21.525Z",
+    "lastSeen": "2026-09-11T11:22:08.844Z",
     "cooldowns": {
       "tebakgambar": 1785317965506,
       "tebakkata": 1785318259327,
@@ -61928,13 +61928,13 @@
       "level": 1788183478945,
       "stickerpack": 1785647744908,
       "play": 1788953890796,
-      "brat": 1787615510001,
+      "brat": 1789125701620,
       "iqc": 1786861790153,
-      "bratwhite": 1786969524452,
+      "bratwhite": 1789125733006,
       "bratimg": 1787579284002,
       "allmenu": 1787574976607,
       "bratvid2": 1787615539845,
-      "brathd": 1787615608427,
+      "brathd": 1789125715386,
       "smeme": 1788670434197
     },
     "clanId": null,
@@ -61954,8 +61954,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 6
   },
   "6285775213169": {
     "jid": "6285775213169",
@@ -101685,15 +101685,15 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-11T11:21:33.537Z",
+    "lastSeen": "2026-09-11T11:21:52.462Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67937,
+    "exp": 67967,
     "level": 1,
-    "koin": 49130,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101711,7 +101711,7 @@
       "gojek": 1789125449192,
       "kurir": 1789125647512,
       "ngemis": 1789125677927,
-      "bank": 1789125527350,
+      "bank": 1789125712690,
       "maling": 1789125494389,
       "menu": 1788529478101,
       "menucat": 1788529494336,
@@ -101748,7 +101748,7 @@
     "regGender": null,
     "rpg": {
       "stamina": 8,
-      "bank": 2457488,
+      "bank": 2506618,
       "health": 105,
       "maxHealth": 160,
       "mana": 53,
@@ -106583,7 +106583,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11085,
+    "exp": 11100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110895,7 +110895,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13575,
+    "exp": 13590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111534,7 +111534,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2280,
+    "exp": 2295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112027,7 +112027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4155,
+    "exp": 4170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119226,7 +119226,7 @@
   "6289502640513": {
     "jid": "6289502640513",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6283180744202": {
     "name": "denji",
@@ -119234,7 +119234,9 @@
     "jid": "6283180744202"
   },
   "6285126089692": {
-    "jid": "6285126089692"
+    "jid": "6285126089692",
+    "rpg": {},
+    "exp": 15
   },
   "62895340689862": {
     "jid": "62895340689862",
