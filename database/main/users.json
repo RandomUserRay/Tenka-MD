@@ -53987,7 +53987,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13061,
+    "exp": 13076,
     "level": 1,
     "koin": 1006906,
     "unlockedFeatures": [],
@@ -53996,7 +53996,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:37:31.814Z",
+    "lastSeen": "2026-09-11T09:39:37.197Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54022,7 +54022,8 @@
       "me": 1788354216245,
       "marry": 1789060838310,
       "bank": 1789119452064,
-      "profil": 1789119243016
+      "profil": 1789119243016,
+      "deposit": 1789119577321
     },
     "clanId": null,
     "isRegistered": false,
