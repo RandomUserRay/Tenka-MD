@@ -16605,8 +16605,8 @@
       "stamina": 215,
       "maxStamina": 215,
       "bank": 101320263,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1785577051707,
+      "spouse": null,
+      "marriedAt": null,
       "attack": 20
     },
     "inventory": {
@@ -66694,9 +66694,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166970,
+    "exp": 166985,
     "level": 1,
-    "koin": 2099195886,
+    "koin": 2099170886,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66709,7 +66709,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:35:28.996Z",
+    "lastSeen": "2026-09-11T09:35:45.139Z",
     "cooldowns": {
       "afk": 1788092047156,
       "s": 1788092850120,
@@ -66785,7 +66785,7 @@
       "training": 1786714751355,
       "tolak": 1786714790971,
       "love": 1787746686240,
-      "cerai": 1789119151177
+      "cerai": 1789119345598
     },
     "clanId": null,
     "isRegistered": false,
@@ -66802,8 +66802,8 @@
       "maxStamina": 180,
       "bank": 0,
       "attack": 21,
-      "spouse": "6281357730198@s.whatsapp.net",
-      "marriedAt": 1785577051707,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20
     },
