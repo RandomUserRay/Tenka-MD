@@ -95791,9 +95791,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3510,
+    "exp": 3525,
     "level": 1,
-    "koin": 2000000,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -95801,7 +95801,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:39:47.659Z",
+    "lastSeen": "2026-09-11T09:40:45.908Z",
     "cooldowns": {
       "afk": 1788091298206,
       "play": 1788086719970,
@@ -95833,7 +95833,7 @@
       "maxMana": 100,
       "stamina": 100,
       "maxStamina": 100,
-      "bank": 0
+      "bank": 2000000
     },
     "inventory": {},
     "access": [],
