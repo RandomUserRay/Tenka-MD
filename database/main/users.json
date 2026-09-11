@@ -68505,13 +68505,13 @@
   },
   "6281324631258": {
     "name": "epic face mystery Daffa",
-    "lastSeen": "2026-09-11T14:58:31.121Z",
+    "lastSeen": "2026-09-11T22:47:45.827Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12082,
+    "exp": 12097,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -68522,7 +68522,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "ai-chat": 1784636027998,
-      "allmenu": 1789138611632,
+      "allmenu": 1789166866924,
       "daily": 1786105218545,
       "ai": 1784636032708,
       "ai4chat": 1784949988030,
@@ -68594,8 +68594,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 11
   },
   "6287797980617": {
     "jid": "6287797980617",
@@ -90679,7 +90679,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
