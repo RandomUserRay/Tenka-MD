@@ -49,11 +49,6 @@
     {
       "cmd": "unknown",
       "err": "rate-overlimit",
-      "at": 1789129452012
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
       "at": 1789125563619
     },
     {
@@ -295,6 +290,11 @@
       "cmd": "unknown",
       "err": "ENOSPC: no space left on device, write",
       "at": 1785331323381
+    },
+    {
+      "cmd": "unknown",
+      "err": "ENOSPC: no space left on device, write",
+      "at": 1785330689941
     }
   ],
   "jpmBlacklist": [],
@@ -19976,9 +19976,9 @@
       "jid": "62895402520016@s.whatsapp.net",
       "name": "keating"
     },
-    "6289667410501@s.whatsapp.net": {
-      "jid": "6289667410501@s.whatsapp.net",
-      "name": "nnayi🥑🍪"
+    "6288228867255@s.whatsapp.net": {
+      "jid": "6288228867255@s.whatsapp.net",
+      "name": "emma like moon🌙"
     }
   },
   "antiCall": false,
