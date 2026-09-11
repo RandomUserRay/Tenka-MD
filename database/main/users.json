@@ -19651,7 +19651,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:18:20.795Z",
+    "lastSeen": "2026-09-11T10:56:53.786Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -20337,7 +20337,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T05:10:52.775Z",
+    "lastSeen": "2026-09-11T10:57:21.852Z",
     "cooldowns": {
       "menu": 1789103445420,
       "allmenu": 1786162234717,
@@ -26424,7 +26424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165861,
+    "exp": 165771,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26433,7 +26433,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:56:28.276Z",
+    "lastSeen": "2026-09-11T10:10:29.426Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26456,7 +26456,7 @@
       "bucin": 1783582886927,
       "pakustad": 1788354793905,
       "h": 1788575543688,
-      "kick": 1789124189537,
+      "kick": 1786619232440,
       "p": 1788667133124,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
@@ -26640,7 +26640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713523,
+    "exp": 713433,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281849,
+    "exp": 281819,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -91467,7 +91467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119200,5 +119200,16 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
+  },
+  "6285624830105": {
+    "jid": "6285624830105"
+  },
+  "6289502640513": {
+    "jid": "6289502640513"
+  },
+  "6283180744202": {
+    "name": "denji",
+    "lastSeen": "2026-09-11T10:57:39.858Z",
+    "jid": "6283180744202"
   }
 }
