@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T11:06:06.980Z",
+    "lastSeen": "2026-09-11T11:06:18.842Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000008475,
+    "exp": 9000008400,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -178,7 +178,7 @@
     "energi": -1,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135948860,
+    "exp": 135948710,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -11510,7 +11510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32199,
+    "exp": 32184,
     "level": 1,
     "koin": 53348,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 282014,
+    "exp": 281999,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -106584,7 +106584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:36:15.078Z",
+    "lastSeen": "2026-09-11T11:06:53.039Z",
     "cooldowns": {
       "brat": 1789102234641,
       "bratcewek": 1788695614626,
@@ -119200,5 +119200,19 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
+  },
+  "6285624830105": {
+    "jid": "6285624830105"
+  },
+  "6289502640513": {
+    "jid": "6289502640513"
+  },
+  "6283180744202": {
+    "name": "denji",
+    "lastSeen": "2026-09-11T11:02:01.626Z",
+    "jid": "6283180744202"
+  },
+  "6285126089692": {
+    "jid": "6285126089692"
   }
 }
