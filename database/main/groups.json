@@ -33309,8 +33309,8 @@
         "name": "hanzz"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 2122,
-        "lastChat": 1789110502091,
+        "count": 2123,
+        "lastChat": 1789110511107,
         "name": "Thiryzty X Wanyzty"
       },
       "6289604892600@s.whatsapp.net": {
@@ -33507,7 +33507,7 @@
     "warnings": [],
     "chat": {},
     "mutegc": true,
-    "antisticker": true,
+    "antisticker": false,
     "antispam": "on",
     "spamLimitCount": 3,
     "spamLimitTime": 3,
