@@ -333,16 +333,16 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51400,
+    "exp": 51415,
     "level": 1,
-    "koin": 1000000,
+    "koin": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:39:16.855Z",
+    "lastSeen": "2026-09-11T09:39:56.710Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789119239424,
@@ -401,7 +401,7 @@
       "maxMana": 125,
       "stamina": 125,
       "maxStamina": 125,
-      "bank": 1010121,
+      "bank": 2010121,
       "luck": 6
     },
     "inventory": {
@@ -95786,12 +95786,12 @@
   },
   "6283139380069": {
     "jid": "6283139380069",
-    "name": "shiro( 白 ) >^<",
+    "name": "shiro <3",
     "number": "6283139380069",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3495,
+    "exp": 3510,
     "level": 1,
     "koin": 2000000,
     "saldo": 0,
@@ -95801,7 +95801,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-02T22:24:35.601Z",
+    "lastSeen": "2026-09-11T09:39:47.659Z",
     "cooldowns": {
       "afk": 1788091298206,
       "play": 1788086719970,
@@ -95817,7 +95817,8 @@
       "top": 1788085475131,
       "pintar": 1788075965074,
       "femboy": 1788084570895,
-      "dadu": 1788079899385
+      "dadu": 1788079899385,
+      "bank": 1789119587790
     },
     "clanId": null,
     "isRegistered": false,
@@ -95831,12 +95832,13 @@
       "mana": 100,
       "maxMana": 100,
       "stamina": 100,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "bank": 0
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 4
   },
   "6285814414356": {
     "jid": "6285814414356",
