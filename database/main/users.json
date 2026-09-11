@@ -101833,9 +101833,9 @@
     "energi": 9999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 206570,
+    "exp": 207980,
     "level": 1,
-    "koin": 0,
+    "koin": 2821,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101845,7 +101845,8 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-11T11:14:30.021Z",
     "cooldowns": {
-      "redeem": 1789116198474
+      "redeem": 1789116198474,
+      "work": 1789125273458
     },
     "clanId": null,
     "isRegistered": false,
