@@ -101830,7 +101830,7 @@
     "jid": "16063130847",
     "name": "ライズ",
     "number": "16063130847",
-    "energi": 99999999,
+    "energi": 9999,
     "isPremium": true,
     "isBanned": false,
     "exp": 206495,
@@ -101843,7 +101843,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T08:43:16.100Z",
+    "lastSeen": "2026-09-11T11:15:16.651Z",
     "cooldowns": {
       "redeem": 1789116198474
     },
@@ -101852,7 +101852,9 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "stamina": 90
+    },
     "inventory": {},
     "access": [],
     "lastActiveDate": "11/9/2026",
