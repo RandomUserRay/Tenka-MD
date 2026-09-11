@@ -19651,7 +19651,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:58:03.749Z",
+    "lastSeen": "2026-09-08T15:18:20.795Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -20337,7 +20337,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:57:21.852Z",
+    "lastSeen": "2026-09-11T05:10:52.775Z",
     "cooldowns": {
       "menu": 1789103445420,
       "allmenu": 1786162234717,
@@ -26424,7 +26424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165771,
+    "exp": 165891,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26433,7 +26433,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:10:29.426Z",
+    "lastSeen": "2026-09-11T10:56:28.276Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26456,7 +26456,7 @@
       "bucin": 1783582886927,
       "pakustad": 1788354793905,
       "h": 1788575543688,
-      "kick": 1786619232440,
+      "kick": 1789124189537,
       "p": 1788667133124,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
@@ -26640,7 +26640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713433,
+    "exp": 713628,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -40952,10 +40952,10 @@
     "jid": "6282193635458",
     "name": "Alzzz Anak Evade loh ya🤓✌",
     "number": "6282193635458",
-    "energi": 99993,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281819,
+    "exp": 281879,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -40966,11 +40966,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:54:08.389Z",
+    "lastSeen": "2026-09-11T10:57:54.292Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
-      "play": 1788788906619,
+      "play": 1789124274719,
       "susun": 1786887999576,
       "afk": 1788351197696,
       "topglobal": 1783232075320,
@@ -41049,7 +41049,7 @@
       "judi": 1786887128164,
       "owner": 1785408712370,
       "slot": 1786429671206,
-      "ytmp4": 1788788935658,
+      "ytmp4": 1789124278382,
       "ttmp4": 1786923416880,
       "videy": 1789047606451,
       "ngemis": 1785593818871,
@@ -91467,7 +91467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119200,16 +119200,5 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
-  },
-  "6285624830105": {
-    "jid": "6285624830105"
-  },
-  "6289502640513": {
-    "jid": "6289502640513"
-  },
-  "6283180744202": {
-    "name": "denji",
-    "lastSeen": "2026-09-11T10:57:39.858Z",
-    "jid": "6283180744202"
   }
 }
