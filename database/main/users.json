@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T11:08:35.537Z",
+    "lastSeen": "2026-09-11T11:19:23.240Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000008775,
+    "exp": 9000008850,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -31,7 +31,7 @@
       "maxHealth": 9000100,
       "mana": 4500100,
       "maxMana": 4500100,
-      "stamina": 4500100,
+      "stamina": 4500090,
       "maxStamina": 4500100,
       "bank": 1000016237013563,
       "luck": 12,
@@ -19902,7 +19902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 144853,
+    "exp": 144868,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -20124,7 +20124,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30734,
+    "exp": 30764,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50877,7 +50877,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67962,
+    "exp": 67992,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -52580,7 +52580,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37291,
+    "exp": 37351,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -52589,7 +52589,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:08:16.353Z",
+    "lastSeen": "2026-09-11T11:19:22.928Z",
     "cooldowns": {
       "profile": 1784337196838,
       "me": 1784440579741,
@@ -110886,7 +110886,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13560,
+    "exp": 13575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111329,7 +111329,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111413,7 +111413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112018,7 +112018,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4080,
+    "exp": 4095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112364,7 +112364,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119215,7 +119215,9 @@
     "jid": "6285624830105"
   },
   "6289502640513": {
-    "jid": "6289502640513"
+    "jid": "6289502640513",
+    "rpg": {},
+    "exp": 30
   },
   "6283180744202": {
     "name": "denji",
@@ -119226,7 +119228,9 @@
     "jid": "6285126089692"
   },
   "62895340689862": {
-    "jid": "62895340689862"
+    "jid": "62895340689862",
+    "rpg": {},
+    "exp": 15
   },
   "628218463836": {
     "jid": "628218463836",
