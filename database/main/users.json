@@ -19652,7 +19652,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 243920,
+    "exp": 244085,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -40172,7 +40172,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61410,
+    "exp": 61395,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51910,7 +51910,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33081,
+    "exp": 33096,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95014,10 +95014,10 @@
     "jid": "6283143702586",
     "name": "\"LiLi🇦🇱🕸️🕷️\"",
     "number": "6283143702586",
-    "energi": 99945,
+    "energi": 99948,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14760,
+    "exp": 14715,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95027,7 +95027,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T16:07:28.102Z",
+    "lastSeen": "2026-09-11T14:57:00.224Z",
     "cooldowns": {
       "tebaktebakan": 1787839676621,
       "brat": 1789138572267,
@@ -95064,8 +95064,7 @@
       "gila": 1789044497610,
       "imut": 1789044652365,
       "smeme": 1789051310631,
-      "hapus": 1789137465295,
-      "qc": 1789142848277
+      "hapus": 1789137465295
     },
     "clanId": null,
     "isRegistered": false,
@@ -96512,7 +96511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104151,7 +104150,7 @@
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33183,
+    "exp": 33303,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106620,7 +106619,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11400,
+    "exp": 11430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106744,7 +106743,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1905,
+    "exp": 1965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119453,7 +119452,7 @@
   "6289691343688": {
     "jid": "6289691343688",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   },
   "6283179471359": {
     "jid": "6283179471359",
@@ -119512,5 +119511,25 @@
     "energi": 24,
     "lastActiveDate": "11/9/2026",
     "activeDays": 1
+  },
+  "62895414271608": {
+    "jid": "62895414271608",
+    "rpg": {},
+    "exp": 120
+  },
+  "6287743157331": {
+    "jid": "6287743157331",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285940800160": {
+    "jid": "6285940800160",
+    "rpg": {},
+    "exp": 15
+  },
+  "62895418349580": {
+    "jid": "62895418349580",
+    "rpg": {},
+    "exp": 15
   }
 }
