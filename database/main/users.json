@@ -47319,7 +47319,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:05:22.863Z",
+    "lastSeen": "2026-09-11T06:14:32.602Z",
     "cooldowns": {
       "brat": 1788965284702,
       "setwelcome": 1788856661379,
@@ -101691,7 +101691,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60349,
+    "exp": 60364,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119200,19 +119200,5 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
-  },
-  "6285624830105": {
-    "jid": "6285624830105"
-  },
-  "6289502640513": {
-    "jid": "6289502640513"
-  },
-  "6283180744202": {
-    "name": "denji",
-    "lastSeen": "2026-09-11T11:02:01.626Z",
-    "jid": "6283180744202"
-  },
-  "6285126089692": {
-    "jid": "6285126089692"
   }
 }
