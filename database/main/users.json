@@ -109005,7 +109005,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 240,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109015,13 +109015,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-07T13:27:42.288Z",
+    "lastSeen": "2026-09-11T11:27:49.350Z",
     "cooldowns": {
       "antilinkgc": 1788787359947,
       "antispam": 1788787394001,
       "antisticker": 1788787414562,
       "antitagsw": 1788787450716,
-      "mutegc": 1788787470944
+      "mutegc": 1789126070255
     },
     "clanId": null,
     "isRegistered": false,
@@ -109031,8 +109031,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 2
   },
   "6282190769098": {
     "name": "Ergio.",
