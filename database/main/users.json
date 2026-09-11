@@ -96181,7 +96181,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:19:57.291Z",
+    "lastSeen": "2026-09-11T10:02:17.328Z",
     "cooldowns": {
       "play": 1789034808063,
       "afk": 1789043970915,
@@ -119162,5 +119162,11 @@
     "jid": "6285832111882",
     "rpg": {},
     "exp": 15
+  },
+  "6283831872306": {
+    "jid": "6283831872306"
+  },
+  "6289652845423": {
+    "jid": "6289652845423"
   }
 }
