@@ -106826,7 +106826,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T06:08:45.618Z",
+    "lastSeen": "2026-09-11T09:55:43.744Z",
     "cooldowns": {
       "level": 1788945809165
     },
@@ -106838,8 +106838,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 3
   },
   "6285843475520": {
     "jid": "6285843475520",
@@ -117664,7 +117664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:54:48.065Z",
+    "lastSeen": "2026-09-11T09:55:38.891Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -119122,9 +119122,7 @@
     "jid": "6287798550881"
   },
   "6285785063453": {
-    "jid": "6285785063453",
-    "rpg": {},
-    "exp": 15
+    "jid": "6285785063453"
   },
   "6285809919362": {
     "jid": "6285809919362"
@@ -119159,10 +119157,5 @@
   },
   "6285185489030": {
     "jid": "6285185489030"
-  },
-  "6285832111882": {
-    "jid": "6285832111882",
-    "rpg": {},
-    "exp": 15
   }
 }
