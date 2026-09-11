@@ -26424,7 +26424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165891,
+    "exp": 165996,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26640,7 +26640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713628,
+    "exp": 713778,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281879,
+    "exp": 281909,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -95792,7 +95792,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95802,9 +95802,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:26:09.488Z",
+    "lastSeen": "2026-09-11T10:59:29.791Z",
     "cooldowns": {
-      "afk": 1788091298206,
+      "afk": 1789124371917,
       "play": 1789121180951,
       "smeme": 1788073480837,
       "s": 1788387880601,
@@ -119200,16 +119200,5 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
-  },
-  "6285624830105": {
-    "jid": "6285624830105"
-  },
-  "6289502640513": {
-    "jid": "6289502640513"
-  },
-  "6283180744202": {
-    "name": "denji",
-    "lastSeen": "2026-09-11T10:59:15.950Z",
-    "jid": "6283180744202"
   }
 }
