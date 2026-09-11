@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.getUserCount is not a function",
+      "at": 1789119355107
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getUserCount is not a function",
       "at": 1789117411679
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "fetch failed",
       "at": 1785310096558
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1785310074795
     }
   ],
   "jpmBlacklist": [],
