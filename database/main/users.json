@@ -119008,5 +119008,33 @@
     "rpg": {},
     "inventory": {},
     "access": []
+  },
+  "6283144731681": {
+    "jid": "6283144731681",
+    "name": "Unknown",
+    "number": "6283144731681",
+    "energi": 99999,
+    "isPremium": false,
+    "isBanned": false,
+    "exp": 15,
+    "level": 1,
+    "koin": 0,
+    "saldo": 0,
+    "unlockedFeatures": [],
+    "registeredAt": null,
+    "lastRegisteredAt": null,
+    "registrationCount": 0,
+    "hasClaimedRegisterReward": false,
+    "unregisteredAt": null,
+    "lastSeen": "2026-09-11T04:13:22.352Z",
+    "cooldowns": {},
+    "clanId": null,
+    "isRegistered": false,
+    "regName": null,
+    "regAge": null,
+    "regGender": null,
+    "rpg": {},
+    "inventory": {},
+    "access": []
   }
 }
