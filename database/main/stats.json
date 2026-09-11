@@ -1,6 +1,6 @@
 {
   "commandErrors": 578,
-  "commandsExecuted": 116145,
+  "commandsExecuted": 116147,
   "command_totalchat": 18,
   "command_menu": 1724,
   "command_fb": 5,
@@ -596,7 +596,7 @@
   "command_redeem": 167,
   "command_listcode": 33,
   "command_delcode": 3,
-  "command_toimg": 136,
+  "command_toimg": 137,
   "command_music": 13,
   "command_istirahat": 170,
   "command_lesby": 122,
@@ -1342,5 +1342,6 @@
   "command_ganti-ourin.mp3": 1,
   "command_upload": 1,
   "command_status2": 9,
-  "command_tenka": 6
+  "command_tenka": 6,
+  "command_rwaifu-nsfwvid": 1
 }
