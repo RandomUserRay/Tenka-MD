@@ -697,5 +697,21 @@
     "limit": 1,
     "claimedBy": [],
     "createdAt": 1789126190642
+  },
+  {
+    "code": "EXILE-6F26AF",
+    "type": "user",
+    "days": 3,
+    "limit": 1,
+    "claimedBy": [],
+    "createdAt": 1789126204243
+  },
+  {
+    "code": "EXILE-7AADA7",
+    "type": "user",
+    "days": 3,
+    "limit": 1,
+    "claimedBy": [],
+    "createdAt": 1789126204244
   }
 ]
