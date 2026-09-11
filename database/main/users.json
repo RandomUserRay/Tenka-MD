@@ -11510,7 +11510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32409,
+    "exp": 32454,
     "level": 1,
     "koin": 53348,
     "unlockedFeatures": [],
@@ -11519,10 +11519,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:08:58.789Z",
+    "lastSeen": "2026-09-11T14:09:29.986Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1785320499550,
+      "femboy": 1789135762729,
       "handsome": 1781865174539,
       "afk": 1783054537484,
       "tebaknegara": 1783149555979,
@@ -11550,7 +11550,7 @@
       "play": 1788011319625,
       "kerja": 1788080775042,
       "marry": 1789060323727,
-      "love": 1789135738932
+      "love": 1789135751209
     },
     "clanId": null,
     "isRegistered": false,
@@ -15975,10 +15975,10 @@
     "jid": "6285753061976",
     "name": "Hermes",
     "number": "6285753061976",
-    "energi": 9939,
+    "energi": 9935,
     "isPremium": true,
     "isBanned": false,
-    "exp": 10895539,
+    "exp": 10895764,
     "level": 1,
     "koin": 245671,
     "unlockedFeatures": [],
@@ -15987,7 +15987,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:08:48.009Z",
+    "lastSeen": "2026-09-11T14:09:21.629Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16067,7 +16067,7 @@
       "jualan": 1783002762602,
       "dice": 1782952155954,
       "kaya": 1782952590818,
-      "d": 1789135716995,
+      "d": 1789135750517,
       "gojek": 1782959159954,
       "hunt": 1782955361673,
       "confess": 1782989343462,
@@ -16202,7 +16202,7 @@
       "ytmp3": 1789051990194,
       "rwaifu-nsfwvid": 1789134942509,
       "cringevid": 1789135440264,
-      "nwaifuvid": 1789135729542
+      "nwaifuvid": 1789135763900
     },
     "clanId": null,
     "isRegistered": false,
@@ -105509,7 +105509,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105519,8 +105519,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:08:54.047Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-11T14:09:23.187Z",
+    "cooldowns": {
+      "menu": 1789135763913
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -105528,7 +105530,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 1
   },
   "6281295458260": {
     "jid": "6281295458260",
