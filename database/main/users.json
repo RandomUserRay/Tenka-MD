@@ -178,7 +178,7 @@
     "energi": -1,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135948410,
+    "exp": 135948485,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -333,7 +333,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51370,
+    "exp": 51385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -2334,7 +2334,10 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1789119365844
+    },
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -66694,9 +66697,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166985,
+    "exp": 167000,
     "level": 1,
-    "koin": 2099170886,
+    "koin": 2099120886,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66709,7 +66712,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:35:45.139Z",
+    "lastSeen": "2026-09-11T09:36:05.843Z",
     "cooldowns": {
       "afk": 1788092047156,
       "s": 1788092850120,
@@ -66742,7 +66745,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789119232818,
+      "marry": 1789119366102,
       "transfer": 1787746954807,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -66802,8 +66805,8 @@
       "maxStamina": 180,
       "bank": 0,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6281919730539@s.whatsapp.net",
+      "marriedAt": 1789119365844,
       "defense": 15,
       "fishing": 20
     },
@@ -119132,10 +119135,10 @@
   },
   "62895405466188": {
     "name": "Aᴢᴀᴢᴇʟʟ",
-    "lastSeen": "2026-09-11T09:26:02.913Z",
+    "lastSeen": "2026-09-11T09:35:55.097Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "cooldowns": {
       "s": 1789118764238
     },
