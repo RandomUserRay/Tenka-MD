@@ -109010,7 +109010,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109020,10 +109020,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:23:28.728Z",
+    "lastSeen": "2026-09-11T11:23:52.088Z",
     "cooldowns": {
       "antilinkgc": 1789125809016,
-      "antispam": 1788787394001,
+      "antispam": 1789125832354,
       "antisticker": 1788787414562,
       "antitagsw": 1789125787561,
       "mutegc": 1788787470944
