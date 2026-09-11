@@ -101685,15 +101685,15 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-11T11:14:31.858Z",
+    "lastSeen": "2026-09-11T11:15:47.668Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60364,
+    "exp": 61971,
     "level": 1,
-    "koin": 25150,
+    "koin": 41075,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101747,7 +101747,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 73,
+      "stamina": 63,
       "bank": 2365259,
       "health": 160,
       "maxHealth": 160,
@@ -101830,12 +101830,12 @@
     "jid": "16063130847",
     "name": "ライズ",
     "number": "16063130847",
-    "energi": 9999,
+    "energi": 99999999,
     "isPremium": true,
     "isBanned": false,
     "exp": 206495,
     "level": 1,
-    "koin": 16379,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101843,7 +101843,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:15:16.651Z",
+    "lastSeen": "2026-09-11T08:43:16.100Z",
     "cooldowns": {
       "redeem": 1789116198474
     },
@@ -101852,9 +101852,7 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "stamina": 90
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "lastActiveDate": "11/9/2026",
@@ -111326,7 +111324,7 @@
   },
   "6285147161439": {
     "jid": "6285147161439",
-    "name": "f1",
+    "name": "Unknown",
     "number": "6285147161439",
     "energi": 99999,
     "isPremium": false,
@@ -111341,7 +111339,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:15:27.199Z",
+    "lastSeen": "2026-09-08T15:12:01.080Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -119203,6 +119201,16 @@
     "rpg": {},
     "exp": 15
   },
+  "6281539964211": {
+    "jid": "6281539964211",
+    "rpg": {},
+    "exp": 15
+  },
+  "62882006652000": {
+    "jid": "62882006652000",
+    "rpg": {},
+    "exp": 15
+  },
   "6285624830105": {
     "jid": "6285624830105"
   },
@@ -119216,16 +119224,6 @@
   },
   "6285126089692": {
     "jid": "6285126089692"
-  },
-  "6281539964211": {
-    "jid": "6281539964211",
-    "rpg": {},
-    "exp": 15
-  },
-  "62882006652000": {
-    "jid": "62882006652000",
-    "rpg": {},
-    "exp": 15
   },
   "62895340689862": {
     "jid": "62895340689862"
