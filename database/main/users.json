@@ -1785,12 +1785,12 @@
   },
   "6283174193922": {
     "jid": "6283174193922",
-    "name": "Apocalypse",
+    "name": "Channel",
     "number": "6283174193922",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 640824,
+    "exp": 640974,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1799,7 +1799,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-05T11:19:21.809Z",
+    "lastSeen": "2026-09-11T11:11:27.786Z",
     "cooldowns": {
       "menu": 1784047213442,
       "owner": 1780107827338,
@@ -1851,8 +1851,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 5
   },
   "6281268965767": {
     "jid": "6281268965767",
@@ -3976,7 +3976,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95310,
+    "exp": 95325,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -7099,7 +7099,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 335990,
+    "exp": 336005,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 282119,
+    "exp": 282149,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -91467,7 +91467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95532,7 +95532,7 @@
   },
   "6281335565893": {
     "jid": "6281335565893",
-    "name": "Channel",
+    "name": "FellzOn",
     "number": "6281335565893",
     "energi": -1,
     "isPremium": true,
@@ -95547,7 +95547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:11:28.135Z",
+    "lastSeen": "2026-09-11T06:09:32.358Z",
     "cooldowns": {
       "jadibot": 1788425338963,
       "p": 1788359186987,
@@ -95569,8 +95569,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "9/9/2026",
+    "activeDays": 9
   },
   "6285817724197": {
     "name": "Fael",
@@ -106584,7 +106584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:11:37.461Z",
+    "lastSeen": "2026-09-11T10:36:15.078Z",
     "cooldowns": {
       "brat": 1789102234641,
       "bratcewek": 1788695614626,
@@ -119201,20 +119201,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6285624830105": {
-    "jid": "6285624830105"
-  },
-  "6289502640513": {
-    "jid": "6289502640513"
-  },
-  "6283180744202": {
-    "name": "denji",
-    "lastSeen": "2026-09-11T11:02:01.626Z",
-    "jid": "6283180744202"
-  },
-  "6285126089692": {
-    "jid": "6285126089692"
-  },
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
@@ -119224,8 +119210,5 @@
     "jid": "62882006652000",
     "rpg": {},
     "exp": 15
-  },
-  "62895340689862": {
-    "jid": "62895340689862"
   }
 }
