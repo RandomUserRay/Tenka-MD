@@ -333,7 +333,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51670,
+    "exp": 51715,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -402,7 +402,9 @@
       "stamina": 125,
       "maxStamina": 125,
       "bank": 7010121,
-      "luck": 6
+      "luck": 6,
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "coal": 1,
@@ -11510,16 +11512,16 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32529,
+    "exp": 32544,
     "level": 1,
-    "koin": 53348,
+    "koin": 3348,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:11:25.501Z",
+    "lastSeen": "2026-09-11T14:13:34.472Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11549,7 +11551,7 @@
       "stamina": 1787894244442,
       "play": 1788011319625,
       "kerja": 1788080775042,
-      "marry": 1789060323727,
+      "marry": 1789136014807,
       "love": 1789135885643,
       "cekfemboy": 1789135803002
     },
@@ -11567,8 +11569,8 @@
       "stamina": 45,
       "maxStamina": 110,
       "bank": 250000,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6283857834910@s.whatsapp.net",
+      "marriedAt": 1789136014473
     },
     "inventory": {
       "iron": 2
@@ -15976,10 +15978,10 @@
     "jid": "6285753061976",
     "name": "Hermes",
     "number": "6285753061976",
-    "energi": 9917,
+    "energi": 9909,
     "isPremium": true,
     "isBanned": false,
-    "exp": 10896814,
+    "exp": 10897414,
     "level": 1,
     "koin": 245671,
     "unlockedFeatures": [],
@@ -15988,7 +15990,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:11:38.351Z",
+    "lastSeen": "2026-09-11T14:13:26.309Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16068,7 +16070,7 @@
       "jualan": 1783002762602,
       "dice": 1782952155954,
       "kaya": 1782952590818,
-      "d": 1789135895122,
+      "d": 1789136006738,
       "gojek": 1782959159954,
       "hunt": 1782955361673,
       "confess": 1782989343462,
@@ -16164,7 +16166,7 @@
       "trap": 1783607403854,
       "rblowjobvid": 1783673673441,
       "waifu-nsfwvid": 1789135485444,
-      "femboyvid": 1789135893873,
+      "femboyvid": 1789135996055,
       "mcpedl": 1785221801096,
       "bite": 1785423752604,
       "hide": 1785217097116,
@@ -16203,7 +16205,7 @@
       "ytmp3": 1789051990194,
       "rwaifu-nsfwvid": 1789134942509,
       "cringevid": 1789135440264,
-      "nwaifuvid": 1789135903261
+      "nwaifuvid": 1789135988805
     },
     "clanId": null,
     "isRegistered": false,
@@ -16502,7 +16504,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233359,
+    "exp": 233374,
     "level": 1,
     "koin": 13114,
     "unlockedFeatures": [
@@ -16513,7 +16515,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T12:22:05.768Z",
+    "lastSeen": "2026-09-11T14:13:25.909Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16597,7 +16599,8 @@
       "terima": 1786715014345,
       "stat": 1786715037965,
       "marry": 1786715318956,
-      "love": 1788092530768
+      "love": 1788092530768,
+      "cerai": 1789136006045
     },
     "clanId": null,
     "isRegistered": false,
@@ -16639,8 +16642,8 @@
       "pasangan": "6283135864303@s.whatsapp.net",
       "jadiPacar": 1786715009248
     },
-    "lastActiveDate": "30/8/2026",
-    "activeDays": 2
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 3
   },
   "60146540094": {
     "jid": "60146540094",
@@ -53995,16 +53998,16 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13271,
+    "exp": 13346,
     "level": 1,
-    "koin": 6006906,
+    "koin": 5931906,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:09:44.268Z",
+    "lastSeen": "2026-09-11T14:13:24.506Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54028,11 +54031,12 @@
       "cekfemboy": 1789135786498,
       "pin": 1788353518587,
       "me": 1788354216245,
-      "marry": 1789060838310,
+      "marry": 1789135949843,
       "bank": 1789119452064,
       "profil": 1789119243016,
       "deposit": 1789119722960,
-      "love": 1789135570567
+      "love": 1789135570567,
+      "cerai": 1789136004842
     },
     "clanId": null,
     "isRegistered": false,
@@ -54047,7 +54051,9 @@
       "maxStamina": 105,
       "health": 110,
       "mana": 105,
-      "bank": 0
+      "bank": 0,
+      "spouse": "6283867242353@s.whatsapp.net",
+      "marriedAt": 1789136014473
     },
     "inventory": {},
     "access": [],
@@ -68495,13 +68501,13 @@
   },
   "6281324631258": {
     "name": "epic face mystery Daffa",
-    "lastSeen": "2026-09-11T14:11:54.894Z",
+    "lastSeen": "2026-09-11T14:13:25.196Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11017,
+    "exp": 11197,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -68525,7 +68531,7 @@
       "antimedia": 1789135914984,
       "setgoodbye": 1787998489048,
       "setrulesgrup": 1787998657817,
-      "rulesgrup": 1785676338375,
+      "rulesgrup": 1789135962426,
       "menucat": 1789135728783,
       "notiftidur": 1785676519088,
       "notifsholat": 1785676642375,
@@ -68555,7 +68561,7 @@
       "stacktower": 1788267892009,
       "pakustad": 1788875872594,
       "playvid": 1789042436121,
-      "game": 1789044914799
+      "game": 1789136005246
     },
     "clanId": null,
     "isRegistered": false,
@@ -95006,7 +95012,7 @@
     "energi": 99952,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14235,
+    "exp": 14265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105510,7 +105516,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105520,17 +105526,26 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:10:26.306Z",
+    "lastSeen": "2026-09-11T14:12:29.100Z",
     "cooldowns": {
       "menu": 1789135827063,
-      "menucat": 1789135805216
+      "menucat": 1789135805216,
+      "profile": 1789136009735
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "inventory": {},
     "access": [],
     "lastActiveDate": "11/9/2026",
@@ -119266,11 +119281,11 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 165,
+    "exp": 195,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-11T14:11:25.639Z",
+    "lastSeen": "2026-09-11T14:12:33.485Z",
     "cooldowns": {
-      "love": 1789135885800
+      "love": 1789135953602
     },
     "lastActiveDate": "11/9/2026",
     "activeDays": 1
