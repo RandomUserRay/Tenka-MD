@@ -30749,10 +30749,10 @@
     "jid": "6283188364167",
     "name": "arinn",
     "number": "6283188364167",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51789,
+    "exp": 51804,
     "level": 1,
     "koin": 24209,
     "unlockedFeatures": [],
@@ -30761,9 +30761,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T12:20:49.500Z",
+    "lastSeen": "2026-09-11T03:41:08.279Z",
     "cooldowns": {
-      "bratimg": 1788952287361,
+      "bratimg": 1789098078261,
       "tt": 1788633629407,
       "ttmp3": 1783344274939,
       "tupai": 1788586937417,
@@ -30803,8 +30803,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 8
   },
   "62881026921796": {
     "jid": "62881026921796",
@@ -104577,7 +104577,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33690,
+    "exp": 33705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104587,7 +104587,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T03:38:25.493Z",
+    "lastSeen": "2026-09-11T03:39:47.583Z",
     "cooldowns": {
       "menu": 1789057459598,
       "owner": 1788775980116,
