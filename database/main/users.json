@@ -27054,10 +27054,10 @@
     "jid": "6283129172027",
     "name": "Raadityaa S. M. / 7G",
     "number": "6283129172027",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12068659,
+    "exp": 12068674,
     "level": 1,
     "koin": 36635,
     "unlockedFeatures": [
@@ -27072,7 +27072,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T16:08:50.740Z",
+    "lastSeen": "2026-09-11T22:47:59.729Z",
     "cooldowns": {
       "afk": 1788994840695,
       "play": 1788179332776,
@@ -27193,7 +27193,7 @@
       "jokowi": 1783129387012,
       "wibu": 1783071707575,
       "yes": 1783086511393,
-      "bratimg": 1788097888707,
+      "bratimg": 1789166884234,
       "cekpsikopat": 1788098154130,
       "tochibi": 1783490108420,
       "artinama": 1785415399330,
@@ -27479,8 +27479,8 @@
     "settings": {
       "levelupNotif": false
     },
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 13
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 14
   },
   "6282288273572": {
     "jid": "6282288273572",
@@ -66505,7 +66505,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1350,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
