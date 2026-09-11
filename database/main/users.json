@@ -1,7 +1,7 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T08:42:24.358Z",
+    "lastSeen": "2026-09-11T08:44:00.968Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
@@ -61902,7 +61902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33150,
+    "exp": 33105,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101818,12 +101818,12 @@
   },
   "16063130847": {
     "jid": "16063130847",
-    "name": "ライズ",
+    "name": "Zay",
     "number": "16063130847",
     "energi": 99999999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 206495,
+    "exp": 206480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101833,10 +101833,8 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T08:43:16.100Z",
-    "cooldowns": {
-      "redeem": 1789116198474
-    },
+    "lastSeen": "2026-09-02T14:43:53.189Z",
+    "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101845,8 +101843,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "2/9/2026",
+    "activeDays": 3
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
