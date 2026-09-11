@@ -695,7 +695,9 @@
     "type": "user",
     "days": 3,
     "limit": 1,
-    "claimedBy": [],
+    "claimedBy": [
+      "62895425005352"
+    ],
     "createdAt": 1789126190642
   },
   {
