@@ -32977,7 +32977,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 552499,
+    "exp": 552514,
     "level": 1,
     "koin": 22086,
     "unlockedFeatures": [],
@@ -32986,7 +32986,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T08:29:05.314Z",
+    "lastSeen": "2026-09-11T13:17:27.369Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33142,7 +33142,7 @@
       "mulung": 1785672773595,
       "tebaknegara": 1785019853486,
       "gpt4o": 1785019935534,
-      "redeem": 1785065382182,
+      "redeem": 1789132648084,
       "money": 1785021120988,
       "boss": 1785021806670,
       "fishing": 1785672412518,
@@ -40162,7 +40162,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60825,
+    "exp": 60885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49526,7 +49526,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61860,
+    "exp": 61920,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61910,7 +61910,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33510,
+    "exp": 33570,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -119348,11 +119348,11 @@
   "6282114405489": {
     "jid": "6282114405489",
     "rpg": {},
-    "exp": 45
+    "exp": 90
   },
   "6281617308812": {
     "jid": "6281617308812",
     "rpg": {},
-    "exp": 90
+    "exp": 150
   }
 }
