@@ -7099,7 +7099,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 335885,
+    "exp": 335960,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 282104,
+    "exp": 282119,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -91467,7 +91467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97934,7 +97934,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1650,
+    "exp": 1665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104131,7 +104131,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:10:26.729Z",
+    "lastSeen": "2026-09-11T09:54:59.765Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -106584,7 +106584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:10:13.547Z",
+    "lastSeen": "2026-09-11T10:36:15.078Z",
     "cooldowns": {
       "brat": 1789102234641,
       "bratcewek": 1788695614626,
@@ -119201,20 +119201,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6285624830105": {
-    "jid": "6285624830105"
-  },
-  "6289502640513": {
-    "jid": "6289502640513"
-  },
-  "6283180744202": {
-    "name": "denji",
-    "lastSeen": "2026-09-11T11:02:01.626Z",
-    "jid": "6283180744202"
-  },
-  "6285126089692": {
-    "jid": "6285126089692"
-  },
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
@@ -119224,8 +119210,5 @@
     "jid": "62882006652000",
     "rpg": {},
     "exp": 15
-  },
-  "62895340689862": {
-    "jid": "62895340689862"
   }
 }
