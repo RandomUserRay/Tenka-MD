@@ -26424,7 +26424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165621,
+    "exp": 165651,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26433,9 +26433,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T11:40:26.715Z",
+    "lastSeen": "2026-09-11T10:07:00.644Z",
     "cooldowns": {
-      "afk": 1788354852950,
+      "afk": 1789121222518,
       "play": 1788575721219,
       "tebakkata": 1783582134240,
       "me": 1782879671146,
@@ -26557,8 +26557,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 7
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -66717,7 +66717,7 @@
     "cooldowns": {
       "afk": 1788092047156,
       "s": 1788092850120,
-      "play": 1789121077728,
+      "play": 1789121189089,
       "inv": 1786434391177,
       "profil": 1787746507275,
       "rob": 1787849540817,
