@@ -6511,8 +6511,8 @@
         "name": "Aexon"
       },
       "6285755379245@s.whatsapp.net": {
-        "count": 5318,
-        "lastChat": 1789114038580,
+        "count": 5320,
+        "lastChat": 1789114047478,
         "name": "Zay"
       },
       "6285835362050@s.whatsapp.net": {
@@ -37084,5 +37084,11 @@
     "rpg": true,
     "warnings": [],
     "chat": {}
+  },
+  "120363427651875935@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363427651875935@g.us"
   }
 }
