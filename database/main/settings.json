@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "db.getUserCount is not a function",
+      "at": 1789123903963
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getUserCount is not a function",
+      "at": 1789123896161
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * Plugin: PlayVideo\n * Plugin Name: Playvideo\n * Layout: Ultra-Responsive Full-Width Video Player with Gestures & Stream Stall Recovery\n * Theme",
       "at": 1789121304083
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "ENOSPC: no space left on device, write",
       "at": 1785330665898
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1785330610843
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1785329635389
     }
   ],
   "jpmBlacklist": [],
