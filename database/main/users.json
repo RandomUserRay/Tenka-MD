@@ -47312,7 +47312,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43026,
+    "exp": 42996,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -47321,7 +47321,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T12:12:12.388Z",
+    "lastSeen": "2026-09-11T12:11:51.532Z",
     "cooldowns": {
       "brat": 1788965284702,
       "setwelcome": 1788856661379,
@@ -47367,7 +47367,7 @@
       "gila": 1789044506539,
       "hapus": 1789052115533,
       "menucat": 1789051747357,
-      "redeem": 1789128734490
+      "redeem": 1789128715851
     },
     "clanId": null,
     "isRegistered": false,
@@ -95795,7 +95795,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3660,
+    "exp": 3675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95805,7 +95805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:59:29.791Z",
+    "lastSeen": "2026-09-11T12:12:13.951Z",
     "cooldowns": {
       "afk": 1789124371917,
       "play": 1789121180951,
@@ -104128,7 +104128,7 @@
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33033,
+    "exp": 33003,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104601,7 +104601,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35595,
+    "exp": 35565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111000,7 +111000,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5160,
+    "exp": 5145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119131,12 +119131,14 @@
     "jid": "6285710539888"
   },
   "6287798550881": {
-    "jid": "6287798550881"
+    "jid": "6287798550881",
+    "rpg": {},
+    "exp": 15
   },
   "6285785063453": {
     "jid": "6285785063453",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285809919362": {
     "jid": "6285809919362"
@@ -119256,6 +119258,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6289517928122": {
+    "jid": "6289517928122",
+    "rpg": {},
+    "exp": 30
+  },
   "6282114266039": {
     "jid": "6282114266039",
     "rpg": {},
@@ -119270,5 +119277,18 @@
     "jid": "62882016531448",
     "rpg": {},
     "exp": 30
+  },
+  "6285770048398": {
+    "jid": "6285770048398",
+    "rpg": {},
+    "exp": 30,
+    "name": "-endy",
+    "lastSeen": "2026-09-11T12:12:28.301Z",
+    "cooldowns": {
+      "play": 1789128750730
+    },
+    "energi": 24,
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 1
   }
 }
