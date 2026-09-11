@@ -32980,7 +32980,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:49:30.751Z",
+    "lastSeen": "2026-09-11T07:49:36.474Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33163,7 +33163,7 @@
       "8bit": 1785235669246,
       "maling": 1785236604490,
       "close": 1785247924006,
-      "slow": 1788672697227,
+      "slow": 1789112984448,
       "bratimg": 1785391624126,
       "bratsquidward": 1785391681201,
       "fisht": 1785400287206,
@@ -33296,8 +33296,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 11
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -106439,7 +106439,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2280,
+    "exp": 2295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106449,7 +106449,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:46:06.736Z",
+    "lastSeen": "2026-09-11T07:49:36.976Z",
     "cooldowns": {
       "play": 1788690805871
     },
