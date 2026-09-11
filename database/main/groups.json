@@ -37270,14 +37270,15 @@
     "jid": "120363329305856464@g.us",
     "chatStats": {
       "6285657369719@s.whatsapp.net": {
-        "count": 4,
-        "lastChat": 1789125832088,
+        "count": 5,
+        "lastChat": 1789125848566,
         "name": "RILL"
       }
     },
     "name": "Jb Steal an egg || Jayy x Rill",
     "antitagsw": "on",
     "antilinkgc": "on",
-    "antispam": "on"
+    "antispam": "on",
+    "antisticker": true
   }
 }
