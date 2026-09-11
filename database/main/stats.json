@@ -1,6 +1,6 @@
 {
   "commandErrors": 576,
-  "commandsExecuted": 116052,
+  "commandsExecuted": 116051,
   "command_totalchat": 18,
   "command_menu": 1721,
   "command_fb": 5,
@@ -507,7 +507,7 @@
   "command_gura": 4,
   "command_antivirtex": 2,
   "command_intro": 49,
-  "command_antilinkgc": 56,
+  "command_antilinkgc": 55,
   "command_removeexp": 1,
   "command_delexp": 4,
   "command_delkoin": 1,
@@ -559,7 +559,7 @@
   "command_asupan": 41,
   "command_rich": 20,
   "command_ban": 8,
-  "command_antitagsw": 26,
+  "command_antitagsw": 25,
   "command_sangean": 24,
   "command_antigs": 18,
   "command_goblok": 37,
@@ -1342,5 +1342,5 @@
   "command_ganti-ourin.mp3": 1,
   "command_upload": 1,
   "command_status2": 9,
-  "command_tenka": 3
+  "command_tenka": 4
 }
