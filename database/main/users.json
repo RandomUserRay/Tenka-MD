@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T11:00:29.106Z",
+    "lastSeen": "2026-09-11T10:51:43.960Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000008325,
+    "exp": 9000008250,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -1790,7 +1790,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 640824,
+    "exp": 640749,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -11510,7 +11510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32184,
+    "exp": 32169,
     "level": 1,
     "koin": 53348,
     "unlockedFeatures": [],
@@ -19651,7 +19651,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:18:20.795Z",
+    "lastSeen": "2026-09-11T11:00:51.938Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -20337,7 +20337,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T05:10:52.775Z",
+    "lastSeen": "2026-09-11T11:00:24.237Z",
     "cooldowns": {
       "menu": 1789103445420,
       "allmenu": 1786162234717,
@@ -26424,7 +26424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166116,
+    "exp": 165891,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26640,7 +26640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713868,
+    "exp": 713628,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -40955,7 +40955,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281939,
+    "exp": 281879,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -95532,7 +95532,7 @@
   },
   "6281335565893": {
     "jid": "6281335565893",
-    "name": "FellzOn",
+    "name": "𝘛𝑒𝑛𝑘𝑎 𝑀𝐷",
     "number": "6281335565893",
     "energi": -1,
     "isPremium": true,
@@ -95547,7 +95547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T06:09:32.358Z",
+    "lastSeen": "2026-09-11T11:02:08.869Z",
     "cooldowns": {
       "jadibot": 1788425338963,
       "p": 1788359186987,
@@ -95792,7 +95792,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3615,
+    "exp": 3600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95802,9 +95802,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:59:29.791Z",
+    "lastSeen": "2026-09-11T10:26:09.488Z",
     "cooldowns": {
-      "afk": 1789124371917,
+      "afk": 1788091298206,
       "play": 1789121180951,
       "smeme": 1788073480837,
       "s": 1788387880601,
@@ -104131,7 +104131,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:54:59.765Z",
+    "lastSeen": "2026-09-11T11:02:01.449Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -106584,7 +106584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:36:15.078Z",
+    "lastSeen": "2026-09-11T11:02:01.538Z",
     "cooldowns": {
       "brat": 1789102234641,
       "bratcewek": 1788695614626,
@@ -111408,7 +111408,7 @@
   },
   "6283876650371": {
     "jid": "6283876650371",
-    "name": "Unknown",
+    "name": "SatirSat",
     "number": "6283876650371",
     "energi": 99999,
     "isPremium": false,
@@ -111423,7 +111423,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:13:21.152Z",
+    "lastSeen": "2026-09-11T11:00:57.200Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -119200,5 +119200,19 @@
     "jid": "6283844257669",
     "rpg": {},
     "exp": 15
+  },
+  "6285624830105": {
+    "jid": "6285624830105"
+  },
+  "6289502640513": {
+    "jid": "6289502640513"
+  },
+  "6283180744202": {
+    "name": "denji",
+    "lastSeen": "2026-09-11T11:02:01.626Z",
+    "jid": "6283180744202"
+  },
+  "6285126089692": {
+    "jid": "6285126089692"
   }
 }
