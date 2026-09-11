@@ -15974,10 +15974,10 @@
     "jid": "6285753061976",
     "name": "Hermes",
     "number": "6285753061976",
-    "energi": 9965,
+    "energi": 9963,
     "isPremium": true,
     "isBanned": false,
-    "exp": 10893889,
+    "exp": 10893964,
     "level": 1,
     "koin": 245671,
     "unlockedFeatures": [],
@@ -15986,7 +15986,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:02:51.610Z",
+    "lastSeen": "2026-09-11T14:03:32.334Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -119256,7 +119256,7 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "62895622978537": {
     "jid": "62895622978537",
