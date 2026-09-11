@@ -47312,7 +47312,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42996,
+    "exp": 43026,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -47321,7 +47321,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T12:11:51.532Z",
+    "lastSeen": "2026-09-11T12:12:12.388Z",
     "cooldowns": {
       "brat": 1788965284702,
       "setwelcome": 1788856661379,
@@ -47367,7 +47367,7 @@
       "gila": 1789044506539,
       "hapus": 1789052115533,
       "menucat": 1789051747357,
-      "redeem": 1789128715851
+      "redeem": 1789128734490
     },
     "clanId": null,
     "isRegistered": false,
@@ -95795,7 +95795,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3675,
+    "exp": 3660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95805,7 +95805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T12:12:13.951Z",
+    "lastSeen": "2026-09-11T10:59:29.791Z",
     "cooldowns": {
       "afk": 1789124371917,
       "play": 1789121180951,
@@ -104128,7 +104128,7 @@
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33003,
+    "exp": 33033,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104601,7 +104601,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35565,
+    "exp": 35595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111000,7 +111000,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5145,
+    "exp": 5160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119255,11 +119255,6 @@
     "jid": "62895622978537",
     "rpg": {},
     "exp": 15
-  },
-  "6289517928122": {
-    "jid": "6289517928122",
-    "rpg": {},
-    "exp": 30
   },
   "6282114266039": {
     "jid": "6282114266039",
