@@ -333,7 +333,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51805,
+    "exp": 51820,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:07:41.340Z",
+    "lastSeen": "2026-09-11T14:26:18.701Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789120813120,
@@ -386,7 +386,8 @@
       "love": 1787825473919,
       "ship": 1788274809480,
       "unmute": 1788354303817,
-      "me": 1788354235596
+      "me": 1788354235596,
+      "mutegc": 1789136779380
     },
     "clanId": null,
     "isRegistered": false,
@@ -105518,7 +105519,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119283,7 +119284,7 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-11T14:21:26.615Z",
     "cooldowns": {
