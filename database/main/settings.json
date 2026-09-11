@@ -14,9 +14,7 @@
     "nama": "KOTA JAKARTA"
   },
   "onlyGc": true,
-  "onlyPc": {
-    "selfMode": false
-  },
+  "onlyPc": false,
   "giveaways": {},
   "botMode": "public",
   "audioMenu": true,
@@ -26,12 +24,8 @@
   "botRules": null,
   "goodbyeType": 5,
   "onlyAdmin": false,
-  "selfAdmin": {
-    "selfMode": false
-  },
-  "publicAdmin": {
-    "selfMode": false
-  },
+  "selfAdmin": false,
+  "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
   "lastLimitReset": "2026-09-09T17:00:00.109Z",
@@ -50,9 +44,7 @@
   "globalCustomReplies": [],
   "panelCreateLastUsed": 1775377733441,
   "autoJoinGc": false,
-  "autoSholat": {
-    "selfMode": false
-  },
+  "autoSholat": false,
   "errorLog": [
     {
       "cmd": "unknown",
@@ -13808,7 +13800,7 @@
     },
     "6283139380069@s.whatsapp.net": {
       "jid": "6283139380069@s.whatsapp.net",
-      "name": "shiro <3"
+      "name": "shiro( 白 ) >^<"
     },
     "6285643414063@s.whatsapp.net": {
       "jid": "6285643414063@s.whatsapp.net",
@@ -19518,18 +19510,12 @@
       "jid": "6289531453171@s.whatsapp.net",
       "name": "praja ¿"
     },
-    "6285785063453@s.whatsapp.net": {
-      "jid": "6285785063453@s.whatsapp.net",
-      "name": "novaysukasusu"
-    },
-    "6287798550881@s.whatsapp.net": {
-      "jid": "6287798550881@s.whatsapp.net",
-      "name": "Ren"
+    "6283872911210@s.whatsapp.net": {
+      "jid": "6283872911210@s.whatsapp.net",
+      "name": "Alfarizy👑"
     }
   },
-  "antiCall": {
-    "selfMode": false
-  },
+  "antiCall": false,
   "notifTidur": {
     "6285755379245@s.whatsapp.net_120363425284157814@g.us": {
       "sender": "6285755379245@s.whatsapp.net",
@@ -19769,14 +19755,5 @@
       "createdAt": 1788714774255
     }
   },
-  "jedaBcgc": 10000,
-  "autobio_interval": {
-    "selfMode": false
-  },
-  "autobio_status": {
-    "selfMode": false
-  },
-  "autobio_text": {
-    "selfMode": false
-  }
+  "jedaBcgc": 10000
 }
