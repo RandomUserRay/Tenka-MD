@@ -28475,10 +28475,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 294896,
+    "exp": 294911,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28489,11 +28489,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:53:32.617Z",
+    "lastSeen": "2026-09-11T10:53:49.812Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
-      "s": 1788699064810,
+      "s": 1789124013944,
       "brat": 1783160134077,
       "brathd": 1782800037546,
       "bratimg": 1788620366866,
@@ -28501,7 +28501,7 @@
       "open": 1788260834248,
       "bratvid": 1782929796745,
       "bratanime": 1782808622034,
-      "wm": 1788268283678,
+      "wm": 1789124030141,
       "autoreply": 1785061310347,
       "tembak": 1782838951748,
       "h": 1787983566333,
@@ -28685,8 +28685,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 10
   },
   "6285810482980": {
     "jid": "6285810482980",
@@ -95007,7 +95007,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:53:45.830Z",
+    "lastSeen": "2026-09-11T10:38:38.808Z",
     "cooldowns": {
       "tebaktebakan": 1787839676621,
       "brat": 1789049866141,
