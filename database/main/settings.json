@@ -19515,7 +19515,9 @@
       "name": "Alfarizy👑"
     }
   },
-  "antiCall": false,
+  "antiCall": {
+    "selfMode": false
+  },
   "notifTidur": {
     "6285755379245@s.whatsapp.net_120363425284157814@g.us": {
       "sender": "6285755379245@s.whatsapp.net",
