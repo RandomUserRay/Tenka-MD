@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T10:37:34.138Z",
+    "lastSeen": "2026-09-11T10:30:40.412Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000007350,
+    "exp": 9000006525,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -15972,7 +15972,7 @@
   },
   "6285753061976": {
     "jid": "6285753061976",
-    "name": "wem",
+    "name": "Hermes",
     "number": "6285753061976",
     "energi": 99984,
     "isPremium": false,
@@ -15986,7 +15986,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:37:59.377Z",
+    "lastSeen": "2026-09-11T10:33:24.483Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -26640,7 +26640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713568,
+    "exp": 713388,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -26649,7 +26649,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:36:29.339Z",
+    "lastSeen": "2026-09-10T13:40:15.980Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -26710,7 +26710,7 @@
       "ulartangga": 1782919769645,
       "ut": 1783048757033,
       "hd": 1786886124151,
-      "close": 1789122990325,
+      "close": 1786790072145,
       "cekkhodam": 1783354807012,
       "antitoxic": 1783471526929,
       "puisi": 1785019562189,
@@ -26877,8 +26877,8 @@
       "levelupNotif": true
     },
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "4/9/2026",
+    "activeDays": 7
   },
   "6281808207155": {
     "jid": "6281808207155",
@@ -40955,7 +40955,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281744,
+    "exp": 281534,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -77810,7 +77810,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94318,7 +94318,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2610,
+    "exp": 2565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95007,7 +95007,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T15:15:36.478Z",
+    "lastSeen": "2026-09-11T10:38:38.808Z",
     "cooldowns": {
       "tebaktebakan": 1787839676621,
       "brat": 1789049866141,
@@ -95062,8 +95062,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 12
   },
   "6285824912220": {
     "jid": "6285824912220",
@@ -95792,7 +95792,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101691,7 +101691,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60409,
+    "exp": 60349,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106584,7 +106584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:56:40.066Z",
+    "lastSeen": "2026-09-11T10:36:15.078Z",
     "cooldowns": {
       "brat": 1789102234641,
       "bratcewek": 1788695614626,
@@ -119175,5 +119175,8 @@
   },
   "6287882423267": {
     "jid": "6287882423267"
+  },
+  "6283178082149": {
+    "jid": "6283178082149"
   }
 }
