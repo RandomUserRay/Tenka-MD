@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51340,
+    "exp": 51355,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66693,7 +66693,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166910,
+    "exp": 166925,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66708,7 +66708,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:32:17.116Z",
+    "lastSeen": "2026-09-11T09:32:30.832Z",
     "cooldowns": {
       "afk": 1788092047156,
       "s": 1788092850120,
@@ -66783,7 +66783,8 @@
       "mencuri": 1786524651261,
       "training": 1786714751355,
       "tolak": 1786714790971,
-      "love": 1787746686240
+      "love": 1787746686240,
+      "cerai": 1789119151177
     },
     "clanId": null,
     "isRegistered": false,
