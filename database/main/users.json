@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-11T09:30:51.393Z",
+    "lastSeen": "2026-09-11T09:34:13.430Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000004200,
+    "exp": 9000004500,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -178,7 +178,7 @@
     "energi": -1,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135948185,
+    "exp": 135948335,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51355,
+    "exp": 51370,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,10 +342,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T10:47:18.131Z",
+    "lastSeen": "2026-09-11T09:33:58.435Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1786980224704,
+      "s": 1789119239424,
       "femboy": 1786026132221,
       "daily": 1780385975656,
       "profile": 1780316509481,
@@ -413,8 +413,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 4
   },
   "6285366861793": {
     "jid": "6285366861793",
@@ -3973,7 +3973,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95220,
+    "exp": 95235,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -53984,7 +53984,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13031,
+    "exp": 13046,
     "level": 1,
     "koin": 6906,
     "unlockedFeatures": [],
@@ -54018,7 +54018,8 @@
       "pin": 1788353518587,
       "me": 1788354216245,
       "marry": 1789060838310,
-      "bank": 1789060689362
+      "bank": 1789060689362,
+      "profil": 1789119243016
     },
     "clanId": null,
     "isRegistered": false,
@@ -66693,7 +66694,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166925,
+    "exp": 166955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66708,7 +66709,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T09:32:30.832Z",
+    "lastSeen": "2026-09-11T09:34:14.191Z",
     "cooldowns": {
       "afk": 1788092047156,
       "s": 1788092850120,
@@ -66741,7 +66742,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789119137780,
+      "marry": 1789119232818,
       "transfer": 1787746954807,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -95786,7 +95787,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3480,
+    "exp": 3495,
     "level": 1,
     "koin": 2000000,
     "saldo": 0,
@@ -101393,7 +101394,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119127,7 +119128,7 @@
   "6285161587720": {
     "jid": "6285161587720",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "62895405466188": {
     "name": "Aᴢᴀᴢᴇʟʟ",
