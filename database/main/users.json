@@ -104216,7 +104216,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45483,
+    "exp": 45498,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104226,7 +104226,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:58:01.513Z",
+    "lastSeen": "2026-09-12T22:36:16.144Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104242,7 +104242,7 @@
       "bratbahlil": 1788995128495,
       "antitoxic": 1788701110739,
       "level": 1789043734603,
-      "totalchat": 1789038517367,
+      "totalchat": 1789252576374,
       "wm": 1789127678370,
       "setwelcome": 1789179659227,
       "resetwelcome": 1788759445373,
@@ -104285,8 +104285,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 10
   },
   "6283844985660": {
     "jid": "6283844985660",
@@ -108779,7 +108779,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15,
+    "exp": 45,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120810,16 +120810,16 @@
     "exp": 30,
     "energi": 99999
   },
-  "6281917920424": {
-    "jid": "6281917920424",
-    "rpg": {},
-    "exp": 45,
-    "energi": 99999
-  },
   "6283857936156": {
     "jid": "6283857936156",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6281917920424": {
+    "jid": "6281917920424",
+    "rpg": {},
+    "exp": 45,
     "energi": 99999
   },
   "6282256746690": {
@@ -120857,10 +120857,5 @@
     "jid": "6285124906005",
     "rpg": {},
     "exp": 15
-  },
-  "162131374796815": {
-    "jid": "162131374796815",
-    "rpg": {},
-    "exp": 30
   }
 }
