@@ -20145,7 +20145,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39929,
+    "exp": 39944,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20154,7 +20154,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T19:10:32.664Z",
+    "lastSeen": "2026-09-12T19:19:37.676Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20219,7 +20219,7 @@
       "stopjadibot": 1789239904073,
       "h": 1789239820926,
       "ytmp4": 1789238808574,
-      "open": 1789240232971
+      "open": 1789240778139
     },
     "clanId": null,
     "isRegistered": false,
@@ -120849,6 +120849,6 @@
   "6285646582746": {
     "jid": "6285646582746",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
