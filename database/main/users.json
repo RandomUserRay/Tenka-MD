@@ -105029,7 +105029,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6915,
+    "exp": 6930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105039,12 +105039,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T12:10:52.337Z",
+    "lastSeen": "2026-09-12T17:39:19.331Z",
     "cooldowns": {
       "brat": 1788943189655,
       "bratimg": 1788943199349,
       "afk": 1788696465686,
-      "close": 1788693890404,
+      "close": 1789234759960,
       "buka": 1788693887483,
       "antitagsw": 1788661137296,
       "hapus": 1788661148977,
@@ -105072,8 +105072,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 8
   },
   "6285774467658": {
     "jid": "6285774467658",
