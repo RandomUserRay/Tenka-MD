@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T03:43:43.414Z",
+    "lastSeen": "2026-09-12T03:30:23.828Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000015375,
+    "exp": 9000015225,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -26651,7 +26651,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 714678,
+    "exp": 714663,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -87587,9 +87587,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 94506,
+    "exp": 95087,
     "level": 1,
-    "koin": 6820,
+    "koin": 12332,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -87597,11 +87597,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T10:16:41.563Z",
+    "lastSeen": "2026-09-12T03:43:41.939Z",
     "cooldowns": {
       "tiktokstalk": 1786266997831,
       "play": 1788058033910,
-      "afk": 1788267840355,
+      "afk": 1789184624938,
       "susun": 1786709576111,
       "tts": 1786257027671,
       "hd5": 1786182622540,
@@ -87623,7 +87623,7 @@
       "unmutegc": 1787563950659,
       "s": 1788672512888,
       "stacktower": 1788268082430,
-      "kerja": 1789045328635,
+      "kerja": 1789184596440,
       "tidur": 1788763613166,
       "slot": 1788615769653,
       "p": 1788868303655,
@@ -87666,7 +87666,7 @@
       "maxStamina": 145,
       "health": 190,
       "mana": 145,
-      "stamina": 65,
+      "stamina": 55,
       "bank": 300000
     },
     "inventory": {
@@ -87676,8 +87676,8 @@
       "gold": 1
     },
     "access": [],
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 11
   },
   "6283879684793": {
     "jid": "6283879684793",
@@ -104152,7 +104152,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36993,
+    "exp": 37053,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106476,7 +106476,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106990,7 +106990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3195,
+    "exp": 3270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110984,7 +110984,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3645,
+    "exp": 3660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114409,7 +114409,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9315,
+    "exp": 9330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119590,7 +119590,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 420,
+    "exp": 450,
     "energi": 99999
   },
   "6287743157331": {
@@ -119776,7 +119776,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-12T02:54:46.334Z"
   },
