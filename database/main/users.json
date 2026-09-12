@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T04:46:43.032Z",
+    "lastSeen": "2026-09-12T04:46:23.720Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000017400,
+    "exp": 9000017325,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -61763,10 +61763,10 @@
     "jid": "6281999293718",
     "name": "gtw",
     "number": "6281999293718",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 148464,
+    "exp": 148494,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -61775,10 +61775,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-09T12:48:56.407Z",
+    "lastSeen": "2026-09-12T04:46:40.629Z",
     "cooldowns": {
       "afk": 1788232334551,
-      "play": 1788958061819,
+      "play": 1789188417132,
       "mancing": 1784643047902,
       "susun": 1788241788337,
       "ytmp4": 1787933041178,
@@ -61804,8 +61804,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 6
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -119840,14 +119840,14 @@
     "rpg": {},
     "exp": 15
   },
-  "601140455019": {
-    "jid": "601140455019",
-    "rpg": {},
-    "exp": 15
-  },
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
     "exp": 105
+  },
+  "601140455019": {
+    "jid": "601140455019",
+    "rpg": {},
+    "exp": 15
   }
 }
