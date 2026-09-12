@@ -26193,7 +26193,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 79996,
+    "exp": 80011,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -26293,13 +26293,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 100,
-      "level": 8,
-      "health": 170,
-      "maxHealth": 170,
-      "mana": 135,
-      "maxMana": 135,
-      "maxStamina": 135
+      "stamina": 140,
+      "level": 9,
+      "health": 180,
+      "maxHealth": 180,
+      "mana": 140,
+      "maxMana": 140,
+      "maxStamina": 140
     },
     "inventory": {
       "trash": 1
@@ -101666,7 +101666,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1140,
+    "exp": 1155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104164,7 +104164,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40833,
+    "exp": 40848,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -110122,7 +110122,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2895,
+    "exp": 2910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120112,7 +120112,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 990
+    "exp": 1005
   },
   "6288245965331": {
     "jid": "6288245965331",
