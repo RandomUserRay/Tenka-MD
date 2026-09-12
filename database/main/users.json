@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 246965,
+    "exp": 247025,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34544,
+    "exp": 34694,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20348,7 +20348,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 218282,
+    "exp": 218297,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -47338,7 +47338,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44916,
+    "exp": 44886,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -50906,7 +50906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70152,
+    "exp": 70167,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -51344,7 +51344,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2655,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96220,7 +96220,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21555,
+    "exp": 21540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96334,7 +96334,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19080,
+    "exp": 19065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108439,7 +108439,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111432,7 +111432,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1605,
+    "exp": 1635,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111488,7 +111488,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119636,7 +119636,7 @@
   "62895411351907": {
     "jid": "62895411351907",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 99999
   },
   "6282295726030": {
@@ -119779,7 +119779,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2955,
+    "exp": 2970,
     "name": "yappink",
     "lastSeen": "2026-09-12T07:18:01.297Z",
     "cooldowns": {}
@@ -120242,7 +120242,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 2055
+    "exp": 2025
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120413,7 +120413,7 @@
   "6288271181870": {
     "jid": "6288271181870",
     "rpg": {},
-    "exp": 1185
+    "exp": 1155
   },
   "6282138010678": {
     "jid": "6282138010678",
@@ -120470,24 +120470,29 @@
     "rpg": {},
     "exp": 30
   },
-  "6287742720315": {
-    "jid": "6287742720315",
-    "rpg": {},
-    "exp": 240
-  },
   "6288267149277": {
     "jid": "6288267149277",
     "rpg": {},
     "exp": 90
+  },
+  "6287742720315": {
+    "jid": "6287742720315",
+    "rpg": {},
+    "exp": 225
+  },
+  "6282253097912": {
+    "jid": "6282253097912",
+    "rpg": {},
+    "exp": 15
   },
   "77072720822": {
     "jid": "77072720822",
     "rpg": {},
     "exp": 45
   },
-  "6282253097912": {
-    "jid": "6282253097912",
+  "62887437321342": {
+    "jid": "62887437321342",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   }
 }
