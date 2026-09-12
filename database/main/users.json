@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000025725,
+    "exp": 9000025875,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -20391,7 +20391,7 @@
       "top": 1782456993802,
       "cekcupu": 1782457024448,
       "benefitpremium": 1782556805088,
-      "tt": 1789218245248,
+      "tt": 1789218276085,
       "slot": 1784111329457,
       "me": 1784808815721,
       "tebaklagu": 1783748175706,
@@ -35154,7 +35154,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 992078,
+    "exp": 992108,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36199,7 +36199,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30409,
+    "exp": 30424,
     "level": 1,
     "koin": 217007,
     "unlockedFeatures": [],
@@ -120448,5 +120448,10 @@
     "jid": "6289673668220",
     "rpg": {},
     "exp": 90
+  },
+  "6283173469688": {
+    "jid": "6283173469688",
+    "rpg": {},
+    "exp": 15
   }
 }
