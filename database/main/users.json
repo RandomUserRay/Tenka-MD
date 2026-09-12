@@ -26651,7 +26651,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 714663,
+    "exp": 714678,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -87587,9 +87587,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95072,
+    "exp": 94506,
     "level": 1,
-    "koin": 12332,
+    "koin": 6820,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -87597,7 +87597,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T03:43:11.330Z",
+    "lastSeen": "2026-09-11T10:16:41.563Z",
     "cooldowns": {
       "tiktokstalk": 1786266997831,
       "play": 1788058033910,
@@ -87623,7 +87623,7 @@
       "unmutegc": 1787563950659,
       "s": 1788672512888,
       "stacktower": 1788268082430,
-      "kerja": 1789184596440,
+      "kerja": 1789045328635,
       "tidur": 1788763613166,
       "slot": 1788615769653,
       "p": 1788868303655,
@@ -87666,7 +87666,7 @@
       "maxStamina": 145,
       "health": 190,
       "mana": 145,
-      "stamina": 55,
+      "stamina": 65,
       "bank": 300000
     },
     "inventory": {
@@ -87676,8 +87676,8 @@
       "gold": 1
     },
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "10/9/2026",
+    "activeDays": 10
   },
   "6283879684793": {
     "jid": "6283879684793",
@@ -104152,7 +104152,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37008,
+    "exp": 36993,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106476,7 +106476,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106990,7 +106990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3225,
+    "exp": 3195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114409,7 +114409,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9330,
+    "exp": 9315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119590,7 +119590,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 435,
+    "exp": 420,
     "energi": 99999
   },
   "6287743157331": {
