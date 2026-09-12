@@ -19661,7 +19661,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 247520,
+    "exp": 247535,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20141,10 +20141,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37499,
+    "exp": 37544,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20153,7 +20153,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T15:37:45.834Z",
+    "lastSeen": "2026-09-12T18:33:51.499Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20168,7 +20168,7 @@
       "imut": 1782489484288,
       "menu": 1787923989406,
       "game": 1783175540145,
-      "play": 1784203739631,
+      "play": 1789238035005,
       "smeme": 1786967183980,
       "meme": 1783604031605,
       "tts": 1784289461217,
@@ -20216,7 +20216,8 @@
       "qrcustom": 1787924290619,
       "p": 1789218456023,
       "stopjadibot": 1789221201074,
-      "h": 1789218940657
+      "h": 1789218940657,
+      "ytmp4": 1789238042223
     },
     "clanId": null,
     "isRegistered": false,
@@ -20236,8 +20237,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 4
   },
   "6282182476988": {
     "jid": "6282182476988",
@@ -119654,7 +119655,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2085,
+    "exp": 2220,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
