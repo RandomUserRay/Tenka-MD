@@ -47340,7 +47340,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45231,
+    "exp": 45246,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -47349,7 +47349,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:22:56.964Z",
+    "lastSeen": "2026-09-12T14:24:22.116Z",
     "cooldowns": {
       "brat": 1789220228785,
       "setwelcome": 1789219706974,
@@ -47359,7 +47359,7 @@
       "addantilink": 1786916588878,
       "antilinkgc": 1788092902386,
       "tts": 1786941335743,
-      "afk": 1789221687869,
+      "afk": 1789223063216,
       "totalfitur": 1786923131369,
       "rvo": 1788875848659,
       "wm": 1789222977399,
@@ -96652,7 +96652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 270,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110988,7 +110988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16095,
+    "exp": 16110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112454,7 +112454,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113299,7 +113299,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10425,
+    "exp": 10470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119764,7 +119764,7 @@
   "6285789559239": {
     "jid": "6285789559239",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   },
   "628214436992": {
     "jid": "628214436992",
@@ -120265,7 +120265,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 2430
+    "exp": 2460
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120496,9 +120496,9 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 495,
+    "exp": 525,
     "name": ".",
-    "lastSeen": "2026-09-12T13:55:26.169Z"
+    "lastSeen": "2026-09-12T14:24:27.924Z"
   },
   "6288267149277": {
     "jid": "6288267149277",
