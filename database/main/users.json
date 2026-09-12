@@ -333,16 +333,16 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52930,
+    "exp": 52960,
     "level": 1,
-    "koin": 549193483,
+    "koin": 549168483,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:59:42.876Z",
+    "lastSeen": "2026-09-12T15:00:08.917Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -390,7 +390,8 @@
       "mutegc": 1789136779380,
       "transfer": 1789223180637,
       "judi": 1789223203774,
-      "marry": 1789225183293
+      "marry": 1789225183293,
+      "cerai": 1789225209046
     },
     "clanId": null,
     "isRegistered": false,
@@ -407,8 +408,8 @@
       "maxStamina": 125,
       "bank": 0,
       "luck": 6,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1789213557018
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "coal": 1,
@@ -66854,8 +66855,8 @@
       "maxStamina": 180,
       "bank": 1451862524,
       "attack": 21,
-      "spouse": "6289529899190@s.whatsapp.net",
-      "marriedAt": 1789213557018,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20,
       "luck": 9
