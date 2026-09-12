@@ -54010,7 +54010,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13926,
+    "exp": 13941,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54019,7 +54019,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:49:08.119Z",
+    "lastSeen": "2026-09-12T11:49:25.314Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -66729,10 +66729,10 @@
     "jid": "6283135864303",
     "name": "manipulasi",
     "number": "6283135864303",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167730,
+    "exp": 167830,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66747,7 +66747,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:49:04.962Z",
+    "lastSeen": "2026-09-12T11:49:24.189Z",
     "cooldowns": {
       "afk": 1789136184675,
       "s": 1789193262540,
@@ -66820,7 +66820,7 @@
       "mine": 1786714582915,
       "tambang": 1786714602186,
       "mencuri": 1786524651261,
-      "training": 1789120147612,
+      "training": 1789213767649,
       "tolak": 1786714790971,
       "love": 1789135841555,
       "cerai": 1789213540611
@@ -66836,7 +66836,7 @@
       "maxHealth": 260,
       "mana": 53,
       "maxMana": 180,
-      "stamina": 100,
+      "stamina": 78,
       "maxStamina": 180,
       "bank": 1451862524,
       "attack": 21,
@@ -66844,7 +66844,7 @@
       "marriedAt": 1789213557018,
       "defense": 15,
       "fishing": 20,
-      "luck": 7
+      "luck": 9
     },
     "inventory": {
       "iron": 7,
