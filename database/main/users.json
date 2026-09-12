@@ -96336,7 +96336,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19410,
+    "exp": 19455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104183,7 +104183,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44583,
+    "exp": 44598,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -110983,7 +110983,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15690,
+    "exp": 15705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111086,7 +111086,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6900,
+    "exp": 6915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111485,12 +111485,12 @@
   },
   "6283852628362": {
     "jid": "6283852628362",
-    "name": "Unknown",
+    "name": "kika bukan halodek",
     "number": "6283852628362",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111500,7 +111500,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:06:41.648Z",
+    "lastSeen": "2026-09-12T13:55:38.093Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -113810,7 +113810,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119698,7 +119698,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 2880,
+    "exp": 2910,
     "energi": 99999
   },
   "6287743157331": {
@@ -120244,7 +120244,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 2055
+    "exp": 2085
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120475,7 +120475,9 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 285
+    "exp": 300,
+    "name": ".",
+    "lastSeen": "2026-09-12T13:55:26.169Z"
   },
   "6288267149277": {
     "jid": "6288267149277",
