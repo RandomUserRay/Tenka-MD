@@ -20135,7 +20135,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32249,
+    "exp": 32354,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20144,7 +20144,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T07:09:47.614Z",
+    "lastSeen": "2026-09-12T07:10:23.743Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20205,7 +20205,8 @@
       "bratbahlil": 1787842906432,
       "qr": 1787924093420,
       "qrcustom": 1787924290619,
-      "p": 1789115845221
+      "p": 1789115845221,
+      "stopjadibot": 1789197013884
     },
     "clanId": null,
     "isRegistered": false,
