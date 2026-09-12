@@ -66733,12 +66733,12 @@
     "jid": "6283135864303",
     "name": "manipulasi",
     "number": "6283135864303",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 171283,
+    "exp": 171298,
     "level": 1,
-    "koin": 67879,
+    "koin": 56572,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66751,7 +66751,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:52:49.185Z",
+    "lastSeen": "2026-09-12T11:54:22.253Z",
     "cooldowns": {
       "afk": 1789136184675,
       "s": 1789193262540,
@@ -66836,7 +66836,7 @@
     "regGender": null,
     "rpg": {
       "level": 18,
-      "health": 270,
+      "health": 245,
       "maxHealth": 270,
       "mana": 185,
       "maxMana": 185,
