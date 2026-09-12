@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
+      "at": 1789228249247
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789228146055
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
       "at": 1786956589518
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1786894750397
     }
   ],
   "jpmBlacklist": [],
