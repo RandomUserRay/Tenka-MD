@@ -1234,7 +1234,7 @@
   "command_stalkml": 2,
   "command_hd5": 20,
   "command_nebang": 6,
-  "command_rulesgrup": 5,
+  "command_rulesgrup": 4,
   "command_speedtest": 8,
   "command_poke": 1,
   "command_sabar": 1,
@@ -1348,5 +1348,6 @@
   "command_blokir": 3,
   "command_anichin": 2,
   "command_livechart": 4,
-  "command_komikindo": 7
+  "command_komikindo": 7,
+  "command_komiku": 1
 }
