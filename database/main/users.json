@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T15:25:20.068Z",
+    "lastSeen": "2026-09-12T15:49:13.002Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000028125,
+    "exp": 9000028200,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -100326,7 +100326,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1305,
+    "exp": 1320,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101746,15 +101746,15 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T15:44:58.489Z",
+    "lastSeen": "2026-09-12T15:49:24.261Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99975,
+    "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7504,
+    "exp": 7534,
     "level": 1,
-    "koin": 108438,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101772,7 +101772,7 @@
       "gojek": 1789227743727,
       "kurir": 1789226509371,
       "ngemis": 1789225620123,
-      "bank": 1789226717577,
+      "bank": 1789228166689,
       "maling": 1789225607916,
       "menu": 1789225996126,
       "menucat": 1789226013344,
@@ -101826,7 +101826,7 @@
     "regGender": null,
     "rpg": {
       "stamina": 9,
-      "bank": 2746677,
+      "bank": 2855115,
       "health": 105,
       "maxHealth": 170,
       "mana": 53,
@@ -110170,7 +110170,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3510,
+    "exp": 3540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110322,7 +110322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 585,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120514,7 +120514,7 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 810,
+    "exp": 855,
     "name": "🦖🦖",
     "lastSeen": "2026-09-12T15:34:50.552Z"
   },
@@ -120636,5 +120636,10 @@
     "jid": "6287782798007",
     "rpg": {},
     "exp": 30
+  },
+  "62882010537728": {
+    "jid": "62882010537728",
+    "rpg": {},
+    "exp": 45
   }
 }
