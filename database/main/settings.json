@@ -49,6 +49,21 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1789197491413
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789197491239
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789197490679
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1789197013061
     },
     {
@@ -280,21 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1785452285658
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import * as botmodePlugin from \"../group/botmode.js\";\nimport { generateWAMessageFromContent, prepareWAMessageMedia, proto } from \"ourin\";\nimport _sha",
-      "at": 1785424264210
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import { getCaseCount, getCasesByCategory } from \"../../case/ourin.js\";\nimport {\n  prepareWAMessageMedia,\n  generateWAMessageFromContent,\n  proto,\n} ",
-      "at": 1785415458837
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import * as botmodePlugin from \"../group/botmode.js\";\nimport { getCasesByCategory } from \"../../case/ourin.js\";\nimport { prepareWAMessageMedia, gener",
-      "at": 1785415449972
     }
   ],
   "jpmBlacklist": [],
