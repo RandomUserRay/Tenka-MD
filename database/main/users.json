@@ -104153,10 +104153,10 @@
     "jid": "62895626761698",
     "name": "hyykai1445th",
     "number": "62895626761698",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39693,
+    "exp": 39708,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104166,7 +104166,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T07:04:56.132Z",
+    "lastSeen": "2026-09-12T07:11:43.663Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -119990,9 +119990,15 @@
   "6282178099123": {
     "jid": "6282178099123",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "user",
-    "lastSeen": "2026-09-12T06:58:25.633Z"
+    "lastSeen": "2026-09-12T07:11:41.629Z",
+    "cooldowns": {
+      "s": 1789197101828
+    },
+    "energi": 24,
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6281533729878": {
     "jid": "6281533729878",
