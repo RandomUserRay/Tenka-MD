@@ -19652,7 +19652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 245120,
+    "exp": 245135,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -50891,7 +50891,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69207,
+    "exp": 69222,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -92920,10 +92920,10 @@
     "jid": "6282180208289",
     "name": "i lav you",
     "number": "6282180208289",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32193,
+    "exp": 32208,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -92933,7 +92933,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T06:41:18.138Z",
+    "lastSeen": "2026-09-12T06:47:47.338Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -94342,7 +94342,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2700,
+    "exp": 2730,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119498,7 +119498,7 @@
   "6283135066630": {
     "jid": "6283135066630",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6281937971174": {
@@ -119516,13 +119516,13 @@
   "6281993144833": {
     "jid": "6281993144833",
     "rpg": {},
-    "exp": 855,
+    "exp": 870,
     "energi": 99999
   },
   "6289691343688": {
     "jid": "6289691343688",
     "rpg": {},
-    "exp": 1215,
+    "exp": 1245,
     "energi": 99999
   },
   "6283179471359": {
@@ -119983,6 +119983,11 @@
   "6281533729878": {
     "jid": "6281533729878",
     "rpg": {},
-    "exp": 75
+    "exp": 105
+  },
+  "6283180802449": {
+    "jid": "6283180802449",
+    "rpg": {},
+    "exp": 15
   }
 }
