@@ -34083,7 +34083,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 274950,
+    "exp": 274920,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61763,10 +61763,10 @@
     "jid": "6281999293718",
     "name": "gtw",
     "number": "6281999293718",
-    "energi": 99992,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 148719,
+    "exp": 148704,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -61775,7 +61775,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T05:15:01.140Z",
+    "lastSeen": "2026-09-12T05:09:44.330Z",
     "cooldowns": {
       "afk": 1788232334551,
       "play": 1789189226344,
@@ -91517,7 +91517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10125,
+    "exp": 10140,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106992,7 +106992,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3765,
+    "exp": 3750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113412,7 +113412,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1095,
+    "exp": 1080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119840,15 +119840,15 @@
     "rpg": {},
     "exp": 15
   },
-  "6285714269757": {
-    "jid": "6285714269757",
-    "rpg": {},
-    "exp": 120
-  },
   "601140455019": {
     "jid": "601140455019",
     "rpg": {},
     "exp": 15
+  },
+  "6285714269757": {
+    "jid": "6285714269757",
+    "rpg": {},
+    "exp": 120
   },
   "6288975219061": {
     "jid": "6288975219061",
