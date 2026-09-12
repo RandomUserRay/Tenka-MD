@@ -19661,7 +19661,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 249395,
+    "exp": 249425,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20145,7 +20145,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39854,
+    "exp": 39554,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20154,7 +20154,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T19:01:42.361Z",
+    "lastSeen": "2026-09-12T19:01:42.358Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20189,7 +20189,7 @@
       "tt": 1787637951231,
       "ttmp3": 1783928174035,
       "rest": 1784381733654,
-      "jadibot": 1789239585863,
+      "jadibot": 1789217952680,
       "hytamkan": 1784272025393,
       "robloxstalk": 1784215676238,
       "igstalk": 1784215812763,
@@ -20217,7 +20217,7 @@
       "qrcustom": 1787924290619,
       "p": 1789239225020,
       "stopjadibot": 1789221201074,
-      "h": 1789218940657,
+      "h": 1789239688279,
       "ytmp4": 1789238808574
     },
     "clanId": null,
@@ -95599,7 +95599,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438310,
+    "exp": 438280,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -113715,7 +113715,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120807,16 +120807,16 @@
     "exp": 30,
     "energi": 99999
   },
-  "6281917920424": {
-    "jid": "6281917920424",
-    "rpg": {},
-    "exp": 45,
-    "energi": 99999
-  },
   "6283857936156": {
     "jid": "6283857936156",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6281917920424": {
+    "jid": "6281917920424",
+    "rpg": {},
+    "exp": 45,
     "energi": 99999
   },
   "6282256746690": {
@@ -120843,6 +120843,6 @@
   "6281211487922": {
     "jid": "6281211487922",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
