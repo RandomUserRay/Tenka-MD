@@ -19652,7 +19652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 245165,
+    "exp": 245195,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20135,7 +20135,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31409,
+    "exp": 31424,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50891,7 +50891,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69222,
+    "exp": 69267,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -59285,7 +59285,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 495,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96194,10 +96194,10 @@
     "jid": "6282197189273",
     "name": "adalah🤓",
     "number": "6282197189273",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21255,
+    "exp": 21285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96207,7 +96207,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T12:24:10.561Z",
+    "lastSeen": "2026-09-12T06:53:23.231Z",
     "cooldowns": {
       "play": 1789034808063,
       "afk": 1789043970915,
@@ -104155,7 +104155,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38583,
+    "exp": 38658,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104165,7 +104165,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T05:48:22.334Z",
+    "lastSeen": "2026-09-12T06:53:21.236Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -107119,7 +107119,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2115,
+    "exp": 2130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111051,7 +111051,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5655,
+    "exp": 5670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119318,7 +119318,9 @@
   },
   "6285126089692": {
     "jid": "6285126089692",
-    "energi": 99999
+    "energi": 99999,
+    "rpg": {},
+    "exp": 30
   },
   "62895340689862": {
     "jid": "62895340689862",
@@ -119517,7 +119519,7 @@
   "6281993144833": {
     "jid": "6281993144833",
     "rpg": {},
-    "exp": 870,
+    "exp": 885,
     "energi": 99999
   },
   "6289691343688": {
@@ -119596,7 +119598,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 495,
+    "exp": 525,
     "energi": 99999
   },
   "6287743157331": {
@@ -119671,7 +119673,7 @@
   "6287783847358": {
     "jid": "6287783847358",
     "rpg": {},
-    "exp": 1890
+    "exp": 1950
   },
   "6289522754504": {
     "jid": "6289522754504",
@@ -119949,7 +119951,7 @@
   "6283191959034": {
     "jid": "6283191959034",
     "rpg": {},
-    "exp": 135
+    "exp": 180
   },
   "628976423234": {
     "jid": "628976423234",
@@ -120009,10 +120011,15 @@
   "6285754333724": {
     "jid": "6285754333724",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6283157474018": {
     "jid": "6283157474018",
+    "rpg": {},
+    "exp": 60
+  },
+  "6288245965331": {
+    "jid": "6288245965331",
     "rpg": {},
     "exp": 15
   }
