@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 246455,
+    "exp": 246440,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19668,7 +19668,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:10:31.065Z",
+    "lastSeen": "2026-09-12T13:07:51.977Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19733,7 +19733,7 @@
       "ngemis": 1784462520758,
       "kurir": 1784445055350,
       "d": 1784442466559,
-      "h": 1789218631775,
+      "h": 1784451430813,
       "tutup": 1784451423720,
       "nyapu": 1784462534213,
       "gacha": 1784443885175,
@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34289,
+    "exp": 34214,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -21167,7 +21167,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68412,
+    "exp": 68397,
     "level": 1,
     "koin": 107580,
     "unlockedFeatures": [],
@@ -104656,7 +104656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37560,
+    "exp": 37575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106388,7 +106388,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5010,
+    "exp": 5025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106398,7 +106398,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T02:37:08.070Z",
+    "lastSeen": "2026-09-12T13:11:12.050Z",
     "cooldowns": {
       "owner": 1789046788721,
       "menu": 1789176557537,
@@ -120459,6 +120459,6 @@
   "6285757873904": {
     "jid": "6285757873904",
     "rpg": {},
-    "exp": 45
+    "exp": 30
   }
 }
