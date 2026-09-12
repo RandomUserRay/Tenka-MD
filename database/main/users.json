@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T02:42:31.226Z",
+    "lastSeen": "2026-09-12T02:37:40.729Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000013050,
+    "exp": 9000012825,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -40172,7 +40172,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61440,
+    "exp": 61395,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49536,7 +49536,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64335,
+    "exp": 64320,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72442,7 +72442,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7785,
+    "exp": 7725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72451,9 +72451,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T02:42:44.189Z",
+    "lastSeen": "2026-09-12T02:42:02.520Z",
     "cooldowns": {
-      "truth": 1789180964259,
+      "truth": 1788255165590,
       "femboy": 1785157098523,
       "s": 1789169168573,
       "wm": 1788172868205,
@@ -72466,8 +72466,7 @@
       "smeme": 1788172815672,
       "dare": 1788216762008,
       "siapa": 1788151982169,
-      "menu": 1789180926153,
-      "level": 1789180936192
+      "menu": 1789180926153
     },
     "clanId": null,
     "isRegistered": false,
@@ -107114,7 +107113,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2055,
+    "exp": 2085,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119717,7 +119716,7 @@
   "6285973657106": {
     "jid": "6285973657106",
     "rpg": {},
-    "exp": 90
+    "exp": 45
   },
   "16092151875": {
     "name": "ゼクサ",
@@ -119782,6 +119781,11 @@
     "jid": "6282172727718",
     "rpg": {},
     "exp": 15
+  },
+  "628214644116": {
+    "jid": "628214644116",
+    "rpg": {},
+    "exp": 30
   },
   "6285813610089": {
     "jid": "6285813610089",
