@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789197013061
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
       "at": 1789193657045
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import * as botmodePlugin from \"../group/botmode.js\";\nimport { getCasesByCategory } from \"../../case/ourin.js\";\nimport { prepareWAMessageMedia, gener",
       "at": 1785415449972
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1785332638001
     }
   ],
   "jpmBlacklist": [],
