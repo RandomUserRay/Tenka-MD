@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789219132549
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789219030871
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
       "at": 1785497633212
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
-      "at": 1785491911902
     }
   ],
   "jpmBlacklist": [],
