@@ -101746,13 +101746,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T15:21:11.246Z",
+    "lastSeen": "2026-09-12T15:21:32.431Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 120,
+    "exp": 150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101807,7 +101807,8 @@
       "rob": 1789213679676,
       "judi": 1789226458098,
       "buykoin": 1789226297869,
-      "casino": 1789226388213
+      "casino": 1789226388213,
+      "rest": 1789226486945
     },
     "clanId": null,
     "isRegistered": false,
@@ -101815,9 +101816,9 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 13,
+      "stamina": 61,
       "bank": 2734932,
-      "health": 75,
+      "health": 105,
       "maxHealth": 170,
       "mana": 53,
       "level": 8,
