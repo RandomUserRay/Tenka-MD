@@ -474,7 +474,8 @@
         "06:00_2026-09-11": true,
         "14:00_2026-09-11": true,
         "19:00_2026-09-11": true,
-        "06:00_2026-09-12": true
+        "06:00_2026-09-12": true,
+        "14:00_2026-09-12": true
       },
       "createdAt": 1788349424120
     },
@@ -21119,6 +21120,10 @@
     "6287867574067@s.whatsapp.net": {
       "jid": "6287867574067@s.whatsapp.net",
       "name": "Leonardo dicapgagal"
+    },
+    "6288971891700@s.whatsapp.net": {
+      "jid": "6288971891700@s.whatsapp.net",
+      "name": "Fahri"
     }
   },
   "antiCall": false,
