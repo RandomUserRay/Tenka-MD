@@ -16004,7 +16004,7 @@
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1789219250864,
+      "play": 1789255608052,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1787557785390,
@@ -16273,8 +16273,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 13
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 14
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -104216,7 +104216,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45888,
+    "exp": 45918,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104226,7 +104226,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T23:25:33.455Z",
+    "lastSeen": "2026-09-12T23:26:46.722Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104237,7 +104237,7 @@
       "bratanime": 1788692052231,
       "brathd": 1788693520600,
       "bratvid2": 1788693575190,
-      "tagall": 1789255533517,
+      "tagall": 1789255606987,
       "bratgojo": 1788694626254,
       "bratbahlil": 1788995128495,
       "antitoxic": 1788701110739,
@@ -106581,7 +106581,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2790,
+    "exp": 2805,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119757,7 +119757,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 3210,
+    "exp": 3225,
     "energi": 99999
   },
   "6287743157331": {
@@ -120871,13 +120871,15 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "Edin",
-    "lastSeen": "2026-09-12T23:25:52.339Z",
+    "lastSeen": "2026-09-12T23:26:28.079Z",
     "cooldowns": {
-      "menu": 1789255554144
+      "menu": 1789255554144,
+      "ytmp4": 1789255594891
     },
     "lastActiveDate": "13/9/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 23
   }
 }
