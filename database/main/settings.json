@@ -48,8 +48,8 @@
   "errorLog": [
     {
       "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789226378100
+      "err": "Connection Closed",
+      "at": 1789226401871
     },
     {
       "cmd": "unknown",
@@ -21825,10 +21825,6 @@
     "62895360306279@s.whatsapp.net": {
       "jid": "62895360306279@s.whatsapp.net",
       "name": "sstihnaa"
-    },
-    "6281248743572@s.whatsapp.net": {
-      "jid": "6281248743572@s.whatsapp.net",
-      "name": "ello"
     }
   },
   "antiCall": false,
