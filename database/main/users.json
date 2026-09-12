@@ -49533,7 +49533,7 @@
     "jid": "62895422975851",
     "name": "˚₊‧꒰აchelss໒꒱ ‧₊˚",
     "number": "62895422975851",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
     "exp": 63990,
@@ -49545,10 +49545,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-09T15:32:18.702Z",
+    "lastSeen": "2026-09-12T01:00:25.029Z",
     "cooldowns": {
       "sticker": 1785637726308,
-      "stiker": 1788599721508,
+      "stiker": 1789174828627,
       "stickerpack": 1785643432263,
       "play": 1787626711466,
       "ytmp4": 1785676337814,
@@ -49580,8 +49580,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 4
   },
   "6283179051259": {
     "jid": "6283179051259",
@@ -104150,7 +104150,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33783,
+    "exp": 33843,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -112636,7 +112636,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15,
+    "exp": 30,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114137,7 +114137,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119382,7 +119382,7 @@
   "6285161715192": {
     "jid": "6285161715192",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "62895402520016": {
@@ -119690,7 +119690,7 @@
   "6285178117812": {
     "jid": "6285178117812",
     "rpg": {},
-    "exp": 270
+    "exp": 255
   },
   "6285738094766": {
     "jid": "6285738094766",
@@ -119701,17 +119701,5 @@
     "jid": "6285973657106",
     "rpg": {},
     "exp": 15
-  },
-  "16092151875": {
-    "name": "ゼクサ",
-    "lastSeen": "2026-09-12T00:59:57.674Z",
-    "jid": "16092151875",
-    "rpg": {},
-    "exp": 15,
-    "cooldowns": {
-      "jadibot": 1789174801266
-    },
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 1
   }
 }
