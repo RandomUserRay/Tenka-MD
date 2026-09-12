@@ -101746,15 +101746,15 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T15:25:35.853Z",
+    "lastSeen": "2026-09-12T15:28:07.469Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2498,
+    "exp": 2513,
     "level": 1,
-    "koin": 7972,
+    "koin": 6972,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101812,7 +101812,8 @@
       "gift": 1789226578659,
       "guild": 1789226627817,
       "lottery": 1789226682578,
-      "nyapu": 1789226739091
+      "nyapu": 1789226739091,
+      "shop": 1789226888335
     },
     "clanId": null,
     "isRegistered": false,
@@ -101839,7 +101840,8 @@
       "sampah": 37,
       "koran": 7,
       "rock": 5,
-      "coal": 2
+      "coal": 2,
+      "stamina": 1
     },
     "access": [],
     "lastActiveDate": "12/9/2026",
@@ -104675,7 +104677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38730,
+    "exp": 38745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120602,6 +120604,11 @@
   },
   "628211785712": {
     "jid": "628211785712",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285753188129": {
+    "jid": "6285753188129",
     "rpg": {},
     "exp": 15
   }
