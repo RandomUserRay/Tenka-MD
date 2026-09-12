@@ -28,7 +28,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-09-12T17:00:00.044Z",
+  "lastLimitReset": "2026-09-12T17:00:00.050Z",
   "onlyThisGroup": false,
   "autoJpm": {
     "enabled": false,
@@ -21937,10 +21937,6 @@
     "6281318498997@s.whatsapp.net": {
       "jid": "6281318498997@s.whatsapp.net",
       "name": "JR_ALFAtihx Yorichi"
-    },
-    "6285371047110@s.whatsapp.net": {
-      "jid": "6285371047110@s.whatsapp.net",
-      "name": "Zihuw ganteng"
     }
   },
   "antiCall": false,
@@ -22167,8 +22163,7 @@
       "lastSent": {
         "00:00_2026-09-07": true,
         "00:00_2026-09-08": true,
-        "00:00_2026-09-09": true,
-        "00:00_2026-09-12": true
+        "00:00_2026-09-09": true
       },
       "createdAt": 1788714774255
     }
