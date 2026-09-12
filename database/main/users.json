@@ -20135,7 +20135,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32744,
+    "exp": 32819,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50892,7 +50892,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69687,
+    "exp": 69702,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -119535,7 +119535,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1650,
+    "exp": 1665,
     "energi": 99997,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -119699,7 +119699,7 @@
   "6287783847358": {
     "jid": "6287783847358",
     "rpg": {},
-    "exp": 2550
+    "exp": 2565
   },
   "6289522754504": {
     "jid": "6289522754504",
@@ -120021,12 +120021,21 @@
   },
   "6282178099123": {
     "jid": "6282178099123",
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "exp": 600,
     "name": "user",
     "lastSeen": "2026-09-12T07:16:57.599Z",
     "cooldowns": {
-      "s": 1789197343473
+      "s": 1789197343473,
+      "me": 1789197437919
     },
     "energi": 22,
     "lastActiveDate": "12/9/2026",
