@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T16:47:51.291Z",
+    "lastSeen": "2026-09-12T16:47:59.227Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000030525,
+    "exp": 9000030375,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -1797,7 +1797,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 642489,
+    "exp": 642414,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -89925,7 +89925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14460,
+    "exp": 14415,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92947,10 +92947,10 @@
     "jid": "6282180208289",
     "name": "i lav you",
     "number": "6282180208289",
-    "energi": 99991,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33018,
+    "exp": 33078,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -92960,7 +92960,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:17:01.338Z",
+    "lastSeen": "2026-09-12T16:48:17.771Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -92968,10 +92968,12 @@
       "level": 1788883562237,
       "afk": 1788952895171,
       "playvid": 1788953194216,
-      "play": 1789211829936,
+      "play": 1789231574242,
       "smeme": 1789191766740,
-      "brat": 1789211583933,
-      "bratimg": 1789211763733
+      "brat": 1789231582808,
+      "bratimg": 1789211763733,
+      "bratanime": 1789231600652,
+      "allmenu": 1789231698321
     },
     "clanId": null,
     "isRegistered": false,
@@ -95591,7 +95593,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438205,
+    "exp": 438280,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -107692,7 +107694,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110518,7 +110520,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113121,7 +113123,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 705,
+    "exp": 735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120647,14 +120649,14 @@
     "rpg": {},
     "exp": 30
   },
-  "6281917920424": {
-    "jid": "6281917920424",
-    "rpg": {},
-    "exp": 45
-  },
   "6283857936156": {
     "jid": "6283857936156",
     "rpg": {},
     "exp": 15
+  },
+  "6281917920424": {
+    "jid": "6281917920424",
+    "rpg": {},
+    "exp": 45
   }
 }
