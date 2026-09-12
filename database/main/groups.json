@@ -35394,8 +35394,8 @@
         "name": "Refan"
       },
       "62895626761698@s.whatsapp.net": {
-        "count": 1960,
-        "lastChat": 1789186170716,
+        "count": 1962,
+        "lastChat": 1789186306748,
         "name": "hyykai1445th"
       },
       "6282228208217@s.whatsapp.net": {
@@ -35414,8 +35414,8 @@
         "name": "wopss"
       },
       "6288802135551@s.whatsapp.net": {
-        "count": 268,
-        "lastChat": 1789186297152,
+        "count": 269,
+        "lastChat": 1789186306572,
         "name": "•"
       },
       "6289630995884@s.whatsapp.net": {
@@ -37881,14 +37881,16 @@
   "120363430032169857@g.us": {
     "chatStats": {
       "6281234474465@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1789186275164,
+        "count": 11,
+        "lastChat": 1789186307866,
         "name": "𝗛𝗬 𝗥𝗮𝗺𝘇𝘇 𝗫 𝗔𝗣 𝗞𝗶𝗻𝗴"
       }
     },
     "jid": "120363430032169857@g.us",
     "name": "👑 𝗙𝗿𝗲𝗲 𝗙𝗶𝗿𝗲 𝗫 𝗣𝗿𝗼𝗺𝗼 𝗚𝘂𝗻𝗰𝗮𝗻𝗴 𝟭𝟬.𝟭𝟬 👑",
-    "antilinkall": "on"
+    "antilinkall": "on",
+    "goodbye": true,
+    "leave": true
   },
   "120363429561022300@g.us": {
     "chatStats": {
