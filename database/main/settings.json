@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789203614931
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789197491413
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import path from \"node:path\";\nimport axios from \"axios\";\n\nconst BASE_URL = \"https://spotisaver.net\";\nconst LANG = \"en\";\nconst FILENAME_TAG = \"OURIN\";",
       "at": 1785462405808
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1785452285658
     }
   ],
   "jpmBlacklist": [],
