@@ -14935,7 +14935,7 @@
       "ping": 1781510681885,
       "stopjadibot": 1781511091705,
       "menucat": 1786939586822,
-      "play": 1788878373272,
+      "play": 1789213300327,
       "cektinggi": 1782731774869,
       "cekpsikopat": 1781512009572,
       "cekvillain": 1781519834681,
@@ -15217,8 +15217,8 @@
     },
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "8/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 4
   },
   "6282261512336": {
     "jid": "6282261512336",
@@ -113278,7 +113278,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9405,
+    "exp": 9420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120357,5 +120357,10 @@
     "jid": "628139594763",
     "rpg": {},
     "exp": 60
+  },
+  "6285809114457": {
+    "jid": "6285809114457",
+    "rpg": {},
+    "exp": 15
   }
 }
