@@ -120511,15 +120511,16 @@
   },
   "6282192401340": {
     "name": "alrect",
-    "lastSeen": "2026-09-12T14:07:33.066Z",
+    "lastSeen": "2026-09-12T14:07:45.319Z",
     "jid": "6282192401340",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "cooldowns": {
       "menu": 1789222040112,
       "menucat": 1789222053237
     },
     "lastActiveDate": "12/9/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 23
   }
 }
