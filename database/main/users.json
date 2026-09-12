@@ -20235,7 +20235,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6103,
+    "exp": 6088,
     "level": 1,
     "koin": 24367,
     "unlockedFeatures": [],
@@ -26435,7 +26435,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 166476,
+    "exp": 166446,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26651,7 +26651,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 714648,
+    "exp": 714663,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -32984,10 +32984,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 552544,
+    "exp": 552529,
     "level": 1,
     "koin": 22086,
     "unlockedFeatures": [],
@@ -32996,7 +32996,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T01:57:22.121Z",
+    "lastSeen": "2026-09-11T13:17:27.369Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33179,7 +33179,7 @@
       "8bit": 1785235669246,
       "maling": 1785236604490,
       "close": 1785247924006,
-      "slow": 1789178263129,
+      "slow": 1789112984448,
       "bratimg": 1785391624126,
       "bratsquidward": 1785391681201,
       "fisht": 1785400287206,
@@ -33312,8 +33312,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 11
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -47780,7 +47780,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14606,
+    "exp": 14576,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -89710,7 +89710,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 390,
+    "exp": 405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106619,7 +106619,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11715,
+    "exp": 11700,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119504,7 +119504,7 @@
   "6289691343688": {
     "jid": "6289691343688",
     "rpg": {},
-    "exp": 495,
+    "exp": 465,
     "energi": 99999
   },
   "6283179471359": {
@@ -119682,7 +119682,7 @@
   "6285825167476": {
     "jid": "6285825167476",
     "rpg": {},
-    "exp": 240,
+    "exp": 210,
     "name": "aisar okelah",
     "lastSeen": "2026-09-12T01:56:57.729Z"
   },
