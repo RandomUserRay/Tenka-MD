@@ -333,16 +333,16 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52765,
+    "exp": 52780,
     "level": 1,
-    "koin": 0,
+    "koin": 1000000,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:49:01.887Z",
+    "lastSeen": "2026-09-12T14:25:12.375Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -402,7 +402,7 @@
       "maxMana": 125,
       "stamina": 125,
       "maxStamina": 125,
-      "bank": 549193483,
+      "bank": 548193483,
       "luck": 6,
       "spouse": "6283135864303@s.whatsapp.net",
       "marriedAt": 1789213557018
@@ -47340,7 +47340,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45246,
+    "exp": 45231,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -47349,7 +47349,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:24:22.116Z",
+    "lastSeen": "2026-09-12T14:22:56.964Z",
     "cooldowns": {
       "brat": 1789220228785,
       "setwelcome": 1789219706974,
@@ -47359,7 +47359,7 @@
       "addantilink": 1786916588878,
       "antilinkgc": 1788092902386,
       "tts": 1786941335743,
-      "afk": 1789223063216,
+      "afk": 1789221687869,
       "totalfitur": 1786923131369,
       "rvo": 1788875848659,
       "wm": 1789222977399,
@@ -96652,7 +96652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110988,7 +110988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16110,
+    "exp": 16095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111495,7 +111495,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 420,
+    "exp": 390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112454,7 +112454,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113299,7 +113299,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10470,
+    "exp": 10425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119764,7 +119764,7 @@
   "6285789559239": {
     "jid": "6285789559239",
     "rpg": {},
-    "exp": 180
+    "exp": 165
   },
   "628214436992": {
     "jid": "628214436992",
@@ -120265,7 +120265,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 2460
+    "exp": 2430
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120493,32 +120493,66 @@
     "rpg": {},
     "exp": 30
   },
-  "6287742720315": {
-    "jid": "6287742720315",
-    "rpg": {},
-    "exp": 525,
-    "name": ".",
-    "lastSeen": "2026-09-12T14:24:27.924Z"
-  },
   "6288267149277": {
     "jid": "6288267149277",
     "rpg": {},
     "exp": 90
   },
-  "77072720822": {
-    "jid": "77072720822",
+  "6287742720315": {
+    "jid": "6287742720315",
     "rpg": {},
-    "exp": 45
+    "exp": 495,
+    "name": ".",
+    "lastSeen": "2026-09-12T13:55:26.169Z"
   },
   "6282253097912": {
     "jid": "6282253097912",
     "rpg": {},
     "exp": 15
   },
+  "77072720822": {
+    "jid": "77072720822",
+    "rpg": {},
+    "exp": 45
+  },
+  "62887437321342": {
+    "jid": "62887437321342",
+    "rpg": {},
+    "exp": 165
+  },
   "6283875820389": {
     "jid": "6283875820389",
     "rpg": {},
     "exp": 60
+  },
+  "6282192401340": {
+    "name": "alrect",
+    "lastSeen": "2026-09-12T14:14:30.477Z",
+    "jid": "6282192401340",
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
+    "exp": 120,
+    "cooldowns": {
+      "menu": 1789222470325,
+      "menucat": 1789222053237,
+      "wastalk": 1789222470479,
+      "profil": 1789222083520
+    },
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1,
+    "energi": 21
+  },
+  "6283161280508": {
+    "jid": "6283161280508",
+    "rpg": {},
+    "exp": 15
   },
   "6281930151465": {
     "jid": "6281930151465",
