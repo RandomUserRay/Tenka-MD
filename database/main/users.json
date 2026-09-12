@@ -104157,7 +104157,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39993,
+    "exp": 40023,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104216,13 +104216,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 4,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "health": 130,
-      "mana": 115,
-      "stamina": 115
+      "level": 5,
+      "maxHealth": 140,
+      "maxMana": 120,
+      "maxStamina": 120,
+      "health": 140,
+      "mana": 120,
+      "stamina": 120
     },
     "inventory": {},
     "access": [],
@@ -119594,7 +119594,7 @@
   "6285194871149": {
     "jid": "6285194871149",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 99999
   },
   "6285753099492": {
@@ -119841,7 +119841,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 480,
+    "exp": 495,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-12T02:54:46.334Z"
   },
