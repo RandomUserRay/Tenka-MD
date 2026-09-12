@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1789228146055
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789227465589
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1786894750397
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of undefined (reading 'id')",
-      "at": 1785671667387
     }
   ],
   "jpmBlacklist": [],
@@ -17400,7 +17400,7 @@
     },
     "6281952991225@s.whatsapp.net": {
       "jid": "6281952991225@s.whatsapp.net",
-      "name": "~ loping"
+      "name": "~ ☆☆☆¤¤¤"
     },
     "6285189011319@s.whatsapp.net": {
       "jid": "6285189011319@s.whatsapp.net",
@@ -21901,6 +21901,10 @@
     "60185802821@s.whatsapp.net": {
       "jid": "60185802821@s.whatsapp.net",
       "name": "It_Lapopo™PRIME"
+    },
+    "62882010537728@s.whatsapp.net": {
+      "jid": "62882010537728@s.whatsapp.net",
+      "name": "uzprety"
     }
   },
   "antiCall": false,
