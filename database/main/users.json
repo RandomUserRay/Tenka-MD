@@ -120017,8 +120017,12 @@
     "exp": 510,
     "name": "cean",
     "lastSeen": "2026-09-12T07:08:08.744Z",
-    "cooldowns": {},
-    "energi": 24
+    "cooldowns": {
+      "s": 1789196904928
+    },
+    "energi": 24,
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6283157474018": {
     "jid": "6283157474018",
