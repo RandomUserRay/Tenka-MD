@@ -34736,7 +34736,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23610,
+    "exp": 23670,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49536,7 +49536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63330,
+    "exp": 63390,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61926,7 +61926,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34380,
+    "exp": 34410,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -119424,7 +119424,7 @@
   "6289682369837": {
     "jid": "6289682369837",
     "rpg": {},
-    "exp": 900,
+    "exp": 945,
     "energi": 99999
   },
   "6282114405489": {
@@ -119684,6 +119684,11 @@
   },
   "6285814172058": {
     "jid": "6285814172058",
+    "rpg": {},
+    "exp": 30
+  },
+  "6285178117812": {
+    "jid": "6285178117812",
     "rpg": {},
     "exp": 30
   }
