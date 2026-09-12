@@ -333,7 +333,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52825,
+    "exp": 52840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -11518,16 +11518,16 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34993,
+    "exp": 35008,
     "level": 1,
-    "koin": 31115,
+    "koin": 30115,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:53:45.334Z",
+    "lastSeen": "2026-09-12T11:54:31.510Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11583,7 +11583,8 @@
       "luck": 7
     },
     "inventory": {
-      "iron": 2
+      "iron": 2,
+      "stamina": 1
     },
     "access": [],
     "saldo": 0,
@@ -66758,7 +66759,7 @@
       "play": 1789121189089,
       "inv": 1786434391177,
       "profil": 1787746507275,
-      "rob": 1787849540817,
+      "rob": 1789214067785,
       "menu": 1785405080799,
       "femboy": 1785306961373,
       "fishing": 1786373201603,
