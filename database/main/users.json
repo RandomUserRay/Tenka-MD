@@ -3038,7 +3038,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 699146,
+    "exp": 699161,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3047,7 +3047,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T08:27:35.015Z",
+    "lastSeen": "2026-09-12T08:28:19.954Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1785600266996,
@@ -3134,7 +3134,8 @@
       "dice": 1788080130572,
       "putus": 1788533021524,
       "divorce": 1788533051363,
-      "cekimut": 1789201623775
+      "cekimut": 1789201623775,
+      "cekjahat": 1789201700300
     },
     "clanId": null,
     "isRegistered": false,
