@@ -100327,7 +100327,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100337,13 +100337,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T08:27:20.019Z",
+    "lastSeen": "2026-09-12T08:27:54.582Z",
     "cooldowns": {
       "menucat": 1788075258904,
       "menu": 1788075278469,
       "top": 1789200971512,
       "femboy": 1788076908064,
-      "afk": 1788089578319
+      "afk": 1788089578319,
+      "cekimut": 1789201676107
     },
     "clanId": null,
     "isRegistered": false,
