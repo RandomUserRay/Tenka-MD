@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
+      "at": 1789179543502
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789129593814
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "ENOSPC: no space left on device, write",
       "at": 1785331522383
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1785331323381
     }
   ],
   "jpmBlacklist": [],
