@@ -49536,7 +49536,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64050,
+    "exp": 64065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104150,7 +104150,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33948,
+    "exp": 33933,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -119701,5 +119701,17 @@
     "jid": "6285973657106",
     "rpg": {},
     "exp": 15
+  },
+  "16092151875": {
+    "name": "ゼクサ",
+    "lastSeen": "2026-09-12T00:59:57.674Z",
+    "jid": "16092151875",
+    "rpg": {},
+    "exp": 90,
+    "cooldowns": {
+      "jadibot": 1789174801266
+    },
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   }
 }
