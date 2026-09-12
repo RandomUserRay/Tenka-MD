@@ -89925,7 +89925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14415,
+    "exp": 14430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92947,10 +92947,10 @@
     "jid": "6282180208289",
     "name": "i lav you",
     "number": "6282180208289",
-    "energi": 99987,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33138,
+    "exp": 33093,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -92960,7 +92960,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T16:49:23.592Z",
+    "lastSeen": "2026-09-12T16:49:04.335Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -92974,8 +92974,7 @@
       "bratimg": 1789211763733,
       "bratanime": 1789231600652,
       "allmenu": 1789231698321,
-      "menucat": 1789231744369,
-      "pin": 1789231772704
+      "menucat": 1789231744369
     },
     "clanId": null,
     "isRegistered": false,
@@ -108094,7 +108093,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 675,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120651,14 +120650,14 @@
     "rpg": {},
     "exp": 30
   },
-  "6283857936156": {
-    "jid": "6283857936156",
-    "rpg": {},
-    "exp": 15
-  },
   "6281917920424": {
     "jid": "6281917920424",
     "rpg": {},
     "exp": 45
+  },
+  "6283857936156": {
+    "jid": "6283857936156",
+    "rpg": {},
+    "exp": 15
   }
 }
