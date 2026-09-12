@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789239904109
+    },
+    {
+      "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789228249247
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
       "at": 1786956676814
-    },
-    {
-      "cmd": "unknown",
-      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
-      "at": 1786956589518
     }
   ],
   "jpmBlacklist": [],
