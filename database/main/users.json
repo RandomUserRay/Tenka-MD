@@ -62349,7 +62349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14895,
+    "exp": 14910,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -62358,7 +62358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T12:21:40.729Z",
+    "lastSeen": "2026-09-12T21:06:40.226Z",
     "cooldowns": {
       "afk": 1788613388224,
       "d": 1784339008980,
@@ -62382,7 +62382,8 @@
       "ship": 1789081497467,
       "ping": 1789051560066,
       "love": 1789051655599,
-      "getpp": 1789081641687
+      "getpp": 1789081641687,
+      "topkoin": 1789247200476
     },
     "clanId": null,
     "isRegistered": false,
@@ -62402,8 +62403,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 9
   },
   "6283844638266": {
     "jid": "6283844638266",
