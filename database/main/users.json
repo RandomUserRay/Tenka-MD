@@ -23166,7 +23166,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48615,
+    "exp": 48630,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -23175,9 +23175,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T23:24:21.461Z",
+    "lastSeen": "2026-09-12T23:24:36.043Z",
     "cooldowns": {
-      "menu": 1789255424804,
+      "menu": 1789255476560,
       "owner": 1782555362554,
       "menucat": 1789255461511,
       "benefitpremium": 1782555434348,
@@ -119386,7 +119386,7 @@
   "6287882423267": {
     "jid": "6287882423267",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "energi": 99999
   },
   "6283178082149": {
