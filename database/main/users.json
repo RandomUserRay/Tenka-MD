@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000027375,
+    "exp": 9000027300,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -47338,7 +47338,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44256,
+    "exp": 44286,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -47347,7 +47347,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T12:12:32.629Z",
+    "lastSeen": "2026-09-12T13:27:05.818Z",
     "cooldowns": {
       "brat": 1788965284702,
       "setwelcome": 1789134981167,
@@ -47361,7 +47361,7 @@
       "totalfitur": 1786923131369,
       "rvo": 1788875848659,
       "wm": 1788906185139,
-      "welcome": 1789215371932,
+      "welcome": 1789219626361,
       "warn": 1789041663085,
       "pintar": 1787667285054,
       "pinter": 1786941564633,
@@ -59304,7 +59304,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 900,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96331,10 +96331,10 @@
     "jid": "628212256654",
     "name": "nana?",
     "number": "628212256654",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18450,
+    "exp": 18465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96344,14 +96344,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T07:07:24.835Z",
+    "lastSeen": "2026-09-12T13:26:52.376Z",
     "cooldowns": {
       "brat": 1788649407336,
       "afk": 1788352355648,
       "bratvid": 1787918899799,
       "bratwhite": 1787612404350,
       "bratimg": 1788649417580,
-      "play": 1788525929194,
+      "play": 1789219623182,
       "wm": 1789196858235,
       "bratgreen": 1787665285403,
       "jodoh": 1787666860726,
@@ -104181,7 +104181,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43563,
+    "exp": 43608,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104191,7 +104191,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T12:27:46.630Z",
+    "lastSeen": "2026-09-12T13:27:05.743Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -119476,7 +119476,7 @@
   "62895402520016": {
     "jid": "62895402520016",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 99999
   },
   "6289667410501": {
@@ -119696,7 +119696,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 2475,
+    "exp": 2505,
     "energi": 99999
   },
   "6287743157331": {
@@ -119962,7 +119962,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 1440
+    "exp": 1485
   },
   "601140455019": {
     "jid": "601140455019",
@@ -120470,13 +120470,13 @@
     "rpg": {},
     "exp": 30
   },
-  "6288267149277": {
-    "jid": "6288267149277",
+  "6287742720315": {
+    "jid": "6287742720315",
     "rpg": {},
     "exp": 75
   },
-  "6287742720315": {
-    "jid": "6287742720315",
+  "6288267149277": {
+    "jid": "6288267149277",
     "rpg": {},
     "exp": 75
   }
