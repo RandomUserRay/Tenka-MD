@@ -3979,7 +3979,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95385,
+    "exp": 95370,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -20135,7 +20135,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31124,
+    "exp": 31154,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -21159,7 +21159,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67692,
+    "exp": 67722,
     "level": 1,
     "koin": 107580,
     "unlockedFeatures": [],
@@ -50891,7 +50891,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68217,
+    "exp": 68232,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -95814,10 +95814,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3705,
+    "exp": 3690,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95827,10 +95827,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T06:05:47.522Z",
+    "lastSeen": "2026-09-12T05:42:08.960Z",
     "cooldowns": {
       "afk": 1789124371917,
-      "play": 1789193157205,
+      "play": 1789121180951,
       "smeme": 1788073480837,
       "s": 1789191730683,
       "menu": 1788072949177,
@@ -101712,13 +101712,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T06:03:30.929Z",
+    "lastSeen": "2026-09-12T06:06:00.137Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69633,
+    "exp": 69648,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101769,7 +101769,7 @@
       "ship": 1789081521124,
       "mine": 1789125572370,
       "mancing": 1789125584014,
-      "s": 1789193015635
+      "s": 1789193166338
     },
     "clanId": null,
     "isRegistered": false,
@@ -106481,7 +106481,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 885,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107634,7 +107634,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112510,7 +112510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1275,
+    "exp": 1305,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113415,7 +113415,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1140,
+    "exp": 1170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115725,7 +115725,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119546,7 +119546,7 @@
   "6283164327825": {
     "jid": "6283164327825",
     "rpg": {},
-    "exp": 135,
+    "exp": 180,
     "energi": 99999
   },
   "62895411351907": {
@@ -119665,7 +119665,7 @@
   "6287869536043": {
     "jid": "6287869536043",
     "rpg": {},
-    "exp": 480
+    "exp": 660
   },
   "6287783847358": {
     "jid": "6287783847358",
@@ -119793,7 +119793,7 @@
   "628214644116": {
     "jid": "628214644116",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6285813610089": {
     "jid": "6285813610089",
@@ -119843,15 +119843,15 @@
     "rpg": {},
     "exp": 15
   },
-  "601140455019": {
-    "jid": "601140455019",
-    "rpg": {},
-    "exp": 15
-  },
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
     "exp": 120
+  },
+  "601140455019": {
+    "jid": "601140455019",
+    "rpg": {},
+    "exp": 15
   },
   "6288975219061": {
     "jid": "6288975219061",
