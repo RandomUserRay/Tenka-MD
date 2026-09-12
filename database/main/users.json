@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000021600,
+    "exp": 9000021675,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -800,7 +800,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65118,
+    "exp": 65148,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -809,11 +809,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T08:37:38.086Z",
+    "lastSeen": "2026-09-12T08:37:55.784Z",
     "cooldowns": {
       "cekfemboy": 1780119642818,
       "femboy": 1785194278920,
-      "cektsundere": 1783059961578,
+      "cektsundere": 1789202276293,
       "profile": 1782894163242,
       "mulung": 1780122328854,
       "hunt": 1780121287138,
@@ -860,7 +860,9 @@
       "rabbit": 1
     },
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6287742675049": {
     "jid": "6287742675049",
