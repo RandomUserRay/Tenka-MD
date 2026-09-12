@@ -40179,7 +40179,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61665,
+    "exp": 61695,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -89898,13 +89898,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-03T10:52:34.328Z",
+    "lastSeen": "2026-09-12T11:05:25.277Z",
     "jid": "6282168671203",
     "number": "6282168671203",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14325,
+    "exp": 14340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -89932,7 +89932,7 @@
       "s": 1787676305963,
       "hitamkan": 1788169961707,
       "setwelcome": 1787644938381,
-      "intro": 1787827085015,
+      "intro": 1789211125662,
       "setintro": 1787622866073,
       "unmutegc": 1788076423236,
       "rvo": 1788102763991,
@@ -89973,8 +89973,8 @@
       "jadiPacar": 1786874522046,
       "terimaCount": 1
     },
-    "lastActiveDate": "3/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 5
   },
   "6285778236388": {
     "jid": "6285778236388",
