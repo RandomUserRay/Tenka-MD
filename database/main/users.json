@@ -47370,7 +47370,7 @@
       "tebakkata": 1786971642199,
       "goodbye": 1789219715669,
       "tebaktebakan": 1787666417753,
-      "play": 1789219815977,
+      "play": 1789196105638,
       "bratimg": 1788862991254,
       "s": 1788624010062,
       "bratvid": 1787579624057,
@@ -50906,7 +50906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70032,
+    "exp": 70017,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -89918,7 +89918,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14370,
+    "exp": 14385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104181,7 +104181,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43743,
+    "exp": 43728,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -110945,7 +110945,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3210,
+    "exp": 3195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120470,13 +120470,13 @@
     "rpg": {},
     "exp": 30
   },
-  "6287742720315": {
-    "jid": "6287742720315",
-    "rpg": {},
-    "exp": 90
-  },
   "6288267149277": {
     "jid": "6288267149277",
+    "rpg": {},
+    "exp": 75
+  },
+  "6287742720315": {
+    "jid": "6287742720315",
     "rpg": {},
     "exp": 75
   }
