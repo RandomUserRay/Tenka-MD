@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789227465589
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789226378100
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of undefined (reading 'id')",
       "at": 1785671667387
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of undefined (reading 'id')",
-      "at": 1785671651681
     }
   ],
   "jpmBlacklist": [],
@@ -21044,7 +21044,7 @@
     },
     "6283175832917@s.whatsapp.net": {
       "jid": "6283175832917@s.whatsapp.net",
-      "name": "celin"
+      "name": "𝒋𝒐𝒚"
     },
     "6285692599136@s.whatsapp.net": {
       "jid": "6285692599136@s.whatsapp.net",
