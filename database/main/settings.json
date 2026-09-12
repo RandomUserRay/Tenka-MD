@@ -49,6 +49,36 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1789222474994
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789222470427
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789222470239
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789222468262
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789222468188
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789222467901
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1789221184983
     },
     {
@@ -265,36 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of undefined (reading 'id')",
       "at": 1785671645692
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1785634658153
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of undefined (reading 'replace')",
-      "at": 1785598310440
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1785588042254
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1785584911179
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
-      "at": 1785498938384
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
-      "at": 1785497664682
     }
   ],
   "jpmBlacklist": [],
@@ -3392,7 +3392,7 @@
     },
     "6281356784764@s.whatsapp.net": {
       "jid": "6281356784764@s.whatsapp.net",
-      "name": "myaww"
+      "name": "yinshie"
     },
     "6283166245363@s.whatsapp.net": {
       "jid": "6283166245363@s.whatsapp.net",
@@ -21693,6 +21693,10 @@
     "6285117356231@s.whatsapp.net": {
       "jid": "6285117356231@s.whatsapp.net",
       "name": "❤ 𝕬𝖎𝖘𝖞𝖆𝖍 ❤"
+    },
+    "6283161280508@s.whatsapp.net": {
+      "jid": "6283161280508@s.whatsapp.net",
+      "name": "GS"
     }
   },
   "antiCall": false,
