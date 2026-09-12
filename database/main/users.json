@@ -34617,10 +34617,10 @@
     "jid": "62882000733701",
     "name": "🤡",
     "number": "62882000733701",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3090,
+    "exp": 3105,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34629,7 +34629,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:21:52.822Z",
+    "lastSeen": "2026-09-12T18:10:22.536Z",
     "cooldowns": {
       "menu": 1788853921449,
       "stiker": 1783020339427,
@@ -34639,7 +34639,8 @@
       "ig": 1788686352071,
       "tiktok": 1788686364010,
       "playvid": 1789083071005,
-      "anichin": 1789219313177
+      "anichin": 1789219313177,
+      "pin": 1789236622752
     },
     "clanId": null,
     "isRegistered": false,
@@ -34660,8 +34661,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 8
   },
   "6285187743901": {
     "jid": "6285187743901",
