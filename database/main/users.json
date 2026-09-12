@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 246590,
+    "exp": 246605,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19668,7 +19668,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:13:26.216Z",
+    "lastSeen": "2026-09-12T13:17:37.029Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19733,7 +19733,7 @@
       "ngemis": 1784462520758,
       "kurir": 1784445055350,
       "d": 1784442466559,
-      "h": 1789218807933,
+      "h": 1789219057401,
       "tutup": 1784451423720,
       "nyapu": 1784462534213,
       "gacha": 1784443885175,
@@ -50904,7 +50904,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69777,
+    "exp": 69792,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -51342,7 +51342,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2565,
+    "exp": 2595,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95581,7 +95581,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438160,
+    "exp": 438175,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -119564,7 +119564,7 @@
   "6283135066630": {
     "jid": "6283135066630",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "energi": 99999
   },
   "6281937971174": {
@@ -119628,7 +119628,7 @@
   "6283164327825": {
     "jid": "6283164327825",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999
   },
   "62895411351907": {
@@ -119777,7 +119777,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2775,
+    "exp": 2790,
     "name": "yappink",
     "lastSeen": "2026-09-12T07:18:01.297Z",
     "cooldowns": {}
@@ -120467,5 +120467,10 @@
     "jid": "62887437405128",
     "rpg": {},
     "exp": 30
+  },
+  "6288267149277": {
+    "jid": "6288267149277",
+    "rpg": {},
+    "exp": 15
   }
 }
