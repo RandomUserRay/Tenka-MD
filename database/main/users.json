@@ -106820,7 +106820,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2865,
+    "exp": 2895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106830,7 +106830,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T17:32:31.992Z",
+    "lastSeen": "2026-09-12T17:33:15.802Z",
     "cooldowns": {
       "brat": 1789025614124,
       "tagall": 1789174390840,
@@ -106839,12 +106839,13 @@
       "h": 1789234304740,
       "menu": 1789234354942,
       "owner": 1789233669332,
-      "menucat": 1789234174961,
+      "menucat": 1789234383064,
       "hd": 1789233751782,
       "hd5": 1789233796150,
       "hd4": 1789234025647,
       "bratvid": 1789234218422,
-      "emojimix": 1789234290482
+      "emojimix": 1789234290482,
+      "music": 1789234395834
     },
     "clanId": null,
     "isRegistered": false,
