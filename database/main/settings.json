@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import os from 'os';\nimport crypto from 'crypto';\n\nconst pluginConfig = {\n    name: 'status2',\n    alias: ['botstatus2', 'ping2', 'runtime2', 'tenka'",
+      "at": 1789180389074
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
       "at": 1789179543502
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "ENOSPC: no space left on device, write",
       "at": 1785332618415
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1785331522383
     }
   ],
   "jpmBlacklist": [],
