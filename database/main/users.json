@@ -20344,10 +20344,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 218102,
+    "exp": 218117,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20356,7 +20356,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:02:23.421Z",
+    "lastSeen": "2026-09-12T13:02:45.099Z",
     "cooldowns": {
       "menu": 1789103445420,
       "allmenu": 1786162234717,
@@ -20391,7 +20391,7 @@
       "top": 1782456993802,
       "cekcupu": 1782457024448,
       "benefitpremium": 1782556805088,
-      "tt": 1789166393641,
+      "tt": 1789218171680,
       "slot": 1784111329457,
       "me": 1784808815721,
       "tebaklagu": 1783748175706,
@@ -120439,6 +120439,6 @@
   "6289673668220": {
     "jid": "6289673668220",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
