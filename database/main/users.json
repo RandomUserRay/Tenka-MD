@@ -47798,7 +47798,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-12T10:40:21.665Z",
     "cooldowns": {
-      "menu": 1788575262166,
+      "menu": 1789209648334,
       "tebaknegara": 1783670524132,
       "bodoh": 1783582443717,
       "tebakkata": 1783638099494,
@@ -47827,8 +47827,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 5
   },
   "6283177669752": {
     "jid": "6283177669752",
@@ -104455,7 +104455,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 810,
+    "exp": 825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107006,7 +107006,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4065,
+    "exp": 4080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
