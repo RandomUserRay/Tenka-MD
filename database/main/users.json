@@ -104150,7 +104150,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34923,
+    "exp": 34938,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104160,7 +104160,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T02:19:59.680Z",
+    "lastSeen": "2026-09-12T02:20:58.528Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104623,7 +104623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36030,
+    "exp": 36045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119768,6 +119768,6 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
