@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000021300,
+    "exp": 9000021375,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -55609,7 +55609,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175151,
+    "exp": 175166,
     "level": 1,
     "koin": 176632,
     "unlockedFeatures": [],
@@ -119207,7 +119207,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "energi": 99999
   },
   "6285785063453": {
@@ -120197,14 +120197,14 @@
   },
   "6285242211494": {
     "name": "arlex",
-    "lastSeen": "2026-09-12T08:32:11.304Z",
+    "lastSeen": "2026-09-12T08:35:01.589Z",
     "jid": "6285242211494",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "cooldowns": {
-      "tt": 1789201933098
+      "tt": 1789202103564
     },
-    "energi": 21,
+    "energi": 20,
     "lastActiveDate": "12/9/2026",
     "activeDays": 1
   }
