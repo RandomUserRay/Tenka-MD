@@ -20345,10 +20345,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 218522,
+    "exp": 218552,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20357,7 +20357,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:52:27.627Z",
+    "lastSeen": "2026-09-12T13:52:45.250Z",
     "cooldowns": {
       "menu": 1789103445420,
       "allmenu": 1786162234717,
@@ -20442,7 +20442,7 @@
       "igstalk": 1788655531931,
       "discordstalk": 1788655661965,
       "lick": 1789221067979,
-      "pin": 1789221149593
+      "pin": 1789221166378
     },
     "clanId": null,
     "isRegistered": false,
@@ -52733,7 +52733,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7509,
+    "exp": 7524,
     "level": 1,
     "koin": 790,
     "unlockedFeatures": [],
@@ -120157,7 +120157,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 990,
+    "exp": 1005,
     "name": "cean",
     "lastSeen": "2026-09-12T07:17:29.871Z",
     "cooldowns": {
@@ -120455,7 +120455,7 @@
   "6289673668220": {
     "jid": "6289673668220",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   },
   "6283173469688": {
     "jid": "6283173469688",
