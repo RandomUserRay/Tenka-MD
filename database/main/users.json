@@ -119814,6 +119814,10 @@
     "jid": "6281234474465",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1789186014537
+    },
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   }
 }
