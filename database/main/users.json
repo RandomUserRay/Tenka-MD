@@ -106743,7 +106743,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2010,
+    "exp": 2025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106753,10 +106753,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T08:23:46.490Z",
+    "lastSeen": "2026-09-12T00:53:10.129Z",
     "cooldowns": {
       "brat": 1789025614124,
-      "tagall": 1788890917109,
+      "tagall": 1789174390840,
       "jadibot": 1788891102742,
       "bratimg": 1789025627275
     },
@@ -106768,8 +106768,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 4
   },
   "6282123581334": {
     "jid": "6282123581334",
