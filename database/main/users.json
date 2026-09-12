@@ -108093,7 +108093,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 765,
+    "exp": 780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109711,10 +109711,10 @@
     "jid": "6288242664948",
     "name": "fnya",
     "number": "6288242664948",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109724,13 +109724,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T23:14:13.759Z",
+    "lastSeen": "2026-09-12T17:04:02.636Z",
     "cooldowns": {
       "play": 1788800083899,
       "menu": 1788878391390,
       "brat": 1788838686962,
       "claim": 1788838691508,
-      "tt": 1789049605356,
+      "tt": 1789232644653,
       "del": 1789049609818,
       "totalchat": 1788878406492,
       "tagall": 1788954986195
@@ -109743,8 +109743,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 5
   },
   "6285974710331": {
     "jid": "6285974710331",
