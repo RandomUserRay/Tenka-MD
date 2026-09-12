@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 246080,
+    "exp": 246095,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -120054,8 +120054,12 @@
     "exp": 300,
     "name": "ohbener cacya?!",
     "lastSeen": "2026-09-12T13:03:09.243Z",
-    "cooldowns": {},
-    "energi": 24
+    "cooldowns": {
+      "ttmp3": 1789218195413
+    },
+    "energi": 24,
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6283191959034": {
     "jid": "6283191959034",
