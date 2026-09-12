@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T04:26:06.393Z",
+    "lastSeen": "2026-09-12T04:17:13.433Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000015975,
+    "exp": 9000015900,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -104149,10 +104149,10 @@
     "jid": "62895626761698",
     "name": "hyykai1445th",
     "number": "62895626761698",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37608,
+    "exp": 37698,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104162,7 +104162,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T04:22:40.543Z",
+    "lastSeen": "2026-09-12T04:26:20.271Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104192,7 +104192,7 @@
       "murrotal": 1788791035167,
       "h": 1789186965637,
       "playvid": 1788908472696,
-      "rvo": 1789041523463,
+      "rvo": 1789187182549,
       "bratgojovid": 1789040985630,
       "bratpatrick": 1789042909365,
       "tebakgambar": 1789044078857,
@@ -106628,7 +106628,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12300,
+    "exp": 12330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119411,7 +119411,7 @@
   "6289667410501": {
     "jid": "6289667410501",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "energi": 99999
   },
   "6283848747103": {
@@ -119811,10 +119811,10 @@
   },
   "6281234474465": {
     "name": "𝗛𝗬 𝗥𝗮𝗺𝘇𝘇 𝗫 𝗔𝗣 𝗞𝗶𝗻𝗴",
-    "lastSeen": "2026-09-12T04:25:47.128Z",
+    "lastSeen": "2026-09-12T04:26:11.935Z",
     "jid": "6281234474465",
     "rpg": {},
-    "exp": 375,
+    "exp": 405,
     "cooldowns": {
       "menu": 1789186014537,
       "menucat": 1789186165036,
@@ -119827,7 +119827,8 @@
       "antisticker": 1789187076643,
       "antiswgc": 1789187083442,
       "antitagsw": 1789187115727,
-      "antitoxic": 1789187142536
+      "antitoxic": 1789187142536,
+      "antijudol": 1789187169836
     },
     "lastActiveDate": "12/9/2026",
     "activeDays": 1
