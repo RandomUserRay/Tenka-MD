@@ -1795,7 +1795,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 642339,
+    "exp": 642414,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -21162,12 +21162,12 @@
   },
   "6282324325710": {
     "jid": "6282324325710",
-    "name": "zar",
+    "name": "lowkey",
     "number": "6282324325710",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68382,
+    "exp": 68397,
     "level": 1,
     "koin": 107580,
     "unlockedFeatures": [],
@@ -21176,7 +21176,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-11T15:04:19.415Z",
+    "lastSeen": "2026-09-12T13:08:35.493Z",
     "cooldowns": {
       "ww": 1782456629338,
       "tembak": 1782377633833,
@@ -21196,7 +21196,7 @@
       "me": 1783780884525,
       "tf": 1783749026918,
       "bank": 1783750743378,
-      "s": 1783751662705,
+      "s": 1789218516357,
       "gacha": 1783752258812,
       "ngamen": 1783781089931,
       "istirahat": 1783778008147,
@@ -21229,7 +21229,9 @@
       "koran": 1
     },
     "access": [],
-    "fun": {}
+    "fun": {},
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6285833208334": {
     "jid": "6285833208334",
