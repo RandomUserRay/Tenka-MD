@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52765,
+    "exp": 52795,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:49:01.887Z",
+    "lastSeen": "2026-09-12T14:26:43.616Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -387,7 +387,9 @@
       "ship": 1788274809480,
       "unmute": 1789141735753,
       "me": 1789213802472,
-      "mutegc": 1789136779380
+      "mutegc": 1789136779380,
+      "transfer": 1789223180637,
+      "judi": 1789223203774
     },
     "clanId": null,
     "isRegistered": false,
@@ -40189,7 +40191,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62070,
+    "exp": 62085,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97756,7 +97758,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9090,
+    "exp": 9075,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110988,7 +110990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16140,
+    "exp": 16110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113299,7 +113301,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10500,
+    "exp": 10485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120493,6 +120495,11 @@
     "rpg": {},
     "exp": 30
   },
+  "6288267149277": {
+    "jid": "6288267149277",
+    "rpg": {},
+    "exp": 90
+  },
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
@@ -120500,25 +120507,54 @@
     "name": ".",
     "lastSeen": "2026-09-12T14:25:29.575Z"
   },
-  "6288267149277": {
-    "jid": "6288267149277",
+  "6282253097912": {
+    "jid": "6282253097912",
     "rpg": {},
-    "exp": 90
+    "exp": 15
   },
   "77072720822": {
     "jid": "77072720822",
     "rpg": {},
     "exp": 45
   },
-  "6282253097912": {
-    "jid": "6282253097912",
+  "62887437321342": {
+    "jid": "62887437321342",
     "rpg": {},
-    "exp": 15
+    "exp": 165
   },
   "6283875820389": {
     "jid": "6283875820389",
     "rpg": {},
     "exp": 60
+  },
+  "6282192401340": {
+    "name": "alrect",
+    "lastSeen": "2026-09-12T14:14:30.477Z",
+    "jid": "6282192401340",
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
+    "exp": 120,
+    "cooldowns": {
+      "menu": 1789222470325,
+      "menucat": 1789222053237,
+      "wastalk": 1789222470479,
+      "profil": 1789222083520
+    },
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1,
+    "energi": 21
+  },
+  "6283161280508": {
+    "jid": "6283161280508",
+    "rpg": {},
+    "exp": 15
   },
   "6281930151465": {
     "jid": "6281930151465",
