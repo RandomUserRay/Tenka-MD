@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 246695,
+    "exp": 246710,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34379,
+    "exp": 34394,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34613,10 +34613,10 @@
     "jid": "62882000733701",
     "name": "🤡",
     "number": "62882000733701",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3075,
+    "exp": 3090,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34625,7 +34625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T23:31:01.041Z",
+    "lastSeen": "2026-09-12T13:21:52.822Z",
     "cooldowns": {
       "menu": 1788853921449,
       "stiker": 1783020339427,
@@ -34634,7 +34634,8 @@
       "ytmp4": 1789025610555,
       "ig": 1788686352071,
       "tiktok": 1788686364010,
-      "playvid": 1789083071005
+      "playvid": 1789083071005,
+      "anichin": 1789219313177
     },
     "clanId": null,
     "isRegistered": false,
@@ -34655,8 +34656,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 7
   },
   "6285187743901": {
     "jid": "6285187743901",
@@ -50905,7 +50906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69912,
+    "exp": 69957,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -52800,7 +52801,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -59303,7 +59304,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 855,
+    "exp": 870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -100317,7 +100318,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1245,
+    "exp": 1260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104180,7 +104181,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43488,
+    "exp": 43503,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104657,7 +104658,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37845,
+    "exp": 37905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106173,7 +106174,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720,
+    "exp": 735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110944,7 +110945,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3105,
+    "exp": 3120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111083,7 +111084,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6765,
+    "exp": 6795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112446,7 +112447,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119481,7 +119482,7 @@
   "6289667410501": {
     "jid": "6289667410501",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 99999
   },
   "6283848747103": {
@@ -119597,7 +119598,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1845,
+    "exp": 1860,
     "energi": 99997,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -119852,7 +119853,7 @@
   "62895323277764": {
     "jid": "62895323277764",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   },
   "6282164885652": {
     "jid": "6282164885652",
@@ -120241,7 +120242,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 1335
+    "exp": 1350
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120317,7 +120318,7 @@
   "628984750327": {
     "jid": "628984750327",
     "rpg": {},
-    "exp": 180
+    "exp": 195
   },
   "6285791702663": {
     "jid": "6285791702663",
@@ -120472,11 +120473,11 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   },
   "6288267149277": {
     "jid": "6288267149277",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
