@@ -35944,7 +35944,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 221345,
+    "exp": 221315,
     "level": 1,
     "koin": 57223,
     "unlockedFeatures": [],
@@ -89897,7 +89897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14220,
+    "exp": 14265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93713,7 +93713,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 75,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104152,7 +104152,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37968,
+    "exp": 37908,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104162,7 +104162,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T05:04:49.028Z",
+    "lastSeen": "2026-09-12T04:26:20.271Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104190,7 +104190,7 @@
       "del": 1789041423208,
       "menucat": 1788790931124,
       "murrotal": 1788791035167,
-      "h": 1789189489727,
+      "h": 1789186965637,
       "playvid": 1788908472696,
       "rvo": 1789187182549,
       "bratgojovid": 1789040985630,
@@ -106992,7 +106992,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3690,
+    "exp": 3660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119840,19 +119840,19 @@
     "rpg": {},
     "exp": 15
   },
-  "6285714269757": {
-    "jid": "6285714269757",
-    "rpg": {},
-    "exp": 120
-  },
   "601140455019": {
     "jid": "601140455019",
     "rpg": {},
     "exp": 15
   },
+  "6285714269757": {
+    "jid": "6285714269757",
+    "rpg": {},
+    "exp": 120
+  },
   "6288975219061": {
     "jid": "6288975219061",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
