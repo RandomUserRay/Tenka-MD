@@ -108403,7 +108403,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 240,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119811,17 +119811,18 @@
   },
   "6281234474465": {
     "name": "𝗛𝗬 𝗥𝗮𝗺𝘇𝘇 𝗫 𝗔𝗣 𝗞𝗶𝗻𝗴",
-    "lastSeen": "2026-09-12T04:11:47.867Z",
+    "lastSeen": "2026-09-12T04:14:54.332Z",
     "jid": "6281234474465",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "cooldowns": {
       "menu": 1789186014537,
       "menucat": 1789186165036,
       "allmenu": 1789186032837,
       "addantilink": 1789186186630,
       "antilinkall": 1789186275195,
-      "goodbye": 1789186308202
+      "goodbye": 1789186308202,
+      "setwelcome": 1789186499629
     },
     "lastActiveDate": "12/9/2026",
     "activeDays": 1
