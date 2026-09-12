@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T02:19:14.073Z",
+    "lastSeen": "2026-09-12T02:16:24.973Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000012525,
+    "exp": 9000012375,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -104150,7 +104150,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34818,
+    "exp": 34863,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104160,7 +104160,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T01:00:49.031Z",
+    "lastSeen": "2026-09-12T02:18:52.031Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104178,7 +104178,7 @@
       "level": 1789043734603,
       "totalchat": 1789038517367,
       "wm": 1789127678370,
-      "setwelcome": 1788868476484,
+      "setwelcome": 1789179532833,
       "resetwelcome": 1788759445373,
       "kick": 1789041911211,
       "allmenu": 1788790861017,
@@ -106619,7 +106619,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11730,
+    "exp": 11745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107107,7 +107107,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1095,
+    "exp": 1140,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108738,7 +108738,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 960,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -116471,7 +116471,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45,
+    "exp": 75,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119763,6 +119763,6 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
