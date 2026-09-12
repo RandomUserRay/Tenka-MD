@@ -105191,7 +105191,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 345,
+    "exp": 360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105201,9 +105201,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T02:19:47.398Z",
+    "lastSeen": "2026-09-12T02:20:18.308Z",
     "cooldowns": {
-      "allmenu": 1789179589330
+      "allmenu": 1789179589330,
+      "owner": 1789179618952
     },
     "clanId": null,
     "isRegistered": false,
