@@ -100417,7 +100417,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100427,12 +100427,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-29T05:53:39.810Z",
+    "lastSeen": "2026-09-12T14:02:54.292Z",
     "cooldowns": {
       "brat": 1787912831852,
       "bratimg": 1787912883843,
       "bratvid": 1787912945379,
-      "fb": 1787982829808
+      "fb": 1787982829808,
+      "afk": 1789221775181
     },
     "clanId": null,
     "isRegistered": false,
@@ -100442,8 +100443,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 2
   },
   "6285782604814": {
     "jid": "6285782604814",
@@ -106668,7 +106669,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14265,
+    "exp": 14280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
