@@ -52770,7 +52770,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -120051,7 +120051,11 @@
   "628214385635": {
     "jid": "628214385635",
     "rpg": {},
-    "exp": 285
+    "exp": 300,
+    "name": "ohbener cacya?!",
+    "lastSeen": "2026-09-12T13:03:09.243Z",
+    "cooldowns": {},
+    "energi": 24
   },
   "6283191959034": {
     "jid": "6283191959034",
