@@ -33036,7 +33036,7 @@
       "asmaulhusna": 1783323942906,
       "system": 1783323964321,
       "jodoh": 1783338346318,
-      "robloxstalk": 1786630729149,
+      "robloxstalk": 1789222088592,
       "topexp": 1784446358138,
       "goblok": 1784277112989,
       "antilinkgc": 1783344498486,
@@ -120513,12 +120513,21 @@
     "name": "alrect",
     "lastSeen": "2026-09-12T14:07:45.319Z",
     "jid": "6282192401340",
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "exp": 60,
     "cooldowns": {
       "menu": 1789222040112,
       "menucat": 1789222053237,
-      "wastalk": 1789222068117
+      "wastalk": 1789222068117,
+      "profil": 1789222083520
     },
     "lastActiveDate": "12/9/2026",
     "activeDays": 1,
