@@ -19693,7 +19693,7 @@
       "jodoh": 1784451177581,
       "putus": 1784390264785,
       "afk": 1784397005639,
-      "tt": 1789218117257,
+      "tt": 1789218122237,
       "ttmp3": 1783745792376,
       "slot": 1784464160203,
       "kerja": 1784462533625,
@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33269,
+    "exp": 33344,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20151,7 +20151,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:01:20.957Z",
+    "lastSeen": "2026-09-12T13:02:05.024Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20347,7 +20347,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 218042,
+    "exp": 218057,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -120433,6 +120433,11 @@
   },
   "6285181674737": {
     "jid": "6285181674737",
+    "rpg": {},
+    "exp": 15
+  },
+  "6289673668220": {
+    "jid": "6289673668220",
     "rpg": {},
     "exp": 15
   }
