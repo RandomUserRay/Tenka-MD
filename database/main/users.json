@@ -101746,15 +101746,15 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T15:44:46.998Z",
+    "lastSeen": "2026-09-12T15:44:58.489Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99975,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7339,
+    "exp": 7504,
     "level": 1,
-    "koin": 105429,
+    "koin": 108438,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -101816,7 +101816,8 @@
       "shop": 1789226888335,
       "inv": 1789226912843,
       "use": 1789226929775,
-      "craft": 1789226969863
+      "craft": 1789226969863,
+      "parkir": 1789227890229
     },
     "clanId": null,
     "isRegistered": false,
