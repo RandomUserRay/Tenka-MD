@@ -7,7 +7,7 @@
   "command_brat": 1258,
   "command_antidocument": 2,
   "command_antimedia": 9,
-  "command_play": 4346,
+  "command_play": 4347,
   "command_setmenu": 22,
   "command_botmode": 21,
   "command_listproduk": 26,
@@ -51,7 +51,7 @@
   "command_setpp": 1,
   "command_stats": 56,
   "command_tqto": 5,
-  "command_s": 4413,
+  "command_s": 4414,
   "command_test5": 9,
   "command_swgc": 117,
   "command_crm": 45,
@@ -189,7 +189,7 @@
   "command_addplugin": 64,
   "command_autoreply": 86,
   "command_addcmdsticker": 1,
-  "command_ganticode": 264,
+  "command_ganticode": 263,
   "command_p2": 7,
   "command_delstickercmd": 2,
   "command_ganti-ourin-v9.jpg": 1,
@@ -1349,5 +1349,5 @@
   "command_anichin": 2,
   "command_livechart": 4,
   "command_komikindo": 7,
-  "command_komiku": 4
+  "command_komiku": 3
 }
