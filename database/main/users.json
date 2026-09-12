@@ -1797,7 +1797,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 642414,
+    "exp": 642489,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -89925,7 +89925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14415,
+    "exp": 14445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92947,10 +92947,10 @@
     "jid": "6282180208289",
     "name": "i lav you",
     "number": "6282180208289",
-    "energi": 99988,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33063,
+    "exp": 33018,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -92960,7 +92960,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T16:46:39.801Z",
+    "lastSeen": "2026-09-12T11:17:01.338Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -92968,11 +92968,10 @@
       "level": 1788883562237,
       "afk": 1788952895171,
       "playvid": 1788953194216,
-      "play": 1789231574242,
+      "play": 1789211829936,
       "smeme": 1789191766740,
-      "brat": 1789231582808,
-      "bratimg": 1789211763733,
-      "bratanime": 1789231600652
+      "brat": 1789211583933,
+      "bratimg": 1789211763733
     },
     "clanId": null,
     "isRegistered": false,
@@ -95592,7 +95591,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438280,
+    "exp": 438205,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -107693,7 +107692,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110519,7 +110518,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 105,
+    "exp": 90,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113122,7 +113121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120648,14 +120647,14 @@
     "rpg": {},
     "exp": 30
   },
-  "6283857936156": {
-    "jid": "6283857936156",
-    "rpg": {},
-    "exp": 15
-  },
   "6281917920424": {
     "jid": "6281917920424",
     "rpg": {},
     "exp": 45
+  },
+  "6283857936156": {
+    "jid": "6283857936156",
+    "rpg": {},
+    "exp": 15
   }
 }
