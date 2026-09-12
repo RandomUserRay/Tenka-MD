@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35279,
+    "exp": 34679,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20151,7 +20151,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:14:26.270Z",
+    "lastSeen": "2026-09-12T13:53:20.248Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20348,7 +20348,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 218552,
+    "exp": 218537,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -104188,7 +104188,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44808,
+    "exp": 44823,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111147,7 +111147,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12045,
+    "exp": 12060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112622,7 +112622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113391,7 +113391,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 600,
+    "exp": 615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119707,7 +119707,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 3000,
+    "exp": 3015,
     "energi": 99999
   },
   "6287743157331": {
@@ -120481,11 +120481,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6288267149277": {
-    "jid": "6288267149277",
-    "rpg": {},
-    "exp": 90
-  },
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
@@ -120493,48 +120488,24 @@
     "name": ".",
     "lastSeen": "2026-09-12T13:55:26.169Z"
   },
-  "6282253097912": {
-    "jid": "6282253097912",
+  "6288267149277": {
+    "jid": "6288267149277",
     "rpg": {},
-    "exp": 15
+    "exp": 90
   },
   "77072720822": {
     "jid": "77072720822",
     "rpg": {},
     "exp": 45
   },
-  "62887437321342": {
-    "jid": "62887437321342",
+  "6282253097912": {
+    "jid": "6282253097912",
     "rpg": {},
-    "exp": 165
+    "exp": 15
   },
   "6283875820389": {
     "jid": "6283875820389",
     "rpg": {},
     "exp": 60
-  },
-  "6282192401340": {
-    "name": "alrect",
-    "lastSeen": "2026-09-12T14:07:45.319Z",
-    "jid": "6282192401340",
-    "rpg": {
-      "level": 1,
-      "health": 100,
-      "maxHealth": 100,
-      "mana": 100,
-      "maxMana": 100,
-      "stamina": 100,
-      "maxStamina": 100
-    },
-    "exp": 60,
-    "cooldowns": {
-      "menu": 1789222040112,
-      "menucat": 1789222053237,
-      "wastalk": 1789222068117,
-      "profil": 1789222083520
-    },
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 1,
-    "energi": 23
   }
 }
