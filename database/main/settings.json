@@ -48,11 +48,6 @@
   "errorLog": [
     {
       "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789221022666
-    },
-    {
-      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789219132549
     },
@@ -295,6 +290,11 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
       "at": 1785497664682
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
+      "at": 1785497633212
     }
   ],
   "jpmBlacklist": [],
@@ -21642,13 +21642,13 @@
       "jid": "6283187096719@s.whatsapp.net",
       "name": "paLl1975"
     },
-    "95761211629582@s.whatsapp.net": {
-      "jid": "95761211629582@s.whatsapp.net",
-      "name": "Liberty Aulia"
+    "628211269534@s.whatsapp.net": {
+      "jid": "628211269534@s.whatsapp.net",
+      "name": "p. sv"
     },
-    "62887437321342@s.whatsapp.net": {
-      "jid": "62887437321342@s.whatsapp.net",
-      "name": "Liberty Aulia"
+    "6289509367696@s.whatsapp.net": {
+      "jid": "6289509367696@s.whatsapp.net",
+      "name": "."
     }
   },
   "antiCall": false,
