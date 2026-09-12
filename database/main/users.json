@@ -101746,13 +101746,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T15:28:32.751Z",
+    "lastSeen": "2026-09-12T15:28:49.549Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2528,
+    "exp": 2543,
     "level": 1,
     "koin": 6972,
     "saldo": 0,
@@ -101822,7 +101822,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 3,
+      "stamina": 23,
       "bank": 2746677,
       "health": 105,
       "maxHealth": 170,
@@ -101842,7 +101842,7 @@
       "koran": 7,
       "rock": 5,
       "coal": 2,
-      "stamina": 1
+      "stamina": 0
     },
     "access": [],
     "lastActiveDate": "12/9/2026",
