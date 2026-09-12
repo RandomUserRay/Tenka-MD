@@ -19761,7 +19761,8 @@
       "asupan": 1787973430293,
       "benefitpremium": 1787973444431,
       "mutegc": 1788880692492,
-      "rvo": 1789129029179
+      "rvo": 1789129029179,
+      "ytmp4": 1789238052751
     },
     "clanId": null,
     "isRegistered": false,
@@ -19788,8 +19789,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 4
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -20144,7 +20145,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37544,
+    "exp": 37559,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -120184,7 +120185,7 @@
   "6283191959034": {
     "jid": "6283191959034",
     "rpg": {},
-    "exp": 690,
+    "exp": 705,
     "energi": 99999
   },
   "628976423234": {
