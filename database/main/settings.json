@@ -48,11 +48,6 @@
   "errorLog": [
     {
       "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789219030871
-    },
-    {
-      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
       "at": 1789215404265
     },
@@ -295,6 +290,11 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import { createCanvas } from \"@napi-rs/canvas\"\nimport { performance } from \"perf_hooks\"\nimport os from \"os\"\nimport fs from \"fs\"\nimport config from \".",
       "at": 1785491911902
+    },
+    {
+      "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1785490958218
     }
   ],
   "jpmBlacklist": [],
@@ -14492,7 +14492,7 @@
     },
     "6281946046728@s.whatsapp.net": {
       "jid": "6281946046728@s.whatsapp.net",
-      "name": ".f."
+      "name": "ikyy"
     },
     "6285703023885@s.whatsapp.net": {
       "jid": "6285703023885@s.whatsapp.net",
