@@ -94729,10 +94729,10 @@
     "jid": "6282224026470",
     "name": "Zidane𒉭",
     "number": "6282224026470",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 465,
+    "exp": 480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94742,11 +94742,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:00:09.283Z",
+    "lastSeen": "2026-09-12T14:00:12.949Z",
     "cooldowns": {
       "hd": 1786938143760,
       "pap": 1786938328397,
-      "play": 1788964912398,
+      "play": 1789221622717,
       "lirik": 1788964815281,
       "ytmp4": 1788964920078
     },
@@ -94758,8 +94758,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "9/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 2
   },
   "62895370576172": {
     "jid": "62895370576172",
@@ -97987,7 +97987,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1755,
+    "exp": 1770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
