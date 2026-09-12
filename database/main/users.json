@@ -105423,13 +105423,13 @@
   },
   "6281330283742": {
     "name": "?’",
-    "lastSeen": "2026-09-12T04:10:34.496Z",
+    "lastSeen": "2026-09-12T04:32:17.330Z",
     "jid": "6281330283742",
     "number": "6281330283742",
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1410,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105484,7 +105484,8 @@
     "cooldowns": {
       "bratimg": 1788620336080,
       "play": 1789187487932,
-      "s": 1789187473638
+      "s": 1789187473638,
+      "menu": 1789187540033
     },
     "clanId": null,
     "isRegistered": false,
