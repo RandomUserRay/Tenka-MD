@@ -106817,10 +106817,10 @@
     "jid": "6285236962656",
     "name": "Refan",
     "number": "6285236962656",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106830,17 +106830,18 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T17:22:29.754Z",
+    "lastSeen": "2026-09-12T17:23:13.511Z",
     "cooldowns": {
       "brat": 1789025614124,
       "tagall": 1789174390840,
       "jadibot": 1789226806629,
       "bratimg": 1789025627275,
       "h": 1789233568518,
-      "menu": 1789233594555,
+      "menu": 1789233793909,
       "owner": 1789233669332,
       "menucat": 1789233684530,
-      "hd": 1789233751782
+      "hd": 1789233751782,
+      "hd5": 1789233796150
     },
     "clanId": null,
     "isRegistered": false,
@@ -120818,6 +120819,11 @@
   },
   "6283199748521": {
     "jid": "6283199748521",
+    "rpg": {},
+    "exp": 15
+  },
+  "6287876023556": {
+    "jid": "6287876023556",
     "rpg": {},
     "exp": 15
   }
