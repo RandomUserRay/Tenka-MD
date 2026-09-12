@@ -19659,7 +19659,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 247070,
+    "exp": 247085,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19920,7 +19920,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 145003,
+    "exp": 145018,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -20142,7 +20142,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34994,
+    "exp": 35444,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50906,7 +50906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70197,
+    "exp": 70227,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -52801,7 +52801,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 375,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -55624,7 +55624,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175226,
+    "exp": 175241,
     "level": 1,
     "koin": 176632,
     "unlockedFeatures": [],
@@ -55633,7 +55633,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:46:14.197Z",
+    "lastSeen": "2026-09-12T13:50:22.159Z",
     "cooldowns": {
       "bank": 1784381579169,
       "kerja": 1784124512229,
@@ -59304,7 +59304,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080,
+    "exp": 1110,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111488,7 +111488,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119598,7 +119598,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1875,
+    "exp": 1920,
     "energi": 99997,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -119779,7 +119779,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2985,
+    "exp": 3015,
     "name": "yappink",
     "lastSeen": "2026-09-12T07:18:01.297Z",
     "cooldowns": {}
@@ -120473,7 +120473,7 @@
   "6288267149277": {
     "jid": "6288267149277",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6287742720315": {
     "jid": "6287742720315",
@@ -120493,6 +120493,6 @@
   "62887437321342": {
     "jid": "62887437321342",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
