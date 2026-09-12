@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52090,
+    "exp": 52195,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,11 +342,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T15:48:55.158Z",
+    "lastSeen": "2026-09-12T11:42:21.840Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789120813120,
-      "femboy": 1786026132221,
+      "s": 1789213343291,
+      "femboy": 1789213293800,
       "daily": 1780385975656,
       "profile": 1780316509481,
       "ww": 1780234166014,
@@ -373,7 +373,7 @@
       "luck": 1782124523938,
       "bratpatrick": 1782384051238,
       "pap": 1782642500567,
-      "cekfemboy": 1788076904862,
+      "cekfemboy": 1789213229634,
       "cekcantik": 1789121261482,
       "cekganteng": 1785587950992,
       "jodoh": 1785334126257,
@@ -416,8 +416,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 5
   },
   "6285366861793": {
     "jid": "6285366861793",
@@ -3040,7 +3040,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 699851,
+    "exp": 699926,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3049,7 +3049,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T08:52:26.127Z",
+    "lastSeen": "2026-09-12T11:40:47.562Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3062,7 +3062,7 @@
       "daily": 1782555185906,
       "profil": 1780487704267,
       "work": 1788080921273,
-      "femboy": 1789202443017,
+      "femboy": 1789213249113,
       "afk": 1786281703650,
       "warn": 1786250798434,
       "sleep": 1780313933427,
@@ -14883,10 +14883,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 270884,
+    "exp": 270839,
     "level": 1,
     "koin": 160354,
     "unlockedFeatures": [
@@ -14897,11 +14897,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:39:29.639Z",
+    "lastSeen": "2026-09-08T14:39:18.274Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
-      "menu": 1789213321629,
+      "menu": 1786939582294,
       "allmenu": 1786939560683,
       "spotify": 1781510973722,
       "gay": 1782631750823,
@@ -14935,7 +14935,7 @@
       "ping": 1781510681885,
       "stopjadibot": 1781511091705,
       "menucat": 1786939586822,
-      "play": 1789213300327,
+      "play": 1788878373272,
       "cektinggi": 1782731774869,
       "cekpsikopat": 1781512009572,
       "cekvillain": 1781519834681,
@@ -15217,8 +15217,8 @@
     },
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "8/9/2026",
+    "activeDays": 3
   },
   "6282261512336": {
     "jid": "6282261512336",
@@ -26193,7 +26193,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 80266,
+    "exp": 80236,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -40179,7 +40179,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61650,
+    "exp": 61725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -40188,7 +40188,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T13:20:17.203Z",
+    "lastSeen": "2026-09-12T11:39:25.989Z",
     "cooldowns": {
       "allmenu": 1787978058894,
       "rob": 1784628880390,
@@ -40209,7 +40209,8 @@
       "smeme": 1787570365464,
       "s": 1787570335892,
       "close": 1789132761539,
-      "level": 1788077005245
+      "level": 1788077005245,
+      "mutegc": 1789213167425
     },
     "clanId": null,
     "isRegistered": false,
@@ -40228,8 +40229,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 6
   },
   "6285640264137": {
     "jid": "6285640264137",
@@ -47329,7 +47330,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43896,
+    "exp": 43791,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -54254,7 +54255,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7695,
+    "exp": 7680,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -89905,7 +89906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14325,
+    "exp": 14370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90046,7 +90047,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30240,
+    "exp": 30255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93149,7 +93150,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97737,7 +97738,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8610,
+    "exp": 8565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101724,13 +101725,13 @@
   },
   "628981194866": {
     "name": "‹°{�}『???』{�}°›",
-    "lastSeen": "2026-09-12T09:27:20.529Z",
+    "lastSeen": "2026-09-12T11:42:07.220Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69708,
+    "exp": 69783,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101776,7 +101777,7 @@
       "leaderboard": 1788941708697,
       "play": 1789050092065,
       "cektsundere": 1789122202159,
-      "cekfemboy": 1789051466227,
+      "cekfemboy": 1789213330455,
       "love": 1789051642267,
       "ship": 1789081521124,
       "mine": 1789125572370,
@@ -104167,7 +104168,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42603,
+    "exp": 42513,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104644,7 +104645,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37560,
+    "exp": 37545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104987,7 +104988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6630,
+    "exp": 6585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106527,7 +106528,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2520,
+    "exp": 2505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106892,7 +106893,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6195,
+    "exp": 6150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108079,7 +108080,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108425,7 +108426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 270,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110201,7 +110202,7 @@
     "cooldowns": {
       "menu": 1789212276137,
       "play": 1789212415330,
-      "ytmp4": 1789212968929,
+      "ytmp4": 1789212310432,
       "menucat": 1788958808523,
       "allmenu": 1788989961342,
       "cekjodoh": 1788958162148,
@@ -110931,7 +110932,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3015,
+    "exp": 3000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110967,7 +110968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14880,
+    "exp": 14805,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111070,7 +111071,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6645,
+    "exp": 6570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111126,7 +111127,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11430,
+    "exp": 11355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111334,7 +111335,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 465,
+    "exp": 450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112774,7 +112775,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1170,
+    "exp": 1155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112970,7 +112971,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1875,
+    "exp": 1785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113278,7 +113279,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9420,
+    "exp": 9300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113786,7 +113787,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114106,7 +114107,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114449,7 +114450,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10680,
+    "exp": 10545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119804,7 +119805,7 @@
   "6285178117812": {
     "jid": "6285178117812",
     "rpg": {},
-    "exp": 360
+    "exp": 375
   },
   "6285738094766": {
     "jid": "6285738094766",
@@ -119873,7 +119874,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 1155,
+    "exp": 1080,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-12T02:54:46.334Z"
   },
@@ -119935,15 +119936,15 @@
     "rpg": {},
     "exp": 30
   },
-  "6285714269757": {
-    "jid": "6285714269757",
-    "rpg": {},
-    "exp": 1305
-  },
   "601140455019": {
     "jid": "601140455019",
     "rpg": {},
     "exp": 15
+  },
+  "6285714269757": {
+    "jid": "6285714269757",
+    "rpg": {},
+    "exp": 1305
   },
   "6288975219061": {
     "jid": "6288975219061",
@@ -120000,15 +120001,25 @@
     "rpg": {},
     "exp": 30
   },
+  "6282282399289": {
+    "jid": "6282282399289",
+    "rpg": {},
+    "exp": 90
+  },
   "6282277550207": {
     "jid": "6282277550207",
     "rpg": {},
     "exp": 15
   },
-  "6282282399289": {
-    "jid": "6282282399289",
+  "6283845726812": {
+    "jid": "6283845726812",
     "rpg": {},
-    "exp": 45
+    "exp": 30
+  },
+  "259266288054308": {
+    "jid": "259266288054308",
+    "rpg": {},
+    "exp": 15
   },
   "6285896022680": {
     "jid": "6285896022680",
@@ -120039,6 +120050,11 @@
     "jid": "6283191959034",
     "rpg": {},
     "exp": 420
+  },
+  "6285141167665": {
+    "jid": "6285141167665",
+    "rpg": {},
+    "exp": 15
   },
   "628976423234": {
     "jid": "628976423234",
@@ -120097,21 +120113,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6283845726812": {
-    "jid": "6283845726812",
-    "rpg": {},
-    "exp": 30
-  },
-  "259266288054308": {
-    "jid": "259266288054308",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285141167665": {
-    "jid": "6285141167665",
-    "rpg": {},
-    "exp": 15
-  },
   "6285754333724": {
     "jid": "6285754333724",
     "rpg": {
@@ -120137,7 +120138,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 1335
+    "exp": 1215
   },
   "6288245965331": {
     "jid": "6288245965331",
@@ -120158,6 +120159,11 @@
     "jid": "180779971813448",
     "rpg": {},
     "exp": 15
+  },
+  "6285248645406": {
+    "jid": "6285248645406",
+    "rpg": {},
+    "exp": 30
   },
   "6288214815773": {
     "jid": "6288214815773",
@@ -120187,11 +120193,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6285248645406": {
-    "jid": "6285248645406",
-    "rpg": {},
-    "exp": 30
-  },
   "62895354980700": {
     "jid": "62895354980700",
     "rpg": {},
@@ -120210,7 +120211,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 510
+    "exp": 315
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120293,6 +120294,11 @@
     "rpg": {},
     "exp": 105
   },
+  "6285178232165": {
+    "jid": "6285178232165",
+    "rpg": {},
+    "exp": 15
+  },
   "6282374733634": {
     "jid": "6282374733634",
     "rpg": {},
@@ -120321,7 +120327,7 @@
   "6283164824798": {
     "jid": "6283164824798",
     "rpg": {},
-    "exp": 495
+    "exp": 480
   },
   "6285656216139": {
     "jid": "6285656216139",
@@ -120343,6 +120349,11 @@
     "rpg": {},
     "exp": 30
   },
+  "6285191484654": {
+    "jid": "6285191484654",
+    "rpg": {},
+    "exp": 15
+  },
   "62881010063311": {
     "jid": "62881010063311",
     "rpg": {},
@@ -120356,10 +120367,10 @@
   "628139594763": {
     "jid": "628139594763",
     "rpg": {},
-    "exp": 60
+    "exp": 30
   },
-  "6285809114457": {
-    "jid": "6285809114457",
+  "6283137426441": {
+    "jid": "6283137426441",
     "rpg": {},
     "exp": 15
   }
