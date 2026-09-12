@@ -19661,7 +19661,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 247040,
+    "exp": 247055,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -106457,18 +106457,23 @@
       "bratbahlil": 1788968744147,
       "antispam": 1789042858927,
       "del": 1789042728017,
-      "antilinkgc": 1789043560494
+      "antilinkgc": 1789043560494,
+      "tidur": 1789232779916
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "stamina": 100,
+      "health": 105,
+      "mana": 53
+    },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 7
   },
   "6285143291540": {
     "jid": "6285143291540",
