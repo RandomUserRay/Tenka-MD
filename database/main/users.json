@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T05:40:34.821Z",
+    "lastSeen": "2026-09-12T05:45:40.622Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000019875,
+    "exp": 9000019950,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -27054,10 +27054,10 @@
     "jid": "6283129172027",
     "name": "Raadityaa S. M. / 7G",
     "number": "6283129172027",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12068689,
+    "exp": 12068674,
     "level": 1,
     "koin": 36635,
     "unlockedFeatures": [
@@ -27072,7 +27072,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T05:44:23.528Z",
+    "lastSeen": "2026-09-11T22:47:59.729Z",
     "cooldowns": {
       "afk": 1788994840695,
       "play": 1788179332776,
@@ -104627,7 +104627,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36120,
+    "exp": 36105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119728,7 +119728,7 @@
     "lastSeen": "2026-09-12T00:59:57.674Z",
     "jid": "16092151875",
     "rpg": {},
-    "exp": 465,
+    "exp": 615,
     "cooldowns": {
       "jadibot": 1789174801266
     },
@@ -119842,15 +119842,15 @@
     "rpg": {},
     "exp": 15
   },
-  "6285714269757": {
-    "jid": "6285714269757",
-    "rpg": {},
-    "exp": 120
-  },
   "601140455019": {
     "jid": "601140455019",
     "rpg": {},
     "exp": 15
+  },
+  "6285714269757": {
+    "jid": "6285714269757",
+    "rpg": {},
+    "exp": 120
   },
   "6288975219061": {
     "jid": "6288975219061",
@@ -119874,6 +119874,11 @@
   },
   "6285165048021": {
     "jid": "6285165048021",
+    "rpg": {},
+    "exp": 15
+  },
+  "62882005686310": {
+    "jid": "62882005686310",
     "rpg": {},
     "exp": 15
   }
