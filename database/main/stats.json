@@ -1,6 +1,6 @@
 {
   "commandErrors": 578,
-  "commandsExecuted": 116395,
+  "commandsExecuted": 116397,
   "command_totalchat": 18,
   "command_menu": 1734,
   "command_fb": 5,
@@ -113,7 +113,7 @@
   "command_cumatest": 1,
   "command_get": 3,
   "command_text2img2": 3,
-  "command_block": 3,
+  "command_block": 4,
   "command_ping2": 17,
   "command_tocermin": 3,
   "command_seedream": 1,
@@ -1344,5 +1344,6 @@
   "command_status2": 9,
   "command_tenka": 9,
   "command_rwaifu-nsfwvid": 1,
-  "command_thighsvid": 3
+  "command_thighsvid": 3,
+  "command_blokir": 1
 }
