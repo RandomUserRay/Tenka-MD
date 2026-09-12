@@ -11517,7 +11517,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32709,
+    "exp": 32794,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11558,7 +11558,8 @@
       "kerja": 1788080775042,
       "marry": 1789136014807,
       "love": 1789135885643,
-      "cekfemboy": 1789135803002
+      "cekfemboy": 1789135803002,
+      "training": 1789213756929
     },
     "clanId": null,
     "isRegistered": false,
@@ -11575,7 +11576,8 @@
       "maxStamina": 110,
       "bank": 250000,
       "spouse": "6283857834910@s.whatsapp.net",
-      "marriedAt": 1789136014473
+      "marriedAt": 1789136014473,
+      "luck": 7
     },
     "inventory": {
       "iron": 2
