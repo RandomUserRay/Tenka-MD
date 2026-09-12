@@ -333,7 +333,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52810,
+    "exp": 52765,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:22:13.066Z",
+    "lastSeen": "2026-09-12T11:49:01.887Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -387,8 +387,7 @@
       "ship": 1788274809480,
       "unmute": 1789141735753,
       "me": 1789213802472,
-      "mutegc": 1789136779380,
-      "transfer": 1789222933554
+      "mutegc": 1789136779380
     },
     "clanId": null,
     "isRegistered": false,
@@ -47341,7 +47340,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45156,
+    "exp": 45186,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -96653,7 +96652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104189,7 +104188,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44973,
+    "exp": 45003,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104666,7 +104665,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38265,
+    "exp": 38295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106671,7 +106670,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14385,
+    "exp": 14400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110989,7 +110988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16020,
+    "exp": 16065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112455,7 +112454,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113300,7 +113299,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10350,
+    "exp": 10380,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119495,7 +119494,7 @@
   "62895402520016": {
     "jid": "62895402520016",
     "rpg": {},
-    "exp": 300,
+    "exp": 345,
     "energi": 99999
   },
   "6289667410501": {
@@ -120261,7 +120260,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 2310
+    "exp": 2400
   },
   "264798004625543": {
     "jid": "264798004625543",
@@ -120489,11 +120488,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6288267149277": {
-    "jid": "6288267149277",
-    "rpg": {},
-    "exp": 90
-  },
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
@@ -120501,58 +120495,29 @@
     "name": ".",
     "lastSeen": "2026-09-12T13:55:26.169Z"
   },
-  "6282253097912": {
-    "jid": "6282253097912",
+  "6288267149277": {
+    "jid": "6288267149277",
     "rpg": {},
-    "exp": 15
+    "exp": 90
   },
   "77072720822": {
     "jid": "77072720822",
     "rpg": {},
     "exp": 45
   },
-  "62887437321342": {
-    "jid": "62887437321342",
+  "6282253097912": {
+    "jid": "6282253097912",
     "rpg": {},
-    "exp": 165
+    "exp": 15
   },
   "6283875820389": {
     "jid": "6283875820389",
     "rpg": {},
     "exp": 60
   },
-  "6282192401340": {
-    "name": "alrect",
-    "lastSeen": "2026-09-12T14:14:30.477Z",
-    "jid": "6282192401340",
-    "rpg": {
-      "level": 1,
-      "health": 100,
-      "maxHealth": 100,
-      "mana": 100,
-      "maxMana": 100,
-      "stamina": 100,
-      "maxStamina": 100
-    },
-    "exp": 120,
-    "cooldowns": {
-      "menu": 1789222470325,
-      "menucat": 1789222053237,
-      "wastalk": 1789222470479,
-      "profil": 1789222083520
-    },
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 1,
-    "energi": 21
-  },
-  "6283161280508": {
-    "jid": "6283161280508",
-    "rpg": {},
-    "exp": 15
-  },
   "6281930151465": {
     "jid": "6281930151465",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
