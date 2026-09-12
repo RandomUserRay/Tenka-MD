@@ -1,8 +1,8 @@
 {
   "commandErrors": 580,
-  "commandsExecuted": 116649,
+  "commandsExecuted": 116646,
   "command_totalchat": 18,
-  "command_menu": 1743,
+  "command_menu": 1741,
   "command_fb": 5,
   "command_brat": 1258,
   "command_antidocument": 2,
@@ -17,7 +17,7 @@
   "command_liststok": 12,
   "command_hapusproduk": 3,
   "command_done": 9,
-  "command_ping": 311,
+  "command_ping": 309,
   "command_tt": 653,
   "command_list": 19,
   "command_addlist": 3,
@@ -1349,5 +1349,5 @@
   "command_anichin": 8,
   "command_livechart": 4,
   "command_komikindo": 7,
-  "command_komiku": 20
+  "command_komiku": 21
 }
