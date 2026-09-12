@@ -2,7 +2,7 @@
   "commandErrors": 580,
   "commandsExecuted": 116508,
   "command_totalchat": 18,
-  "command_menu": 1738,
+  "command_menu": 1739,
   "command_fb": 5,
   "command_brat": 1257,
   "command_antidocument": 2,
@@ -162,7 +162,7 @@
   "command_liststikerreply": 2,
   "command_delstikerreply": 3,
   "command_delowner": 15,
-  "command_bratimg": 1793,
+  "command_bratimg": 1794,
   "command_rvo": 88,
   "command_listowner": 5,
   "command_listprem": 31,
@@ -189,7 +189,7 @@
   "command_addplugin": 64,
   "command_autoreply": 86,
   "command_addcmdsticker": 1,
-  "command_ganticode": 260,
+  "command_ganticode": 259,
   "command_p2": 7,
   "command_delstickercmd": 2,
   "command_ganti-ourin-v9.jpg": 1,
@@ -1348,5 +1348,5 @@
   "command_blokir": 3,
   "command_anichin": 2,
   "command_livechart": 4,
-  "command_komikindo": 5
+  "command_komikindo": 4
 }
