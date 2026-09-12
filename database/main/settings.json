@@ -48,8 +48,8 @@
   "errorLog": [
     {
       "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789226401871
+      "err": "rate-overlimit",
+      "at": 1789226378100
     },
     {
       "cmd": "unknown",
@@ -6952,7 +6952,7 @@
     },
     "628871508866@s.whatsapp.net": {
       "jid": "628871508866@s.whatsapp.net",
-      "name": "𝓙eune grande ...<"
+      "name": "𝓙enlin grande"
     },
     "6283183096223@s.whatsapp.net": {
       "jid": "6283183096223@s.whatsapp.net",
@@ -19960,7 +19960,7 @@
     },
     "6285311907204@s.whatsapp.net": {
       "jid": "6285311907204@s.whatsapp.net",
-      "name": "asep bulukutuk"
+      "name": "a$ep Royki"
     },
     "6285161715192@s.whatsapp.net": {
       "jid": "6285161715192@s.whatsapp.net",
@@ -21825,6 +21825,14 @@
     "62895360306279@s.whatsapp.net": {
       "jid": "62895360306279@s.whatsapp.net",
       "name": "sstihnaa"
+    },
+    "6281248743572@s.whatsapp.net": {
+      "jid": "6281248743572@s.whatsapp.net",
+      "name": "ello"
+    },
+    "6281930134576@s.whatsapp.net": {
+      "jid": "6281930134576@s.whatsapp.net",
+      "name": "."
     }
   },
   "antiCall": false,
