@@ -5318,10 +5318,10 @@
     "jid": "6285810267907",
     "name": "idk",
     "number": "6285810267907",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33721,
+    "exp": 33736,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -5330,7 +5330,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:56:52.745Z",
+    "lastSeen": "2026-09-12T15:50:14.741Z",
     "cooldowns": {
       "brat": 1789023042277,
       "bratimg": 1789023056494,
@@ -120514,7 +120514,7 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 855,
+    "exp": 870,
     "name": "🦖🦖",
     "lastSeen": "2026-09-12T15:34:50.552Z"
   },
