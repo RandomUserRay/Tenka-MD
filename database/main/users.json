@@ -104178,7 +104178,7 @@
       "level": 1789043734603,
       "totalchat": 1789038517367,
       "wm": 1789127678370,
-      "setwelcome": 1789179601633,
+      "setwelcome": 1789179659227,
       "resetwelcome": 1788759445373,
       "kick": 1789041911211,
       "allmenu": 1788790861017,
@@ -107112,7 +107112,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1185,
+    "exp": 1200,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114025,12 +114025,12 @@
   },
   "628976842334": {
     "jid": "628976842334",
-    "name": "Unknown",
+    "name": "R4NZZ",
     "number": "628976842334",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114040,8 +114040,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T05:45:03.843Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-12T02:20:59.048Z",
+    "cooldowns": {
+      "menucat": 1789179661051
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -114049,7 +114051,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 1
   },
   "6285169916843": {
     "jid": "6285169916843",
