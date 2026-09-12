@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-12T16:19:59.530Z",
+    "lastSeen": "2026-09-12T16:26:04.685Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000029250,
+    "exp": 9000029400,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -35658,7 +35658,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1410,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -56079,10 +56079,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14040,
+    "exp": 14025,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -56091,14 +56091,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T16:25:42.309Z",
+    "lastSeen": "2026-09-06T04:51:00.845Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
       "ngemis": 1783951055610,
       "femboy": 1783950983156,
       "gojo": 1783953215203,
-      "play": 1789230342744,
+      "play": 1788341924362,
       "meme": 1784020719584,
       "sticker": 1783951257284,
       "s": 1784197155731,
@@ -56155,8 +56155,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "2/9/2026",
+    "activeDays": 1
   },
   "6285124316709": {
     "name": "Messi senggol dong",
@@ -89925,7 +89925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14370,
+    "exp": 14415,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119654,7 +119654,7 @@
   "62895340257283": {
     "jid": "62895340257283",
     "rpg": {},
-    "exp": 645,
+    "exp": 630,
     "energi": 99999
   },
   "6288276727077": {
@@ -120647,14 +120647,14 @@
     "rpg": {},
     "exp": 30
   },
-  "6283857936156": {
-    "jid": "6283857936156",
-    "rpg": {},
-    "exp": 15
-  },
   "6281917920424": {
     "jid": "6281917920424",
     "rpg": {},
     "exp": 45
+  },
+  "6283857936156": {
+    "jid": "6283857936156",
+    "rpg": {},
+    "exp": 15
   }
 }
