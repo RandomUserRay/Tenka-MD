@@ -20361,7 +20361,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222707,
+    "exp": 222857,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -51002,7 +51002,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75415,
+    "exp": 75445,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96391,10 +96391,10 @@
     "jid": "628212256654",
     "name": "nana?",
     "number": "628212256654",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19965,
+    "exp": 19980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96404,7 +96404,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T04:52:27.541Z",
+    "lastSeen": "2026-09-13T04:56:08.928Z",
     "cooldowns": {
       "brat": 1788649407336,
       "afk": 1789221717346,
@@ -96417,7 +96417,7 @@
       "jodoh": 1787666860726,
       "ttmp3": 1787815170622,
       "tinggi": 1787831945916,
-      "pin": 1789275155514,
+      "pin": 1789275376757,
       "s": 1788603873608
     },
     "clanId": null,
@@ -104734,7 +104734,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40830,
+    "exp": 40860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111040,7 +111040,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3930,
+    "exp": 3975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111117,7 +111117,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4005,
+    "exp": 4020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111179,7 +111179,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7260,
+    "exp": 7275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111235,7 +111235,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13395,
+    "exp": 13425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111527,7 +111527,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2790,
+    "exp": 2850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112972,7 +112972,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 585,
+    "exp": 630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119718,7 +119718,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 4140,
+    "exp": 4170,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -120137,7 +120137,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 2805,
+    "exp": 2835,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -120597,7 +120597,7 @@
   "6285656216139": {
     "jid": "6285656216139",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "energi": 99999
   },
   "62882003245635": {
@@ -121168,9 +121168,9 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 2790,
+    "exp": 3030,
     "name": "el",
-    "lastSeen": "2026-09-13T04:54:20.493Z"
+    "lastSeen": "2026-09-13T04:56:08.051Z"
   },
   "6283160324169": {
     "jid": "6283160324169",
@@ -121200,17 +121200,17 @@
   "628888313803": {
     "jid": "628888313803",
     "rpg": {},
-    "exp": 315
+    "exp": 330
   },
   "6285177354680": {
     "jid": "6285177354680",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   },
   "6285774635070": {
     "jid": "6285774635070",
     "rpg": {},
-    "exp": 195
+    "exp": 300
   },
   "6281935901496": {
     "jid": "6281935901496",
@@ -121220,6 +121220,6 @@
   "6289672234058": {
     "jid": "6289672234058",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
