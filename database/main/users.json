@@ -34114,7 +34114,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275355,
+    "exp": 275400,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35978,7 +35978,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 221765,
+    "exp": 221810,
     "level": 1,
     "koin": 57223,
     "unlockedFeatures": [],
@@ -40206,7 +40206,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62190,
+    "exp": 62145,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104729,7 +104729,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40650,
+    "exp": 40695,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110283,13 +110283,13 @@
   },
   "6285603608907": {
     "name": "yaa?",
-    "lastSeen": "2026-09-13T03:52:10.728Z",
+    "lastSeen": "2026-09-13T03:53:25.436Z",
     "jid": "6285603608907",
     "number": "6285603608907",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2535,
+    "exp": 2565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110331,7 +110331,8 @@
       "character-ai": 1788990262016,
       "islami": 1788990293515,
       "dare": 1789271434972,
-      "truth": 1789271530755
+      "truth": 1789271530755,
+      "benefitpartner": 1789271605466
     },
     "clanId": null,
     "isRegistered": false,
@@ -111730,7 +111731,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3945,
+    "exp": 3960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119968,7 +119969,7 @@
   "6285178117812": {
     "jid": "6285178117812",
     "rpg": {},
-    "exp": 435,
+    "exp": 420,
     "energi": 99999
   },
   "6285738094766": {
@@ -121042,6 +121043,11 @@
     "rpg": {},
     "exp": 555
   },
+  "6282129840923": {
+    "jid": "6282129840923",
+    "rpg": {},
+    "exp": 30
+  },
   "6285141057228": {
     "name": "Selvia",
     "lastSeen": "2026-09-13T03:22:38.472Z",
@@ -121062,11 +121068,6 @@
   },
   "6285213698644": {
     "jid": "6285213698644",
-    "rpg": {},
-    "exp": 30
-  },
-  "6282129840923": {
-    "jid": "6282129840923",
     "rpg": {},
     "exp": 30
   },
