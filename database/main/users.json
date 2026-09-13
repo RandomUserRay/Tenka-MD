@@ -107149,7 +107149,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 240,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111071,7 +111071,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19590,
+    "exp": 19605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111731,7 +111731,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3960,
+    "exp": 3990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113387,7 +113387,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11685,
+    "exp": 11775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120078,7 +120078,7 @@
   "6287897303210": {
     "jid": "6287897303210",
     "rpg": {},
-    "exp": 660,
+    "exp": 690,
     "name": "KOKO",
     "lastSeen": "2026-09-13T02:05:41.773Z",
     "cooldowns": {
@@ -121139,7 +121139,7 @@
   "6285280127187": {
     "jid": "6285280127187",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6285923433144": {
     "jid": "6285923433144",
@@ -121159,11 +121159,11 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 225
+    "exp": 240
   },
   "6283160324169": {
     "jid": "6283160324169",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
