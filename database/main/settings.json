@@ -49,6 +49,26 @@
     {
       "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282575661
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282575528
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282573710
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282573257
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789282278105
     },
     {
@@ -275,26 +295,6 @@
       "cmd": "unknown",
       "err": "fetch failed",
       "at": 1787884402958
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1787662355177
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import { getCaseCount, getCasesByCategory } from \"../../case/ourin.js\";\nimport {\n  prepareWAMessageMedia,\n  generateWAMessageFromContent,\n  proto,\n} ",
-      "at": 1787578269143
-    },
-    {
-      "cmd": "unknown",
-      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
-      "at": 1787029048030
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1786972532043
     }
   ],
   "jpmBlacklist": [],
