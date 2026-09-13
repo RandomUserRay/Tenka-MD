@@ -96285,7 +96285,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21930,
+    "exp": 21945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96295,10 +96295,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:41:24.976Z",
+    "lastSeen": "2026-09-13T07:19:20.541Z",
     "cooldowns": {
       "play": 1789196305736,
-      "afk": 1789224088464,
+      "afk": 1789283962019,
       "brat": 1789196327140,
       "bratimg": 1789039305429,
       "bratvid": 1787753890092,
@@ -96327,8 +96327,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 15
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 16
   },
   "6285811305652": {
     "jid": "6285811305652",
@@ -114592,7 +114592,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13380,
+    "exp": 13395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
