@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 999999,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53020,
+    "exp": 53035,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T11:15:50.338Z",
+    "lastSeen": "2026-09-13T11:48:23.858Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -19663,7 +19663,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 261485,
+    "exp": 261470,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -96304,7 +96304,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21975,
+    "exp": 21960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104290,7 +104290,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53373,
+    "exp": 53358,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106787,7 +106787,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16065,
+    "exp": 16050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107040,10 +107040,10 @@
     "jid": "6282373116563",
     "name": ".       Zzam",
     "number": "6282373116563",
-    "energi": 100007,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6330,
+    "exp": 6315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120119,7 +120119,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 2085,
+    "exp": 2070,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-13T10:32:40.037Z",
     "energi": 99999
@@ -121556,20 +121556,15 @@
     "rpg": {},
     "exp": 45
   },
-  "6282245695966": {
-    "jid": "6282245695966",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282382333894": {
-    "jid": "6282382333894",
-    "rpg": {},
-    "exp": 60
-  },
   "6282227775498": {
     "jid": "6282227775498",
     "rpg": {},
     "exp": 120
+  },
+  "6282245695966": {
+    "jid": "6282245695966",
+    "rpg": {},
+    "exp": 15
   },
   "6282298458753": {
     "name": ".",
@@ -121588,6 +121583,11 @@
     "jid": "6285122968288",
     "rpg": {},
     "exp": 15
+  },
+  "6282382333894": {
+    "jid": "6282382333894",
+    "rpg": {},
+    "exp": 60
   },
   "6281521531647": {
     "jid": "6281521531647",
@@ -121608,5 +121608,10 @@
     "jid": "6282373314137",
     "rpg": {},
     "exp": 120
+  },
+  "6287798841924": {
+    "jid": "6287798841924",
+    "rpg": {},
+    "exp": 15
   }
 }
