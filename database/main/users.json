@@ -106795,7 +106795,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16905,
+    "exp": 16920,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106805,7 +106805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:06:08.040Z",
+    "lastSeen": "2026-09-13T15:06:19.688Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -120222,7 +120222,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 4605,
+    "exp": 4620,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -121749,6 +121749,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 255
+    "exp": 270
   }
 }
