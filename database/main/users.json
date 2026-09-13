@@ -19663,7 +19663,7 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 265445,
+    "exp": 265490,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -79868,7 +79868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2070,
+    "exp": 2085,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106795,10 +106795,10 @@
     "jid": "628135338055",
     "name": "king :)",
     "number": "628135338055",
-    "energi": 99988,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17370,
+    "exp": 17385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106808,7 +106808,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:21:22.018Z",
+    "lastSeen": "2026-09-13T15:23:32.933Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106836,7 +106836,7 @@
       "deltoxic": 1789312414086,
       "addtoxic": 1789312642909,
       "menucat": 1789312844733,
-      "qc": 1789312882082
+      "qc": 1789313013129
     },
     "clanId": null,
     "isRegistered": false,
@@ -121773,6 +121773,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 600
+    "exp": 630
   }
 }
