@@ -333,7 +333,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53020,
+    "exp": 53050,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -407,8 +407,8 @@
       "maxStamina": 125,
       "bank": 549143483,
       "luck": 6,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1789298530615
     },
     "inventory": {
       "coal": 1,
@@ -41010,7 +41010,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283349,
+    "exp": 283364,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66809,9 +66809,9 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168025,
+    "exp": 168040,
     "level": 1,
-    "koin": 1451812524,
+    "koin": 1451762524,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66824,7 +66824,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T11:22:04.652Z",
+    "lastSeen": "2026-09-13T11:22:10.614Z",
     "cooldowns": {
       "afk": 1789217545579,
       "s": 1789193262540,
@@ -66857,7 +66857,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789298428173,
+      "marry": 1789298530817,
       "transfer": 1789119793583,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -66917,8 +66917,8 @@
       "maxStamina": 180,
       "bank": 0,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6289529899190@s.whatsapp.net",
+      "marriedAt": 1789298530615,
       "defense": 15,
       "fishing": 20,
       "luck": 9
@@ -72534,7 +72534,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8385,
+    "exp": 8400,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95923,7 +95923,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4380,
+    "exp": 4395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113444,7 +113444,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15135,
+    "exp": 15120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119572,7 +119572,7 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-11T14:21:26.615Z",
     "cooldowns": {
@@ -120236,7 +120236,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "62882005686310": {
@@ -121555,20 +121555,15 @@
     "rpg": {},
     "exp": 45
   },
-  "6282245695966": {
-    "jid": "6282245695966",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282382333894": {
-    "jid": "6282382333894",
-    "rpg": {},
-    "exp": 60
-  },
   "6282227775498": {
     "jid": "6282227775498",
     "rpg": {},
     "exp": 120
+  },
+  "6282245695966": {
+    "jid": "6282245695966",
+    "rpg": {},
+    "exp": 15
   },
   "6282298458753": {
     "name": ".",
@@ -121588,19 +121583,9 @@
     "rpg": {},
     "exp": 15
   },
-  "6281521531647": {
-    "jid": "6281521531647",
+  "6282382333894": {
+    "jid": "6282382333894",
     "rpg": {},
-    "exp": 15
-  },
-  "6285141109975": {
-    "jid": "6285141109975",
-    "rpg": {},
-    "exp": 15
-  },
-  "6289673306609": {
-    "jid": "6289673306609",
-    "rpg": {},
-    "exp": 15
+    "exp": 60
   }
 }
