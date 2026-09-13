@@ -19663,7 +19663,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 261875,
+    "exp": 261890,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20154,7 +20154,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44699,
+    "exp": 44774,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20163,7 +20163,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T11:57:59.873Z",
+    "lastSeen": "2026-09-13T12:00:11.422Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -95668,7 +95668,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438625,
+    "exp": 438640,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -119575,14 +119575,15 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-11T14:21:26.615Z",
+    "lastSeen": "2026-09-13T12:00:05.970Z",
     "cooldowns": {
-      "love": 1789136486991
+      "love": 1789136486991,
+      "cektsundere": 1789300810137
     },
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 1,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 2,
     "energi": 99999
   },
   "62895622978537": {
