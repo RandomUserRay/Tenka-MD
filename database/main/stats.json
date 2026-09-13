@@ -46,7 +46,7 @@
   "command_eval": 17,
   "command_getplugin": 207,
   "command_tourl": 23,
-  "command_p": 917,
+  "command_p": 918,
   "command_ganti-namabot": 2,
   "command_setpp": 1,
   "command_stats": 56,
@@ -780,7 +780,7 @@
   "command_berita": 5,
   "command_cak": 5,
   "command_gombal": 39,
-  "command_h": 750,
+  "command_h": 749,
   "command_nembak": 1,
   "command_dadu": 15,
   "command_absen": 112,
@@ -1363,5 +1363,6 @@
   "command_listsenderglobal": 6,
   "command_whitelistsg": 1,
   "command_delwhitelistbug": 1,
-  "command_addwsg": 2
+  "command_addwsg": 2,
+  "command_addai": 1
 }
