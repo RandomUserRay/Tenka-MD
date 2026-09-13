@@ -1,6 +1,6 @@
 {
   "commandErrors": 599,
-  "commandsExecuted": 117561,
+  "commandsExecuted": 117566,
   "command_totalchat": 19,
   "command_menu": 1784,
   "command_fb": 5,
@@ -79,7 +79,7 @@
   "command_antiremove": 7,
   "command_donasi": 9,
   "command_splugin": 6,
-  "command_addowner": 21,
+  "command_addowner": 22,
   "command_payment": 7,
   "command_custompayment": 4,
   "command_bcgc": 24,
@@ -1350,7 +1350,9 @@
   "command_livechart": 4,
   "command_komikindo": 7,
   "command_komiku": 22,
-  "command_sendbug": 3,
+  "command_sendbug": 5,
   "command_addbugaccess": 4,
-  "command_listbugaccess": 1
+  "command_listbugaccess": 1,
+  "command_addsender": 1,
+  "command_delbugaccess": 1
 }
