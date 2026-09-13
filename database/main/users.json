@@ -79866,7 +79866,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1740,
+    "exp": 1770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97842,7 +97842,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10425,
+    "exp": 10440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106795,7 +106795,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16890,
+    "exp": 16905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106805,7 +106805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:04:47.153Z",
+    "lastSeen": "2026-09-13T15:06:08.040Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106827,7 +106827,8 @@
       "tebakgambar": 1789111941539,
       "tebakff": 1789300064583,
       "iqc": 1789282750355,
-      "antitoxic": 1789311834338
+      "antitoxic": 1789311834338,
+      "antispam": 1789311968276
     },
     "clanId": null,
     "isRegistered": false,
@@ -121748,6 +121749,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 240
+    "exp": 255
   }
 }
