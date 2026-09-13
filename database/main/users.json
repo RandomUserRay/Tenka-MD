@@ -34115,7 +34115,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 276420,
+    "exp": 276435,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35178,7 +35178,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 992213,
+    "exp": 992228,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35187,7 +35187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T05:43:02.430Z",
+    "lastSeen": "2026-09-13T06:24:40.773Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35359,7 +35359,8 @@
       "alightmotionpremium": 1788603488814,
       "music": 1788603636748,
       "playvid": 1788908767233,
-      "komiku": 1789191666335
+      "komiku": 1789191666335,
+      "ceksial": 1789280680813
     },
     "clanId": null,
     "isRegistered": false,
@@ -35426,8 +35427,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 7
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -104258,7 +104259,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49773,
+    "exp": 49788,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106749,7 +106750,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15105,
+    "exp": 15120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
