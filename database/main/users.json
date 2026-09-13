@@ -104696,7 +104696,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40050,
+    "exp": 40065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113498,7 +113498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2175,
+    "exp": 2205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114532,7 +114532,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12405,
+    "exp": 12420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120916,6 +120916,11 @@
   },
   "6287784433015": {
     "jid": "6287784433015",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285811627254": {
+    "jid": "6285811627254",
     "rpg": {},
     "exp": 15
   }
