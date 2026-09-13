@@ -19660,10 +19660,10 @@
     "jid": "6283172976375",
     "name": "iky heloo",
     "number": "6283172976375",
-    "energi": 99978,
+    "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 265265,
+    "exp": 265310,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:19:13.627Z",
+    "lastSeen": "2026-09-13T15:20:21.191Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19763,7 +19763,7 @@
       "asupan": 1787973430293,
       "benefitpremium": 1787973444431,
       "mutegc": 1789293572354,
-      "rvo": 1789300918834,
+      "rvo": 1789312822606,
       "ytmp4": 1789238895010,
       "s": 1789263643822,
       "p": 1789293731255,
@@ -97780,7 +97780,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106275,7 +106275,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1350,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106797,7 +106797,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17265,
+    "exp": 17310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106807,21 +106807,21 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:18:05.857Z",
+    "lastSeen": "2026-09-13T15:20:20.266Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
       "bratimg": 1789277836877,
       "bratpatrick": 1788695750519,
-      "menu": 1789312686018,
-      "allmenu": 1788872044646,
+      "menu": 1789312814472,
+      "allmenu": 1789312820877,
       "play": 1789299829698,
       "ytmp4": 1789299825257,
       "owner": 1789311887229,
       "h": 1789311014333,
       "tagall": 1789112311973,
       "d": 1788993142979,
-      "del": 1789311279984,
+      "del": 1789312807834,
       "kick": 1789041877413,
       "ht": 1788996743272,
       "rvo": 1789208966328,
@@ -119685,7 +119685,7 @@
   "6289667410501": {
     "jid": "6289667410501",
     "rpg": {},
-    "exp": 345,
+    "exp": 375,
     "energi": 99997,
     "name": "nnayi🥑🍪",
     "lastSeen": "2026-09-13T15:19:32.530Z",
@@ -119915,10 +119915,10 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 6540,
+    "exp": 6555,
     "energi": 99999,
     "name": "hh",
-    "lastSeen": "2026-09-13T05:16:32.866Z"
+    "lastSeen": "2026-09-13T15:20:31.000Z"
   },
   "6287743157331": {
     "jid": "6287743157331",
@@ -120562,7 +120562,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 5055,
+    "exp": 5070,
     "energi": 99999
   },
   "264798004625543": {
@@ -121763,6 +121763,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 450
+    "exp": 465
   }
 }
