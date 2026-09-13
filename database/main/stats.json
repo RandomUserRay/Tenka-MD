@@ -1,6 +1,6 @@
 {
   "commandErrors": 607,
-  "commandsExecuted": 117962,
+  "commandsExecuted": 117964,
   "command_totalchat": 19,
   "command_menu": 1798,
   "command_fb": 5,
@@ -156,7 +156,7 @@
   "command_ai-rewriter": 1,
   "command_daftar": 18,
   "command_bataldaftar": 1,
-  "command_del": 176,
+  "command_del": 177,
   "command_autoreplystiker": 9,
   "command_addstikerreply": 4,
   "command_liststikerreply": 2,
@@ -1359,6 +1359,6 @@
   "command_delsender": 3,
   "command_blacklist": 2,
   "command_listwhitelistbug": 3,
-  "command_listsender": 2,
+  "command_listsender": 3,
   "command_listsenderglobal": 2
 }
