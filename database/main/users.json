@@ -19663,7 +19663,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 260675,
+    "exp": 260630,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:38:56.635Z",
+    "lastSeen": "2026-09-13T10:38:14.324Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19769,8 +19769,7 @@
       "p": 1789293731255,
       "pin": 1789293146616,
       "cekcantik": 1789293171135,
-      "brat": 1789295753403,
-      "unmutegc": 1789295936816
+      "brat": 1789295753403
     },
     "clanId": null,
     "isRegistered": false,
@@ -26685,7 +26684,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715143,
+    "exp": 715158,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -47378,7 +47377,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45771,
+    "exp": 45756,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -104287,7 +104286,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52593,
+    "exp": 52578,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104297,7 +104296,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:39:21.194Z",
+    "lastSeen": "2026-09-13T10:34:43.375Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104769,7 +104768,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41160,
+    "exp": 41145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111537,7 +111536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7875,
+    "exp": 7860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111547,10 +111546,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:39:05.833Z",
+    "lastSeen": "2026-09-13T08:51:30.584Z",
     "cooldowns": {
-      "kick": 1789283807306,
-      "mutegc": 1789295946009
+      "kick": 1789283807306
     },
     "clanId": null,
     "isRegistered": false,
@@ -113787,7 +113785,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1185,
+    "exp": 1170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121235,7 +121233,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1140,
+    "exp": 1125,
     "name": "faysstvu",
     "lastSeen": "2026-09-13T09:59:18.378Z",
     "cooldowns": {
@@ -121550,8 +121548,31 @@
     "rpg": {},
     "exp": 45
   },
+  "6282227775498": {
+    "jid": "6282227775498",
+    "rpg": {},
+    "exp": 120
+  },
   "6282245695966": {
     "jid": "6282245695966",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282298458753": {
+    "name": ".",
+    "lastSeen": "2026-09-13T10:19:33.440Z",
+    "jid": "6282298458753",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "play": 1789294798084
+    },
+    "energi": 24,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
+  },
+  "6285122968288": {
+    "jid": "6285122968288",
     "rpg": {},
     "exp": 15
   },
