@@ -20358,10 +20358,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99988,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225242,
+    "exp": 225257,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20370,7 +20370,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:01:44.518Z",
+    "lastSeen": "2026-09-13T06:02:28.734Z",
     "cooldowns": {
       "menu": 1789265994806,
       "allmenu": 1786162234717,
@@ -111502,7 +111502,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4410,
+    "exp": 4425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120388,7 +120388,7 @@
   "6288245965331": {
     "jid": "6288245965331",
     "rpg": {},
-    "exp": 1590,
+    "exp": 1605,
     "energi": 99999
   },
   "6285129783583": {
@@ -121173,7 +121173,7 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 7635,
+    "exp": 7665,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
