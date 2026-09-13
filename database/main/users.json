@@ -104696,7 +104696,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40020,
+    "exp": 40035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104706,7 +104706,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T17:27:16.473Z",
+    "lastSeen": "2026-09-13T01:31:03.435Z",
     "cooldowns": {
       "menu": 1789057459598,
       "owner": 1788775980116,
@@ -104764,7 +104764,8 @@
       "del": 1789195375135,
       "info": 1788878300051,
       "toxic": 1789005285317,
-      "asupan": 1789041764910
+      "asupan": 1789041764910,
+      "level": 1789263063496
     },
     "clanId": null,
     "isRegistered": false,
@@ -113497,7 +113498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2055,
+    "exp": 2115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119984,7 +119985,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 1365,
+    "exp": 1410,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-13T01:23:07.040Z",
     "energi": 99999
@@ -120303,7 +120304,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 2850,
+    "exp": 2865,
     "energi": 99999
   },
   "6288245965331": {
