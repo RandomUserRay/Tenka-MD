@@ -1,6 +1,6 @@
 {
   "commandErrors": 600,
-  "commandsExecuted": 117719,
+  "commandsExecuted": 117720,
   "command_totalchat": 19,
   "command_menu": 1790,
   "command_fb": 5,
@@ -1353,7 +1353,7 @@
   "command_sendbug": 10,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 12,
+  "command_addsender": 13,
   "command_delbugaccess": 1,
   "command_whitelistbug": 1
 }
