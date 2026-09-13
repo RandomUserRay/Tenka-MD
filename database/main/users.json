@@ -51085,7 +51085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3579,
+    "exp": 3594,
     "level": 1,
     "koin": 8497,
     "unlockedFeatures": [],
@@ -113003,7 +113003,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 960,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113943,7 +113943,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121216,16 +121216,16 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 435,
+    "exp": 450,
     "name": "faysstvu",
-    "lastSeen": "2026-09-13T09:44:06.943Z",
+    "lastSeen": "2026-09-13T09:45:10.329Z",
     "cooldowns": {
       "profile": 1789292192561,
-      "pin": 1789292657198
+      "pin": 1789292656799
     },
     "lastActiveDate": "13/9/2026",
     "activeDays": 1,
-    "energi": 22
+    "energi": 21
   },
   "6285803422433": {
     "jid": "6285803422433",
