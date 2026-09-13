@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000036225,
+    "exp": 9000036300,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52825,
+    "exp": 52840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T14:28:16.485Z",
+    "lastSeen": "2026-09-13T06:03:45.188Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -20358,10 +20358,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99987,
+    "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225287,
+    "exp": 225332,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20370,7 +20370,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:02:28.734Z",
+    "lastSeen": "2026-09-13T06:03:56.955Z",
     "cooldowns": {
       "menu": 1789265994806,
       "allmenu": 1786162234717,
@@ -20405,7 +20405,7 @@
       "top": 1782456993802,
       "cekcupu": 1782457024448,
       "benefitpremium": 1782556805088,
-      "tt": 1789279353933,
+      "tt": 1789279439211,
       "slot": 1784111329457,
       "me": 1784808815721,
       "tebaklagu": 1783748175706,
@@ -111474,7 +111474,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1605,
+    "exp": 1620,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111502,7 +111502,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4470,
+    "exp": 4650,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119700,7 +119700,7 @@
   "6281993144833": {
     "jid": "6281993144833",
     "rpg": {},
-    "exp": 2820,
+    "exp": 2910,
     "energi": 99997,
     "name": "c",
     "lastSeen": "2026-09-13T05:27:00.421Z",
@@ -120388,7 +120388,7 @@
   "6288245965331": {
     "jid": "6288245965331",
     "rpg": {},
-    "exp": 1635,
+    "exp": 1665,
     "energi": 99999
   },
   "6285129783583": {
@@ -120728,7 +120728,7 @@
   "6285757873904": {
     "jid": "6285757873904",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1095,
     "energi": 99999
   },
   "62887437405128": {
@@ -121037,7 +121037,7 @@
     "lastSeen": "2026-09-13T02:20:48.341Z",
     "jid": "6285926891468",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "cooldowns": {
       "ytmp4": 1789266075272
     },
@@ -121173,7 +121173,7 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 7710,
+    "exp": 7725,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
