@@ -20361,7 +20361,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222227,
+    "exp": 222242,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -106745,7 +106745,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14850,
+    "exp": 14865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111235,7 +111235,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13410,
+    "exp": 13440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113392,7 +113392,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12660,
+    "exp": 12675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119736,7 +119736,7 @@
   "62895340257283": {
     "jid": "62895340257283",
     "rpg": {},
-    "exp": 1005,
+    "exp": 1020,
     "energi": 99999
   },
   "6288276727077": {
@@ -121149,7 +121149,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "name": "Kemal",
     "lastSeen": "2026-09-13T04:29:18.287Z"
   },
@@ -121190,6 +121190,11 @@
   },
   "6281229981242": {
     "jid": "6281229981242",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285177354680": {
+    "jid": "6285177354680",
     "rpg": {},
     "exp": 15
   }
