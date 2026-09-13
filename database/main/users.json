@@ -54057,10 +54057,10 @@
     "jid": "6283857834910",
     "name": "Aoi Mizuhara",
     "number": "6283857834910",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14076,
+    "exp": 14091,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54069,7 +54069,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T07:16:23.984Z",
+    "lastSeen": "2026-09-13T07:16:47.034Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -111507,12 +111507,12 @@
   },
   "62895402935967": {
     "jid": "62895402935967",
-    "name": "Unknown",
+    "name": "yang baca jadi fans ku",
     "number": "62895402935967",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6630,
+    "exp": 6645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111522,8 +111522,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-08T15:18:22.024Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-13T07:16:47.135Z",
+    "cooldowns": {
+      "kick": 1789283807428
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -111531,7 +111533,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6285147161439": {
     "jid": "6285147161439",
