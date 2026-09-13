@@ -333,7 +333,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53095,
+    "exp": 53125,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,11 +342,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:41:43.309Z",
+    "lastSeen": "2026-09-13T06:43:22.255Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
-      "femboy": 1789281705547,
+      "femboy": 1789281804683,
       "daily": 1780385975656,
       "profile": 1789213791553,
       "ww": 1780234166014,
@@ -19928,7 +19928,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 146533,
+    "exp": 146548,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -54059,7 +54059,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14046,
+    "exp": 14061,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -101971,7 +101971,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 206645,
+    "exp": 206870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101981,7 +101981,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T14:00:39.174Z",
+    "lastSeen": "2026-09-13T06:43:48.719Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1789135227735,
@@ -101995,8 +101995,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 5
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
@@ -111534,7 +111534,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4725,
+    "exp": 4755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121178,7 +121178,7 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 9285,
+    "exp": 9345,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
@@ -121325,6 +121325,11 @@
   "6288291086643": {
     "jid": "6288291086643",
     "rpg": {},
-    "exp": 135
+    "exp": 165
+  },
+  "6282349907632": {
+    "jid": "6282349907632",
+    "rpg": {},
+    "exp": 15
   }
 }
