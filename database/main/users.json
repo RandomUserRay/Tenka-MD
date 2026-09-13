@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T07:03:38.797Z",
+    "lastSeen": "2026-09-13T07:04:55.633Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000040350,
+    "exp": 9000040500,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -52271,7 +52271,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54060,7 +54060,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14181,
+    "exp": 14196,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54069,7 +54069,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T07:04:34.883Z",
+    "lastSeen": "2026-09-13T07:05:01.801Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54105,7 +54105,8 @@
       "istirahat": 1789213735157,
       "training": 1789213751788,
       "femboy": 1789281774003,
-      "s": 1789283076510
+      "s": 1789283076510,
+      "d": 1789283101835
     },
     "clanId": null,
     "isRegistered": false,
@@ -59184,7 +59185,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10407,
+    "exp": 10422,
     "level": 1,
     "koin": 127987,
     "unlockedFeatures": [],
@@ -120757,7 +120758,7 @@
   "6288267149277": {
     "jid": "6288267149277",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "energi": 99999
   },
   "77072720822": {
@@ -121190,7 +121191,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10275,
+    "exp": 10290,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
