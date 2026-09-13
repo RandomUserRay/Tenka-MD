@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T10:03:05.961Z",
+    "lastSeen": "2026-09-13T10:38:18.640Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000046350,
+    "exp": 9000046425,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -19663,7 +19663,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 260615,
+    "exp": 260585,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:38:14.324Z",
+    "lastSeen": "2026-09-13T10:37:00.847Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19737,7 +19737,7 @@
       "ngemis": 1784462520758,
       "kurir": 1784445055350,
       "d": 1784442466559,
-      "h": 1789295894491,
+      "h": 1789293502029,
       "tutup": 1784451423720,
       "nyapu": 1784462534213,
       "gacha": 1784443885175,
@@ -26684,7 +26684,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715143,
+    "exp": 715173,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -47377,7 +47377,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45756,
+    "exp": 45741,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -104286,7 +104286,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52578,
+    "exp": 52533,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106780,7 +106780,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15555,
+    "exp": 15540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120191,7 +120191,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 3060,
+    "exp": 3045,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -121548,8 +121548,31 @@
     "rpg": {},
     "exp": 45
   },
+  "6282227775498": {
+    "jid": "6282227775498",
+    "rpg": {},
+    "exp": 120
+  },
   "6282245695966": {
     "jid": "6282245695966",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282298458753": {
+    "name": ".",
+    "lastSeen": "2026-09-13T10:19:33.440Z",
+    "jid": "6282298458753",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "play": 1789294798084
+    },
+    "energi": 24,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
+  },
+  "6285122968288": {
+    "jid": "6285122968288",
     "rpg": {},
     "exp": 15
   },
