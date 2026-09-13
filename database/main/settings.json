@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789288531912
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * =============================================================\n *  NAME       : BLOCK BLAST MINI\n *  AUTHOR     : Mommy Kyuu\n *  CHANNEL    : h",
       "at": 1789285353307
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "fetch failed",
       "at": 1788355550188
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1788352387724
     }
   ],
   "jpmBlacklist": [],
