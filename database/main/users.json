@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:22:20.957Z",
+    "lastSeen": "2026-09-13T10:22:20.954Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19687,7 +19687,7 @@
       "wibu": 1782394268352,
       "werewolf": 1782394480161,
       "vote": 1782490588036,
-      "kick": 1789294941470,
+      "kick": 1789294941521,
       "bratvid": 1789293840769,
       "close": 1789283775352,
       "open": 1789283654883,
@@ -26683,7 +26683,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715143,
+    "exp": 715158,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -72533,7 +72533,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7920,
+    "exp": 7935,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104285,7 +104285,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52368,
+    "exp": 52353,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106779,7 +106779,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15540,
+    "exp": 15525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121547,8 +121547,31 @@
     "rpg": {},
     "exp": 45
   },
+  "6282227775498": {
+    "jid": "6282227775498",
+    "rpg": {},
+    "exp": 120
+  },
   "6282245695966": {
     "jid": "6282245695966",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282298458753": {
+    "name": ".",
+    "lastSeen": "2026-09-13T10:19:33.440Z",
+    "jid": "6282298458753",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "play": 1789294798084
+    },
+    "energi": 24,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
+  },
+  "6285122968288": {
+    "jid": "6285122968288",
     "rpg": {},
     "exp": 15
   }
