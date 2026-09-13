@@ -1,5 +1,5 @@
 {
-  "commandErrors": 609,
+  "commandErrors": 608,
   "commandsExecuted": 118133,
   "command_totalchat": 20,
   "command_menu": 1803,
@@ -37,7 +37,7 @@
   "command_onlythisgrup": 8,
   "command_jadibot": 366,
   "command_hd": 329,
-  "command_stopjadibot": 72,
+  "command_stopjadibot": 73,
   "command_ttp": 1,
   "command_stopdandeletejadibot": 3,
   "command_buat": 5,
@@ -1363,6 +1363,5 @@
   "command_listsenderglobal": 6,
   "command_whitelistsg": 1,
   "command_delwhitelistbug": 1,
-  "command_addwsg": 2,
-  "command_addai": 1
+  "command_addwsg": 2
 }
