@@ -330,19 +330,19 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52870,
+    "exp": 52900,
     "level": 1,
-    "koin": 0,
+    "koin": 549168483,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:03:45.188Z",
+    "lastSeen": "2026-09-13T06:15:07.656Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -382,14 +382,15 @@
       "soulmatch": 1785334477472,
       "ganteng": 1785417661563,
       "d": 1785598775969,
-      "bank": 1789223215046,
+      "bank": 1789280103384,
       "love": 1787825473919,
       "ship": 1788274809480,
       "unmute": 1789141735753,
       "me": 1789279486095,
       "mutegc": 1789136779380,
       "transfer": 1789223180637,
-      "judi": 1789223203774
+      "judi": 1789223203774,
+      "cerai": 1789280107737
     },
     "clanId": null,
     "isRegistered": false,
@@ -404,10 +405,10 @@
       "maxMana": 125,
       "stamina": 125,
       "maxStamina": 125,
-      "bank": 549193483,
+      "bank": 0,
       "luck": 6,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1789213557018
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "coal": 1,
@@ -52809,7 +52810,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66900,8 +66901,8 @@
       "maxStamina": 180,
       "bank": 1451862524,
       "attack": 21,
-      "spouse": "6289529899190@s.whatsapp.net",
-      "marriedAt": 1789213557018,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20,
       "luck": 9
@@ -111502,7 +111503,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5265,
+    "exp": 5280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121300,7 +121301,7 @@
   "6283188521409": {
     "jid": "6283188521409",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6288212460935": {
     "jid": "6288212460935",
