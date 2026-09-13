@@ -35896,8 +35896,8 @@
   "120363411267439042@g.us": {
     "chatStats": {
       "6285236962656@s.whatsapp.net": {
-        "count": 239,
-        "lastChat": 1789312035810,
+        "count": 240,
+        "lastChat": 1789312060078,
         "name": "Refan"
       },
       "62895626761698@s.whatsapp.net": {
@@ -35916,8 +35916,8 @@
         "name": "alif"
       },
       "628135338055@s.whatsapp.net": {
-        "count": 1253,
-        "lastChat": 1789312026607,
+        "count": 1254,
+        "lastChat": 1789312060268,
         "name": "king :)"
       },
       "6288802135551@s.whatsapp.net": {
@@ -36060,7 +36060,8 @@
       "6285714269757@s.whatsapp.net": 2,
       "6285198743359@s.whatsapp.net": 1
     },
-    "antispam": "on"
+    "antispam": "on",
+    "toxicMaxWarn": 10
   },
   "120363428269864851@g.us": {
     "welcome": false,
