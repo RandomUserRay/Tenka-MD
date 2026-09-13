@@ -19663,7 +19663,7 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 265535,
+    "exp": 265550,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -104300,7 +104300,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55893,
+    "exp": 55908,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104310,7 +104310,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:22:03.895Z",
+    "lastSeen": "2026-09-13T15:24:32.987Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104360,7 +104360,8 @@
       "deletechat": 1789296100285,
       "waktusholat": 1789297314961,
       "admin": 1789299989955,
-      "addtoxic": 1789312601630
+      "addtoxic": 1789312601630,
+      "gc": 1789313073477
     },
     "clanId": null,
     "isRegistered": false,
