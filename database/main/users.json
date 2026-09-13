@@ -19661,7 +19661,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 252755,
+    "exp": 252770,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -119708,7 +119708,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2835,
+    "exp": 2850,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -121117,5 +121117,10 @@
     "jid": "6282245871884",
     "rpg": {},
     "exp": 45
+  },
+  "62882006178919": {
+    "jid": "62882006178919",
+    "rpg": {},
+    "exp": 15
   }
 }
