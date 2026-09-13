@@ -106795,7 +106795,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17025,
+    "exp": 17040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106805,7 +106805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:10:37.497Z",
+    "lastSeen": "2026-09-13T15:11:41.867Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106829,7 +106829,8 @@
       "iqc": 1789282750355,
       "antitoxic": 1789312072025,
       "antispam": 1789312002426,
-      "listtoxic": 1789312237696
+      "listtoxic": 1789312237696,
+      "deltoxic": 1789312301968
     },
     "clanId": null,
     "isRegistered": false,
@@ -119904,7 +119905,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 6150,
+    "exp": 6165,
     "energi": 99999,
     "name": "hh",
     "lastSeen": "2026-09-13T05:16:32.866Z"
