@@ -333,7 +333,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52915,
+    "exp": 52930,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -407,8 +407,8 @@
       "maxStamina": 125,
       "bank": 549168483,
       "luck": 6,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1789280126265
     },
     "inventory": {
       "coal": 1,
@@ -19662,7 +19662,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 254480,
+    "exp": 254495,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20362,7 +20362,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 226082,
+    "exp": 226097,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -52810,7 +52810,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 660,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66793,9 +66793,9 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167890,
+    "exp": 167920,
     "level": 1,
-    "koin": 1451862524,
+    "koin": 0,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66808,7 +66808,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:15:20.205Z",
+    "lastSeen": "2026-09-13T06:15:33.887Z",
     "cooldowns": {
       "afk": 1789217545579,
       "s": 1789193262540,
@@ -66821,7 +66821,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789213567071,
+      "bank": 1789280135275,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -66841,7 +66841,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789213557753,
+      "marry": 1789280126353,
       "transfer": 1789119793583,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -66899,10 +66899,10 @@
       "maxMana": 180,
       "stamina": 78,
       "maxStamina": 180,
-      "bank": 0,
+      "bank": 1451812524,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6289529899190@s.whatsapp.net",
+      "marriedAt": 1789280126265,
       "defense": 15,
       "fishing": 20,
       "luck": 9
@@ -111475,7 +111475,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1725,
+    "exp": 1740,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111503,7 +111503,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5280,
+    "exp": 5310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119701,7 +119701,7 @@
   "6281993144833": {
     "jid": "6281993144833",
     "rpg": {},
-    "exp": 3435,
+    "exp": 3450,
     "energi": 99997,
     "name": "c",
     "lastSeen": "2026-09-13T05:27:00.421Z",
@@ -121174,7 +121174,7 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 8160,
+    "exp": 8190,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
@@ -121311,6 +121311,6 @@
   "628983979446": {
     "jid": "628983979446",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
