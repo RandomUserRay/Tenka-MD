@@ -48012,7 +48012,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59535,
+    "exp": 59550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -59175,10 +59175,10 @@
     "jid": "6285196271602",
     "name": "🥇🇮🇱",
     "number": "6285196271602",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9222,
+    "exp": 9207,
     "level": 1,
     "koin": 127987,
     "unlockedFeatures": [],
@@ -59187,7 +59187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:19:32.133Z",
+    "lastSeen": "2026-09-13T03:13:28.104Z",
     "cooldowns": {
       "ngemis": 1784298702023,
       "cekumur": 1784445401856,
@@ -90108,7 +90108,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30360,
+    "exp": 30345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104252,7 +104252,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48663,
+    "exp": 48693,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104729,7 +104729,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40590,
+    "exp": 40635,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104746,7 +104746,7 @@
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
       "close": 1789129607975,
-      "open": 1789260433364,
+      "open": 1789269509796,
       "bratbahlil": 1788623947058,
       "mutegc": 1789008086839,
       "game": 1789007890139,
@@ -108180,7 +108180,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1515,
+    "exp": 1575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113384,7 +113384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11640,
+    "exp": 11670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113536,7 +113536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3060,
+    "exp": 3090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120127,7 +120127,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 2385,
+    "exp": 2400,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -120366,7 +120366,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 2955,
+    "exp": 2970,
     "energi": 99999
   },
   "6288245965331": {
@@ -121030,6 +121030,11 @@
   },
   "6282172387334": {
     "jid": "6282172387334",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283190863209": {
+    "jid": "6283190863209",
     "rpg": {},
     "exp": 15
   }
