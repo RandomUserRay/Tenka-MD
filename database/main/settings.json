@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in import crypto, { createDecipheriv } from 'crypto';\nimport { spawn } from 'child_process';\nimport { Readable } from 'stream';\nimport yts from 'yt-sear",
+      "at": 1789285339543
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789282575661
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "fetch failed",
       "at": 1787884560696
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1787884402958
     }
   ],
   "jpmBlacklist": [],
@@ -21401,7 +21401,7 @@
     },
     "6283164824798@s.whatsapp.net": {
       "jid": "6283164824798@s.whatsapp.net",
-      "name": "tatannncakep🖤"
+      "name": "tatannnn ctp🌚"
     },
     "6285752249064@s.whatsapp.net": {
       "jid": "6285752249064@s.whatsapp.net",
