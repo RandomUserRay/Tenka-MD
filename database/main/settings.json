@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot use 'in' operator to search for 'stream' in /**\n * =============================================================\n *  NAME       : BLOCK BLAST MINI\n *  AUTHOR     : Mommy Kyuu\n *  CHANNEL    : h",
+      "at": 1789285353307
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import crypto, { createDecipheriv } from 'crypto';\nimport { spawn } from 'child_process';\nimport { Readable } from 'stream';\nimport yts from 'yt-sear",
       "at": 1789285339543
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "fetch failed",
       "at": 1788352387724
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1787884560696
     }
   ],
   "jpmBlacklist": [],
