@@ -19658,10 +19658,10 @@
     "jid": "6283172976375",
     "name": "iky p",
     "number": "6283172976375",
-    "energi": 99991,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 251000,
+    "exp": 251015,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19670,7 +19670,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T01:28:43.799Z",
+    "lastSeen": "2026-09-13T01:40:43.156Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19762,7 +19762,8 @@
       "benefitpremium": 1787973444431,
       "mutegc": 1788880692492,
       "rvo": 1789129029179,
-      "ytmp4": 1789238895010
+      "ytmp4": 1789238895010,
+      "s": 1789263643943
     },
     "clanId": null,
     "isRegistered": false,
