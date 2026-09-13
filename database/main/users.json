@@ -20154,7 +20154,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44099,
+    "exp": 44114,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20163,7 +20163,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:29:22.417Z",
+    "lastSeen": "2026-09-13T10:59:07.331Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20226,7 +20226,7 @@
       "qrcustom": 1787924290619,
       "p": 1789288537244,
       "stopjadibot": 1789295362620,
-      "h": 1789269139987,
+      "h": 1789297147687,
       "ytmp4": 1789238808574,
       "open": 1789240778139,
       "pin": 1789269301274
@@ -95919,7 +95919,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4380,
+    "exp": 4365,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111834,7 +111834,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113438,7 +113438,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14910,
+    "exp": 14925,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121549,15 +121549,20 @@
     "rpg": {},
     "exp": 45
   },
-  "6282227775498": {
-    "jid": "6282227775498",
-    "rpg": {},
-    "exp": 120
-  },
   "6282245695966": {
     "jid": "6282245695966",
     "rpg": {},
     "exp": 15
+  },
+  "6282382333894": {
+    "jid": "6282382333894",
+    "rpg": {},
+    "exp": 60
+  },
+  "6282227775498": {
+    "jid": "6282227775498",
+    "rpg": {},
+    "exp": 120
   },
   "6282298458753": {
     "name": ".",
@@ -121576,10 +121581,5 @@
     "jid": "6285122968288",
     "rpg": {},
     "exp": 15
-  },
-  "6282382333894": {
-    "jid": "6282382333894",
-    "rpg": {},
-    "exp": 60
   }
 }
