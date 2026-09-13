@@ -79866,7 +79866,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1575,
+    "exp": 1605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97819,7 +97819,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-13T15:03:38.428Z",
     "cooldowns": {
-      "play": 1789310932063,
+      "play": 1789311826106,
       "wm": 1788347084351,
       "afk": 1788535026419,
       "s": 1789049850584
@@ -97842,7 +97842,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10395,
+    "exp": 10410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104298,7 +104298,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55263,
+    "exp": 55278,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106795,7 +106795,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16860,
+    "exp": 16875,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106805,7 +106805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T14:54:39.758Z",
+    "lastSeen": "2026-09-13T15:03:54.265Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106827,7 +106827,7 @@
       "tebakgambar": 1789111941539,
       "tebakff": 1789300064583,
       "iqc": 1789282750355,
-      "antitoxic": 1789301391535
+      "antitoxic": 1789311834338
     },
     "clanId": null,
     "isRegistered": false,
@@ -106921,7 +106921,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4245,
+    "exp": 4260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121747,6 +121747,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 75
+    "exp": 105
   }
 }
