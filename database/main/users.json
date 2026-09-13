@@ -112578,7 +112578,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 405,
+    "exp": 420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121216,7 +121216,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 525,
+    "exp": 540,
     "name": "faysstvu",
     "lastSeen": "2026-09-13T09:46:15.201Z",
     "cooldowns": {
@@ -121522,6 +121522,6 @@
   "6285835426638": {
     "jid": "6285835426638",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
