@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 642789,
+    "exp": 642864,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -93001,7 +93001,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33633,
+    "exp": 33603,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -93011,7 +93011,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T08:17:25.363Z",
+    "lastSeen": "2026-09-13T08:15:54.200Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -95650,7 +95650,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438535,
+    "exp": 438460,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -108328,7 +108328,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 660,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109857,7 +109857,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2325,
+    "exp": 2310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111088,7 +111088,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21780,
+    "exp": 21720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113408,7 +113408,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13785,
+    "exp": 13755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121360,6 +121360,16 @@
     "rpg": {},
     "exp": 210
   },
+  "62895638989358": {
+    "jid": "62895638989358",
+    "rpg": {},
+    "exp": 30
+  },
+  "6285129971713": {
+    "jid": "6285129971713",
+    "rpg": {},
+    "exp": 15
+  },
   "6283190280033": {
     "jid": "6283190280033",
     "rpg": {},
@@ -121385,21 +121395,6 @@
     "rpg": {},
     "exp": 45
   },
-  "6287790981903": {
-    "jid": "6287790981903",
-    "rpg": {},
-    "exp": 435
-  },
-  "62895638989358": {
-    "jid": "62895638989358",
-    "rpg": {},
-    "exp": 30
-  },
-  "6285129971713": {
-    "jid": "6285129971713",
-    "rpg": {},
-    "exp": 15
-  },
   "6285691823760": {
     "name": "~ Bang Caelus ブラザー・カエルス",
     "lastSeen": "2026-09-13T07:58:49.487Z",
@@ -121412,5 +121407,15 @@
     "energi": 24,
     "lastActiveDate": "13/9/2026",
     "activeDays": 1
+  },
+  "6287790981903": {
+    "jid": "6287790981903",
+    "rpg": {},
+    "exp": 435
+  },
+  "62895329806395": {
+    "jid": "62895329806395",
+    "rpg": {},
+    "exp": 15
   }
 }
