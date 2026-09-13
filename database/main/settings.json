@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1789279645640
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * =============================================================\n *  NAME       : BLOCK BLAST MINI\n *  AUTHOR     : Mommy Kyuu\n *  CHANNEL    : h",
       "at": 1789270182242
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1786972531757
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1786972531678
     }
   ],
   "jpmBlacklist": [],
@@ -22425,6 +22425,10 @@
     "6285828472267@s.whatsapp.net": {
       "jid": "6285828472267@s.whatsapp.net",
       "name": "𝓐ᥣіᥴһᥲ ─ ۶ৎ"
+    },
+    "6285655894389@s.whatsapp.net": {
+      "jid": "6285655894389@s.whatsapp.net",
+      "name": "ara jam 10 udah tidur"
     }
   },
   "antiCall": false,
