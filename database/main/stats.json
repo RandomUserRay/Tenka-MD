@@ -2,7 +2,7 @@
   "commandErrors": 599,
   "commandsExecuted": 117575,
   "command_totalchat": 19,
-  "command_menu": 1784,
+  "command_menu": 1785,
   "command_fb": 5,
   "command_brat": 1271,
   "command_antidocument": 2,
@@ -1353,6 +1353,6 @@
   "command_sendbug": 5,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 3,
+  "command_addsender": 2,
   "command_delbugaccess": 1
 }
