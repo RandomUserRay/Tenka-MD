@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T02:22:28.004Z",
+    "lastSeen": "2026-09-13T02:23:52.022Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000031500,
+    "exp": 9000031725,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -19661,7 +19661,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 251330,
+    "exp": 251345,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20147,7 +20147,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40889,
+    "exp": 40964,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20352,10 +20352,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220832,
+    "exp": 220877,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20364,7 +20364,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T02:22:28.997Z",
+    "lastSeen": "2026-09-13T02:23:17.829Z",
     "cooldowns": {
       "menu": 1789265994806,
       "allmenu": 1786162234717,
@@ -20449,7 +20449,7 @@
       "igstalk": 1788655531931,
       "discordstalk": 1788655661965,
       "lick": 1789221066074,
-      "pin": 1789221165211
+      "pin": 1789266204727
     },
     "clanId": null,
     "isRegistered": false,
@@ -52518,12 +52518,12 @@
   },
   "6285781075385": {
     "jid": "6285781075385",
-    "name": "acep",
+    "name": "acep ea",
     "number": "6285781075385",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22183,
+    "exp": 22213,
     "level": 1,
     "koin": 2287,
     "unlockedFeatures": [],
@@ -52532,7 +52532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-19T07:07:56.688Z",
+    "lastSeen": "2026-09-13T02:23:13.416Z",
     "cooldowns": {
       "me": 1784444573645,
       "ngamen": 1783761750491,
@@ -52570,7 +52570,8 @@
       "tebaknegara": 1784414933330,
       "ipwho": 1784415009126,
       "applemusic": 1784415110299,
-      "smeme": 1784415360753
+      "smeme": 1784415360753,
+      "play": 1789266200697
     },
     "clanId": null,
     "isRegistered": false,
@@ -52587,7 +52588,9 @@
       "maxStamina": 110
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6283130950984": {
     "jid": "6283130950984",
@@ -52792,12 +52795,12 @@
   },
   "6288246506285": {
     "jid": "6288246506285",
-    "name": "Unknown",
+    "name": "kayɛ",
     "number": "6288246506285",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 375,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -52806,7 +52809,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-12T04:35:17.470Z",
+    "lastSeen": "2026-09-13T02:23:20.046Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -119825,8 +119828,15 @@
   "6285789559239": {
     "jid": "6285789559239",
     "rpg": {},
-    "exp": 405,
-    "energi": 99999
+    "exp": 420,
+    "energi": 99998,
+    "name": "🦋•*.˚◦𝚁ɑׁׅ𝑒𝓎𝑙𝑙ɑׁׅᥒ𝑛◦*.˚•🍓",
+    "lastSeen": "2026-09-13T02:23:29.791Z",
+    "cooldowns": {
+      "play": 1789266216127
+    },
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "628214436992": {
     "jid": "628214436992",
@@ -119902,13 +119912,14 @@
   "6285825167476": {
     "jid": "6285825167476",
     "rpg": {},
-    "exp": 2475,
+    "exp": 2565,
     "name": "aisar okelah",
-    "lastSeen": "2026-09-13T02:20:29.927Z",
-    "energi": 99995,
+    "lastSeen": "2026-09-13T02:23:51.358Z",
+    "energi": 99994,
     "cooldowns": {
       "s": 1789264252090,
-      "smeme": 1789263876987
+      "smeme": 1789263876987,
+      "pin": 1789266221904
     },
     "lastActiveDate": "13/9/2026",
     "activeDays": 1
