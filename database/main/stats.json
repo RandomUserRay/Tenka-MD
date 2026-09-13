@@ -477,7 +477,7 @@
   "command_train": 118,
   "command_tf": 155,
   "command_qrcode": 1,
-  "command_truth": 311,
+  "command_truth": 312,
   "command_dare": 79,
   "command_love": 141,
   "command_asahotak": 240,
@@ -1353,7 +1353,7 @@
   "command_sendbug": 10,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 9,
+  "command_addsender": 8,
   "command_delbugaccess": 1,
   "command_whitelistbug": 1
 }
