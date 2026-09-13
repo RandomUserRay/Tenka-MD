@@ -19662,7 +19662,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255665,
+    "exp": 255680,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -52271,7 +52271,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 975,
+    "exp": 1065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -59182,7 +59182,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10632,
+    "exp": 10647,
     "level": 1,
     "koin": 127987,
     "unlockedFeatures": [],
@@ -62060,7 +62060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 750,
+    "exp": 780,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -119508,7 +119508,7 @@
     "jid": "6285126089692",
     "energi": 99999,
     "rpg": {},
-    "exp": 315
+    "exp": 330
   },
   "62895340689862": {
     "jid": "62895340689862",
@@ -119728,7 +119728,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 5400,
+    "exp": 5430,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -119754,7 +119754,7 @@
   "6288276727077": {
     "jid": "6288276727077",
     "rpg": {},
-    "exp": 1230,
+    "exp": 1260,
     "energi": 99999
   },
   "6283164327825": {
@@ -121188,7 +121188,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10425,
+    "exp": 10440,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
@@ -121351,5 +121351,10 @@
     "jid": "6283160781454",
     "rpg": {},
     "exp": 180
+  },
+  "6283190280033": {
+    "jid": "6283190280033",
+    "rpg": {},
+    "exp": 30
   }
 }
