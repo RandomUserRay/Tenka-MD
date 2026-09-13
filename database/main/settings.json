@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1789295363499
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1789288531912
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "service-unavailable",
       "at": 1788360385425
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1788355550188
     }
   ],
   "jpmBlacklist": [],
@@ -22682,10 +22682,6 @@
     "6282111202733@s.whatsapp.net": {
       "jid": "6282111202733@s.whatsapp.net",
       "name": "bayu saha"
-    },
-    "6282342642737@s.whatsapp.net": {
-      "jid": "6282342642737@s.whatsapp.net",
-      "name": "zieelwk"
     }
   },
   "antiCall": false,
