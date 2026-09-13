@@ -95206,7 +95206,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2415,
+    "exp": 2430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111519,7 +111519,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2190,
+    "exp": 2205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119691,7 +119691,11 @@
     "energi": 99998,
     "name": "c",
     "lastSeen": "2026-09-13T03:15:12.985Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "pin": 1789269322018
+    },
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6289691343688": {
     "jid": "6289691343688",
@@ -120719,7 +120723,7 @@
   "6287742720315": {
     "jid": "6287742720315",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1155,
     "name": "🦖🦖",
     "lastSeen": "2026-09-12T15:50:34.435Z",
     "energi": 99999
