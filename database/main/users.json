@@ -97779,7 +97779,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 90,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97807,7 +97807,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5565,
+    "exp": 5580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104298,7 +104298,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55503,
+    "exp": 55548,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104308,7 +104308,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:13:19.320Z",
+    "lastSeen": "2026-09-13T15:15:17.313Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104358,7 +104358,7 @@
       "deletechat": 1789296100285,
       "waktusholat": 1789297314961,
       "admin": 1789299989955,
-      "addtoxic": 1789312399474
+      "addtoxic": 1789312517535
     },
     "clanId": null,
     "isRegistered": false,
@@ -119907,7 +119907,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 6225,
+    "exp": 6240,
     "energi": 99999,
     "name": "hh",
     "lastSeen": "2026-09-13T05:16:32.866Z"
