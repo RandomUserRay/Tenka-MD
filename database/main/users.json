@@ -19663,7 +19663,7 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 265310,
+    "exp": 265370,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:20:21.191Z",
+    "lastSeen": "2026-09-13T15:21:25.416Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19737,7 +19737,7 @@
       "ngemis": 1784462520758,
       "kurir": 1784445055350,
       "d": 1784442466559,
-      "h": 1789312523373,
+      "h": 1789312885578,
       "tutup": 1784451423720,
       "nyapu": 1784462534213,
       "gacha": 1784443885175,
@@ -79867,7 +79867,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1950,
+    "exp": 1980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97780,7 +97780,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104299,7 +104299,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55743,
+    "exp": 55788,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104309,7 +104309,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:17:10.935Z",
+    "lastSeen": "2026-09-13T15:21:39.406Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -106275,7 +106275,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1380,
+    "exp": 1410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106794,10 +106794,10 @@
     "jid": "628135338055",
     "name": "king :)",
     "number": "628135338055",
-    "energi": 99990,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17325,
+    "exp": 17355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106807,7 +106807,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:20:44.669Z",
+    "lastSeen": "2026-09-13T15:21:22.018Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106834,7 +106834,8 @@
       "listtoxic": 1789312485803,
       "deltoxic": 1789312414086,
       "addtoxic": 1789312642909,
-      "menucat": 1789312844733
+      "menucat": 1789312844733,
+      "qc": 1789312882082
     },
     "clanId": null,
     "isRegistered": false,
@@ -111563,7 +111564,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11220,
+    "exp": 11250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119916,10 +119917,17 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 6555,
+    "exp": 6630,
     "energi": 99999,
     "name": "hh",
-    "lastSeen": "2026-09-13T15:20:31.000Z"
+    "lastSeen": "2026-09-13T15:21:25.720Z",
+    "cooldowns": {
+      "menu": 1789312880575,
+      "menucat": 1789312852965,
+      "owner": 1789312885805
+    },
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6287743157331": {
     "jid": "6287743157331",
@@ -120563,7 +120571,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 5070,
+    "exp": 5085,
     "energi": 99999
   },
   "264798004625543": {
@@ -121764,6 +121772,6 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 465
+    "exp": 510
   }
 }
