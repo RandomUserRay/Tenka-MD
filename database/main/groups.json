@@ -34532,8 +34532,8 @@
   "120363431311620788@g.us": {
     "chatStats": {
       "628889313960@s.whatsapp.net": {
-        "count": 217,
-        "lastChat": 1789312253647,
+        "count": 218,
+        "lastChat": 1789312375982,
         "name": "wan dos santos junior"
       },
       "6285717515172@s.whatsapp.net": {
@@ -35916,8 +35916,8 @@
         "name": "alif"
       },
       "628135338055@s.whatsapp.net": {
-        "count": 1260,
-        "lastChat": 1789312338918,
+        "count": 1261,
+        "lastChat": 1789312362868,
         "name": "king :)"
       },
       "6288802135551@s.whatsapp.net": {
@@ -36061,7 +36061,10 @@
       "6285198743359@s.whatsapp.net": 1
     },
     "antispam": "on",
-    "toxicMaxWarn": 10
+    "toxicMaxWarn": 10,
+    "toxicWords": [
+      "goblok"
+    ]
   },
   "120363428269864851@g.us": {
     "welcome": false,
