@@ -19661,7 +19661,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 252140,
+    "exp": 252155,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19670,7 +19670,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:22:44.155Z",
+    "lastSeen": "2026-09-13T03:23:25.716Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19721,7 +19721,7 @@
       "judi": 1784396571588,
       "job": 1784462550372,
       "menu": 1789218730629,
-      "top": 1789269764311,
+      "top": 1789269805956,
       "owner": 1786925891601,
       "terima": 1784390194741,
       "wc": 1784392694613,
@@ -50937,7 +50937,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70617,
+    "exp": 70632,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -111519,7 +111519,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2505,
+    "exp": 2535,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111529,10 +111529,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:22:59.462Z",
+    "lastSeen": "2026-09-13T03:23:31.128Z",
     "cooldowns": {
       "pin": 1789269657861,
-      "top": 1789269779716
+      "top": 1789269811339
     },
     "clanId": null,
     "isRegistered": false,
@@ -120300,16 +120300,17 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 615,
+    "exp": 630,
     "name": "user",
-    "lastSeen": "2026-09-12T07:16:57.599Z",
+    "lastSeen": "2026-09-13T03:23:19.468Z",
     "cooldowns": {
       "s": 1789197343473,
-      "me": 1789197437919
+      "me": 1789197437919,
+      "top": 1789269799713
     },
     "energi": 99999,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 2
   },
   "6281533729878": {
     "jid": "6281533729878",
@@ -121037,7 +121038,7 @@
   "6283190863209": {
     "jid": "6283190863209",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6285141057228": {
     "name": "Selvia",
