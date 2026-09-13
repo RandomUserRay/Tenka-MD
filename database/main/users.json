@@ -19663,7 +19663,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 265040,
+    "exp": 265055,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19737,7 +19737,7 @@
       "ngemis": 1784462520758,
       "kurir": 1784445055350,
       "d": 1784442466559,
-      "h": 1789309233252,
+      "h": 1789312523373,
       "tutup": 1784451423720,
       "nyapu": 1784462534213,
       "gacha": 1784443885175,
@@ -104298,7 +104298,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55548,
+    "exp": 55563,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104308,7 +104308,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:15:17.313Z",
+    "lastSeen": "2026-09-13T15:15:23.645Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104358,7 +104358,7 @@
       "deletechat": 1789296100285,
       "waktusholat": 1789297314961,
       "admin": 1789299989955,
-      "addtoxic": 1789312517535
+      "addtoxic": 1789312523868
     },
     "clanId": null,
     "isRegistered": false,
@@ -106796,7 +106796,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17160,
+    "exp": 17175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119907,7 +119907,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 6240,
+    "exp": 6255,
     "energi": 99999,
     "name": "hh",
     "lastSeen": "2026-09-13T05:16:32.866Z"
