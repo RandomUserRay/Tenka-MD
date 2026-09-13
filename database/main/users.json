@@ -97804,7 +97804,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5385,
+    "exp": 5400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121614,8 +121614,12 @@
     "exp": 90,
     "name": "princesss allethaww",
     "lastSeen": "2026-09-13T14:39:26.843Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1789310382697
+    },
+    "energi": 23,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6289673306609": {
     "jid": "6289673306609",
