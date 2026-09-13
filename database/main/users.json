@@ -19662,7 +19662,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255875,
+    "exp": 255890,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19928,7 +19928,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 148198,
+    "exp": 148228,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -111598,7 +111598,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121250,7 +121250,9 @@
   "62895329560293": {
     "jid": "62895329560293",
     "rpg": {},
-    "exp": 270
+    "exp": 285,
+    "name": "Greatesta",
+    "lastSeen": "2026-09-13T07:14:56.424Z"
   },
   "6287896597469": {
     "jid": "6287896597469",
@@ -121355,11 +121357,11 @@
   "6283190280033": {
     "jid": "6283190280033",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "62895393392407": {
     "jid": "62895393392407",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
