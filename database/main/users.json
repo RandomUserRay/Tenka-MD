@@ -19661,7 +19661,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 252125,
+    "exp": 252140,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19670,7 +19670,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:21:05.215Z",
+    "lastSeen": "2026-09-13T03:22:44.155Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19721,7 +19721,7 @@
       "judi": 1784396571588,
       "job": 1784462550372,
       "menu": 1789218730629,
-      "top": 1789269665371,
+      "top": 1789269764311,
       "owner": 1786925891601,
       "terima": 1784390194741,
       "wc": 1784392694613,
@@ -111519,7 +111519,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2475,
+    "exp": 2490,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111529,10 +111529,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:22:28.676Z",
+    "lastSeen": "2026-09-13T03:22:40.355Z",
     "cooldowns": {
       "pin": 1789269657861,
-      "top": 1789269748938
+      "top": 1789269760591
     },
     "clanId": null,
     "isRegistered": false,
@@ -119958,7 +119958,7 @@
   "6285814172058": {
     "jid": "6285814172058",
     "rpg": {},
-    "exp": 960,
+    "exp": 990,
     "name": "sya",
     "lastSeen": "2026-09-12T06:14:45.730Z",
     "energi": 99999
@@ -120408,15 +120408,16 @@
   "6285710948110": {
     "jid": "6285710948110",
     "rpg": {},
-    "exp": 720,
+    "exp": 735,
     "name": "ˊᜊˋ˶",
-    "lastSeen": "2026-09-12T07:15:37.696Z",
+    "lastSeen": "2026-09-13T03:22:43.063Z",
     "cooldowns": {
-      "s": 1789197339833
+      "s": 1789197339833,
+      "top": 1789269763267
     },
     "energi": 99999,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 2
   },
   "6282324448942": {
     "jid": "6282324448942",
@@ -121040,13 +121041,13 @@
   },
   "6285141057228": {
     "name": "Selvia",
-    "lastSeen": "2026-09-13T03:20:46.342Z",
+    "lastSeen": "2026-09-13T03:22:38.472Z",
     "jid": "6285141057228",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "cooldowns": {
       "p": 1789269636927,
-      "sendbug": 1789269646467
+      "sendbug": 1789269758509
     },
     "lastActiveDate": "13/9/2026",
     "activeDays": 1
