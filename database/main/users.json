@@ -106922,7 +106922,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4335,
+    "exp": 4350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106932,7 +106932,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:06:00.216Z",
+    "lastSeen": "2026-09-13T15:08:00.647Z",
     "cooldowns": {
       "brat": 1789025614124,
       "tagall": 1789174390840,
@@ -106949,7 +106949,8 @@
       "emojimix": 1789234290482,
       "music": 1789234425514,
       "iqc": 1789282930810,
-      "rvo": 1789311913693
+      "rvo": 1789311913693,
+      "antitoxic": 1789312080754
     },
     "clanId": null,
     "isRegistered": false,
@@ -121744,7 +121745,7 @@
   "6285198743359": {
     "jid": "6285198743359",
     "rpg": {},
-    "exp": 300
+    "exp": 315
   },
   "6285857362861": {
     "jid": "6285857362861",
