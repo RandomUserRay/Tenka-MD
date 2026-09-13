@@ -19661,7 +19661,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 252530,
+    "exp": 252545,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -104729,7 +104729,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40590,
+    "exp": 40635,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104942,7 +104942,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5700,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121039,6 +121039,11 @@
     "jid": "6283190863209",
     "rpg": {},
     "exp": 525
+  },
+  "6282129840923": {
+    "jid": "6282129840923",
+    "rpg": {},
+    "exp": 30
   },
   "6285141057228": {
     "name": "Selvia",
