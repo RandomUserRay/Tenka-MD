@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T02:27:53.642Z",
+    "lastSeen": "2026-09-13T02:24:50.490Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000032250,
+    "exp": 9000032100,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -20358,7 +20358,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220952,
+    "exp": 220967,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -26676,7 +26676,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715158,
+    "exp": 715128,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -46665,7 +46665,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 172770,
+    "exp": 172785,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -52812,10 +52812,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T02:27:07.478Z",
+    "lastSeen": "2026-09-13T02:27:13.730Z",
     "cooldowns": {
       "ytmp4": 1789266274396,
-      "pin": 1789266434652
+      "pin": 1789266439881
     },
     "clanId": null,
     "isRegistered": false,
@@ -101953,9 +101953,9 @@
     "name": "ライズ",
     "number": "16063130847",
     "energi": 99999,
-    "isPremium": false,
+    "isPremium": true,
     "isBanned": false,
-    "exp": 206660,
+    "exp": 206645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101965,12 +101965,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T02:27:31.029Z",
+    "lastSeen": "2026-09-11T14:00:39.174Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1789135227735,
-      "menu": 1789135242963,
-      "sendbug": 1789266451195
+      "menu": 1789135242963
     },
     "clanId": null,
     "isRegistered": false,
@@ -101980,8 +101979,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "11/9/2026",
+    "activeDays": 4
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
@@ -108174,7 +108173,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1470,
+    "exp": 1485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111062,7 +111061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19455,
+    "exp": 19470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115023,7 +115022,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119843,10 +119842,10 @@
     "exp": 555,
     "energi": 99993,
     "name": "🦋•*.˚◦𝚁ɑׁׅ𝑒𝓎𝑙𝑙ɑׁׅᥒ𝑛◦*.˚•🍓",
-    "lastSeen": "2026-09-13T02:27:26.872Z",
+    "lastSeen": "2026-09-13T02:27:26.552Z",
     "cooldowns": {
       "play": 1789266216127,
-      "pin": 1789266453407
+      "pin": 1789266452995
     },
     "lastActiveDate": "13/9/2026",
     "activeDays": 1
@@ -119925,7 +119924,7 @@
   "6285825167476": {
     "jid": "6285825167476",
     "rpg": {},
-    "exp": 2850,
+    "exp": 2865,
     "name": "aisar okelah",
     "lastSeen": "2026-09-13T02:25:45.437Z",
     "energi": 99993,
