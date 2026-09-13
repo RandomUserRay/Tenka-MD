@@ -1,8 +1,8 @@
 {
   "commandErrors": 599,
-  "commandsExecuted": 117569,
+  "commandsExecuted": 117570,
   "command_totalchat": 19,
-  "command_menu": 1784,
+  "command_menu": 1785,
   "command_fb": 5,
   "command_brat": 1271,
   "command_antidocument": 2,
@@ -180,7 +180,7 @@
   "command_autovcf_off": 1,
   "command_selfthisgc": 3,
   "command_publicthisgc": 3,
-  "command_owner": 169,
+  "command_owner": 170,
   "command_ownertype": 2,
   "command_setownertype": 1,
   "command_welcometype": 6,
@@ -1353,6 +1353,6 @@
   "command_sendbug": 5,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 3,
+  "command_addsender": 2,
   "command_delbugaccess": 1
 }
