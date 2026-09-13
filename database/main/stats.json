@@ -1,6 +1,6 @@
 {
   "commandErrors": 599,
-  "commandsExecuted": 117538,
+  "commandsExecuted": 117542,
   "command_totalchat": 19,
   "command_menu": 1784,
   "command_fb": 5,
@@ -59,7 +59,7 @@
   "command_setreply": 44,
   "command_pinpack": 29,
   "command_bisa": 3,
-  "command_ytmp4": 365,
+  "command_ytmp4": 366,
   "command_arsip": 4,
   "command_setppgc": 4,
   "command_setnama": 1,
@@ -262,7 +262,7 @@
   "command_heal": 94,
   "command_work": 1521,
   "command_stat": 8,
-  "command_menucat": 647,
+  "command_menucat": 648,
   "command_woodcut": 14,
   "command_ojek": 3,
   "command_maling": 362,
@@ -1351,5 +1351,6 @@
   "command_komikindo": 7,
   "command_komiku": 22,
   "command_sendbug": 2,
-  "command_addbugaccess": 1
+  "command_addbugaccess": 2,
+  "command_listbugaccess": 1
 }
