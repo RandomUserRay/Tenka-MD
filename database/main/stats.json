@@ -1,6 +1,6 @@
 {
   "commandErrors": 600,
-  "commandsExecuted": 117677,
+  "commandsExecuted": 117679,
   "command_totalchat": 19,
   "command_menu": 1788,
   "command_fb": 5,
@@ -294,7 +294,7 @@
   "command_kkmbg": 10,
   "command_konachan": 58,
   "command_jokowi-ai": 1,
-  "command_kick": 341,
+  "command_kick": 342,
   "command_listjadibot": 89,
   "command_randomfemboy": 9,
   "command_disableplugin": 45,
@@ -1353,7 +1353,7 @@
   "command_sendbug": 10,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 4,
+  "command_addsender": 5,
   "command_delbugaccess": 1,
   "command_whitelistbug": 1
 }
