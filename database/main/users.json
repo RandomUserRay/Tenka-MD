@@ -79866,7 +79866,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1605,
+    "exp": 1650,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104298,7 +104298,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55278,
+    "exp": 55293,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106795,7 +106795,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16875,
+    "exp": 16890,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106805,7 +106805,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:03:54.265Z",
+    "lastSeen": "2026-09-13T15:04:47.153Z",
     "cooldowns": {
       "brat": 1789277825209,
       "bratcewek": 1788695614626,
@@ -106815,7 +106815,7 @@
       "allmenu": 1788872044646,
       "play": 1789299829698,
       "ytmp4": 1789299825257,
-      "owner": 1789278261128,
+      "owner": 1789311887229,
       "h": 1789311014333,
       "tagall": 1789112311973,
       "d": 1788993142979,
@@ -106921,7 +106921,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4260,
+    "exp": 4275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106931,14 +106931,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:02:26.411Z",
+    "lastSeen": "2026-09-13T15:04:41.289Z",
     "cooldowns": {
       "brat": 1789025614124,
       "tagall": 1789174390840,
       "jadibot": 1789226806629,
       "bratimg": 1789025627275,
       "h": 1789311746450,
-      "menu": 1789234354942,
+      "menu": 1789311884479,
       "owner": 1789233669332,
       "menucat": 1789234438317,
       "hd": 1789233751782,
@@ -113978,7 +113978,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1875,
+    "exp": 1890,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120546,7 +120546,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 4980,
+    "exp": 4995,
     "energi": 99999
   },
   "264798004625543": {
@@ -121742,11 +121742,11 @@
   "6285198743359": {
     "jid": "6285198743359",
     "rpg": {},
-    "exp": 60
+    "exp": 90
   },
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 105
+    "exp": 150
   }
 }
