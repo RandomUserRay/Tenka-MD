@@ -1,6 +1,6 @@
 {
   "commandErrors": 601,
-  "commandsExecuted": 117827,
+  "commandsExecuted": 117829,
   "command_totalchat": 19,
   "command_menu": 1798,
   "command_fb": 5,
@@ -258,7 +258,7 @@
   "command_lyrics": 4,
   "command_family100": 50,
   "command_weekly": 25,
-  "command_bank": 5368,
+  "command_bank": 5370,
   "command_heal": 94,
   "command_work": 1521,
   "command_stat": 8,
@@ -283,7 +283,7 @@
   "command_crime": 188,
   "command_slot": 3491,
   "command_clancreate": 3,
-  "command_marry": 234,
+  "command_marry": 235,
   "command_divorce": 64,
   "command_transfer": 884,
   "command_confess": 16,
@@ -1357,5 +1357,5 @@
   "command_delbugaccess": 1,
   "command_whitelistbug": 4,
   "command_delsender": 3,
-  "command_blacklist": 2
+  "command_blacklist": 1
 }
