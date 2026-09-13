@@ -1335,7 +1335,7 @@
   "command_toxic": 2,
   "command_sip": 1,
   "command_playvid": 57,
-  "command_playvideo": 36,
+  "command_playvideo": 37,
   "command_character-ai": 2,
   "command_ganti-ourin.jpg": 1,
   "command_ganti-ourin2.jpg": 1,
@@ -1353,7 +1353,7 @@
   "command_sendbug": 10,
   "command_addbugaccess": 4,
   "command_listbugaccess": 1,
-  "command_addsender": 9,
+  "command_addsender": 8,
   "command_delbugaccess": 1,
   "command_whitelistbug": 1
 }
