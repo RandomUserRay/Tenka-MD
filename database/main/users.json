@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T09:48:41.218Z",
+    "lastSeen": "2026-09-13T09:49:27.856Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000046275,
+    "exp": 9000046350,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -95656,7 +95656,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 438550,
+    "exp": 438565,
     "level": 1,
     "koin": 40000,
     "saldo": 0,
@@ -121216,16 +121216,17 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 615,
+    "exp": 630,
     "name": "faysstvu",
-    "lastSeen": "2026-09-13T09:48:44.882Z",
+    "lastSeen": "2026-09-13T09:49:42.855Z",
     "cooldowns": {
       "profile": 1789292192561,
-      "pin": 1789292934288
+      "pin": 1789292934288,
+      "fakeff": 1789292985323
     },
     "lastActiveDate": "13/9/2026",
     "activeDays": 1,
-    "energi": 19
+    "energi": 17
   },
   "6285803422433": {
     "jid": "6285803422433",
@@ -121522,6 +121523,6 @@
   "6285835426638": {
     "jid": "6285835426638",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
