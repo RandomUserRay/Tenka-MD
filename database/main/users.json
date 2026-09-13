@@ -104696,7 +104696,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39795,
+    "exp": 39810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106706,7 +106706,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14625,
+    "exp": 14640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106716,7 +106716,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T13:58:18.079Z",
+    "lastSeen": "2026-09-13T01:23:19.196Z",
     "cooldowns": {
       "brat": 1789219143949,
       "bratcewek": 1788695614626,
@@ -106727,7 +106727,7 @@
       "play": 1789174654155,
       "ytmp4": 1788993408139,
       "owner": 1789196436730,
-      "h": 1789215539937,
+      "h": 1789262599215,
       "tagall": 1789112311973,
       "d": 1788993142979,
       "del": 1789216143834,
@@ -106754,8 +106754,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 8
   },
   "62895321719185": {
     "jid": "62895321719185",
@@ -120303,7 +120303,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 2700,
+    "exp": 2715,
     "energi": 99999
   },
   "6288245965331": {
