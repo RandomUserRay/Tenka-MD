@@ -19663,7 +19663,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 260630,
+    "exp": 260675,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T10:38:14.324Z",
+    "lastSeen": "2026-09-13T10:38:56.635Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19769,7 +19769,8 @@
       "p": 1789293731255,
       "pin": 1789293146616,
       "cekcantik": 1789293171135,
-      "brat": 1789295753403
+      "brat": 1789295753403,
+      "unmutegc": 1789295936816
     },
     "clanId": null,
     "isRegistered": false,
@@ -47377,7 +47378,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45756,
+    "exp": 45771,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -104768,7 +104769,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41145,
+    "exp": 41160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111536,7 +111537,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7860,
+    "exp": 7875,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111546,9 +111547,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T08:51:30.584Z",
+    "lastSeen": "2026-09-13T10:39:05.833Z",
     "cooldowns": {
-      "kick": 1789283807306
+      "kick": 1789283807306,
+      "mutegc": 1789295946009
     },
     "clanId": null,
     "isRegistered": false,
@@ -113785,7 +113787,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1170,
+    "exp": 1185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121233,7 +121235,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1125,
+    "exp": 1140,
     "name": "faysstvu",
     "lastSeen": "2026-09-13T09:59:18.378Z",
     "cooldowns": {
