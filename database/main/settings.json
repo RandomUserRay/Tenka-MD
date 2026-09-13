@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282278105
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789282272168
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * =============================================================\n *  NAME       : BLOCK BLAST MINI\n *  AUTHOR     : Mommy Kyuu\n *  CHANNEL    : h",
       "at": 1789270182242
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1786972532043
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1786972531757
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1786972531678
     }
   ],
   "jpmBlacklist": [],
