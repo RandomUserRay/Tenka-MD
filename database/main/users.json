@@ -106756,7 +106756,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15480,
+    "exp": 15495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109858,7 +109858,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2415,
+    "exp": 2430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111089,7 +111089,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22050,
+    "exp": 22065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111396,7 +111396,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1395,
+    "exp": 1410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112536,7 +112536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5460,
+    "exp": 5475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113213,7 +113213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1275,
+    "exp": 1305,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113223,8 +113223,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T15:19:37.556Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-13T08:32:16.026Z",
+    "cooldowns": {
+      "owner": 1789288336111
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -113232,7 +113234,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   },
   "6285601565397": {
     "jid": "6285601565397",
@@ -113409,7 +113413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14205,
+    "exp": 14220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121389,7 +121393,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 615
+    "exp": 630
   },
   "62895638989358": {
     "jid": "62895638989358",
@@ -121419,14 +121423,14 @@
     "rpg": {},
     "exp": 30
   },
-  "6283198664499": {
-    "jid": "6283198664499",
-    "rpg": {},
-    "exp": 30
-  },
   "62881010843942": {
     "jid": "62881010843942",
     "rpg": {},
     "exp": 15
+  },
+  "6283198664499": {
+    "jid": "6283198664499",
+    "rpg": {},
+    "exp": 30
   }
 }
