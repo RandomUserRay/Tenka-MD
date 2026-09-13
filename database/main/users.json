@@ -19661,7 +19661,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 251300,
+    "exp": 251315,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19670,7 +19670,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T01:40:43.108Z",
+    "lastSeen": "2026-09-13T02:21:23.324Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -26673,7 +26673,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715053,
+    "exp": 715083,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -98016,7 +98016,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1770,
+    "exp": 1785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120979,7 +120979,11 @@
     "jid": "6285926891468",
     "rpg": {},
     "exp": 45,
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1789266075272
+    },
+    "energi": 23,
+    "lastActiveDate": "13/9/2026",
+    "activeDays": 1
   }
 }
