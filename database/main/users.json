@@ -35968,7 +35968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 221450,
+    "exp": 221465,
     "level": 1,
     "koin": 57223,
     "unlockedFeatures": [],
@@ -104217,7 +104217,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47118,
+    "exp": 47163,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104227,7 +104227,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T00:51:08.027Z",
+    "lastSeen": "2026-09-13T00:51:40.014Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789041401467,
@@ -104255,7 +104255,7 @@
       "del": 1789224766304,
       "menucat": 1789252770676,
       "murrotal": 1788791035167,
-      "h": 1789260668216,
+      "h": 1789260700028,
       "playvid": 1788908472696,
       "rvo": 1789224696484,
       "bratgojovid": 1789040985630,
@@ -106549,12 +106549,12 @@
   },
   "6289630995884": {
     "jid": "6289630995884",
-    "name": "Unknown",
+    "name": "dapaa",
     "number": "6289630995884",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1440,
+    "exp": 1455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106564,7 +106564,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:39:49.504Z",
+    "lastSeen": "2026-09-13T00:51:34.779Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -114263,7 +114263,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1815,
+    "exp": 1830,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114273,7 +114273,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T06:52:38.070Z",
+    "lastSeen": "2026-09-13T00:52:00.685Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -120062,8 +120062,10 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 2055,
-    "energi": 99999
+    "exp": 2070,
+    "energi": 99999,
+    "name": "Ytaa",
+    "lastSeen": "2026-09-13T00:51:21.362Z"
   },
   "601140455019": {
     "jid": "601140455019",
@@ -120299,7 +120301,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 2175,
+    "exp": 2250,
     "energi": 99999
   },
   "6288245965331": {
@@ -120811,16 +120813,16 @@
     "exp": 30,
     "energi": 99999
   },
-  "6281917920424": {
-    "jid": "6281917920424",
-    "rpg": {},
-    "exp": 45,
-    "energi": 99999
-  },
   "6283857936156": {
     "jid": "6283857936156",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6281917920424": {
+    "jid": "6281917920424",
+    "rpg": {},
+    "exp": 45,
     "energi": 99999
   },
   "6282256746690": {
@@ -120889,9 +120891,9 @@
     "rpg": {},
     "exp": 15
   },
-  "628213921822": {
-    "jid": "628213921822",
+  "6285742931952": {
+    "jid": "6285742931952",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   }
 }
