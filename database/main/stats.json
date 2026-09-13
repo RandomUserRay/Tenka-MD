@@ -1,6 +1,6 @@
 {
   "commandErrors": 599,
-  "commandsExecuted": 117556,
+  "commandsExecuted": 117554,
   "command_totalchat": 19,
   "command_menu": 1784,
   "command_fb": 5,
@@ -180,7 +180,7 @@
   "command_autovcf_off": 1,
   "command_selfthisgc": 3,
   "command_publicthisgc": 3,
-  "command_owner": 169,
+  "command_owner": 168,
   "command_ownertype": 2,
   "command_setownertype": 1,
   "command_welcometype": 6,
@@ -1350,7 +1350,7 @@
   "command_livechart": 4,
   "command_komikindo": 7,
   "command_komiku": 22,
-  "command_sendbug": 3,
+  "command_sendbug": 2,
   "command_addbugaccess": 2,
   "command_listbugaccess": 1
 }
