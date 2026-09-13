@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-13T04:01:11.231Z",
+    "lastSeen": "2026-09-13T04:39:35.397Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000034125,
+    "exp": 9000034350,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -20149,7 +20149,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42449,
+    "exp": 42524,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -59178,7 +59178,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10242,
+    "exp": 10257,
     "level": 1,
     "koin": 127987,
     "unlockedFeatures": [],
@@ -111179,7 +111179,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7260,
+    "exp": 7245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113392,7 +113392,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12615,
+    "exp": 12600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121185,6 +121185,11 @@
   },
   "6281346703969": {
     "jid": "6281346703969",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281229981242": {
+    "jid": "6281229981242",
     "rpg": {},
     "exp": 15
   }
