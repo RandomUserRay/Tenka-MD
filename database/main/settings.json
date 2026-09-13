@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1789299141850
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789295363499
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * Plugin: PlayVideo\n * Plugin Name: Playvideo\n * Layout: Full-Width Landscape Video with Auto-Hiding Status Badge\n * Theme: Ultra-Modern Electri",
       "at": 1788908653441
-    },
-    {
-      "cmd": "unknown",
-      "err": "service-unavailable",
-      "at": 1788360385425
     }
   ],
   "jpmBlacklist": [],
