@@ -333,7 +333,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52975,
+    "exp": 52990,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,7 +342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:39:53.390Z",
+    "lastSeen": "2026-09-13T06:40:20.670Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
@@ -361,7 +361,7 @@
       "play": 1787667008529,
       "apakah": 1780325947904,
       "mining": 1780384694774,
-      "top": 1789281594094,
+      "top": 1789281620734,
       "topixel": 1780915203073,
       "gay": 1782729901067,
       "stickerpack": 1781332649163,
@@ -19662,7 +19662,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 254945,
+    "exp": 254975,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -119486,7 +119486,7 @@
     "jid": "6285624830105",
     "energi": 99999,
     "rpg": {},
-    "exp": 360
+    "exp": 375
   },
   "6289502640513": {
     "jid": "6289502640513",
@@ -121176,7 +121176,7 @@
   "6285803422433": {
     "jid": "6285803422433",
     "rpg": {},
-    "exp": 9000,
+    "exp": 9015,
     "name": "elnao",
     "lastSeen": "2026-09-13T05:58:23.915Z"
   },
