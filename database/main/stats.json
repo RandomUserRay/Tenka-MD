@@ -1,6 +1,6 @@
 {
   "commandErrors": 601,
-  "commandsExecuted": 117840,
+  "commandsExecuted": 117841,
   "command_totalchat": 19,
   "command_menu": 1798,
   "command_fb": 5,
@@ -162,7 +162,7 @@
   "command_liststikerreply": 2,
   "command_delstikerreply": 3,
   "command_delowner": 16,
-  "command_bratimg": 1808,
+  "command_bratimg": 1807,
   "command_rvo": 95,
   "command_listowner": 5,
   "command_listprem": 31,
@@ -1355,8 +1355,8 @@
   "command_listbugaccess": 1,
   "command_addsender": 17,
   "command_delbugaccess": 1,
-  "command_whitelistbug": 5,
+  "command_whitelistbug": 6,
   "command_delsender": 3,
   "command_blacklist": 2,
-  "command_listwhitelistbug": 2
+  "command_listwhitelistbug": 3
 }
