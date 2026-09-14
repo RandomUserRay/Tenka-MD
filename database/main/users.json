@@ -33652,7 +33652,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38766,
+    "exp": 38781,
     "level": 1,
     "koin": 454314,
     "unlockedFeatures": [],
@@ -33661,7 +33661,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:30:52.244Z",
+    "lastSeen": "2026-09-14T12:31:02.461Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33694,7 +33694,7 @@
       "maxStamina": 115,
       "health": 130,
       "mana": 115,
-      "stamina": 75
+      "stamina": 65
     },
     "inventory": {},
     "access": [],
@@ -122022,7 +122022,7 @@
   "6289677551643": {
     "jid": "6289677551643",
     "rpg": {},
-    "exp": 300
+    "exp": 330
   },
   "6283169694019": {
     "jid": "6283169694019",
