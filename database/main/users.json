@@ -20157,7 +20157,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46814,
+    "exp": 46844,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20166,7 +20166,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T10:15:13.471Z",
+    "lastSeen": "2026-09-14T10:15:57.885Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20234,7 +20234,7 @@
       "open": 1789240778139,
       "pin": 1789269301274,
       "rvo": 1789376067321,
-      "kick": 1789379673319,
+      "kick": 1789380958676,
       "top": 1789377210873
     },
     "clanId": null,
@@ -79873,7 +79873,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2205,
+    "exp": 2220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96319,7 +96319,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22755,
+    "exp": 22770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101851,7 +101851,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6024,
+    "exp": 6039,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121906,7 +121906,7 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "energi": 99999
   },
   "62881024765402": {
@@ -122117,6 +122117,6 @@
   "6285821568402": {
     "jid": "6285821568402",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
