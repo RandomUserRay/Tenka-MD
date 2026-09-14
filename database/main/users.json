@@ -111573,7 +111573,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12135,
+    "exp": 12150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111583,9 +111583,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T08:51:30.584Z",
+    "lastSeen": "2026-09-14T09:13:45.976Z",
     "cooldowns": {
-      "kick": 1789283807306
+      "kick": 1789283807306,
+      "top": 1789377226278
     },
     "clanId": null,
     "isRegistered": false,
@@ -111603,8 +111604,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 2
   },
   "6285147161439": {
     "jid": "6285147161439",
@@ -112577,7 +112578,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5055,
+    "exp": 5070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114908,7 +114909,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 90,
     "level": 1,
     "koin": 0,
     "saldo": 0,
