@@ -27530,10 +27530,10 @@
     "jid": "6282288273572",
     "name": "FERIT AY",
     "number": "6282288273572",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114112,
+    "exp": 114127,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -27542,7 +27542,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-29T03:29:34.241Z",
+    "lastSeen": "2026-09-14T14:17:18.987Z",
     "cooldowns": {
       "afk": 1785238067376,
       "jodoh": 1783338333447,
@@ -27606,7 +27606,8 @@
       "p": 1786447446713,
       "ping": 1786447358053,
       "owner": 1786447412085,
-      "allmenu": 1786447434842
+      "allmenu": 1786447434842,
+      "playvid": 1789395441204
     },
     "clanId": null,
     "isRegistered": false,
@@ -27643,7 +27644,9 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastStreamer": 1785482541955
+    "lastStreamer": 1785482541955,
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 1
   },
   "6285720043104": {
     "jid": "6285720043104",
@@ -33652,7 +33655,7 @@
     "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58503,
+    "exp": 58563,
     "level": 1,
     "koin": 188434,
     "unlockedFeatures": [],
@@ -33661,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:17:12.539Z",
+    "lastSeen": "2026-09-14T14:17:52.858Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -106824,7 +106827,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18870,
+    "exp": 18885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108412,7 +108415,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2370,
+    "exp": 2475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113252,7 +113255,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 525,
+    "exp": 555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114934,7 +114937,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 465,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120025,7 +120028,7 @@
   "628214436992": {
     "jid": "628214436992",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999
   },
   "6288226296127": {
@@ -121906,7 +121909,7 @@
   "6282279292811": {
     "jid": "6282279292811",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "6282178240072": {
