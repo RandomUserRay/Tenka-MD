@@ -19663,7 +19663,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 268025,
+    "exp": 268040,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19672,7 +19672,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T10:39:21.970Z",
+    "lastSeen": "2026-09-14T10:39:32.366Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19772,7 +19772,8 @@
       "brat": 1789295753403,
       "ffstalk": 1789307149435,
       "family100": 1789312658348,
-      "absen": 1789312930309
+      "absen": 1789312930309,
+      "totalchat": 1789382372732
     },
     "clanId": null,
     "isRegistered": false,
@@ -108389,7 +108390,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1305,
+    "exp": 1320,
     "level": 1,
     "koin": 0,
     "saldo": 0,
