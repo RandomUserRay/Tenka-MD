@@ -33652,16 +33652,16 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35932,
+    "exp": 38571,
     "level": 1,
-    "koin": 550581,
+    "koin": 629314,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:28:06.876Z",
+    "lastSeen": "2026-09-14T12:28:18.721Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33677,7 +33677,8 @@
       "saldo": 1789388828605,
       "casino": 1789388844873,
       "freelance": 1789388707013,
-      "stamina": 1789388730430
+      "stamina": 1789388730430,
+      "live": 1789388890660
     },
     "clanId": null,
     "isRegistered": false,
@@ -42993,13 +42994,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-09-14T12:27:19.160Z",
+    "lastSeen": "2026-09-14T12:28:17.749Z",
     "jid": "6285187952793",
     "number": "6285187952793",
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178836,
+    "exp": 178881,
     "level": 1,
     "koin": 15676,
     "unlockedFeatures": [],
@@ -43070,7 +43071,7 @@
       "maxHealth": 270,
       "mana": 185,
       "maxMana": 185,
-      "stamina": 95,
+      "stamina": 70,
       "maxStamina": 185,
       "attack": 12
     },
@@ -120271,7 +120272,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 5235,
+    "exp": 5250,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -121624,7 +121625,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 2520,
+    "exp": 2535,
     "energi": 99999
   },
   "62895638989358": {
