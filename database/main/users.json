@@ -104325,10 +104325,10 @@
     "jid": "62895626761698",
     "name": "hyykai1445th",
     "number": "62895626761698",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61863,
+    "exp": 61893,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104338,7 +104338,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:14:11.304Z",
+    "lastSeen": "2026-09-14T14:27:28.722Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104390,7 +104390,8 @@
       "admin": 1789299989955,
       "addtoxic": 1789312601630,
       "gc": 1789313073477,
-      "antisticker": 1789313496460
+      "antisticker": 1789313496460,
+      "s": 1789396048954
     },
     "clanId": null,
     "isRegistered": false,
