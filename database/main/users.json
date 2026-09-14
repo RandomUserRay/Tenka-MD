@@ -27221,7 +27221,7 @@
       "fishing": 1783128360760,
       "redeem": 1789128662277,
       "online": 1782924386890,
-      "smeme": 1788505760381,
+      "smeme": 1789388696426,
       "simi": 1786641823183,
       "zay": 1782930810785,
       "ai": 1788427160505,
@@ -33652,7 +33652,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28323,
+    "exp": 28338,
     "level": 1,
     "koin": 210000,
     "unlockedFeatures": [],
@@ -33661,7 +33661,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:24:44.537Z",
+    "lastSeen": "2026-09-14T12:24:59.609Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33689,7 +33689,7 @@
       "maxStamina": 110,
       "health": 120,
       "mana": 110,
-      "stamina": 100
+      "stamina": 75
     },
     "inventory": {},
     "access": [],
