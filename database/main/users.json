@@ -9975,13 +9975,13 @@
   },
   "6282382209999": {
     "name": "re..hiyya",
-    "lastSeen": "2026-09-14T15:38:41.696Z",
+    "lastSeen": "2026-09-14T15:39:08.086Z",
     "jid": "6282382209999",
     "number": "6282382209999",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 915,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9992,7 +9992,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "menu": 1781257384974,
-      "s": 1788362751896,
+      "s": 1789400350031,
       "me": 1787589733762,
       "brat": 1783508249417,
       "bratwhite": 1783508417557,
@@ -10015,8 +10015,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 3
   },
   "6281265767288": {
     "jid": "6281265767288",
@@ -119594,7 +119594,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "62882006652000": {
