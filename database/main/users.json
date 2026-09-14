@@ -33652,7 +33652,7 @@
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49070,
+    "exp": 49085,
     "level": 1,
     "koin": 13999,
     "unlockedFeatures": [],
@@ -33661,7 +33661,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:52:12.315Z",
+    "lastSeen": "2026-09-14T12:52:19.112Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33674,7 +33674,7 @@
       "stacktower": 1788334553178,
       "baik": 1789264272290,
       "kerja": 1789390335626,
-      "saldo": 1789389432624,
+      "saldo": 1789390339253,
       "casino": 1789389540375,
       "freelance": 1789389627904,
       "stamina": 1789388730430,
@@ -42997,13 +42997,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-09-14T12:39:12.338Z",
+    "lastSeen": "2026-09-14T12:52:34.193Z",
     "jid": "6285187952793",
     "number": "6285187952793",
     "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 188818,
+    "exp": 190378,
     "level": 1,
     "koin": 2587,
     "unlockedFeatures": [],
@@ -43042,7 +43042,7 @@
       "transfer": 1789389532552,
       "quiz": 1785643101382,
       "level": 1789387538442,
-      "kerja": 1789389362791,
+      "kerja": 1789390355515,
       "ngemis": 1785626677380,
       "mulung": 1785638154595,
       "pintar": 1789374014594,
@@ -43069,13 +43069,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 280,
-      "level": 19,
-      "maxHealth": 280,
-      "mana": 190,
-      "maxMana": 190,
-      "stamina": 100,
-      "maxStamina": 190,
+      "health": 290,
+      "level": 20,
+      "maxHealth": 290,
+      "mana": 195,
+      "maxMana": 195,
+      "stamina": 195,
+      "maxStamina": 195,
       "attack": 12
     },
     "inventory": {
@@ -111274,7 +111274,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9405,
+    "exp": 9420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111330,7 +111330,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16170,
+    "exp": 16185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121140,7 +121140,7 @@
   "6285185487428": {
     "jid": "6285185487428",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 99999
   },
   "6285837820180": {
@@ -121966,7 +121966,7 @@
   "6282278175240": {
     "jid": "6282278175240",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "6282286968527": {
@@ -122019,7 +122019,7 @@
   "6285713933982": {
     "jid": "6285713933982",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6289677551643": {
     "jid": "6289677551643",
