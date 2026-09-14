@@ -106803,7 +106803,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17820,
+    "exp": 17835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106813,7 +106813,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T07:16:37.243Z",
+    "lastSeen": "2026-09-14T07:17:04.949Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -106841,7 +106841,8 @@
       "deltoxic": 1789312414086,
       "addtoxic": 1789312642909,
       "menucat": 1789312844733,
-      "qc": 1789313117856
+      "qc": 1789313117856,
+      "toxiclist": 1789370225624
     },
     "clanId": null,
     "isRegistered": false,
@@ -113631,7 +113632,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5025,
+    "exp": 5040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
