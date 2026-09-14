@@ -26479,7 +26479,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167001,
+    "exp": 167046,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26488,7 +26488,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:44:07.133Z",
+    "lastSeen": "2026-09-14T12:46:04.585Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26567,7 +26567,7 @@
       "buyenergi": 1785389960203,
       "simi": 1788510658500,
       "tf": 1785390251938,
-      "warn": 1789389795465,
+      "warn": 1789389964771,
       "apakah": 1785502548169,
       "slot": 1785503307296,
       "ytmp4": 1787627100405,
@@ -50165,7 +50165,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3390,
+    "exp": 3465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50174,7 +50174,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:43:50.857Z",
+    "lastSeen": "2026-09-14T12:46:14.857Z",
     "cooldowns": {
       "s": 1789389653172,
       "d": 1783741421008,
@@ -50185,7 +50185,7 @@
       "hitamkan": 1783738460738,
       "bratimg": 1789389835520,
       "smeme": 1789031799043,
-      "warn": 1789389761966
+      "warn": 1789389974916
     },
     "clanId": null,
     "isRegistered": false,
@@ -60312,7 +60312,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1680,
+    "exp": 1695,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111135,7 +111135,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5805,
+    "exp": 5835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113504,7 +113504,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20865,
+    "exp": 20895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120811,7 +120811,7 @@
   "6288271181870": {
     "jid": "6288271181870",
     "rpg": {},
-    "exp": 2160,
+    "exp": 2175,
     "energi": 99999
   },
   "6282138010678": {
@@ -122239,7 +122239,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 345,
+    "exp": 390,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-09-14T12:44:36.102Z",
     "cooldowns": {
