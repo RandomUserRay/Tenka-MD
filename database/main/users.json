@@ -42983,13 +42983,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-09-14T08:26:33.589Z",
+    "lastSeen": "2026-09-14T08:27:00.223Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99994,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168234,
+    "exp": 168279,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43046,7 +43046,7 @@
       "pro": 1789263776614,
       "kaya": 1789263780037,
       "truth": 1789263815283,
-      "pin": 1789374388337,
+      "pin": 1789374430232,
       "cantik": 1789303168945
     },
     "clanId": null,
@@ -111148,7 +111148,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26370,
+    "exp": 26385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120221,7 +120221,7 @@
     "lastSeen": "2026-09-12T04:27:35.634Z",
     "jid": "6281234474465",
     "rpg": {},
-    "exp": 1380,
+    "exp": 1395,
     "cooldowns": {
       "menu": 1789186014537,
       "menucat": 1789186165036,
@@ -121750,16 +121750,17 @@
   "6285141109975": {
     "jid": "6285141109975",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "name": "yg jls manusia boyy",
-    "lastSeen": "2026-09-13T14:54:36.251Z",
+    "lastSeen": "2026-09-14T08:26:56.304Z",
     "cooldowns": {
       "ytmp4": 1789310382697,
-      "play": 1789311283574
+      "play": 1789311283574,
+      "afk": 1789374417365
     },
     "energi": 99999,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 2
   },
   "6289673306609": {
     "jid": "6289673306609",
