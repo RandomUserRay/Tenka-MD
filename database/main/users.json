@@ -33652,16 +33652,16 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27605,
+    "exp": 28083,
     "level": 1,
-    "koin": 10035,
+    "koin": 14515,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T01:51:12.244Z",
+    "lastSeen": "2026-09-14T12:21:54.128Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33686,7 +33686,7 @@
       "maxStamina": 110,
       "health": 120,
       "mana": 110,
-      "stamina": 110
+      "stamina": 100
     },
     "inventory": {},
     "access": [],
