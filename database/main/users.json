@@ -34670,7 +34670,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3510,
+    "exp": 3525,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34679,7 +34679,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T18:58:32.209Z",
+    "lastSeen": "2026-09-14T16:59:04.884Z",
     "cooldowns": {
       "menu": 1788853921449,
       "stiker": 1783020339427,
@@ -34690,7 +34690,8 @@
       "tiktok": 1788686364010,
       "playvid": 1789083071005,
       "anichin": 1789219313177,
-      "pin": 1789239519944
+      "pin": 1789239519944,
+      "cektsundere": 1789405148508
     },
     "clanId": null,
     "isRegistered": false,
@@ -34711,8 +34712,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 9
   },
   "6285187743901": {
     "jid": "6285187743901",
@@ -122287,11 +122288,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122306,6 +122302,11 @@
     "jid": "6285655931385",
     "rpg": {},
     "exp": 15
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
   },
   "6283170420982": {
     "jid": "6283170420982",
