@@ -20367,10 +20367,10 @@
     "jid": "6285245309219",
     "name": "x",
     "number": "6285245309219",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 226532,
+    "exp": 226547,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20379,7 +20379,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T05:31:19.395Z",
+    "lastSeen": "2026-09-14T05:51:57.614Z",
     "cooldowns": {
       "menu": 1789363883170,
       "allmenu": 1786162234717,
@@ -20465,7 +20465,8 @@
       "discordstalk": 1788655661965,
       "lick": 1789221066074,
       "pin": 1789273095173,
-      "hd": 1789363653066
+      "hd": 1789363653066,
+      "s": 1789365119072
     },
     "clanId": null,
     "isRegistered": false,
