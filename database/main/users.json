@@ -18383,7 +18383,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60330,
+    "exp": 60375,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -18392,7 +18392,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T10:40:24.069Z",
+    "lastSeen": "2026-09-14T21:51:24.244Z",
     "cooldowns": {
       "tembak": 1782201336727,
       "terima": 1782201866422,
@@ -18409,7 +18409,8 @@
       "p": 1787027746857,
       "brat": 1783820358437,
       "bratimg": 1783871317896,
-      "ytmp4": 1787690702765
+      "ytmp4": 1787690702765,
+      "open": 1789422684993
     },
     "clanId": null,
     "isRegistered": false,
@@ -18432,8 +18433,8 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastActiveDate": "31/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 2
   },
   "6283871114819": {
     "jid": "6283871114819",
