@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000052125,
+    "exp": 9000052200,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -20158,7 +20158,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50189,
+    "exp": 50174,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104818,7 +104818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44250,
+    "exp": 44220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104828,13 +104828,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T16:00:12.065Z",
+    "lastSeen": "2026-09-14T13:22:12.269Z",
     "cooldowns": {
       "menu": 1789057459598,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
-      "close": 1789401612676,
+      "close": 1789315219931,
       "open": 1789337400782,
       "bratbahlil": 1788623947058,
       "mutegc": 1789008086839,
@@ -106964,7 +106964,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5535,
+    "exp": 5520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119261,12 +119261,12 @@
   },
   "6285752427165": {
     "jid": "6285752427165",
-    "name": "RILL",
+    "name": "Unknown",
     "number": "6285752427165",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119276,11 +119276,8 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T16:00:11.258Z",
-    "cooldowns": {
-      "menu": 1789401594867,
-      "menucat": 1789401611665
-    },
+    "lastSeen": "2026-09-11T06:18:38.692Z",
+    "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -119288,9 +119285,7 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": [],
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 1
+    "access": []
   },
   "6282254416963": {
     "jid": "6282254416963",
@@ -122285,6 +122280,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122299,11 +122299,6 @@
     "jid": "6285655931385",
     "rpg": {},
     "exp": 15
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
   },
   "6283170420982": {
     "jid": "6283170420982",
