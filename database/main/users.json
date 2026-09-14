@@ -33652,16 +33652,16 @@
     "energi": 99975,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50973,
+    "exp": 51490,
     "level": 1,
-    "koin": 33331,
+    "koin": 48408,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:11:36.365Z",
+    "lastSeen": "2026-09-14T14:11:50.539Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33678,7 +33678,7 @@
       "casino": 1789390978634,
       "freelance": 1789395102002,
       "stamina": 1789388730430,
-      "live": 1789389623476,
+      "live": 1789395114736,
       "slot": 1789389374019,
       "transfer": 1789389045460,
       "sleep": 1789389640820
@@ -33695,7 +33695,7 @@
       "maxStamina": 125,
       "health": 150,
       "mana": 125,
-      "stamina": 125
+      "stamina": 105
     },
     "inventory": {},
     "access": [],
@@ -104322,7 +104322,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61578,
+    "exp": 61593,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104332,7 +104332,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:04:06.663Z",
+    "lastSeen": "2026-09-14T14:11:51.438Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
@@ -104343,7 +104343,7 @@
       "bratanime": 1788692052231,
       "brathd": 1788693520600,
       "bratvid2": 1788693575190,
-      "tagall": 1789380912864,
+      "tagall": 1789395111856,
       "bratgojo": 1788694626254,
       "bratbahlil": 1788995128495,
       "antitoxic": 1788701110739,
@@ -120198,7 +120198,7 @@
   "6285751107689": {
     "jid": "6285751107689",
     "rpg": {},
-    "exp": 3675,
+    "exp": 3705,
     "name": "ܔܛܔ",
     "lastSeen": "2026-09-13T12:28:33.425Z",
     "energi": 99999
