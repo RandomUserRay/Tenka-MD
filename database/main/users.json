@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000051750,
+    "exp": 9000051675,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -103662,10 +103662,10 @@
     "jid": "6282373861587",
     "name": "cacaloveblue",
     "number": "6282373861587",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103675,12 +103675,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T15:14:02.667Z",
+    "lastSeen": "2026-09-14T15:12:18.443Z",
     "cooldowns": {
       "menu": 1788421795945,
       "menucat": 1788421784418,
       "tt": 1788432233225,
-      "pin": 1789398849386
+      "pin": 1789398746824
     },
     "clanId": null,
     "isRegistered": false,
@@ -111604,7 +111604,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15705,
+    "exp": 15720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119494,7 +119494,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 405,
+    "exp": 390,
     "energi": 99999
   },
   "6285785063453": {
@@ -122280,11 +122280,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122299,6 +122294,11 @@
     "jid": "6285655931385",
     "rpg": {},
     "exp": 15
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
   },
   "6283170420982": {
     "jid": "6283170420982",
