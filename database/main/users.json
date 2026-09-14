@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-14T14:19:58.439Z",
+    "lastSeen": "2026-09-14T14:20:45.908Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000051675,
+    "exp": 9000051750,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53050,
+    "exp": 53095,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,11 +342,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:19:43.392Z",
+    "lastSeen": "2026-09-14T14:21:15.432Z",
     "cooldowns": {
       "afk": 1786716716848,
       "s": 1789213343291,
-      "femboy": 1789395584644,
+      "femboy": 1789395628168,
       "daily": 1780385975656,
       "profile": 1789213791553,
       "ww": 1780234166014,
@@ -373,7 +373,7 @@
       "luck": 1782124523938,
       "bratpatrick": 1782384051238,
       "pap": 1782642500567,
-      "cekfemboy": 1789213229634,
+      "cekfemboy": 1789395677290,
       "cekcantik": 1789121261482,
       "cekganteng": 1785587950992,
       "jodoh": 1785334126257,
@@ -108412,7 +108412,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2415,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111597,7 +111597,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14655,
+    "exp": 14625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113252,7 +113252,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114934,7 +114934,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119735,7 +119735,7 @@
   "6283848747103": {
     "jid": "6283848747103",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "6281990054908": {
@@ -121746,7 +121746,7 @@
   "6282245695966": {
     "jid": "6282245695966",
     "rpg": {},
-    "exp": 45,
+    "exp": 15,
     "energi": 99999
   },
   "6282382333894": {
@@ -122273,6 +122273,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122282,15 +122287,5 @@
     "jid": "6285854005378",
     "rpg": {},
     "exp": 15
-  },
-  "6285655931385": {
-    "jid": "6285655931385",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
   }
 }
