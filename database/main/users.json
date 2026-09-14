@@ -106803,7 +106803,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17760,
+    "exp": 17775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106813,7 +106813,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T07:14:11.091Z",
+    "lastSeen": "2026-09-14T07:15:24.434Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -122067,6 +122067,6 @@
   "6282172259139": {
     "jid": "6282172259139",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
