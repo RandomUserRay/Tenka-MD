@@ -106827,7 +106827,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18900,
+    "exp": 18915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106837,7 +106837,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:18:30.877Z",
+    "lastSeen": "2026-09-14T14:18:45.002Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -106851,7 +106851,7 @@
       "h": 1789379760907,
       "tagall": 1789112311973,
       "d": 1788993142979,
-      "del": 1789313983062,
+      "del": 1789395525105,
       "kick": 1789313645945,
       "ht": 1788996743272,
       "rvo": 1789395511598,
@@ -113255,7 +113255,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122283,6 +122283,11 @@
   },
   "6285854005378": {
     "jid": "6285854005378",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285655931385": {
+    "jid": "6285655931385",
     "rpg": {},
     "exp": 15
   }
