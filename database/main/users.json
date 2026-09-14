@@ -122041,11 +122041,17 @@
     "lastSeen": "2026-09-14T07:03:59.059Z",
     "jid": "6282383610315",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "cooldowns": {
       "tebaktebakan": 1789369439214
     },
     "lastActiveDate": "14/9/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 32
+  },
+  "6288980285638": {
+    "jid": "6288980285638",
+    "rpg": {},
+    "exp": 15
   }
 }
