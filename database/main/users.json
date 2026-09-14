@@ -93051,10 +93051,10 @@
     "jid": "6282180208289",
     "name": "LannnnNotDev彡",
     "number": "6282180208289",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33858,
+    "exp": 33873,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -93064,7 +93064,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:22:44.517Z",
+    "lastSeen": "2026-09-14T14:24:38.093Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -104784,7 +104784,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106825,10 +106825,10 @@
     "jid": "628135338055",
     "name": "😎",
     "number": "628135338055",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18885,
+    "exp": 18900,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106838,7 +106838,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:15:53.717Z",
+    "lastSeen": "2026-09-14T14:24:38.083Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -107340,7 +107340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4590,
+    "exp": 4605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122277,11 +122277,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122296,5 +122291,10 @@
     "jid": "6285655931385",
     "rpg": {},
     "exp": 15
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
   }
 }
