@@ -33649,10 +33649,10 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99991,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42618,
+    "exp": 42633,
     "level": 1,
     "koin": 516722,
     "unlockedFeatures": [],
@@ -33661,7 +33661,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:31:37.843Z",
+    "lastSeen": "2026-09-14T12:31:58.187Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -97863,7 +97863,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10650,
+    "exp": 10665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104320,7 +104320,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59298,
+    "exp": 59313,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -119946,7 +119946,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 7140,
+    "exp": 7155,
     "energi": 99999,
     "name": "hh",
     "lastSeen": "2026-09-14T12:16:10.991Z",
@@ -120600,7 +120600,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 6210,
+    "exp": 6225,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-14T10:27:50.985Z",
@@ -122232,6 +122232,6 @@
   "6283104632841": {
     "jid": "6283104632841",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
