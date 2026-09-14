@@ -97842,7 +97842,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-14T13:31:03.916Z",
     "cooldowns": {
-      "play": 1789312760950,
+      "play": 1789392672832,
       "wm": 1788347084351,
       "afk": 1788535026419,
       "s": 1789049850584
@@ -97855,8 +97855,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 9
   },
   "6283898309546": {
     "jid": "6283898309546",
@@ -104322,7 +104322,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60513,
+    "exp": 60558,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111136,7 +111136,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6420,
+    "exp": 6450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111595,7 +111595,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13740,
+    "exp": 13755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113506,7 +113506,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22470,
+    "exp": 22500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120247,7 +120247,7 @@
     "lastSeen": "2026-09-12T04:27:35.634Z",
     "jid": "6281234474465",
     "rpg": {},
-    "exp": 1680,
+    "exp": 1695,
     "cooldowns": {
       "menu": 1789186014537,
       "menucat": 1789186165036,
@@ -121633,7 +121633,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 3180,
+    "exp": 3210,
     "energi": 99999
   },
   "62895638989358": {
@@ -122258,6 +122258,11 @@
   },
   "6285817275968": {
     "jid": "6285817275968",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285752597044": {
+    "jid": "6285752597044",
     "rpg": {},
     "exp": 15
   }
