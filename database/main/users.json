@@ -20158,7 +20158,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49034,
+    "exp": 48944,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -40245,7 +40245,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62355,
+    "exp": 62370,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97284,7 +97284,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6585,
+    "exp": 6600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104328,7 +104328,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62253,
+    "exp": 62238,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -105031,7 +105031,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6660,
+    "exp": 6630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111603,7 +111603,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15435,
+    "exp": 15345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120286,7 +120286,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 5835,
+    "exp": 5805,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -122279,6 +122279,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122293,10 +122298,5 @@
     "jid": "6285655931385",
     "rpg": {},
     "exp": 15
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30
   }
 }
