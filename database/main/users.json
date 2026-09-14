@@ -107334,7 +107334,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3690,
+    "exp": 3705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107344,14 +107344,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:16:09.933Z",
+    "lastSeen": "2026-09-14T13:20:54.026Z",
     "cooldowns": {
       "ytmp4": 1788855781721,
       "list": 1789180076842,
       "menu": 1789180084115,
       "play": 1789196831034,
       "antispam": 1789387776572,
-      "owner": 1789388170056
+      "owner": 1789388170056,
+      "h": 1789392054117
     },
     "clanId": null,
     "isRegistered": false,
@@ -108409,7 +108410,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1875,
+    "exp": 1890,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111135,7 +111136,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6210,
+    "exp": 6225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111594,7 +111595,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13680,
+    "exp": 13695,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112600,7 +112601,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6255,
+    "exp": 6270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112628,7 +112629,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6810,
+    "exp": 6825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113853,7 +113854,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1380,
+    "exp": 1395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121024,8 +121025,10 @@
   "6287782798007": {
     "jid": "6287782798007",
     "rpg": {},
-    "exp": 285,
-    "energi": 99999
+    "exp": 300,
+    "energi": 99999,
+    "name": "no name",
+    "lastSeen": "2026-09-14T13:20:54.012Z"
   },
   "62882010537728": {
     "jid": "62882010537728",
@@ -122020,7 +122023,7 @@
   "6285713933982": {
     "jid": "6285713933982",
     "rpg": {},
-    "exp": 345
+    "exp": 360
   },
   "6289677551643": {
     "jid": "6289677551643",
