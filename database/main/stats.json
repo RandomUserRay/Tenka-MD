@@ -1,6 +1,6 @@
 {
   "commandErrors": 610,
-  "commandsExecuted": 118531,
+  "commandsExecuted": 118532,
   "command_totalchat": 20,
   "command_menu": 1819,
   "command_fb": 5,
@@ -1365,5 +1365,6 @@
   "command_delwhitelistbug": 1,
   "command_addwsg": 2,
   "command_addai": 4,
-  "command_waktusholat": 1
+  "command_waktusholat": 1,
+  "command_toxiclist": 1
 }
