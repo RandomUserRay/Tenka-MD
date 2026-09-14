@@ -106680,7 +106680,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106802,7 +106802,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17730,
+    "exp": 17745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106812,7 +106812,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T15:39:42.880Z",
+    "lastSeen": "2026-09-14T05:39:45.589Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -106823,7 +106823,7 @@
       "play": 1789299829698,
       "ytmp4": 1789299825257,
       "owner": 1789311887229,
-      "h": 1789313725316,
+      "h": 1789364386395,
       "tagall": 1789112311973,
       "d": 1788993142979,
       "del": 1789313983062,
@@ -106858,8 +106858,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 9
   },
   "62895321719185": {
     "jid": "62895321719185",
