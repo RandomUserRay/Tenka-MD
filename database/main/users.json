@@ -105635,10 +105635,10 @@
     "jid": "6285651022691",
     "name": "bluenoiréa",
     "number": "6285651022691",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105648,11 +105648,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T04:31:57.943Z",
+    "lastSeen": "2026-09-14T06:17:15.432Z",
     "cooldowns": {
       "bratimg": 1788620336080,
       "play": 1789187487932,
-      "s": 1789187473638
+      "s": 1789366637315
     },
     "clanId": null,
     "isRegistered": false,
@@ -105662,8 +105662,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 5
   },
   "62895405664528": {
     "jid": "62895405664528",
@@ -120147,7 +120147,7 @@
     "lastSeen": "2026-09-12T01:33:41.930Z",
     "jid": "628889684798",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "62895639061864": {
@@ -120577,7 +120577,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 5475,
+    "exp": 5490,
     "energi": 99999
   },
   "264798004625543": {
