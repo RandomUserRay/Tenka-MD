@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "rate-overlimit",
+      "at": 1789386546917
+    },
+    {
+      "cmd": "unknown",
+      "err": "rate-overlimit",
       "at": 1789308212993
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789043098894
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in /**\n * Plugin: PlayVideo\n * Plugin Name: Playvideo\n * Layout: Full-Width Landscape Video with Auto-Hiding Status Badge\n * Theme: Ultra-Modern Electri",
-      "at": 1788911159192
     }
   ],
   "jpmBlacklist": [],
