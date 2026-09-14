@@ -33655,7 +33655,7 @@
     "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59015,
+    "exp": 59030,
     "level": 1,
     "koin": 192806,
     "unlockedFeatures": [],
@@ -33664,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:19:04.371Z",
+    "lastSeen": "2026-09-14T14:19:10.083Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33679,7 +33679,7 @@
       "kerja": 1789395547768,
       "saldo": 1789395367717,
       "casino": 1789395148567,
-      "freelance": 1789395328053,
+      "freelance": 1789395554728,
       "stamina": 1789395348180,
       "live": 1789395339457,
       "slot": 1789389374019,
@@ -33700,7 +33700,7 @@
       "maxStamina": 125,
       "health": 150,
       "mana": 125,
-      "stamina": 40
+      "stamina": 15
     },
     "inventory": {},
     "access": [],
@@ -106827,7 +106827,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18930,
+    "exp": 18945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106837,7 +106837,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:19:00.509Z",
+    "lastSeen": "2026-09-14T14:19:12.362Z",
     "cooldowns": {
       "brat": 1789313271780,
       "bratcewek": 1788695614626,
@@ -106867,7 +106867,8 @@
       "menucat": 1789312844733,
       "qc": 1789313117856,
       "toxiclist": 1789370225624,
-      "totalfitur": 1789388184443
+      "totalfitur": 1789388184443,
+      "close": 1789395552459
     },
     "clanId": null,
     "isRegistered": false,
@@ -113511,7 +113512,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23055,
+    "exp": 23070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
