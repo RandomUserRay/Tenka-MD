@@ -62415,10 +62415,10 @@
     "jid": "6289504621246",
     "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
     "number": "6289504621246",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15210,
+    "exp": 15240,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -62427,7 +62427,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:17:31.905Z",
+    "lastSeen": "2026-09-14T05:46:24.948Z",
     "cooldowns": {
       "afk": 1788613388224,
       "d": 1784339008980,
@@ -62448,7 +62448,7 @@
       "iqc": 1785491517652,
       "tts": 1789048967063,
       "top": 1788823228723,
-      "ship": 1789081497467,
+      "ship": 1789364785694,
       "ping": 1789051560066,
       "love": 1789051655599,
       "getpp": 1789081641687,
@@ -62473,8 +62473,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 10
   },
   "6283844638266": {
     "jid": "6283844638266",
@@ -79870,7 +79870,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2100,
+    "exp": 2115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121900,7 +121900,7 @@
   "6285857362861": {
     "jid": "6285857362861",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999
   },
   "62881024765402": {
