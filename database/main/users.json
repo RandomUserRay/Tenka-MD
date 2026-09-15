@@ -26481,7 +26481,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167556,
+    "exp": 167616,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -33652,10 +33652,10 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70060,
+    "exp": 71939,
     "level": 1,
     "koin": 473310,
     "unlockedFeatures": [],
@@ -33664,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T06:03:54.691Z",
+    "lastSeen": "2026-09-15T08:10:07.772Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33676,12 +33676,12 @@
       "ytmp4": 1788163427588,
       "stacktower": 1788334553178,
       "baik": 1789264272290,
-      "kerja": 1789452179412,
+      "kerja": 1789459787320,
       "saldo": 1789452201915,
       "casino": 1789452237692,
-      "freelance": 1789452189723,
+      "freelance": 1789459791905,
       "stamina": 1789425395066,
-      "live": 1789452197373,
+      "live": 1789459788610,
       "slot": 1789389374019,
       "transfer": 1789389045460,
       "sleep": 1789389640820,
@@ -33702,7 +33702,7 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 135
+      "stamina": 65
     },
     "inventory": {
       "fish": 1
@@ -33710,7 +33710,8 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "15/9/2026",
-    "activeDays": 6
+    "activeDays": 6,
+    "lastStreamer": 1789460088302
   },
   "6289529231434": {
     "jid": "6289529231434",
@@ -50175,7 +50176,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4170,
+    "exp": 4245,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50184,13 +50185,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:46:14.857Z",
+    "lastSeen": "2026-09-15T08:10:02.684Z",
     "cooldowns": {
       "s": 1789389653172,
       "d": 1783741421008,
       "gay": 1783738460576,
       "jelek": 1783738651828,
-      "absen": 1783738787551,
+      "absen": 1789459807692,
       "cekkhodam": 1783694668277,
       "hitamkan": 1783738460738,
       "bratimg": 1789389835520,
@@ -50206,8 +50207,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 4
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -60322,7 +60323,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2190,
+    "exp": 2235,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72571,10 +72572,10 @@
     "jid": "6281973521590",
     "name": "ִ ࣪ 𝓢𝓾𝓲𝓻𝓮𝓷 🪼˖ ݁ ִ ׄ",
     "number": "6281973521590",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8940,
+    "exp": 9000,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72583,7 +72584,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:08:11.497Z",
+    "lastSeen": "2026-09-15T08:09:29.245Z",
     "cooldowns": {
       "truth": 1789459642748,
       "femboy": 1785157098523,
@@ -72602,7 +72603,7 @@
       "level": 1789382195914,
       "open": 1789298206852,
       "close": 1789298201513,
-      "robloxstalk": 1789459712849
+      "robloxstalk": 1789459770663
     },
     "clanId": null,
     "isRegistered": false,
