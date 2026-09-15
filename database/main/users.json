@@ -20160,7 +20160,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52199,
+    "exp": 52169,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -26699,7 +26699,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715698,
+    "exp": 715653,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -72589,7 +72589,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9285,
+    "exp": 9255,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95986,7 +95986,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4995,
+    "exp": 5010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95996,9 +95996,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T04:27:16.307Z",
+    "lastSeen": "2026-09-15T11:02:04.169Z",
     "cooldowns": {
-      "afk": 1789124371917,
+      "afk": 1789470127678,
       "play": 1789446463597,
       "smeme": 1789440738497,
       "s": 1789440748204,
@@ -96367,7 +96367,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23160,
+    "exp": 23130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97897,7 +97897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11025,
+    "exp": 10995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98137,7 +98137,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2280,
+    "exp": 2295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101666,7 +101666,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104845,7 +104845,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45810,
+    "exp": 45795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104971,7 +104971,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4425,
+    "exp": 4395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105067,7 +105067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7485,
+    "exp": 7440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106588,7 +106588,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6255,
+    "exp": 6225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108296,7 +108296,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 885,
+    "exp": 870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111320,7 +111320,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9885,
+    "exp": 9870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112647,7 +112647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9105,
+    "exp": 9090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119350,7 +119350,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-15T11:00:55.082Z",
     "cooldowns": {
-      "bratimg": 1789470064587,
+      "bratimg": 1789469834594,
       "menu": 1789469587488,
       "bratvid": 1789469902912
     },
@@ -120694,7 +120694,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 7035,
+    "exp": 6990,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-14T13:05:51.677Z",
@@ -122414,6 +122414,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122428,12 +122434,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122564,16 +122564,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
-  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122586,6 +122576,16 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
+  },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
@@ -122632,6 +122632,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285167003514": {
+    "jid": "6285167003514",
+    "rpg": {},
+    "exp": 15
+  },
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
@@ -122644,11 +122649,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285167003514": {
-    "jid": "6285167003514",
-    "rpg": {},
-    "exp": 15
   },
   "6283875466917": {
     "jid": "6283875466917",
