@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000054750,
+    "exp": 9000054675,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -33037,7 +33037,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 552949,
+    "exp": 552964,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33046,7 +33046,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T07:56:22.758Z",
+    "lastSeen": "2026-09-15T08:23:22.192Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -81301,10 +81301,10 @@
     "jid": "601120999441",
     "name": "Qazim",
     "number": "601120999441",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39962,
+    "exp": 40002,
     "level": 1,
     "koin": 57,
     "saldo": 0,
@@ -81314,9 +81314,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:23:06.369Z",
+    "lastSeen": "2026-09-15T08:23:16.037Z",
     "cooldowns": {
-      "mancing": 1788528654255,
+      "mancing": 1789460600909,
       "rest": 1786629040968,
       "inv": 1789389279927,
       "use": 1785664554484,
@@ -81335,18 +81335,18 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 40,
-      "health": 130,
-      "mana": 115,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "level": 4
+      "stamina": 120,
+      "health": 140,
+      "mana": 120,
+      "maxHealth": 140,
+      "maxMana": 120,
+      "maxStamina": 120,
+      "level": 5
     },
     "inventory": {
       "octopus": 5,
       "fish": 4,
-      "trash": 7,
+      "trash": 8,
       "prawn": 1,
       "rock": 4,
       "coal": 2,
@@ -122367,12 +122367,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122387,6 +122381,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122517,6 +122517,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122529,16 +122539,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
