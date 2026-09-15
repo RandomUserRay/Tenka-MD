@@ -101923,7 +101923,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10944,
+    "exp": 10974,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104379,7 +104379,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68493,
+    "exp": 68523,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111213,7 +111213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7575,
+    "exp": 7590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111223,7 +111223,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:17:37.071Z",
+    "lastSeen": "2026-09-15T14:18:14.126Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111233,7 +111233,8 @@
       "lesby": 1789481637870,
       "gay": 1789481731625,
       "bodoh": 1789481812744,
-      "janda": 1789481857129
+      "janda": 1789481857129,
+      "pintar": 1789481894231
     },
     "clanId": null,
     "isRegistered": false,
@@ -111356,7 +111357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10410,
+    "exp": 10425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112429,7 +112430,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6495,
+    "exp": 6510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122869,5 +122870,10 @@
     "jid": "6285828789116",
     "rpg": {},
     "exp": 45
+  },
+  "6285720844830": {
+    "jid": "6285720844830",
+    "rpg": {},
+    "exp": 15
   }
 }
