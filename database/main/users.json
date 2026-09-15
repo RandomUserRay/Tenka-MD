@@ -20159,7 +20159,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50729,
+    "exp": 50789,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20168,7 +20168,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T16:29:06.420Z",
+    "lastSeen": "2026-09-15T04:30:44.069Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20238,7 +20238,8 @@
       "rvo": 1789376067321,
       "kick": 1789396374096,
       "top": 1789377210873,
-      "tenka": 1789396779128
+      "tenka": 1789396779128,
+      "totalchat": 1789446644503
     },
     "clanId": null,
     "isRegistered": false,
@@ -20258,8 +20259,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 6
   },
   "6282182476988": {
     "jid": "6282182476988",
@@ -102260,13 +102261,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-15T04:30:27.578Z",
+    "lastSeen": "2026-09-15T04:29:06.535Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 241880,
+    "exp": 241655,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -122340,12 +122341,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122360,6 +122355,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122451,5 +122452,10 @@
     "jid": "6283818007140",
     "rpg": {},
     "exp": 30
+  },
+  "6287714946160": {
+    "jid": "6287714946160",
+    "rpg": {},
+    "exp": 15
   }
 }
