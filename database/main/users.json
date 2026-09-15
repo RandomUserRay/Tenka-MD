@@ -105232,7 +105232,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8160,
+    "exp": 8175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111215,10 +111215,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8010,
+    "exp": 8040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111228,7 +111228,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:35:07.050Z",
+    "lastSeen": "2026-09-15T14:36:01.927Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111249,7 +111249,9 @@
       "cantik": 1789482388854,
       "setan": 1789482419094,
       "perawan": 1789482472591,
-      "pakustad": 1789482907246
+      "pakustad": 1789482907246,
+      "cekpacar": 1789482949083,
+      "tembak": 1789482961993
     },
     "clanId": null,
     "isRegistered": false,
@@ -111260,7 +111262,11 @@
     "inventory": {},
     "access": [],
     "lastActiveDate": "15/9/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "fun": {
+      "tembakTarget": "6285150979843@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6282271219129": {
     "jid": "6282271219129",
@@ -111269,7 +111275,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31065,
+    "exp": 31080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112800,7 +112806,8 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "fun": {}
   },
   "6283191157210": {
     "jid": "6283191157210",
@@ -113630,7 +113637,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25785,
+    "exp": 25800,
     "level": 1,
     "koin": 0,
     "saldo": 0,
