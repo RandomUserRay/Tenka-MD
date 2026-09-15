@@ -68481,7 +68481,8 @@
       "slot": 1786017469524,
       "mulung": 1785672926722,
       "simi": 1789043209317,
-      "dimana": 1789464650936
+      "dimana": 1789464650936,
+      "cekmesum": 1789464702103
     },
     "clanId": null,
     "isRegistered": false,
@@ -106852,7 +106853,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20325,
+    "exp": 20340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106862,7 +106863,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:30:50.537Z",
+    "lastSeen": "2026-09-15T09:32:03.063Z",
     "cooldowns": {
       "brat": 1789395878913,
       "bratcewek": 1788695614626,
@@ -106876,7 +106877,7 @@
       "h": 1789463816712,
       "tagall": 1789112311973,
       "d": 1788993142979,
-      "del": 1789464650666,
+      "del": 1789464723282,
       "kick": 1789424649980,
       "ht": 1788996743272,
       "rvo": 1789457903352,
@@ -108441,7 +108442,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2820,
+    "exp": 2925,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111510,7 +111511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3015,
+    "exp": 3060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119989,7 +119990,7 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 8805,
+    "exp": 8820,
     "energi": 99994,
     "name": "hh",
     "lastSeen": "2026-09-15T09:31:21.073Z",
@@ -120330,10 +120331,16 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 6105,
-    "energi": 99999,
+    "exp": 6150,
+    "energi": 99996,
     "name": "Ytaa",
-    "lastSeen": "2026-09-13T00:51:21.362Z"
+    "lastSeen": "2026-09-15T09:32:25.502Z",
+    "cooldowns": {
+      "brat": 1789464745869,
+      "bratanime": 1789464723204
+    },
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 1
   },
   "601140455019": {
     "jid": "601140455019",
@@ -122615,7 +122622,7 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "name": "M4n🕸️",
     "lastSeen": "2026-09-15T09:31:04.602Z",
     "cooldowns": {
