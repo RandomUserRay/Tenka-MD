@@ -47436,7 +47436,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46761,
+    "exp": 46776,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -68430,10 +68430,10 @@
     "jid": "6287822035826",
     "name": "yeah :D",
     "number": "6287822035826",
-    "energi": 99983,
+    "energi": 99981,
     "isPremium": false,
     "isBanned": false,
-    "exp": 362096,
+    "exp": 362141,
     "level": 1,
     "koin": 1000000,
     "unlockedFeatures": [],
@@ -68442,7 +68442,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:25:52.755Z",
+    "lastSeen": "2026-09-15T12:26:15.608Z",
     "cooldowns": {
       "menu": 1789464850253,
       "menucat": 1784630119063,
@@ -68500,7 +68500,7 @@
       "cekmesum": 1789464702103,
       "bow": 1789464778764,
       "ytmp4": 1789465061760,
-      "s": 1789475142783
+      "s": 1789475177361
     },
     "clanId": null,
     "isRegistered": false,
@@ -101911,7 +101911,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10614,
+    "exp": 10629,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111234,7 +111234,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29970,
+    "exp": 30000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111255,13 +111255,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
     "inventory": {},
     "access": [],
@@ -122607,7 +122607,7 @@
   "6283161108229": {
     "jid": "6283161108229",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
