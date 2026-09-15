@@ -34152,7 +34152,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279990,
+    "exp": 280005,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34264,14 +34264,14 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 235,
-      "health": 370,
+      "stamina": 240,
+      "health": 380,
       "bank": 8308,
-      "level": 28,
-      "maxHealth": 370,
-      "maxMana": 235,
-      "maxStamina": 235,
-      "mana": 235
+      "level": 29,
+      "maxHealth": 380,
+      "maxMana": 240,
+      "maxStamina": 240,
+      "mana": 240
     },
     "inventory": {
       "rock": 21,
