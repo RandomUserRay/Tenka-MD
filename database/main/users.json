@@ -33658,7 +33658,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81126,
+    "exp": 81141,
     "level": 1,
     "koin": 185865,
     "unlockedFeatures": [],
@@ -33667,7 +33667,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T10:54:24.340Z",
+    "lastSeen": "2026-09-15T10:54:35.597Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33682,7 +33682,7 @@
       "kerja": 1789469662033,
       "saldo": 1789460984741,
       "casino": 1789460512260,
-      "freelance": 1789460920055,
+      "freelance": 1789469680461,
       "stamina": 1789460858816,
       "live": 1789469668543,
       "slot": 1789460586392,
@@ -33708,7 +33708,7 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 70
+      "stamina": 45
     },
     "inventory": {
       "fish": 1,
@@ -119350,7 +119350,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-15T10:53:58.759Z",
     "cooldowns": {
-      "bratimg": 1789465387549,
+      "bratimg": 1789469685261,
       "menu": 1789469587488
     },
     "clanId": null,
@@ -120017,7 +120017,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10005,
+    "exp": 10020,
     "energi": 99990,
     "name": "hh",
     "lastSeen": "2026-09-15T10:51:25.214Z",
