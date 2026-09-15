@@ -37033,8 +37033,8 @@
         "name": "亗 🫪𝑭𝒂𝒉𝒎𝒊🫪 亗"
       },
       "6283824955469@s.whatsapp.net": {
-        "count": 1390,
-        "lastChat": 1789472600739,
+        "count": 1391,
+        "lastChat": 1789472708240,
         "name": "icaaa🤍🤍"
       },
       "6283844881941@s.whatsapp.net": {
@@ -40616,8 +40616,8 @@
         "name": "izz"
       },
       "628889313960@s.whatsapp.net": {
-        "count": 25,
-        "lastChat": 1789472686251,
+        "count": 26,
+        "lastChat": 1789472703808,
         "name": "wan dos santos junior"
       },
       "6285717515172@s.whatsapp.net": {
@@ -40665,6 +40665,10 @@
     "name": "JB ALL GAME || IWANXTHIR",
     "antispam": "on",
     "antiswgc": "on",
-    "antisticker": true
+    "antisticker": true,
+    "antitoxic": true,
+    "toxicWarns": {
+      "6283129172027@s.whatsapp.net": 1
+    }
   }
 }
