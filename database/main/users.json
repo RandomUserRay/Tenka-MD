@@ -68413,7 +68413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 359430,
+    "exp": 359445,
     "level": 1,
     "koin": 811893,
     "unlockedFeatures": [],
@@ -104949,7 +104949,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2490,
+    "exp": 2505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104959,13 +104959,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T07:55:14.741Z",
+    "lastSeen": "2026-09-15T07:59:19.547Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789450008247,
       "bratimg": 1789458924668,
       "kick": 1789450658633,
-      "admin": 1789455363530
+      "admin": 1789455363530,
+      "antitoxic": 1789459159907
     },
     "clanId": null,
     "isRegistered": false,
@@ -122506,7 +122507,7 @@
   "62895629265008": {
     "jid": "62895629265008",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6281227954151": {
     "jid": "6281227954151",
