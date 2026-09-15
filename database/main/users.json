@@ -33655,7 +33655,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71939,
+    "exp": 72089,
     "level": 1,
     "koin": 473310,
     "unlockedFeatures": [],
@@ -33687,7 +33687,7 @@
       "sleep": 1789389640820,
       "buyfitur": 1789395279998,
       "menu": 1789395410218,
-      "mancing": 1789395726377,
+      "mancing": 1789459813255,
       "inv": 1789395737812
     },
     "clanId": null,
@@ -33705,7 +33705,8 @@
       "stamina": 65
     },
     "inventory": {
-      "fish": 1
+      "fish": 1,
+      "prawn": 1
     },
     "access": [],
     "saldo": 0,
