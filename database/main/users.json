@@ -33664,10 +33664,10 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81156,
+    "exp": 81171,
     "level": 1,
     "koin": 185865,
     "unlockedFeatures": [],
@@ -33676,7 +33676,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:38:56.539Z",
+    "lastSeen": "2026-09-15T12:39:10.214Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33704,7 +33704,8 @@
       "rest": 1789460953683,
       "shop": 1789461002897,
       "use": 1789461019322,
-      "s": 1789475939274
+      "s": 1789475939274,
+      "wm": 1789475951059
     },
     "clanId": null,
     "isRegistered": false,
@@ -47437,7 +47438,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46971,
+    "exp": 46986,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -104983,7 +104984,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6330,
+    "exp": 6345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104993,7 +104994,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T11:58:13.556Z",
+    "lastSeen": "2026-09-15T12:39:14.028Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789465735567,
@@ -105008,7 +105009,7 @@
       "antiswgc": 1789472679347,
       "welcome": 1789472731643,
       "mutegc": 1789472756525,
-      "setwelcome": 1789473493824
+      "setwelcome": 1789475954409
     },
     "clanId": null,
     "isRegistered": false,
