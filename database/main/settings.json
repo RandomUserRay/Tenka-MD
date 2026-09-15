@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
+      "at": 1789442330099
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789392180272
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in /**\n * Plugin: PlayVideo\n * Plugin Name: Playvideo\n * Layout: Ultra-Responsive Full-Width Video Player with Gestures & Stream Stall Recovery\n * Theme",
       "at": 1789121304083
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getUserCount is not a function",
-      "at": 1789119355107
     }
   ],
   "jpmBlacklist": [],
