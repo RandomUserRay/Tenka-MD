@@ -101119,10 +101119,10 @@
     "jid": "6285771118557",
     "name": "Fan Kw V2(disappear)",
     "number": "6285771118557",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101132,9 +101132,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T04:09:42.324Z",
+    "lastSeen": "2026-09-15T04:10:07.708Z",
     "cooldowns": {
-      "s": 1789445383059
+      "s": 1789445409212
     },
     "clanId": null,
     "isRegistered": false,
@@ -120334,7 +120334,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "energi": 99999
   },
   "62882005686310": {
