@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-15T13:04:06.741Z",
+    "lastSeen": "2026-09-15T14:39:48.896Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000055275,
+    "exp": 9000055350,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -13251,7 +13251,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -100328,7 +100328,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1320,
+    "exp": 1335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102087,7 +102087,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 210020,
+    "exp": 209945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102108,15 +102108,7 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "level": 22,
-      "maxHealth": 310,
-      "maxMana": 205,
-      "maxStamina": 205,
-      "health": 310,
-      "mana": 205,
-      "stamina": 205
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "lastActiveDate": "15/9/2026",
@@ -104999,10 +104991,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 99988,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7215,
+    "exp": 7185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105012,14 +105004,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:40:08.539Z",
+    "lastSeen": "2026-09-15T14:30:47.478Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789465735567,
       "bratimg": 1789477674635,
       "kick": 1789476260031,
       "admin": 1789482595797,
-      "bratvid": 1789483210276,
+      "bratvid": 1789462657539,
       "del": 1789472317372,
       "antispam": 1789472670480,
       "warn": 1789467873779,
@@ -105105,7 +105097,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8175,
+    "exp": 8145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106630,7 +106622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7545,
+    "exp": 7530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111226,7 +111218,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8160,
+    "exp": 8115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111236,13 +111228,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:40:21.812Z",
+    "lastSeen": "2026-09-15T14:38:33.120Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
       "play": 1788879286198,
       "menu": 1789481560445,
-      "menucat": 1789483221920,
+      "menucat": 1789481619516,
       "lesby": 1789481637870,
       "gay": 1789481731625,
       "bodoh": 1789481952366,
@@ -111284,7 +111276,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31185,
+    "exp": 31170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111387,7 +111379,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10620,
+    "exp": 10605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112460,7 +112452,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6975,
+    "exp": 6960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113646,7 +113638,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25905,
+    "exp": 25860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122531,6 +122523,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122545,12 +122543,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122681,16 +122673,6 @@
     "rpg": {},
     "exp": 165
   },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 105
-  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122703,6 +122685,16 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
+  },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 105
   },
   "6283898534823": {
     "jid": "6283898534823",
@@ -122749,6 +122741,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285167003514": {
+    "jid": "6285167003514",
+    "rpg": {},
+    "exp": 15
+  },
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
@@ -122761,11 +122758,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285167003514": {
-    "jid": "6285167003514",
-    "rpg": {},
-    "exp": 15
   },
   "6283875466917": {
     "jid": "6283875466917",
@@ -122800,6 +122792,11 @@
     "jid": "6285757147472",
     "rpg": {},
     "exp": 15
+  },
+  "6285828579121": {
+    "jid": "6285828579121",
+    "rpg": {},
+    "exp": 105
   },
   "6285694786537": {
     "jid": "6285694786537",
@@ -122865,20 +122862,15 @@
     "rpg": {},
     "exp": 1065
   },
-  "6285973836185": {
-    "jid": "6285973836185",
-    "rpg": {},
-    "exp": 300
-  },
-  "6285828579121": {
-    "jid": "6285828579121",
-    "rpg": {},
-    "exp": 105
-  },
   "6287725897040": {
     "jid": "6287725897040",
     "rpg": {},
     "exp": 15
+  },
+  "6285973836185": {
+    "jid": "6285973836185",
+    "rpg": {},
+    "exp": 300
   },
   "6285848242635": {
     "jid": "6285848242635",
@@ -122891,6 +122883,11 @@
     "jid": "6289502622287",
     "rpg": {},
     "exp": 15
+  },
+  "6281916308058": {
+    "jid": "6281916308058",
+    "rpg": {},
+    "exp": 120
   },
   "6288214087346": {
     "jid": "6288214087346",
