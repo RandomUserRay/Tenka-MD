@@ -48083,10 +48083,10 @@
     "jid": "62882008141610",
     "name": "Reynandds",
     "number": "62882008141610",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60465,
+    "exp": 60480,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48095,7 +48095,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:31:59.149Z",
+    "lastSeen": "2026-09-15T14:03:45.405Z",
     "cooldowns": {
       "menu": 1786773858588,
       "allmenu": 1784193715274,
@@ -48134,7 +48134,7 @@
       "antispam": 1787578217845,
       "tagall": 1788674920306,
       "p": 1788071971806,
-      "play": 1789302148341,
+      "play": 1789481025807,
       "ytmp4": 1788678310717
     },
     "clanId": null,
@@ -48154,8 +48154,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 13
   },
   "6282148860926": {
     "jid": "6282148860926",
@@ -66876,7 +66876,7 @@
     "energi": 9997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169115,
+    "exp": 169130,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -111248,7 +111248,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30705,
+    "exp": 30720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
