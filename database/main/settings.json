@@ -494,6 +494,17 @@
         "12:00_2026-09-15": true
       },
       "createdAt": 1788693607700
+    },
+    "6285709953593@s.whatsapp.net_120363429702090177@g.us": {
+      "sender": "6285709953593@s.whatsapp.net",
+      "chatJid": "120363429702090177@g.us",
+      "jadwal": [
+        "07:00"
+      ],
+      "menu": "",
+      "enabled": true,
+      "lastSent": {},
+      "createdAt": 1789483514713
     }
   },
   "storeProducts": [
@@ -24299,6 +24310,16 @@
         "00:00_2026-09-14": true
       },
       "createdAt": 1788714774255
+    },
+    "6285717515172@s.whatsapp.net_120363429702090177@g.us": {
+      "sender": "6285717515172@s.whatsapp.net",
+      "chatJid": "120363429702090177@g.us",
+      "jadwal": [
+        "23:00"
+      ],
+      "enabled": true,
+      "lastSent": {},
+      "createdAt": 1789483499281
     }
   },
   "jedaBcgc": 10000,
