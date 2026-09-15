@@ -15994,16 +15994,16 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 10913039,
+    "exp": 10913114,
     "level": 1,
-    "koin": 0,
+    "koin": 12359967,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:09:25.207Z",
+    "lastSeen": "2026-09-15T12:09:38.111Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16032,7 +16032,7 @@
       "ping2": 1782707255796,
       "caribug": 1782707328203,
       "peak": 1782707424186,
-      "bank": 1789474167515,
+      "bank": 1789474178942,
       "rob": 1783059462716,
       "slot": 1783043872883,
       "work": 1786939097439,
@@ -16230,7 +16230,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "bank": 12359967,
+      "bank": 0,
       "health": 11010,
       "stamina": 5555,
       "level": 1092,
@@ -121224,11 +121224,11 @@
     "jid": "6285849063461",
     "rpg": {
       "stamina": 65,
-      "bank": 4722
+      "bank": 0
     },
-    "exp": 6460,
+    "exp": 6475,
     "name": "Edin",
-    "lastSeen": "2026-09-15T12:07:41.712Z",
+    "lastSeen": "2026-09-15T12:09:35.787Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
@@ -121238,13 +121238,13 @@
       "ngemis": 1789473207454,
       "casino": 1789473935692,
       "work": 1789473886539,
-      "bank": 1789474052860,
+      "bank": 1789474177507,
       "transfer": 1789473546144
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 2,
     "energi": 100011,
-    "koin": 0
+    "koin": 4722
   },
   "6285771985823": {
     "jid": "6285771985823",
