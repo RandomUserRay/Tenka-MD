@@ -81309,7 +81309,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42314,
+    "exp": 42650,
     "level": 1,
     "koin": 49151,
     "saldo": 0,
@@ -81319,7 +81319,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:29:03.453Z",
+    "lastSeen": "2026-09-15T08:44:57.825Z",
     "cooldowns": {
       "mancing": 1789460809391,
       "rest": 1789460699247,
@@ -81342,7 +81342,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 30,
+      "stamina": 0,
       "health": 140,
       "mana": 120,
       "maxHealth": 140,
