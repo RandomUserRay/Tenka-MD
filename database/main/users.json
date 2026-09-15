@@ -47438,7 +47438,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47031,
+    "exp": 47046,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -102077,7 +102077,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 207545,
+    "exp": 207620,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102087,7 +102087,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:34:21.309Z",
+    "lastSeen": "2026-09-15T12:40:30.162Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1789135227735,
@@ -104984,7 +104984,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6375,
+    "exp": 6390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120726,7 +120726,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 7830,
+    "exp": 7845,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-15T11:08:04.637Z",
@@ -122786,6 +122786,6 @@
   "6288225889147": {
     "jid": "6288225889147",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
