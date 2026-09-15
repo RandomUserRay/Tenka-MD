@@ -108442,7 +108442,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2925,
+    "exp": 2940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111168,7 +111168,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6465,
+    "exp": 6480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120331,13 +120331,14 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 6150,
-    "energi": 99996,
+    "exp": 6165,
+    "energi": 99995,
     "name": "Ytaa",
-    "lastSeen": "2026-09-15T09:32:25.502Z",
+    "lastSeen": "2026-09-15T09:32:34.192Z",
     "cooldowns": {
       "brat": 1789464745869,
-      "bratanime": 1789464723204
+      "bratanime": 1789464723204,
+      "bratvid": 1789464755858
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
