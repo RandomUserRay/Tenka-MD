@@ -27120,7 +27120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12069034,
+    "exp": 12069064,
     "level": 1,
     "koin": 36635,
     "unlockedFeatures": [
@@ -27135,7 +27135,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:30:32.761Z",
+    "lastSeen": "2026-09-15T23:25:44.044Z",
     "cooldowns": {
       "afk": 1788994840695,
       "play": 1789482632947,
@@ -27150,7 +27150,7 @@
       "lesby": 1782839382336,
       "pro": 1782839475056,
       "tebakkata": 1782888112191,
-      "p": 1789472677683,
+      "p": 1789514733868,
       "brat": 1788097918252,
       "bratbahlil": 1782839885048,
       "apa": 1782840221091,
@@ -27175,7 +27175,7 @@
       "tebaktebakan": 1782842553226,
       "autoreply": 1782878817144,
       "d": 1786702813308,
-      "h": 1787568457942,
+      "h": 1789514744056,
       "sell": 1785667711396,
       "money": 1786784611254,
       "shop": 1784672492482,
@@ -27542,8 +27542,8 @@
     "settings": {
       "levelupNotif": false
     },
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 16
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 17
   },
   "6282288273572": {
     "jid": "6282288273572",
@@ -111243,7 +111243,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8820,
+    "exp": 8865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111253,7 +111253,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T23:24:43.656Z",
+    "lastSeen": "2026-09-15T23:25:21.835Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111286,7 +111286,7 @@
       "setwelcome": 1789510286074,
       "delantilink": 1789514110268,
       "topchat": 1789514155525,
-      "antitoxic": 1789514683719
+      "antitoxic": 1789514722051
     },
     "clanId": null,
     "isRegistered": false,
