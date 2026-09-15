@@ -39953,13 +39953,13 @@
   "120363411824548781@g.us": {
     "chatStats": {
       "628135338055@s.whatsapp.net": {
-        "count": 130,
-        "lastChat": 1789457328442,
+        "count": 131,
+        "lastChat": 1789457357854,
         "name": "😎"
       },
       "62895626761698@s.whatsapp.net": {
-        "count": 289,
-        "lastChat": 1789457346404,
+        "count": 290,
+        "lastChat": 1789457362179,
         "name": "hyykai1445th"
       },
       "6285236962656@s.whatsapp.net": {
@@ -39975,7 +39975,8 @@
     },
     "jid": "120363411824548781@g.us",
     "name": "ROSTER V1 SB",
-    "antitoxic": true
+    "antitoxic": true,
+    "toxicMethod": "delete"
   },
   "120363408953899898@g.us": {
     "chatStats": {
