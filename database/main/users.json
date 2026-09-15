@@ -95743,13 +95743,13 @@
   },
   "6285817724197": {
     "name": "Fael",
-    "lastSeen": "2026-09-15T02:01:34.558Z",
+    "lastSeen": "2026-09-14T14:15:31.832Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2475,
+    "exp": 2460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95782,7 +95782,7 @@
       "masturbation": 1787840389407,
       "ai": 1788493371462,
       "topixel": 1787994395894,
-      "pin": 1789437710688,
+      "pin": 1788938962814,
       "hytamkan": 1788916411307,
       "wm": 1788160547036,
       "stacktower": 1788183945146,
@@ -95802,8 +95802,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 15
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 14
   },
   "6285758156410": {
     "jid": "6285758156410",
@@ -98858,12 +98858,12 @@
   },
   "6285176900223": {
     "jid": "6285176900223",
-    "name": "Matthieu",
+    "name": "Mosses D. Matthieu",
     "number": "6285176900223",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435,
+    "exp": 450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98873,9 +98873,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T15:00:40.131Z",
+    "lastSeen": "2026-09-15T02:01:39.355Z",
     "cooldowns": {
-      "hitamkan": 1788102070131
+      "hitamkan": 1788102070131,
+      "s": 1789437702790
     },
     "clanId": null,
     "isRegistered": false,
@@ -98885,8 +98886,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "30/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 2
   },
   "6281521975279": {
     "jid": "6281521975279",
@@ -120041,7 +120042,7 @@
   "628214436992": {
     "jid": "628214436992",
     "rpg": {},
-    "exp": 315,
+    "exp": 300,
     "energi": 99999
   },
   "6288226296127": {
@@ -122339,6 +122340,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122353,12 +122360,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
