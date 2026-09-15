@@ -19664,7 +19664,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 273920,
+    "exp": 273980,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -103665,10 +103665,10 @@
     "jid": "6282373861587",
     "name": "cacaloveblue",
     "number": "6282373861587",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103678,13 +103678,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T07:03:11.646Z",
+    "lastSeen": "2026-09-14T15:12:18.443Z",
     "cooldowns": {
       "menu": 1788421795945,
       "menucat": 1788421784418,
-      "tt": 1789455782573,
-      "pin": 1789398746824,
-      "ttmp3": 1789455794094
+      "tt": 1788432233225,
+      "pin": 1789398746824
     },
     "clanId": null,
     "isRegistered": false,
@@ -103694,8 +103693,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 2
   },
   "628137526059": {
     "jid": "628137526059",
@@ -104948,7 +104947,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2250,
+    "exp": 2265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115090,7 +115089,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119510,7 +119509,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 645,
+    "exp": 630,
     "energi": 99999
   },
   "6285785063453": {
@@ -122358,12 +122357,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122378,6 +122371,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122508,6 +122507,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122520,16 +122529,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 15
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
