@@ -68418,7 +68418,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 361811,
+    "exp": 361826,
     "level": 1,
     "koin": 1000000,
     "unlockedFeatures": [],
@@ -68427,7 +68427,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:30:50.664Z",
+    "lastSeen": "2026-09-15T09:31:41.824Z",
     "cooldowns": {
       "menu": 1784713274082,
       "menucat": 1784630119063,
@@ -106852,7 +106852,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20310,
+    "exp": 20325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108441,7 +108441,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2775,
+    "exp": 2820,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111510,7 +111510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3000,
+    "exp": 3015,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119989,16 +119989,16 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 8790,
-    "energi": 99995,
+    "exp": 8805,
+    "energi": 99994,
     "name": "hh",
-    "lastSeen": "2026-09-15T09:30:15.621Z",
+    "lastSeen": "2026-09-15T09:31:21.073Z",
     "cooldowns": {
       "menu": 1789312880575,
       "menucat": 1789388171071,
       "owner": 1789312885805,
       "brat": 1789464610228,
-      "bratvid": 1789464618286
+      "bratvid": 1789464683453
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 3
@@ -121688,7 +121688,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 3645,
+    "exp": 3660,
     "energi": 99999
   },
   "62895638989358": {
@@ -122597,13 +122597,13 @@
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "name": "to",
-    "lastSeen": "2026-09-15T09:30:39.452Z",
+    "lastSeen": "2026-09-15T09:31:11.525Z",
     "cooldowns": {
-      "brat": 1789464639638
+      "brat": 1789464671629
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
   },
@@ -122615,7 +122615,15 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 15
+    "exp": 30,
+    "name": "M4n🕸️",
+    "lastSeen": "2026-09-15T09:31:04.602Z",
+    "cooldowns": {
+      "bratvid": 1789464665983
+    },
+    "energi": 24,
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 1
   },
   "6285882172857": {
     "jid": "6285882172857",
