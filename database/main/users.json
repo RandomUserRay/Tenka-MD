@@ -33652,10 +33652,10 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99992,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71088,
+    "exp": 71253,
     "level": 1,
     "koin": 3098,
     "unlockedFeatures": [],
@@ -33664,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:23:03.471Z",
+    "lastSeen": "2026-09-15T08:24:22.339Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33702,10 +33702,11 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 80
+      "stamina": 65
     },
     "inventory": {
-      "fish": 1
+      "fish": 1,
+      "prawn": 1
     },
     "access": [],
     "saldo": 0,
