@@ -101134,7 +101134,8 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-15T04:07:42.764Z",
     "cooldowns": {
-      "s": 1788013222381
+      "s": 1788013222381,
+      "pin": 1789445282170
     },
     "clanId": null,
     "isRegistered": false,
@@ -101144,8 +101145,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 2
   },
   "628984757583": {
     "jid": "628984757583",
