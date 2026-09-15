@@ -33655,7 +33655,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 79759,
+    "exp": 79774,
     "level": 1,
     "koin": 205366,
     "unlockedFeatures": [],
@@ -33664,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:28:35.001Z",
+    "lastSeen": "2026-09-15T08:29:09.430Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33688,7 +33688,8 @@
       "buyfitur": 1789395279998,
       "menu": 1789395410218,
       "mancing": 1789460833446,
-      "inv": 1789395737812
+      "inv": 1789395737812,
+      "rest": 1789460953683
     },
     "clanId": null,
     "isRegistered": false,
@@ -33700,9 +33701,9 @@
       "maxHealth": 170,
       "maxMana": 135,
       "maxStamina": 135,
-      "health": 170,
-      "mana": 135,
-      "stamina": 80
+      "health": 105,
+      "mana": 53,
+      "stamina": 100
     },
     "inventory": {
       "fish": 1,
@@ -81305,7 +81306,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42299,
+    "exp": 42314,
     "level": 1,
     "koin": 49151,
     "saldo": 0,
@@ -81315,7 +81316,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:28:48.391Z",
+    "lastSeen": "2026-09-15T08:29:03.453Z",
     "cooldowns": {
       "mancing": 1789460809391,
       "rest": 1789460699247,
@@ -81324,7 +81325,7 @@
       "saldo": 1786010130531,
       "casino": 1789460539407,
       "kerja": 1789460796972,
-      "shop": 1785664521900,
+      "shop": 1789460943698,
       "tambang": 1785604301191,
       "top": 1788528633132,
       "tf": 1789460387331,
