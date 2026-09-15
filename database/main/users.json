@@ -68418,22 +68418,22 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 359430,
+    "exp": 361606,
     "level": 1,
-    "koin": 811893,
+    "koin": 849658,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T11:01:05.216Z",
+    "lastSeen": "2026-09-15T09:23:44.729Z",
     "cooldowns": {
       "menu": 1784713274082,
       "menucat": 1784630119063,
       "allmenu": 1787655867429,
       "play": 1786541576880,
-      "beg": 1788505758666,
+      "beg": 1789464223477,
       "afk": 1789383666351,
       "bratvid": 1784699269919,
       "bego": 1784635968838,
@@ -68477,7 +68477,7 @@
       "robloxstalk": 1786025586083,
       "saldo": 1788505740821,
       "sabar": 1785595862319,
-      "kerja": 1788505875819,
+      "kerja": 1789464223080,
       "slot": 1786017469524,
       "mulung": 1785672926722,
       "simi": 1789043209317
@@ -68488,13 +68488,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 36,
-      "health": 450,
-      "maxHealth": 450,
-      "mana": 275,
-      "maxMana": 275,
-      "stamina": 140,
-      "maxStamina": 275
+      "level": 37,
+      "health": 460,
+      "maxHealth": 460,
+      "mana": 280,
+      "maxMana": 280,
+      "stamina": 280,
+      "maxStamina": 280
     },
     "inventory": {
       "gold": 11,
@@ -68518,8 +68518,8 @@
     "lastStreamer": 1786157202119,
     "birthday": "21-08",
     "saldo": 0,
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 5
   },
   "6289676157570": {
     "jid": "6289676157570",
@@ -104959,7 +104959,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2595,
+    "exp": 2625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106851,7 +106851,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20190,
+    "exp": 20205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120329,7 +120329,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 5955,
+    "exp": 5970,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-13T00:51:21.362Z"
@@ -122596,7 +122596,7 @@
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
-    "exp": 225
+    "exp": 240
   },
   "6285167003514": {
     "jid": "6285167003514",
