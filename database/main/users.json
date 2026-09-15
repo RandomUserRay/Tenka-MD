@@ -26495,7 +26495,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167961,
+    "exp": 167976,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -33671,7 +33671,7 @@
     "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 84920,
+    "exp": 84930,
     "level": 1,
     "koin": 259205,
     "unlockedFeatures": [],
@@ -33703,7 +33703,7 @@
       "sleep": 1789389640820,
       "buyfitur": 1789395279998,
       "menu": 1789395410218,
-      "mancing": 1789460833446,
+      "mancing": 1789478607402,
       "inv": 1789461006940,
       "rest": 1789460953683,
       "shop": 1789461002897,
@@ -33728,7 +33728,8 @@
     "inventory": {
       "fish": 1,
       "prawn": 1,
-      "mythic": 0
+      "mythic": 0,
+      "trash": 1
     },
     "access": [],
     "saldo": 0,
@@ -111247,7 +111248,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30450,
+    "exp": 30465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111350,7 +111351,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10200,
+    "exp": 10215,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112721,7 +112722,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7950,
+    "exp": 7965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122830,6 +122831,13 @@
   },
   "6285848242635": {
     "jid": "6285848242635",
+    "rpg": {},
+    "exp": 15
+  },
+  "6289502622287": {
+    "name": "~Nisa💤🌸🌷",
+    "lastSeen": "2026-09-15T13:23:27.606Z",
+    "jid": "6289502622287",
     "rpg": {},
     "exp": 15
   }
