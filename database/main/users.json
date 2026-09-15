@@ -6011,7 +6011,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30635,
+    "exp": 30650,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -33048,10 +33048,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 553084,
+    "exp": 553099,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33060,7 +33060,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T10:44:21.194Z",
+    "lastSeen": "2026-09-15T13:03:40.078Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33297,7 +33297,8 @@
       "ganteng": 1789263677434,
       "cektsundere": 1789307169467,
       "tagall": 1789458983492,
-      "amprem": 1789469061518
+      "amprem": 1789469061518,
+      "wm": 1789477420724
     },
     "clanId": null,
     "isRegistered": false,
@@ -33667,10 +33668,10 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99978,
+    "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81441,
+    "exp": 81456,
     "level": 1,
     "koin": 185865,
     "unlockedFeatures": [],
@@ -33679,7 +33680,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:03:01.315Z",
+    "lastSeen": "2026-09-15T13:03:21.616Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33708,7 +33709,7 @@
       "shop": 1789461002897,
       "use": 1789461019322,
       "s": 1789477363907,
-      "wm": 1789477382303
+      "wm": 1789477402403
     },
     "clanId": null,
     "isRegistered": false,
@@ -104374,7 +104375,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67653,
+    "exp": 67698,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104989,7 +104990,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6705,
+    "exp": 6720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106892,7 +106893,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21195,
+    "exp": 21225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107026,7 +107027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6390,
+    "exp": 6405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111207,7 +111208,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6915,
+    "exp": 6930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111410,7 +111411,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17235,
+    "exp": 17265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112681,7 +112682,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9465,
+    "exp": 9480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120057,7 +120058,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10185,
+    "exp": 10200,
     "energi": 99990,
     "name": "hh",
     "lastSeen": "2026-09-15T12:01:40.563Z",
@@ -122798,11 +122799,11 @@
   "6281373879713": {
     "jid": "6281373879713",
     "rpg": {},
-    "exp": 150
+    "exp": 180
   },
   "6285973836185": {
     "jid": "6285973836185",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
