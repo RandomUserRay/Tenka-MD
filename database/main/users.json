@@ -33037,7 +33037,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 552859,
+    "exp": 552874,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33046,7 +33046,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T13:20:12.051Z",
+    "lastSeen": "2026-09-15T07:56:22.758Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33281,7 +33281,8 @@
       "play2": 1788777624419,
       "pin": 1789263244709,
       "ganteng": 1789263677434,
-      "cektsundere": 1789307169467
+      "cektsundere": 1789307169467,
+      "tagall": 1789458983492
     },
     "clanId": null,
     "isRegistered": false,
@@ -33365,8 +33366,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 15
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -104948,7 +104949,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2370,
+    "exp": 2400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
