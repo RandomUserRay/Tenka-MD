@@ -36038,7 +36038,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224435,
+    "exp": 224450,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -106603,7 +106603,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7245,
+    "exp": 7260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112999,7 +112999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114576,7 +114576,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 675,
+    "exp": 690,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121224,12 +121224,12 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {
-      "stamina": 65,
-      "bank": 0
+      "stamina": 55,
+      "bank": 16000
     },
-    "exp": 6655,
+    "exp": 6992,
     "name": "Edin",
-    "lastSeen": "2026-09-15T12:11:57.725Z",
+    "lastSeen": "2026-09-15T12:14:48.710Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
@@ -121238,8 +121238,8 @@
       "tebakbendera": 1789472903468,
       "ngemis": 1789473207454,
       "casino": 1789473935692,
-      "work": 1789473886539,
-      "bank": 1789474318005,
+      "work": 1789474492132,
+      "bank": 1789474486418,
       "transfer": 1789473546144,
       "judi": 1789474244002,
       "slot": 1789474315132
@@ -121247,7 +121247,7 @@
     "lastActiveDate": "15/9/2026",
     "activeDays": 2,
     "energi": 100006,
-    "koin": 16722
+    "koin": 3801
   },
   "6285771985823": {
     "jid": "6285771985823",
@@ -121759,7 +121759,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 3945,
+    "exp": 3975,
     "energi": 99999
   },
   "62895638989358": {
