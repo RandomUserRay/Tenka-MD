@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000055125,
+    "exp": 9000054675,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -33652,19 +33652,19 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99995,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70120,
+    "exp": 71088,
     "level": 1,
-    "koin": 0,
+    "koin": 3098,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:19:00.941Z",
+    "lastSeen": "2026-09-15T08:23:03.471Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33676,13 +33676,13 @@
       "ytmp4": 1788163427588,
       "stacktower": 1788334553178,
       "baik": 1789264272290,
-      "kerja": 1789452179412,
-      "saldo": 1789452201915,
-      "casino": 1789460342965,
-      "freelance": 1789452189723,
+      "kerja": 1789460487950,
+      "saldo": 1789460571079,
+      "casino": 1789460512260,
+      "freelance": 1789460477000,
       "stamina": 1789425395066,
-      "live": 1789452197373,
-      "slot": 1789389374019,
+      "live": 1789460457965,
+      "slot": 1789460586392,
       "transfer": 1789389045460,
       "sleep": 1789389640820,
       "buyfitur": 1789395279998,
@@ -33702,7 +33702,7 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 135
+      "stamina": 80
     },
     "inventory": {
       "fish": 1
@@ -81301,12 +81301,12 @@
     "jid": "601120999441",
     "name": "Qazim",
     "number": "601120999441",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39552,
+    "exp": 39962,
     "level": 1,
-    "koin": 80046,
+    "koin": 57,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -81314,19 +81314,20 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:19:47.043Z",
+    "lastSeen": "2026-09-15T08:23:06.369Z",
     "cooldowns": {
       "mancing": 1788528654255,
       "rest": 1786629040968,
       "inv": 1789389279927,
       "use": 1785664554484,
       "saldo": 1786010130531,
-      "casino": 1789391024073,
-      "kerja": 1789391026080,
+      "casino": 1789460539407,
+      "kerja": 1789460566369,
       "shop": 1785664521900,
       "tambang": 1785604301191,
       "top": 1788528633132,
-      "tf": 1789460387331
+      "tf": 1789460387331,
+      "transfer": 1789460586653
     },
     "clanId": null,
     "isRegistered": false,
@@ -81334,7 +81335,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 50,
+      "stamina": 40,
       "health": 130,
       "mana": 115,
       "maxHealth": 130,
@@ -93060,7 +93061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34188,
+    "exp": 34083,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -122366,12 +122367,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122386,6 +122381,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122516,6 +122517,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122528,16 +122539,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
@@ -122573,5 +122574,10 @@
     "jid": "6281527133187",
     "rpg": {},
     "exp": 45
+  },
+  "6281343117661": {
+    "jid": "6281343117661",
+    "rpg": {},
+    "exp": 15
   }
 }
