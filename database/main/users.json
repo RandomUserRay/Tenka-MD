@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000054750,
+    "exp": 9000054675,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -33652,19 +33652,19 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70060,
+    "exp": 70090,
     "level": 1,
-    "koin": 473310,
+    "koin": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T06:03:54.691Z",
+    "lastSeen": "2026-09-15T08:19:00.941Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33678,7 +33678,7 @@
       "baik": 1789264272290,
       "kerja": 1789452179412,
       "saldo": 1789452201915,
-      "casino": 1789452237692,
+      "casino": 1789460342965,
       "freelance": 1789452189723,
       "stamina": 1789425395066,
       "live": 1789452197373,
@@ -72571,10 +72571,10 @@
     "jid": "6281973521590",
     "name": "ִ ࣪ 𝓢𝓾𝓲𝓻𝓮𝓷 🪼˖ ݁ ִ ׄ",
     "number": "6281973521590",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8940,
+    "exp": 8970,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72583,7 +72583,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:17:23.078Z",
+    "lastSeen": "2026-09-15T08:18:24.260Z",
     "cooldowns": {
       "truth": 1789382171389,
       "femboy": 1785157098523,
@@ -72602,7 +72602,7 @@
       "level": 1789382195914,
       "open": 1789298206852,
       "close": 1789298201513,
-      "robloxstalk": 1789460247416
+      "robloxstalk": 1789460306993
     },
     "clanId": null,
     "isRegistered": false,
@@ -122365,12 +122365,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122385,6 +122379,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122515,6 +122515,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122527,16 +122537,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
