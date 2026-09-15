@@ -32638,10 +32638,10 @@
     "jid": "62895425005352",
     "name": "~whyyy???",
     "number": "62895425005352",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62000,
+    "exp": 62030,
     "level": 1,
     "koin": 13334,
     "unlockedFeatures": [],
@@ -32650,10 +32650,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T16:57:33.686Z",
+    "lastSeen": "2026-09-15T12:35:49.228Z",
     "cooldowns": {
-      "brat": 1789127342412,
-      "bratimg": 1789127070454,
+      "brat": 1789475745995,
+      "bratimg": 1789475753268,
       "handsome": 1782977537225,
       "infogame": 1782936717136,
       "iqc": 1785251689930,
@@ -32747,8 +32747,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 10
   },
   "62895342591003": {
     "jid": "62895342591003",
@@ -47436,7 +47436,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46836,
+    "exp": 46866,
     "level": 1,
     "koin": 6162,
     "unlockedFeatures": [],
@@ -97908,7 +97908,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11190,
+    "exp": 11205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111337,7 +111337,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9990,
+    "exp": 10005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111354,7 +111354,15 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
     "inventory": {},
     "access": []
   },
@@ -120716,7 +120724,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 7650,
+    "exp": 7680,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-15T11:08:04.637Z",
@@ -120926,7 +120934,7 @@
   "6288271181870": {
     "jid": "6288271181870",
     "rpg": {},
-    "exp": 2355,
+    "exp": 2370,
     "energi": 99999
   },
   "6282138010678": {
