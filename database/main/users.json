@@ -104821,7 +104821,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45195,
+    "exp": 45285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104831,14 +104831,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T05:27:18.290Z",
+    "lastSeen": "2026-09-15T05:28:40.788Z",
     "cooldowns": {
       "menu": 1789057459598,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
-      "close": 1789315219931,
-      "open": 1789428101675,
+      "close": 1789450119744,
+      "open": 1789450121270,
       "bratbahlil": 1788623947058,
       "mutegc": 1789008086839,
       "game": 1789007890139,
@@ -104886,7 +104886,7 @@
       "bego": 1788769651108,
       "warn": 1789112024158,
       "h": 1788775884876,
-      "del": 1789195375135,
+      "del": 1789450099759,
       "info": 1788878300051,
       "toxic": 1789005285317,
       "asupan": 1789041764910,
@@ -104944,10 +104944,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1770,
+    "exp": 1845,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104957,10 +104957,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T05:26:43.938Z",
+    "lastSeen": "2026-09-15T05:28:12.394Z",
     "cooldowns": {
       "brat": 1789008059573,
-      "menu": 1789450008247
+      "menu": 1789450008247,
+      "bratimg": 1789450095811
     },
     "clanId": null,
     "isRegistered": false,
@@ -112614,7 +112615,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7545,
+    "exp": 7560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121925,7 +121926,7 @@
   "6282279292811": {
     "jid": "6282279292811",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "energi": 99999
   },
   "6282178240072": {
@@ -122457,7 +122458,7 @@
   "6287714946160": {
     "jid": "6287714946160",
     "rpg": {},
-    "exp": 30
+    "exp": 75
   },
   "6289530281457": {
     "name": "𝐒𝐡𝐚𝐝𝐨𝐰 𝐆𝐚𝐫𝐝𝐞𝐧",
