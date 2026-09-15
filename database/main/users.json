@@ -26495,7 +26495,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 167961,
+    "exp": 167946,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -96002,7 +96002,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4995,
+    "exp": 5010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104372,7 +104372,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67113,
+    "exp": 67083,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104987,7 +104987,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6660,
+    "exp": 6645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105086,10 +105086,10 @@
     "jid": "62881036183343",
     "name": "Ryuu Kagenou",
     "number": "62881036183343",
-    "energi": 99996,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7860,
+    "exp": 7830,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105099,7 +105099,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:51:15.302Z",
+    "lastSeen": "2026-09-15T12:44:04.919Z",
     "cooldowns": {
       "intro": 1788689241272,
       "menu": 1788750254384,
@@ -105112,8 +105112,7 @@
       "close": 1788946605125,
       "open": 1788940003973,
       "tagall": 1788940029962,
-      "kick": 1789450727432,
-      "iqc": 1789476677948
+      "kick": 1789450727432
     },
     "clanId": null,
     "isRegistered": false,
@@ -106740,7 +106739,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4620,
+    "exp": 4575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107024,7 +107023,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6180,
+    "exp": 6150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112679,7 +112678,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9240,
+    "exp": 9225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112707,7 +112706,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7620,
+    "exp": 7590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122464,6 +122463,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122478,12 +122483,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122614,16 +122613,6 @@
     "rpg": {},
     "exp": 165
   },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 90
-  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122636,6 +122625,16 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
+  },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 90
   },
   "6283898534823": {
     "jid": "6283898534823",
@@ -122682,6 +122681,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285167003514": {
+    "jid": "6285167003514",
+    "rpg": {},
+    "exp": 15
+  },
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
@@ -122694,11 +122698,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285167003514": {
-    "jid": "6285167003514",
-    "rpg": {},
-    "exp": 15
   },
   "6283875466917": {
     "jid": "6283875466917",
@@ -122733,6 +122732,11 @@
     "jid": "6285757147472",
     "rpg": {},
     "exp": 15
+  },
+  "6285828579121": {
+    "jid": "6285828579121",
+    "rpg": {},
+    "exp": 105
   },
   "6285694786537": {
     "jid": "6285694786537",
