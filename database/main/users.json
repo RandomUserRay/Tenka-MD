@@ -102260,13 +102260,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-15T04:12:36.675Z",
+    "lastSeen": "2026-09-15T04:16:15.133Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 240755,
+    "exp": 240830,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -104820,7 +104820,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44880,
+    "exp": 44850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104946,7 +104946,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1650,
+    "exp": 1590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105390,7 +105390,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122340,6 +122340,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122354,12 +122360,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
