@@ -95794,13 +95794,13 @@
   },
   "6285817724197": {
     "name": "Fael",
-    "lastSeen": "2026-09-15T22:40:13.521Z",
+    "lastSeen": "2026-09-15T22:40:20.612Z",
     "jid": "6285817724197",
     "number": "6285817724197",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2580,
+    "exp": 2595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95813,7 +95813,7 @@
     "cooldowns": {
       "allmenu": 1787839934066,
       "benefitpremium": 1787560108050,
-      "play": 1789511959376,
+      "play": 1789512021750,
       "samehadaku": 1787581234110,
       "del": 1787658285091,
       "swgc": 1787658518064,
@@ -95843,7 +95843,8 @@
       "s": 1789477110916,
       "download": 1789036912487,
       "aio": 1789047993538,
-      "redeem": 1789129125299
+      "redeem": 1789129125299,
+      "cektsundere": 1789512021944
     },
     "clanId": null,
     "isRegistered": false,
