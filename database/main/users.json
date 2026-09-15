@@ -102320,13 +102320,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-15T22:17:04.493Z",
+    "lastSeen": "2026-09-15T22:18:30.603Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 243605,
+    "exp": 243830,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102337,7 +102337,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1789510627650,
+      "jadibot": 1789510711363,
       "menu": 1788413680888,
       "stopjadibot": 1789510370896
     },
@@ -111242,7 +111242,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8535,
+    "exp": 8490,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111252,7 +111252,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T22:19:28.199Z",
+    "lastSeen": "2026-09-15T22:11:25.993Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111282,8 +111282,7 @@
       "mulaiabsen": 1789483300494,
       "swgc": 1789483333486,
       "welcome": 1789510074916,
-      "setwelcome": 1789510286074,
-      "antiswgc": 1789510768234
+      "setwelcome": 1789510286074
     },
     "clanId": null,
     "isRegistered": false,
