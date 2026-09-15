@@ -23189,10 +23189,10 @@
     "jid": "6282150719775",
     "name": "Nurhadi Fikri/F/Flairless",
     "number": "6282150719775",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48660,
+    "exp": 48675,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -23201,7 +23201,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T23:25:09.966Z",
+    "lastSeen": "2026-09-15T11:43:04.525Z",
     "cooldowns": {
       "menu": 1789255476560,
       "owner": 1782555362554,
@@ -23242,7 +23242,8 @@
       "waifutohitam": 1783610254457,
       "hytamkan": 1783610323918,
       "ytmp4": 1788878734463,
-      "playvideo": 1788924282671
+      "playvideo": 1788924282671,
+      "lirik": 1789472595108
     },
     "clanId": null,
     "isRegistered": false,
@@ -23268,8 +23269,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 4
   },
   "6281352757269": {
     "jid": "6281352757269",
@@ -104748,7 +104749,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1425,
+    "exp": 1455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104846,7 +104847,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46230,
+    "exp": 46260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104972,7 +104973,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5355,
+    "exp": 5385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106590,7 +106591,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6780,
+    "exp": 6855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111379,7 +111380,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17055,
+    "exp": 17100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112388,7 +112389,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5550,
+    "exp": 5565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113555,7 +113556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25170,
+    "exp": 25215,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114745,7 +114746,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15750,
+    "exp": 15765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121211,18 +121212,18 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {},
-    "exp": 225,
+    "exp": 255,
     "name": "Edin",
-    "lastSeen": "2026-09-15T11:41:12.903Z",
+    "lastSeen": "2026-09-15T11:43:36.605Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
       "play": 1789308238748,
-      "lirik": 1789472486203
+      "lirik": 1789472608043
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 2,
-    "energi": 99998
+    "energi": 99997
   },
   "6285771985823": {
     "jid": "6285771985823",
@@ -122367,7 +122368,7 @@
   "6289602739489": {
     "jid": "6289602739489",
     "rpg": {},
-    "exp": 30,
+    "exp": 15,
     "energi": 99999
   },
   "62895362384499": {
@@ -122422,12 +122423,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122442,6 +122437,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122572,6 +122573,16 @@
     "rpg": {},
     "exp": 165
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122584,16 +122595,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
@@ -122640,11 +122641,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6285167003514": {
-    "jid": "6285167003514",
-    "rpg": {},
-    "exp": 15
-  },
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
@@ -122657,6 +122653,11 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
+  },
+  "6285167003514": {
+    "jid": "6285167003514",
+    "rpg": {},
+    "exp": 15
   },
   "6283875466917": {
     "jid": "6283875466917",
@@ -122692,9 +122693,9 @@
     "rpg": {},
     "exp": 15
   },
-  "6285828579121": {
-    "jid": "6285828579121",
+  "6285694786537": {
+    "jid": "6285694786537",
     "rpg": {},
-    "exp": 105
+    "exp": 15
   }
 }
