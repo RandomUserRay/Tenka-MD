@@ -111243,7 +111243,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8535,
+    "exp": 8550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111253,7 +111253,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T23:14:18.215Z",
+    "lastSeen": "2026-09-15T23:15:10.049Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111283,7 +111283,8 @@
       "mulaiabsen": 1789483300494,
       "swgc": 1789483333486,
       "welcome": 1789510074916,
-      "setwelcome": 1789510286074
+      "setwelcome": 1789510286074,
+      "delantilink": 1789514110268
     },
     "clanId": null,
     "isRegistered": false,
