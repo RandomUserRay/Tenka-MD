@@ -33671,7 +33671,7 @@
     "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81686,
+    "exp": 81701,
     "level": 1,
     "koin": 187265,
     "unlockedFeatures": [],
@@ -33680,7 +33680,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:06:42.708Z",
+    "lastSeen": "2026-09-15T13:06:48.376Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33692,7 +33692,7 @@
       "ytmp4": 1788163427588,
       "stacktower": 1788334553178,
       "baik": 1789264272290,
-      "kerja": 1789469662033,
+      "kerja": 1789477606149,
       "saldo": 1789460984741,
       "casino": 1789460512260,
       "freelance": 1789469680461,
@@ -33723,7 +33723,7 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 35
+      "stamina": 15
     },
     "inventory": {
       "fish": 1,
@@ -111411,7 +111411,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17310,
+    "exp": 17325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
