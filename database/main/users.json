@@ -105086,10 +105086,10 @@
     "jid": "62881036183343",
     "name": "Ryuu Kagenou",
     "number": "62881036183343",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7830,
+    "exp": 7845,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105099,7 +105099,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:44:04.919Z",
+    "lastSeen": "2026-09-15T12:51:15.302Z",
     "cooldowns": {
       "intro": 1788689241272,
       "menu": 1788750254384,
@@ -105112,7 +105112,8 @@
       "close": 1788946605125,
       "open": 1788940003973,
       "tagall": 1788940029962,
-      "kick": 1789450727432
+      "kick": 1789450727432,
+      "iqc": 1789476677948
     },
     "clanId": null,
     "isRegistered": false,
