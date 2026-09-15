@@ -97836,10 +97836,10 @@
     "jid": "6287847476370",
     "name": ".",
     "number": "6287847476370",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5820,
+    "exp": 5835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97849,12 +97849,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T14:06:14.054Z",
+    "lastSeen": "2026-09-15T07:10:35.175Z",
     "cooldowns": {
       "play": 1789392672832,
       "wm": 1788347084351,
       "afk": 1788535026419,
-      "s": 1789394775552
+      "s": 1789456237003
     },
     "clanId": null,
     "isRegistered": false,
@@ -97864,8 +97864,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 10
   },
   "6283898309546": {
     "jid": "6283898309546",
@@ -104332,7 +104332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62598,
+    "exp": 62613,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -119974,17 +119974,18 @@
   "62895414271608": {
     "jid": "62895414271608",
     "rpg": {},
-    "exp": 8535,
-    "energi": 99999,
+    "exp": 8565,
+    "energi": 99997,
     "name": "hh",
-    "lastSeen": "2026-09-14T14:26:55.860Z",
+    "lastSeen": "2026-09-15T07:10:36.354Z",
     "cooldowns": {
       "menu": 1789312880575,
       "menucat": 1789388171071,
-      "owner": 1789312885805
+      "owner": 1789312885805,
+      "brat": 1789456230666
     },
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 3
   },
   "6287743157331": {
     "jid": "6287743157331",
