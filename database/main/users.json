@@ -111188,7 +111188,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28605,
+    "exp": 28560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111913,12 +111913,12 @@
   },
   "6285806009725": {
     "jid": "6285806009725",
-    "name": "Vcx",
+    "name": "Unknown",
     "number": "6285806009725",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 405,
+    "exp": 390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111928,7 +111928,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T05:47:30.389Z",
+    "lastSeen": "2026-09-11T05:37:19.609Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -112211,7 +112211,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1065,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112617,7 +112617,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8085,
+    "exp": 7995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119508,7 +119508,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 540,
+    "exp": 570,
     "energi": 99999
   },
   "6285785063453": {
@@ -122345,6 +122345,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122359,12 +122365,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122494,5 +122494,18 @@
     "jid": "6281227954151",
     "rpg": {},
     "exp": 30
+  },
+  "6282157540738": {
+    "name": "Bang Nata.Kaltim",
+    "lastSeen": "2026-09-15T05:48:48.097Z",
+    "jid": "6282157540738",
+    "rpg": {},
+    "exp": 60,
+    "cooldowns": {
+      "pin": 1789451338891
+    },
+    "energi": 23,
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 1
   }
 }
