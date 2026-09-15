@@ -66873,10 +66873,10 @@
     "jid": "6283135864303",
     "name": "Sarkem",
     "number": "6283135864303",
-    "energi": 9999,
+    "energi": 9998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169070,
+    "exp": 169085,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66891,7 +66891,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:56:24.031Z",
+    "lastSeen": "2026-09-15T14:01:54.138Z",
     "cooldowns": {
       "afk": 1789480585166,
       "s": 1789193262540,
@@ -111248,7 +111248,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30660,
+    "exp": 30675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122816,7 +122816,7 @@
   "6281373879713": {
     "jid": "6281373879713",
     "rpg": {},
-    "exp": 990
+    "exp": 1005
   },
   "6285973836185": {
     "jid": "6285973836185",
