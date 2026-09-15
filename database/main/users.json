@@ -105002,7 +105002,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7455,
+    "exp": 7485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105012,7 +105012,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:46:18.614Z",
+    "lastSeen": "2026-09-15T14:46:41.028Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789483579513,
@@ -105031,7 +105031,8 @@
       "iqc": 1789476581090,
       "unadmin": 1789482605312,
       "level": 1789483250845,
-      "notifmakan": 1789483515139
+      "notifmakan": 1789483515139,
+      "menucat": 1789483601307
     },
     "clanId": null,
     "isRegistered": false,
@@ -113655,7 +113656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26085,
+    "exp": 26115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
