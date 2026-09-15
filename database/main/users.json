@@ -33652,19 +33652,19 @@
     "jid": "6285797806240",
     "name": "‎",
     "number": "6285797806240",
-    "energi": 99992,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71088,
+    "exp": 78744,
     "level": 1,
-    "koin": 3098,
+    "koin": 191104,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:23:03.471Z",
+    "lastSeen": "2026-09-15T08:24:52.707Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33676,18 +33676,18 @@
       "ytmp4": 1788163427588,
       "stacktower": 1788334553178,
       "baik": 1789264272290,
-      "kerja": 1789460487950,
+      "kerja": 1789460672078,
       "saldo": 1789460571079,
       "casino": 1789460512260,
-      "freelance": 1789460477000,
+      "freelance": 1789460697218,
       "stamina": 1789425395066,
-      "live": 1789460457965,
+      "live": 1789460677626,
       "slot": 1789460586392,
       "transfer": 1789389045460,
       "sleep": 1789389640820,
       "buyfitur": 1789395279998,
       "menu": 1789395410218,
-      "mancing": 1789395726377,
+      "mancing": 1789460667066,
       "inv": 1789395737812
     },
     "clanId": null,
@@ -33702,10 +33702,11 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 80
+      "stamina": 10
     },
     "inventory": {
-      "fish": 1
+      "fish": 1,
+      "prawn": 1
     },
     "access": [],
     "saldo": 0,
@@ -81304,9 +81305,9 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40002,
+    "exp": 40779,
     "level": 1,
-    "koin": 57,
+    "koin": 21578,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -81314,10 +81315,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:23:16.037Z",
+    "lastSeen": "2026-09-15T08:24:59.115Z",
     "cooldowns": {
       "mancing": 1789460600909,
-      "rest": 1786629040968,
+      "rest": 1789460699247,
       "inv": 1789389279927,
       "use": 1785664554484,
       "saldo": 1786010130531,
@@ -81327,7 +81328,8 @@
       "tambang": 1785604301191,
       "top": 1788528633132,
       "tf": 1789460387331,
-      "transfer": 1789460586653
+      "transfer": 1789460586653,
+      "live": 1789460688540
     },
     "clanId": null,
     "isRegistered": false,
@@ -81335,7 +81337,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 120,
+      "stamina": 100,
       "health": 140,
       "mana": 120,
       "maxHealth": 140,
@@ -93061,7 +93063,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34113,
+    "exp": 34083,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -122367,12 +122369,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122387,6 +122383,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122517,6 +122519,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122529,16 +122541,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
