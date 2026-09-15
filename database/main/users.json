@@ -14893,7 +14893,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 272360,
+    "exp": 272375,
     "level": 1,
     "koin": 210116,
     "unlockedFeatures": [
@@ -14904,7 +14904,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:18:04.477Z",
+    "lastSeen": "2026-09-15T13:18:35.070Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15001,7 +15001,7 @@
       "bank": 1789478284793,
       "istirahat": 1782819517319,
       "deposit": 1782811859152,
-      "transfer": 1782818384880,
+      "transfer": 1789478315153,
       "rest": 1783177412525,
       "shop": 1782905685212,
       "craft": 1782819029298,
@@ -112721,7 +112721,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7860,
+    "exp": 7875,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121258,9 +121258,9 @@
       "stamina": 45,
       "bank": 16000
     },
-    "exp": 7583,
+    "exp": 25512,
     "name": "Edin",
-    "lastSeen": "2026-09-15T12:49:28.010Z",
+    "lastSeen": "2026-09-15T13:18:34.614Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
@@ -121273,7 +121273,8 @@
       "bank": 1789476568203,
       "transfer": 1789473546144,
       "judi": 1789474244002,
-      "slot": 1789476560099
+      "slot": 1789476560099,
+      "weekly": 1789478314615
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 2,
