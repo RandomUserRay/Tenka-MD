@@ -20159,7 +20159,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51089,
+    "exp": 51119,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20168,7 +20168,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:34:51.692Z",
+    "lastSeen": "2026-09-15T09:35:09.451Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20231,7 +20231,7 @@
       "qrcustom": 1787924290619,
       "p": 1789288537244,
       "stopjadibot": 1789295362620,
-      "h": 1789464869668,
+      "h": 1789464909691,
       "ytmp4": 1789238808574,
       "open": 1789240778139,
       "pin": 1789269301274,
@@ -81312,7 +81312,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51893,
+    "exp": 51908,
     "level": 1,
     "koin": 159774,
     "saldo": 0,
@@ -81322,7 +81322,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:26:50.028Z",
+    "lastSeen": "2026-09-15T09:35:18.397Z",
     "cooldowns": {
       "mancing": 1789461934997,
       "rest": 1789460699247,
@@ -81337,7 +81337,8 @@
       "tf": 1789460387331,
       "transfer": 1789460586653,
       "live": 1789464249088,
-      "freelance": 1789461935328
+      "freelance": 1789461935328,
+      "menu": 1789464919256
     },
     "clanId": null,
     "isRegistered": false,
@@ -112802,7 +112803,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1665,
+    "exp": 1680,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122607,7 +122608,7 @@
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
-    "exp": 345,
+    "exp": 375,
     "name": "to",
     "lastSeen": "2026-09-15T09:31:11.525Z",
     "cooldowns": {
