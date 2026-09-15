@@ -111213,7 +111213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7560,
+    "exp": 7575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111223,7 +111223,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:16:52.667Z",
+    "lastSeen": "2026-09-15T14:17:37.071Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111232,7 +111232,8 @@
       "menucat": 1789481619516,
       "lesby": 1789481637870,
       "gay": 1789481731625,
-      "bodoh": 1789481812744
+      "bodoh": 1789481812744,
+      "janda": 1789481857129
     },
     "clanId": null,
     "isRegistered": false,
@@ -112428,7 +112429,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6465,
+    "exp": 6495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112438,7 +112439,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:12:55.216Z",
+    "lastSeen": "2026-09-15T14:17:56.846Z",
     "cooldowns": {
       "menu": 1789481575769,
       "owner": 1789481527271,
@@ -120088,16 +120089,16 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10245,
-    "energi": 99990,
+    "exp": 10275,
+    "energi": 99988,
     "name": "hh",
-    "lastSeen": "2026-09-15T12:01:40.563Z",
+    "lastSeen": "2026-09-15T14:17:48.075Z",
     "cooldowns": {
       "menu": 1789464855877,
       "menucat": 1789464849764,
       "owner": 1789312885805,
-      "brat": 1789465531341,
-      "bratvid": 1789465538703,
+      "brat": 1789481863413,
+      "bratvid": 1789481870163,
       "iqc": 1789464990771
     },
     "lastActiveDate": "15/9/2026",
