@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000055125,
+    "exp": 9000055200,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 643779,
+    "exp": 643854,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -73023,7 +73023,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8430,
+    "exp": 8415,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90054,7 +90054,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14745,
+    "exp": 14775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95987,7 +95987,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4995,
+    "exp": 5010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95997,7 +95997,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T04:27:16.307Z",
+    "lastSeen": "2026-09-15T11:26:06.073Z",
     "cooldowns": {
       "afk": 1789124371917,
       "play": 1789446463597,
@@ -98138,7 +98138,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2280,
+    "exp": 2310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104846,7 +104846,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46080,
+    "exp": 46020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104972,7 +104972,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5040,
+    "exp": 4950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106590,7 +106590,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6435,
+    "exp": 6345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112677,7 +112677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7365,
+    "exp": 7350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113554,7 +113554,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24765,
+    "exp": 24750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122420,6 +122420,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122434,12 +122440,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122568,16 +122568,6 @@
   "6281227954151": {
     "jid": "6281227954151",
     "rpg": {},
-    "exp": 60
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
     "exp": 30
   },
   "6282157540738": {
@@ -122593,6 +122583,16 @@
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6283898534823": {
     "jid": "6283898534823",
     "rpg": {},
@@ -122606,7 +122606,7 @@
   "6285124720395": {
     "jid": "6285124720395",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   },
   "6281958237079": {
     "jid": "6281958237079",
@@ -122638,6 +122638,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285167003514": {
+    "jid": "6285167003514",
+    "rpg": {},
+    "exp": 15
+  },
   "6285817766468": {
     "jid": "6285817766468",
     "rpg": {},
@@ -122650,11 +122655,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285167003514": {
-    "jid": "6285167003514",
-    "rpg": {},
-    "exp": 15
   },
   "6283875466917": {
     "jid": "6283875466917",
