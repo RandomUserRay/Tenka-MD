@@ -102259,14 +102259,14 @@
     "energi": 99999
   },
   "6283822995454": {
-    "name": "Hu",
-    "lastSeen": "2026-09-15T03:10:00.169Z",
+    "name": "Emu",
+    "lastSeen": "2026-09-03T06:34:41.532Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 237605,
+    "exp": 237530,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102277,7 +102277,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1789441804293,
+      "jadibot": 1788414716544,
       "menu": 1788413680888
     },
     "clanId": null,
@@ -102296,8 +102296,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 4,
+    "lastActiveDate": "3/9/2026",
+    "activeDays": 3,
     "fun": {}
   },
   "6285641569049": {
@@ -104820,7 +104820,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44760,
+    "exp": 44775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122339,12 +122339,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122359,6 +122353,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
