@@ -43029,13 +43029,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-09-15T09:17:01.788Z",
+    "lastSeen": "2026-09-15T12:57:35.713Z",
     "jid": "6285187952793",
     "number": "6285187952793",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 207242,
+    "exp": 207859,
     "level": 1,
     "koin": 29995,
     "unlockedFeatures": [],
@@ -43106,7 +43106,7 @@
       "maxHealth": 300,
       "mana": 200,
       "maxMana": 200,
-      "stamina": 100,
+      "stamina": 65,
       "maxStamina": 200,
       "attack": 12
     },
@@ -112681,7 +112681,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9375,
+    "exp": 9390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122798,6 +122798,6 @@
   "6281373879713": {
     "jid": "6281373879713",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
