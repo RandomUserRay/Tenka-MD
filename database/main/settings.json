@@ -505,6 +505,17 @@
       "enabled": true,
       "lastSent": {},
       "createdAt": 1789483514713
+    },
+    "6285717515172@s.whatsapp.net_120363429702090177@g.us": {
+      "sender": "6285717515172@s.whatsapp.net",
+      "chatJid": "120363429702090177@g.us",
+      "jadwal": [
+        "07:00"
+      ],
+      "menu": ", 12.00 , 19.00",
+      "enabled": true,
+      "lastSent": {},
+      "createdAt": 1789483541405
     }
   },
   "storeProducts": [
