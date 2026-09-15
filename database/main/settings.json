@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1789471982032
+    },
+    {
+      "cmd": "unknown",
       "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
       "at": 1789442330099
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.getUserCount is not a function",
       "at": 1789123896161
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in /**\n * Plugin: PlayVideo\n * Plugin Name: Playvideo\n * Layout: Ultra-Responsive Full-Width Video Player with Gestures & Stream Stall Recovery\n * Theme",
-      "at": 1789121304083
     }
   ],
   "jpmBlacklist": [],
