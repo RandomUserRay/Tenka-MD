@@ -66875,7 +66875,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168800,
+    "exp": 168830,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66890,7 +66890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T12:52:47.606Z",
+    "lastSeen": "2026-09-15T13:13:35.465Z",
     "cooldowns": {
       "afk": 1789467643895,
       "s": 1789193262540,
@@ -66968,7 +66968,8 @@
       "love": 1789135841555,
       "cerai": 1789475061902,
       "tutup": 1789476760860,
-      "open": 1789476768410
+      "open": 1789478015816,
+      "close": 1789478007974
     },
     "clanId": null,
     "isRegistered": false,
@@ -100261,7 +100262,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2040,
+    "exp": 2070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
