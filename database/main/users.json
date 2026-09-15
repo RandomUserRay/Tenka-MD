@@ -112355,7 +112355,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5190,
+    "exp": 5205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112617,7 +112617,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8220,
+    "exp": 8265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113522,7 +113522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23190,
+    "exp": 23250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114712,7 +114712,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15435,
+    "exp": 15450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119743,7 +119743,7 @@
   "6289667410501": {
     "jid": "6289667410501",
     "rpg": {},
-    "exp": 420,
+    "exp": 435,
     "energi": 99999,
     "name": "nnayi🥑🍪",
     "lastSeen": "2026-09-13T15:19:32.530Z",
@@ -122499,5 +122499,10 @@
     "jid": "6285656085945",
     "rpg": {},
     "exp": 15
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
   }
 }
