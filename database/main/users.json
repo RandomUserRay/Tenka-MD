@@ -105081,7 +105081,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7590,
+    "exp": 7605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114080,10 +114080,10 @@
     "jid": "6285181236511",
     "name": "?",
     "number": "6285181236511",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2145,
+    "exp": 2160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114093,9 +114093,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T11:58:01.136Z",
+    "lastSeen": "2026-09-15T12:03:07.249Z",
     "cooldowns": {
-      "play": 1789473489638
+      "play": 1789473795942
     },
     "clanId": null,
     "isRegistered": false,
