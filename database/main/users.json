@@ -101117,12 +101117,12 @@
   },
   "6285771118557": {
     "jid": "6285771118557",
-    "name": "Fan|LF•Music√",
+    "name": "Fan Kw V2(disappear)",
     "number": "6285771118557",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101132,9 +101132,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-29T14:46:47.439Z",
+    "lastSeen": "2026-09-15T04:09:42.324Z",
     "cooldowns": {
-      "s": 1788013222381
+      "s": 1789445383059
     },
     "clanId": null,
     "isRegistered": false,
@@ -101144,8 +101144,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 2
   },
   "628984757583": {
     "jid": "628984757583",
@@ -122340,6 +122340,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282298463783": {
+    "jid": "6282298463783",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122354,12 +122360,6 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282298463783": {
-    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
