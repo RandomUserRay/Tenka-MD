@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000053850,
+    "exp": 9000053625,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -36018,19 +36018,19 @@
     "jid": "6283818568957",
     "name": "bowo",
     "number": "6283818568957",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224405,
+    "exp": 224435,
     "level": 1,
-    "koin": 57223,
+    "koin": 223,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T03:50:50.702Z",
+    "lastSeen": "2026-09-15T08:01:45.595Z",
     "cooldowns": {
       "femboy": 1784282624511,
       "d": 1784202630407,
@@ -36045,7 +36045,7 @@
       "owner": 1784085487261,
       "robot": 1783219332854,
       "rob": 1784377428658,
-      "bank": 1785493597045,
+      "bank": 1789459298505,
       "iq": 1783821386824,
       "freelance": 1788594499489,
       "jualan": 1784333477587,
@@ -36112,8 +36112,8 @@
     "access": [],
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "5/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 2
   },
   "6288213738877": {
     "jid": "6288213738877",
@@ -113525,7 +113525,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24255,
+    "exp": 24270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122363,12 +122363,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282298463783": {
-    "jid": "6282298463783",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6285138223466": {
     "jid": "6285138223466",
     "rpg": {},
@@ -122383,6 +122377,12 @@
   },
   "6285655931385": {
     "jid": "6285655931385",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282298463783": {
+    "jid": "6282298463783",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -122513,6 +122513,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6285656085945": {
+    "jid": "6285656085945",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283161108229": {
+    "jid": "6283161108229",
+    "rpg": {},
+    "exp": 30
+  },
   "6282157540738": {
     "name": "Bang Nata.Kaltim",
     "lastSeen": "2026-09-15T05:48:48.097Z",
@@ -122525,16 +122535,6 @@
     "energi": 23,
     "lastActiveDate": "15/9/2026",
     "activeDays": 1
-  },
-  "6285656085945": {
-    "jid": "6285656085945",
-    "rpg": {},
-    "exp": 15
-  },
-  "6283161108229": {
-    "jid": "6283161108229",
-    "rpg": {},
-    "exp": 30
   },
   "6283898534823": {
     "jid": "6283898534823",
