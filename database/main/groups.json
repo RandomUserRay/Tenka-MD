@@ -40958,14 +40958,14 @@
     "welcome": true
   },
   "120363413464027056@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
     "jid": "120363413464027056@g.us",
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 7,
-        "lastChat": 1789484978705,
+        "count": 9,
+        "lastChat": 1789485014698,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -40979,6 +40979,7 @@
         "name": "Ryuu Kagenou"
       }
     },
-    "name": "JB ALL GAME BY THIRYZTY"
+    "name": "JB ALL GAME BY THIRYZTY",
+    "welcomeMsg": "HALO {user} YG BARU JOIN SEMOGA BETAH YA😊"
   }
 }
