@@ -81305,7 +81305,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40779,
+    "exp": 40794,
     "level": 1,
     "koin": 21578,
     "saldo": 0,
@@ -81315,7 +81315,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:24:59.115Z",
+    "lastSeen": "2026-09-15T08:25:57.234Z",
     "cooldowns": {
       "mancing": 1789460600909,
       "rest": 1789460699247,
@@ -81329,7 +81329,8 @@
       "top": 1788528633132,
       "tf": 1789460387331,
       "transfer": 1789460586653,
-      "live": 1789460688540
+      "live": 1789460688540,
+      "freelance": 1789460761785
     },
     "clanId": null,
     "isRegistered": false,
@@ -81337,7 +81338,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 100,
+      "stamina": 75,
       "health": 140,
       "mana": 120,
       "maxHealth": 140,
