@@ -23037,7 +23037,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 92347,
+    "exp": 92422,
     "level": 1,
     "koin": 177,
     "unlockedFeatures": [],
@@ -23046,13 +23046,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T11:48:22.111Z",
+    "lastSeen": "2026-09-15T11:48:40.160Z",
     "cooldowns": {
       "cekhoki": 1782554433407,
       "play": 1789472668103,
       "lookup": 1782554759647,
       "allmenu": 1783259258028,
-      "tebakbendera": 1789472902756,
+      "tebakbendera": 1789472920684,
       "owner": 1782555520917,
       "cekwibu": 1782555585050,
       "level": 1783177497107,
@@ -97864,7 +97864,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5865,
+    "exp": 5880,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101896,13 +101896,13 @@
   },
   "628981194866": {
     "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ?",
-    "lastSeen": "2026-09-15T11:48:12.725Z",
+    "lastSeen": "2026-09-15T11:48:39.547Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9574,
+    "exp": 9589,
     "level": 1,
     "koin": 48252,
     "saldo": 0,
@@ -121215,7 +121215,7 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {},
-    "exp": 525,
+    "exp": 3628,
     "name": "Edin",
     "lastSeen": "2026-09-15T11:48:23.424Z",
     "cooldowns": {
@@ -121227,7 +121227,7 @@
     },
     "lastActiveDate": "15/9/2026",
     "activeDays": 2,
-    "energi": 100002
+    "energi": 100013
   },
   "6285771985823": {
     "jid": "6285771985823",
