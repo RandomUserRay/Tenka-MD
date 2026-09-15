@@ -33655,7 +33655,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 79774,
+    "exp": 79789,
     "level": 1,
     "koin": 205366,
     "unlockedFeatures": [],
@@ -33664,7 +33664,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T08:29:09.430Z",
+    "lastSeen": "2026-09-15T08:29:21.510Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33689,7 +33689,8 @@
       "menu": 1789395410218,
       "mancing": 1789460833446,
       "inv": 1789395737812,
-      "rest": 1789460953683
+      "rest": 1789460953683,
+      "shop": 1789460961706
     },
     "clanId": null,
     "isRegistered": false,
@@ -101824,7 +101825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2325,
+    "exp": 2340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
