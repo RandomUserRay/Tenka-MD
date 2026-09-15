@@ -105229,7 +105229,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7920,
+    "exp": 7965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106897,7 +106897,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21510,
+    "exp": 21525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106907,7 +106907,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:03:10.048Z",
+    "lastSeen": "2026-09-15T14:13:00.542Z",
     "cooldowns": {
       "brat": 1789395878913,
       "bratcewek": 1788695614626,
@@ -106937,7 +106937,8 @@
       "menucat": 1789312844733,
       "qc": 1789313117856,
       "toxiclist": 1789370225624,
-      "totalfitur": 1789388184443
+      "totalfitur": 1789388184443,
+      "ping": 1789481581044
     },
     "clanId": null,
     "isRegistered": false,
@@ -111212,7 +111213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7380,
+    "exp": 7410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111222,12 +111223,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:09:20.194Z",
+    "lastSeen": "2026-09-15T14:12:37.304Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
       "play": 1788879286198,
-      "menu": 1789481361763,
+      "menu": 1789481560445,
       "menucat": 1788954794715
     },
     "clanId": null,
@@ -112424,7 +112425,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6180,
+    "exp": 6225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112434,9 +112435,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T14:12:25.018Z",
+    "lastSeen": "2026-09-15T14:12:55.216Z",
     "cooldowns": {
-      "menu": 1789481480087,
+      "menu": 1789481575769,
       "owner": 1789481527271,
       "allmenu": 1789481546326
     },
@@ -112692,7 +112693,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10770,
+    "exp": 10800,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112702,8 +112703,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T13:23:20.984Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-15T14:12:56.353Z",
+    "cooldowns": {
+      "menu": 1789481577019
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -112719,7 +112722,9 @@
       "stamina": 105
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 1
   },
   "6283873327063": {
     "jid": "6283873327063",
