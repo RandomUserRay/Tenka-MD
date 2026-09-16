@@ -7110,7 +7110,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 336665,
+    "exp": 336680,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2160,
+    "exp": 2145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:44:43.516Z",
+    "lastSeen": "2026-09-16T13:44:29.347Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105558,7 +105558,7 @@
       "antitoxic": 1789564502171,
       "h": 1789564730690,
       "antisticker": 1789566162795,
-      "warn": 1789566283790,
+      "warn": 1789566269582,
       "resetwarn": 1789565347398,
       "antiswgc": 1789566195488
     },
@@ -112867,7 +112867,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11610,
+    "exp": 11595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123310,6 +123310,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123325,30 +123335,18 @@
     "rpg": {},
     "exp": 15
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6281269678790": {
     "jid": "6281269678790",
     "rpg": {},
-    "exp": 480,
+    "exp": 450,
     "name": "Yazy",
-    "lastSeen": "2026-09-16T13:45:01.789Z",
+    "lastSeen": "2026-09-16T13:43:40.811Z",
     "cooldowns": {
       "warn": 1789565469895,
       "resetwarn": 1789565041753,
       "listwarn": 1789565425908,
       "owner": 1789566152427,
-      "allmenu": 1789566183222,
-      "menucat": 1789566280024,
-      "antitoxic": 1789566302061
+      "allmenu": 1789566183222
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
@@ -123356,6 +123354,6 @@
   "6285830286055": {
     "jid": "6285830286055",
     "rpg": {},
-    "exp": 45
+    "exp": 30
   }
 }
