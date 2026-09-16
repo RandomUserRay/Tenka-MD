@@ -41718,13 +41718,13 @@
     "jid": "120363427450071260@g.us",
     "chatStats": {
       "6283121900324@s.whatsapp.net": {
-        "count": 55,
-        "lastChat": 1789566367428,
+        "count": 56,
+        "lastChat": 1789566420061,
         "name": "el yapping"
       },
       "6281269678790@s.whatsapp.net": {
-        "count": 30,
-        "lastChat": 1789566410268,
+        "count": 31,
+        "lastChat": 1789566419960,
         "name": "Yazy"
       },
       "6285830286055@s.whatsapp.net": {
@@ -41753,6 +41753,7 @@
       ]
     },
     "antiswgc": "on",
-    "maxWarnings": 5
+    "maxWarnings": 5,
+    "antimedia": true
   }
 }
