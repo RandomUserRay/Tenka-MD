@@ -35246,7 +35246,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1000177,
+    "exp": 1000237,
     "level": 1,
     "koin": 230996,
     "unlockedFeatures": [],
@@ -35255,14 +35255,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:33:22.295Z",
+    "lastSeen": "2026-09-16T08:34:57.866Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
       "cekgacha": 1783006304242,
       "cekbaik": 1783006317999,
       "cekmesum": 1783006398828,
-      "cekfemboy": 1783697375935,
+      "cekfemboy": 1789547702220,
       "cekpintar": 1783697733207,
       "cekjodoh": 1783765488011,
       "allmenu": 1789295482388,
@@ -35497,8 +35497,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "14/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 9
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -50351,7 +50351,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 829475,
+    "exp": 829490,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -123142,6 +123142,14 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 15
+    "exp": 120,
+    "name": "riyy stur",
+    "lastSeen": "2026-09-16T08:35:09.944Z",
+    "cooldowns": {
+      "qc": 1789547710010
+    },
+    "energi": 24,
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 1
   }
 }
