@@ -43645,7 +43645,8 @@
     "lastSeen": "2026-09-16T04:49:50.242Z",
     "cooldowns": {
       "menu": 1786944130615,
-      "menucat": 1786944132124
+      "menucat": 1786944132124,
+      "ytmp4": 1789534229528
     },
     "clanId": null,
     "isRegistered": false,
@@ -43655,7 +43656,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 1
   },
   "6285133946654": {
     "jid": "6285133946654",
