@@ -28903,8 +28903,8 @@
         "name": "munoz s.farm"
       },
       "6281262657079@s.whatsapp.net": {
-        "count": 3489,
-        "lastChat": 1789542915364,
+        "count": 3491,
+        "lastChat": 1789545426968,
         "name": "Leon Bethel"
       },
       "62859106778670@s.whatsapp.net": {
@@ -41345,6 +41345,14 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363431103767644@g.us"
+    "jid": "120363431103767644@g.us",
+    "chatStats": {
+      "6285755379245@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789545420362,
+        "name": "Zay"
+      }
+    },
+    "name": "GB Main Bot, Tenka MD"
   }
 }
