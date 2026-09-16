@@ -40612,8 +40612,8 @@
   "120363429702090177@g.us": {
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 993,
-        "lastChat": 1789543897083,
+        "count": 994,
+        "lastChat": 1789543905538,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -40697,8 +40697,8 @@
         "name": "Raadityaa S. M. / 7G"
       },
       "16063130847@s.whatsapp.net": {
-        "count": 65,
-        "lastChat": 1789543858072,
+        "count": 67,
+        "lastChat": 1789543907694,
         "name": "Zay"
       },
       "6281335565893@s.whatsapp.net": {
@@ -40739,7 +40739,9 @@
       ]
     },
     "antiswgc": "on",
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "spamLimitCount": 5,
+    "spamLimitTime": 10
   },
   "120363412790865672@g.us": {
     "welcome": false,
