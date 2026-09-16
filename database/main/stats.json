@@ -139,7 +139,7 @@
   "scheduledMessagesSent": 1,
   "command_hd2": 17,
   "command_antijudol": 34,
-  "command_open": 363,
+  "command_open": 362,
   "command_antiswgc": 36,
   "command_anticustom": 15,
   "command_hapussaluran": 1,
@@ -1372,5 +1372,6 @@
   "command_delantilink": 1,
   "command_slowmode": 1,
   "command_spek": 3,
-  "command_fakecall-android": 1
+  "command_fakecall-android": 1,
+  "command_allgame": 1
 }
