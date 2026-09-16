@@ -7110,7 +7110,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 336680,
+    "exp": 336665,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2145,
+    "exp": 2175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:44:29.347Z",
+    "lastSeen": "2026-09-16T13:45:19.333Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105555,10 +105555,10 @@
       "play": 1789564805700,
       "antispam": 1789566153153,
       "antitagsw": 1789564491360,
-      "antitoxic": 1789564502171,
+      "antitoxic": 1789566319513,
       "h": 1789564730690,
       "antisticker": 1789566162795,
-      "warn": 1789566269582,
+      "warn": 1789566283790,
       "resetwarn": 1789565347398,
       "antiswgc": 1789566195488
     },
@@ -111416,7 +111416,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34260,
+    "exp": 34275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112867,7 +112867,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11595,
+    "exp": 11625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123310,16 +123310,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123335,18 +123325,30 @@
     "rpg": {},
     "exp": 15
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6281269678790": {
     "jid": "6281269678790",
     "rpg": {},
-    "exp": 450,
+    "exp": 495,
     "name": "Yazy",
-    "lastSeen": "2026-09-16T13:43:40.811Z",
+    "lastSeen": "2026-09-16T13:45:20.686Z",
     "cooldowns": {
-      "warn": 1789565469895,
+      "warn": 1789566320912,
       "resetwarn": 1789565041753,
       "listwarn": 1789565425908,
       "owner": 1789566152427,
-      "allmenu": 1789566183222
+      "allmenu": 1789566183222,
+      "menucat": 1789566280024,
+      "antitoxic": 1789566302061
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
@@ -123354,6 +123356,6 @@
   "6285830286055": {
     "jid": "6285830286055",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
