@@ -112079,7 +112079,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6480,
+    "exp": 6495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112572,7 +112572,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8250,
+    "exp": 8280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112582,12 +112582,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:18:00.845Z",
+    "lastSeen": "2026-09-16T12:19:20.396Z",
     "cooldowns": {
       "menu": 1789511033741,
       "owner": 1789511034576,
       "allmenu": 1789481546326,
-      "ut": 1789561080900
+      "ut": 1789561162545
     },
     "clanId": null,
     "isRegistered": false,
@@ -112881,7 +112881,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9135,
+    "exp": 9165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112891,7 +112891,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:18:58.739Z",
+    "lastSeen": "2026-09-16T12:19:30.752Z",
     "cooldowns": {
       "ut": 1789561140932
     },
@@ -114970,7 +114970,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-16T12:19:15.524Z",
     "cooldowns": {
-      "ut": 1789561038183
+      "ut": 1789561157885
     },
     "clanId": null,
     "isRegistered": false,
