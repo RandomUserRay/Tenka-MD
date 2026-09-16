@@ -809,7 +809,7 @@
   "command_cekmalas": 7,
   "command_malas": 2,
   "command_ttt": 1,
-  "command_pp": 40,
+  "command_pp": 39,
   "command_when": 8,
   "command_kapan": 41,
   "command_simi": 706,
@@ -1371,5 +1371,6 @@
   "command_rtrapvid": 1,
   "command_delantilink": 1,
   "command_slowmode": 1,
-  "command_spek": 3
+  "command_spek": 3,
+  "command_fakecall-android": 1
 }
