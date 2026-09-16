@@ -90410,7 +90410,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 900,
+    "exp": 915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100349,7 +100349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1485,
+    "exp": 1500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105161,7 +105161,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10305,
+    "exp": 10290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105535,7 +105535,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1110,
+    "exp": 1065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105545,13 +105545,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:14:04.997Z",
+    "lastSeen": "2026-09-16T13:02:40.912Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
-      "menu": 1789564429606,
-      "play": 1789563771127,
-      "antispam": 1789564435610
+      "menu": 1789563738470,
+      "play": 1789563771127
     },
     "clanId": null,
     "isRegistered": false,
@@ -112898,7 +112897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9930,
+    "exp": 9915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123301,6 +123300,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123315,15 +123324,5 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
   }
 }
