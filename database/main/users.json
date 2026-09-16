@@ -119500,7 +119500,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1920,
+    "exp": 1935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119510,7 +119510,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:40:58.288Z",
+    "lastSeen": "2026-09-16T08:41:08.626Z",
     "cooldowns": {
       "bratimg": 1789539531531,
       "menu": 1789547802797,
@@ -123145,16 +123145,17 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "name": "riyy stur",
-    "lastSeen": "2026-09-16T08:40:16.288Z",
+    "lastSeen": "2026-09-16T08:41:08.576Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789547762270,
       "spek": 1789547886940,
-      "janda": 1789547968009
+      "janda": 1789547968009,
+      "jokowi-ai": 1789548068627
     },
-    "energi": 18,
+    "energi": 16,
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
   }
