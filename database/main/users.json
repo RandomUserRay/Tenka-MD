@@ -111587,12 +111587,12 @@
   },
   "6283844881941": {
     "jid": "6283844881941",
-    "name": "d'zev",
+    "name": "my love",
     "number": "6283844881941",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 375,
+    "exp": 390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111602,10 +111602,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:41:40.781Z",
+    "lastSeen": "2026-09-16T11:43:23.285Z",
     "cooldowns": {
       "menu": 1789553625231,
-      "ut": 1789555302794
+      "ut": 1789555302794,
+      "fakecall": 1789559006597
     },
     "clanId": null,
     "isRegistered": false,
@@ -116782,7 +116783,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 270,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
