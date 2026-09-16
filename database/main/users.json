@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-16T07:59:41.325Z",
+    "lastSeen": "2026-09-16T08:00:58.578Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000060000,
+    "exp": 9000060375,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -81346,7 +81346,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53993,
+    "exp": 53133,
     "level": 1,
     "koin": 187495,
     "saldo": 0,
@@ -81356,7 +81356,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:00:52.048Z",
+    "lastSeen": "2026-09-15T13:04:48.637Z",
     "cooldowns": {
       "mancing": 1789461934997,
       "rest": 1789460699247,
@@ -81364,13 +81364,13 @@
       "use": 1785664554484,
       "saldo": 1786010130531,
       "casino": 1789460539407,
-      "kerja": 1789545655176,
+      "kerja": 1789477487091,
       "shop": 1789460943698,
       "tambang": 1785604301191,
       "top": 1788528633132,
       "tf": 1789460387331,
       "transfer": 1789460586653,
-      "live": 1789545653691,
+      "live": 1789477492710,
       "freelance": 1789461935328,
       "menu": 1789464919256
     },
@@ -81380,7 +81380,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 65,
+      "stamina": 95,
       "health": 150,
       "mana": 125,
       "maxHealth": 150,
@@ -81398,9 +81398,8 @@
       "stamina": 0
     },
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 5,
-    "lastStreamer": 1789545953646
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 4
   },
   "6283153856415": {
     "name": "``` ~*_YEAGER_*~ ```",
@@ -102333,7 +102332,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 257555,
+    "exp": 257705,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
