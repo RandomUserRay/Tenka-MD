@@ -35243,10 +35243,10 @@
     "jid": "6282131144804",
     "name": "radit maendra",
     "number": "6282131144804",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1000312,
+    "exp": 1000327,
     "level": 1,
     "koin": 165496,
     "unlockedFeatures": [],
@@ -35255,7 +35255,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:36:57.229Z",
+    "lastSeen": "2026-09-16T08:37:50.874Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35431,7 +35431,8 @@
       "ceksial": 1789280680813,
       "cekhoki": 1789280787026,
       "cektsundere": 1789287591647,
-      "qc": 1789547735330
+      "qc": 1789547735330,
+      "spek": 1789547873884
     },
     "clanId": null,
     "isRegistered": false,
@@ -123143,15 +123144,15 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "name": "riyy stur",
-    "lastSeen": "2026-09-16T08:37:25.121Z",
+    "lastSeen": "2026-09-16T08:38:02.202Z",
     "cooldowns": {
       "qc": 1789547710010,
       "brat": 1789547762270,
-      "spek": 1789547850016
+      "spek": 1789547886940
     },
-    "energi": 21,
+    "energi": 19,
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
   }
