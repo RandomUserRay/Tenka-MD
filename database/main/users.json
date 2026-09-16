@@ -19671,10 +19671,10 @@
     "jid": "6283172976375",
     "name": "iky p",
     "number": "6283172976375",
-    "energi": 99995,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 276155,
+    "exp": 276065,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19683,7 +19683,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:37:21.441Z",
+    "lastSeen": "2026-09-15T12:07:49.771Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1787973033697,
@@ -19699,7 +19699,7 @@
       "werewolf": 1782394480161,
       "vote": 1782490588036,
       "kick": 1789466907503,
-      "bratvid": 1789565844772,
+      "bratvid": 1789293840769,
       "close": 1789471253577,
       "open": 1789474070870,
       "admin": 1784442170346,
@@ -19812,8 +19812,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 6
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -112866,7 +112866,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11595,
+    "exp": 11625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112906,7 +112906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9945,
+    "exp": 9960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123309,16 +123309,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123333,6 +123323,16 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
   },
   "6281269678790": {
     "jid": "6281269678790",
