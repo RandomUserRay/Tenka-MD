@@ -16675,7 +16675,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4350,
+    "exp": 4335,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2220,
+    "exp": 2235,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:46:07.428Z",
+    "lastSeen": "2026-09-16T13:47:00.061Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105561,7 +105561,8 @@
       "warn": 1789566339974,
       "resetwarn": 1789565347398,
       "antiswgc": 1789566195488,
-      "afk": 1789566369344
+      "afk": 1789566369344,
+      "antimedia": 1789566420292
     },
     "clanId": null,
     "isRegistered": false,
@@ -111459,7 +111460,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5745,
+    "exp": 5760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123311,16 +123312,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123336,12 +123327,22 @@
     "rpg": {},
     "exp": 15
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6281269678790": {
     "jid": "6281269678790",
     "rpg": {},
-    "exp": 510,
+    "exp": 540,
     "name": "Yazy",
-    "lastSeen": "2026-09-16T13:46:30.605Z",
+    "lastSeen": "2026-09-16T13:46:59.960Z",
     "cooldowns": {
       "warn": 1789566320912,
       "resetwarn": 1789565041753,
@@ -123350,7 +123351,7 @@
       "allmenu": 1789566183222,
       "menucat": 1789566280024,
       "antitoxic": 1789566302061,
-      "afk": 1789566392436
+      "afk": 1789566421566
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
