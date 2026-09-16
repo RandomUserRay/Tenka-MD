@@ -50562,7 +50562,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 596201,
+    "exp": 596231,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -102333,13 +102333,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-16T11:05:55.258Z",
+    "lastSeen": "2026-09-16T11:01:52.350Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 261830,
+    "exp": 261680,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105021,10 +105021,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 100007,
+    "energi": 100006,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17865,
+    "exp": 17910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105034,11 +105034,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:23:14.765Z",
+    "lastSeen": "2026-09-16T11:05:36.860Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
-      "bratimg": 1789554211314,
+      "bratimg": 1789556741402,
       "kick": 1789539049106,
       "admin": 1789485533196,
       "bratvid": 1789544435374,
@@ -123224,5 +123224,10 @@
     "jid": "60105277640",
     "rpg": {},
     "exp": 15
+  },
+  "6285764939003": {
+    "jid": "6285764939003",
+    "rpg": {},
+    "exp": 30
   }
 }
