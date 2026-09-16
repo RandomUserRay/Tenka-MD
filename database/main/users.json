@@ -119497,10 +119497,10 @@
     "jid": "6282254416963",
     "name": "r",
     "number": "6282254416963",
-    "energi": 99990,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2145,
+    "exp": 2160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119510,7 +119510,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:43:11.451Z",
+    "lastSeen": "2026-09-16T08:43:36.059Z",
     "cooldowns": {
       "bratimg": 1789539531531,
       "menu": 1789548166256,
@@ -119531,7 +119531,7 @@
       "mengkane1": 1789548099127,
       "ai": 1789548122786,
       "sendbug": 1789548156964,
-      "tiktokstalk": 1789548191512
+      "tiktokstalk": 1789548216125
     },
     "clanId": null,
     "isRegistered": false,
