@@ -105015,7 +105015,7 @@
     "energi": 100017,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14340,
+    "exp": 14370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105025,12 +105025,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T06:10:31.987Z",
+    "lastSeen": "2026-09-16T06:10:49.074Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789539028159,
       "bratimg": 1789530871595,
-      "kick": 1789476260031,
+      "kick": 1789539049106,
       "admin": 1789485533196,
       "bratvid": 1789483210276,
       "del": 1789536866381,
@@ -119491,7 +119491,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1470,
+    "exp": 1485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119501,7 +119501,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:47:36.409Z",
+    "lastSeen": "2026-09-16T06:10:48.005Z",
     "cooldowns": {
       "bratimg": 1789480061642,
       "menu": 1789479800971,
@@ -119513,7 +119513,8 @@
       "bratanime": 1789479837571,
       "brathd": 1789479861401,
       "brat": 1789479876336,
-      "bratsquidward": 1789479888195
+      "bratsquidward": 1789479888195,
+      "kick": 1789539048059
     },
     "clanId": null,
     "isRegistered": false,
@@ -119523,8 +119524,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 2
   },
   "6281262488900": {
     "jid": "6281262488900",
