@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 644709,
+    "exp": 644559,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -33676,7 +33676,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 88367,
+    "exp": 88382,
     "level": 1,
     "koin": 348555,
     "unlockedFeatures": [],
@@ -72621,7 +72621,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9480,
+    "exp": 9465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105026,7 +105026,7 @@
     "energi": 100006,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18105,
+    "exp": 18150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111389,7 +111389,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31995,
+    "exp": 32055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111556,7 +111556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17970,
+    "exp": 18090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112570,7 +112570,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7695,
+    "exp": 7860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114951,7 +114951,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15990,
+    "exp": 16275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119761,22 +119761,16 @@
   },
   "6285710539888": {
     "name": "hai sayang.",
-    "lastSeen": "2026-09-16T11:48:45.395Z",
+    "lastSeen": "2026-09-11T08:10:00.861Z",
     "jid": "6285710539888",
-    "energi": 99996,
+    "energi": 99999,
     "rpg": {},
-    "exp": 60,
-    "cooldowns": {
-      "pin": 1789559304369,
-      "hd": 1789559325473
-    },
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 1
+    "exp": 15
   },
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 705,
+    "exp": 660,
     "energi": 99999
   },
   "6285785063453": {
@@ -123147,7 +123141,7 @@
     "lastSeen": "2026-09-15T22:02:30.401Z",
     "jid": "6281533725017",
     "rpg": {},
-    "exp": 675,
+    "exp": 825,
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
   },
@@ -123224,7 +123218,7 @@
   "6285808536289": {
     "jid": "6285808536289",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6283815704713": {
     "jid": "6283815704713",
