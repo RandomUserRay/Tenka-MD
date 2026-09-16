@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2025,
+    "exp": 2055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,17 +105547,17 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:42:26.509Z",
+    "lastSeen": "2026-09-16T13:42:42.597Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
-      "menu": 1789564554527,
+      "menu": 1789566150440,
       "play": 1789564805700,
-      "antispam": 1789565405122,
+      "antispam": 1789566153153,
       "antitagsw": 1789564491360,
       "antitoxic": 1789564502171,
       "h": 1789564730690,
-      "antisticker": 1789565417039,
+      "antisticker": 1789566162795,
       "warn": 1789564989887,
       "resetwarn": 1789565347398
     },
@@ -123337,13 +123337,14 @@
   "6281269678790": {
     "jid": "6281269678790",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "name": "Yazy",
-    "lastSeen": "2026-09-16T13:31:09.831Z",
+    "lastSeen": "2026-09-16T13:42:32.359Z",
     "cooldowns": {
       "warn": 1789565469895,
       "resetwarn": 1789565041753,
-      "listwarn": 1789565425908
+      "listwarn": 1789565425908,
+      "owner": 1789566152427
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
