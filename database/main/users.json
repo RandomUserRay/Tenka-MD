@@ -105013,7 +105013,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9105,
+    "exp": 9135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105023,7 +105023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T03:41:17.206Z",
+    "lastSeen": "2026-09-16T03:41:54.275Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789484634712,
@@ -105049,7 +105049,8 @@
       "game": 1789484128139,
       "close": 1789485695609,
       "h": 1789520806481,
-      "play": 1789530084813
+      "play": 1789530084813,
+      "siapa": 1789530114793
     },
     "clanId": null,
     "isRegistered": false,
