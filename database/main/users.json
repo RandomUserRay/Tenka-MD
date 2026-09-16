@@ -105016,7 +105016,7 @@
     "energi": 100015,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16395,
+    "exp": 16425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105026,7 +105026,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T07:17:30.211Z",
+    "lastSeen": "2026-09-16T07:17:39.018Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789539028159,
@@ -105063,7 +105063,8 @@
       "tebakgambar": 1789534625750,
       "tebaklagu": 1789534973774,
       "family100": 1789535195219,
-      "afk": 1789539496242
+      "afk": 1789539496242,
+      "antilinkgc": 1789543059150
     },
     "clanId": null,
     "isRegistered": false,
