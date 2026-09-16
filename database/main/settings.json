@@ -24866,7 +24866,9 @@
         "23:00"
       ],
       "enabled": true,
-      "lastSent": {},
+      "lastSent": {
+        "23:00_2026-09-16": true
+      },
       "createdAt": 1789483499281
     }
   },
