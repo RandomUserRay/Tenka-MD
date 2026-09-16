@@ -111288,10 +111288,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99989,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10740,
+    "exp": 10755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111301,7 +111301,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T11:26:19.155Z",
+    "lastSeen": "2026-09-16T11:28:01.410Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111354,7 +111354,8 @@
       "ut": 1789555685839,
       "unmute": 1789555745676,
       "fakedana": 1789557987162,
-      "fakewa": 1789557949221
+      "fakewa": 1789557949221,
+      "igstory": 1789558081902
     },
     "clanId": null,
     "isRegistered": false,
