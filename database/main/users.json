@@ -41077,7 +41077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283484,
+    "exp": 283469,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -111293,7 +111293,7 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12594,
+    "exp": 12639,
     "level": 1,
     "koin": 227,
     "saldo": 0,
@@ -111303,7 +111303,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:36:29.153Z",
+    "lastSeen": "2026-09-16T12:38:19.627Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111361,7 +111361,7 @@
       "fakecall-android": 1789558716454,
       "fakecall": 1789558806864,
       "allgame": 1789562168177,
-      "kyubigame": 1789562189273
+      "kyubigame": 1789562299784
     },
     "clanId": null,
     "isRegistered": false,
@@ -111376,7 +111376,11 @@
       "health": 110,
       "mana": 105,
       "stamina": 75,
-      "attack": 10
+      "attack": 10,
+      "kyubigame_session": {
+        "stage": "lobi",
+        "time": 1789562299630
+      }
     },
     "inventory": {
       "shuriken": 6
@@ -111396,7 +111400,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33195,
+    "exp": 33255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112085,7 +112089,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6585,
+    "exp": 6600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112887,7 +112891,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9720,
+    "exp": 9750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112897,16 +112901,27 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:29:56.219Z",
+    "lastSeen": "2026-09-16T12:38:34.925Z",
     "cooldowns": {
-      "ut": 1789561796283
+      "ut": 1789561796283,
+      "kyubigame": 1789562315046
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "attack": 10,
+      "health": 100,
+      "maxHealth": 100,
+      "stamina": 100,
+      "maxStamina": 100,
+      "kyubigame_session": {
+        "stage": "lobi",
+        "time": 1789562314926
+      }
+    },
     "inventory": {},
     "access": [],
     "lastActiveDate": "16/9/2026",
@@ -114964,7 +114979,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17280,
+    "exp": 17295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
