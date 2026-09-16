@@ -14891,12 +14891,12 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275013,
+    "exp": 275028,
     "level": 1,
-    "koin": 49462,
+    "koin": 0,
     "unlockedFeatures": [
       "game"
     ],
@@ -14905,7 +14905,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:19:59.048Z",
+    "lastSeen": "2026-09-16T14:50:33.819Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15037,7 +15037,7 @@
       "coinflip": 1782953225714,
       "kurir": 1782956154941,
       "maling": 1782900385613,
-      "casino": 1789568380413,
+      "casino": 1789570236650,
       "igstalk": 1783260316271,
       "blacksmith": 1782894475731,
       "ngojek": 1782956151380,
@@ -121838,7 +121838,7 @@
   "6281935901496": {
     "jid": "6281935901496",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "energi": 99999
   },
   "6289672234058": {
@@ -123306,7 +123306,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 285
+    "exp": 345
   },
   "6285783885003": {
     "jid": "6285783885003",
