@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135950885,
+    "exp": 135950960,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -97936,7 +97936,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11265,
+    "exp": 11250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105021,10 +105021,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 100007,
+    "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17775,
+    "exp": 17745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105034,7 +105034,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:23:14.765Z",
+    "lastSeen": "2026-09-16T09:57:17.300Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -123187,7 +123187,7 @@
   "6285808536289": {
     "jid": "6285808536289",
     "rpg": {},
-    "exp": 75
+    "exp": 45
   },
   "6283815704713": {
     "jid": "6283815704713",
@@ -123202,7 +123202,7 @@
   "6285380790939": {
     "jid": "6285380790939",
     "rpg": {},
-    "exp": 45
+    "exp": 30
   },
   "60105277640": {
     "jid": "60105277640",
