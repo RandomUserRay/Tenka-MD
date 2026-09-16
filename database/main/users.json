@@ -3987,7 +3987,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95550,
+    "exp": 95535,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -23047,16 +23047,16 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 126092,
+    "exp": 128913,
     "level": 1,
-    "koin": 0,
+    "koin": 54628,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:09:07.444Z",
+    "lastSeen": "2026-09-16T14:53:08.704Z",
     "cooldowns": {
       "cekhoki": 1782554433407,
       "play": 1789472972982,
@@ -23081,9 +23081,9 @@
       "petshop": 1782906244983,
       "shop": 1782906469244,
       "job": 1782909183128,
-      "inv": 1789473044211,
+      "inv": 1789570388742,
       "mine": 1782909158885,
-      "bank": 1789567745829,
+      "bank": 1789570349154,
       "cook": 1782906533046,
       "daily": 1789567718169,
       "weekly": 1789473033326,
@@ -23099,7 +23099,7 @@
       "meditation": 1782909586522,
       "mulung": 1782908440539,
       "sellall": 1782909211985,
-      "freelance": 1783088742700,
+      "freelance": 1789570370856,
       "berladang": 1782908364155,
       "challenge": 1782908421298,
       "d": 1783259930979,
@@ -23133,7 +23133,8 @@
       "geometrydash": 1788260408688,
       "game": 1789473001301,
       "use": 1789473054309,
-      "transfer": 1789476379291
+      "transfer": 1789476379291,
+      "stat": 1789570380294
     },
     "clanId": null,
     "isRegistered": false,
@@ -23147,7 +23148,7 @@
       "maxStamina": 160,
       "health": 220,
       "mana": 160,
-      "stamina": 160,
+      "stamina": 135,
       "pet": {
         "type": "cat",
         "name": "elgato",
@@ -104903,7 +104904,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49980,
+    "exp": 50040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104983,13 +104984,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 120,
-      "health": 140,
-      "mana": 120,
-      "level": 5,
-      "maxHealth": 140,
-      "maxMana": 120,
-      "maxStamina": 120
+      "stamina": 125,
+      "health": 150,
+      "mana": 125,
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125
     },
     "inventory": {},
     "access": [],
@@ -105031,7 +105032,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18705,
+    "exp": 18780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106718,7 +106719,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8055,
+    "exp": 8130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106728,7 +106729,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:01:29.059Z",
+    "lastSeen": "2026-09-16T14:52:48.623Z",
     "cooldowns": {
       "owner": 1789046788721,
       "menu": 1789567239078,
@@ -106736,7 +106737,7 @@
       "intro": 1788689688094,
       "groupinfo": 1788688987759,
       "allmenu": 1788689288479,
-      "close": 1788714125463,
+      "close": 1789570369019,
       "open": 1788714132566,
       "goblok": 1788714137169,
       "kick": 1789563188137,
@@ -111423,7 +111424,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34530,
+    "exp": 34575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112874,7 +112875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13020,
+    "exp": 13050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121838,7 +121839,7 @@
   "6281935901496": {
     "jid": "6281935901496",
     "rpg": {},
-    "exp": 135,
+    "exp": 210,
     "energi": 99999
   },
   "6289672234058": {
@@ -123306,7 +123307,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 345
+    "exp": 405
   },
   "6285783885003": {
     "jid": "6285783885003",
@@ -123315,16 +123316,6 @@
   },
   "6282275204720": {
     "jid": "6282275204720",
-    "rpg": {},
-    "exp": 30
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
     "rpg": {},
     "exp": 30
   },
@@ -123342,6 +123333,16 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
   },
   "6281269678790": {
     "jid": "6281269678790",
