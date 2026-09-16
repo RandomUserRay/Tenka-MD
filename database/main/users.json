@@ -14894,9 +14894,9 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 272525,
+    "exp": 275013,
     "level": 1,
-    "koin": 0,
+    "koin": 49462,
     "unlockedFeatures": [
       "game"
     ],
@@ -14905,7 +14905,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:19:37.783Z",
+    "lastSeen": "2026-09-16T14:19:59.048Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15021,7 +15021,7 @@
       "ngamen": 1782956185513,
       "mulung": 1782956214033,
       "beg": 1782956118182,
-      "freelance": 1789473220781,
+      "freelance": 1789568403130,
       "breeding": 1782908930226,
       "pap": 1786938297977,
       "gift": 1782891761451,
@@ -15147,7 +15147,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 175,
+      "stamina": 150,
       "health": 370,
       "level": 28,
       "maxHealth": 370,
@@ -15995,7 +15995,7 @@
     "energi": 99986,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9350442,
+    "exp": 9350742,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16004,7 +16004,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:19:38.490Z",
+    "lastSeen": "2026-09-16T14:20:20.082Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -111591,7 +111591,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18840,
+    "exp": 18885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112874,7 +112874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12135,
+    "exp": 12180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121485,9 +121485,9 @@
       "stamina": 0,
       "bank": 0
     },
-    "exp": 28041,
+    "exp": 28071,
     "name": "Edin",
-    "lastSeen": "2026-09-16T14:19:22.138Z",
+    "lastSeen": "2026-09-16T14:19:51.530Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
@@ -121501,7 +121501,8 @@
       "transfer": 1789473546144,
       "judi": 1789474244002,
       "slot": 1789567724274,
-      "weekly": 1789478314615
+      "weekly": 1789478314615,
+      "freelance": 1789568391719
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 3,
