@@ -40699,8 +40699,8 @@
   "120363429702090177@g.us": {
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 1073,
-        "lastChat": 1789564325715,
+        "count": 1074,
+        "lastChat": 1789564402880,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -41329,8 +41329,8 @@
         "name": "Lyaa` okkotsu!"
       },
       "6287717673415@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1789564415992,
+        "count": 5,
+        "lastChat": 1789564256064,
         "name": "pena"
       },
       "6285849962765@s.whatsapp.net": {
@@ -41349,8 +41349,8 @@
         "name": "星野アルファン ☭🌹"
       },
       "6285804107800@s.whatsapp.net": {
-        "count": 63,
-        "lastChat": 1789564393054,
+        "count": 62,
+        "lastChat": 1789564269012,
         "name": "Chevie"
       },
       "6285882237688@s.whatsapp.net": {
@@ -41374,8 +41374,8 @@
         "name": "持っている"
       },
       "60134066732@s.whatsapp.net": {
-        "count": 53,
-        "lastChat": 1789564392863,
+        "count": 50,
+        "lastChat": 1789558705425,
         "name": ". btk"
       },
       "6285381670977@s.whatsapp.net": {
@@ -41685,5 +41685,11 @@
     },
     "jid": "120363429673739566@g.us",
     "name": "Stc"
+  },
+  "120363427450071260@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363427450071260@g.us"
   }
 }
