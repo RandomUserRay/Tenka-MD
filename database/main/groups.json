@@ -40607,8 +40607,8 @@
   "120363429702090177@g.us": {
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 938,
-        "lastChat": 1789542487728,
+        "count": 939,
+        "lastChat": 1789542505699,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -40723,7 +40723,16 @@
     "antispam": "on",
     "welcomeMsg": "{user} SELAMAT DATANG DI JB ALL GAME THIRYZTY GANTENG",
     "welcome": true,
-    "game": true
+    "game": true,
+    "warnings": {
+      "6285124720395@s.whatsapp.net": [
+        {
+          "reason": "spam",
+          "by": "6285709953593@s.whatsapp.net",
+          "time": 1789542505702
+        }
+      ]
+    }
   },
   "120363412790865672@g.us": {
     "welcome": false,
