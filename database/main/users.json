@@ -102097,7 +102097,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 212045,
+    "exp": 212195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102107,7 +102107,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T07:35:18.889Z",
+    "lastSeen": "2026-09-16T07:37:00.913Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1789135227735,
@@ -123128,6 +123128,6 @@
   "6285754652592": {
     "jid": "6285754652592",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
