@@ -81346,7 +81346,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53133,
+    "exp": 53993,
     "level": 1,
     "koin": 187495,
     "saldo": 0,
@@ -81356,7 +81356,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:04:48.637Z",
+    "lastSeen": "2026-09-16T08:00:52.048Z",
     "cooldowns": {
       "mancing": 1789461934997,
       "rest": 1789460699247,
@@ -81364,13 +81364,13 @@
       "use": 1785664554484,
       "saldo": 1786010130531,
       "casino": 1789460539407,
-      "kerja": 1789477487091,
+      "kerja": 1789545655176,
       "shop": 1789460943698,
       "tambang": 1785604301191,
       "top": 1788528633132,
       "tf": 1789460387331,
       "transfer": 1789460586653,
-      "live": 1789477492710,
+      "live": 1789545653691,
       "freelance": 1789461935328,
       "menu": 1789464919256
     },
@@ -81380,7 +81380,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 95,
+      "stamina": 65,
       "health": 150,
       "mana": 125,
       "maxHealth": 150,
@@ -81398,8 +81398,9 @@
       "stamina": 0
     },
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 5,
+    "lastStreamer": 1789545953646
   },
   "6283153856415": {
     "name": "``` ~*_YEAGER_*~ ```",
