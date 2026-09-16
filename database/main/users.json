@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 644559,
+    "exp": 644859,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -111281,7 +111281,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9345,
+    "exp": 9330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111291,7 +111291,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:16:07.896Z",
+    "lastSeen": "2026-09-16T10:15:29.785Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111329,8 +111329,7 @@
       "tagall": 1789540900354,
       "slowmode": 1789540923754,
       "mutegc": 1789553648668,
-      "mutemember": 1789553729907,
-      "unmutemember": 1789553767937
+      "mutemember": 1789553729907
     },
     "clanId": null,
     "isRegistered": false,
