@@ -33676,7 +33676,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 88367,
+    "exp": 88382,
     "level": 1,
     "koin": 348555,
     "unlockedFeatures": [],
@@ -111556,7 +111556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17970,
+    "exp": 18000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112570,7 +112570,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7695,
+    "exp": 7785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114951,7 +114951,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15990,
+    "exp": 16140,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119761,21 +119761,16 @@
   },
   "6285710539888": {
     "name": "hai sayang.",
-    "lastSeen": "2026-09-16T11:48:02.817Z",
+    "lastSeen": "2026-09-11T08:10:00.861Z",
     "jid": "6285710539888",
-    "energi": 99998,
+    "energi": 99999,
     "rpg": {},
-    "exp": 30,
-    "cooldowns": {
-      "pin": 1789559286466
-    },
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 1
+    "exp": 15
   },
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 675,
+    "exp": 660,
     "energi": 99999
   },
   "6285785063453": {
