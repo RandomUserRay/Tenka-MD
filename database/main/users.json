@@ -76483,13 +76483,13 @@
   },
   "6282347918190": {
     "name": "pulzz",
-    "lastSeen": "2026-09-16T03:01:46.037Z",
+    "lastSeen": "2026-09-16T08:17:05.085Z",
     "jid": "6282347918190",
     "number": "6282347918190",
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5872,
+    "exp": 5887,
     "level": 1,
     "koin": 2494,
     "unlockedFeatures": [],
@@ -76523,7 +76523,8 @@
       "ammagic": 1786985006882,
       "amprem": 1786985103659,
       "stacktower": 1788179973820,
-      "stiker": 1789465373798
+      "stiker": 1789465373798,
+      "afk": 1789546626815
     },
     "clanId": null,
     "isRegistered": false,
@@ -102333,7 +102334,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 258980,
+    "exp": 258905,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -122672,7 +122673,7 @@
   "6283876588899": {
     "jid": "6283876588899",
     "rpg": {},
-    "exp": 150,
+    "exp": 135,
     "energi": 99999
   },
   "6282131652525": {
