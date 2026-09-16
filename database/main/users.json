@@ -112888,7 +112888,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9825,
+    "exp": 9840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112898,10 +112898,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:38:34.925Z",
+    "lastSeen": "2026-09-16T12:42:29.212Z",
     "cooldowns": {
       "ut": 1789561796283,
-      "kyubigame": 1789562315046
+      "kyubigame": 1789562315046,
+      "menu": 1789562549859
     },
     "clanId": null,
     "isRegistered": false,
