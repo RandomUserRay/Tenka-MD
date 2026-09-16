@@ -105016,7 +105016,7 @@
     "energi": 100012,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16965,
+    "exp": 16980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123128,6 +123128,13 @@
   "6285754652592": {
     "jid": "6285754652592",
     "rpg": {},
-    "exp": 60
+    "exp": 90,
+    "name": "𝓛𝓲𝔂𝔂𝓪💨🐱",
+    "lastSeen": "2026-09-16T07:37:04.137Z",
+    "cooldowns": {
+      "menu": 1789544224928
+    },
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 1
   }
 }
