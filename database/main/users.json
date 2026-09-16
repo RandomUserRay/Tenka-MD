@@ -95794,13 +95794,13 @@
   },
   "6285817724197": {
     "name": "Fael",
-    "lastSeen": "2026-09-16T00:34:55.818Z",
+    "lastSeen": "2026-09-16T00:35:14.221Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99992,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2775,
+    "exp": 2790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95846,7 +95846,8 @@
       "redeem": 1789129125299,
       "cektsundere": 1789514318241,
       "ping": 1789518815610,
-      "tiktokstalk": 1789518895997
+      "tiktokstalk": 1789518895997,
+      "igstalk": 1789518918612
     },
     "clanId": null,
     "isRegistered": false,
