@@ -101939,7 +101939,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12234,
+    "exp": 12249,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111550,12 +111550,12 @@
   },
   "6283844881941": {
     "jid": "6283844881941",
-    "name": "4sla",
+    "name": "d'zev",
     "number": "6283844881941",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111565,8 +111565,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T06:35:40.365Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-16T10:13:58.794Z",
+    "cooldowns": {
+      "menu": 1789553625231
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -111574,7 +111576,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 1
   },
   "62881010988540": {
     "jid": "62881010988540",
