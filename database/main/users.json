@@ -111271,7 +111271,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9120,
+    "exp": 9135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111281,7 +111281,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T06:41:40.262Z",
+    "lastSeen": "2026-09-16T06:42:03.689Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111316,7 +111316,8 @@
       "topchat": 1789514155525,
       "antitoxic": 1789514988762,
       "videy": 1789534788602,
-      "tagall": 1789540900354
+      "tagall": 1789540900354,
+      "slowmode": 1789540923754
     },
     "clanId": null,
     "isRegistered": false,
