@@ -105024,7 +105024,7 @@
     "energi": 100009,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17430,
+    "exp": 17460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105034,7 +105034,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T09:24:15.924Z",
+    "lastSeen": "2026-09-16T09:31:37.841Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -123176,5 +123176,10 @@
     "jid": "6285808536289",
     "rpg": {},
     "exp": 15
+  },
+  "6283815704713": {
+    "jid": "6283815704713",
+    "rpg": {},
+    "exp": 30
   }
 }
