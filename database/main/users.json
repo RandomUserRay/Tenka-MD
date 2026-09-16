@@ -27118,10 +27118,10 @@
     "jid": "6283129172027",
     "name": "Raadityaa S. M. / 7G",
     "number": "6283129172027",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12069094,
+    "exp": 12069124,
     "level": 1,
     "koin": 36635,
     "unlockedFeatures": [
@@ -27136,7 +27136,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T23:37:35.663Z",
+    "lastSeen": "2026-09-16T08:35:27.176Z",
     "cooldowns": {
       "afk": 1788994840695,
       "play": 1789482632947,
@@ -27356,7 +27356,7 @@
       "duel": 1785680745250,
       "ytmp4": 1789051101217,
       "emojimix": 1786641849426,
-      "bratvid": 1788097860661,
+      "bratvid": 1789547730529,
       "amprem": 1786966659289,
       "ammagic": 1786857420201,
       "ip": 1789111639138,
@@ -35246,7 +35246,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1000237,
+    "exp": 1000177,
     "level": 1,
     "koin": 230996,
     "unlockedFeatures": [],
@@ -35255,14 +35255,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:34:57.866Z",
+    "lastSeen": "2026-09-16T08:33:22.295Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
       "cekgacha": 1783006304242,
       "cekbaik": 1783006317999,
       "cekmesum": 1783006398828,
-      "cekfemboy": 1789547702220,
+      "cekfemboy": 1783697375935,
       "cekpintar": 1783697733207,
       "cekjodoh": 1783765488011,
       "allmenu": 1789295482388,
@@ -35497,8 +35497,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "14/9/2026",
+    "activeDays": 8
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -50351,7 +50351,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 829490,
+    "exp": 829475,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -123142,14 +123142,6 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 120,
-    "name": "riyy stur",
-    "lastSeen": "2026-09-16T08:35:09.944Z",
-    "cooldowns": {
-      "qc": 1789547710010
-    },
-    "energi": 24,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 1
+    "exp": 15
   }
 }
