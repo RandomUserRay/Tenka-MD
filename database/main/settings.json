@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789567242717
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'cooldowns')",
+      "at": 1789567239046
+    },
+    {
+      "cmd": "unknown",
       "err": "fetch failed",
       "at": 1789556878635
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789129593814
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789125563619
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getUserCount is not a function",
-      "at": 1789123903963
     }
   ],
   "jpmBlacklist": [],
