@@ -41134,8 +41134,8 @@
   "120363429331407532@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 90,
-        "lastChat": 1789540923689,
+        "count": 91,
+        "lastChat": 1789553648514,
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
@@ -41169,7 +41169,8 @@
       "6283844881941@s.whatsapp.net": 0
     },
     "toxicMethod": "kick",
-    "toxicMaxWarn": 5
+    "toxicMaxWarn": 5,
+    "mutegc": true
   },
   "120363413464027056@g.us": {
     "welcome": true,
