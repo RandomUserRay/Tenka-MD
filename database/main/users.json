@@ -33675,7 +33675,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 85342,
+    "exp": 85357,
     "level": 1,
     "koin": 263176,
     "unlockedFeatures": [],
@@ -33684,7 +33684,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T05:58:40.493Z",
+    "lastSeen": "2026-09-16T05:58:45.986Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33727,7 +33727,7 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 55
+      "stamina": 35
     },
     "inventory": {
       "fish": 1,
@@ -105015,7 +105015,7 @@
     "energi": 100017,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13995,
+    "exp": 14010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
