@@ -7110,7 +7110,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 336740,
+    "exp": 336755,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -18393,7 +18393,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60675,
+    "exp": 60690,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -119823,7 +119823,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999
   },
   "6285785063453": {
@@ -120025,11 +120025,11 @@
     "cooldowns": {
       "play": 1789128750730,
       "pin": 1789453870745,
-      "tt": 1789463171674
+      "tt": 1789572074267
     },
     "energi": 99998,
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 4
   },
   "6288228867255": {
     "name": "emma like moon🌙",
