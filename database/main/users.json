@@ -33052,10 +33052,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 553249,
+    "exp": 553264,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33064,7 +33064,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T22:50:33.145Z",
+    "lastSeen": "2026-09-16T06:57:17.994Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33302,7 +33302,8 @@
       "cektsundere": 1789307169467,
       "tagall": 1789458983492,
       "amprem": 1789469061518,
-      "wm": 1789477420724
+      "wm": 1789477420724,
+      "sleep": 1789541839900
     },
     "clanId": null,
     "isRegistered": false,
