@@ -105010,10 +105010,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8895,
+    "exp": 8910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105023,7 +105023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T03:16:02.600Z",
+    "lastSeen": "2026-09-16T03:23:05.455Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789484634712,
@@ -105049,7 +105049,7 @@
       "game": 1789484128139,
       "close": 1789485695609,
       "h": 1789520806481,
-      "play": 1789528570166
+      "play": 1789528992653
     },
     "clanId": null,
     "isRegistered": false,
@@ -105122,10 +105122,10 @@
     "jid": "62881036183343",
     "name": "Ryuu Kagenou",
     "number": "62881036183343",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8820,
+    "exp": 8835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105135,7 +105135,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T15:47:49.678Z",
+    "lastSeen": "2026-09-16T03:23:13.493Z",
     "cooldowns": {
       "intro": 1788689241272,
       "menu": 1788750254384,
@@ -105153,7 +105153,8 @@
       "admin": 1789482539501,
       "unadmin": 1789482605846,
       "level": 1789483345270,
-      "asahotak": 1789484021123
+      "asahotak": 1789484021123,
+      "play": 1789529002320
     },
     "clanId": null,
     "isRegistered": false,
@@ -105163,8 +105164,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 6
   },
   "6281524233254": {
     "jid": "6281524233254",
