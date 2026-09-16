@@ -18393,7 +18393,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60795,
+    "exp": 60765,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -94910,10 +94910,10 @@
     "jid": "6282224026470",
     "name": "Zidane𒉭",
     "number": "6282224026470",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94923,12 +94923,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T13:36:08.123Z",
+    "lastSeen": "2026-09-16T15:27:13.634Z",
     "cooldowns": {
       "hd": 1786938143760,
       "pap": 1786938328397,
-      "play": 1789479367875,
-      "lirik": 1788964815281,
+      "play": 1789572420119,
+      "lirik": 1789572437375,
       "ytmp4": 1789221629074,
       "s": 1789221802217
     },
@@ -94940,8 +94940,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 4
   },
   "62895370576172": {
     "jid": "62895370576172",
@@ -98184,7 +98184,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2355,
+    "exp": 2340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123319,16 +123319,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123343,6 +123333,16 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
   },
   "6281269678790": {
     "jid": "6281269678790",
