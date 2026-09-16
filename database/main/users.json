@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2235,
+    "exp": 2250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:47:00.061Z",
+    "lastSeen": "2026-09-16T13:47:45.503Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105562,7 +105562,8 @@
       "resetwarn": 1789565347398,
       "antiswgc": 1789566195488,
       "afk": 1789566369344,
-      "antimedia": 1789566420292
+      "antimedia": 1789566420292,
+      "addcmdsticker": 1789566465973
     },
     "clanId": null,
     "isRegistered": false,
