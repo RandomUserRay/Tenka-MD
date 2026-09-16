@@ -105164,7 +105164,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10500,
+    "exp": 10515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105174,7 +105174,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T15:40:52.169Z",
+    "lastSeen": "2026-09-16T15:44:29.187Z",
     "cooldowns": {
       "intro": 1788689241272,
       "menu": 1789573115800,
@@ -105195,7 +105195,8 @@
       "asahotak": 1789484021123,
       "play": 1789533908019,
       "p": 1789562745235,
-      "antiswgc": 1789573252296
+      "antiswgc": 1789573252296,
+      "swgc": 1789573469770
     },
     "clanId": null,
     "isRegistered": false,
