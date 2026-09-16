@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-16T07:53:37.219Z",
+    "lastSeen": "2026-09-16T07:54:10.580Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000059175,
+    "exp": 9000059250,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -102326,13 +102326,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-16T07:52:59.758Z",
+    "lastSeen": "2026-09-16T07:53:56.588Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 256655,
+    "exp": 256805,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102343,7 +102343,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1789545182878,
+      "jadibot": 1789545236758,
       "menu": 1789545168780,
       "stopjadibot": 1789510370896
     },
