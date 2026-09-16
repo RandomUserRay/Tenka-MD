@@ -41077,7 +41077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283484,
+    "exp": 283469,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -47619,7 +47619,7 @@
     "energi": 100003,
     "isPremium": false,
     "isBanned": false,
-    "exp": 557963,
+    "exp": 557948,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -66889,7 +66889,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169250,
+    "exp": 169235,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105533,7 +105533,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 960,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111293,7 +111293,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12959,
+    "exp": 13019,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111303,7 +111303,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:42:11.115Z",
+    "lastSeen": "2026-09-16T12:43:38.573Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111362,7 +111362,8 @@
       "fakecall": 1789558806864,
       "allgame": 1789562168177,
       "kyubigame": 1789562299784,
-      "quiz": 1789562444855
+      "quiz": 1789562444855,
+      "tebakkimia": 1789562618721
     },
     "clanId": null,
     "isRegistered": false,
@@ -112888,7 +112889,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9870,
+    "exp": 9885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112914,11 +112915,7 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 100,
-      "maxStamina": 100,
-      "kyubigame_session": {
-        "stage": "lobi",
-        "time": 1789562314926
-      }
+      "maxStamina": 100
     },
     "inventory": {},
     "access": [],
@@ -123287,6 +123284,11 @@
   },
   "6285783885003": {
     "jid": "6285783885003",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282275204720": {
+    "jid": "6282275204720",
     "rpg": {},
     "exp": 15
   }
