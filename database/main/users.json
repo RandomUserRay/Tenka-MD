@@ -19335,7 +19335,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13517,
+    "exp": 13532,
     "level": 1,
     "koin": 2570,
     "unlockedFeatures": [],
@@ -111327,7 +111327,8 @@
       "antitoxic": 1789514988762,
       "videy": 1789534788602,
       "tagall": 1789540900354,
-      "slowmode": 1789540923754
+      "slowmode": 1789540923754,
+      "mutegc": 1789553575129
     },
     "clanId": null,
     "isRegistered": false,
