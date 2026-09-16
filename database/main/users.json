@@ -34182,7 +34182,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 280095,
+    "exp": 280110,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102327,13 +102327,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-16T08:05:22.087Z",
+    "lastSeen": "2026-09-16T07:59:54.670Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 258080,
+    "exp": 257555,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102346,8 +102346,7 @@
     "cooldowns": {
       "jadibot": 1789545454678,
       "menu": 1789545168780,
-      "stopjadibot": 1789510370896,
-      "p": 1789545922353
+      "stopjadibot": 1789510370896
     },
     "clanId": null,
     "isRegistered": false,
