@@ -105029,7 +105029,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18465,
+    "exp": 18510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105158,10 +105158,10 @@
     "jid": "62881036183343",
     "name": "Ryuu Kagenou",
     "number": "62881036183343",
-    "energi": 99979,
+    "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10215,
+    "exp": 10290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105171,13 +105171,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:45:43.750Z",
+    "lastSeen": "2026-09-16T13:11:45.044Z",
     "cooldowns": {
       "intro": 1788689241272,
       "menu": 1788750254384,
       "blown": 1788695083796,
       "brat": 1788696779531,
-      "bratimg": 1789557755362,
+      "bratimg": 1789564310569,
       "jokowi": 1788750225144,
       "list": 1788750323744,
       "del": 1789562718243,
@@ -111406,7 +111406,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33855,
+    "exp": 33885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111510,7 +111510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10920,
+    "exp": 10950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122155,13 +122155,13 @@
   "6285141109975": {
     "jid": "6285141109975",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "name": "yg jls manusia boyy",
-    "lastSeen": "2026-09-16T12:14:36.681Z",
+    "lastSeen": "2026-09-16T13:11:43.181Z",
     "cooldowns": {
       "ytmp4": 1789560891363,
       "play": 1789560859529,
-      "afk": 1789482542262
+      "afk": 1789564304818
     },
     "energi": 99996,
     "lastActiveDate": "16/9/2026",
@@ -123300,16 +123300,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123319,5 +123309,20 @@
     "jid": "6285966657756",
     "rpg": {},
     "exp": 90
+  },
+  "6285646435303": {
+    "jid": "6285646435303",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
   }
 }
