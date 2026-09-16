@@ -16675,7 +16675,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4335,
+    "exp": 4365,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -41078,7 +41078,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283469,
+    "exp": 283484,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2070,
+    "exp": 2025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,20 +105547,19 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:43:01.636Z",
+    "lastSeen": "2026-09-16T13:42:26.509Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
-      "menu": 1789566150440,
+      "menu": 1789564554527,
       "play": 1789564805700,
-      "antispam": 1789566153153,
+      "antispam": 1789565405122,
       "antitagsw": 1789564491360,
       "antitoxic": 1789564502171,
       "h": 1789564730690,
-      "antisticker": 1789566162795,
+      "antisticker": 1789565417039,
       "warn": 1789564989887,
-      "resetwarn": 1789565347398,
-      "antiswgc": 1789566181764
+      "resetwarn": 1789565347398
     },
     "clanId": null,
     "isRegistered": false,
@@ -123310,6 +123309,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123325,28 +123334,16 @@
     "rpg": {},
     "exp": 15
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
-  },
   "6281269678790": {
     "jid": "6281269678790",
     "rpg": {},
-    "exp": 435,
+    "exp": 405,
     "name": "Yazy",
-    "lastSeen": "2026-09-16T13:43:01.999Z",
+    "lastSeen": "2026-09-16T13:31:09.831Z",
     "cooldowns": {
       "warn": 1789565469895,
       "resetwarn": 1789565041753,
-      "listwarn": 1789565425908,
-      "owner": 1789566152427,
-      "allmenu": 1789566183222
+      "listwarn": 1789565425908
     },
     "lastActiveDate": "16/9/2026",
     "activeDays": 1
