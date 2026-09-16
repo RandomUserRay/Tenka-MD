@@ -41458,9 +41458,17 @@
     "antitoxic": true
   },
   "120363430768940259@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
-    "jid": "120363430768940259@g.us"
+    "jid": "120363430768940259@g.us",
+    "chatStats": {
+      "6285755379245@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789552382950,
+        "name": "Zay"
+      }
+    },
+    "welcomeMsg": "{user}\n╭────〔 ⚡ EZO INTRO ⚡ 〕────╮\n\n🏷️ Nama/Username :\n📱 Aplikasi Edit :\n🎵 Genre Jedag Jedug Favorit :\n⭐ Pengalaman Editing :\n🌍 Asal :\n📌 Tujuan Bergabung :\n\n💬 Pesan untuk Member EZO:\n(Tulis pesan singkatmu di sini)\n\n╰────────────────────────╯\n\n⚡ Elite Zero Operation ⚡\nSalam kenal semuanya!\nSemoga bisa saling belajar, berbagi preset, dan berkembang bersama di keluarga besar EZO."
   }
 }
