@@ -14891,12 +14891,12 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 272450,
+    "exp": 272480,
     "level": 1,
-    "koin": 420232,
+    "koin": 520232,
     "unlockedFeatures": [
       "game"
     ],
@@ -14905,7 +14905,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T22:46:15.340Z",
+    "lastSeen": "2026-09-16T14:12:13.062Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15037,7 +15037,7 @@
       "coinflip": 1782953225714,
       "kurir": 1782956154941,
       "maling": 1782900385613,
-      "casino": 1789478333281,
+      "casino": 1789567935723,
       "igstalk": 1783260316271,
       "blacksmith": 1782894475731,
       "ngojek": 1782956151380,
@@ -96032,7 +96032,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5115,
+    "exp": 5100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105537,7 +105537,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2655,
+    "exp": 2685,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:06:06.558Z",
+    "lastSeen": "2026-09-16T14:11:52.399Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105565,7 +105565,9 @@
       "antimedia": 1789566420292,
       "addcmdsticker": 1789566487339,
       "bratimg": 1789567413808,
-      "del": 1789567518731
+      "del": 1789567518731,
+      "close": 1789567905443,
+      "open": 1789567912932
     },
     "clanId": null,
     "isRegistered": false,
@@ -123298,7 +123300,7 @@
   "6281939436338": {
     "jid": "6281939436338",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   },
   "628976535264": {
     "jid": "628976535264",
@@ -123312,16 +123314,6 @@
   },
   "6282275204720": {
     "jid": "6282275204720",
-    "rpg": {},
-    "exp": 30
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
     "rpg": {},
     "exp": 30
   },
@@ -123339,6 +123331,16 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
   },
   "6281269678790": {
     "jid": "6281269678790",
