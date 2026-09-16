@@ -112881,7 +112881,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9060,
+    "exp": 9075,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113919,7 +113919,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5715,
+    "exp": 5730,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114953,12 +114953,12 @@
   },
   "62895340450080": {
     "jid": "62895340450080",
-    "name": "Unknown",
+    "name": "kilam\"EX5",
     "number": "62895340450080",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16695,
+    "exp": 16710,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114968,8 +114968,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T06:33:10.016Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-16T12:17:18.112Z",
+    "cooldowns": {
+      "ut": 1789561038183
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -114985,7 +114987,9 @@
       "stamina": 105
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 1
   },
   "6285872028207": {
     "jid": "6285872028207",
