@@ -28897,8 +28897,8 @@
         "name": "munoz s.farm"
       },
       "6281262657079@s.whatsapp.net": {
-        "count": 3487,
-        "lastChat": 1789529393358,
+        "count": 3488,
+        "lastChat": 1789541074092,
         "name": "Leon Bethel"
       },
       "62859106778670@s.whatsapp.net": {
@@ -40607,8 +40607,8 @@
   "120363429702090177@g.us": {
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 859,
-        "lastChat": 1789541072670,
+        "count": 855,
+        "lastChat": 1789541032526,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -41288,5 +41288,11 @@
     "jid": "120363428874863498@g.us",
     "name": "𝗛𝗲𝗻𝘁𝗮𝗶 𝘃𝟲",
     "onlynsfw": true
+  },
+  "120363413361477719@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363413361477719@g.us"
   }
 }
