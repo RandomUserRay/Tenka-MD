@@ -119500,7 +119500,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1905,
+    "exp": 1920,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119510,7 +119510,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T08:37:22.077Z",
+    "lastSeen": "2026-09-16T08:40:58.288Z",
     "cooldowns": {
       "bratimg": 1789539531531,
       "menu": 1789547802797,
@@ -119526,7 +119526,8 @@
       "kick": 1789539092375,
       "qc": 1789539326516,
       "jadibot": 1789539406407,
-      "allmenu": 1789547757703
+      "allmenu": 1789547757703,
+      "music": 1789548058768
     },
     "clanId": null,
     "isRegistered": false,
