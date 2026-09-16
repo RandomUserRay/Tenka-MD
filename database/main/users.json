@@ -40277,12 +40277,12 @@
   },
   "6287712755893": {
     "jid": "6287712755893",
-    "name": "̶n ̶f̶o̶r miwt",
+    "name": "n ̶f̶o̶r miwt",
     "number": "6287712755893",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62565,
+    "exp": 62580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -40291,12 +40291,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-13T05:53:26.806Z",
+    "lastSeen": "2026-09-16T13:56:58.511Z",
     "cooldowns": {
       "allmenu": 1787978058894,
       "rob": 1784628880390,
       "jadibot": 1786817410360,
-      "kick": 1788348845864,
+      "kick": 1789567019188,
       "antispam": 1786280360569,
       "antitoxic": 1788343502905,
       "listtoxic": 1788343489952,
@@ -40332,8 +40332,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 8
   },
   "6285640264137": {
     "jid": "6285640264137",
@@ -105537,7 +105537,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2340,
+    "exp": 2310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105547,7 +105547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:56:57.262Z",
+    "lastSeen": "2026-09-16T13:56:23.029Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -111587,7 +111587,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18495,
+    "exp": 18480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113800,7 +113800,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27870,
+    "exp": 27855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114995,7 +114995,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17565,
+    "exp": 17550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121478,12 +121478,12 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {
-      "stamina": 25,
+      "stamina": 35,
       "bank": 16000
     },
-    "exp": 26849,
+    "exp": 25900,
     "name": "Edin",
-    "lastSeen": "2026-09-16T13:57:03.609Z",
+    "lastSeen": "2026-09-16T08:39:52.308Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789255637812,
@@ -121492,7 +121492,7 @@
       "tebakbendera": 1789472903468,
       "ngemis": 1789473207454,
       "casino": 1789478351744,
-      "work": 1789567027501,
+      "work": 1789547984792,
       "bank": 1789478341139,
       "transfer": 1789473546144,
       "judi": 1789474244002,
@@ -121502,7 +121502,7 @@
     "lastActiveDate": "16/9/2026",
     "activeDays": 3,
     "energi": 99999,
-    "koin": 22916
+    "koin": 13570
   },
   "6285771985823": {
     "jid": "6285771985823",
@@ -123313,6 +123313,16 @@
     "rpg": {},
     "exp": 30
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123327,16 +123337,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30
   },
   "6281269678790": {
     "jid": "6281269678790",
