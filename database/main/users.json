@@ -111293,9 +111293,9 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12435,
+    "exp": 12549,
     "level": 1,
-    "koin": 0,
+    "koin": 227,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111376,21 +111376,11 @@
       "health": 110,
       "mana": 105,
       "stamina": 75,
-      "attack": 10,
-      "kyubigame_session": {
-        "stage": "encounter",
-        "locationId": 1,
-        "locationName": "🍃 Desa Konoha",
-        "levelReq": 1,
-        "monster": "Bandit Liar",
-        "monsterPower": 17,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1789562205930
-      }
+      "attack": 10
     },
-    "inventory": {},
+    "inventory": {
+      "shuriken": 6
+    },
     "access": [],
     "lastActiveDate": "16/9/2026",
     "activeDays": 4,
@@ -112588,7 +112578,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8775,
+    "exp": 8790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
