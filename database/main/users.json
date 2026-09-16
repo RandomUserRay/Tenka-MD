@@ -111266,10 +111266,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000,
+    "exp": 9015,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111279,7 +111279,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T04:59:28.653Z",
+    "lastSeen": "2026-09-16T04:59:48.544Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111312,7 +111312,8 @@
       "setwelcome": 1789510286074,
       "delantilink": 1789514110268,
       "topchat": 1789514155525,
-      "antitoxic": 1789514988762
+      "antitoxic": 1789514988762,
+      "videy": 1789534788602
     },
     "clanId": null,
     "isRegistered": false,
