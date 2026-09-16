@@ -41166,7 +41166,7 @@
     "antitoxic": true,
     "toxicWarns": {
       "6287893710951@s.whatsapp.net": 1,
-      "6283844881941@s.whatsapp.net": 0
+      "6283844881941@s.whatsapp.net": 1
     },
     "toxicMethod": "kick",
     "toxicMaxWarn": 5,
@@ -41208,8 +41208,8 @@
   "120363428874863498@g.us": {
     "chatStats": {
       "12526912121@s.whatsapp.net": {
-        "count": 99,
-        "lastChat": 1789555716746,
+        "count": 98,
+        "lastChat": 1789555687297,
         "name": "Power"
       },
       "6283155414542@s.whatsapp.net": {
