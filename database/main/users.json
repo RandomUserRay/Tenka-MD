@@ -102331,7 +102331,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 254480,
+    "exp": 253430,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -104887,7 +104887,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48165,
+    "exp": 48315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104897,13 +104897,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T15:23:17.849Z",
+    "lastSeen": "2026-09-16T01:08:16.394Z",
     "cooldowns": {
       "menu": 1789469574213,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
-      "close": 1789484638573,
+      "close": 1789520781926,
       "open": 1789450121270,
       "bratbahlil": 1788623947058,
       "mutegc": 1789482646036,
@@ -104951,7 +104951,7 @@
       "tebaknegara": 1788769628236,
       "bego": 1788769651108,
       "warn": 1789112024158,
-      "h": 1789485798189,
+      "h": 1789520896442,
       "del": 1789450099759,
       "info": 1788878300051,
       "toxic": 1789005285317,
@@ -104975,8 +104975,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 12
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -105013,7 +105013,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8670,
+    "exp": 8805,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105023,7 +105023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T23:48:09.622Z",
+    "lastSeen": "2026-09-16T01:06:46.456Z",
     "cooldowns": {
       "brat": 1789008059573,
       "menu": 1789484634712,
@@ -105047,7 +105047,8 @@
       "asahotak": 1789483676290,
       "tagall": 1789483881761,
       "game": 1789484128139,
-      "close": 1789485695609
+      "close": 1789485695609,
+      "h": 1789520806481
     },
     "clanId": null,
     "isRegistered": false,
@@ -105057,8 +105058,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 3
   },
   "62882005885964": {
     "jid": "62882005885964",
