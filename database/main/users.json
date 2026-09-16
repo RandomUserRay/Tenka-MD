@@ -111292,7 +111292,7 @@
     "energi": 99981,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11130,
+    "exp": 11175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111390,7 +111390,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32520,
+    "exp": 32550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112572,7 +112572,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7935,
+    "exp": 7965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112582,11 +112582,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T22:23:54.547Z",
+    "lastSeen": "2026-09-16T12:02:38.769Z",
     "cooldowns": {
       "menu": 1789511033741,
       "owner": 1789511034576,
-      "allmenu": 1789481546326
+      "allmenu": 1789481546326,
+      "ut": 1789560158816
     },
     "clanId": null,
     "isRegistered": false,
@@ -112880,7 +112881,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8595,
+    "exp": 8610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123255,7 +123256,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   },
   "6285783885003": {
     "jid": "6285783885003",
