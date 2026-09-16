@@ -112881,7 +112881,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9090,
+    "exp": 9105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112891,9 +112891,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:16:47.804Z",
+    "lastSeen": "2026-09-16T12:18:16.120Z",
     "cooldowns": {
-      "ut": 1789561004444
+      "ut": 1789561097967
     },
     "clanId": null,
     "isRegistered": false,
