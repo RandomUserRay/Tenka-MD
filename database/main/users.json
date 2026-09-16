@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-16T07:51:22.462Z",
+    "lastSeen": "2026-09-16T07:52:59.376Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000058800,
+    "exp": 9000058875,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -102326,13 +102326,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-16T01:53:23.829Z",
+    "lastSeen": "2026-09-16T07:52:59.758Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 256430,
+    "exp": 256655,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102344,7 +102344,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "jadibot": 1789510910406,
-      "menu": 1788413680888,
+      "menu": 1789545168780,
       "stopjadibot": 1789510370896
     },
     "clanId": null,
@@ -105016,7 +105016,7 @@
     "energi": 100010,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17280,
+    "exp": 17265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105026,7 +105026,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T07:52:44.361Z",
+    "lastSeen": "2026-09-16T07:40:33.359Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -105063,7 +105063,7 @@
       "tebakgambar": 1789534625750,
       "tebaklagu": 1789534973774,
       "family100": 1789535195219,
-      "afk": 1789545166213,
+      "afk": 1789539496242,
       "antilinkgc": 1789543059150
     },
     "clanId": null,
