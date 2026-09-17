@@ -111333,7 +111333,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14669,
+    "exp": 14684,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111343,7 +111343,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:21:41.452Z",
+    "lastSeen": "2026-09-17T10:22:03.483Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111418,7 +111418,8 @@
       "delppgc": 1789623001520,
       "rpg": 1789633942876,
       "antiphising": 1789623157022,
-      "level": 1789640014695
+      "level": 1789640014695,
+      "setgoodbye": 1789640523701
     },
     "clanId": null,
     "isRegistered": false,
