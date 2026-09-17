@@ -2322,7 +2322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7455,
+    "exp": 7410,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -15995,7 +15995,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9351342,
+    "exp": 9351492,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -36056,7 +36056,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224720,
+    "exp": 224750,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -48097,7 +48097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60705,
+    "exp": 60795,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48175,7 +48175,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14715,
+    "exp": 14790,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90505,13 +90505,13 @@
   },
   "6288268008253": {
     "name": "Amba",
-    "lastSeen": "2026-09-17T08:29:30.135Z",
+    "lastSeen": "2026-09-17T04:13:56.497Z",
     "jid": "6288268008253",
     "number": "6288268008253",
-    "energi": 99996,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3046,
+    "exp": 3016,
     "level": 1,
     "koin": 100000000,
     "saldo": 0,
@@ -90529,8 +90529,7 @@
       "gojek": 1786706223082,
       "money": 1786706152968,
       "transfer": 1786706221920,
-      "s": 1789618441384,
-      "ship": 1789633770454
+      "s": 1789618441384
     },
     "clanId": null,
     "isRegistered": false,
@@ -102348,13 +102347,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T08:31:03.920Z",
+    "lastSeen": "2026-09-17T08:21:41.686Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272405,
+    "exp": 272030,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -111329,7 +111328,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14249,
+    "exp": 14264,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111647,12 +111646,12 @@
   },
   "6283844881941": {
     "jid": "6283844881941",
-    "name": "d'zev",
+    "name": "branz",
     "number": "6283844881941",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 420,
+    "exp": 450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111662,9 +111661,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:41:40.781Z",
+    "lastSeen": "2026-09-17T08:31:12.191Z",
     "cooldowns": {
-      "menu": 1789553625231,
+      "menu": 1789633877094,
       "ut": 1789555302794
     },
     "clanId": null,
@@ -111675,8 +111674,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 2
   },
   "62881010988540": {
     "jid": "62881010988540",
@@ -112899,7 +112898,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15540,
+    "exp": 15570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115028,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18090,
+    "exp": 18105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123360,7 +123359,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 2610,
+    "exp": 2625,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-17T06:33:41.387Z"
@@ -123373,18 +123372,6 @@
   },
   "6282275204720": {
     "jid": "6282275204720",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -123405,6 +123392,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
