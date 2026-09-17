@@ -111322,7 +111322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13694,
+    "exp": 13709,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111332,7 +111332,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T03:54:07.398Z",
+    "lastSeen": "2026-09-17T03:54:19.718Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111398,7 +111398,8 @@
       "cc": 1789617117199,
       "anticustom": 1789617130938,
       "p": 1789617184707,
-      "ping": 1789617196029
+      "ping": 1789617196029,
+      "notiftidur": 1789617259932
     },
     "clanId": null,
     "isRegistered": false,
