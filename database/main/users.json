@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645084,
+    "exp": 645009,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 228677,
+    "exp": 228812,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -49678,10 +49678,10 @@
     "jid": "62895422975851",
     "name": "˚₊‧꒰აchelss໒꒱ ‧₊˚",
     "number": "62895422975851",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64980,
+    "exp": 64995,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49690,10 +49690,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T01:00:59.132Z",
+    "lastSeen": "2026-09-17T12:19:04.509Z",
     "cooldowns": {
       "sticker": 1785637726308,
-      "stiker": 1789174863832,
+      "stiker": 1789647545448,
       "stickerpack": 1785643432263,
       "play": 1787626711466,
       "ytmp4": 1785676337814,
@@ -49725,8 +49725,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 5
   },
   "6283179051259": {
     "jid": "6283179051259",
@@ -52751,7 +52751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37561,
+    "exp": 37651,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95833,13 +95833,13 @@
   },
   "6285817724197": {
     "name": "Fael",
-    "lastSeen": "2026-09-17T12:14:35.015Z",
+    "lastSeen": "2026-09-17T12:19:22.924Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2970,
+    "exp": 2985,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95886,7 +95886,8 @@
       "cektsundere": 1789514318241,
       "ping": 1789518815610,
       "tiktokstalk": 1789518895997,
-      "igstalk": 1789519039994
+      "igstalk": 1789519039994,
+      "rvo": 1789647567327
     },
     "clanId": null,
     "isRegistered": false,
@@ -111478,7 +111479,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36645,
+    "exp": 36675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120022,7 +120023,7 @@
     "jid": "6285624830105",
     "energi": 99999,
     "rpg": {},
-    "exp": 2115,
+    "exp": 2130,
     "name": "kan",
     "lastSeen": "2026-09-13T09:56:18.944Z",
     "cooldowns": {
@@ -120043,7 +120044,7 @@
     "jid": "6283180744202",
     "energi": 99999,
     "rpg": {},
-    "exp": 300
+    "exp": 405
   },
   "6285126089692": {
     "jid": "6285126089692",
@@ -120095,7 +120096,7 @@
   "6289670197563": {
     "jid": "6289670197563",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "energi": 99999
   },
   "62882016531448": {
@@ -120277,7 +120278,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 6525,
+    "exp": 6660,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -121878,7 +121879,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12330,
+    "exp": 12345,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:18:42.554Z",
     "energi": 99999
@@ -123437,18 +123438,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123465,6 +123454,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
