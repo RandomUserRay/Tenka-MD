@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-17T11:50:56.994Z",
+    "lastSeen": "2026-09-17T12:44:39.842Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000064650,
+    "exp": 9000064875,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -11522,7 +11522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33049,
+    "exp": 33064,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -15995,7 +15995,7 @@
     "energi": 99990,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9355677,
+    "exp": 9355602,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34196,7 +34196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281655,
+    "exp": 281550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -53823,10 +53823,10 @@
     "jid": "6289686415537",
     "name": "smpak goreng",
     "number": "6289686415537",
-    "energi": 99997,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 216880,
+    "exp": 216940,
     "level": 1,
     "koin": 15029,
     "unlockedFeatures": [],
@@ -53835,7 +53835,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:44:21.462Z",
+    "lastSeen": "2026-09-17T12:45:55.810Z",
     "cooldowns": {
       "menu": 1788246800636,
       "allmenu": 1784039265885,
@@ -53850,7 +53850,7 @@
       "hytamkan": 1784466501133,
       "galaxystyle": 1784466739906,
       "top5": 1785922164995,
-      "play": 1789649072734,
+      "play": 1789649136425,
       "ytmp4": 1786976003356,
       "igstalk": 1788257007597
     },
@@ -120067,7 +120067,7 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 1080,
+    "exp": 1095,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-11T14:21:26.615Z",
     "cooldowns": {
@@ -123440,6 +123440,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123456,18 +123468,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
