@@ -28565,7 +28565,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295526,
+    "exp": 295541,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28576,7 +28576,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T13:26:53.262Z",
+    "lastSeen": "2026-09-17T13:27:10.086Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28737,7 +28737,8 @@
       "deltoxic": 1788264963510,
       "pakustad": 1788354653725,
       "playvid": 1788950603486,
-      "jadwalmakan": 1789651614309
+      "jadwalmakan": 1789651614309,
+      "notifmakan": 1789651630824
     },
     "clanId": null,
     "isRegistered": false,
@@ -102375,7 +102376,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276230,
+    "exp": 276305,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
