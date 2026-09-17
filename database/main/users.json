@@ -70406,7 +70406,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37346,
+    "exp": 37361,
     "level": 1,
     "koin": 256864,
     "unlockedFeatures": [],
@@ -70415,7 +70415,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:16:50.398Z",
+    "lastSeen": "2026-09-17T06:13:26.535Z",
     "cooldowns": {
       "afk": 1786702437821,
       "smeme": 1785571766513,
@@ -70435,7 +70435,7 @@
       "mancing": 1788528638892,
       "inv": 1788528646345,
       "claim": 1788528640406,
-      "freelance": 1788513432486,
+      "freelance": 1789625611362,
       "info": 1785477780986,
       "owner": 1785571703435,
       "menucat": 1786086521633,
@@ -70464,7 +70464,7 @@
       "maxHealth": 130,
       "mana": 115,
       "maxMana": 115,
-      "stamina": 105,
+      "stamina": 80,
       "maxStamina": 115,
       "garden": {
         "plots": [
@@ -70490,8 +70490,8 @@
       "jadiPacar": 1785419925220,
       "terimaCount": 1
     },
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 6
   },
   "6287793284347": {
     "jid": "6287793284347",
