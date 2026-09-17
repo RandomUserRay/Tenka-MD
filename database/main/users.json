@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279005,
+    "exp": 279020,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20332,7 +20332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16165,
+    "exp": 16210,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230252,
+    "exp": 230312,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -26511,7 +26511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168081,
+    "exp": 168066,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -41091,7 +41091,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283589,
+    "exp": 283559,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -53850,7 +53850,7 @@
       "hytamkan": 1784466501133,
       "galaxystyle": 1784466739906,
       "top5": 1785922164995,
-      "play": 1789649386140,
+      "play": 1789649181634,
       "ytmp4": 1786976003356,
       "igstalk": 1788257007597
     },
@@ -54169,7 +54169,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14076,
+    "exp": 14046,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -121881,7 +121881,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13410,
+    "exp": 13425,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
@@ -123440,18 +123440,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123468,6 +123456,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
