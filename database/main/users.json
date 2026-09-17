@@ -28565,7 +28565,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295511,
+    "exp": 295526,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28576,7 +28576,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T11:16:07.892Z",
+    "lastSeen": "2026-09-17T13:26:53.262Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28736,7 +28736,8 @@
       "addtoxic": 1788264889177,
       "deltoxic": 1788264963510,
       "pakustad": 1788354653725,
-      "playvid": 1788950603486
+      "playvid": 1788950603486,
+      "jadwalmakan": 1789651614309
     },
     "clanId": null,
     "isRegistered": false,
@@ -28772,8 +28773,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 13
   },
   "6285810482980": {
     "jid": "6285810482980",
@@ -102368,13 +102369,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T13:26:19.940Z",
+    "lastSeen": "2026-09-17T13:26:27.294Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276155,
+    "exp": 276230,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
