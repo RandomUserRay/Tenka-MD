@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 276680,
+    "exp": 276755,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19685,7 +19685,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:28:23.810Z",
+    "lastSeen": "2026-09-17T10:32:10.004Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1789640572320,
@@ -19788,7 +19788,7 @@
       "absen": 1789312930309,
       "totalchat": 1789382607088,
       "unmute": 1789466770746,
-      "unmutegc": 1789640635882
+      "unmutegc": 1789641130227
     },
     "clanId": null,
     "isRegistered": false,
@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26340,
+    "exp": 26460,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -19834,9 +19834,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:26:11.616Z",
+    "lastSeen": "2026-09-17T10:32:20.815Z",
     "cooldowns": {
-      "menu": 1789640696818,
+      "menu": 1789641136493,
       "ww": 1782363158999,
       "me": 1784114386038,
       "cantik": 1782364416194,
@@ -20723,7 +20723,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7820,
+    "exp": 7850,
     "level": 1,
     "koin": 10000,
     "unlockedFeatures": [],
@@ -41087,7 +41087,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283574,
+    "exp": 283559,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -51027,12 +51027,12 @@
   },
   "628871508866": {
     "jid": "628871508866",
-    "name": "ini nelyn",
+    "name": "soyaa",
     "number": "628871508866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70947,
+    "exp": 70962,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -51041,7 +51041,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-27T07:11:32.540Z",
+    "lastSeen": "2026-09-17T10:32:30.405Z",
     "cooldowns": {
       "me": 1784450626141,
       "jodoh": 1784382647471,
@@ -51064,7 +51064,8 @@
       "afk": 1784398228212,
       "ngamen": 1784449981909,
       "bratimg": 1784398091766,
-      "copet": 1784450543666
+      "copet": 1784450543666,
+      "menu": 1789641152047
     },
     "clanId": null,
     "isRegistered": false,
@@ -51088,7 +51089,9 @@
       "jadiPacar": 1784390189653,
       "terimaCount": 2
     },
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 1
   },
   "6283183096223": {
     "jid": "6283183096223",
@@ -111338,7 +111341,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14744,
+    "exp": 14819,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111348,7 +111351,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:22:50.107Z",
+    "lastSeen": "2026-09-17T10:32:44.999Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111425,7 +111428,8 @@
       "antiphising": 1789623157022,
       "level": 1789640014695,
       "setgoodbye": 1789640523701,
-      "setppgc": 1789640571121
+      "setppgc": 1789640571121,
+      "game": 1789641165107
     },
     "clanId": null,
     "isRegistered": false,
@@ -111869,7 +111873,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2325,
+    "exp": 2355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111950,7 +111954,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6855,
+    "exp": 6885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120003,7 +120007,7 @@
     "jid": "6285624830105",
     "energi": 99999,
     "rpg": {},
-    "exp": 900,
+    "exp": 915,
     "name": "kan",
     "lastSeen": "2026-09-13T09:56:18.944Z",
     "cooldowns": {
@@ -123416,18 +123420,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123444,6 +123436,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
