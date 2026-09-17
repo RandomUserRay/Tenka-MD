@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279215,
+    "exp": 279140,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20332,7 +20332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16315,
+    "exp": 16255,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230597,
+    "exp": 230432,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -26511,7 +26511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168066,
+    "exp": 168171,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -34196,7 +34196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281565,
+    "exp": 281550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -41091,7 +41091,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283559,
+    "exp": 283604,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105059,7 +105059,7 @@
     "energi": 100026,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19995,
+    "exp": 19965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112060,7 +112060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1110,
+    "exp": 1095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120352,7 +120352,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 780,
+    "exp": 765,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121835,7 +121835,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 3585,
+    "exp": 3570,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -123440,6 +123440,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123456,18 +123468,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
