@@ -28,7 +28,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-09-17T17:00:00.035Z",
+  "lastLimitReset": "2026-09-17T17:00:00.158Z",
   "onlyThisGroup": false,
   "autoJpm": {
     "enabled": false,
@@ -25311,8 +25311,7 @@
         "00:00_2026-09-12": true,
         "00:00_2026-09-13": true,
         "00:00_2026-09-14": true,
-        "00:00_2026-09-16": true,
-        "00:00_2026-09-17": true
+        "00:00_2026-09-16": true
       },
       "createdAt": 1788714774255
     },
