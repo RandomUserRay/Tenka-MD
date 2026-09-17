@@ -6011,7 +6011,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31145,
+    "exp": 31160,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 277670,
+    "exp": 277760,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19685,7 +19685,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:40:03.725Z",
+    "lastSeen": "2026-09-17T10:54:40.704Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1789640572320,
@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28260,
+    "exp": 28380,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -19950,7 +19950,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 149953,
+    "exp": 150088,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -19959,7 +19959,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:52:05.725Z",
+    "lastSeen": "2026-09-17T10:54:55.467Z",
     "cooldowns": {
       "ww": 1782493426219,
       "cute": 1783741118327,
@@ -19992,7 +19992,7 @@
       "ngojek": 1784341361130,
       "tebakbendera": 1783836766299,
       "casino": 1784443023155,
-      "top": 1784444618854,
+      "top": 1789642495672,
       "ngemis": 1784340898424,
       "transfer": 1784444517540,
       "pacar": 1784341070465,
@@ -20006,13 +20006,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 15,
-      "maxHealth": 240,
-      "maxMana": 170,
-      "maxStamina": 170,
-      "health": 240,
-      "mana": 170,
-      "stamina": 105
+      "level": 16,
+      "maxHealth": 250,
+      "maxMana": 175,
+      "maxStamina": 175,
+      "health": 250,
+      "mana": 175,
+      "stamina": 175
     },
     "inventory": {},
     "access": [],
@@ -20021,8 +20021,8 @@
       "tembakCount": 2
     },
     "saldo": 0,
-    "lastActiveDate": "13/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 3
   },
   "6287869159160": {
     "jid": "6287869159160",
@@ -20173,7 +20173,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52949,
+    "exp": 53024,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20331,7 +20331,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15730,
+    "exp": 15775,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -20390,7 +20390,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227522,
+    "exp": 227567,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20723,7 +20723,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8870,
+    "exp": 8930,
     "level": 1,
     "koin": 10000,
     "unlockedFeatures": [],
@@ -59460,7 +59460,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2505,
+    "exp": 2580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -98984,7 +98984,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2220,
+    "exp": 2205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101966,7 +101966,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12384,
+    "exp": 12399,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111876,7 +111876,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3525,
+    "exp": 3615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111914,7 +111914,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16650,
+    "exp": 16770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111957,7 +111957,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8070,
+    "exp": 8160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120010,7 +120010,7 @@
     "jid": "6285624830105",
     "energi": 99999,
     "rpg": {},
-    "exp": 1425,
+    "exp": 1455,
     "name": "kan",
     "lastSeen": "2026-09-13T09:56:18.944Z",
     "cooldowns": {
@@ -121818,7 +121818,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 2295,
+    "exp": 2415,
     "name": "Kemal",
     "lastSeen": "2026-09-17T10:48:22.896Z",
     "energi": 99999
@@ -123423,18 +123423,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123451,6 +123439,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123592,7 +123592,7 @@
   "6282385151127": {
     "jid": "6282385151127",
     "rpg": {},
-    "exp": 1035,
+    "exp": 1140,
     "name": "by",
     "lastSeen": "2026-09-17T10:50:36.967Z"
   },
@@ -123604,6 +123604,6 @@
   "6282295518499": {
     "jid": "6282295518499",
     "rpg": {},
-    "exp": 195
+    "exp": 240
   }
 }
