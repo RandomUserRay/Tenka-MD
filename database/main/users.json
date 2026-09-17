@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27150,
+    "exp": 27165,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -19950,7 +19950,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 149368,
+    "exp": 149383,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -51032,7 +51032,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71637,
+    "exp": 71652,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -120010,7 +120010,7 @@
     "jid": "6285624830105",
     "energi": 99999,
     "rpg": {},
-    "exp": 1200,
+    "exp": 1215,
     "name": "kan",
     "lastSeen": "2026-09-13T09:56:18.944Z",
     "cooldowns": {
@@ -123597,6 +123597,6 @@
   "6285123776560": {
     "jid": "6285123776560",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   }
 }
