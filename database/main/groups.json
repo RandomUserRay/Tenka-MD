@@ -18637,8 +18637,8 @@
     "chat": {},
     "chatStats": {
       "6282193635458@s.whatsapp.net": {
-        "count": 3731,
-        "lastChat": 1789616153484,
+        "count": 3730,
+        "lastChat": 1789616006956,
         "name": "Jard🤤"
       },
       "6289665332624@s.whatsapp.net": {
@@ -35206,8 +35206,8 @@
         "name": "\"Ipin mobi\"⌨️🖱️📱"
       },
       "6285709953593@s.whatsapp.net": {
-        "count": 113,
-        "lastChat": 1789603914570,
+        "count": 114,
+        "lastChat": 1789616170169,
         "name": "izz"
       },
       "6282190350878@s.whatsapp.net": {
@@ -37140,8 +37140,8 @@
   "120363409996391404@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 846,
-        "lastChat": 1789566837608,
+        "count": 847,
+        "lastChat": 1789616186965,
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
@@ -38099,7 +38099,9 @@
     "chat": {},
     "welcomeMsg": "╭─ 🌍 ALL OVER THE WORLD 💫 ─╮\n│ WELCOME TO OUR VIRTUAL WORLD!\n╰──────────────────╯\n\nHALOOO NEW MEMBER!! 👋🏻😹\nSelamat datang di AOTW 🌍💫\nSebelum resmi menjelajah dunia kita, yuk kenalan duluu biar gak jadi orang asing 😭☝🏻\n\n> ⌗ INTRO MEMBER BARU 📋\n\n\n\n୨୧ Nama :\n୨୧ Umur :\n୨୧ Gender :\n୨୧ Askot :\n୨୧ Kelas :\n୨୧ Hobi :\n୨୧ Fav warna :\n୨୧ Status :\n\n╰┈➤ Different place, same vibe! 🌍\nDari kota yang berbeda, sekolah yang berbeda, tapi sekarang satu grup dan satu dunia 😎🤝🏻\n\nJANGAN MALU-MALUU, JANGAN JADI SILENT READER MULU 😭☝🏻\nKenalan, bercanda, cari bestie, dan bikin kenangan bareng di sini!!\n\n🌍 WELCOME TO ALL OVER THE WORLD",
     "toxicMethod": "kick",
-    "toxicMaxWarn": 10
+    "toxicMaxWarn": 10,
+    "antilinkgc": "on",
+    "antilinkgcMode": "remove"
   },
   "120363429170157218@g.us": {
     "chatStats": {
@@ -40468,8 +40470,8 @@
   "120363211173061664@g.us": {
     "chatStats": {
       "6283822995454@s.whatsapp.net": {
-        "count": 194,
-        "lastChat": 1789616068506,
+        "count": 193,
+        "lastChat": 1789615956843,
         "name": "Hu"
       },
       "120363211173061664@g.us": {
@@ -41290,8 +41292,8 @@
   "120363429331407532@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 97,
-        "lastChat": 1789611796546,
+        "count": 98,
+        "lastChat": 1789616193719,
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
@@ -41374,8 +41376,8 @@
   "120363428874863498@g.us": {
     "chatStats": {
       "12526912121@s.whatsapp.net": {
-        "count": 432,
-        "lastChat": 1789616068908,
+        "count": 431,
+        "lastChat": 1789615851185,
         "name": "Power"
       },
       "6283155414542@s.whatsapp.net": {
@@ -41409,13 +41411,13 @@
         "name": "𝙉𝙤𝙘𝙩𝙞𝙨 𝙠𝙖𝙜𝙚 𝙄𝙢𝙥𝙚𝙧𝙞𝙪𝙢"
       },
       "6283822995454@s.whatsapp.net": {
-        "count": 387,
-        "lastChat": 1789616081535,
+        "count": 386,
+        "lastChat": 1789616039438,
         "name": "Hu"
       },
       "6285166946241@s.whatsapp.net": {
-        "count": 91,
-        "lastChat": 1789616181560,
+        "count": 88,
+        "lastChat": 1789616022516,
         "name": "!?"
       },
       "6289636720116@s.whatsapp.net": {
@@ -41474,8 +41476,8 @@
         "name": "持っている"
       },
       "60134066732@s.whatsapp.net": {
-        "count": 132,
-        "lastChat": 1789616151267,
+        "count": 129,
+        "lastChat": 1789582144334,
         "name": ". btk"
       },
       "6285381670977@s.whatsapp.net": {
@@ -41949,8 +41951,8 @@
   "120363428633492982@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 30,
-        "lastChat": 1789597982857,
+        "count": 34,
+        "lastChat": 1789616158408,
         "name": "a"
       },
       "6283873327063@s.whatsapp.net": {
@@ -41965,7 +41967,9 @@
       }
     },
     "jid": "120363428633492982@g.us",
-    "name": "TEST BOT WA"
+    "name": "TEST BOT WA",
+    "antilinkgc": "on",
+    "antilinkgcMode": "remove"
   },
   "120363429673739566@g.us": {
     "chatStats": {
