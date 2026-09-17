@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 644784,
+    "exp": 644709,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -105034,10 +105034,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18840,
+    "exp": 18870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105047,11 +105047,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:17:13.855Z",
+    "lastSeen": "2026-09-17T04:56:57.820Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
-      "bratimg": 1789560330786,
+      "bratimg": 1789621023299,
       "kick": 1789539049106,
       "admin": 1789485533196,
       "bratvid": 1789544435374,
@@ -105103,8 +105103,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 4
   },
   "62882005885964": {
     "jid": "62882005885964",
@@ -123219,7 +123219,7 @@
     "lastSeen": "2026-09-15T22:02:30.401Z",
     "jid": "6281533725017",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1125,
     "lastActiveDate": "16/9/2026",
     "activeDays": 1,
     "energi": 99999
@@ -123362,18 +123362,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123390,6 +123378,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
