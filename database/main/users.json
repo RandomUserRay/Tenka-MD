@@ -119618,10 +119618,10 @@
     "jid": "6282254416963",
     "name": "r",
     "number": "6282254416963",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2370,
+    "exp": 2385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119631,9 +119631,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:14:27.919Z",
+    "lastSeen": "2026-09-17T05:41:54.720Z",
     "cooldowns": {
-      "bratimg": 1789568071008,
+      "bratimg": 1789623719042,
       "menu": 1789567243304,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
@@ -119662,8 +119662,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 3
   },
   "6281262488900": {
     "jid": "6281262488900",
@@ -121867,7 +121867,7 @@
   "6281935901496": {
     "jid": "6281935901496",
     "rpg": {},
-    "exp": 480,
+    "exp": 510,
     "energi": 99999
   },
   "6289672234058": {
