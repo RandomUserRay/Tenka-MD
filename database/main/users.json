@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000064725,
+    "exp": 9000064575,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -2322,7 +2322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7470,
+    "exp": 7440,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -25312,10 +25312,10 @@
     "jid": "6285752851847",
     "name": "Mr.nazriel",
     "number": "6285752851847",
-    "energi": 99992,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 104384,
+    "exp": 104414,
     "level": 1,
     "koin": 938,
     "unlockedFeatures": [],
@@ -25324,7 +25324,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T11:32:30.652Z",
+    "lastSeen": "2026-09-17T11:46:41.749Z",
     "cooldowns": {
       "kind": 1782744953366,
       "femboy": 1786877110068,
@@ -25405,7 +25405,7 @@
       "warn": 1786939389433,
       "resetwarn": 1786781455675,
       "battle": 1786876951529,
-      "tiktok": 1789644757772,
+      "tiktok": 1789645603108,
       "playvideo": 1789049608978,
       "ship": 1789051725396,
       "h": 1789197034838,
@@ -34196,7 +34196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281235,
+    "exp": 281280,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36067,7 +36067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225140,
+    "exp": 225155,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -41091,7 +41091,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283589,
+    "exp": 283559,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -90250,7 +90250,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30795,
+    "exp": 30780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106997,7 +106997,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111478,7 +111478,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35910,
+    "exp": 35940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111520,7 +111520,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6660,
+    "exp": 6675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121876,7 +121876,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12030,
+    "exp": 12045,
     "name": "elnao tifosi",
     "lastSeen": "2026-09-13T09:18:28.895Z",
     "energi": 99999
@@ -123435,18 +123435,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123463,6 +123451,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
