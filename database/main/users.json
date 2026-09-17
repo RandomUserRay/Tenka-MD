@@ -49678,10 +49678,10 @@
     "jid": "62895422975851",
     "name": "˚₊‧꒰აchelss໒꒱ ‧₊˚",
     "number": "62895422975851",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64980,
+    "exp": 64995,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49690,10 +49690,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T01:00:59.132Z",
+    "lastSeen": "2026-09-17T12:19:04.509Z",
     "cooldowns": {
       "sticker": 1785637726308,
-      "stiker": 1789174863832,
+      "stiker": 1789647545448,
       "stickerpack": 1785643432263,
       "play": 1787626711466,
       "ytmp4": 1785676337814,
@@ -49725,8 +49725,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 5
   },
   "6283179051259": {
     "jid": "6283179051259",
@@ -120043,7 +120043,7 @@
     "jid": "6283180744202",
     "energi": 99999,
     "rpg": {},
-    "exp": 300
+    "exp": 330
   },
   "6285126089692": {
     "jid": "6285126089692",
@@ -120095,7 +120095,7 @@
   "6289670197563": {
     "jid": "6289670197563",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "energi": 99999
   },
   "62882016531448": {
@@ -120277,7 +120277,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 6525,
+    "exp": 6540,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
