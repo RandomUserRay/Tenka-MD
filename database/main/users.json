@@ -73024,12 +73024,12 @@
   },
   "6285822938264": {
     "jid": "6285822938264",
-    "name": "Albar koar koar",
+    "name": "elaina",
     "number": "6285822938264",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9525,
+    "exp": 9555,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73038,7 +73038,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-27T14:27:17.718Z",
+    "lastSeen": "2026-09-17T08:57:08.317Z",
     "cooldowns": {
       "jadibot": 1787833057358
     },
@@ -115027,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18195,
+    "exp": 18180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123377,6 +123377,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123393,18 +123405,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123509,6 +123509,6 @@
   "6288266264810": {
     "jid": "6288266264810",
     "rpg": {},
-    "exp": 45
+    "exp": 30
   }
 }
