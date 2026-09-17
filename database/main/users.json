@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000064725,
+    "exp": 9000064650,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -3043,7 +3043,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 701636,
+    "exp": 701621,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -11522,7 +11522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33139,
+    "exp": 33049,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11531,7 +11531,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:34:51.559Z",
+    "lastSeen": "2026-09-12T11:50:02.918Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 229862,
+    "exp": 230027,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20500,13 +20500,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 23,
-      "maxHealth": 320,
-      "maxMana": 210,
-      "maxStamina": 210,
-      "health": 320,
-      "mana": 210,
-      "stamina": 210,
+      "level": 24,
+      "maxHealth": 330,
+      "maxMana": 215,
+      "maxStamina": 215,
+      "health": 330,
+      "mana": 215,
+      "stamina": 215,
       "bank": 60647,
       "expeditions": [],
       "garden": {
@@ -54164,12 +54164,12 @@
   },
   "6283857834910": {
     "jid": "6283857834910",
-    "name": "Aoi Mizuhara",
+    "name": "ル",
     "number": "6283857834910",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14061,
+    "exp": 14046,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54178,7 +54178,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:35:03.723Z",
+    "lastSeen": "2026-09-12T11:50:06.180Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54202,7 +54202,7 @@
       "cekfemboy": 1789135786498,
       "pin": 1788353518587,
       "me": 1788354216245,
-      "marry": 1789648504391,
+      "marry": 1789135949843,
       "bank": 1789213562881,
       "profil": 1789119243016,
       "deposit": 1789119722960,
@@ -54235,8 +54235,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 4
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -93746,7 +93746,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645,
+    "exp": 630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111928,7 +111928,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17895,
+    "exp": 17910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120098,7 +120098,7 @@
   "6289670197563": {
     "jid": "6289670197563",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "62882016531448": {
@@ -120352,7 +120352,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 630,
+    "exp": 660,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121835,7 +121835,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 3555,
+    "exp": 3570,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121881,9 +121881,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13020,
+    "exp": 13260,
     "name": "elnao",
-    "lastSeen": "2026-09-17T12:18:42.554Z",
+    "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
   },
   "6283160324169": {
@@ -123440,18 +123440,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123468,6 +123456,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
