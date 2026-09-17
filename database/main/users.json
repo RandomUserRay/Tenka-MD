@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000064350,
+    "exp": 9000064275,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -15995,7 +15995,7 @@
     "energi": 99991,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9353427,
+    "exp": 9353052,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16677,7 +16677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4335,
+    "exp": 4350,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 278765,
+    "exp": 278750,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -36067,7 +36067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224960,
+    "exp": 224945,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -59464,7 +59464,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2700,
+    "exp": 2685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66907,7 +66907,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169460,
+    "exp": 169475,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -121875,7 +121875,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11925,
+    "exp": 11910,
     "name": "elnao tifosi",
     "lastSeen": "2026-09-13T09:18:28.895Z",
     "energi": 99999
@@ -123434,6 +123434,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123450,18 +123462,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
