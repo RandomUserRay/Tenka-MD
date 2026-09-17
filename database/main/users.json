@@ -15995,7 +15995,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9351342,
+    "exp": 9351417,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -36056,7 +36056,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224720,
+    "exp": 224765,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -40284,7 +40284,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62640,
+    "exp": 62625,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66892,9 +66892,9 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169340,
+    "exp": 169325,
     "level": 1,
-    "koin": 100000000,
+    "koin": 0,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66907,7 +66907,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T08:22:41.891Z",
+    "lastSeen": "2026-09-17T04:50:45.729Z",
     "cooldowns": {
       "afk": 1789480585166,
       "s": 1789620693519,
@@ -66920,7 +66920,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789633363934,
+      "bank": 1789475076686,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67001,7 +67001,7 @@
       "maxMana": 180,
       "stamina": 100,
       "maxStamina": 180,
-      "bank": 1351737524,
+      "bank": 1451737524,
       "attack": 21,
       "spouse": null,
       "marriedAt": null,
@@ -76500,7 +76500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6157,
+    "exp": 6172,
     "level": 1,
     "koin": 2494,
     "unlockedFeatures": [],
@@ -102347,13 +102347,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T08:21:41.686Z",
+    "lastSeen": "2026-09-17T08:19:22.579Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272030,
+    "exp": 271955,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -115027,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18090,
+    "exp": 18105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123376,18 +123376,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123404,6 +123392,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
