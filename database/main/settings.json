@@ -518,6 +518,17 @@
         "07:00_2026-09-17": true
       },
       "createdAt": 1789483541405
+    },
+    "6288804612621@s.whatsapp.net_120363429702701038@g.us": {
+      "sender": "6288804612621@s.whatsapp.net",
+      "chatJid": "120363429702701038@g.us",
+      "jadwal": [
+        "12:00"
+      ],
+      "menu": "mbg",
+      "enabled": true,
+      "lastSent": {},
+      "createdAt": 1789679700964
     }
   },
   "storeProducts": [
