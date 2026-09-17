@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28815,
+    "exp": 28830,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -19951,7 +19951,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150493,
+    "exp": 150508,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -20174,7 +20174,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53069,
+    "exp": 53084,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20332,7 +20332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16000,
+    "exp": 16015,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -51034,7 +51034,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71967,
+    "exp": 71982,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -73073,7 +73073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8430,
+    "exp": 8445,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101969,7 +101969,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12549,
+    "exp": 12564,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111960,7 +111960,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8475,
+    "exp": 8490,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120240,7 +120240,7 @@
   "6285930092723": {
     "jid": "6285930092723",
     "rpg": {},
-    "exp": 630,
+    "exp": 645,
     "energi": 99999
   },
   "6281993144833": {
@@ -121868,7 +121868,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11715,
+    "exp": 11730,
     "name": "elnao tifosi",
     "lastSeen": "2026-09-13T09:18:28.895Z",
     "energi": 99999
@@ -123612,6 +123612,11 @@
   },
   "6281528966641": {
     "jid": "6281528966641",
+    "rpg": {},
+    "exp": 30
+  },
+  "6281222004016": {
+    "jid": "6281222004016",
     "rpg": {},
     "exp": 30
   }
