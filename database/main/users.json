@@ -67003,8 +67003,8 @@
       "maxStamina": 180,
       "bank": 1351737524,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6288268008253@s.whatsapp.net",
+      "marriedAt": 1789636579529,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -90413,7 +90413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 945,
+    "exp": 990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90505,15 +90505,15 @@
   },
   "6288268008253": {
     "name": "Amba",
-    "lastSeen": "2026-09-17T09:15:59.648Z",
+    "lastSeen": "2026-09-17T09:16:19.529Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3061,
+    "exp": 3091,
     "level": 1,
-    "koin": 150000,
+    "koin": 100000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -90530,7 +90530,9 @@
       "money": 1786706152968,
       "transfer": 1786706221920,
       "s": 1789618441384,
-      "bank": 1789636561666
+      "bank": 1789636561666,
+      "cerai": 1789636569782,
+      "marry": 1789636579629
     },
     "clanId": null,
     "isRegistered": false,
@@ -90540,7 +90542,9 @@
     "rpg": {
       "stamina": 60,
       "health": 85,
-      "bank": 99850000
+      "bank": 99850000,
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1789636579529
     },
     "inventory": {},
     "access": [],
