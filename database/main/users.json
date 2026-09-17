@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53470,
+    "exp": 53485,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -15995,7 +15995,7 @@
     "energi": 99991,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9353652,
+    "exp": 9353502,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 278825,
+    "exp": 278810,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -34196,7 +34196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 280785,
+    "exp": 280740,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43651,7 +43651,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 705,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111477,7 +111477,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35700,
+    "exp": 35685,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111581,7 +111581,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11490,
+    "exp": 11475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123434,6 +123434,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123450,18 +123462,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
