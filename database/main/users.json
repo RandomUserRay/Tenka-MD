@@ -111322,7 +111322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13394,
+    "exp": 13409,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111332,7 +111332,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T03:34:55.883Z",
+    "lastSeen": "2026-09-17T03:35:12.137Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111392,7 +111392,8 @@
       "allgame": 1789562168177,
       "kyubigame": 1789562299784,
       "quiz": 1789562444855,
-      "tebakkimia": 1789562618721
+      "tebakkimia": 1789562618721,
+      "antilinkgc": 1789616112495
     },
     "clanId": null,
     "isRegistered": false,
@@ -111413,8 +111414,8 @@
       "shuriken": 6
     },
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 4,
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 5,
     "fun": {
       "tembakTarget": "6285150979843@s.whatsapp.net",
       "tembakCount": 1
