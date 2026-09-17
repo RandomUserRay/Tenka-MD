@@ -2322,7 +2322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7440,
+    "exp": 7425,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -111328,7 +111328,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14429,
+    "exp": 14444,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111338,7 +111338,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T08:36:48.310Z",
+    "lastSeen": "2026-09-17T08:37:25.180Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111373,7 +111373,7 @@
       "topchat": 1789514155525,
       "antitoxic": 1789514988762,
       "videy": 1789534788602,
-      "tagall": 1789540900354,
+      "tagall": 1789634245262,
       "slowmode": 1789623256016,
       "mutegc": 1789553648668,
       "mutemember": 1789634157262,
@@ -111651,7 +111651,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115027,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18120,
+    "exp": 18135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123376,18 +123376,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123404,6 +123392,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
