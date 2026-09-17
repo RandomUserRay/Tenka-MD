@@ -11522,7 +11522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33079,
+    "exp": 33094,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -20332,7 +20332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16180,
+    "exp": 16165,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -36067,7 +36067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225380,
+    "exp": 225335,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -53823,10 +53823,10 @@
     "jid": "6289686415537",
     "name": "smpak goreng",
     "number": "6289686415537",
-    "energi": 99991,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 217030,
+    "exp": 217060,
     "level": 1,
     "koin": 15029,
     "unlockedFeatures": [],
@@ -53835,7 +53835,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:46:16.554Z",
+    "lastSeen": "2026-09-17T12:49:34.482Z",
     "cooldowns": {
       "menu": 1788246800636,
       "allmenu": 1784039265885,
@@ -111585,7 +111585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12060,
+    "exp": 12045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119910,7 +119910,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 990,
+    "exp": 1005,
     "energi": 99999
   },
   "6285785063453": {
@@ -121881,7 +121881,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13440,
+    "exp": 13410,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
@@ -123440,6 +123440,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123456,18 +123468,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123657,5 +123657,10 @@
     "jid": "628136583684",
     "rpg": {},
     "exp": 15
+  },
+  "6281537475917": {
+    "jid": "6281537475917",
+    "rpg": {},
+    "exp": 30
   }
 }
