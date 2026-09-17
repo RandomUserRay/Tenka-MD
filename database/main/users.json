@@ -62507,10 +62507,10 @@
     "jid": "6289504621246",
     "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
     "number": "6289504621246",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16665,
+    "exp": 16680,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -62519,7 +62519,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T21:57:34.801Z",
+    "lastSeen": "2026-09-17T21:58:11.467Z",
     "cooldowns": {
       "afk": 1788613388224,
       "d": 1784339008980,
@@ -62548,7 +62548,8 @@
       "ytmp3": 1789248403311,
       "pin": 1789548719859,
       "p": 1789682228094,
-      "menu": 1789550359667
+      "menu": 1789550359667,
+      "bass": 1789682295647
     },
     "clanId": null,
     "isRegistered": false,
