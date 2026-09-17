@@ -20167,10 +20167,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99993,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52784,
+    "exp": 52754,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20179,7 +20179,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T09:48:23.714Z",
+    "lastSeen": "2026-09-17T08:50:54.058Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20232,7 +20232,7 @@
       "mywaifu": 1785239616382,
       "stcqc": 1785325884017,
       "stickerpack": 1787916747668,
-      "wm": 1789638506005,
+      "wm": 1789382142646,
       "menucat": 1787924045409,
       "bratvid": 1787827642806,
       "tohd": 1788008865248,
@@ -72625,7 +72625,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9840,
+    "exp": 9870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101755,7 +101755,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102356,7 +102356,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272180,
+    "exp": 272105,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -123381,18 +123381,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123409,6 +123397,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
