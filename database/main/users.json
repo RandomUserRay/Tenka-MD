@@ -2322,7 +2322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7425,
+    "exp": 7410,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -15995,7 +15995,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9351342,
+    "exp": 9351417,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -36056,7 +36056,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224720,
+    "exp": 224735,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -48097,7 +48097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60705,
+    "exp": 60765,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48175,7 +48175,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14715,
+    "exp": 14790,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90505,13 +90505,13 @@
   },
   "6288268008253": {
     "name": "Amba",
-    "lastSeen": "2026-09-17T08:29:30.135Z",
+    "lastSeen": "2026-09-17T04:13:56.497Z",
     "jid": "6288268008253",
     "number": "6288268008253",
-    "energi": 99996,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3031,
+    "exp": 3016,
     "level": 1,
     "koin": 100000000,
     "saldo": 0,
@@ -90529,8 +90529,7 @@
       "gojek": 1786706223082,
       "money": 1786706152968,
       "transfer": 1786706221920,
-      "s": 1789618441384,
-      "ship": 1789633770454
+      "s": 1789618441384
     },
     "clanId": null,
     "isRegistered": false,
@@ -102348,13 +102347,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T08:29:44.999Z",
+    "lastSeen": "2026-09-17T08:21:41.686Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272255,
+    "exp": 272030,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -112899,7 +112898,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15540,
+    "exp": 15570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115028,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18090,
+    "exp": 18105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123377,18 +123376,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123405,6 +123392,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
