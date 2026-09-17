@@ -37625,8 +37625,8 @@
         "name": "Yaaa"
       },
       "62895340450080@s.whatsapp.net": {
-        "count": 1350,
-        "lastChat": 1789605602078,
+        "count": 1349,
+        "lastChat": 1789604802976,
         "name": "kilam\"EX5"
       },
       "6285872028207@s.whatsapp.net": {
@@ -41389,8 +41389,8 @@
         "name": "𝙉𝙤𝙘𝙩𝙞𝙨 𝙠𝙖𝙜𝙚 𝙄𝙢𝙥𝙚𝙧𝙞𝙪𝙢"
       },
       "6283822995454@s.whatsapp.net": {
-        "count": 273,
-        "lastChat": 1789605481917,
+        "count": 276,
+        "lastChat": 1789605618926,
         "name": "Hu"
       },
       "6285166946241@s.whatsapp.net": {
@@ -41751,7 +41751,8 @@
     },
     "jid": "120363428874863498@g.us",
     "name": "𝗛𝗲𝗻𝘁𝗮𝗶 𝘃𝟲",
-    "onlynsfw": true
+    "onlynsfw": true,
+    "antispam": "on"
   },
   "120363413361477719@g.us": {
     "welcome": false,
