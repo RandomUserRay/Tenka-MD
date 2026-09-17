@@ -20392,7 +20392,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 229292,
+    "exp": 229337,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20401,7 +20401,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:25:26.522Z",
+    "lastSeen": "2026-09-17T12:25:33.473Z",
     "cooldowns": {
       "menu": 1789640778170,
       "allmenu": 1786162234717,
@@ -20433,7 +20433,7 @@
       "hitamkan": 1782456916525,
       "close": 1782456914150,
       "open": 1782456932571,
-      "top": 1789647916554,
+      "top": 1789647933660,
       "cekcupu": 1782457024448,
       "benefitpremium": 1782556805088,
       "tt": 1789640649215,
@@ -52774,7 +52774,7 @@
       "freelance": 1784454418952,
       "ngojek": 1784454876013,
       "ngamen": 1784341978444,
-      "top": 1784463652864,
+      "top": 1789647930980,
       "nikah": 1784341046418,
       "jodoh": 1784341095572,
       "cekganteng": 1784359665540,
@@ -52807,7 +52807,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 1
   },
   "6287738004071": {
     "name": "sukonto legowo",
