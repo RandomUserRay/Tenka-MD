@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000064575,
+    "exp": 9000064725,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -2322,7 +2322,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7440,
+    "exp": 7455,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -41091,7 +41091,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283559,
+    "exp": 283574,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -90250,7 +90250,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30780,
+    "exp": 30795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106997,7 +106997,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121876,7 +121876,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12045,
+    "exp": 12030,
     "name": "elnao tifosi",
     "lastSeen": "2026-09-13T09:18:28.895Z",
     "energi": 99999
@@ -123435,6 +123435,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123451,18 +123463,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
