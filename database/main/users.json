@@ -1798,7 +1798,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 644784,
+    "exp": 644859,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -36056,7 +36056,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 224855,
+    "exp": 224825,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -72622,10 +72622,10 @@
     "jid": "6281973521590",
     "name": "ִ ࣪ 𝓢𝓾𝓲𝓻𝓮𝓷 🪼˖ ݁ ִ ׄ",
     "number": "6281973521590",
-    "energi": 99996,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9660,
+    "exp": 9630,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72634,7 +72634,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T09:40:02.008Z",
+    "lastSeen": "2026-09-15T11:03:11.191Z",
     "cooldowns": {
       "truth": 1789382171389,
       "femboy": 1785157098523,
@@ -72642,7 +72642,7 @@
       "wm": 1789361312713,
       "bratimg": 1787643647053,
       "tts": 1787735706153,
-      "ytmp4": 1789638022859,
+      "ytmp4": 1789469850168,
       "afk": 1788242207551,
       "tebakbendera": 1788089634463,
       "ttmp3": 1788089674564,
@@ -72654,8 +72654,7 @@
       "open": 1789298206852,
       "close": 1789298201513,
       "robloxstalk": 1789460306993,
-      "tohd": 1789470209109,
-      "play": 1789638024480
+      "tohd": 1789470209109
     },
     "clanId": null,
     "isRegistered": false,
@@ -72666,8 +72665,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 8
   },
   "6285217145968": {
     "jid": "6285217145968",
@@ -96041,7 +96040,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5115,
+    "exp": 5130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102350,13 +102349,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T08:21:41.686Z",
+    "lastSeen": "2026-09-17T09:40:02.796Z",
     "jid": "6283822995454",
     "number": "6283822995454",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272030,
+    "exp": 272780,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102370,7 +102369,10 @@
       "jadibot": 1789603655135,
       "menu": 1789545168780,
       "stopjadibot": 1789603639712,
-      "p": 1789545922353
+      "p": 1789545922353,
+      "pp": 1789637937139,
+      "hitamkan": 1789637945579,
+      "s": 1789638003450
     },
     "clanId": null,
     "isRegistered": false,
@@ -112139,7 +112141,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7065,
+    "exp": 7050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112901,7 +112903,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15720,
+    "exp": 15705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121156,7 +121158,7 @@
   "6285656216139": {
     "jid": "6285656216139",
     "rpg": {},
-    "exp": 1515,
+    "exp": 1440,
     "energi": 99999
   },
   "62882003245635": {
@@ -123364,7 +123366,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 2685,
+    "exp": 2640,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-17T06:33:41.387Z"
@@ -123377,6 +123379,18 @@
   },
   "6282275204720": {
     "jid": "6282275204720",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -123397,18 +123411,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
