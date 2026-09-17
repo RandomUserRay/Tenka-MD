@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135951560,
+    "exp": 135951335,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -3224,7 +3224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48493,
+    "exp": 48478,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230222,
+    "exp": 230252,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -111585,7 +111585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12030,
+    "exp": 12045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120280,7 +120280,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 7065,
+    "exp": 7080,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -120352,7 +120352,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 720,
+    "exp": 735,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -123440,18 +123440,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123468,6 +123456,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
