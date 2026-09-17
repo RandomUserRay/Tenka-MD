@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 277340,
+    "exp": 277385,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20390,7 +20390,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227207,
+    "exp": 227222,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20718,12 +20718,12 @@
   },
   "6282166461900": {
     "jid": "6282166461900",
-    "name": "ira",
+    "name": "nana",
     "number": "6282166461900",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8300,
+    "exp": 8330,
     "level": 1,
     "koin": 10000,
     "unlockedFeatures": [],
@@ -20732,7 +20732,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-18T08:04:26.710Z",
+    "lastSeen": "2026-09-17T10:42:38.234Z",
     "cooldowns": {
       "ww": 1782456084206,
       "vote": 1782364916660,
@@ -51032,7 +51032,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71427,
+    "exp": 71457,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -62497,7 +62497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16470,
+    "exp": 16485,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -111341,7 +111341,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15239,
+    "exp": 15254,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111875,7 +111875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2940,
+    "exp": 2955,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111956,7 +111956,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7275,
+    "exp": 7290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112662,7 +112662,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10290,
+    "exp": 10305,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121323,7 +121323,7 @@
   "6285757873904": {
     "jid": "6285757873904",
     "rpg": {},
-    "exp": 1950,
+    "exp": 1980,
     "energi": 99999
   },
   "62887437405128": {
@@ -123591,6 +123591,11 @@
   "6282385151127": {
     "jid": "6282385151127",
     "rpg": {},
-    "exp": 285
+    "exp": 375
+  },
+  "6285123776560": {
+    "jid": "6285123776560",
+    "rpg": {},
+    "exp": 30
   }
 }
