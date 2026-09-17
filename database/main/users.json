@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135951335,
+    "exp": 135951410,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -11522,7 +11522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33049,
+    "exp": 33064,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230192,
+    "exp": 230147,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -52751,7 +52751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37981,
+    "exp": 37966,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -120352,7 +120352,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 705,
+    "exp": 675,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121881,7 +121881,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13410,
+    "exp": 13380,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
@@ -123440,6 +123440,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123456,18 +123468,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
