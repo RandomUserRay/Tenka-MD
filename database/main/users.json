@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53275,
+    "exp": 53260,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,9 +342,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T07:24:19.629Z",
+    "lastSeen": "2026-09-16T10:05:46.728Z",
     "cooldowns": {
-      "afk": 1789629861031,
+      "afk": 1786716716848,
       "s": 1789213343291,
       "femboy": 1789395584644,
       "daily": 1780385975656,
@@ -419,8 +419,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 8
   },
   "6285366861793": {
     "jid": "6285366861793",
@@ -12303,7 +12303,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5565,
+    "exp": 5550,
     "level": 1,
     "koin": 1000000,
     "unlockedFeatures": [],
@@ -18390,10 +18390,10 @@
     "jid": "62882003378504",
     "name": "Kim Pul",
     "number": "62882003378504",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61095,
+    "exp": 61080,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -18402,13 +18402,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T07:23:51.343Z",
+    "lastSeen": "2026-09-17T04:13:31.772Z",
     "cooldowns": {
       "tembak": 1782201336727,
       "terima": 1782201866422,
       "s": 1788148224685,
       "afk": 1786632112229,
-      "play": 1789629862521,
+      "play": 1789618436179,
       "lirik": 1788140410231,
       "menu": 1783008365486,
       "allmenu": 1783008382259,
@@ -26834,7 +26834,7 @@
       "hytamkan": 1784866633030,
       "tt": 1789390729742,
       "tomekah": 1784270790923,
-      "tohd": 1789629532660,
+      "tohd": 1789629780171,
       "tebakmakanan": 1786015930860,
       "brat": 1783560740711,
       "bratimg": 1789207440391,
@@ -106979,7 +106979,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123376,18 +123376,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123404,6 +123392,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123493,6 +123493,11 @@
   "6287743089046": {
     "jid": "6287743089046",
     "rpg": {},
-    "exp": 30
+    "exp": 45
+  },
+  "628892945537": {
+    "jid": "628892945537",
+    "rpg": {},
+    "exp": 15
   }
 }
