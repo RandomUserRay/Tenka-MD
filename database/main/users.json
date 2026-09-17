@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 277250,
+    "exp": 277145,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20390,7 +20390,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227087,
+    "exp": 227057,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -20723,7 +20723,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8255,
+    "exp": 8240,
     "level": 1,
     "koin": 10000,
     "unlockedFeatures": [],
@@ -22215,7 +22215,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28477,
+    "exp": 28492,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51032,7 +51032,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71262,
+    "exp": 71202,
     "level": 1,
     "koin": 2319,
     "unlockedFeatures": [],
@@ -111341,7 +111341,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15089,
+    "exp": 15029,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111351,13 +111351,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:39:33.924Z",
+    "lastSeen": "2026-09-17T10:37:44.501Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
       "play": 1788879286198,
       "menu": 1789641187016,
-      "menucat": 1789641534985,
+      "menucat": 1789641193959,
       "lesby": 1789481637870,
       "gay": 1789481731625,
       "bodoh": 1789481952366,
@@ -111430,8 +111430,7 @@
       "setgoodbye": 1789640523701,
       "setppgc": 1789640571121,
       "game": 1789641230694,
-      "tictactoe": 1789641464862,
-      "tebakgambar": 1789641574583
+      "tictactoe": 1789641464862
     },
     "clanId": null,
     "isRegistered": false,
@@ -111875,7 +111874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2820,
+    "exp": 2790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111956,7 +111955,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7140,
+    "exp": 7125,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112662,7 +112661,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10230,
+    "exp": 10215,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112672,7 +112671,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:39:22.217Z",
+    "lastSeen": "2026-09-17T10:12:53.031Z",
     "cooldowns": {
       "menu": 1789511033741,
       "owner": 1789511034576,
@@ -120235,7 +120234,7 @@
   "6285930092723": {
     "jid": "6285930092723",
     "rpg": {},
-    "exp": 480,
+    "exp": 465,
     "energi": 99999
   },
   "6281993144833": {
@@ -120543,7 +120542,7 @@
   "6285814172058": {
     "jid": "6285814172058",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1080,
     "name": "sya",
     "lastSeen": "2026-09-12T06:14:45.730Z",
     "energi": 99999
@@ -123422,6 +123421,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123438,18 +123449,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
