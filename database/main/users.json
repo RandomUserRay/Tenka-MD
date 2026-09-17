@@ -93121,10 +93121,10 @@
     "jid": "6282180208289",
     "name": "𝘓𝘢𝘯𝘻𝘻𝘻𝘕𝘰𝘵𝘋𝘦𝘷 | 𝐃'𝐖𝐚𝐫𝐫𝐢𝐨𝐫𝐬",
     "number": "6282180208289",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34233,
+    "exp": 34263,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -93134,7 +93134,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T16:32:32.276Z",
+    "lastSeen": "2026-09-17T06:46:40.546Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -93148,13 +93148,14 @@
       "bratimg": 1789395882057,
       "bratanime": 1789231600652,
       "allmenu": 1789231698321,
-      "menucat": 1789280614243,
+      "menucat": 1789627591644,
       "cekidch": 1789232748152,
       "pin": 1789281881584,
       "playvideo": 1789282385039,
       "cekfemboy": 1789287344233,
       "cektsundere": 1789287354881,
-      "ytmp4": 1789485415761
+      "ytmp4": 1789485415761,
+      "samehadaku": 1789627600689
     },
     "clanId": null,
     "isRegistered": false,
@@ -93172,8 +93173,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 9
   },
   "6282190598107": {
     "jid": "6282190598107",
@@ -101952,7 +101953,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12264,
+    "exp": 12279,
     "level": 1,
     "koin": 0,
     "saldo": 0,
