@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53485,
+    "exp": 53500,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -25315,7 +25315,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 104504,
+    "exp": 104489,
     "level": 1,
     "koin": 938,
     "unlockedFeatures": [],
@@ -26260,7 +26260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 80836,
+    "exp": 80851,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -26269,9 +26269,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:45:27.004Z",
+    "lastSeen": "2026-09-17T13:56:25.895Z",
     "cooldowns": {
-      "menu": 1789214248236,
+      "menu": 1789653388401,
       "allmenu": 1788956252855,
       "s": 1788735258400,
       "wm": 1788735262882,
@@ -26376,8 +26376,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 18,
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 19,
     "fun": {
       "tembakTarget": "6285641569049@s.whatsapp.net",
       "tembakCount": 1
@@ -26511,7 +26511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168081,
+    "exp": 168186,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -40297,7 +40297,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62640,
+    "exp": 62775,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90254,7 +90254,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30810,
+    "exp": 30840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96062,7 +96062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5115,
+    "exp": 5175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97973,7 +97973,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11535,
+    "exp": 11505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101977,7 +101977,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12774,
+    "exp": 12834,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102371,13 +102371,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T13:45:41.120Z",
+    "lastSeen": "2026-09-17T13:55:08.878Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276605,
+    "exp": 277355,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105064,7 +105064,7 @@
     "energi": 100026,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20205,
+    "exp": 20100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109386,7 +109386,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 915,
+    "exp": 840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111590,7 +111590,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12285,
+    "exp": 12240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111933,7 +111933,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18000,
+    "exp": 17970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113002,7 +113002,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10110,
+    "exp": 10095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119942,16 +119942,17 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟𝑙𝑜𝑐𝑘 𝐻𝑜𝑙𝑚𝑒𝑠",
-    "lastSeen": "2026-09-17T13:25:14.609Z",
+    "lastSeen": "2026-09-17T13:56:09.579Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "cooldowns": {
       "s": 1789651517489,
       "smeme": 1789635782832,
-      "allmenu": 1789636056500
+      "allmenu": 1789636056500,
+      "rvo": 1789653371213
     },
-    "energi": 99993,
+    "energi": 99992,
     "lastActiveDate": "17/9/2026",
     "activeDays": 3
   },
@@ -120168,7 +120169,7 @@
   "6283848747103": {
     "jid": "6283848747103",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "energi": 99999
   },
   "6281990054908": {
@@ -120357,7 +120358,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 885,
+    "exp": 870,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121076,7 +121077,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 9495,
+    "exp": 9210,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-16T12:05:34.828Z",
@@ -121286,7 +121287,7 @@
   "6288271181870": {
     "jid": "6288271181870",
     "rpg": {},
-    "exp": 3195,
+    "exp": 2925,
     "energi": 99999
   },
   "6282138010678": {
@@ -121886,7 +121887,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13545,
+    "exp": 13485,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
@@ -122123,7 +122124,7 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 4080,
+    "exp": 4065,
     "energi": 99999
   },
   "62895638989358": {
@@ -123447,6 +123448,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123463,18 +123476,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123685,6 +123686,11 @@
     "rpg": {},
     "exp": 270
   },
+  "6283872700462": {
+    "jid": "6283872700462",
+    "rpg": {},
+    "exp": 120
+  },
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
@@ -123699,10 +123705,5 @@
     "jid": "628135220849",
     "rpg": {},
     "exp": 15
-  },
-  "6283872700462": {
-    "jid": "6283872700462",
-    "rpg": {},
-    "exp": 120
   }
 }
