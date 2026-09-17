@@ -111324,10 +111324,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14009,
+    "exp": 14024,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111337,7 +111337,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T05:34:15.724Z",
+    "lastSeen": "2026-09-17T05:52:28.845Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111488,7 +111488,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6075,
+    "exp": 6090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123476,5 +123476,10 @@
     "jid": "6281919787347",
     "rpg": {},
     "exp": 45
+  },
+  "6281573447495": {
+    "jid": "6281573447495",
+    "rpg": {},
+    "exp": 15
   }
 }
