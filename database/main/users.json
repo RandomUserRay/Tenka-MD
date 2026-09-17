@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53515,
+    "exp": 53485,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,10 +342,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T14:09:20.278Z",
+    "lastSeen": "2026-09-17T13:49:07.975Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789654160869,
+      "s": 1789213343291,
       "femboy": 1789395584644,
       "daily": 1780385975656,
       "profile": 1789213791553,
@@ -19676,7 +19676,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279740,
+    "exp": 279785,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30705,
+    "exp": 30765,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -40297,7 +40297,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62700,
+    "exp": 62640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96059,10 +96059,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5145,
+    "exp": 5115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96072,11 +96072,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T14:09:07.429Z",
+    "lastSeen": "2026-09-16T11:43:38.378Z",
     "cooldowns": {
       "afk": 1789559019867,
       "play": 1789446463597,
-      "smeme": 1789654132790,
+      "smeme": 1789440738497,
       "s": 1789440748204,
       "menu": 1788072949177,
       "menucat": 1788072970708,
@@ -96091,8 +96091,7 @@
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1789201775838,
-      "cekimut": 1789201609278,
-      "d": 1789654147516
+      "cekimut": 1789201609278
     },
     "clanId": null,
     "isRegistered": false,
@@ -96111,8 +96110,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 8
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -111487,7 +111486,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36870,
+    "exp": 36915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111591,7 +111590,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12285,
+    "exp": 12300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111934,7 +111933,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18000,
+    "exp": 18300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121287,7 +121286,7 @@
   "6288271181870": {
     "jid": "6288271181870",
     "rpg": {},
-    "exp": 3195,
+    "exp": 3210,
     "energi": 99999
   },
   "6282138010678": {
@@ -121887,7 +121886,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13650,
+    "exp": 13875,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:34:29.039Z",
     "energi": 99999
@@ -123448,18 +123447,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123476,6 +123463,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123686,11 +123685,6 @@
     "rpg": {},
     "exp": 270
   },
-  "6283872700462": {
-    "jid": "6283872700462",
-    "rpg": {},
-    "exp": 120
-  },
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
@@ -123705,5 +123699,10 @@
     "jid": "628135220849",
     "rpg": {},
     "exp": 15
+  },
+  "6283872700462": {
+    "jid": "6283872700462",
+    "rpg": {},
+    "exp": 120
   }
 }
