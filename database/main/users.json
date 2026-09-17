@@ -37772,10 +37772,10 @@
     "jid": "60195075272",
     "name": "pnpcyamgnumpanglewat",
     "number": "60195075272",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38028,
+    "exp": 38043,
     "level": 1,
     "koin": 14536,
     "unlockedFeatures": [],
@@ -37784,7 +37784,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T17:41:58.290Z",
+    "lastSeen": "2026-09-17T17:44:05.328Z",
     "cooldowns": {
       "play": 1789666927710,
       "qwa": 1783162238880,
@@ -37804,7 +37804,8 @@
       "d": 1784908778115,
       "tebakkata": 1785019759269,
       "gpt4": 1785019931792,
-      "afk": 1786860676779
+      "afk": 1786860676779,
+      "ytmp4": 1789667059241
     },
     "clanId": null,
     "isRegistered": false,
