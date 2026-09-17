@@ -101192,12 +101192,12 @@
   },
   "6285771118557": {
     "jid": "6285771118557",
-    "name": "Fan Kw V2(disappear)",
+    "name": "Fan Kw V2(Is lost)",
     "number": "6285771118557",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101207,9 +101207,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T04:10:07.708Z",
+    "lastSeen": "2026-09-17T04:28:53.062Z",
     "cooldowns": {
-      "s": 1789445409212
+      "s": 1789445409212,
+      "play": 1789619364226
     },
     "clanId": null,
     "isRegistered": false,
@@ -101219,8 +101220,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 3
   },
   "628984757583": {
     "jid": "628984757583",
@@ -105541,10 +105542,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2865,
+    "exp": 2835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105554,11 +105555,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T04:29:01.004Z",
+    "lastSeen": "2026-09-16T14:17:10.495Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
-      "menu": 1789619332664,
+      "menu": 1789567239316,
       "play": 1789567704662,
       "antispam": 1789566153153,
       "antitagsw": 1789564491360,
@@ -105584,8 +105585,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 2
   },
   "6283829647574": {
     "jid": "6283829647574",
@@ -119839,7 +119840,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "energi": 99999
   },
   "6285785063453": {
@@ -123361,6 +123362,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123377,18 +123390,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
