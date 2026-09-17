@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 276215,
+    "exp": 276275,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19685,10 +19685,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T13:38:19.408Z",
+    "lastSeen": "2026-09-17T10:22:51.763Z",
     "cooldowns": {
       "ww": 1782493413397,
-      "allmenu": 1787973033697,
+      "allmenu": 1789640572320,
       "caklontong": 1782377493713,
       "tembak": 1782490210360,
       "ganteng": 1789382362549,
@@ -19735,7 +19735,7 @@
       "freelance": 1784462543765,
       "judi": 1784396571588,
       "job": 1784462550372,
-      "menu": 1789312617340,
+      "menu": 1789640565588,
       "top": 1789295794645,
       "owner": 1786925891601,
       "terima": 1784390194741,
@@ -19814,8 +19814,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 8
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -111333,7 +111333,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14684,
+    "exp": 14714,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111343,7 +111343,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:22:03.483Z",
+    "lastSeen": "2026-09-17T10:22:50.107Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111419,7 +111419,8 @@
       "rpg": 1789633942876,
       "antiphising": 1789623157022,
       "level": 1789640014695,
-      "setgoodbye": 1789640523701
+      "setgoodbye": 1789640523701,
+      "setppgc": 1789640571121
     },
     "clanId": null,
     "isRegistered": false,
