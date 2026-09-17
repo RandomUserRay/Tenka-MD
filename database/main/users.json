@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000061725,
+    "exp": 9000061875,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -333,7 +333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53260,
+    "exp": 53290,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -6291,7 +6291,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4245,
+    "exp": 4260,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48097,7 +48097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60825,
+    "exp": 60810,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90413,7 +90413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 930,
+    "exp": 945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112898,7 +112898,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15705,
+    "exp": 15660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -115027,7 +115027,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18225,
+    "exp": 18195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119877,13 +119877,14 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟𝑙𝑜𝑐𝑘 𝐻𝑜𝑙𝑚𝑒𝑠",
-    "lastSeen": "2026-09-17T09:02:09.663Z",
+    "lastSeen": "2026-09-17T09:07:35.835Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "cooldowns": {
       "s": 1789635304143,
-      "smeme": 1789635782832
+      "smeme": 1789635782832,
+      "allmenu": 1789636056500
     },
     "energi": 99994,
     "lastActiveDate": "17/9/2026",
@@ -120004,7 +120005,7 @@
   "6283834782702": {
     "jid": "6283834782702",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1080,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-11T14:21:26.615Z",
     "cooldowns": {
@@ -123377,6 +123378,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123393,18 +123406,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123510,17 +123511,5 @@
     "jid": "6288266264810",
     "rpg": {},
     "exp": 60
-  },
-  "628987754997": {
-    "jid": "628987754997",
-    "rpg": {},
-    "exp": 105,
-    "name": "M. Atthaar (Ari)",
-    "lastSeen": "2026-09-17T09:02:45.946Z",
-    "cooldowns": {
-      "allmenu": 1789635767160
-    },
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 1
   }
 }
