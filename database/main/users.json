@@ -66892,9 +66892,9 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169325,
+    "exp": 169355,
     "level": 1,
-    "koin": 0,
+    "koin": 1451687524,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -66907,7 +66907,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T04:50:45.729Z",
+    "lastSeen": "2026-09-17T06:27:14.750Z",
     "cooldowns": {
       "afk": 1789480585166,
       "s": 1789620693519,
@@ -66920,7 +66920,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789475076686,
+      "bank": 1789626423100,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -66940,7 +66940,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789459946845,
+      "marry": 1789626434855,
       "transfer": 1789119793583,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -67001,10 +67001,10 @@
       "maxMana": 180,
       "stamina": 100,
       "maxStamina": 180,
-      "bank": 1451737524,
+      "bank": 0,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6288268008253@s.whatsapp.net",
+      "marriedAt": 1789626434752,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -90538,7 +90538,9 @@
     "regGender": null,
     "rpg": {
       "stamina": 60,
-      "health": 85
+      "health": 85,
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1789626434752
     },
     "inventory": {},
     "access": [],
@@ -111614,7 +111616,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19800,
+    "exp": 19785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112628,7 +112630,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9300,
+    "exp": 9270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123356,7 +123358,7 @@
   "628976535264": {
     "jid": "628976535264",
     "rpg": {},
-    "exp": 2295,
+    "exp": 2280,
     "energi": 99999
   },
   "6285783885003": {
@@ -123367,6 +123369,18 @@
   },
   "6282275204720": {
     "jid": "6282275204720",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -123387,18 +123401,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
