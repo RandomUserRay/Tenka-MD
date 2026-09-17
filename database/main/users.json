@@ -101194,10 +101194,10 @@
     "jid": "6285771118557",
     "name": "Fan Kw V2(Is lost)",
     "number": "6285771118557",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101207,7 +101207,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T04:54:23.112Z",
+    "lastSeen": "2026-09-17T04:55:14.051Z",
     "cooldowns": {
       "s": 1789445409212,
       "play": 1789620888554
@@ -119840,7 +119840,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 930,
+    "exp": 960,
     "energi": 99999
   },
   "6285785063453": {
