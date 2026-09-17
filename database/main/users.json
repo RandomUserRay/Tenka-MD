@@ -15992,10 +15992,10 @@
     "jid": "6285753061976",
     "name": "Poseidon",
     "number": "6285753061976",
-    "energi": 99990,
+    "energi": 99984,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9355827,
+    "exp": 9356007,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16004,11 +16004,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T11:43:27.795Z",
+    "lastSeen": "2026-09-17T13:40:56.404Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1789645429446,
+      "play": 1789652467890,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1789488665190,
@@ -16189,7 +16189,7 @@
       "aio": 1785225799069,
       "menucat": 1789488699153,
       "yeet": 1785423765207,
-      "ytmp4": 1789572722864,
+      "ytmp4": 1789652471002,
       "stickerpack": 1787917356908,
       "pat": 1786689196146,
       "promote": 1786699360499,
@@ -19676,7 +19676,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279620,
+    "exp": 279575,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19825,7 +19825,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30555,
+    "exp": 30330,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -19951,7 +19951,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 151123,
+    "exp": 151078,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -54171,7 +54171,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14091,
+    "exp": 14106,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -95837,13 +95837,13 @@
   },
   "6285817724197": {
     "name": "Fael",
-    "lastSeen": "2026-09-17T13:42:00.733Z",
+    "lastSeen": "2026-09-17T12:19:22.924Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99993,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3000,
+    "exp": 2985,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102370,13 +102370,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T13:26:27.294Z",
+    "lastSeen": "2026-09-17T13:41:46.686Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276455,
+    "exp": 276830,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -111485,7 +111485,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36870,
+    "exp": 36840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111589,7 +111589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12180,
+    "exp": 12150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111806,7 +111806,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3150,
+    "exp": 3120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121051,7 +121051,7 @@
   "6285248645406": {
     "jid": "6285248645406",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "62895354980700": {
@@ -121075,7 +121075,7 @@
   "6285659353987": {
     "jid": "6285659353987",
     "rpg": {},
-    "exp": 9045,
+    "exp": 8985,
     "energi": 99999,
     "name": "ᴍᴀᴀᴀ 💐",
     "lastSeen": "2026-09-16T12:05:34.828Z",
@@ -123446,6 +123446,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123462,18 +123474,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123683,6 +123683,11 @@
     "jid": "6285189048156",
     "rpg": {},
     "exp": 270
+  },
+  "6283872700462": {
+    "jid": "6283872700462",
+    "rpg": {},
+    "exp": 120
   },
   "6288983458826": {
     "jid": "6288983458826",
