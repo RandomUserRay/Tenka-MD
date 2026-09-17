@@ -73040,7 +73040,8 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-17T08:57:08.317Z",
     "cooldowns": {
-      "jadibot": 1787833057358
+      "jadibot": 1787833057358,
+      "tts": 1789635437307
     },
     "clanId": null,
     "isRegistered": false,
@@ -73050,7 +73051,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 1
   },
   "6282228091106": {
     "jid": "6282228091106",
