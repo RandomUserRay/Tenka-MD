@@ -41966,8 +41966,8 @@
   "120363428633492982@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 56,
-        "lastChat": 1789623021781,
+        "count": 57,
+        "lastChat": 1789623040164,
         "name": "a"
       },
       "6283873327063@s.whatsapp.net": {
@@ -41984,7 +41984,8 @@
     "jid": "120363428633492982@g.us",
     "name": "TEST BOT WA",
     "antilinkgc": "on",
-    "antilinkgcMode": "remove"
+    "antilinkgcMode": "remove",
+    "rpg": true
   },
   "120363429673739566@g.us": {
     "chatStats": {
