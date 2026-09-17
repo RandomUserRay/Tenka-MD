@@ -20392,7 +20392,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 229022,
+    "exp": 229247,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -25312,10 +25312,10 @@
     "jid": "6285752851847",
     "name": "Mr.nazriel",
     "number": "6285752851847",
-    "energi": 99988,
+    "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 104459,
+    "exp": 104489,
     "level": 1,
     "koin": 938,
     "unlockedFeatures": [],
@@ -25324,7 +25324,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:21:21.259Z",
+    "lastSeen": "2026-09-17T12:22:05.105Z",
     "cooldowns": {
       "kind": 1782744953366,
       "femboy": 1786877110068,
@@ -25405,7 +25405,7 @@
       "warn": 1786939389433,
       "resetwarn": 1786781455675,
       "battle": 1786876951529,
-      "tiktok": 1789647683970,
+      "tiktok": 1789647727807,
       "playvideo": 1789049608978,
       "ship": 1789051725396,
       "h": 1789197034838,
@@ -26511,7 +26511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168111,
+    "exp": 168066,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -52751,7 +52751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37711,
+    "exp": 37801,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -88927,7 +88927,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 45,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90109,7 +90109,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14910,
+    "exp": 14895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90250,7 +90250,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30825,
+    "exp": 30780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111583,7 +111583,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11985,
+    "exp": 12000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120044,7 +120044,7 @@
     "jid": "6283180744202",
     "energi": 99999,
     "rpg": {},
-    "exp": 435
+    "exp": 510
   },
   "6285126089692": {
     "jid": "6285126089692",
@@ -120278,7 +120278,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 6945,
+    "exp": 7065,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -120350,7 +120350,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 435,
+    "exp": 465,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121833,7 +121833,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 3345,
+    "exp": 3390,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121879,7 +121879,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12435,
+    "exp": 12645,
     "name": "elnao",
     "lastSeen": "2026-09-17T12:18:42.554Z",
     "energi": 99999
@@ -122435,7 +122435,7 @@
   "6282285659730": {
     "jid": "6282285659730",
     "rpg": {},
-    "exp": 375,
+    "exp": 345,
     "energi": 99999
   },
   "6283871734728": {
@@ -122789,7 +122789,7 @@
   "6285817275968": {
     "jid": "6285817275968",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "energi": 99999
   },
   "6285752597044": {
@@ -123438,18 +123438,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123466,6 +123454,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
