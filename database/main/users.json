@@ -18390,10 +18390,10 @@
     "jid": "62882003378504",
     "name": "Kim Pul",
     "number": "62882003378504",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61020,
+    "exp": 61035,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -18402,13 +18402,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T21:51:24.244Z",
+    "lastSeen": "2026-09-17T04:12:27.681Z",
     "cooldowns": {
       "tembak": 1782201336727,
       "terima": 1782201866422,
       "s": 1788148224685,
       "afk": 1786632112229,
-      "play": 1787749995255,
+      "play": 1789618355411,
       "lirik": 1788140410231,
       "menu": 1783008365486,
       "allmenu": 1783008382259,
@@ -18443,8 +18443,8 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 3
   },
   "6283871114819": {
     "jid": "6283871114819",
