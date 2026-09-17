@@ -67876,7 +67876,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2715,
+    "exp": 2700,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72622,10 +72622,10 @@
     "jid": "6281973521590",
     "name": "ִ ࣪ 𝓢𝓾𝓲𝓻𝓮𝓷 🪼˖ ݁ ִ ׄ",
     "number": "6281973521590",
-    "energi": 99996,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9675,
+    "exp": 9705,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72634,7 +72634,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T09:40:02.008Z",
+    "lastSeen": "2026-09-17T09:41:13.143Z",
     "cooldowns": {
       "truth": 1789382171389,
       "femboy": 1785157098523,
@@ -72642,7 +72642,7 @@
       "wm": 1789361312713,
       "bratimg": 1787643647053,
       "tts": 1787735706153,
-      "ytmp4": 1789638022859,
+      "ytmp4": 1789638077242,
       "afk": 1788242207551,
       "tebakbendera": 1788089634463,
       "ttmp3": 1788089674564,
@@ -90235,7 +90235,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30765,
+    "exp": 30750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102350,13 +102350,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T09:41:09.828Z",
+    "lastSeen": "2026-09-17T08:21:41.686Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272105,
+    "exp": 272030,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -123381,18 +123381,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123409,6 +123397,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
