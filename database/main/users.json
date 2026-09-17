@@ -90505,15 +90505,15 @@
   },
   "6288268008253": {
     "name": "Amba",
-    "lastSeen": "2026-09-17T04:13:56.497Z",
+    "lastSeen": "2026-09-17T09:15:10.594Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3016,
+    "exp": 3031,
     "level": 1,
-    "koin": 100000000,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -90538,7 +90538,8 @@
     "regGender": null,
     "rpg": {
       "stamina": 60,
-      "health": 85
+      "health": 85,
+      "bank": 100000000
     },
     "inventory": {},
     "access": [],
