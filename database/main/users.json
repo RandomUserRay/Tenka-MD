@@ -70403,10 +70403,10 @@
     "jid": "601163956586",
     "name": "harniza",
     "number": "601163956586",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37376,
+    "exp": 37401,
     "level": 1,
     "koin": 256864,
     "unlockedFeatures": [],
@@ -70415,7 +70415,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T06:13:55.430Z",
+    "lastSeen": "2026-09-17T06:14:14.763Z",
     "cooldowns": {
       "afk": 1786702437821,
       "smeme": 1785571766513,
@@ -70464,7 +70464,7 @@
       "maxHealth": 130,
       "mana": 53,
       "maxMana": 115,
-      "stamina": 100,
+      "stamina": 85,
       "maxStamina": 115,
       "garden": {
         "plots": [
@@ -70477,7 +70477,7 @@
       }
     },
     "inventory": {
-      "trash": 14,
+      "trash": 15,
       "prawn": 2,
       "octopus": 2,
       "fish": 3
