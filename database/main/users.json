@@ -19676,7 +19676,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279215,
+    "exp": 279140,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -20332,7 +20332,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16330,
+    "exp": 16255,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -20392,7 +20392,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230672,
+    "exp": 230432,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -26511,7 +26511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168066,
+    "exp": 168171,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -34196,7 +34196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 281565,
+    "exp": 281550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -41091,7 +41091,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283559,
+    "exp": 283634,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105059,7 +105059,7 @@
     "energi": 100026,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20040,
+    "exp": 19965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105116,13 +105116,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
     },
     "inventory": {},
     "access": [],
@@ -112060,7 +112060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1110,
+    "exp": 1095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119684,10 +119684,10 @@
     "jid": "6282254416963",
     "name": "r",
     "number": "6282254416963",
-    "energi": 99993,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2460,
+    "exp": 2445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119697,7 +119697,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T12:56:32.904Z",
+    "lastSeen": "2026-09-17T12:13:25.114Z",
     "cooldowns": {
       "bratimg": 1789647207485,
       "menu": 1789567243304,
@@ -120352,7 +120352,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 825,
+    "exp": 765,
     "energi": 99999,
     "name": "putra Tel apip",
     "lastSeen": "2026-09-12T07:17:24.848Z",
@@ -121835,7 +121835,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 3585,
+    "exp": 3570,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -123399,7 +123399,7 @@
   "6285380790939": {
     "jid": "6285380790939",
     "rpg": {},
-    "exp": 135,
+    "exp": 120,
     "energi": 99999
   },
   "60105277640": {
@@ -123440,6 +123440,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123456,18 +123468,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
