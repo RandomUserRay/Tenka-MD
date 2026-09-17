@@ -105062,10 +105062,10 @@
     "jid": "6285709953593",
     "name": "izz",
     "number": "6285709953593",
-    "energi": 100025,
+    "energi": 100024,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20325,
+    "exp": 20340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105075,7 +105075,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T14:38:50.186Z",
+    "lastSeen": "2026-09-17T14:39:12.333Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -105115,7 +105115,7 @@
       "afk": 1789551159144,
       "antilinkgc": 1789655528664,
       "antisticker": 1789643025930,
-      "qc": 1789655930626
+      "qc": 1789655955347
     },
     "clanId": null,
     "isRegistered": false,
