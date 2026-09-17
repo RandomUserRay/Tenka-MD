@@ -37240,8 +37240,8 @@
         "name": "𝙘𝙖𝙡𝙡 𝙢𝙚🚩𝙚𝙡𝙫𝙖🦖"
       },
       "6285806009725@s.whatsapp.net": {
-        "count": 47,
-        "lastChat": 1789622925348,
+        "count": 48,
+        "lastChat": 1789623252632,
         "name": "Vcx"
       },
       "6289504535358@s.whatsapp.net": {
@@ -41971,8 +41971,8 @@
   "120363428633492982@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 61,
-        "lastChat": 1789623207309,
+        "count": 62,
+        "lastChat": 1789623255724,
         "name": "a"
       },
       "6283873327063@s.whatsapp.net": {
@@ -41990,7 +41990,12 @@
     "name": "TEST BOT WA",
     "antilinkgc": "on",
     "antilinkgcMode": "remove",
-    "rpg": false
+    "rpg": false,
+    "slowmode": {
+      "enabled": true,
+      "delay": 10,
+      "mode": "all"
+    }
   },
   "120363429673739566@g.us": {
     "chatStats": {
