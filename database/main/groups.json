@@ -41966,8 +41966,8 @@
   "120363428633492982@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 57,
-        "lastChat": 1789623040164,
+        "count": 59,
+        "lastChat": 1789623055595,
         "name": "a"
       },
       "6283873327063@s.whatsapp.net": {
@@ -41985,7 +41985,7 @@
     "name": "TEST BOT WA",
     "antilinkgc": "on",
     "antilinkgcMode": "remove",
-    "rpg": true
+    "rpg": false
   },
   "120363429673739566@g.us": {
     "chatStats": {
