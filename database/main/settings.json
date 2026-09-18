@@ -401,7 +401,8 @@
         "18:00_2026-09-12": true,
         "18:00_2026-09-13": true,
         "18:00_2026-09-14": true,
-        "18:00_2026-09-15": true
+        "18:00_2026-09-15": true,
+        "18:00_2026-09-18": true
       },
       "createdAt": 1784631061326
     },
@@ -530,7 +531,9 @@
       ],
       "menu": "nasgor",
       "enabled": true,
-      "lastSent": {},
+      "lastSent": {
+        "18:00_2026-09-18": true
+      },
       "createdAt": 1789679700964
     }
   },
@@ -11245,7 +11248,7 @@
     },
     "6282186833658@s.whatsapp.net": {
       "jid": "6282186833658@s.whatsapp.net",
-      "name": "~kepo amt~"
+      "name": "Earlyca Viona"
     },
     "6282371943528@s.whatsapp.net": {
       "jid": "6282371943528@s.whatsapp.net",
