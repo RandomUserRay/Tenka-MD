@@ -1799,7 +1799,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645384,
+    "exp": 645534,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -97976,7 +97976,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-18T11:49:47.317Z",
     "cooldowns": {
-      "play": 1789732213993,
+      "play": 1789473625947,
       "wm": 1788347084351,
       "afk": 1788535026419,
       "s": 1789456268968
@@ -97989,8 +97989,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "15/9/2026",
+    "activeDays": 10
   },
   "6283898309546": {
     "jid": "6283898309546",
@@ -105091,7 +105091,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21105,
+    "exp": 21090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111384,7 +111384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18689,
+    "exp": 18674,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111394,7 +111394,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T11:50:32.621Z",
+    "lastSeen": "2026-09-18T11:49:20.090Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111496,7 +111496,7 @@
       "ht": 1789730369485,
       "jadwalgroup": 1789731861388,
       "listtoxic": 1789732069379,
-      "deltoxic": 1789732232769
+      "deltoxic": 1789732160173
     },
     "clanId": null,
     "isRegistered": false,
@@ -111978,7 +111978,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20670,
+    "exp": 20640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121899,7 +121899,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 5625,
+    "exp": 5580,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121945,7 +121945,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19095,
+    "exp": 19065,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
@@ -123364,7 +123364,7 @@
     "lastSeen": "2026-09-17T11:19:31.256Z",
     "jid": "6281533725017",
     "rpg": {},
-    "exp": 3000,
+    "exp": 2850,
     "lastActiveDate": "17/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -123946,7 +123946,7 @@
   "6283171315003": {
     "jid": "6283171315003",
     "rpg": {},
-    "exp": 165
+    "exp": 150
   },
   "6288227527111": {
     "jid": "6288227527111",
@@ -124006,7 +124006,7 @@
   "6282274381730": {
     "jid": "6282274381730",
     "rpg": {},
-    "exp": 270
+    "exp": 255
   },
   "6285701538603": {
     "jid": "6285701538603",
