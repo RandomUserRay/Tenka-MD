@@ -66917,10 +66917,10 @@
     "jid": "6283135864303",
     "name": "sigma boy",
     "number": "6283135864303",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169520,
+    "exp": 169505,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66935,7 +66935,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T15:34:54.775Z",
+    "lastSeen": "2026-09-18T15:34:12.504Z",
     "cooldowns": {
       "afk": 1789712171546,
       "s": 1789639778921,
@@ -67015,7 +67015,7 @@
       "tutup": 1789476760860,
       "open": 1789478015816,
       "close": 1789478007974,
-      "smemevid": 1789745696176
+      "smemevid": 1789745657149
     },
     "clanId": null,
     "isRegistered": false,
@@ -124101,5 +124101,18 @@
     "jid": "6283197694278",
     "rpg": {},
     "exp": 15
+  },
+  "6285210335100": {
+    "name": "dstn",
+    "lastSeen": "2026-09-18T15:34:28.865Z",
+    "jid": "6285210335100",
+    "rpg": {},
+    "exp": 45,
+    "cooldowns": {
+      "menu": 1789745662354,
+      "allmenu": 1789745669721
+    },
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 1
   }
 }
