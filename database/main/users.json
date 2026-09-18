@@ -19826,7 +19826,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31500,
+    "exp": 31515,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -20333,7 +20333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16570,
+    "exp": 16585,
     "level": 1,
     "koin": 214694,
     "unlockedFeatures": [],
@@ -20393,7 +20393,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232697,
+    "exp": 232727,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -48114,7 +48114,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61260,
+    "exp": 61275,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101767,7 +101767,8 @@
     "lastSeen": "2026-09-18T11:14:22.583Z",
     "cooldowns": {
       "owner": 1788089665806,
-      "robloxstalk": 1789457673939
+      "robloxstalk": 1789457673939,
+      "play": 1789730072047
     },
     "clanId": null,
     "isRegistered": false,
@@ -101777,8 +101778,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 3
   },
   "62895406126052": {
     "jid": "62895406126052",
@@ -121921,7 +121922,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17115,
+    "exp": 17175,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
