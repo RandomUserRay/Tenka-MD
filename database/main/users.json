@@ -48213,7 +48213,7 @@
       "bratimg": 1784007142095,
       "bratvid": 1784029015573,
       "afk": 1787666787555,
-      "play": 1788617625006
+      "play": 1789746159850
     },
     "clanId": null,
     "isRegistered": false,
@@ -48232,8 +48232,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 3
   },
   "6281283596929": {
     "jid": "6281283596929",
@@ -111546,7 +111546,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41100,
+    "exp": 41130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124122,5 +124122,10 @@
     "lastActiveDate": "18/9/2026",
     "activeDays": 1,
     "energi": 15
+  },
+  "6287857367638": {
+    "jid": "6287857367638",
+    "rpg": {},
+    "exp": 15
   }
 }
