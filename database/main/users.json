@@ -46775,7 +46775,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178290,
+    "exp": 178305,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -124104,23 +124104,23 @@
   },
   "6285210335100": {
     "name": "dstn",
-    "lastSeen": "2026-09-18T15:40:18.816Z",
+    "lastSeen": "2026-09-18T15:42:02.334Z",
     "jid": "6285210335100",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "cooldowns": {
       "menu": 1789745662354,
       "allmenu": 1789745669721,
       "brat": 1789745778790,
       "bratimg": 1789745794822,
       "bratvid": 1789745866098,
-      "iqc": 1789745916052,
+      "iqc": 1789746124013,
       "qc": 1789745934288,
       "asupan": 1789746002957,
       "bocil": 1789746020510
     },
     "lastActiveDate": "18/9/2026",
     "activeDays": 1,
-    "energi": 17
+    "energi": 15
   }
 }
