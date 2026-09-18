@@ -46775,7 +46775,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178290,
+    "exp": 178305,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -48193,10 +48193,10 @@
     "jid": "6282148860926",
     "name": "🥜🥜🥜",
     "number": "6282148860926",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14865,
+    "exp": 14880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48205,7 +48205,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T07:52:10.666Z",
+    "lastSeen": "2026-09-18T15:42:30.505Z",
     "cooldowns": {
       "brat": 1789631491137,
       "bratwhite": 1789631504807,
@@ -48213,7 +48213,7 @@
       "bratimg": 1784007142095,
       "bratvid": 1784029015573,
       "afk": 1787666787555,
-      "play": 1788617625006
+      "play": 1789746159850
     },
     "clanId": null,
     "isRegistered": false,
@@ -48232,8 +48232,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 3
   },
   "6281283596929": {
     "jid": "6281283596929",
@@ -90281,7 +90281,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33765,
+    "exp": 33750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93984,7 +93984,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 105,
+    "exp": 90,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111546,7 +111546,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41100,
+    "exp": 41160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111556,12 +111556,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T14:21:16.971Z",
+    "lastSeen": "2026-09-18T15:44:03.349Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
       "ut": 1789560686531,
-      "level": 1789741277219
+      "level": 1789741277219,
+      "tutup": 1789746244572
     },
     "clanId": null,
     "isRegistered": false,
@@ -111652,7 +111653,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14730,
+    "exp": 14775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120017,20 +120018,18 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟",
-    "lastSeen": "2026-09-18T15:42:49.514Z",
+    "lastSeen": "2026-09-18T15:36:58.134Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 810,
+    "exp": 780,
     "cooldowns": {
       "s": 1789744847402,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789728572239,
-      "d": 1789728398252,
-      "brat": 1789746131510,
-      "qc": 1789746169600
+      "d": 1789728398252
     },
-    "energi": 99987,
+    "energi": 99989,
     "lastActiveDate": "18/9/2026",
     "activeDays": 4
   },
@@ -123613,7 +123612,7 @@
   "6281364202366": {
     "jid": "6281364202366",
     "rpg": {},
-    "exp": 180,
+    "exp": 165,
     "energi": 99999
   },
   "6281991077169": {
@@ -123869,7 +123868,7 @@
   "6283849336686": {
     "jid": "6283849336686",
     "rpg": {},
-    "exp": 1815
+    "exp": 1845
   },
   "6285181861020": {
     "jid": "6285181861020",
@@ -124106,23 +124105,28 @@
   },
   "6285210335100": {
     "name": "dstn",
-    "lastSeen": "2026-09-18T15:40:18.816Z",
+    "lastSeen": "2026-09-18T15:43:13.591Z",
     "jid": "6285210335100",
     "rpg": {},
-    "exp": 165,
+    "exp": 195,
     "cooldowns": {
       "menu": 1789745662354,
       "allmenu": 1789745669721,
       "brat": 1789745778790,
       "bratimg": 1789745794822,
       "bratvid": 1789745866098,
-      "iqc": 1789745916052,
+      "iqc": 1789746195427,
       "qc": 1789745934288,
       "asupan": 1789746002957,
       "bocil": 1789746020510
     },
     "lastActiveDate": "18/9/2026",
     "activeDays": 1,
-    "energi": 17
+    "energi": 13
+  },
+  "6287857367638": {
+    "jid": "6287857367638",
+    "rpg": {},
+    "exp": 15
   }
 }
