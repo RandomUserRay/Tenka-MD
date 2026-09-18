@@ -99273,7 +99273,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 45,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106926,7 +106926,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5070,
+    "exp": 5085,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120023,7 +120023,7 @@
     "exp": 780,
     "cooldowns": {
       "s": 1789744847402,
-      "smeme": 1789745827224,
+      "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789728572239,
       "d": 1789728398252
@@ -124101,5 +124101,22 @@
     "jid": "6283197694278",
     "rpg": {},
     "exp": 15
+  },
+  "6285210335100": {
+    "name": "dstn",
+    "lastSeen": "2026-09-18T15:37:43.533Z",
+    "jid": "6285210335100",
+    "rpg": {},
+    "exp": 90,
+    "cooldowns": {
+      "menu": 1789745662354,
+      "allmenu": 1789745669721,
+      "brat": 1789745778790,
+      "bratimg": 1789745794822,
+      "bratvid": 1789745866098
+    },
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 1,
+    "energi": 22
   }
 }
