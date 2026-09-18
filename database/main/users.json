@@ -19826,7 +19826,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31680,
+    "exp": 31740,
     "level": 1,
     "koin": 191091,
     "unlockedFeatures": [],
@@ -111369,7 +111369,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17789,
+    "exp": 17804,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111379,7 +111379,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T11:18:12.653Z",
+    "lastSeen": "2026-09-18T11:19:29.377Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111477,7 +111477,8 @@
       "antidocument": 1789730085890,
       "close": 1789730222871,
       "open": 1789730228951,
-      "giveaway": 1789730292706
+      "giveaway": 1789730292706,
+      "ht": 1789730369485
     },
     "clanId": null,
     "isRegistered": false,
@@ -111512,7 +111513,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37920,
+    "exp": 37935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120781,7 +120782,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 6690,
+    "exp": 6705,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-18T06:00:49.431Z",
@@ -121926,7 +121927,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17475,
+    "exp": 17520,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
@@ -123401,7 +123402,7 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 810,
+    "exp": 855,
     "name": "riyy stur",
     "lastSeen": "2026-09-16T08:41:08.576Z",
     "cooldowns": {
