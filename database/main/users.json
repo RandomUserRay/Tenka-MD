@@ -4415,7 +4415,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231260,
+    "exp": 231275,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -19677,7 +19677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 280385,
+    "exp": 280295,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19952,7 +19952,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 151348,
+    "exp": 151288,
     "level": 1,
     "koin": 1124732,
     "unlockedFeatures": [],
@@ -90120,7 +90120,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15375,
+    "exp": 15420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90261,7 +90261,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31740,
+    "exp": 31785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108504,7 +108504,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1605,
+    "exp": 1590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111944,7 +111944,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19560,
+    "exp": 19470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123460,6 +123460,18 @@
     "exp": 30,
     "energi": 99999
   },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123476,18 +123488,6 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123729,6 +123729,12 @@
     "exp": 270,
     "energi": 99999
   },
+  "6283872700462": {
+    "jid": "6283872700462",
+    "rpg": {},
+    "exp": 120,
+    "energi": 99999
+  },
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
@@ -123745,12 +123751,6 @@
     "jid": "628135220849",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
-  },
-  "6283872700462": {
-    "jid": "6283872700462",
-    "rpg": {},
-    "exp": 120,
     "energi": 99999
   },
   "916290210478": {
