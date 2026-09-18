@@ -15996,7 +15996,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9358077,
+    "exp": 9358152,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -26512,7 +26512,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168111,
+    "exp": 168126,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26521,7 +26521,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T07:49:32.179Z",
+    "lastSeen": "2026-09-18T07:52:32.704Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26545,7 +26545,7 @@
       "pakustad": 1788354793905,
       "h": 1789390175183,
       "kick": 1789124189537,
-      "p": 1789717762099,
+      "p": 1789717953872,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
       "hytamkan": 1785385527679,
@@ -36072,7 +36072,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225905,
+    "exp": 225935,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -123872,5 +123872,10 @@
     "jid": "6281220845350",
     "rpg": {},
     "exp": 75
+  },
+  "6285607347283": {
+    "jid": "6285607347283",
+    "rpg": {},
+    "exp": 15
   }
 }
