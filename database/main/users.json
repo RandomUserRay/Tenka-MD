@@ -111366,7 +111366,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17219,
+    "exp": 17234,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111376,7 +111376,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T11:05:08.088Z",
+    "lastSeen": "2026-09-18T11:05:37.887Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111464,7 +111464,8 @@
       "tebakmakanan": 1789644165708,
       "tebakhewan": 1789644279867,
       "intro": 1789645014218,
-      "delete": 1789729508143
+      "delete": 1789729508143,
+      "pinchat": 1789729538003
     },
     "clanId": null,
     "isRegistered": false,
@@ -121913,7 +121914,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16755,
+    "exp": 16815,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
