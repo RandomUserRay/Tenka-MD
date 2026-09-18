@@ -93172,7 +93172,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34473,
+    "exp": 34458,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -93182,7 +93182,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T15:02:17.300Z",
+    "lastSeen": "2026-09-18T15:01:10.153Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -93205,8 +93205,7 @@
       "ytmp4": 1789485415761,
       "samehadaku": 1789627642352,
       "wastalk": 1789743408871,
-      "gen-xnxx": 1789743671238,
-      "menu": 1789743741229
+      "gen-xnxx": 1789743671238
     },
     "clanId": null,
     "isRegistered": false,
@@ -111647,7 +111646,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14595,
+    "exp": 14610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119985,7 +119984,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1095,
     "energi": 99999
   },
   "6285785063453": {
@@ -120199,15 +120198,15 @@
   "6285770048398": {
     "jid": "6285770048398",
     "rpg": {},
-    "exp": 285,
+    "exp": 270,
     "name": "-endy oey",
-    "lastSeen": "2026-09-18T15:02:09.988Z",
+    "lastSeen": "2026-09-18T10:13:31.179Z",
     "cooldowns": {
       "play": 1789128750730,
       "pin": 1789453870745,
-      "tt": 1789743735507
+      "tt": 1789726414202
     },
-    "energi": 99997,
+    "energi": 99998,
     "lastActiveDate": "18/9/2026",
     "activeDays": 5
   },
