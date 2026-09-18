@@ -102379,13 +102379,13 @@
   },
   "6283822995454": {
     "name": "Hu",
-    "lastSeen": "2026-09-17T13:45:41.120Z",
+    "lastSeen": "2026-09-18T04:09:09.512Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276605,
+    "exp": 276680,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -102396,7 +102396,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1789603655135,
+      "jadibot": 1789704552949,
       "menu": 1789545168780,
       "stopjadibot": 1789603639712,
       "p": 1789545922353,
@@ -102419,8 +102419,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 6,
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 7,
     "fun": {}
   },
   "6285641569049": {
