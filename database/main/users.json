@@ -46773,7 +46773,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176310,
+    "exp": 176325,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -48116,7 +48116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61620,
+    "exp": 61635,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54253,7 +54253,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7410,
+    "exp": 7425,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111384,7 +111384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18689,
+    "exp": 18719,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111394,7 +111394,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T11:50:32.621Z",
+    "lastSeen": "2026-09-18T11:51:34.086Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111496,7 +111496,8 @@
       "ht": 1789730369485,
       "jadwalgroup": 1789731861388,
       "listtoxic": 1789732069379,
-      "deltoxic": 1789732232769
+      "deltoxic": 1789732232769,
+      "addtoxic": 1789732294173
     },
     "clanId": null,
     "isRegistered": false,
@@ -121899,7 +121900,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 5640,
+    "exp": 5670,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121945,7 +121946,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19140,
+    "exp": 19230,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
