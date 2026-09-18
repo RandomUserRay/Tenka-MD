@@ -92319,10 +92319,10 @@
     "jid": "6283171327440",
     "name": "Cry3xe",
     "number": "6283171327440",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2025,
+    "exp": 2040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92332,7 +92332,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T09:32:21.190Z",
+    "lastSeen": "2026-09-18T11:35:30.494Z",
     "cooldowns": {
       "play": 1787821051452,
       "s": 1787827954781
@@ -123993,7 +123993,7 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6282274381730": {
     "jid": "6282274381730",
