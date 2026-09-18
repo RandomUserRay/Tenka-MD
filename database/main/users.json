@@ -48113,10 +48113,10 @@
     "jid": "62882008141610",
     "name": "Reynandds",
     "number": "62882008141610",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63315,
+    "exp": 63330,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48125,7 +48125,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T14:15:40.897Z",
+    "lastSeen": "2026-09-18T14:16:02.836Z",
     "cooldowns": {
       "menu": 1786773858588,
       "allmenu": 1784193715274,
@@ -111578,7 +111578,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8085,
+    "exp": 8100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123851,7 +123851,7 @@
   "6283849336686": {
     "jid": "6283849336686",
     "rpg": {},
-    "exp": 1305
+    "exp": 1320
   },
   "6285181861020": {
     "jid": "6285181861020",
@@ -124065,6 +124065,10 @@
   "6282298062737": {
     "jid": "6282298062737",
     "rpg": {},
-    "exp": 45
+    "exp": 60,
+    "name": "Asep pengen jadi MC anime",
+    "lastSeen": "2026-09-18T14:15:56.176Z",
+    "cooldowns": {},
+    "energi": 23
   }
 }
