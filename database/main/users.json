@@ -73103,7 +73103,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8535,
+    "exp": 8550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -92622,7 +92622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111636,7 +111636,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13050,
+    "exp": 13080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119997,18 +119997,18 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟𝑙𝑜𝑐𝑘 𝐻𝑜𝑙𝑚𝑒𝑠",
-    "lastSeen": "2026-09-18T12:06:56.030Z",
+    "lastSeen": "2026-09-18T10:52:44.174Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 735,
+    "exp": 720,
     "cooldowns": {
-      "s": 1789733218881,
+      "s": 1789728764833,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789728572239,
       "d": 1789728398252
     },
-    "energi": 99992,
+    "energi": 99993,
     "lastActiveDate": "18/9/2026",
     "activeDays": 4
   },
@@ -121910,7 +121910,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 5880,
+    "exp": 5895,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121956,7 +121956,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19470,
+    "exp": 19500,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
