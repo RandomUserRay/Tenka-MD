@@ -34718,10 +34718,10 @@
     "jid": "62882000733701",
     "name": "🤡",
     "number": "62882000733701",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3570,
+    "exp": 3585,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34730,7 +34730,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T11:16:04.496Z",
+    "lastSeen": "2026-09-18T12:26:22.976Z",
     "cooldowns": {
       "menu": 1789643753557,
       "stiker": 1783020339427,
@@ -34743,7 +34743,7 @@
       "anichin": 1789219313177,
       "pin": 1789239519944,
       "cektsundere": 1789405148508,
-      "tts": 1789643770336
+      "tts": 1789734389279
     },
     "clanId": null,
     "isRegistered": false,
@@ -34764,8 +34764,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 11
   },
   "6285187743901": {
     "jid": "6285187743901",
@@ -46773,7 +46773,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177090,
+    "exp": 177105,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -73103,7 +73103,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8625,
+    "exp": 8640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96088,7 +96088,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5340,
+    "exp": 5325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99482,12 +99482,12 @@
   },
   "6285823141967": {
     "jid": "6285823141967",
-    "name": "REZZ PROJECT",
+    "name": "Unknown",
     "number": "6285823141967",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30,
+    "exp": 15,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99497,10 +99497,8 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T12:26:26.552Z",
-    "cooldowns": {
-      "play": 1789734425093
-    },
+    "lastSeen": "2026-08-27T04:25:19.500Z",
+    "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -99508,9 +99506,7 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": [],
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 1
+    "access": []
   },
   "6282155458984": {
     "jid": "6282155458984",
@@ -100411,7 +100407,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1545,
+    "exp": 1530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106631,7 +106627,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 930,
+    "exp": 945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120001,18 +119997,18 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟𝑙𝑜𝑐𝑘 𝐻𝑜𝑙𝑚𝑒𝑠",
-    "lastSeen": "2026-09-18T12:27:06.951Z",
+    "lastSeen": "2026-09-18T12:06:56.030Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 750,
+    "exp": 735,
     "cooldowns": {
-      "s": 1789734428665,
+      "s": 1789733218881,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789728572239,
       "d": 1789728398252
     },
-    "energi": 99991,
+    "energi": 99992,
     "lastActiveDate": "18/9/2026",
     "activeDays": 4
   },
@@ -123923,7 +123919,7 @@
   "6283138987961": {
     "jid": "6283138987961",
     "rpg": {},
-    "exp": 225
+    "exp": 240
   },
   "6285136585100": {
     "jid": "6285136585100",
@@ -123988,7 +123984,7 @@
   "62881012300075": {
     "jid": "62881012300075",
     "rpg": {},
-    "exp": 1020
+    "exp": 1050
   },
   "6285846047058": {
     "jid": "6285846047058",
