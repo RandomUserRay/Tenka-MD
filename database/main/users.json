@@ -123923,7 +123923,7 @@
   "6283138987961": {
     "jid": "6283138987961",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "name": ".",
     "lastSeen": "2026-09-18T13:14:30.797Z"
   },
@@ -124065,10 +124065,14 @@
   "6282298062737": {
     "jid": "6282298062737",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "Asep pengen jadi MC anime",
     "lastSeen": "2026-09-18T14:15:56.176Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1789740993810
+    },
+    "energi": 23,
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 1
   }
 }
