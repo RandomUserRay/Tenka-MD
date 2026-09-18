@@ -46771,7 +46771,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175710,
+    "exp": 175725,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -48114,7 +48114,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61260,
+    "exp": 61275,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111497,7 +111497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37650,
+    "exp": 37665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123924,7 +123924,9 @@
   "62881012300075": {
     "jid": "62881012300075",
     "rpg": {},
-    "exp": 450
+    "exp": 480,
+    "name": "zra",
+    "lastSeen": "2026-09-18T09:34:08.230Z"
   },
   "6285846047058": {
     "jid": "6285846047058",
