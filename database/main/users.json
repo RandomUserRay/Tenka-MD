@@ -22974,10 +22974,10 @@
     "jid": "6285651147407",
     "name": "Khairul Huda/KH/カイル カハ",
     "number": "6285651147407",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 77622,
+    "exp": 77607,
     "level": 1,
     "koin": 863484,
     "unlockedFeatures": [],
@@ -22986,7 +22986,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T14:18:06.493Z",
+    "lastSeen": "2026-07-15T11:09:09.724Z",
     "cooldowns": {
       "cekfemboy": 1782881566909,
       "cekcreative": 1782554090302,
@@ -23002,7 +23002,7 @@
       "play": 1782900745089,
       "level": 1782968454509,
       "tebakbendera": 1782892968688,
-      "s": 1789741088608,
+      "s": 1783408771849,
       "topexp": 1782908642162,
       "femboy": 1782881625886,
       "tebaknegara": 1783057075173,
@@ -23049,9 +23049,7 @@
     "inventory": {
       "trash": 1
     },
-    "access": [],
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 1
+    "access": []
   },
   "6285245963448": {
     "jid": "6285245963448",
@@ -48118,7 +48116,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63405,
+    "exp": 63360,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -92018,7 +92016,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 930,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111538,7 +111536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40020,
+    "exp": 39990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111560,13 +111558,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 5,
-      "maxHealth": 140,
-      "maxMana": 120,
-      "maxStamina": 120,
-      "health": 140,
-      "mana": 120,
-      "stamina": 120
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
     "inventory": {},
     "access": [],
@@ -124067,7 +124065,7 @@
   "6282298062737": {
     "jid": "6282298062737",
     "rpg": {},
-    "exp": 165,
+    "exp": 120,
     "name": "Asep pengen jadi MC anime",
     "lastSeen": "2026-09-18T14:17:01.360Z",
     "cooldowns": {
