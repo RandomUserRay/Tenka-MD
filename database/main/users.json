@@ -105071,7 +105071,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20505,
+    "exp": 20520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105081,7 +105081,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T14:40:55.686Z",
+    "lastSeen": "2026-09-18T00:15:56.806Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -105096,7 +105096,7 @@
       "antiswgc": 1789543041442,
       "welcome": 1789484984576,
       "mutegc": 1789530421052,
-      "setwelcome": 1789485014911,
+      "setwelcome": 1789690557047,
       "iqc": 1789476581090,
       "unadmin": 1789482605312,
       "level": 1789643330349,
@@ -105139,8 +105139,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 5
   },
   "62882005885964": {
     "jid": "62882005885964",
