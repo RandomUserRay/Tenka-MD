@@ -48116,7 +48116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63090,
+    "exp": 63105,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -81403,7 +81403,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56928,
+    "exp": 56973,
     "level": 1,
     "koin": 223406,
     "saldo": 0,
@@ -81413,7 +81413,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:32:25.039Z",
+    "lastSeen": "2026-09-18T13:46:13.945Z",
     "cooldowns": {
       "mancing": 1789461934997,
       "rest": 1789460699247,
@@ -81421,13 +81421,13 @@
       "use": 1785664554484,
       "saldo": 1789569145085,
       "casino": 1789460539407,
-      "kerja": 1789569132272,
+      "kerja": 1789739168940,
       "shop": 1789460943698,
       "tambang": 1785604301191,
       "top": 1788528633132,
       "tf": 1789460387331,
       "transfer": 1789460586653,
-      "live": 1789569130168,
+      "live": 1789739165624,
       "freelance": 1789461935328,
       "menu": 1789464919256
     },
@@ -81437,9 +81437,9 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 5,
-      "health": 150,
-      "mana": 125,
+      "stamina": 52,
+      "health": 105,
+      "mana": 53,
       "maxHealth": 150,
       "maxMana": 125,
       "maxStamina": 125,
@@ -81455,8 +81455,8 @@
       "stamina": 0
     },
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 5,
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 6,
     "lastStreamer": 1789545953646
   },
   "6283153856415": {
@@ -123851,7 +123851,7 @@
   "6283849336686": {
     "jid": "6283849336686",
     "rpg": {},
-    "exp": 1215
+    "exp": 1230
   },
   "6285181861020": {
     "jid": "6285181861020",
@@ -124027,7 +124027,7 @@
   "6282274381730": {
     "jid": "6282274381730",
     "rpg": {},
-    "exp": 540
+    "exp": 555
   },
   "6285701538603": {
     "jid": "6285701538603",
