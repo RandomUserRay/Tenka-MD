@@ -11523,7 +11523,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33094,
+    "exp": 33109,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11532,7 +11532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T11:50:02.918Z",
+    "lastSeen": "2026-09-18T13:39:20.560Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11545,7 +11545,7 @@
       "cekganteng": 1785320474238,
       "work": 1788080778528,
       "saldo": 1785649056171,
-      "menu": 1785649097459,
+      "menu": 1789738765529,
       "menucat": 1785649108309,
       "freelance": 1786708363322,
       "money": 1788080643994,
@@ -11591,8 +11591,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 5
   },
   "628385932548": {
     "jid": "628385932548",
@@ -120001,16 +120001,17 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟𝑙𝑜𝑐𝑘 𝐻𝑜𝑙𝑚𝑒𝑠",
-    "lastSeen": "2026-09-18T12:27:06.951Z",
+    "lastSeen": "2026-09-18T13:39:32.700Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 750,
+    "exp": 765,
     "cooldowns": {
       "s": 1789734428665,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789728572239,
-      "d": 1789728398252
+      "d": 1789728398252,
+      "owner": 1789738772863
     },
     "energi": 99991,
     "lastActiveDate": "18/9/2026",
