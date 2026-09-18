@@ -48118,7 +48118,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63435,
+    "exp": 63450,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111538,7 +111538,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40110,
+    "exp": 40170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111548,11 +111548,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T12:11:24.115Z",
+    "lastSeen": "2026-09-18T14:21:16.971Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
-      "ut": 1789560686531
+      "ut": 1789560686531,
+      "level": 1789741277219
     },
     "clanId": null,
     "isRegistered": false,
@@ -111570,8 +111571,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 3
   },
   "6287893710951": {
     "jid": "6287893710951",
@@ -111580,7 +111581,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8235,
+    "exp": 8250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111638,12 +111639,12 @@
   },
   "6288213736033": {
     "jid": "6288213736033",
-    "name": "Unknown",
+    "name": "~You",
     "number": "6288213736033",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14160,
+    "exp": 14175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111653,8 +111654,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T07:42:15.782Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-18T14:20:58.186Z",
+    "cooldowns": {
+      "level": 1789741258624
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -111670,7 +111673,9 @@
       "stamina": 105
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 1
   },
   "6288269653017": {
     "jid": "6288269653017",
@@ -124030,7 +124035,7 @@
   "6282274381730": {
     "jid": "6282274381730",
     "rpg": {},
-    "exp": 660
+    "exp": 675
   },
   "6285701538603": {
     "jid": "6285701538603",
