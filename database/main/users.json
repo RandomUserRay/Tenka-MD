@@ -123993,7 +123993,11 @@
     "name": ".",
     "lastSeen": "2026-09-18T12:18:15.350Z",
     "energi": 999997,
-    "cooldowns": {}
+    "cooldowns": {
+      "ytmp4": 1789733905495
+    },
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 1
   },
   "6285969077344": {
     "jid": "6285969077344",
