@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53560,
+    "exp": 53575,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,10 +342,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T12:42:33.870Z",
+    "lastSeen": "2026-09-18T12:46:43.402Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789735355797,
+      "s": 1789735604190,
       "femboy": 1789395584644,
       "daily": 1780385975656,
       "profile": 1789213791553,
@@ -1799,7 +1799,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645534,
+    "exp": 645684,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -48116,7 +48116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61995,
+    "exp": 61965,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -49337,7 +49337,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34395,
+    "exp": 34380,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66918,7 +66918,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169490,
+    "exp": 169520,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -73103,7 +73103,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8715,
+    "exp": 8685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106977,7 +106977,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 930,
+    "exp": 900,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111536,7 +111536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38715,
+    "exp": 38625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111578,7 +111578,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7965,
+    "exp": 7950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111640,7 +111640,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13320,
+    "exp": 13290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111983,7 +111983,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20775,
+    "exp": 20745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114139,7 +114139,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2115,
+    "exp": 2100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120358,7 +120358,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 7320,
+    "exp": 7260,
     "energi": 99999,
     "name": ".",
     "lastSeen": "2026-09-12T07:16:39.974Z",
@@ -123742,7 +123742,7 @@
   "6281222004016": {
     "jid": "6281222004016",
     "rpg": {},
-    "exp": 660,
+    "exp": 645,
     "energi": 99999
   },
   "6281239051413": {
@@ -123851,7 +123851,7 @@
   "6283849336686": {
     "jid": "6283849336686",
     "rpg": {},
-    "exp": 240
+    "exp": 225
   },
   "6285181861020": {
     "jid": "6285181861020",
@@ -123988,7 +123988,7 @@
   "62881012300075": {
     "jid": "62881012300075",
     "rpg": {},
-    "exp": 1200,
+    "exp": 1095,
     "name": "kil",
     "lastSeen": "2026-09-18T12:45:27.265Z"
   },
@@ -124044,10 +124044,5 @@
     "energi": 24,
     "lastActiveDate": "18/9/2026",
     "activeDays": 1
-  },
-  "6285607583937": {
-    "jid": "6285607583937",
-    "rpg": {},
-    "exp": 15
   }
 }
