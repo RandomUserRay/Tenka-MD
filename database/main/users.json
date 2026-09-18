@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-18T09:41:18.363Z",
+    "lastSeen": "2026-09-18T09:37:08.687Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000071700,
+    "exp": 9000071625,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -19677,7 +19677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 280430,
+    "exp": 280520,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -35266,7 +35266,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1000672,
+    "exp": 1000702,
     "level": 1,
     "koin": 165496,
     "unlockedFeatures": [],
@@ -40301,7 +40301,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62940,
+    "exp": 62820,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -98222,7 +98222,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2760,
+    "exp": 2730,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104455,7 +104455,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69153,
+    "exp": 69168,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -107044,7 +107044,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22020,
+    "exp": 22035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107313,7 +107313,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6555,
+    "exp": 6585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111365,7 +111365,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17039,
+    "exp": 17054,
     "level": 1,
     "koin": 368,
     "saldo": 0,
@@ -111497,7 +111497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37650,
+    "exp": 37665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113021,7 +113021,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10500,
+    "exp": 10560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123382,7 +123382,7 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 765,
+    "exp": 780,
     "name": "riyy stur",
     "lastSeen": "2026-09-16T08:41:08.576Z",
     "cooldowns": {
@@ -123468,18 +123468,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6282396836118": {
-    "jid": "6282396836118",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287761132160": {
-    "jid": "6287761132160",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6288269557550": {
     "jid": "6288269557550",
     "rpg": {},
@@ -123496,6 +123484,18 @@
     "jid": "6285646435303",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282396836118": {
+    "jid": "6282396836118",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287761132160": {
+    "jid": "6287761132160",
+    "rpg": {},
+    "exp": 30,
     "energi": 99999
   },
   "6281269678790": {
@@ -123737,12 +123737,6 @@
     "exp": 270,
     "energi": 99999
   },
-  "6283872700462": {
-    "jid": "6283872700462",
-    "rpg": {},
-    "exp": 120,
-    "energi": 99999
-  },
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
@@ -123759,6 +123753,12 @@
     "jid": "628135220849",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6283872700462": {
+    "jid": "6283872700462",
+    "rpg": {},
+    "exp": 120,
     "energi": 99999
   },
   "916290210478": {
@@ -123930,5 +123930,10 @@
     "jid": "6285846047058",
     "rpg": {},
     "exp": 75
+  },
+  "6285969077344": {
+    "jid": "6285969077344",
+    "rpg": {},
+    "exp": 30
   }
 }
