@@ -20393,7 +20393,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234092,
+    "exp": 234152,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -97999,7 +97999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11730,
+    "exp": 11745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111636,7 +111636,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13005,
+    "exp": 13020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121910,7 +121910,7 @@
   "6285923433144": {
     "jid": "6285923433144",
     "rpg": {},
-    "exp": 5820,
+    "exp": 5835,
     "name": "Kemal",
     "lastSeen": "2026-09-17T11:23:53.444Z",
     "energi": 99999
@@ -121956,7 +121956,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19455,
+    "exp": 19470,
     "name": "elnao",
     "lastSeen": "2026-09-18T08:21:39.691Z",
     "energi": 99999
@@ -122193,8 +122193,10 @@
   "6287790981903": {
     "jid": "6287790981903",
     "rpg": {},
-    "exp": 4080,
-    "energi": 99999
+    "exp": 4095,
+    "energi": 99999,
+    "name": "yundaa",
+    "lastSeen": "2026-09-18T12:02:35.427Z"
   },
   "62895638989358": {
     "jid": "62895638989358",
