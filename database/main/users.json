@@ -113288,9 +113288,9 @@
     "energi": 99967,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6928,
+    "exp": 7658,
     "level": 1,
-    "koin": 0,
+    "koin": 14013,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:30:34.066Z",
+    "lastSeen": "2026-09-19T17:30:56.073Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113322,7 +113322,8 @@
       "ngemis": 1789838655614,
       "bank": 1789838895461,
       "ngojek": 1789838931664,
-      "streamer": 1789839005280
+      "streamer": 1789839005280,
+      "ngamen": 1789839048545
     },
     "clanId": null,
     "isRegistered": false,
@@ -113331,7 +113332,7 @@
     "regGender": null,
     "rpg": {
       "health": 60,
-      "stamina": 40,
+      "stamina": 20,
       "maxStamina": 100,
       "attack": 10,
       "maxHealth": 100,
