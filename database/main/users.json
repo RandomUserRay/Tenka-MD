@@ -54260,7 +54260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7845,
+    "exp": 7860,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -111437,7 +111437,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27444,
+    "exp": 27459,
     "level": 1,
     "koin": 41443,
     "saldo": 0,
@@ -111447,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:06:05.587Z",
+    "lastSeen": "2026-09-19T12:06:35.353Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111708,7 +111708,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15555,
+    "exp": 15570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124357,6 +124357,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 375
+    "exp": 390
   }
 }
