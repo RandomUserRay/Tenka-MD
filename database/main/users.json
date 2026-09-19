@@ -1222,7 +1222,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 531393,
+    "exp": 531408,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1799,7 +1799,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 646134,
+    "exp": 646209,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -4415,7 +4415,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231275,
+    "exp": 231290,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -66671,10 +66671,10 @@
     "jid": "6285775503901",
     "name": "Elzaaa",
     "number": "6285775503901",
-    "energi": 99986,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7894,
+    "exp": 7789,
     "level": 1,
     "koin": 133313,
     "unlockedFeatures": [],
@@ -66683,7 +66683,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:13:55.400Z",
+    "lastSeen": "2026-09-19T12:11:48.070Z",
     "cooldowns": {
       "bratvid": 1788091268343,
       "bratimg": 1789814698314,
@@ -66702,11 +66702,7 @@
       "menucat": 1789819908099,
       "bratcewek": 1789819796405,
       "freelance": 1789819823325,
-      "fishing": 1789819861154,
-      "gays": 1789819942564,
-      "onlynsfw": 1789819933505,
-      "lesbian": 1789819960491,
-      "benefitpremium": 1789820004144
+      "fishing": 1789819861154
     },
     "clanId": null,
     "isRegistered": false,
@@ -96133,7 +96129,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5580,
+    "exp": 5610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104540,7 +104536,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71148,
+    "exp": 71103,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111449,12 +111445,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99976,
+    "energi": 99981,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30465,
+    "exp": 30260,
     "level": 1,
-    "koin": 29816,
+    "koin": 23816,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111462,7 +111458,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:14:00.455Z",
+    "lastSeen": "2026-09-19T12:11:47.374Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111571,14 +111567,12 @@
       "lottery": 1789819247568,
       "gacha": 1789819266658,
       "maling": 1789819882994,
-      "slot": 1789820002680,
+      "slot": 1789819825701,
       "ngojek": 1789819911349,
       "leveluprpg": 1789819521422,
       "parkir": 1789819555200,
-      "bank": 1789820009102,
-      "nyapu": 1789819899089,
-      "nulis": 1789819949926,
-      "berburu": 1789820029407
+      "bank": 1789819862100,
+      "nyapu": 1789819899089
     },
     "clanId": null,
     "isRegistered": false,
@@ -111592,14 +111586,13 @@
       "maxStamina": 115,
       "health": 130,
       "mana": 115,
-      "stamina": 90,
+      "stamina": 115,
       "attack": 10,
       "bank": 60080
     },
     "inventory": {
       "shuriken": 6,
-      "rock": 3,
-      "daging_kelinci": 2
+      "rock": 3
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
@@ -111619,7 +111612,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42795,
+    "exp": 42750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111729,7 +111722,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15735,
+    "exp": 15705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120242,7 +120235,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1380,
+    "exp": 1410,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-19T04:53:09.615Z",
     "cooldowns": {
@@ -122997,7 +122990,7 @@
   "6285817275968": {
     "jid": "6285817275968",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
     "energi": 99999
   },
   "6285752597044": {
@@ -123508,7 +123501,7 @@
     "lastSeen": "2026-09-17T11:19:31.256Z",
     "jid": "6281533725017",
     "rpg": {},
-    "exp": 3900,
+    "exp": 3825,
     "lastActiveDate": "17/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -124378,6 +124371,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 420
+    "exp": 405
   }
 }
