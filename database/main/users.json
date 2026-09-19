@@ -101843,7 +101843,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 450,
+    "exp": 465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101853,11 +101853,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T09:47:23.435Z",
+    "lastSeen": "2026-09-19T11:03:24.218Z",
     "cooldowns": {
       "robloxstalk": 1789805330376,
       "play": 1789811075229,
-      "afk": 1789811244617
+      "afk": 1789815805308
     },
     "clanId": null,
     "isRegistered": false,
