@@ -111903,12 +111903,12 @@
   },
   "6283844881941": {
     "jid": "6283844881941",
-    "name": "branz",
+    "name": "sell",
     "number": "6283844881941",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 525,
+    "exp": 540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111918,7 +111918,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T10:14:14.471Z",
+    "lastSeen": "2026-09-19T14:30:43.969Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794
@@ -111928,7 +111928,9 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "health": 100
+    },
     "inventory": {},
     "access": [],
     "lastActiveDate": "17/9/2026",
