@@ -111453,7 +111453,7 @@
     "energi": 99968,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30555,
+    "exp": 30655,
     "level": 1,
     "koin": 27816,
     "saldo": 0,
@@ -111582,7 +111582,8 @@
       "berburu": 1789820029407,
       "blacksmith": 1789820052789,
       "coinflip": 1789820111718,
-      "boss": 1789820124816
+      "boss": 1789820124816,
+      "fishing": 1789820141972
     },
     "clanId": null,
     "isRegistered": false,
@@ -111603,7 +111604,8 @@
     "inventory": {
       "shuriken": 6,
       "rock": 3,
-      "daging_kelinci": 2
+      "daging_kelinci": 2,
+      "fish": 1
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
