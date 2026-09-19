@@ -111453,7 +111453,7 @@
     "energi": 99966,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31267,
+    "exp": 31297,
     "level": 1,
     "koin": 23494,
     "saldo": 0,
@@ -111463,7 +111463,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:19:41.765Z",
+    "lastSeen": "2026-09-19T12:20:05.707Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111576,7 +111576,7 @@
       "ngojek": 1789819911349,
       "leveluprpg": 1789819521422,
       "parkir": 1789819555200,
-      "bank": 1789820009102,
+      "bank": 1789820405776,
       "nyapu": 1789819899089,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111585,7 +111585,7 @@
       "boss": 1789820124816,
       "fishing": 1789820141972,
       "dungeon": 1789820172244,
-      "garden": 1789820381902
+      "garden": 1789820394422
     },
     "clanId": null,
     "isRegistered": false,
@@ -111603,7 +111603,12 @@
       "attack": 10,
       "bank": 60080,
       "garden": {
-        "plots": [],
+        "plots": [
+          {
+            "crop": "pumpkin",
+            "plantedAt": 1789820394328
+          }
+        ],
         "maxPlots": 3
       }
     },
@@ -111613,8 +111618,7 @@
       "daging_kelinci": 2,
       "fish": 1,
       "coal": 2,
-      "iron": 1,
-      "pumpkinseed": 1
+      "iron": 1
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
@@ -111678,7 +111682,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8820,
+    "exp": 8835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
