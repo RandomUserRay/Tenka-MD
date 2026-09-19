@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53560,
+    "exp": 53575,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,10 +342,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T12:42:33.870Z",
+    "lastSeen": "2026-09-19T05:38:45.965Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789735355797,
+      "s": 1789796326955,
       "femboy": 1789395584644,
       "daily": 1780385975656,
       "profile": 1789213791553,
@@ -420,8 +420,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 11
   },
   "6285366861793": {
     "jid": "6285366861793",
