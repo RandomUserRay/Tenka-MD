@@ -33027,8 +33027,8 @@
         "name": "ryan"
       },
       "62895406126052@s.whatsapp.net": {
-        "count": 33,
-        "lastChat": 1789811068408,
+        "count": 34,
+        "lastChat": 1789811082147,
         "name": "Iqbal"
       },
       "120363429702701038@g.us": {
@@ -43161,6 +43161,14 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363429170123169@g.us"
+    "jid": "120363429170123169@g.us",
+    "chatStats": {
+      "62895626761698@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789811071938,
+        "name": "traa"
+      }
+    },
+    "name": "INVINCIBLE 👑"
   }
 }
