@@ -46780,7 +46780,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179880,
+    "exp": 179895,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -104545,7 +104545,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71508,
+    "exp": 71568,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111457,7 +111457,7 @@
     "energi": 99934,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52462,
+    "exp": 53022,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111467,7 +111467,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:00:09.235Z",
+    "lastSeen": "2026-09-19T14:00:57.107Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111542,7 +111542,7 @@
       "delppgc": 1789623001520,
       "rpg": 1789818929212,
       "antiphising": 1789623157022,
-      "level": 1789826274579,
+      "level": 1789826458342,
       "setgoodbye": 1789640523701,
       "setppgc": 1789640571121,
       "game": 1789641230694,
@@ -111601,7 +111601,8 @@
       "heal": 1789825727932,
       "buykoin": 1789825790498,
       "jual": 1789826180620,
-      "ngemis": 1789826412607
+      "ngemis": 1789826412607,
+      "kurir": 1789826430440
     },
     "clanId": null,
     "isRegistered": false,
@@ -111615,7 +111616,7 @@
       "maxStamina": 125,
       "health": 150,
       "mana": 125,
-      "stamina": 100,
+      "stamina": 75,
       "attack": 10,
       "bank": 375144,
       "garden": {
@@ -111700,7 +111701,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9180,
+    "exp": 9210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120964,7 +120965,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 6840,
+    "exp": 6885,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-18T06:00:49.431Z",
@@ -121213,7 +121214,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 4905,
+    "exp": 4920,
     "energi": 99999
   },
   "6288245965331": {
