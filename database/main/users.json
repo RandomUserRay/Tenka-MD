@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000072300,
+    "exp": 9000072375,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -46778,7 +46778,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178470,
+    "exp": 178410,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -66923,7 +66923,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169700,
+    "exp": 169730,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -96110,7 +96110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5430,
+    "exp": 5445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104500,7 +104500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69588,
+    "exp": 69528,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -107089,7 +107089,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22305,
+    "exp": 22290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124206,7 +124206,7 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 75,
+    "exp": 120,
     "name": "aiko",
     "lastSeen": "2026-09-19T01:30:07.997Z",
     "cooldowns": {
@@ -124214,10 +124214,5 @@
     },
     "lastActiveDate": "19/9/2026",
     "activeDays": 1
-  },
-  "6285124236521": {
-    "jid": "6285124236521",
-    "rpg": {},
-    "exp": 30
   }
 }
