@@ -113288,7 +113288,7 @@
     "energi": 99966,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8953,
+    "exp": 8983,
     "level": 1,
     "koin": 31993,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:31:12.182Z",
+    "lastSeen": "2026-09-19T17:32:07.933Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113324,7 +113324,8 @@
       "ngojek": 1789838931664,
       "streamer": 1789839005280,
       "ngamen": 1789839048545,
-      "work": 1789839059205
+      "work": 1789839059205,
+      "jualan": 1789839114389
     },
     "clanId": null,
     "isRegistered": false,
