@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
+      "at": 1789825379261
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
       "at": 1789820223342
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789197491413
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789197491239
     }
   ],
   "jpmBlacklist": [],
