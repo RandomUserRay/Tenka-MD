@@ -113285,10 +113285,10 @@
     "jid": "6285150979843",
     "name": "1",
     "number": "6285150979843",
-    "energi": 99980,
+    "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3409,
+    "exp": 3424,
     "level": 1,
     "koin": 89426,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:19:43.190Z",
+    "lastSeen": "2026-09-19T17:20:45.322Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113316,7 +113316,8 @@
       "boss": 1789838323902,
       "mining": 1789838340647,
       "fishing": 1789838358322,
-      "dungeon": 1789838383294
+      "dungeon": 1789838383294,
+      "cooking": 1789838445374
     },
     "clanId": null,
     "isRegistered": false,
