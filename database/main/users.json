@@ -20394,7 +20394,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235142,
+    "exp": 235157,
     "level": 1,
     "koin": 43346,
     "unlockedFeatures": [],
@@ -26730,10 +26730,10 @@
     "jid": "6288804612621",
     "name": "— someone",
     "number": "6288804612621",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 717468,
+    "exp": 717513,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -26742,7 +26742,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T06:19:00.202Z",
+    "lastSeen": "2026-09-19T06:30:17.033Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -26756,7 +26756,7 @@
       "dare": 1785159377242,
       "truth": 1785159368044,
       "google": 1786764012758,
-      "ai": 1789177387307,
+      "ai": 1789799421612,
       "setgoodbye": 1788089698865,
       "setwelcome": 1788089574906,
       "birthday": 1784197926013,
@@ -101802,7 +101802,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2835,
+    "exp": 2850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114178,7 +114178,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2310,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122011,10 +122011,15 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20025,
+    "exp": 20190,
     "name": "elnao",
-    "lastSeen": "2026-09-18T08:21:39.691Z",
-    "energi": 99999
+    "lastSeen": "2026-09-19T06:30:19.235Z",
+    "energi": 99999,
+    "cooldowns": {
+      "level": 1789799419294
+    },
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6283160324169": {
     "jid": "6283160324169",
@@ -123218,7 +123223,7 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "name": "M4n🕸️",
     "lastSeen": "2026-09-15T09:37:05.584Z",
     "cooldowns": {
@@ -123853,7 +123858,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "energi": 99999
   },
   "6288225016844": {
