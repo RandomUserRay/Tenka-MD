@@ -345,7 +345,7 @@
     "lastSeen": "2026-09-19T05:38:45.965Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789826873186,
+      "s": 1789796326955,
       "femboy": 1789395584644,
       "daily": 1780385975656,
       "profile": 1789213791553,
@@ -106986,7 +106986,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5550,
+    "exp": 5565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111459,9 +111459,9 @@
     "energi": 99928,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57184,
+    "exp": 58320,
     "level": 1,
-    "koin": 69496,
+    "koin": 103142,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111469,7 +111469,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:07:26.988Z",
+    "lastSeen": "2026-09-19T14:07:50.791Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111608,7 +111608,8 @@
       "sellall": 1789826498509,
       "gift": 1789826512701,
       "hunt": 1789826647123,
-      "arena": 1789826756853
+      "arena": 1789826756853,
+      "streamer": 1789826874604
     },
     "clanId": null,
     "isRegistered": false,
@@ -111622,7 +111623,7 @@
       "maxStamina": 125,
       "health": 150,
       "mana": 125,
-      "stamina": 110,
+      "stamina": 90,
       "attack": 10,
       "bank": 375144,
       "garden": {
@@ -124269,7 +124270,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 1005,
+    "exp": 1035,
     "energi": 99999,
     "name": "Apegan",
     "lastSeen": "2026-09-19T13:48:57.031Z"
@@ -124433,7 +124434,7 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 600
+    "exp": 615
   },
   "62882007604756": {
     "jid": "62882007604756",
