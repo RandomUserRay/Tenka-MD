@@ -113288,9 +113288,9 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1357,
+    "exp": 2301,
     "level": 1,
-    "koin": 0,
+    "koin": 18587,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:13:06.559Z",
+    "lastSeen": "2026-09-19T17:13:29.594Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113307,7 +113307,8 @@
       "maling": 1789837860345,
       "gacha": 1789837900162,
       "inventory": 1789837938502,
-      "slot": 1789837980924
+      "slot": 1789837980924,
+      "kurir": 1789838012701
     },
     "clanId": null,
     "isRegistered": false,
@@ -113315,7 +113316,8 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 100
+      "health": 100,
+      "stamina": 85
     },
     "inventory": {},
     "access": [],
