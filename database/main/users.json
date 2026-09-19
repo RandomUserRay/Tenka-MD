@@ -101532,12 +101532,12 @@
   },
   "628386801648": {
     "jid": "628386801648",
-    "name": "tata",
+    "name": "Unknown",
     "number": "628386801648",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 60,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101547,10 +101547,8 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T04:22:31.185Z",
-    "cooldowns": {
-      "me": 1789791813673
-    },
+    "lastSeen": "2026-08-30T10:08:59.481Z",
+    "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101558,9 +101556,7 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 1
+    "access": []
   },
   "6282213550673": {
     "jid": "6282213550673",
@@ -108527,7 +108523,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1005,
+    "exp": 1035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120010,7 +120006,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1425,
+    "exp": 1410,
     "energi": 99999
   },
   "6285785063453": {
