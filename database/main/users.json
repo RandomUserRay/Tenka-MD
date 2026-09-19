@@ -113288,7 +113288,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3072,
+    "exp": 3087,
     "level": 1,
     "koin": 58103,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:15:53.895Z",
+    "lastSeen": "2026-09-19T17:16:28.657Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113310,7 +113310,8 @@
       "slot": 1789838032302,
       "kurir": 1789838157175,
       "casino": 1789838050805,
-      "marry": 1789838100906
+      "marry": 1789838100906,
+      "stamina": 1789838188687
     },
     "clanId": null,
     "isRegistered": false,
@@ -113319,7 +113320,8 @@
     "regGender": null,
     "rpg": {
       "health": 100,
-      "stamina": 70
+      "stamina": 70,
+      "maxStamina": 100
     },
     "inventory": {},
     "access": [],
