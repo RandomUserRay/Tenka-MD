@@ -42968,8 +42968,8 @@
   "120363428633492982@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 350,
-        "lastChat": 1789827923272,
+        "count": 351,
+        "lastChat": 1789828225551,
         "name": "a"
       },
       "6283873327063@s.whatsapp.net": {
@@ -42994,7 +42994,7 @@
       "mode": "all"
     },
     "mutedMembers": [],
-    "mutegc": true,
+    "mutegc": false,
     "notifDemote": false,
     "antitoxic": true,
     "toxicMaxWarn": 7,
