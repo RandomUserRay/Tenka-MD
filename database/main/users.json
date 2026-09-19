@@ -18397,7 +18397,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61185,
+    "exp": 61170,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104519,7 +104519,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69783,
+    "exp": 69798,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -120057,12 +120057,12 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟",
-    "lastSeen": "2026-09-19T10:07:24.252Z",
+    "lastSeen": "2026-09-18T16:20:35.008Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1080,
+    "exp": 1065,
     "cooldowns": {
-      "s": 1789812447655,
+      "s": 1789744847402,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789748436358,
@@ -120070,9 +120070,9 @@
       "brat": 1789746131510,
       "qc": 1789746169600
     },
-    "energi": 99998,
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 5
+    "energi": 99999,
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 4
   },
   "62882007228103": {
     "jid": "62882007228103",
@@ -120255,16 +120255,16 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 450,
+    "exp": 435,
     "name": "-endy oey",
-    "lastSeen": "2026-09-19T10:07:32.164Z",
+    "lastSeen": "2026-09-19T03:48:48.830Z",
     "cooldowns": {
       "play": 1789128750730,
       "pin": 1789453870745,
       "tt": 1789786756090,
       "profile": 1789789572059
     },
-    "energi": 99997,
+    "energi": 99998,
     "lastActiveDate": "19/9/2026",
     "activeDays": 6
   },
