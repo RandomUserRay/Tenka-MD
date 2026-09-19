@@ -66671,10 +66671,10 @@
     "jid": "6285775503901",
     "name": "Elzaaa",
     "number": "6285775503901",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7744,
+    "exp": 7759,
     "level": 1,
     "koin": 133313,
     "unlockedFeatures": [],
@@ -66683,7 +66683,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:10:30.716Z",
+    "lastSeen": "2026-09-19T12:11:01.124Z",
     "cooldowns": {
       "bratvid": 1788091268343,
       "bratimg": 1789814698314,
@@ -66701,7 +66701,8 @@
       "menu": 1789819754769,
       "menucat": 1789819771348,
       "bratcewek": 1789819796405,
-      "freelance": 1789819823325
+      "freelance": 1789819823325,
+      "fishing": 1789819861154
     },
     "clanId": null,
     "isRegistered": false,
@@ -111447,9 +111448,9 @@
     "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29078,
+    "exp": 29108,
     "level": 1,
-    "koin": 20653,
+    "koin": 653,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111457,7 +111458,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:10:39.775Z",
+    "lastSeen": "2026-09-19T12:11:00.586Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111570,7 +111571,7 @@
       "ngojek": 1789819780538,
       "leveluprpg": 1789819521422,
       "parkir": 1789819555200,
-      "bank": 1789819726406
+      "bank": 1789819862100
     },
     "clanId": null,
     "isRegistered": false,
@@ -111586,7 +111587,7 @@
       "mana": 110,
       "stamina": 48,
       "attack": 10,
-      "bank": 40080
+      "bank": 60080
     },
     "inventory": {
       "shuriken": 6,
@@ -120645,7 +120646,7 @@
   "628214436992": {
     "jid": "628214436992",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "energi": 99999
   },
   "6288226296127": {
