@@ -46780,7 +46780,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179700,
+    "exp": 179625,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -48123,7 +48123,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65640,
+    "exp": 65535,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -87738,7 +87738,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111453,7 +111453,7 @@
     "energi": 99957,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33085,
+    "exp": 33070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121198,7 +121198,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 4815,
+    "exp": 4800,
     "energi": 99999
   },
   "6288245965331": {
@@ -123316,7 +123316,7 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 570,
+    "exp": 540,
     "name": "M4n🕸️",
     "lastSeen": "2026-09-15T09:37:05.584Z",
     "cooldowns": {
@@ -123530,7 +123530,7 @@
     "lastSeen": "2026-09-17T11:19:31.256Z",
     "jid": "6281533725017",
     "rpg": {},
-    "exp": 4050,
+    "exp": 3900,
     "lastActiveDate": "17/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -124401,5 +124401,10 @@
     "jid": "6283124620093",
     "rpg": {},
     "exp": 495
+  },
+  "62882007604756": {
+    "jid": "62882007604756",
+    "rpg": {},
+    "exp": 120
   }
 }
