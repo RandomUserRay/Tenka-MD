@@ -113288,7 +113288,7 @@
     "energi": 99980,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3349,
+    "exp": 3364,
     "level": 1,
     "koin": 105206,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:19:31.819Z",
+    "lastSeen": "2026-09-19T17:19:43.190Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113315,7 +113315,8 @@
       "lottery": 1789838216401,
       "boss": 1789838323902,
       "mining": 1789838340647,
-      "fishing": 1789838358322
+      "fishing": 1789838358322,
+      "dungeon": 1789838383294
     },
     "clanId": null,
     "isRegistered": false,
@@ -113325,7 +113326,13 @@
     "rpg": {
       "health": 100,
       "stamina": 35,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "attack": 10,
+      "maxHealth": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1789838383191
+      }
     },
     "inventory": {
       "iron": 6,
