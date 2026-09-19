@@ -90563,14 +90563,14 @@
     "access": []
   },
   "6288268008253": {
-    "name": "Amba",
-    "lastSeen": "2026-09-17T09:15:59.648Z",
+    "name": "sigma",
+    "lastSeen": "2026-09-19T04:19:42.254Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3121,
+    "exp": 3151,
     "level": 1,
     "koin": 150000,
     "saldo": 0,
@@ -90589,7 +90589,8 @@
       "money": 1786706152968,
       "transfer": 1786706221920,
       "s": 1789618441384,
-      "bank": 1789636561666
+      "bank": 1789636561666,
+      "afk": 1789791584735
     },
     "clanId": null,
     "isRegistered": false,
@@ -90603,8 +90604,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 2
   },
   "6287737013754": {
     "jid": "6287737013754",
@@ -91446,7 +91447,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2880,
+    "exp": 2895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
