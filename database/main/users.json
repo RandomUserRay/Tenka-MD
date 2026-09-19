@@ -35271,7 +35271,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1002097,
+    "exp": 1002112,
     "level": 1,
     "koin": 165496,
     "unlockedFeatures": [],
@@ -50592,7 +50592,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 597071,
+    "exp": 597116,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -90883,7 +90883,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1980,
+    "exp": 2010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90893,8 +90893,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T13:52:20.719Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-19T08:06:49.259Z",
+    "cooldowns": {
+      "h": 1789805209623
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -90902,7 +90904,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6285792349378": {
     "name": "abidakhila8",
