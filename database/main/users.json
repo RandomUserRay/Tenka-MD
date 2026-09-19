@@ -113285,12 +113285,12 @@
     "jid": "6285150979843",
     "name": "1",
     "number": "6285150979843",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3087,
+    "exp": 3112,
     "level": 1,
-    "koin": 58103,
+    "koin": 57603,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:16:28.657Z",
+    "lastSeen": "2026-09-19T17:16:53.671Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113323,7 +113323,9 @@
       "stamina": 70,
       "maxStamina": 100
     },
-    "inventory": {},
+    "inventory": {
+      "iron": 5
+    },
     "access": [],
     "fun": {},
     "lastActiveDate": "20/9/2026",
