@@ -113285,10 +113285,10 @@
     "jid": "6285150979843",
     "name": "1",
     "number": "6285150979843",
-    "energi": 99956,
+    "energi": 99955,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20995,
+    "exp": 21577,
     "level": 1,
     "koin": 181185,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:38:42.520Z",
+    "lastSeen": "2026-09-19T17:39:43.360Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113314,7 +113314,7 @@
       "stamina": 1789839505146,
       "lottery": 1789838216401,
       "boss": 1789838323902,
-      "mining": 1789839321214,
+      "mining": 1789839578853,
       "fishing": 1789838358322,
       "dungeon": 1789838383294,
       "cooking": 1789838445374,
@@ -113338,7 +113338,7 @@
     "regGender": null,
     "rpg": {
       "health": 120,
-      "stamina": 110,
+      "stamina": 90,
       "maxStamina": 110,
       "attack": 10,
       "maxHealth": 120,
@@ -113349,7 +113349,7 @@
     },
     "inventory": {
       "iron": 6,
-      "rock": 9,
+      "rock": 12,
       "coal": 1,
       "gold": 1,
       "trash": 1
