@@ -111611,7 +111611,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8595,
+    "exp": 8610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111621,13 +111621,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T06:30:58.899Z",
+    "lastSeen": "2026-09-19T07:31:29.204Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
       "menu": 1788879532043,
       "level": 1789741194685,
-      "afk": 1789799462830
+      "afk": 1789803090419
     },
     "clanId": null,
     "isRegistered": false,
