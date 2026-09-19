@@ -101835,10 +101835,10 @@
     "jid": "62895406126052",
     "name": "Iqbal",
     "number": "62895406126052",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101848,9 +101848,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T07:57:58.337Z",
+    "lastSeen": "2026-09-19T08:03:17.547Z",
     "cooldowns": {
-      "robloxstalk": 1789804681182
+      "robloxstalk": 1789804681182,
+      "play": 1789805005948
     },
     "clanId": null,
     "isRegistered": false,
