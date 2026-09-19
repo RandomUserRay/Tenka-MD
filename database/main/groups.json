@@ -42037,8 +42037,8 @@
   "120363429331407532@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 120,
-        "lastChat": 1789827240992,
+        "count": 121,
+        "lastChat": 1789827252401,
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
@@ -42052,8 +42052,8 @@
         "name": "~You"
       },
       "6287893710951@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1789827231205,
+        "count": 11,
+        "lastChat": 1789827250345,
         "name": "°｡⋆🎧 𝓀ℯ𝓎𝓇ℯ𝓃 🎸 ʚĭɞ ⋆｡°"
       },
       "6283844881941@s.whatsapp.net": {
@@ -42074,7 +42074,8 @@
     "toxicMethod": "kick",
     "toxicMaxWarn": 5,
     "mutegc": false,
-    "mutedMembers": []
+    "mutedMembers": [],
+    "rpg": true
   },
   "120363413464027056@g.us": {
     "welcome": true,
