@@ -33027,8 +33027,8 @@
         "name": "ryan"
       },
       "62895406126052@s.whatsapp.net": {
-        "count": 32,
-        "lastChat": 1789806676356,
+        "count": 33,
+        "lastChat": 1789811068408,
         "name": "Iqbal"
       },
       "120363429702701038@g.us": {
@@ -43156,5 +43156,11 @@
     },
     "jid": "120363430816318147@g.us",
     "name": "elnao leclerc eisha verstappen nata antonelli maura hamilton liacyi verstappen kana leclerc isal f1"
+  },
+  "120363429170123169@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363429170123169@g.us"
   }
 }
