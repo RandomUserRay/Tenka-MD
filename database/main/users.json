@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000076050,
+    "exp": 9000076125,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -90165,13 +90165,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-18T05:39:49.590Z",
+    "lastSeen": "2026-09-19T12:54:12.771Z",
     "jid": "6282168671203",
     "number": "6282168671203",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15870,
+    "exp": 15885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90187,7 +90187,7 @@
       "allmenu": 1786612038951,
       "cekfemboy": 1786885869654,
       "tembak": 1786871826027,
-      "play": 1789274721544,
+      "play": 1789822461074,
       "onlynsfw": 1786931381120,
       "pussy": 1786933566432,
       "toimg": 1787676338515,
@@ -90207,7 +90207,7 @@
       "welcome": 1787644948697,
       "getpp": 1787645248771,
       "tovideo": 1787646854311,
-      "smeme": 1787647927729,
+      "smeme": 1789822453329,
       "smemevid": 1787648178788,
       "warn": 1787665054502,
       "cum": 1787656907175,
@@ -90240,8 +90240,8 @@
       "jadiPacar": 1786874522046,
       "terimaCount": 1
     },
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 7
   },
   "6285778236388": {
     "jid": "6285778236388",
@@ -91775,7 +91775,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 750,
+    "exp": 765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111641,7 +111641,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43560,
+    "exp": 43545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121267,7 +121267,12 @@
     "jid": "62895354980700",
     "rpg": {},
     "exp": 15,
-    "energi": 99999
+    "energi": 99999,
+    "cooldowns": {
+      "play": 1789822450676
+    },
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6285946443282": {
     "jid": "6285946443282",
@@ -124401,5 +124406,10 @@
     "jid": "6283124620093",
     "rpg": {},
     "exp": 510
+  },
+  "62882007604756": {
+    "jid": "62882007604756",
+    "rpg": {},
+    "exp": 120
   }
 }
