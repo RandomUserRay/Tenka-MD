@@ -98023,7 +98023,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-19T13:29:26.278Z",
     "cooldowns": {
-      "play": 1789824581451,
+      "play": 1789732213993,
       "wm": 1788347084351,
       "afk": 1788535026419,
       "s": 1789456268968
@@ -98036,8 +98036,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 11
   },
   "6283898309546": {
     "jid": "6283898309546",
@@ -100652,10 +100652,10 @@
     "jid": "6281946046728",
     "name": "ikyy",
     "number": "6281946046728",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1800,
+    "exp": 1815,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100665,7 +100665,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:28:04.905Z",
+    "lastSeen": "2026-09-19T13:30:13.506Z",
     "cooldowns": {
       "menucat": 1788075258904,
       "menu": 1788075278469,
@@ -100674,7 +100674,7 @@
       "afk": 1788089578319,
       "cekimut": 1789201676107,
       "cekganteng": 1789201739427,
-      "s": 1789824485474
+      "s": 1789824614213
     },
     "clanId": null,
     "isRegistered": false,
