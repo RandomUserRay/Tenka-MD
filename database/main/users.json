@@ -3044,7 +3044,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 701816,
+    "exp": 701831,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -15996,7 +15996,7 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9364752,
+    "exp": 9364452,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -36077,7 +36077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227540,
+    "exp": 227465,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -57200,7 +57200,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 112720,
+    "exp": 112705,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -104519,7 +104519,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69888,
+    "exp": 69873,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -107108,7 +107108,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22515,
+    "exp": 22500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122415,8 +122415,11 @@
   "6285122968288": {
     "jid": "6285122968288",
     "rpg": {},
-    "exp": 15,
-    "energi": 99999
+    "exp": 30,
+    "energi": 99999,
+    "name": "Ken Ijichi✨",
+    "lastSeen": "2026-09-19T10:25:43.435Z",
+    "cooldowns": {}
   },
   "6281521531647": {
     "jid": "6281521531647",
@@ -124052,7 +124055,7 @@
   "6285697552018": {
     "jid": "6285697552018",
     "rpg": {},
-    "exp": 210,
+    "exp": 195,
     "energi": 99999
   },
   "6285183652196": {
@@ -124163,7 +124166,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 420,
+    "exp": 405,
     "energi": 99999
   },
   "6282162508487": {
@@ -124240,7 +124243,7 @@
   "6281360082632": {
     "jid": "6281360082632",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6282385674485": {
     "jid": "6282385674485",
@@ -124309,6 +124312,11 @@
   },
   "919699701404": {
     "jid": "919699701404",
+    "rpg": {},
+    "exp": 15
+  },
+  "628568839418": {
+    "jid": "628568839418",
     "rpg": {},
     "exp": 15
   }
