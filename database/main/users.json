@@ -330,10 +330,10 @@
     "jid": "6289529899190",
     "name": "少女時代のテヨン",
     "number": "6289529899190",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53620,
+    "exp": 53635,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -342,10 +342,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:45:59.474Z",
+    "lastSeen": "2026-09-19T13:46:44.640Z",
     "cooldowns": {
       "afk": 1786716716848,
-      "s": 1789825560257,
+      "s": 1789825605463,
       "femboy": 1789395584644,
       "daily": 1780385975656,
       "profile": 1789213791553,
@@ -124076,7 +124076,11 @@
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-19T13:46:34.734Z",
     "energi": 99998,
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1789825609518
+    },
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6285814571034": {
     "jid": "6285814571034",
