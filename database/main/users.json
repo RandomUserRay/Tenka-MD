@@ -3044,7 +3044,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 701771,
+    "exp": 701756,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -13067,7 +13067,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33453,
+    "exp": 33438,
     "level": 1,
     "koin": 5513,
     "unlockedFeatures": [],
@@ -26733,7 +26733,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 717198,
+    "exp": 717258,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -33600,7 +33600,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 89298,
+    "exp": 89163,
     "level": 1,
     "koin": 27402,
     "unlockedFeatures": [],
@@ -47646,7 +47646,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 558173,
+    "exp": 558218,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -66920,10 +66920,10 @@
     "jid": "6283135864303",
     "name": "sigma boy",
     "number": "6283135864303",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169730,
+    "exp": 169700,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66938,10 +66938,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T05:01:07.863Z",
+    "lastSeen": "2026-09-19T01:29:21.693Z",
     "cooldowns": {
       "afk": 1789754492766,
-      "s": 1789794014404,
+      "s": 1789639778921,
       "play": 1789480958176,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -91277,7 +91277,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92032,7 +92032,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1125,
+    "exp": 1095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96111,7 +96111,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5505,
+    "exp": 5490,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96121,7 +96121,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T05:00:36.982Z",
+    "lastSeen": "2026-09-18T08:57:25.553Z",
     "cooldowns": {
       "afk": 1789721847280,
       "play": 1789446463597,
@@ -96140,8 +96140,7 @@
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1789201775838,
-      "cekimut": 1789201609278,
-      "d": 1789794037187
+      "cekimut": 1789201609278
     },
     "clanId": null,
     "isRegistered": false,
@@ -96160,8 +96159,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "18/9/2026",
+    "activeDays": 9
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -101802,7 +101801,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2325,
+    "exp": 2400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101832,12 +101831,12 @@
   },
   "62895406126052": {
     "jid": "62895406126052",
-    "name": "Unknown",
+    "name": "Iqbal",
     "number": "62895406126052",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101847,8 +101846,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T11:25:01.021Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-19T04:59:28.369Z",
+    "cooldowns": {
+      "robloxstalk": 1789793935240,
+      "afk": 1789793969817
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101856,7 +101858,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "62882020017089": {
     "jid": "62882020017089",
@@ -109082,7 +109086,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123852,7 +123856,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 99999
   },
   "6288225016844": {
@@ -124269,15 +124273,5 @@
     "lastActiveDate": "19/9/2026",
     "activeDays": 1,
     "energi": 21
-  },
-  "6287822516457": {
-    "jid": "6287822516457",
-    "rpg": {},
-    "exp": 30
-  },
-  "6289636145184": {
-    "jid": "6289636145184",
-    "rpg": {},
-    "exp": 15
   }
 }
