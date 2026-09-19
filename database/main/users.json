@@ -3988,7 +3988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 95880,
+    "exp": 95865,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -3997,7 +3997,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T10:20:25.653Z",
+    "lastSeen": "2026-09-02T17:34:01.868Z",
     "cooldowns": {
       "cekfemboy": 1780119477300,
       "afk": 1783081643776,
@@ -34398,7 +34398,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32679,
+    "exp": 32709,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -36077,7 +36077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227375,
+    "exp": 227450,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -96115,7 +96115,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5595,
+    "exp": 5580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104519,7 +104519,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69828,
+    "exp": 69873,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -107108,7 +107108,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22485,
+    "exp": 22500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124052,7 +124052,7 @@
   "6285697552018": {
     "jid": "6285697552018",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "energi": 99999
   },
   "6285183652196": {
@@ -124309,11 +124309,6 @@
   },
   "919699701404": {
     "jid": "919699701404",
-    "rpg": {},
-    "exp": 15
-  },
-  "628568839418": {
-    "jid": "628568839418",
     "rpg": {},
     "exp": 15
   }
