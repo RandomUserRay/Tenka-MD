@@ -113288,7 +113288,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1282,
+    "exp": 1297,
     "level": 1,
     "koin": 2000,
     "saldo": 0,
@@ -113298,14 +113298,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:11:40.077Z",
+    "lastSeen": "2026-09-19T17:12:18.452Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
       "profil": 1789818663172,
       "duel": 1789837841808,
       "maling": 1789837860345,
-      "gacha": 1789837900162
+      "gacha": 1789837900162,
+      "inventory": 1789837938502
     },
     "clanId": null,
     "isRegistered": false,
