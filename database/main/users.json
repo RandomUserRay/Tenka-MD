@@ -96134,7 +96134,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5580,
+    "exp": 5595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111450,10 +111450,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99967,
+    "energi": 99969,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31177,
+    "exp": 30540,
     "level": 1,
     "koin": 27816,
     "saldo": 0,
@@ -111463,7 +111463,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:16:12.111Z",
+    "lastSeen": "2026-09-19T12:15:24.720Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111567,7 +111567,7 @@
       "listtoxic": 1789732575416,
       "deltoxic": 1789732232769,
       "addtoxic": 1789732632071,
-      "mining": 1789820159087,
+      "mining": 1789819125980,
       "duel": 1789819173688,
       "lottery": 1789819247568,
       "gacha": 1789819266658,
@@ -111582,8 +111582,7 @@
       "berburu": 1789820029407,
       "blacksmith": 1789820052789,
       "coinflip": 1789820111718,
-      "boss": 1789820124816,
-      "fishing": 1789820141972
+      "boss": 1789820124816
     },
     "clanId": null,
     "isRegistered": false,
@@ -111597,21 +111596,14 @@
       "maxStamina": 115,
       "health": 130,
       "mana": 115,
-      "stamina": 55,
+      "stamina": 90,
       "attack": 10,
-      "bank": 60080,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1789820172116
-      }
+      "bank": 60080
     },
     "inventory": {
       "shuriken": 6,
-      "rock": 5,
-      "daging_kelinci": 2,
-      "fish": 1,
-      "coal": 2,
-      "iron": 1
+      "rock": 3,
+      "daging_kelinci": 2
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
@@ -111631,7 +111623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42885,
+    "exp": 42870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
