@@ -66674,7 +66674,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7759,
+    "exp": 7774,
     "level": 1,
     "koin": 133313,
     "unlockedFeatures": [],
@@ -66683,7 +66683,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:11:01.124Z",
+    "lastSeen": "2026-09-19T12:11:22.369Z",
     "cooldowns": {
       "bratvid": 1788091268343,
       "bratimg": 1789814698314,
@@ -66698,7 +66698,7 @@
       "steal": 1789819715223,
       "kurir": 1789819737037,
       "jualan": 1789819745713,
-      "menu": 1789819754769,
+      "menu": 1789819883008,
       "menucat": 1789819771348,
       "bratcewek": 1789819796405,
       "freelance": 1789819823325,
@@ -111445,12 +111445,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99983,
+    "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29108,
+    "exp": 29173,
     "level": 1,
-    "koin": 653,
+    "koin": 2653,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111458,7 +111458,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:11:00.586Z",
+    "lastSeen": "2026-09-19T12:11:20.358Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111566,7 +111566,7 @@
       "duel": 1789819173688,
       "lottery": 1789819247568,
       "gacha": 1789819266658,
-      "maling": 1789819374592,
+      "maling": 1789819882994,
       "slot": 1789819825701,
       "ngojek": 1789819780538,
       "leveluprpg": 1789819521422,
@@ -120646,7 +120646,7 @@
   "628214436992": {
     "jid": "628214436992",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "6288226296127": {
@@ -122989,7 +122989,7 @@
   "6285817275968": {
     "jid": "6285817275968",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6285752597044": {
