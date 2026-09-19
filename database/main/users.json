@@ -113285,10 +113285,10 @@
     "jid": "6285150979843",
     "name": "1",
     "number": "6285150979843",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1297,
+    "exp": 1312,
     "level": 1,
     "koin": 2000,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:12:18.452Z",
+    "lastSeen": "2026-09-19T17:12:29.977Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113306,7 +113306,8 @@
       "duel": 1789837841808,
       "maling": 1789837860345,
       "gacha": 1789837900162,
-      "inventory": 1789837938502
+      "inventory": 1789837938502,
+      "slot": 1789837950025
     },
     "clanId": null,
     "isRegistered": false,
