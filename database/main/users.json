@@ -113288,9 +113288,9 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2361,
+    "exp": 3072,
     "level": 1,
-    "koin": 44174,
+    "koin": 58103,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:15:00.812Z",
+    "lastSeen": "2026-09-19T17:15:53.895Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113308,7 +113308,7 @@
       "gacha": 1789837900162,
       "inventory": 1789837938502,
       "slot": 1789838032302,
-      "kurir": 1789838012701,
+      "kurir": 1789838157175,
       "casino": 1789838050805,
       "marry": 1789838100906
     },
@@ -113319,7 +113319,7 @@
     "regGender": null,
     "rpg": {
       "health": 100,
-      "stamina": 85
+      "stamina": 70
     },
     "inventory": {},
     "access": [],
