@@ -113288,7 +113288,7 @@
     "energi": 99952,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23644,
+    "exp": 23659,
     "level": 1,
     "koin": 104602,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:42:02.490Z",
+    "lastSeen": "2026-09-19T17:42:35.279Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113329,7 +113329,8 @@
       "shop": 1789839362590,
       "nulis": 1789839444348,
       "nyapu": 1789839457632,
-      "parkir": 1789839469828
+      "parkir": 1789839469828,
+      "expedition": 1789839755385
     },
     "clanId": null,
     "isRegistered": false,
@@ -113345,7 +113346,8 @@
       "bank": 100000,
       "level": 3,
       "maxMana": 110,
-      "mana": 110
+      "mana": 110,
+      "expeditions": []
     },
     "inventory": {
       "iron": 6,
