@@ -101845,7 +101845,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 795,
+    "exp": 810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101855,7 +101855,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T11:34:15.375Z",
+    "lastSeen": "2026-09-19T11:39:07.890Z",
     "cooldowns": {
       "robloxstalk": 1789805330376,
       "play": 1789811075229,
@@ -104524,7 +104524,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70848,
+    "exp": 70863,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -124341,6 +124341,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 225
+    "exp": 255
   }
 }
