@@ -106981,7 +106981,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5520,
+    "exp": 5535,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111451,12 +111451,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99953,
+    "energi": 99952,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38455,
+    "exp": 39007,
     "level": 1,
-    "koin": 0,
+    "koin": 10742,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111464,7 +111464,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:45:47.165Z",
+    "lastSeen": "2026-09-19T13:45:55.311Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111604,7 +111604,7 @@
       "maxStamina": 115,
       "health": 90,
       "mana": 115,
-      "stamina": 88,
+      "stamina": 73,
       "attack": 10,
       "bank": 130676,
       "garden": {
@@ -124247,7 +124247,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 810,
+    "exp": 825,
     "energi": 99999
   },
   "6282162508487": {
