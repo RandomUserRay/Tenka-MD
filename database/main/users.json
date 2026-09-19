@@ -66923,7 +66923,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169625,
+    "exp": 169640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66938,7 +66938,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T01:27:45.646Z",
+    "lastSeen": "2026-09-19T01:29:21.693Z",
     "cooldowns": {
       "afk": 1789754492766,
       "s": 1789639778921,
@@ -67019,7 +67019,7 @@
       "open": 1789478015816,
       "close": 1789478007974,
       "smemevid": 1789745755013,
-      "intro": 1789781265760
+      "intro": 1789781361840
     },
     "clanId": null,
     "isRegistered": false,
@@ -96401,7 +96401,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111603,7 +111603,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8460,
+    "exp": 8445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124206,6 +124206,6 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
