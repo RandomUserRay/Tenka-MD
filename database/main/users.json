@@ -72671,7 +72671,7 @@
     "energi": 99957,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12330,
+    "exp": 12360,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101859,7 +101859,7 @@
     "cooldowns": {
       "robloxstalk": 1789805330376,
       "play": 1789811075229,
-      "afk": 1789817949471,
+      "afk": 1789819448681,
       "s": 1789819061366,
       "wm": 1789819318447,
       "bratimg": 1789819277759
@@ -104525,7 +104525,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70968,
+    "exp": 70983,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -106964,7 +106964,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5475,
+    "exp": 5490,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111434,12 +111434,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99991,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26006,
+    "exp": 26051,
     "level": 1,
-    "koin": 15368,
+    "koin": 10368,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111447,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:03:52.315Z",
+    "lastSeen": "2026-09-19T12:04:25.624Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111556,7 +111556,7 @@
       "lottery": 1789819247568,
       "gacha": 1789819266658,
       "maling": 1789819374592,
-      "slot": 1789819434896
+      "slot": 1789819468218
     },
     "clanId": null,
     "isRegistered": false,
@@ -124351,6 +124351,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 300
+    "exp": 315
   }
 }
