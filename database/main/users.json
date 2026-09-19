@@ -89060,7 +89060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1200,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -89070,11 +89070,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T01:24:02.744Z",
+    "lastSeen": "2026-09-19T01:24:27.777Z",
     "cooldowns": {
       "ping": 1789781025763,
-      "menu": 1789781037364,
-      "owner": 1789781042775
+      "menu": 1789781065055,
+      "owner": 1789781067801,
+      "menucat": 1789781059988
     },
     "clanId": null,
     "isRegistered": false,
