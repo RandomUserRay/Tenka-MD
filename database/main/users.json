@@ -111454,7 +111454,7 @@
     "energi": 99949,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41267,
+    "exp": 41282,
     "level": 1,
     "koin": 55565,
     "saldo": 0,
@@ -111464,7 +111464,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:48:12.769Z",
+    "lastSeen": "2026-09-19T13:48:27.652Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111593,7 +111593,8 @@
       "stamina": 1789825407800,
       "inv": 1789825617498,
       "jualan": 1789825641847,
-      "freelance": 1789825681311
+      "freelance": 1789825681311,
+      "nambalban": 1789825710923
     },
     "clanId": null,
     "isRegistered": false,
@@ -111605,9 +111606,9 @@
       "maxHealth": 140,
       "maxMana": 120,
       "maxStamina": 120,
-      "health": 140,
+      "health": 125,
       "mana": 120,
-      "stamina": 95,
+      "stamina": 81,
       "attack": 10,
       "bank": 130676,
       "garden": {
@@ -120955,7 +120956,7 @@
   "6285714269757": {
     "jid": "6285714269757",
     "rpg": {},
-    "exp": 6810,
+    "exp": 6825,
     "energi": 99999,
     "name": "Ytaa",
     "lastSeen": "2026-09-18T06:00:49.431Z",
@@ -124140,7 +124141,7 @@
   "6285697552018": {
     "jid": "6285697552018",
     "rpg": {},
-    "exp": 495,
+    "exp": 510,
     "energi": 99999
   },
   "6285183652196": {
@@ -124251,7 +124252,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 855,
+    "exp": 900,
     "energi": 99999
   },
   "6282162508487": {
