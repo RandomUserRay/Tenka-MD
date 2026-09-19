@@ -96134,7 +96134,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5625,
+    "exp": 5610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100655,7 +100655,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1590,
+    "exp": 1530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111450,12 +111450,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99967,
+    "energi": 99966,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31207,
+    "exp": 31267,
     "level": 1,
-    "koin": 23644,
+    "koin": 23494,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111463,7 +111463,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:16:12.111Z",
+    "lastSeen": "2026-09-19T12:19:41.765Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111571,7 +111571,7 @@
       "duel": 1789819173688,
       "lottery": 1789819247568,
       "gacha": 1789819266658,
-      "maling": 1789819882994,
+      "maling": 1789820328731,
       "slot": 1789820002680,
       "ngojek": 1789819911349,
       "leveluprpg": 1789819521422,
@@ -111584,7 +111584,8 @@
       "coinflip": 1789820111718,
       "boss": 1789820124816,
       "fishing": 1789820141972,
-      "dungeon": 1789820172244
+      "dungeon": 1789820172244,
+      "garden": 1789820381902
     },
     "clanId": null,
     "isRegistered": false,
@@ -111600,7 +111601,11 @@
       "mana": 115,
       "stamina": 25,
       "attack": 10,
-      "bank": 60080
+      "bank": 60080,
+      "garden": {
+        "plots": [],
+        "maxPlots": 3
+      }
     },
     "inventory": {
       "shuriken": 6,
@@ -111608,7 +111613,8 @@
       "daging_kelinci": 2,
       "fish": 1,
       "coal": 2,
-      "iron": 1
+      "iron": 1,
+      "pumpkinseed": 1
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
@@ -111628,7 +111634,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42885,
+    "exp": 42930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111738,7 +111744,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15735,
+    "exp": 15750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
