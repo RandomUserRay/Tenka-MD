@@ -66923,7 +66923,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169655,
+    "exp": 169625,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66938,7 +66938,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T01:29:21.693Z",
+    "lastSeen": "2026-09-19T01:27:45.646Z",
     "cooldowns": {
       "afk": 1789754492766,
       "s": 1789639778921,
@@ -67019,7 +67019,7 @@
       "open": 1789478015816,
       "close": 1789478007974,
       "smemevid": 1789745755013,
-      "intro": 1789781361840
+      "intro": 1789781265760
     },
     "clanId": null,
     "isRegistered": false,
@@ -96401,7 +96401,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111603,7 +111603,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8445,
+    "exp": 8475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111613,13 +111613,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T23:04:51.872Z",
+    "lastSeen": "2026-09-19T01:29:47.614Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
       "menu": 1788879532043,
       "level": 1789741194685,
-      "afk": 1789772693148
+      "afk": 1789781388738
     },
     "clanId": null,
     "isRegistered": false,
@@ -124206,6 +124206,6 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   }
 }
