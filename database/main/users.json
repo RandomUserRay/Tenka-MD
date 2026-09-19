@@ -66920,10 +66920,10 @@
     "jid": "6283135864303",
     "name": "sigma boy",
     "number": "6283135864303",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169595,
+    "exp": 169580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -66938,10 +66938,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T01:26:37.455Z",
+    "lastSeen": "2026-09-18T18:01:29.978Z",
     "cooldowns": {
       "afk": 1789754492766,
-      "s": 1789781200049,
+      "s": 1789639778921,
       "play": 1789480958176,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -89060,7 +89060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1200,
+    "exp": 1215,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -89070,7 +89070,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T01:24:27.777Z",
+    "lastSeen": "2026-09-19T01:27:03.689Z",
     "cooldowns": {
       "ping": 1789781025763,
       "menu": 1789781065055,
@@ -124199,11 +124199,6 @@
   },
   "6282385674485": {
     "jid": "6282385674485",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282190419955": {
-    "jid": "6282190419955",
     "rpg": {},
     "exp": 15
   }
