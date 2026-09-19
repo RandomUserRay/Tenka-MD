@@ -524,7 +524,9 @@
       ],
       "menu": "nasgor",
       "enabled": true,
-      "lastSent": {},
+      "lastSent": {
+        "18:00_2026-09-19": true
+      },
       "createdAt": 1789679700964
     }
   },
