@@ -70944,10 +70944,10 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70549,
+    "exp": 70564,
     "level": 1,
     "koin": 80888,
     "unlockedFeatures": [],
@@ -70956,7 +70956,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T09:28:48.353Z",
+    "lastSeen": "2026-09-19T04:24:08.905Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71003,7 +71003,7 @@
       "brat": 1787743643132,
       "bratimg": 1787743653577,
       "bratvideo": 1786884921431,
-      "tt": 1789287283202,
+      "tt": 1789791852118,
       "stiker": 1787741309187,
       "menu": 1788179323999,
       "menucat": 1788247404976,
@@ -71037,8 +71037,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 8,
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 9,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -101532,12 +101532,12 @@
   },
   "628386801648": {
     "jid": "628386801648",
-    "name": "Unknown",
+    "name": "tata",
     "number": "628386801648",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 75,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101547,8 +101547,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T10:08:59.481Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-19T04:22:31.185Z",
+    "cooldowns": {
+      "me": 1789791813673
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101556,7 +101558,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6282213550673": {
     "jid": "6282213550673",
@@ -108523,7 +108527,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120006,7 +120010,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "energi": 99999
   },
   "6285785063453": {
