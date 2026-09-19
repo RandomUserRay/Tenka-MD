@@ -26517,7 +26517,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168306,
+    "exp": 168276,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26526,7 +26526,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T03:40:53.021Z",
+    "lastSeen": "2026-09-19T01:17:46.473Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26550,7 +26550,7 @@
       "pakustad": 1788354793905,
       "h": 1789390175183,
       "kick": 1789124189537,
-      "p": 1789789254145,
+      "p": 1789780667247,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
       "hytamkan": 1785385527679,
@@ -96110,7 +96110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5475,
+    "exp": 5460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120005,7 +120005,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1215,
+    "exp": 1200,
     "energi": 99999
   },
   "6285785063453": {
@@ -120249,7 +120249,7 @@
   "6285161715192": {
     "jid": "6285161715192",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "energi": 99999
   },
   "62895402520016": {
@@ -124229,17 +124229,5 @@
     "jid": "6285751368706",
     "rpg": {},
     "exp": 30
-  },
-  "162144293249124": {
-    "name": "senpai Takahashi put-cha✩",
-    "lastSeen": "2026-09-19T03:41:10.851Z",
-    "jid": "162144293249124",
-    "rpg": {},
-    "exp": 15,
-    "cooldowns": {
-      "menu": 1789789278658
-    },
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 1
   }
 }
