@@ -104525,7 +104525,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70998,
+    "exp": 71013,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111437,7 +111437,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27203,
+    "exp": 27233,
     "level": 1,
     "koin": 33121,
     "saldo": 0,
@@ -111447,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:04:45.999Z",
+    "lastSeen": "2026-09-19T12:05:21.114Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111557,7 +111557,8 @@
       "gacha": 1789819266658,
       "maling": 1789819374592,
       "slot": 1789819468218,
-      "ngojek": 1789819489158
+      "ngojek": 1789819489158,
+      "leveluprpg": 1789819514496
     },
     "clanId": null,
     "isRegistered": false,
@@ -111584,6 +111585,9 @@
     "fun": {
       "tembakTarget": "6285150979843@s.whatsapp.net",
       "tembakCount": 1
+    },
+    "settings": {
+      "rpgLevelupNotif": true
     }
   },
   "6282271219129": {
@@ -113170,7 +113174,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
