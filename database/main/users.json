@@ -104517,7 +104517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69678,
+    "exp": 69693,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104527,13 +104527,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T09:51:08.148Z",
+    "lastSeen": "2026-09-19T09:40:41.370Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
       "ytmp4": 1788682428679,
       "owner": 1788682365634,
-      "menu": 1789711218178,
+      "menu": 1789810844711,
       "brat": 1789127651733,
       "bratanime": 1788692052231,
       "brathd": 1788693520600,
@@ -104599,8 +104599,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 13
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 14
   },
   "6283844985660": {
     "jid": "6283844985660",
