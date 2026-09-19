@@ -107289,7 +107289,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6720,
+    "exp": 6735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113288,9 +113288,9 @@
     "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3654,
+    "exp": 3777,
     "level": 1,
-    "koin": 0,
+    "koin": 1080,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:24:00.182Z",
+    "lastSeen": "2026-09-19T17:24:12.458Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113318,7 +113318,8 @@
       "fishing": 1789838358322,
       "dungeon": 1789838383294,
       "cooking": 1789838445374,
-      "buykoin": 1789838586781
+      "buykoin": 1789838586781,
+      "ngemis": 1789838655614
     },
     "clanId": null,
     "isRegistered": false,
@@ -113327,7 +113328,7 @@
     "regGender": null,
     "rpg": {
       "health": 60,
-      "stamina": 5,
+      "stamina": 0,
       "maxStamina": 100,
       "attack": 10,
       "maxHealth": 100
