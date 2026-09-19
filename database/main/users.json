@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000075975,
+    "exp": 9000076125,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -66671,19 +66671,19 @@
     "jid": "6285775503901",
     "name": "Elzaaa",
     "number": "6285775503901",
-    "energi": 99994,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2191,
+    "exp": 945,
     "level": 1,
-    "koin": 24336,
+    "koin": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:08:35.149Z",
+    "lastSeen": "2026-09-19T10:47:09.431Z",
     "cooldowns": {
       "bratvid": 1788091268343,
       "bratimg": 1789814698314,
@@ -66693,18 +66693,14 @@
       "tt": 1788521847279,
       "smeme": 1788185562250,
       "bratbahlil": 1788098071519,
-      "ig": 1789814829756,
-      "ngojek": 1789819705743,
-      "steal": 1789819715223
+      "ig": 1789814829756
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "stamina": 70
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -111441,9 +111437,9 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27549,
+    "exp": 27474,
     "level": 1,
-    "koin": 41363,
+    "koin": 41443,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111451,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:08:33.993Z",
+    "lastSeen": "2026-09-19T12:07:07.782Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111564,7 +111560,7 @@
       "ngojek": 1789819489158,
       "leveluprpg": 1789819521422,
       "parkir": 1789819555200,
-      "bank": 1789819700798
+      "bank": 1789819628025
     },
     "clanId": null,
     "isRegistered": false,
@@ -111580,7 +111576,7 @@
       "mana": 110,
       "stamina": 63,
       "attack": 10,
-      "bank": 80
+      "bank": 0
     },
     "inventory": {
       "shuriken": 6,
@@ -111714,7 +111710,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15615,
+    "exp": 15585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124363,6 +124359,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 405
+    "exp": 390
   }
 }
