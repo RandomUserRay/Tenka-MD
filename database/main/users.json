@@ -15996,7 +15996,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9365127,
+    "exp": 9365277,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16005,7 +16005,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T11:32:07.524Z",
+    "lastSeen": "2026-09-19T11:33:18.900Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -104524,7 +104524,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70728,
+    "exp": 70758,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -123942,7 +123942,7 @@
   "6283849336686": {
     "jid": "6283849336686",
     "rpg": {},
-    "exp": 3450,
+    "exp": 3465,
     "energi": 99999,
     "name": "can spiderman🕸🕸",
     "lastSeen": "2026-09-19T11:19:02.796Z"
@@ -124341,6 +124341,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   }
 }
