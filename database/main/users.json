@@ -101833,12 +101833,12 @@
   },
   "62895406126052": {
     "jid": "62895406126052",
-    "name": "Unknown",
+    "name": "Iqbal",
     "number": "62895406126052",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101848,8 +101848,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T11:25:01.021Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-19T07:57:58.337Z",
+    "cooldowns": {
+      "robloxstalk": 1789804681182
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101857,7 +101859,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "62882020017089": {
     "jid": "62882020017089",
@@ -124295,6 +124299,6 @@
   "919699701404": {
     "jid": "919699701404",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   }
 }
