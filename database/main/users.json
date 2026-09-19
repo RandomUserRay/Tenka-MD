@@ -113288,7 +113288,7 @@
     "energi": 99970,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3992,
+    "exp": 4007,
     "level": 1,
     "koin": 1160,
     "saldo": 0,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:27:52.856Z",
+    "lastSeen": "2026-09-19T17:28:15.374Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789818488644,
@@ -113319,7 +113319,8 @@
       "dungeon": 1789838383294,
       "cooking": 1789838445374,
       "buykoin": 1789838586781,
-      "ngemis": 1789838655614
+      "ngemis": 1789838655614,
+      "bank": 1789838895461
     },
     "clanId": null,
     "isRegistered": false,
@@ -113331,7 +113332,8 @@
       "stamina": 100,
       "maxStamina": 100,
       "attack": 10,
-      "maxHealth": 100
+      "maxHealth": 100,
+      "bank": 0
     },
     "inventory": {
       "iron": 6,
