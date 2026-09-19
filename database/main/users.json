@@ -804,7 +804,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65838,
+    "exp": 65823,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -35271,7 +35271,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1002217,
+    "exp": 1002247,
     "level": 1,
     "koin": 165496,
     "unlockedFeatures": [],
@@ -36077,7 +36077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227450,
+    "exp": 227465,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -57200,7 +57200,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 112675,
+    "exp": 112705,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -93284,7 +93284,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120534,7 +120534,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10485,
+    "exp": 10500,
     "energi": 99999,
     "name": "hh",
     "lastSeen": "2026-09-18T09:02:14.556Z",
@@ -124309,11 +124309,6 @@
   },
   "919699701404": {
     "jid": "919699701404",
-    "rpg": {},
-    "exp": 15
-  },
-  "628568839418": {
-    "jid": "628568839418",
     "rpg": {},
     "exp": 15
   }
