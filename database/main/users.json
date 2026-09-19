@@ -111734,7 +111734,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9735,
+    "exp": 9750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111908,9 +111908,9 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3103,
+    "exp": 4017,
     "level": 1,
-    "koin": 74843,
+    "koin": 91951,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111918,7 +111918,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:32:33.644Z",
+    "lastSeen": "2026-09-19T14:33:18.365Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -111928,8 +111928,10 @@
       "ngojek": 1789828292107,
       "casino": 1789828303141,
       "slot": 1789828319188,
-      "bank": 1789828326097,
-      "jualan": 1789828357016
+      "bank": 1789828398476,
+      "jualan": 1789828357016,
+      "nyapu": 1789828371708,
+      "kurir": 1789828378568
     },
     "clanId": null,
     "isRegistered": false,
@@ -111938,7 +111940,7 @@
     "regGender": null,
     "rpg": {
       "health": 100,
-      "stamina": 35,
+      "stamina": 10,
       "bank": 0
     },
     "inventory": {},
