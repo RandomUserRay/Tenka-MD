@@ -122419,7 +122419,11 @@
     "energi": 99999,
     "name": "Ken Ijichi✨",
     "lastSeen": "2026-09-19T10:25:43.435Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "afk": 1789813661236
+    },
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "6281521531647": {
     "jid": "6281521531647",
