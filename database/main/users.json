@@ -43074,13 +43074,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-09-19T17:59:48.421Z",
+    "lastSeen": "2026-09-19T17:59:55.482Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220157,
+    "exp": 220172,
     "level": 1,
     "koin": 8610,
     "unlockedFeatures": [],
@@ -43139,7 +43139,7 @@
       "truth": 1789263815283,
       "pin": 1789374785691,
       "cantik": 1789303168945,
-      "simi": 1789840779727
+      "simi": 1789840797634
     },
     "clanId": null,
     "isRegistered": false,
@@ -113289,9 +113289,9 @@
     "energi": 99906,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40546,
+    "exp": 41010,
     "level": 1,
-    "koin": 207808,
+    "koin": 216507,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113299,7 +113299,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:59:41.819Z",
+    "lastSeen": "2026-09-19T18:00:02.314Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113330,8 +113330,9 @@
       "shop": 1789839362590,
       "nulis": 1789839798078,
       "nyapu": 1789839775245,
-      "parkir": 1789839469828,
-      "expedition": 1789839755385
+      "parkir": 1789840799458,
+      "expedition": 1789839755385,
+      "nambalban": 1789840806680
     },
     "clanId": null,
     "isRegistered": false,
