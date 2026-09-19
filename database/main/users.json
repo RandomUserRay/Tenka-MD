@@ -113288,9 +113288,9 @@
     "energi": 99956,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19823,
+    "exp": 20995,
     "level": 1,
-    "koin": 146470,
+    "koin": 181185,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -113298,7 +113298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T17:38:29.188Z",
+    "lastSeen": "2026-09-19T17:38:42.520Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113337,15 +113337,15 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 110,
-      "stamina": 105,
-      "maxStamina": 105,
+      "health": 120,
+      "stamina": 110,
+      "maxStamina": 110,
       "attack": 10,
-      "maxHealth": 110,
+      "maxHealth": 120,
       "bank": 0,
-      "level": 2,
-      "maxMana": 105,
-      "mana": 105
+      "level": 3,
+      "maxMana": 110,
+      "mana": 110
     },
     "inventory": {
       "iron": 6,
