@@ -26517,7 +26517,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168156,
+    "exp": 168171,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26526,7 +26526,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T00:54:48.285Z",
+    "lastSeen": "2026-09-19T01:17:46.473Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26550,7 +26550,7 @@
       "pakustad": 1788354793905,
       "h": 1789390175183,
       "kick": 1789124189537,
-      "p": 1789717953872,
+      "p": 1789780667247,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
       "hytamkan": 1785385527679,
@@ -26650,8 +26650,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 10
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -106930,7 +106930,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5130,
+    "exp": 5145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
