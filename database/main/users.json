@@ -111437,9 +111437,9 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27489,
+    "exp": 27519,
     "level": 1,
-    "koin": 41403,
+    "koin": 41363,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111447,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:07:37.195Z",
+    "lastSeen": "2026-09-19T12:08:01.379Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111560,7 +111560,7 @@
       "ngojek": 1789819489158,
       "leveluprpg": 1789819521422,
       "parkir": 1789819555200,
-      "bank": 1789819628025
+      "bank": 1789819682734
     },
     "clanId": null,
     "isRegistered": false,
@@ -111576,7 +111576,7 @@
       "mana": 110,
       "stamina": 63,
       "attack": 10,
-      "bank": 40
+      "bank": 80
     },
     "inventory": {
       "shuriken": 6,
@@ -111710,7 +111710,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15585,
+    "exp": 15600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
