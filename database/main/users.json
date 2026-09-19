@@ -34206,7 +34206,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283320,
+    "exp": 283395,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36077,7 +36077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 227255,
+    "exp": 227285,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -43664,7 +43664,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1020,
+    "exp": 1035,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96110,7 +96110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5460,
+    "exp": 5445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119781,7 +119781,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2565,
+    "exp": 2580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119791,10 +119791,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T23:33:51.063Z",
+    "lastSeen": "2026-09-19T02:23:49.910Z",
     "cooldowns": {
       "bratimg": 1789649964293,
-      "menu": 1789687998985,
+      "menu": 1789784634785,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
       "menucat": 1789688009373,
@@ -119823,8 +119823,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 5
   },
   "6281262488900": {
     "jid": "6281262488900",
@@ -123200,7 +123200,7 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "name": "M4n🕸️",
     "lastSeen": "2026-09-15T09:37:05.584Z",
     "cooldowns": {
@@ -124219,10 +124219,5 @@
     "jid": "6285124236521",
     "rpg": {},
     "exp": 60
-  },
-  "6285712442281": {
-    "jid": "6285712442281",
-    "rpg": {},
-    "exp": 15
   }
 }
