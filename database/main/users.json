@@ -111454,9 +111454,9 @@
     "energi": 99949,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40207,
+    "exp": 41252,
     "level": 1,
-    "koin": 34947,
+    "koin": 55565,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111464,7 +111464,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:47:40.798Z",
+    "lastSeen": "2026-09-19T13:47:57.054Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111592,7 +111592,8 @@
       "exp": 1789820713327,
       "stamina": 1789825407800,
       "inv": 1789825617498,
-      "jualan": 1789825641847
+      "jualan": 1789825641847,
+      "freelance": 1789825681311
     },
     "clanId": null,
     "isRegistered": false,
@@ -111606,7 +111607,7 @@
       "maxStamina": 120,
       "health": 140,
       "mana": 120,
-      "stamina": 120,
+      "stamina": 95,
       "attack": 10,
       "bank": 130676,
       "garden": {
