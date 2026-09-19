@@ -48123,7 +48123,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66090,
+    "exp": 66105,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93209,7 +93209,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35118,
+    "exp": 35133,
     "level": 1,
     "koin": 17757,
     "saldo": 0,
@@ -93219,7 +93219,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:08:11.944Z",
+    "lastSeen": "2026-09-19T14:08:20.369Z",
     "cooldowns": {
       "tebakgambar": 1788883178399,
       "tekateki": 1788883330747,
@@ -93253,7 +93253,7 @@
       "lesby": 1789826039485,
       "gay": 1789826616458,
       "ceksisaumur": 1789826778481,
-      "ceksetia": 1789826892904
+      "ceksetia": 1789826900406
     },
     "clanId": null,
     "isRegistered": false,
@@ -111457,10 +111457,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99928,
+    "energi": 99927,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58350,
+    "exp": 58466,
     "level": 1,
     "koin": 103142,
     "saldo": 0,
@@ -111470,7 +111470,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:08:16.172Z",
+    "lastSeen": "2026-09-19T14:08:25.031Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111624,7 +111624,7 @@
       "maxStamina": 125,
       "health": 150,
       "mana": 125,
-      "stamina": 90,
+      "stamina": 70,
       "attack": 10,
       "bank": 375144,
       "garden": {
@@ -111646,7 +111646,9 @@
       "iron": 0,
       "prawn": 0,
       "trash": 1,
-      "rabbit": 1
+      "rabbit": 1,
+      "padi": 2,
+      "tomat": 4
     },
     "access": [],
     "lastActiveDate": "19/9/2026",
