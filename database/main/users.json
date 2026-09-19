@@ -111437,9 +111437,9 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27474,
+    "exp": 27489,
     "level": 1,
-    "koin": 41443,
+    "koin": 41403,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111447,7 +111447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:07:07.782Z",
+    "lastSeen": "2026-09-19T12:07:37.195Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111576,7 +111576,7 @@
       "mana": 110,
       "stamina": 63,
       "attack": 10,
-      "bank": 0
+      "bank": 40
     },
     "inventory": {
       "shuriken": 6,
@@ -124359,6 +124359,6 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 390
+    "exp": 405
   }
 }
