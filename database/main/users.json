@@ -104545,7 +104545,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71463,
+    "exp": 71478,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111457,7 +111457,7 @@
     "energi": 99939,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47534,
+    "exp": 47594,
     "level": 1,
     "koin": 21574,
     "saldo": 0,
@@ -111467,7 +111467,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T13:56:03.879Z",
+    "lastSeen": "2026-09-19T13:56:50.722Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111599,7 +111599,8 @@
       "freelance": 1789825681311,
       "nambalban": 1789825710923,
       "heal": 1789825727932,
-      "buykoin": 1789825790498
+      "buykoin": 1789825790498,
+      "jual": 1789826180620
     },
     "clanId": null,
     "isRegistered": false,
@@ -121211,7 +121212,7 @@
   "6283157474018": {
     "jid": "6283157474018",
     "rpg": {},
-    "exp": 4890,
+    "exp": 4905,
     "energi": 99999
   },
   "6288245965331": {
