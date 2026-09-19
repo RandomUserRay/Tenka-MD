@@ -26733,7 +26733,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 717198,
+    "exp": 717213,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -47646,7 +47646,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 558188,
+    "exp": 558203,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -91277,7 +91277,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101831,12 +101831,12 @@
   },
   "62895406126052": {
     "jid": "62895406126052",
-    "name": "Unknown",
+    "name": "Iqbal",
     "number": "62895406126052",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 255,
+    "exp": 270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101846,8 +101846,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T11:25:01.021Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-19T04:58:53.997Z",
+    "cooldowns": {
+      "robloxstalk": 1789793935240
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -101855,7 +101857,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 1
   },
   "62882020017089": {
     "jid": "62882020017089",
@@ -123851,7 +123855,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 99999
   },
   "6288225016844": {
