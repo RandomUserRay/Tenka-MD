@@ -19678,7 +19678,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284555,
+    "exp": 284570,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -111693,7 +111693,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44100,
+    "exp": 44130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111703,13 +111703,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T20:37:03.932Z",
+    "lastSeen": "2026-09-19T19:31:37.406Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
       "ut": 1789560686531,
       "level": 1789741277219,
-      "buka": 1789763825346
+      "buka": 1789846287952,
+      "tutup": 1789846297812
     },
     "clanId": null,
     "isRegistered": false,
@@ -111727,8 +111728,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 5
   },
   "6287893710951": {
     "jid": "6287893710951",
