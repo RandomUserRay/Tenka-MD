@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
+      "at": 1789861771601
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
       "at": 1789837880010
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789214184136
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789213835037
     }
   ],
   "jpmBlacklist": [],
