@@ -111905,12 +111905,12 @@
     "jid": "6283844881941",
     "name": "sell",
     "number": "6283844881941",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 1367,
     "level": 1,
-    "koin": 0,
+    "koin": 15654,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111918,11 +111918,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:30:43.969Z",
+    "lastSeen": "2026-09-19T14:31:28.703Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
-      "maling": 1789828246691
+      "maling": 1789828246691,
+      "parkir": 1789828275770,
+      "streamer": 1789828284281
     },
     "clanId": null,
     "isRegistered": false,
@@ -111930,12 +111932,14 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 100
+      "health": 100,
+      "stamina": 53
     },
     "inventory": {},
     "access": [],
     "lastActiveDate": "19/9/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "lastStreamer": 1789828584064
   },
   "62881010988540": {
     "jid": "62881010988540",
