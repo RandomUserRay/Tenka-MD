@@ -111453,9 +111453,9 @@
     "energi": 99967,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31192,
+    "exp": 31207,
     "level": 1,
-    "koin": 27816,
+    "koin": 23644,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111596,23 +111596,11 @@
       "maxHealth": 130,
       "maxMana": 115,
       "maxStamina": 115,
-      "health": 130,
+      "health": 90,
       "mana": 115,
       "stamina": 25,
       "attack": 10,
-      "bank": 60080,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Bandit Hutan",
-        "monsterPower": 19,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1789820179571
-      }
+      "bank": 60080
     },
     "inventory": {
       "shuriken": 6,
