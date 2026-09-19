@@ -50385,7 +50385,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 829940,
+    "exp": 829955,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -101825,7 +101825,7 @@
     "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3465,
+    "exp": 3480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111453,7 +111453,7 @@
     "energi": 99957,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33085,
+    "exp": 33100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111641,7 +111641,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43260,
+    "exp": 43290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120122,12 +120122,12 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟",
-    "lastSeen": "2026-09-19T12:43:50.241Z",
+    "lastSeen": "2026-09-19T10:07:24.252Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1095,
     "cooldowns": {
-      "s": 1789821978736,
+      "s": 1789812447655,
       "smeme": 1789635782832,
       "allmenu": 1789636056500,
       "rvo": 1789748436358,
@@ -120135,7 +120135,7 @@
       "brat": 1789746131510,
       "qc": 1789746169600
     },
-    "energi": 99997,
+    "energi": 99998,
     "lastActiveDate": "19/9/2026",
     "activeDays": 5
   },
@@ -124401,10 +124401,5 @@
     "jid": "6283124620093",
     "rpg": {},
     "exp": 495
-  },
-  "62882007604756": {
-    "jid": "62882007604756",
-    "rpg": {},
-    "exp": 120
   }
 }
