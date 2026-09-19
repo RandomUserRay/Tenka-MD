@@ -111453,7 +111453,7 @@
     "energi": 99962,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31332,
+    "exp": 31347,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111463,7 +111463,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:18:01.600Z",
+    "lastSeen": "2026-09-19T12:18:23.876Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111586,7 +111586,8 @@
       "fishing": 1789820141972,
       "dungeon": 1789820172244,
       "beg": 1789820233404,
-      "casino": 1789820284282
+      "casino": 1789820284282,
+      "challenge": 1789820303962
     },
     "clanId": null,
     "isRegistered": false,
@@ -111602,7 +111603,19 @@
       "mana": 115,
       "stamina": 25,
       "attack": 10,
-      "bank": 60080
+      "bank": 60080,
+      "dailyChallenge": {
+        "name": "⛏️ Tambang 10 Ore",
+        "type": "mine",
+        "target": 10,
+        "reward": {
+          "gold": 400,
+          "exp": 180
+        },
+        "progress": 0,
+        "date": "Sat Sep 19 2026",
+        "claimed": false
+      }
     },
     "inventory": {
       "shuriken": 6,
