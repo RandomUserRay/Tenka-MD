@@ -48121,7 +48121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64515,
+    "exp": 64530,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -94625,10 +94625,10 @@
     "jid": "6289653922631",
     "name": "Ticonderoga",
     "number": "6289653922631",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3465,
+    "exp": 3495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94638,11 +94638,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-12T06:57:55.241Z",
+    "lastSeen": "2026-09-19T09:32:33.995Z",
     "cooldowns": {
       "s": 1786923206913,
       "hd": 1786972656322,
-      "play": 1789196315027,
+      "play": 1789810344287,
       "ytmp4": 1787909014120,
       "afk": 1787037045812
     },
@@ -94654,8 +94654,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "19/9/2026",
+    "activeDays": 4
   },
   "628216042012": {
     "jid": "628216042012",
