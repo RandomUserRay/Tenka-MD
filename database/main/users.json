@@ -23381,10 +23381,10 @@
     "jid": "6282159049041",
     "name": "Ini Eyza",
     "number": "6282159049041",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1815,
+    "exp": 1830,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -23393,7 +23393,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-14T08:54:52.502Z",
+    "lastSeen": "2026-09-19T00:45:06.212Z",
     "cooldowns": {
       "level": 1783683225324,
       "inspect": 1782556243673,
@@ -120883,7 +120883,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 645,
+    "exp": 630,
     "energi": 99999
   },
   "62882005686310": {
