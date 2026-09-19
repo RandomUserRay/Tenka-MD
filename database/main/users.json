@@ -111453,7 +111453,7 @@
     "energi": 99967,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31162,
+    "exp": 31177,
     "level": 1,
     "koin": 27816,
     "saldo": 0,
@@ -111463,7 +111463,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T12:15:55.883Z",
+    "lastSeen": "2026-09-19T12:16:12.111Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111599,7 +111599,11 @@
       "mana": 115,
       "stamina": 55,
       "attack": 10,
-      "bank": 60080
+      "bank": 60080,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1789820172116
+      }
     },
     "inventory": {
       "shuriken": 6,
