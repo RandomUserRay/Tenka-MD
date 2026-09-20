@@ -90356,7 +90356,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35685,
+    "exp": 35700,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90366,7 +90366,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:22:53.452Z",
+    "lastSeen": "2026-09-20T15:23:03.525Z",
     "cooldowns": {
       "play": 1789871072024,
       "toimg": 1787698619040,
@@ -90396,7 +90396,8 @@
       "femboy": 1787905865543,
       "h": 1787908755218,
       "tovid": 1789870210191,
-      "unmutegc": 1789917720346
+      "unmutegc": 1789917720346,
+      "antispam": 1789917783558
     },
     "clanId": null,
     "isRegistered": false,
