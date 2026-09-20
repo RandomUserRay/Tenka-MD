@@ -101885,7 +101885,7 @@
     "lastSeen": "2026-09-20T13:37:28.975Z",
     "cooldowns": {
       "owner": 1788089665806,
-      "robloxstalk": 1789911408293,
+      "robloxstalk": 1789911450366,
       "play": 1789861018432,
       "afk": 1789860526415,
       "lvl": 1789798783924,
@@ -111740,7 +111740,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46875,
+    "exp": 46890,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111750,14 +111750,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T07:16:59.085Z",
+    "lastSeen": "2026-09-20T13:37:30.322Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
       "ut": 1789560686531,
       "level": 1789741277219,
       "buka": 1789846287952,
-      "tutup": 1789846297812
+      "tutup": 1789846297812,
+      "tagall": 1789911450792
     },
     "clanId": null,
     "isRegistered": false,
@@ -124433,7 +124434,7 @@
   "6285701538603": {
     "jid": "6285701538603",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6281393522395": {
