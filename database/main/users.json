@@ -111748,12 +111748,12 @@
     "jid": "6287893710951",
     "name": "°｡⋆🎧 𝓀ℯ𝓎𝓇ℯ𝓃 🎸 ʚĭɞ ⋆｡°",
     "number": "6287893710951",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9855,
+    "exp": 10070,
     "level": 1,
-    "koin": 0,
+    "koin": 8000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111761,7 +111761,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:25:03.720Z",
+    "lastSeen": "2026-09-20T00:53:59.942Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111771,7 +111771,7 @@
       "game": 1789812012104,
       "owner": 1789815131490,
       "cekabsen": 1789827158762,
-      "maling": 1789827422263
+      "maling": 1789865644278
     },
     "clanId": null,
     "isRegistered": false,
@@ -111779,12 +111779,18 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 100
+      "health": 110,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "mana": 105,
+      "stamina": 105
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 4
   },
   "6283892574726": {
     "jid": "6283892574726",
