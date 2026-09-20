@@ -111477,9 +111477,9 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 99334,
+    "exp": 99349,
     "level": 1,
-    "koin": 300052,
+    "koin": 295552,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:38:34.668Z",
+    "lastSeen": "2026-09-20T00:39:22.805Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111633,7 +111633,7 @@
       "notifpromote": 1789827135373,
       "mulung": 1789827717299,
       "beg": 1789828431757,
-      "petshop": 1789864714829
+      "petshop": 1789864763030
     },
     "clanId": null,
     "isRegistered": false,
@@ -111658,6 +111658,14 @@
           }
         ],
         "maxPlots": 3
+      },
+      "pet": {
+        "type": "bird",
+        "name": "Burung",
+        "level": 1,
+        "exp": 0,
+        "hunger": 80,
+        "stats": null
       }
     },
     "inventory": {
