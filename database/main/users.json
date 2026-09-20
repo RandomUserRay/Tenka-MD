@@ -40321,7 +40321,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63105,
+    "exp": 63120,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102117,7 +102117,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14214,
+    "exp": 14229,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102128,7 +102128,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789907921985,
+      "afk": 1789907977690,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -102531,7 +102531,7 @@
       "jadibot": 1789903162216,
       "menu": 1789903718022,
       "stopjadibot": 1789903139228,
-      "p": 1789907717297,
+      "p": 1789907978102,
       "pp": 1789650768772,
       "hitamkan": 1789650843029,
       "me": 1789903724736
@@ -120457,16 +120457,17 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1830,
+    "exp": 1845,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-20T12:39:12.707Z",
+    "lastSeen": "2026-09-20T12:39:40.448Z",
     "cooldowns": {
       "love": 1789136486991,
       "d": 1789907928204,
       "rvo": 1789728644438,
       "me": 1789732499814,
       "profile": 1789732539108,
-      "warn": 1789793589789
+      "warn": 1789793589789,
+      "afk": 1789907980060
     },
     "lastActiveDate": "20/9/2026",
     "activeDays": 4,
