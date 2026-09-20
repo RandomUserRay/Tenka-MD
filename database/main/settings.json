@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
+      "at": 1789865410515
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
       "at": 1789861771601
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
       "at": 1789215404265
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789214184136
     }
   ],
   "jpmBlacklist": [],
