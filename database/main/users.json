@@ -50611,10 +50611,10 @@
     "jid": "6288901803249",
     "name": "rayy.",
     "number": "6288901803249",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 599591,
+    "exp": 599636,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -50625,7 +50625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:11:23.092Z",
+    "lastSeen": "2026-09-20T15:11:44.422Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50659,7 +50659,7 @@
       "bratvermeil": 1783765114470,
       "brathd": 1783765124116,
       "cekjodoh": 1783765438246,
-      "tembak": 1783765529683,
+      "tembak": 1789917104491,
       "terima": 1783765536743,
       "tolak": 1783765536796,
       "waifu": 1783765925361,
@@ -50809,8 +50809,11 @@
     },
     "access": [],
     "fun": {
-      "tembakCount": 1,
-      "ditolakCount": 1
+      "tembakCount": 2,
+      "ditolakCount": 1,
+      "pasangan": "6285743196164@s.whatsapp.net",
+      "jadiPacar": 1789917115599,
+      "terimaCount": 1
     },
     "lastStreamer": 1784205823631,
     "settings": {},
@@ -111750,7 +111753,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48660,
+    "exp": 48705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123809,9 +123812,9 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 5670,
+    "exp": 5745,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:11:27.829Z",
+    "lastSeen": "2026-09-20T15:11:56.989Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123828,11 +123831,17 @@
       "tebakhewan": 1789916731733,
       "cekfemboy": 1789916822074,
       "iqc": 1789916903237,
-      "love": 1789917053379
+      "love": 1789917053379,
+      "terima": 1789917115672,
+      "tolak": 1789917117034
     },
     "energi": 100000,
     "lastActiveDate": "20/9/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "fun": {
+      "pasangan": "6288901803249@s.whatsapp.net",
+      "jadiPacar": 1789917115599
+    }
   },
   "62895386188500": {
     "jid": "62895386188500",
