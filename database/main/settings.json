@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1789903249114
+    },
+    {
+      "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789865410515
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789219030871
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in import crypto from 'crypto';\nimport axios from 'axios';\n\nconst pluginConfig = {\n    name: 'playvideo',\n    alias: ['pvideo', 'streamvideo', 'playvid'",
-      "at": 1789215404265
     }
   ],
   "jpmBlacklist": [],
@@ -25679,6 +25679,10 @@
     "6283163534992@s.whatsapp.net": {
       "jid": "6283163534992@s.whatsapp.net",
       "name": "Kazuyaaさん"
+    },
+    "628137360758@s.whatsapp.net": {
+      "jid": "628137360758@s.whatsapp.net",
+      "name": "Arii aj 4"
     }
   },
   "antiCall": false,
