@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135952685,
+    "exp": 135952535,
     "level": 1,
     "koin": 60802169,
     "unlockedFeatures": [],
@@ -11574,13 +11574,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 4,
+      "level": 3,
       "health": 105,
-      "maxHealth": 130,
+      "maxHealth": 120,
       "mana": 53,
-      "maxMana": 115,
+      "maxMana": 110,
       "stamina": 23,
-      "maxStamina": 115,
+      "maxStamina": 110,
       "bank": 250000,
       "spouse": "6283857834910@s.whatsapp.net",
       "marriedAt": 1789136014473,
@@ -33704,7 +33704,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 88637,
+    "exp": 88682,
     "level": 1,
     "koin": 348555,
     "unlockedFeatures": [],
@@ -43085,7 +43085,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220577,
+    "exp": 220607,
     "level": 1,
     "koin": 8610,
     "unlockedFeatures": [],
@@ -120286,7 +120286,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1680,
+    "exp": 1650,
     "energi": 99999
   },
   "6285785063453": {
@@ -120511,7 +120511,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 525,
+    "exp": 510,
     "name": "-endy oey",
     "lastSeen": "2026-09-20T11:44:24.867Z",
     "cooldowns": {
