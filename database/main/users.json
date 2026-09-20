@@ -111740,7 +111740,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47985,
+    "exp": 48000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124162,11 +124162,15 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 1155,
-    "energi": 99998,
+    "exp": 1170,
+    "energi": 99997,
     "name": "𝐜hntka",
-    "lastSeen": "2026-09-20T14:50:41.992Z",
-    "cooldowns": {}
+    "lastSeen": "2026-09-20T14:50:53.393Z",
+    "cooldowns": {
+      "s": 1789915853879
+    },
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 1
   },
   "6288225016844": {
     "jid": "6288225016844",
