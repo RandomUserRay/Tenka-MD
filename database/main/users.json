@@ -111483,9 +111483,9 @@
     "energi": 99925,
     "isPremium": false,
     "isBanned": false,
-    "exp": 128285,
+    "exp": 128300,
     "level": 1,
-    "koin": 0,
+    "koin": 200000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111493,7 +111493,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T04:36:30.230Z",
+    "lastSeen": "2026-09-20T04:36:45.576Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111663,7 +111663,7 @@
       "mana": 160,
       "stamina": 42,
       "attack": 10,
-      "bank": 2208464,
+      "bank": 2008464,
       "garden": {
         "plots": [
           {
