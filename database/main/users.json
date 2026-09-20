@@ -35278,7 +35278,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1004302,
+    "exp": 1004332,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -35287,7 +35287,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:17:42.806Z",
+    "lastSeen": "2026-09-20T15:18:17.046Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35465,7 +35465,8 @@
       "cektsundere": 1789287591647,
       "qc": 1789547735330,
       "spek": 1789547873884,
-      "truth": 1789917462856
+      "truth": 1789917462856,
+      "dare": 1789917497096
     },
     "clanId": null,
     "isRegistered": false,
@@ -50615,7 +50616,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 600827,
+    "exp": 600887,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -50626,7 +50627,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:17:48.738Z",
+    "lastSeen": "2026-09-20T15:18:01.998Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50737,7 +50738,7 @@
       "igstalk": 1785492364401,
       "stalkml": 1785492421912,
       "truth": 1789916498056,
-      "dare": 1789917468791,
+      "dare": 1789917482062,
       "cekfemboy": 1789916753404,
       "mengapa": 1789916870686,
       "love": 1789916936613,
@@ -123819,9 +123820,9 @@
       "bank": 0,
       "stamina": 80
     },
-    "exp": 6938,
+    "exp": 7013,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:17:46.461Z",
+    "lastSeen": "2026-09-20T15:18:27.446Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123845,15 +123846,16 @@
       "tembak": 1789917290224,
       "bank": 1789917298304,
       "slot": 1789917469037,
-      "streamer": 1789917450666
+      "streamer": 1789917450666,
+      "casino": 1789917496555
     },
-    "energi": 99996,
+    "energi": 99993,
     "lastActiveDate": "20/9/2026",
     "activeDays": 3,
     "fun": {
       "jadiPacar": 1789917115599
     },
-    "koin": 23097
+    "koin": 8097
   },
   "62895386188500": {
     "jid": "62895386188500",
