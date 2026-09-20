@@ -32667,10 +32667,10 @@
     "jid": "62895425005352",
     "name": "~TeaJus",
     "number": "62895425005352",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62135,
+    "exp": 62150,
     "level": 1,
     "koin": 13334,
     "unlockedFeatures": [],
@@ -32679,7 +32679,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T22:39:27.629Z",
+    "lastSeen": "2026-09-20T00:37:21.396Z",
     "cooldowns": {
       "brat": 1789475745995,
       "bratimg": 1789475753268,
@@ -32757,7 +32757,8 @@
       "bratvermeilvid": 1788528680305,
       "playvid": 1789300362993,
       "redeem": 1789127307031,
-      "pin": 1789511969944
+      "pin": 1789511969944,
+      "lirik": 1789864647411
     },
     "clanId": null,
     "isRegistered": false,
@@ -32776,8 +32777,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 12
   },
   "62895342591003": {
     "jid": "62895342591003",
