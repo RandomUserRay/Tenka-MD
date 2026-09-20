@@ -111749,12 +111749,12 @@
     "jid": "6287893710951",
     "name": "°｡⋆🎧 𝓀ℯ𝓎𝓇ℯ𝓃 🎸 ʚĭɞ ⋆｡°",
     "number": "6287893710951",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11127,
+    "exp": 12233,
     "level": 1,
-    "koin": 15543,
+    "koin": 37363,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111762,7 +111762,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:59:12.763Z",
+    "lastSeen": "2026-09-20T00:59:38.978Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111776,7 +111776,8 @@
       "bank": 1789865761485,
       "kurir": 1789865861196,
       "parkir": 1789865912250,
-      "cook": 1789865953000
+      "cook": 1789865953000,
+      "gojek": 1789865982289
     },
     "clanId": null,
     "isRegistered": false,
@@ -111790,7 +111791,7 @@
       "maxMana": 105,
       "maxStamina": 105,
       "mana": 105,
-      "stamina": 68,
+      "stamina": 53,
       "bank": 0
     },
     "inventory": {},
