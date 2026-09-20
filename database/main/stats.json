@@ -1,6 +1,6 @@
 {
   "commandErrors": 631,
-  "commandsExecuted": 123665,
+  "commandsExecuted": 123668,
   "command_totalchat": 25,
   "command_menu": 2000,
   "command_fb": 5,
@@ -154,7 +154,7 @@
   "command_flux-pro": 2,
   "command_melolo": 1,
   "command_ai-rewriter": 1,
-  "command_daftar": 21,
+  "command_daftar": 23,
   "command_bataldaftar": 2,
   "command_del": 231,
   "command_autoreplystiker": 9,
@@ -1391,5 +1391,6 @@
   "command_ttstalk": 2,
   "command_dance": 1,
   "command_rlesbianvid": 1,
-  "command_mute": 1
+  "command_mute": 1,
+  "command_unreg": 1
 }
