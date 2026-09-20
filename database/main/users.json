@@ -111913,7 +111913,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4092,
+    "exp": 4122,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111923,7 +111923,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:22:23.373Z",
+    "lastSeen": "2026-09-20T00:22:37.703Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -111936,7 +111936,8 @@
       "bank": 1789863397703,
       "jualan": 1789828357016,
       "nyapu": 1789828371708,
-      "kurir": 1789828378568
+      "kurir": 1789828378568,
+      "heal": 1789863746769
     },
     "clanId": null,
     "isRegistered": false,
