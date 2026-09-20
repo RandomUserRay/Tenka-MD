@@ -50614,7 +50614,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 599291,
+    "exp": 599306,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -50625,7 +50625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:07:50.607Z",
+    "lastSeen": "2026-09-20T15:08:21.185Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50738,7 +50738,8 @@
       "truth": 1789916498056,
       "dare": 1789916560694,
       "cekfemboy": 1789916753404,
-      "mengapa": 1789916870686
+      "mengapa": 1789916870686,
+      "love": 1789916901219
     },
     "clanId": null,
     "isRegistered": false,
@@ -123808,9 +123809,9 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 5265,
+    "exp": 5280,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:07:25.353Z",
+    "lastSeen": "2026-09-20T15:08:21.335Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789547762270,
@@ -123828,7 +123829,7 @@
       "cekfemboy": 1789916822074,
       "iqc": 1789916847814
     },
-    "energi": 100003,
+    "energi": 100001,
     "lastActiveDate": "20/9/2026",
     "activeDays": 3
   },
