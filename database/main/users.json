@@ -111760,7 +111760,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50205,
+    "exp": 50220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111770,7 +111770,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T17:23:38.196Z",
+    "lastSeen": "2026-09-20T17:24:01.284Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
@@ -111778,7 +111778,8 @@
       "level": 1789741277219,
       "buka": 1789924980157,
       "tutup": 1789924992581,
-      "tagall": 1789915919723
+      "tagall": 1789915919723,
+      "tidur": 1789925041403
     },
     "clanId": null,
     "isRegistered": false,
