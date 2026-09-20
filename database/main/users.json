@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000078375,
+    "exp": 9000078300,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -90321,7 +90321,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34125,
+    "exp": 34110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -108587,7 +108587,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080,
+    "exp": 1095,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111477,9 +111477,9 @@
     "energi": 99965,
     "isPremium": false,
     "isBanned": false,
-    "exp": 102673,
+    "exp": 102778,
     "level": 1,
-    "koin": 404021,
+    "koin": 4021,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:52:16.750Z",
+    "lastSeen": "2026-09-20T00:55:14.179Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111600,7 +111600,7 @@
       "ngojek": 1789865346777,
       "leveluprpg": 1789819521422,
       "parkir": 1789865311118,
-      "bank": 1789865354937,
+      "bank": 1789865714309,
       "nyapu": 1789864356861,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111652,7 +111652,7 @@
       "mana": 150,
       "stamina": 91,
       "attack": 10,
-      "bank": 1108732,
+      "bank": 1508732,
       "garden": {
         "plots": [
           {
@@ -111748,12 +111748,12 @@
     "jid": "6287893710951",
     "name": "°｡⋆🎧 𝓀ℯ𝓎𝓇ℯ𝓃 🎸 ʚĭɞ ⋆｡°",
     "number": "6287893710951",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9855,
+    "exp": 10115,
     "level": 1,
-    "koin": 0,
+    "koin": 8000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111761,7 +111761,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T14:25:03.720Z",
+    "lastSeen": "2026-09-20T00:53:59.942Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111771,7 +111771,7 @@
       "game": 1789812012104,
       "owner": 1789815131490,
       "cekabsen": 1789827158762,
-      "maling": 1789827422263
+      "maling": 1789865644278
     },
     "clanId": null,
     "isRegistered": false,
@@ -111779,12 +111779,18 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 100
+      "health": 110,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "mana": 105,
+      "stamina": 105
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 4
   },
   "6283892574726": {
     "jid": "6283892574726",
@@ -120813,7 +120819,7 @@
   "628214436992": {
     "jid": "628214436992",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "energi": 99999
   },
   "6288226296127": {
