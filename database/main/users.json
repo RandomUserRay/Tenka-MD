@@ -111482,12 +111482,12 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99905,
+    "energi": 99906,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135990,
+    "exp": 135930,
     "level": 1,
-    "koin": 260000,
+    "koin": 140509,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111495,7 +111495,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T05:31:18.036Z",
+    "lastSeen": "2026-09-20T05:30:36.984Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111608,7 +111608,7 @@
       "ngojek": 1789882109237,
       "leveluprpg": 1789819521422,
       "parkir": 1789868656563,
-      "bank": 1789882264958,
+      "bank": 1789882149731,
       "nyapu": 1789868750880,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111619,7 +111619,7 @@
       "dungeon": 1789820172244,
       "garden": 1789820394422,
       "rob": 1789820423273,
-      "casino": 1789882252684,
+      "casino": 1789882239592,
       "exp": 1789820713327,
       "stamina": 1789865029926,
       "inv": 1789825617498,
@@ -111665,7 +111665,7 @@
       "mana": 165,
       "stamina": 113,
       "attack": 10,
-      "bank": 3000592,
+      "bank": 3260592,
       "garden": {
         "plots": [
           {
@@ -120268,7 +120268,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1605,
+    "exp": 1620,
     "energi": 99999
   },
   "6285785063453": {
@@ -120493,16 +120493,17 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 480,
+    "exp": 510,
     "name": "-endy oey",
-    "lastSeen": "2026-09-20T04:27:40.339Z",
+    "lastSeen": "2026-09-20T05:31:27.861Z",
     "cooldowns": {
       "play": 1789128750730,
       "pin": 1789453870745,
-      "tt": 1789878462531,
-      "profile": 1789789572059
+      "tt": 1789882260084,
+      "profile": 1789789572059,
+      "ttmp3": 1789882292437
     },
-    "energi": 99998,
+    "energi": 99996,
     "lastActiveDate": "20/9/2026",
     "activeDays": 7
   },
