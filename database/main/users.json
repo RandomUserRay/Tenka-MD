@@ -35278,7 +35278,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1004212,
+    "exp": 1004227,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50614,7 +50614,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 599981,
+    "exp": 600011,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -50625,7 +50625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:16:13.230Z",
+    "lastSeen": "2026-09-20T15:16:59.837Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50751,13 +50751,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 60,
-      "maxHealth": 690,
-      "maxMana": 395,
-      "maxStamina": 395,
-      "health": 690,
-      "mana": 395,
-      "stamina": 395,
+      "level": 61,
+      "maxHealth": 700,
+      "maxMana": 400,
+      "maxStamina": 400,
+      "health": 700,
+      "mana": 400,
+      "stamina": 400,
       "bank": 0,
       "pet": {
         "type": "rabbit",
@@ -123817,9 +123817,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 6060,
+    "exp": 6075,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:16:48.482Z",
+    "lastSeen": "2026-09-20T15:16:54.042Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123842,9 +123842,9 @@
       "jelek": 1789917210155,
       "tembak": 1789917290224,
       "bank": 1789917298304,
-      "slot": 1789917387019
+      "slot": 1789917414102
     },
-    "energi": 99998,
+    "energi": 99997,
     "lastActiveDate": "20/9/2026",
     "activeDays": 3,
     "fun": {
