@@ -35278,7 +35278,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1004542,
+    "exp": 1004482,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -35287,7 +35287,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:22:02.721Z",
+    "lastSeen": "2026-09-20T15:20:39.962Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35465,7 +35465,7 @@
       "cektsundere": 1789287591647,
       "qc": 1789547735330,
       "spek": 1789547873884,
-      "truth": 1789917722784,
+      "truth": 1789917640021,
       "dare": 1789917497096
     },
     "clanId": null,
@@ -50616,7 +50616,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 601187,
+    "exp": 601067,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -50627,7 +50627,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:22:13.279Z",
+    "lastSeen": "2026-09-20T15:20:20.131Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50737,8 +50737,8 @@
       "menu": 1785492320404,
       "igstalk": 1785492364401,
       "stalkml": 1785492421912,
-      "truth": 1789917733344,
-      "dare": 1789917676997,
+      "truth": 1789916498056,
+      "dare": 1789917620184,
       "cekfemboy": 1789916753404,
       "mengapa": 1789916870686,
       "love": 1789916936613,
@@ -90353,10 +90353,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35550,
+    "exp": 35685,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90366,7 +90366,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T02:24:03.430Z",
+    "lastSeen": "2026-09-20T15:22:53.452Z",
     "cooldowns": {
       "play": 1789871072024,
       "toimg": 1787698619040,
@@ -90385,8 +90385,8 @@
       "cekfemboy": 1786970914865,
       "putihkan": 1787909290250,
       "rvo": 1789871017870,
-      "mutegc": 1789870916192,
-      "unmute": 1788322616325,
+      "mutegc": 1789917674384,
+      "unmute": 1789917688584,
       "ytmp4": 1787893749675,
       "setwelcome": 1787663970245,
       "level": 1787823834168,
@@ -90395,7 +90395,8 @@
       "mutegrup": 1788322460823,
       "femboy": 1787905865543,
       "h": 1787908755218,
-      "tovid": 1789870210191
+      "tovid": 1789870210191,
+      "unmutegc": 1789917720346
     },
     "clanId": null,
     "isRegistered": false,
@@ -92094,12 +92095,12 @@
   },
   "6288270872854": {
     "jid": "6288270872854",
-    "name": "Fuutarou",
+    "name": "ᗜˬᗜ",
     "number": "6288270872854",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1185,
+    "exp": 1200,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92109,9 +92110,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T00:01:25.864Z",
+    "lastSeen": "2026-09-20T15:22:08.489Z",
     "cooldowns": {
-      "tembak": 1786871592826
+      "tembak": 1786871592826,
+      "play": 1789917750058
     },
     "clanId": null,
     "isRegistered": false,
@@ -92124,7 +92126,9 @@
     "fun": {
       "tembakTarget": "628988030980@s.whatsapp.net",
       "tembakCount": 1
-    }
+    },
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 1
   },
   "6287894463791": {
     "jid": "6287894463791",
@@ -92556,12 +92560,12 @@
   },
   "6285752217075": {
     "jid": "6285752217075",
-    "name": "Ruby💖",
+    "name": "Ruby💕",
     "number": "6285752217075",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1215,
+    "exp": 1230,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92571,9 +92575,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T11:37:20.874Z",
+    "lastSeen": "2026-09-20T15:22:37.738Z",
     "cooldowns": {
-      "cekfemboy": 1786888838706
+      "cekfemboy": 1786888838706,
+      "play": 1789917765290
     },
     "clanId": null,
     "isRegistered": false,
@@ -92582,7 +92587,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 1
   },
   "6282342552074": {
     "jid": "6282342552074",
@@ -99127,10 +99134,10 @@
     "jid": "6281521975279",
     "name": "ŘEEŶ",
     "number": "6281521975279",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3150,
+    "exp": 3165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99140,9 +99147,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T02:18:33.907Z",
+    "lastSeen": "2026-09-20T15:22:24.897Z",
     "cooldowns": {
-      "ytmp4": 1787929633797,
+      "ytmp4": 1789917752029,
       "play": 1788431828826,
       "tembak": 1787893758938,
       "s": 1788432114563
@@ -99155,8 +99162,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 4
   },
   "6285210615596": {
     "jid": "6285210615596",
@@ -111758,7 +111765,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48990,
+    "exp": 48975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123820,9 +123827,9 @@
       "bank": 0,
       "stamina": 60
     },
-    "exp": 7373,
+    "exp": 7208,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:22:26.590Z",
+    "lastSeen": "2026-09-20T15:20:47.819Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123846,10 +123853,8 @@
       "tembak": 1789917290224,
       "bank": 1789917609189,
       "slot": 1789917600315,
-      "streamer": 1789917651520,
-      "casino": 1789917633310,
-      "dare": 1789917728997,
-      "truth": 1789917746651
+      "streamer": 1789917450666,
+      "casino": 1789917633310
     },
     "energi": 99989,
     "lastActiveDate": "20/9/2026",
@@ -123857,8 +123862,7 @@
     "fun": {
       "jadiPacar": 1789917115599
     },
-    "koin": 97,
-    "lastStreamer": 1789917951415
+    "koin": 97
   },
   "62895386188500": {
     "jid": "62895386188500",
@@ -124208,12 +124212,12 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 2355,
-    "energi": 99995,
+    "exp": 2310,
+    "energi": 99998,
     "name": "𝐜hntka",
-    "lastSeen": "2026-09-20T15:21:43.793Z",
+    "lastSeen": "2026-09-20T15:17:39.527Z",
     "cooldowns": {
-      "s": 1789917704568,
+      "s": 1789915853879,
       "anj": 1789916189343,
       "fuckmylife": 1789916273054,
       "goblok": 1789916292967,
