@@ -111477,7 +111477,7 @@
     "energi": 99976,
     "isPremium": false,
     "isBanned": false,
-    "exp": 99409,
+    "exp": 99439,
     "level": 1,
     "koin": 295552,
     "saldo": 0,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:40:07.353Z",
+    "lastSeen": "2026-09-20T00:40:39.145Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111635,7 +111635,7 @@
       "beg": 1789828431757,
       "petshop": 1789864777741,
       "breeding": 1789864793108,
-      "pet": 1789864807487
+      "pet": 1789864839357
     },
     "clanId": null,
     "isRegistered": false,
@@ -111665,8 +111665,8 @@
         "type": "bird",
         "name": "Burung",
         "level": 1,
-        "exp": 0,
-        "hunger": 80,
+        "exp": 10,
+        "hunger": 100,
         "stats": null
       }
     },
@@ -111674,7 +111674,6 @@
       "shuriken": 6,
       "rock": 0,
       "daging_kelinci": 2,
-      "fish": 1,
       "coal": 0,
       "iron": 0,
       "prawn": 0,
