@@ -111761,7 +111761,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50565,
+    "exp": 50595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111811,7 +111811,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16071,
+    "exp": 16086,
     "level": 1,
     "koin": 55999,
     "saldo": 0,
@@ -111821,7 +111821,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T09:42:51.038Z",
+    "lastSeen": "2026-09-20T22:14:43.526Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1789897371145,
@@ -111843,7 +111843,8 @@
       "casino": 1789866317773,
       "absen": 1789888764453,
       "mulaiabsen": 1789888723551,
-      "cekonline": 1789889913617
+      "cekonline": 1789889913617,
+      "topchat": 1789942483891
     },
     "clanId": null,
     "isRegistered": false,
@@ -111862,8 +111863,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 5
   },
   "6283892574726": {
     "jid": "6283892574726",
