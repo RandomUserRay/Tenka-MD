@@ -111527,7 +111527,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 162492,
+    "exp": 162507,
     "level": 1,
     "koin": 25912,
     "saldo": 0,
@@ -111537,7 +111537,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T23:13:53.140Z",
+    "lastSeen": "2026-09-20T23:13:58.377Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111677,7 +111677,7 @@
       "gift": 1789826512701,
       "hunt": 1789826647123,
       "arena": 1789826756853,
-      "streamer": 1789905358879,
+      "streamer": 1789946042202,
       "berladang": 1789826908294,
       "unmutegc": 1789828226264,
       "notifpromote": 1789827135373,
@@ -111708,7 +111708,7 @@
       "maxStamina": 180,
       "health": 260,
       "mana": 180,
-      "stamina": 147,
+      "stamina": 127,
       "attack": 10,
       "bank": 529220,
       "garden": {
@@ -111755,7 +111755,8 @@
     },
     "settings": {
       "rpgLevelupNotif": true
-    }
+    },
+    "lastStreamer": 1789946342047
   },
   "6282271219129": {
     "jid": "6282271219129",
