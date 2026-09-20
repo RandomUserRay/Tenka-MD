@@ -111477,7 +111477,7 @@
     "energi": 99976,
     "isPremium": false,
     "isBanned": false,
-    "exp": 99394,
+    "exp": 99409,
     "level": 1,
     "koin": 295552,
     "saldo": 0,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:39:52.974Z",
+    "lastSeen": "2026-09-20T00:40:07.353Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111634,7 +111634,8 @@
       "mulung": 1789827717299,
       "beg": 1789828431757,
       "petshop": 1789864777741,
-      "breeding": 1789864793108
+      "breeding": 1789864793108,
+      "pet": 1789864807487
     },
     "clanId": null,
     "isRegistered": false,
