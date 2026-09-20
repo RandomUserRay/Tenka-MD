@@ -50614,7 +50614,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 598496,
+    "exp": 598541,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -50625,7 +50625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-07T12:08:37.553Z",
+    "lastSeen": "2026-09-20T14:55:35.009Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50663,7 +50663,7 @@
       "terima": 1783765536743,
       "tolak": 1783765536796,
       "waifu": 1783765925361,
-      "femboy": 1783765634569,
+      "femboy": 1789916137452,
       "fuckmylife": 1783765661384,
       "pakustad": 1783779975151,
       "pins": 1783765858375,
@@ -50809,7 +50809,9 @@
     },
     "lastStreamer": 1784205823631,
     "settings": {},
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 1
   },
   "6285891075776": {
     "jid": "6285891075776",
@@ -123799,20 +123801,21 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 4560,
+    "exp": 4575,
     "name": "riyy stur",
-    "lastSeen": "2026-09-19T14:38:07.303Z",
+    "lastSeen": "2026-09-20T14:55:28.575Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789547762270,
       "spek": 1789547886940,
       "janda": 1789547968009,
       "jokowi-ai": 1789548068627,
-      "s": 1789828691009
+      "s": 1789828691009,
+      "allmenu": 1789916128999
     },
     "energi": 99999,
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 3
   },
   "62895386188500": {
     "jid": "62895386188500",
