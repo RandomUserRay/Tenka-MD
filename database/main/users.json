@@ -111751,7 +111751,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10115,
+    "exp": 10130,
     "level": 1,
     "koin": 8000,
     "saldo": 0,
@@ -111761,7 +111761,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:53:59.942Z",
+    "lastSeen": "2026-09-20T00:56:01.279Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111771,7 +111771,8 @@
       "game": 1789812012104,
       "owner": 1789815131490,
       "cekabsen": 1789827158762,
-      "maling": 1789865644278
+      "maling": 1789865644278,
+      "bank": 1789865761485
     },
     "clanId": null,
     "isRegistered": false,
@@ -111785,7 +111786,8 @@
       "maxMana": 105,
       "maxStamina": 105,
       "mana": 105,
-      "stamina": 105
+      "stamina": 105,
+      "bank": 0
     },
     "inventory": {},
     "access": [],
