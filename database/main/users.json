@@ -11523,7 +11523,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33469,
+    "exp": 33364,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -34211,7 +34211,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284160,
+    "exp": 284175,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50403,7 +50403,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830150,
+    "exp": 830165,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -96174,7 +96174,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6180,
+    "exp": 6120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96184,7 +96184,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T12:22:21.019Z",
+    "lastSeen": "2026-09-20T11:15:58.027Z",
     "cooldowns": {
       "afk": 1789902989817,
       "play": 1789446463597,
@@ -96204,8 +96204,7 @@
       "bank": 1789119647649,
       "cekyandere": 1789201775838,
       "cekimut": 1789201609278,
-      "d": 1789906853810,
-      "mutegc": 1789906948972
+      "d": 1789794037187
     },
     "clanId": null,
     "isRegistered": false,
@@ -102116,7 +102115,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13914,
+    "exp": 13779,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111735,7 +111734,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46665,
+    "exp": 46725,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111780,7 +111779,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15516,
+    "exp": 15606,
     "level": 1,
     "koin": 55999,
     "saldo": 0,
@@ -111790,7 +111789,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T09:42:51.038Z",
+    "lastSeen": "2026-09-20T12:21:00.797Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1789897371145,
@@ -111812,7 +111811,8 @@
       "casino": 1789866317773,
       "absen": 1789888764453,
       "mulaiabsen": 1789888723551,
-      "cekonline": 1789889913617
+      "cekonline": 1789889913617,
+      "topchat": 1789906861264
     },
     "clanId": null,
     "isRegistered": false,
@@ -120287,7 +120287,7 @@
   "6287798550881": {
     "jid": "6287798550881",
     "rpg": {},
-    "exp": 1695,
+    "exp": 1665,
     "energi": 99999
   },
   "6285785063453": {
@@ -120512,16 +120512,16 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 555,
+    "exp": 525,
     "name": "-endy oey",
-    "lastSeen": "2026-09-20T12:21:52.392Z",
+    "lastSeen": "2026-09-20T11:47:20.473Z",
     "cooldowns": {
       "play": 1789128750730,
       "pin": 1789904879804,
       "tt": 1789878462531,
       "profile": 1789789572059
     },
-    "energi": 99996,
+    "energi": 99997,
     "lastActiveDate": "20/9/2026",
     "activeDays": 7
   },
@@ -121523,7 +121523,7 @@
     "lastSeen": "2026-09-18T15:03:01.707Z",
     "jid": "6281250138888",
     "rpg": {},
-    "exp": 885,
+    "exp": 870,
     "cooldowns": {
       "pin": 1789444869093,
       "play": 1789743790592,
