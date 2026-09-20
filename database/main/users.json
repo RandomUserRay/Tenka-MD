@@ -111477,7 +111477,7 @@
     "energi": 99962,
     "isPremium": false,
     "isBanned": false,
-    "exp": 103992,
+    "exp": 104007,
     "level": 1,
     "koin": 21291,
     "saldo": 0,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:58:36.344Z",
+    "lastSeen": "2026-09-20T00:59:27.518Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111636,7 +111636,8 @@
       "petshop": 1789864777741,
       "breeding": 1789864793108,
       "pet": 1789864865540,
-      "merchant": 1789865421594
+      "merchant": 1789865421594,
+      "cook": 1789865967650
     },
     "clanId": null,
     "isRegistered": false,
@@ -111751,7 +111752,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11097,
+    "exp": 11127,
     "level": 1,
     "koin": 15543,
     "saldo": 0,
@@ -111761,7 +111762,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T00:58:28.973Z",
+    "lastSeen": "2026-09-20T00:59:12.763Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111774,7 +111775,8 @@
       "maling": 1789865644278,
       "bank": 1789865761485,
       "kurir": 1789865861196,
-      "parkir": 1789865912250
+      "parkir": 1789865912250,
+      "cook": 1789865953000
     },
     "clanId": null,
     "isRegistered": false,
