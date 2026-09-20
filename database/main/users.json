@@ -111719,7 +111719,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45255,
+    "exp": 45270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111764,7 +111764,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13596,
+    "exp": 13626,
     "level": 1,
     "koin": 55999,
     "saldo": 0,
@@ -111774,7 +111774,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T07:18:27.067Z",
+    "lastSeen": "2026-09-20T07:18:43.517Z",
     "cooldowns": {
       "ytmp4": 1788879296218,
       "menucat": 1788879523004,
@@ -111794,7 +111794,8 @@
       "malas": 1789866191429,
       "dance": 1789866228357,
       "casino": 1789866317773,
-      "absen": 1789888691933
+      "absen": 1789888691933,
+      "mulaiabsen": 1789888723551
     },
     "clanId": null,
     "isRegistered": false,
