@@ -42895,7 +42895,10 @@
     "onlynsfw": true,
     "antispam": "on",
     "antiphising": "on",
-    "antitoxic": true
+    "antitoxic": true,
+    "toxicWarns": {
+      "6285828970573@s.whatsapp.net": 1
+    }
   },
   "120363413361477719@g.us": {
     "welcome": false,
