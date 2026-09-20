@@ -28896,8 +28896,8 @@
         "name": "~ ɐuǝ ɐןɯɐ"
       },
       "6285755379245@s.whatsapp.net": {
-        "count": 476,
-        "lastChat": 1789879692418,
+        "count": 477,
+        "lastChat": 1789879728361,
         "name": "Zay"
       },
       "6285147498740@s.whatsapp.net": {
@@ -29862,8 +29862,8 @@
     "antispam": "on",
     "antiphising": "on",
     "spamAction": "warn",
-    "spamLimitCount": 7,
-    "spamLimitTime": 60
+    "spamLimitCount": 5,
+    "spamLimitTime": 10
   },
   "120363430431974499@g.us": {
     "welcome": false,
