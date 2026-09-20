@@ -43081,7 +43081,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220187,
+    "exp": 220202,
     "level": 1,
     "koin": 8610,
     "unlockedFeatures": [],
@@ -101848,10 +101848,10 @@
     "jid": "6282177721525",
     "name": "ryan",
     "number": "6282177721525",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3900,
+    "exp": 3915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101861,14 +101861,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T02:39:58.549Z",
+    "lastSeen": "2026-09-20T02:41:33.288Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789858846687,
       "play": 1789861018432,
       "afk": 1789860526415,
       "lvl": 1789798783924,
-      "bratimg": 1789872002356
+      "bratimg": 1789872002356,
+      "wm": 1789872093943
     },
     "clanId": null,
     "isRegistered": false,
@@ -104568,7 +104569,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73008,
+    "exp": 73023,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -123460,7 +123461,7 @@
   "6281343117661": {
     "jid": "6281343117661",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "energi": 99999
   },
   "6285753668101": {
