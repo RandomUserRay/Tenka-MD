@@ -96194,7 +96194,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6345,
+    "exp": 6360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96204,7 +96204,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T13:03:28.408Z",
+    "lastSeen": "2026-09-20T20:35:08.856Z",
     "cooldowns": {
       "afk": 1789902989817,
       "play": 1789446463597,
@@ -96227,7 +96227,8 @@
       "d": 1789906853810,
       "mutegc": 1789906948972,
       "pin": 1789907876443,
-      "pat": 1789909412342
+      "pat": 1789909412342,
+      "unmute": 1789936512011
     },
     "clanId": null,
     "isRegistered": false,
@@ -96246,8 +96247,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 12
   },
   "6285814414356": {
     "jid": "6285814414356",
