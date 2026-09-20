@@ -95049,7 +95049,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121993,9 +121993,9 @@
       "stamina": 0,
       "bank": 0
     },
-    "exp": 28131,
+    "exp": 28146,
     "name": "Edin",
-    "lastSeen": "2026-09-19T00:49:57.142Z",
+    "lastSeen": "2026-09-20T11:11:31.711Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789779132533,
@@ -122010,11 +122010,12 @@
       "judi": 1789474244002,
       "slot": 1789567724274,
       "weekly": 1789478314615,
-      "freelance": 1789568391719
+      "freelance": 1789568391719,
+      "s": 1789902692639
     },
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 4,
-    "energi": 99999,
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 5,
+    "energi": 99998,
     "koin": 7254
   },
   "6285771985823": {
