@@ -113324,7 +113324,7 @@
     "energi": 99897,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43665,
+    "exp": 43680,
     "level": 1,
     "koin": 32859,
     "saldo": 0,
@@ -113334,7 +113334,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:25:27.188Z",
+    "lastSeen": "2026-09-20T01:25:59.465Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113367,7 +113367,7 @@
       "nyapu": 1789839775245,
       "parkir": 1789840799458,
       "expedition": 1789839755385,
-      "nambalban": 1789840806680
+      "nambalban": 1789867563014
     },
     "clanId": null,
     "isRegistered": false,
@@ -113375,8 +113375,8 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "health": 140,
-      "stamina": 45,
+      "health": 125,
+      "stamina": 31,
       "maxStamina": 120,
       "attack": 10,
       "maxHealth": 140,
