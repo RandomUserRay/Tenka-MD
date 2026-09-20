@@ -111477,9 +111477,9 @@
     "energi": 99948,
     "isPremium": false,
     "isBanned": false,
-    "exp": 110259,
+    "exp": 110585,
     "level": 1,
-    "koin": 3904,
+    "koin": 7021,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:31:23.466Z",
+    "lastSeen": "2026-09-20T01:32:05.049Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111639,7 +111639,8 @@
       "merchant": 1789865421594,
       "cook": 1789865967650,
       "malas": 1789866210686,
-      "ngamen": 1789867885825
+      "ngamen": 1789867885825,
+      "work": 1789867928350
     },
     "clanId": null,
     "isRegistered": false,
@@ -111653,7 +111654,7 @@
       "maxStamina": 155,
       "health": 210,
       "mana": 155,
-      "stamina": 155,
+      "stamina": 145,
       "attack": 10,
       "bank": 2018464,
       "garden": {
