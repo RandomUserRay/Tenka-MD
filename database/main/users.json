@@ -50614,7 +50614,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 598946,
+    "exp": 598961,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -50625,13 +50625,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:02:40.637Z",
+    "lastSeen": "2026-09-20T15:03:24.768Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
       "cekpacar": 1783765487860,
       "jancok": 1783764888395,
-      "tebakhewan": 1783766696799,
+      "tebakhewan": 1789916605013,
       "tebakgambar": 1783755455720,
       "allmenu": 1785492496217,
       "pro": 1789916265181,
@@ -123804,7 +123804,7 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 4890,
+    "exp": 4920,
     "name": "riyy stur",
     "lastSeen": "2026-09-20T15:02:36.130Z",
     "cooldowns": {
@@ -123821,7 +123821,7 @@
       "tanyaustad": 1789916496484,
       "lirik": 1789916559755
     },
-    "energi": 99995,
+    "energi": 99998,
     "lastActiveDate": "20/9/2026",
     "activeDays": 3
   },
@@ -124173,10 +124173,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 1785,
+    "exp": 1845,
     "energi": 99993,
     "name": "𝐜hntka",
-    "lastSeen": "2026-09-20T15:02:25.482Z",
+    "lastSeen": "2026-09-20T15:03:29.738Z",
     "cooldowns": {
       "s": 1789915853879,
       "anj": 1789916189343,
@@ -124188,7 +124188,8 @@
       "tembak": 1789916378543,
       "wibu": 1789916435891,
       "pakustad": 1789916519926,
-      "setan": 1789916545596
+      "setan": 1789916545596,
+      "puki": 1789916609794
     },
     "lastActiveDate": "20/9/2026",
     "activeDays": 1
