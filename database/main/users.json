@@ -50614,7 +50614,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 598826,
+    "exp": 598871,
     "level": 1,
     "koin": 91722,
     "unlockedFeatures": [
@@ -50625,7 +50625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T14:58:57.734Z",
+    "lastSeen": "2026-09-20T15:01:38.019Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50735,7 +50735,8 @@
       "menu": 1785492320404,
       "igstalk": 1785492364401,
       "stalkml": 1785492421912,
-      "truth": 1789916319042
+      "truth": 1789916498056,
+      "dare": 1789916483019
     },
     "clanId": null,
     "isRegistered": false,
@@ -111743,7 +111744,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48360,
+    "exp": 48375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113320,7 +113321,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11040,
+    "exp": 11070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123802,9 +123803,9 @@
   "6285743196164": {
     "jid": "6285743196164",
     "rpg": {},
-    "exp": 4845,
+    "exp": 4875,
     "name": "riyy stur",
-    "lastSeen": "2026-09-20T15:01:05.220Z",
+    "lastSeen": "2026-09-20T15:01:36.333Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789547762270,
@@ -123815,9 +123816,10 @@
       "allmenu": 1789916465973,
       "qwa": 1789916167536,
       "femboy": 1789916235449,
-      "absen": 1789916284293
+      "absen": 1789916284293,
+      "tanyaustad": 1789916496484
     },
-    "energi": 99997,
+    "energi": 99996,
     "lastActiveDate": "20/9/2026",
     "activeDays": 3
   },
@@ -124169,10 +124171,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 1650,
-    "energi": 99995,
+    "exp": 1695,
+    "energi": 99994,
     "name": "𝐜hntka",
-    "lastSeen": "2026-09-20T15:00:35.801Z",
+    "lastSeen": "2026-09-20T15:01:43.292Z",
     "cooldowns": {
       "s": 1789915853879,
       "anj": 1789916189343,
@@ -124182,7 +124184,8 @@
       "pro": 1789916332809,
       "gay": 1789916342289,
       "tembak": 1789916378543,
-      "wibu": 1789916435891
+      "wibu": 1789916435891,
+      "pakustad": 1789916503342
     },
     "lastActiveDate": "20/9/2026",
     "activeDays": 1
