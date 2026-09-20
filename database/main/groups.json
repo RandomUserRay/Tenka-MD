@@ -28956,8 +28956,8 @@
         "name": "⟭Zakki⟬"
       },
       "6282168671203@s.whatsapp.net": {
-        "count": 1600,
-        "lastChat": 1789877036302,
+        "count": 1601,
+        "lastChat": 1789877359963,
         "name": "..."
       },
       "6287735607482@s.whatsapp.net": {
@@ -29861,7 +29861,9 @@
     "intro": "𝐇𝐀𝐘 𝐘𝐎𝐔 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐅𝐔𝐑𝐑𝐘 𝐘𝐀𝐎𝐈 𝐅𝐄𝐌𝐁𝐎𝐘\n(𝐈𝐍𝐓𝐑𝐎 𝐂𝐀𝐑𝐃)\n\n━━━━━━━ •♬• ━━━━━━━\n𝐍𝐚𝐦𝐞:\n𝐀𝐠𝐞:\n𝐅𝐫𝐨𝐦:\n𝐅𝐞𝐭𝐢𝐬𝐡:\n𝐇𝐞𝐢𝐠𝐡𝐭:\n𝐇𝐨𝐛𝐛𝐲:\n𝐪𝐮𝐨𝐭𝐞𝐬:\n━━━━━━━ •♬• ━━━━━━━\n, 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐍𝐄𝐖 𝐌𝐄𝐌𝐁𝐄𝐑\n\n​𝒮𝑒𝓂𝑜𝑔𝒶 𝐵𝑒𝓉𝒶𝒽𝒽𝒽𝒽 👥",
     "antispam": "on",
     "antiphising": "on",
-    "spamAction": "warn"
+    "spamAction": "warn",
+    "spamLimitCount": 7,
+    "spamLimitTime": 60
   },
   "120363430431974499@g.us": {
     "welcome": false,
