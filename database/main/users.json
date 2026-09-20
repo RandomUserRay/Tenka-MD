@@ -111477,7 +111477,7 @@
     "energi": 99960,
     "isPremium": false,
     "isBanned": false,
-    "exp": 104217,
+    "exp": 104247,
     "level": 1,
     "koin": 44582,
     "saldo": 0,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:02:13.839Z",
+    "lastSeen": "2026-09-20T01:03:30.589Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111637,7 +111637,8 @@
       "breeding": 1789864793108,
       "pet": 1789864865540,
       "merchant": 1789865421594,
-      "cook": 1789865967650
+      "cook": 1789865967650,
+      "malas": 1789866210686
     },
     "clanId": null,
     "isRegistered": false,
@@ -111707,7 +111708,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44385,
+    "exp": 44430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
