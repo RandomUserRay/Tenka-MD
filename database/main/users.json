@@ -19678,7 +19678,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285320,
+    "exp": 285350,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -104565,7 +104565,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 72918,
+    "exp": 72948,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -111477,9 +111477,9 @@
     "energi": 99929,
     "isPremium": false,
     "isBanned": false,
-    "exp": 124560,
+    "exp": 124605,
     "level": 1,
-    "koin": 199788,
+    "koin": 9788,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111487,7 +111487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:46:00.236Z",
+    "lastSeen": "2026-09-20T01:47:16.776Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111600,7 +111600,7 @@
       "ngojek": 1789868739489,
       "leveluprpg": 1789819521422,
       "parkir": 1789868656563,
-      "bank": 1789868684473,
+      "bank": 1789868836954,
       "nyapu": 1789868750880,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111657,7 +111657,7 @@
       "mana": 160,
       "stamina": 109,
       "attack": 10,
-      "bank": 2018464,
+      "bank": 2208464,
       "garden": {
         "plots": [
           {
@@ -123487,7 +123487,7 @@
   "6283875466917": {
     "jid": "6283875466917",
     "rpg": {},
-    "exp": 615,
+    "exp": 630,
     "name": "M4n🕸️",
     "lastSeen": "2026-09-15T09:37:05.584Z",
     "cooldowns": {
