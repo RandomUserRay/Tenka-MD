@@ -111530,9 +111530,9 @@
     "energi": 99942,
     "isPremium": false,
     "isBanned": false,
-    "exp": 214826,
+    "exp": 216181,
     "level": 1,
-    "koin": 73786,
+    "koin": 100299,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111540,7 +111540,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T03:31:23.980Z",
+    "lastSeen": "2026-09-21T03:31:51.610Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111652,7 +111652,7 @@
       "slot": 1789948283433,
       "ngojek": 1789961470790,
       "leveluprpg": 1789819521422,
-      "parkir": 1789956011495,
+      "parkir": 1789961515119,
       "bank": 1789956100665,
       "nyapu": 1789956040371,
       "nulis": 1789819949926,
@@ -111670,7 +111670,7 @@
       "inv": 1789825617498,
       "jualan": 1789961479820,
       "freelance": 1789825681311,
-      "nambalban": 1789956071653,
+      "nambalban": 1789961504510,
       "heal": 1789947907758,
       "buykoin": 1789825790498,
       "jual": 1789826180620,
@@ -111680,7 +111680,7 @@
       "gift": 1789826512701,
       "hunt": 1789826647123,
       "arena": 1789826756853,
-      "streamer": 1789956087862,
+      "streamer": 1789961487983,
       "berladang": 1789826908294,
       "unmutegc": 1789828226264,
       "notifpromote": 1789827135373,
@@ -111709,9 +111709,9 @@
       "maxHealth": 310,
       "maxMana": 205,
       "maxStamina": 205,
-      "health": 310,
+      "health": 295,
       "mana": 205,
-      "stamina": 128,
+      "stamina": 102,
       "attack": 10,
       "bank": 0,
       "garden": {
@@ -111760,7 +111760,7 @@
     "settings": {
       "rpgLevelupNotif": true
     },
-    "lastStreamer": 1789946342047
+    "lastStreamer": 1789961787737
   },
   "6282271219129": {
     "jid": "6282271219129",
