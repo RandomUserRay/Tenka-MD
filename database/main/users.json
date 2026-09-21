@@ -804,7 +804,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65928,
+    "exp": 65898,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3044,7 +3044,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703316,
+    "exp": 703286,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -11527,7 +11527,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33619,
+    "exp": 33604,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -90373,7 +90373,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36240,
+    "exp": 36225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96209,7 +96209,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6810,
+    "exp": 6795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99152,7 +99152,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3645,
+    "exp": 3630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102162,7 +102162,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14694,
+    "exp": 14679,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114125,7 +114125,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2040,
+    "exp": 2055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124872,15 +124872,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
@@ -124910,5 +124910,10 @@
     "jid": "6285800896837",
     "rpg": {},
     "exp": 30
+  },
+  "62882017051591": {
+    "jid": "62882017051591",
+    "rpg": {},
+    "exp": 15
   }
 }
