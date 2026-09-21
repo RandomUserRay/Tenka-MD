@@ -543,7 +543,9 @@
       ],
       "menu": "",
       "enabled": true,
-      "lastSent": {},
+      "lastSent": {
+        "12:00_2026-09-21": true
+      },
       "createdAt": 1789916915608
     }
   },
