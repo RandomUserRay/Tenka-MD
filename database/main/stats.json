@@ -1,6 +1,6 @@
 {
   "commandErrors": 633,
-  "commandsExecuted": 124983,
+  "commandsExecuted": 124985,
   "command_totalchat": 25,
   "command_menu": 2017,
   "command_fb": 5,
@@ -478,7 +478,7 @@
   "command_tf": 157,
   "command_qrcode": 1,
   "command_truth": 380,
-  "command_dare": 379,
+  "command_dare": 380,
   "command_love": 197,
   "command_asahotak": 257,
   "command_babi": 20,
@@ -1393,5 +1393,6 @@
   "command_rlesbianvid": 1,
   "command_mute": 1,
   "command_unreg": 1,
-  "command_ownerutama": 29
+  "command_ownerutama": 29,
+  "command_imgtoprompt": 1
 }
