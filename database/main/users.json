@@ -35283,7 +35283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008127,
+    "exp": 1008157,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50413,7 +50413,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830615,
+    "exp": 830630,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50422,7 +50422,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:40:03.386Z",
+    "lastSeen": "2026-09-21T14:43:48.770Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50531,7 +50531,8 @@
       "cekvillain": 1784459731780,
       "cekwibu": 1784459849850,
       "dare": 1790001506336,
-      "gombal": 1790001603488
+      "gombal": 1790001603488,
+      "truth": 1790001829218
     },
     "clanId": null,
     "isRegistered": false,
@@ -123880,7 +123881,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12261,
+    "exp": 12276,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T14:07:39.081Z",
     "cooldowns": {
@@ -124938,6 +124939,6 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 1020
+    "exp": 1035
   }
 }
