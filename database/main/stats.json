@@ -1,6 +1,6 @@
 {
   "commandErrors": 633,
-  "commandsExecuted": 124686,
+  "commandsExecuted": 124685,
   "command_totalchat": 25,
   "command_menu": 2014,
   "command_fb": 5,
@@ -51,7 +51,7 @@
   "command_setpp": 4,
   "command_stats": 56,
   "command_tqto": 5,
-  "command_s": 4806,
+  "command_s": 4805,
   "command_test5": 9,
   "command_swgc": 153,
   "command_crm": 45,
@@ -162,7 +162,7 @@
   "command_liststikerreply": 2,
   "command_delstikerreply": 3,
   "command_delowner": 17,
-  "command_bratimg": 1977,
+  "command_bratimg": 1978,
   "command_rvo": 170,
   "command_listowner": 5,
   "command_listprem": 31,
@@ -349,7 +349,7 @@
   "command_resetwarn": 14,
   "command_ceksexy": 11,
   "command_adminonly": 29,
-  "command_smeme": 879,
+  "command_smeme": 878,
   "command_benefitpremium": 107,
   "command_buy": 17,
   "command_hentai": 71,
@@ -1392,6 +1392,5 @@
   "command_dance": 1,
   "command_rlesbianvid": 1,
   "command_mute": 1,
-  "command_unreg": 1,
-  "command_ownerutama": 1
+  "command_unreg": 1
 }
