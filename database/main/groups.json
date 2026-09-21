@@ -41167,8 +41167,8 @@
         "name": "sarah imuppp"
       },
       "120363211173061664@g.us": {
-        "count": 82,
-        "lastChat": 1789975147554,
+        "count": 81,
+        "lastChat": 1789958654567,
         "name": "Unknown"
       },
       "6285810454575@s.whatsapp.net": {
@@ -43603,11 +43603,18 @@
     "jid": "120363425996701907@g.us",
     "chatStats": {
       "6283121900324@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1789975097609,
+        "count": 3,
+        "lastChat": 1789975127162,
         "name": "el yapping"
+      },
+      "6282384159483@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789975155653,
+        "name": "śťāř"
       }
     },
-    "name": "VIONIC | OFC"
+    "name": "VIONIC | OFC",
+    "antispam": "on",
+    "antisticker": true
   }
 }
