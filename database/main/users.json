@@ -112013,7 +112013,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16149,
+    "exp": 16164,
     "level": 1,
     "koin": 400428,
     "saldo": 0,
@@ -112023,7 +112023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T03:38:00.584Z",
+    "lastSeen": "2026-09-21T03:38:14.046Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -112038,7 +112038,8 @@
       "nyapu": 1789961755771,
       "kurir": 1789961787838,
       "heal": 1789955006142,
-      "nambalban": 1789961647136
+      "nambalban": 1789961647136,
+      "transfer": 1789961894208
     },
     "clanId": null,
     "isRegistered": false,
