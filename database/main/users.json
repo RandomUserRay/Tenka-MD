@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T15:07:33.637Z",
+    "lastSeen": "2026-09-21T15:07:50.787Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000091575,
+    "exp": 9000091650,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -124413,7 +124413,15 @@
   },
   "6285213335379": {
     "jid": "6285213335379",
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "exp": 690,
     "name": "Lucky🍀",
     "lastSeen": "2026-09-21T15:06:55.398Z",
@@ -124422,7 +124430,8 @@
       "s": 1789862868363,
       "afk": 1789964613111,
       "play": 1789981620518,
-      "level": 1790003215490
+      "level": 1790003215490,
+      "me": 1790003270501
     },
     "lastActiveDate": "21/9/2026",
     "activeDays": 2
