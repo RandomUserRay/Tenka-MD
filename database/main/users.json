@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T12:59:59.222Z",
+    "lastSeen": "2026-09-21T13:01:47.594Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000087000,
+    "exp": 9000087300,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -3458,7 +3458,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 425777,
+    "exp": 425807,
     "level": 1,
     "koin": 15300,
     "unlockedFeatures": [],
@@ -90373,7 +90373,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36120,
+    "exp": 36165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102162,7 +102162,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14649,
+    "exp": 14664,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105761,7 +105761,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3705,
+    "exp": 3675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105771,7 +105771,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T13:01:44.207Z",
+    "lastSeen": "2026-09-21T08:03:11.922Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105790,7 +105790,7 @@
       "addcmdsticker": 1789566487339,
       "bratimg": 1789976361804,
       "del": 1789977791956,
-      "close": 1789995704694,
+      "close": 1789567905443,
       "open": 1789567912932,
       "ytmp4": 1789977413569
     },
@@ -124833,14 +124833,12 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 300,
+    "exp": 270,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T13:02:38.568Z",
+    "lastSeen": "2026-09-21T13:01:27.809Z",
     "cooldowns": {
       "play": 1789977160710,
-      "del": 1789995688023,
-      "menu": 1789995738694,
-      "close": 1789995758651
+      "del": 1789995688023
     },
     "energi": 23,
     "lastActiveDate": "21/9/2026",
@@ -124872,15 +124870,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   },
   "6283115666152": {
     "jid": "6283115666152",
