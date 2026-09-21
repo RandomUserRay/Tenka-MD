@@ -16003,7 +16003,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9375282,
+    "exp": 9389627,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16044,7 +16044,7 @@
       "bank": 1789568311682,
       "rob": 1783059462716,
       "slot": 1789476459691,
-      "work": 1786939097439,
+      "work": 1789999434571,
       "mine": 1782955327476,
       "sell": 1782892807646,
       "rest": 1783600497273,
@@ -16246,13 +16246,13 @@
     "regGender": null,
     "rpg": {
       "bank": 0,
-      "health": 9470,
-      "stamina": 4785,
-      "level": 938,
-      "maxHealth": 9470,
-      "maxMana": 4785,
-      "maxStamina": 4785,
-      "mana": 4785,
+      "health": 9480,
+      "stamina": 4790,
+      "level": 939,
+      "maxHealth": 9480,
+      "maxMana": 4790,
+      "maxStamina": 4790,
+      "mana": 4790,
       "lastHourly": 1782907735259,
       "spouse": null,
       "marriedAt": null
@@ -124875,15 +124875,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
