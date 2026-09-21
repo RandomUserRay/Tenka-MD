@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T15:17:25.804Z",
+    "lastSeen": "2026-09-21T15:16:30.554Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000093000,
+    "exp": 9000092850,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3225,7 +3225,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48943,
+    "exp": 48913,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3234,7 +3234,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T15:17:09.957Z",
+    "lastSeen": "2026-09-21T15:16:13.763Z",
     "cooldowns": {
       "femboy": 1788017940528,
       "ww": 1782476184932,
@@ -3249,7 +3249,7 @@
       "topkoin": 1782792889547,
       "topenergi": 1782792900197,
       "ytmp4": 1786771484875,
-      "ut": 1790003831754
+      "ut": 1790003775898
     },
     "clanId": null,
     "isRegistered": false,
@@ -9736,13 +9736,13 @@
   },
   "6281310184404": {
     "name": "Hans",
-    "lastSeen": "2026-09-21T15:17:34.278Z",
+    "lastSeen": "2026-09-21T15:16:08.352Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48570,
+    "exp": 48495,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9769,7 +9769,7 @@
       "steal": 1787748311411,
       "s": 1787835436512,
       "topixel": 1787840678402,
-      "ut": 1790003827358
+      "ut": 1790003770682
     },
     "clanId": null,
     "isRegistered": false,
@@ -50631,7 +50631,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605252,
+    "exp": 605282,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -57258,7 +57258,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113020,
+    "exp": 113080,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -67002,7 +67002,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170390,
+    "exp": 170360,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67017,7 +67017,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T15:17:15.276Z",
+    "lastSeen": "2026-09-21T15:16:16.981Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1789987752480,
@@ -67099,7 +67099,7 @@
       "close": 1789478007974,
       "smemevid": 1789745755013,
       "intro": 1789781361840,
-      "ut": 1790003836889
+      "ut": 1790003779245
     },
     "clanId": null,
     "isRegistered": false,
@@ -120385,12 +120385,12 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢🍋",
-    "lastSeen": "2026-09-21T15:16:37.829Z",
+    "lastSeen": "2026-09-21T15:16:06.887Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 100
     },
-    "exp": 4523,
+    "exp": 4508,
     "cooldowns": {
       "s": 1789989654633,
       "smeme": 1789902978833,
@@ -124279,7 +124279,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 3120,
+    "exp": 3150,
     "energi": 99997,
     "name": "𝐜hntka",
     "lastSeen": "2026-09-21T08:25:30.463Z",
@@ -124897,15 +124897,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 150
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
