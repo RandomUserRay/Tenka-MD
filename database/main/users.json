@@ -6017,7 +6017,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31340,
+    "exp": 31370,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -102166,13 +102166,13 @@
   },
   "628981194866": {
     "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-21T14:45:22.633Z",
+    "lastSeen": "2026-09-21T15:38:21.559Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14844,
+    "exp": 14974,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102209,7 +102209,7 @@
       "streamer": 1789472872641,
       "nambalban": 1789472863152,
       "ngamen": 1789472954075,
-      "training": 1789473130842,
+      "training": 1790005104168,
       "pin": 1788767373047,
       "istirahat": 1789472895928,
       "tebaknegara": 1788782133940,
@@ -102247,7 +102247,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 68,
+      "stamina": 46,
       "bank": 3074859,
       "health": 110,
       "maxHealth": 110,
@@ -102255,7 +102255,7 @@
       "level": 2,
       "maxMana": 105,
       "maxStamina": 105,
-      "luck": 19,
+      "luck": 20,
       "spouse": "6285240302212@s.whatsapp.net",
       "marriedAt": 1788533040955
     },
@@ -124964,6 +124964,6 @@
   "6285650881944": {
     "jid": "6285650881944",
     "rpg": {},
-    "exp": 210
+    "exp": 195
   }
 }
