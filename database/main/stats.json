@@ -1,10 +1,10 @@
 {
   "commandErrors": 633,
-  "commandsExecuted": 124690,
+  "commandsExecuted": 124688,
   "command_totalchat": 25,
   "command_menu": 2014,
   "command_fb": 5,
-  "command_brat": 1322,
+  "command_brat": 1321,
   "command_antidocument": 2,
   "command_antimedia": 11,
   "command_play": 4790,
@@ -162,7 +162,7 @@
   "command_liststikerreply": 2,
   "command_delstikerreply": 3,
   "command_delowner": 17,
-  "command_bratimg": 1981,
+  "command_bratimg": 1979,
   "command_rvo": 170,
   "command_listowner": 5,
   "command_listprem": 31,
@@ -189,7 +189,7 @@
   "command_addplugin": 81,
   "command_autoreply": 86,
   "command_addcmdsticker": 3,
-  "command_ganticode": 428,
+  "command_ganticode": 429,
   "command_p2": 7,
   "command_delstickercmd": 2,
   "command_ganti-ourin-v9.jpg": 1,
@@ -308,7 +308,7 @@
   "command_info": 5,
   "command_profile": 687,
   "command_afk": 4082,
-  "command_iqc": 240,
+  "command_iqc": 239,
   "command_femboy": 2348,
   "command_anj": 45,
   "command_gay": 702,
@@ -1392,5 +1392,6 @@
   "command_dance": 1,
   "command_rlesbianvid": 1,
   "command_mute": 1,
-  "command_unreg": 1
+  "command_unreg": 1,
+  "command_ownerutama": 2
 }
