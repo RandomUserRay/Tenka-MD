@@ -111530,9 +111530,9 @@
     "energi": 99926,
     "isPremium": false,
     "isBanned": false,
-    "exp": 223562,
+    "exp": 223577,
     "level": 1,
-    "koin": 319740,
+    "koin": 119740,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111540,7 +111540,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T03:44:18.282Z",
+    "lastSeen": "2026-09-21T03:44:33.952Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111653,7 +111653,7 @@
       "ngojek": 1789961964853,
       "leveluprpg": 1789819521422,
       "parkir": 1789962002325,
-      "bank": 1789962010903,
+      "bank": 1789962275413,
       "nyapu": 1789961988046,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111713,7 +111713,7 @@
       "mana": 210,
       "stamina": 174,
       "attack": 10,
-      "bank": 0,
+      "bank": 200000,
       "garden": {
         "plots": [
           {
