@@ -35281,7 +35281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1007407,
+    "exp": 1007452,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604532,
+    "exp": 604547,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -105116,7 +105116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50610,
+    "exp": 50640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105126,7 +105126,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:07:46.792Z",
+    "lastSeen": "2026-09-21T11:33:05.496Z",
     "cooldowns": {
       "menu": 1789525763568,
       "owner": 1788775980116,
@@ -105171,7 +105171,7 @@
       "setintro": 1788690291991,
       "setwelcome": 1788714658217,
       "notifmakan": 1789483541525,
-      "tagall": 1789484908974,
+      "tagall": 1789990385544,
       "bass": 1788694545758,
       "blown": 1788694698473,
       "unadmin": 1788766659211,
@@ -120369,10 +120369,10 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟🍋",
-    "lastSeen": "2026-09-21T11:33:18.754Z",
+    "lastSeen": "2026-09-21T11:24:08.135Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1800,
+    "exp": 1755,
     "cooldowns": {
       "s": 1789989654633,
       "smeme": 1789902978833,
@@ -120381,8 +120381,7 @@
       "d": 1789728398252,
       "brat": 1789746131510,
       "qc": 1789746169600,
-      "love": 1789989848164,
-      "marry": 1789990373479
+      "love": 1789989848164
     },
     "energi": 99990,
     "lastActiveDate": "21/9/2026",
@@ -124852,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   }
 }
