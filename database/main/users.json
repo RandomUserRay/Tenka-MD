@@ -16536,7 +16536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233449,
+    "exp": 233479,
     "level": 1,
     "koin": 101333377,
     "unlockedFeatures": [
@@ -16547,7 +16547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T04:23:11.611Z",
+    "lastSeen": "2026-09-21T04:23:44.060Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16571,7 +16571,7 @@
       "cool": 1785588387099,
       "baik": 1783504045862,
       "handsome": 1783144883285,
-      "transfer": 1789964591641,
+      "transfer": 1789964624606,
       "profile": 1786200647378,
       "benefitpremium": 1783150381272,
       "menu": 1785587404417,
@@ -90224,7 +90224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17430,
+    "exp": 17445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124381,15 +124381,16 @@
   "6285213335379": {
     "jid": "6285213335379",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "name": "Why'Zeyn💫",
-    "lastSeen": "2026-09-20T00:07:45.847Z",
+    "lastSeen": "2026-09-21T04:23:32.297Z",
     "energi": 99999,
     "cooldowns": {
-      "s": 1789862868363
+      "s": 1789862868363,
+      "afk": 1789964613111
     },
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 2
   },
   "6285814571034": {
     "jid": "6285814571034",
