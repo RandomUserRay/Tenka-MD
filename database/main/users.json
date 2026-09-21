@@ -19686,10 +19686,10 @@
     "jid": "6283172976375",
     "name": "iky p",
     "number": "6283172976375",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285950,
+    "exp": 285965,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19698,7 +19698,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T05:07:24.856Z",
+    "lastSeen": "2026-09-21T16:03:08.143Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1789640572320,
@@ -19731,7 +19731,7 @@
       "fakeff": 1783760786647,
       "fakeml": 1783760845856,
       "fakeffduo": 1783760904664,
-      "hd": 1786926618197,
+      "hd": 1790006588979,
       "remini": 1783761048269,
       "transfer": 1784462487819,
       "smeme": 1783775313547,
@@ -19828,8 +19828,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 11
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -124949,7 +124949,7 @@
   "6281361832902": {
     "jid": "6281361832902",
     "rpg": {},
-    "exp": 90
+    "exp": 75
   },
   "6285705153936": {
     "jid": "6285705153936",
