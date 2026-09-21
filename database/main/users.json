@@ -3225,7 +3225,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48733,
+    "exp": 48748,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -5325,10 +5325,10 @@
     "jid": "6285810267907",
     "name": "rezz",
     "number": "6285810267907",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33901,
+    "exp": 33886,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -5337,7 +5337,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:56:34.303Z",
+    "lastSeen": "2026-09-18T06:49:05.874Z",
     "cooldowns": {
       "brat": 1789557085495,
       "bratimg": 1789023056494,
@@ -5366,7 +5366,7 @@
       "jadibot": 1784047504533,
       "hd": 1784891545544,
       "menu": 1785404080129,
-      "iqc": 1790002597283,
+      "iqc": 1789629418226,
       "qc": 1786087622664,
       "smeme": 1786352489322,
       "puisi": 1786183028318,
@@ -5400,8 +5400,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 11
   },
   "6285849861927": {
     "jid": "6285849861927",
@@ -9741,7 +9741,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48165,
+    "exp": 48210,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9758,7 +9758,7 @@
       "cekganteng": 1780325074028,
       "apakah": 1780325270869,
       "profile": 1787747919678,
-      "me": 1782620225895,
+      "me": 1790002521602,
       "bank": 1787747988566,
       "transfer": 1780832202586,
       "marry": 1780903350882,
@@ -9783,12 +9783,14 @@
       "stamina": 105,
       "maxStamina": 120,
       "bank": 3060303963,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1790002539475
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   },
   "6285779062752": {
     "jid": "6285779062752",
@@ -35283,7 +35285,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008307,
+    "exp": 1008292,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -66998,9 +67000,9 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170090,
+    "exp": 170150,
     "level": 1,
-    "koin": 0,
+    "koin": 1351637524,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -67013,7 +67015,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:53:43.761Z",
+    "lastSeen": "2026-09-21T14:55:58.265Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1789987752480,
@@ -67026,7 +67028,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789989139966,
+      "bank": 1790002518458,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67046,7 +67048,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789989129727,
+      "marry": 1790002539655,
       "transfer": 1789633390126,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -67109,10 +67111,10 @@
       "maxMana": 185,
       "stamina": 185,
       "maxStamina": 185,
-      "bank": 1351687524,
+      "bank": 0,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6281310184404@s.whatsapp.net",
+      "marriedAt": 1790002539475,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -123881,9 +123883,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 13251,
+    "exp": 13086,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T14:56:17.729Z",
+    "lastSeen": "2026-09-21T14:52:05.783Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123909,9 +123911,9 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1790002577845,
+      "dare": 1790002303734,
       "truth": 1790002122712,
-      "gombal": 1790002574900
+      "gombal": 1790002325918
     },
     "energi": 99999,
     "lastActiveDate": "21/9/2026",
@@ -124878,15 +124880,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 150
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 150
   },
   "6283115666152": {
     "jid": "6283115666152",
