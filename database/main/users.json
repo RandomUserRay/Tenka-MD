@@ -35283,7 +35283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008037,
+    "exp": 1008082,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50413,7 +50413,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830585,
+    "exp": 830600,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50626,7 +50626,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605027,
+    "exp": 605072,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -50637,7 +50637,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:40:13.795Z",
+    "lastSeen": "2026-09-21T14:41:00.634Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50747,7 +50747,7 @@
       "menu": 1785492320404,
       "igstalk": 1785492364401,
       "stalkml": 1785492421912,
-      "truth": 1789922573624,
+      "truth": 1790001660747,
       "dare": 1789963910125,
       "cekfemboy": 1789916753404,
       "mengapa": 1789916870686,
@@ -102160,13 +102160,13 @@
   },
   "628981194866": {
     "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-21T13:40:20.136Z",
+    "lastSeen": "2026-09-21T14:40:50.604Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14814,
+    "exp": 14829,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102177,7 +102177,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789998022289,
+      "afk": 1790001651974,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -124938,6 +124938,6 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 885
+    "exp": 945
   }
 }
