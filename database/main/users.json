@@ -66993,7 +66993,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169850,
+    "exp": 169835,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67008,9 +67008,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T07:58:27.631Z",
+    "lastSeen": "2026-09-21T05:38:18.868Z",
     "cooldowns": {
-      "afk": 1789977509378,
+      "afk": 1789754492766,
       "s": 1789968147343,
       "play": 1789968639006,
       "inv": 1786434391177,
@@ -102556,7 +102556,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 312380,
+    "exp": 312305,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -124812,13 +124812,13 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T07:50:53.845Z",
+    "lastSeen": "2026-09-21T07:58:36.240Z",
     "cooldowns": {
       "play": 1789977160710
     },
-    "energi": 23,
+    "energi": 22,
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
