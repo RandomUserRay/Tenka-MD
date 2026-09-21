@@ -124811,10 +124811,14 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T07:50:53.845Z",
-    "cooldowns": {},
-    "energi": 23
+    "lastSeen": "2026-09-21T07:51:31.304Z",
+    "cooldowns": {
+      "play": 1789977095182
+    },
+    "energi": 22,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   }
 }
