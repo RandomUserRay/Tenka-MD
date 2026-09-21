@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T14:04:51.903Z",
+    "lastSeen": "2026-09-21T13:57:40.201Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000090450,
+    "exp": 9000090225,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -16000,10 +16000,10 @@
     "jid": "6285753061976",
     "name": "ody",
     "number": "6285753061976",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9389627,
+    "exp": 9389777,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16012,7 +16012,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T10:37:34.283Z",
+    "lastSeen": "2026-09-21T14:06:15.363Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -50413,7 +50413,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830345,
+    "exp": 830375,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -66996,7 +66996,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170090,
+    "exp": 170075,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105764,7 +105764,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3810,
+    "exp": 3825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113375,7 +113375,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11280,
+    "exp": 11295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123879,9 +123879,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11631,
+    "exp": 11901,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T10:57:53.544Z",
+    "lastSeen": "2026-09-21T14:06:24.301Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123907,7 +123907,7 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1789922348403,
+      "dare": 1789999584545,
       "truth": 1789921710641
     },
     "energi": 99999,
@@ -124875,15 +124875,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
