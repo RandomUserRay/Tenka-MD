@@ -35283,7 +35283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008172,
+    "exp": 1008202,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50413,7 +50413,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830630,
+    "exp": 830645,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50422,7 +50422,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:43:48.770Z",
+    "lastSeen": "2026-09-21T14:45:14.055Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50532,7 +50532,7 @@
       "cekwibu": 1784459849850,
       "dare": 1790001506336,
       "gombal": 1790001603488,
-      "truth": 1790001829218
+      "truth": 1790001914161
     },
     "clanId": null,
     "isRegistered": false,
@@ -50627,7 +50627,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605117,
+    "exp": 605147,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -102161,13 +102161,13 @@
   },
   "628981194866": {
     "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-21T14:40:50.604Z",
+    "lastSeen": "2026-09-21T14:45:22.633Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14829,
+    "exp": 14844,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102178,7 +102178,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1790001651974,
+      "afk": 1790001923585,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -123881,9 +123881,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12291,
+    "exp": 12366,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T14:44:24.078Z",
+    "lastSeen": "2026-09-21T14:45:01.049Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123909,7 +123909,7 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1790001864193,
+      "dare": 1790001901182,
       "truth": 1789921710641
     },
     "energi": 99999,
@@ -124929,7 +124929,7 @@
   "6281361832902": {
     "jid": "6281361832902",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "6285705153936": {
     "jid": "6285705153936",
@@ -124939,6 +124939,6 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 1050
+    "exp": 1110
   }
 }
