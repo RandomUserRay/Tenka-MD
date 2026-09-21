@@ -804,7 +804,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65883,
+    "exp": 65898,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3044,7 +3044,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703121,
+    "exp": 703136,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -11527,7 +11527,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33589,
+    "exp": 33604,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -26270,10 +26270,10 @@
     "jid": "6285735855849",
     "name": "Patrick jane🗿☕",
     "number": "6285735855849",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 80836,
+    "exp": 80881,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -26282,7 +26282,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T09:45:27.004Z",
+    "lastSeen": "2026-09-21T12:47:20.241Z",
     "cooldowns": {
       "menu": 1789214248236,
       "allmenu": 1788956252855,
@@ -26327,7 +26327,7 @@
       "mutegc": 1788956295858,
       "tts": 1788245218329,
       "unmutegc": 1788956315248,
-      "ttmp4": 1789215912834,
+      "ttmp4": 1789994847921,
       "daily": 1785562283337,
       "maling": 1785562480720,
       "menucat": 1788867635404,
@@ -26389,8 +26389,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 18,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 19,
     "fun": {
       "tembakTarget": "6285641569049@s.whatsapp.net",
       "tembakCount": 1
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14721,
+    "exp": 14751,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -116129,7 +116129,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120121,7 +120121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2865,
+    "exp": 2835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123754,7 +123754,7 @@
     "lastSeen": "2026-09-15T14:30:05.089Z",
     "jid": "6288221695707",
     "rpg": {},
-    "exp": 45,
+    "exp": 30,
     "energi": 99999
   },
   "6287761675563": {
@@ -124833,12 +124833,11 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 255,
+    "exp": 240,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T12:47:01.248Z",
+    "lastSeen": "2026-09-21T07:50:53.845Z",
     "cooldowns": {
-      "play": 1789977160710,
-      "del": 1789994821545
+      "play": 1789977160710
     },
     "energi": 23,
     "lastActiveDate": "21/9/2026",
@@ -124870,15 +124869,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   },
   "6283115666152": {
     "jid": "6283115666152",
@@ -124896,11 +124895,6 @@
   },
   "6285719081517": {
     "jid": "6285719081517",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285191585183": {
-    "jid": "6285191585183",
     "rpg": {},
     "exp": 15
   }
