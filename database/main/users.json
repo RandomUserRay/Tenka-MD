@@ -90221,13 +90221,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-21T11:24:02.247Z",
+    "lastSeen": "2026-09-21T12:06:08.150Z",
     "jid": "6282168671203",
     "number": "6282168671203",
-    "energi": 999998,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17805,
+    "exp": 17820,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90276,7 +90276,8 @@
       "owner": 1789870830744,
       "antispam": 1789877437767,
       "antiphising": 1789876881008,
-      "kick": 1789968664796
+      "kick": 1789968664796,
+      "tovid": 1789992370554
     },
     "clanId": null,
     "isRegistered": false,
