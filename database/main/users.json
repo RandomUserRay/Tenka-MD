@@ -35281,7 +35281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1007032,
+    "exp": 1007002,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -35290,7 +35290,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T04:09:59.049Z",
+    "lastSeen": "2026-09-20T16:48:53.466Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35468,8 +35468,8 @@
       "cektsundere": 1789287591647,
       "qc": 1789547735330,
       "spek": 1789547873884,
-      "truth": 1789963799163,
-      "dare": 1789963766695,
+      "truth": 1789921817677,
+      "dare": 1789922933552,
       "gombal": 1789922668869
     },
     "clanId": null,
@@ -35537,8 +35537,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 11
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -50411,7 +50411,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830195,
+    "exp": 830180,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -57245,7 +57245,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113020,
+    "exp": 113005,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -57254,7 +57254,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T04:09:51.213Z",
+    "lastSeen": "2026-07-18T00:30:09.165Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -57301,8 +57301,7 @@
       "kurir": 1784165812397,
       "stamina": 1784099655027,
       "slot": 1784258636627,
-      "training": 1784334696189,
-      "dare": 1789963791342
+      "training": 1784334696189
     },
     "clanId": null,
     "isRegistered": false,
@@ -57333,9 +57332,7 @@
       "daging_rusa": 1
     },
     "access": [],
-    "lastStreamer": 1784166392345,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 1
+    "lastStreamer": 1784166392345
   },
   "6281260046909": {
     "jid": "6281260046909",
@@ -90223,7 +90220,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17370,
+    "exp": 17385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
