@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "id.replace is not a function",
+      "at": 1789994321115
+    },
+    {
+      "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789948234202
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789222468262
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789222468188
     }
   ],
   "jpmBlacklist": [],
