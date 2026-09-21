@@ -3453,12 +3453,12 @@
   },
   "6282135848247": {
     "jid": "6282135848247",
-    "name": "ジ STL∆¥ヤン ジ",
+    "name": "Kelvinny?",
     "number": "6282135848247",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 425792,
+    "exp": 425807,
     "level": 1,
     "koin": 15300,
     "unlockedFeatures": [],
@@ -3467,7 +3467,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-29T11:18:58.722Z",
+    "lastSeen": "2026-09-21T13:18:57.373Z",
     "cooldowns": {
       "femboy": 1783150312327,
       "profile": 1783153514980,
@@ -3504,7 +3504,7 @@
       "deposit": 1782910240452,
       "heal": 1781600051647,
       "shop": 1781575673255,
-      "love": 1782353409136,
+      "love": 1789996738355,
       "steal": 1781702377297,
       "topexp": 1782792908312,
       "topenergi": 1781702355640,
@@ -3557,7 +3557,9 @@
       "gold": 1
     },
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   },
   "6281227410972": {
     "jid": "6281227410972",
@@ -54231,7 +54233,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14826,
+    "exp": 14841,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
