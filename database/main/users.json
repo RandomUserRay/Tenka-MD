@@ -40329,7 +40329,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63165,
+    "exp": 63180,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -124811,14 +124811,10 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 165,
+    "exp": 150,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T07:51:31.304Z",
-    "cooldowns": {
-      "play": 1789977095182
-    },
-    "energi": 22,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 1
+    "lastSeen": "2026-09-21T07:50:53.845Z",
+    "cooldowns": {},
+    "energi": 23
   }
 }
