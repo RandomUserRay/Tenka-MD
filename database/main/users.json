@@ -90227,7 +90227,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17940,
+    "exp": 17925,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99152,7 +99152,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3240,
+    "exp": 3225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105119,10 +105119,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanyzty",
     "number": "6285717515172",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50610,
+    "exp": 50625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105132,7 +105132,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:07:46.792Z",
+    "lastSeen": "2026-09-21T12:11:04.256Z",
     "cooldowns": {
       "menu": 1789525763568,
       "owner": 1788775980116,
@@ -105156,7 +105156,7 @@
       "sticker": 1788678158238,
       "antispam": 1789223474167,
       "admin": 1788766651427,
-      "play": 1789534462030,
+      "play": 1789992673601,
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
@@ -124860,15 +124860,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
