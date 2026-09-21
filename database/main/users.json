@@ -124814,8 +124814,12 @@
     "exp": 150,
     "name": "śťāř",
     "lastSeen": "2026-09-21T07:50:53.845Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "play": 1789977140282
+    },
+    "energi": 23,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   },
   "6283842462314": {
     "name": "naa",
@@ -124823,7 +124827,11 @@
     "jid": "6283842462314",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1789977133894
+    },
+    "energi": 23,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   }
 }
