@@ -90373,7 +90373,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36015,
+    "exp": 36000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99152,7 +99152,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3525,
+    "exp": 3510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123876,7 +123876,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11616,
+    "exp": 11631,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124870,15 +124870,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
