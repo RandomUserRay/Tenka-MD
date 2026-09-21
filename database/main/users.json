@@ -50408,19 +50408,19 @@
     "jid": "6289670776767",
     "name": "_;",
     "number": "6289670776767",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830315,
+    "exp": 830345,
     "level": 1,
-    "koin": 497181,
+    "koin": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T05:46:14.417Z",
+    "lastSeen": "2026-09-21T10:58:52.848Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50481,7 +50481,7 @@
       "nyapu": 1784467347541,
       "mancing": 1784459641941,
       "afk": 1784019548393,
-      "casino": 1784469531325,
+      "casino": 1789988335649,
       "treasure": 1783838901009,
       "nambalban": 1784468327180,
       "kurir": 1784468151193,
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14361,
+    "exp": 14256,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -66993,7 +66993,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169970,
+    "exp": 169955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -102156,7 +102156,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14604,
+    "exp": 14544,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102550,13 +102550,13 @@
   },
   "6283822995454": {
     "name": "sarah imuppp",
-    "lastSeen": "2026-09-21T10:58:59.321Z",
+    "lastSeen": "2026-09-21T10:55:53.092Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 315155,
+    "exp": 314855,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -123850,7 +123850,7 @@
     "jid": "6285743196164",
     "rpg": {
       "bank": 0,
-      "stamina": 105,
+      "stamina": 85,
       "level": 2,
       "maxHealth": 110,
       "maxMana": 105,
@@ -123858,9 +123858,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 10673,
-    "name": "riyy stur",
-    "lastSeen": "2026-09-20T16:39:08.317Z",
+    "exp": 11496,
+    "name": "Dr. riyy",
+    "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123884,18 +123884,18 @@
       "tembak": 1789917290224,
       "bank": 1789917609189,
       "slot": 1789917600315,
-      "streamer": 1789917651520,
+      "streamer": 1789988277384,
       "casino": 1789917633310,
       "dare": 1789922348403,
       "truth": 1789921710641
     },
     "energi": 99999,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 3,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 4,
     "fun": {
       "jadiPacar": 1789917115599
     },
-    "koin": 97,
+    "koin": 23902,
     "lastStreamer": 1789917951415
   },
   "62895386188500": {
@@ -124246,7 +124246,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 2835,
+    "exp": 2850,
     "energi": 99997,
     "name": "𝐜hntka",
     "lastSeen": "2026-09-21T08:25:30.463Z",
@@ -124850,8 +124850,8 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
+  "6282310851097": {
+    "jid": "6282310851097",
     "rpg": {},
     "exp": 15
   }
