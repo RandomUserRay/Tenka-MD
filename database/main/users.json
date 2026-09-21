@@ -40329,7 +40329,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63300,
+    "exp": 63180,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102550,13 +102550,13 @@
   },
   "6283822995454": {
     "name": "sarah imuppp",
-    "lastSeen": "2026-09-21T07:54:03.361Z",
+    "lastSeen": "2026-09-21T07:32:49.848Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 312605,
+    "exp": 312230,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105755,7 +105755,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3315,
+    "exp": 3330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124811,10 +124811,27 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "śťāř",
     "lastSeen": "2026-09-21T07:50:53.845Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "play": 1789977160710
+    },
+    "energi": 23,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
+  },
+  "6283842462314": {
+    "name": "naa",
+    "lastSeen": "2026-09-21T07:52:07.871Z",
+    "jid": "6283842462314",
+    "rpg": {},
+    "exp": 45,
+    "cooldowns": {
+      "ytmp4": 1789977133894
+    },
+    "energi": 23,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   }
 }
