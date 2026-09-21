@@ -105755,7 +105755,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3045,
+    "exp": 3060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105765,11 +105765,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T14:17:10.495Z",
+    "lastSeen": "2026-09-21T07:18:17.609Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
-      "menu": 1789567239316,
+      "menu": 1789975101063,
       "play": 1789619569784,
       "antispam": 1789566153153,
       "antitagsw": 1789564491360,
@@ -105795,8 +105795,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 3
   },
   "6283829647574": {
     "jid": "6283829647574",
