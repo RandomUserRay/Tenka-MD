@@ -35283,7 +35283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008157,
+    "exp": 1008172,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50627,7 +50627,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605102,
+    "exp": 605117,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -123881,9 +123881,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12276,
+    "exp": 12291,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T14:07:39.081Z",
+    "lastSeen": "2026-09-21T14:44:24.078Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123909,7 +123909,7 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1789999659188,
+      "dare": 1790001864193,
       "truth": 1789921710641
     },
     "energi": 99999,
@@ -124939,6 +124939,6 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 1035
+    "exp": 1050
   }
 }
