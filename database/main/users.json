@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14616,
+    "exp": 14601,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -90221,13 +90221,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-21T12:06:26.316Z",
+    "lastSeen": "2026-09-21T11:24:02.247Z",
     "jid": "6282168671203",
     "number": "6282168671203",
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17850,
+    "exp": 17790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90258,7 +90258,7 @@
       "intro": 1787827085015,
       "setintro": 1787622866073,
       "unmutegc": 1788076423236,
-      "rvo": 1789992386318,
+      "rvo": 1789847257450,
       "mutegc": 1789822566423,
       "welcome": 1787644948697,
       "getpp": 1787645248771,
@@ -90276,8 +90276,7 @@
       "owner": 1789870830744,
       "antispam": 1789877437767,
       "antiphising": 1789876881008,
-      "kick": 1789968664796,
-      "tovid": 1789992370554
+      "kick": 1789968664796
     },
     "clanId": null,
     "isRegistered": false,
@@ -101902,10 +101901,10 @@
     "jid": "6282177721525",
     "name": "ryan",
     "number": "6282177721525",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4530,
+    "exp": 4560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101915,15 +101914,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T15:09:59.413Z",
+    "lastSeen": "2026-09-21T12:06:59.018Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789911450366,
       "play": 1789861018432,
       "afk": 1789860526415,
       "lvl": 1789798783924,
-      "bratimg": 1789908082370,
-      "wm": 1789872093943,
+      "bratimg": 1789992385180,
+      "wm": 1789992419506,
       "pin": 1789916576191,
       "jadwalmakan": 1789916915747
     },
@@ -101935,8 +101934,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 6
   },
   "62895406126052": {
     "jid": "62895406126052",
@@ -124855,15 +124854,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
