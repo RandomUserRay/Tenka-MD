@@ -110343,7 +110343,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4455,
+    "exp": 4470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113366,7 +113366,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11220,
+    "exp": 11235,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113376,12 +113376,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T02:11:22.537Z",
+    "lastSeen": "2026-09-21T11:33:30.999Z",
     "cooldowns": {
       "ut": 1789561796283,
       "kyubigame": 1789562315046,
       "menu": 1789562549859,
-      "casino": 1789870284388
+      "casino": 1789870284388,
+      "level": 1789990411551
     },
     "clanId": null,
     "isRegistered": false,
@@ -113400,8 +113401,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 3
   },
   "6285150979843": {
     "jid": "6285150979843",
