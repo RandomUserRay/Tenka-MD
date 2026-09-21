@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T15:11:10.077Z",
+    "lastSeen": "2026-09-21T15:12:07.772Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000092250,
+    "exp": 9000092325,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -67002,7 +67002,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170255,
+    "exp": 170270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67017,7 +67017,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T15:11:45.791Z",
+    "lastSeen": "2026-09-21T15:12:00.680Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1789987752480,
@@ -67099,7 +67099,7 @@
       "close": 1789478007974,
       "smemevid": 1789745755013,
       "intro": 1789781361840,
-      "ut": 1790003460809
+      "ut": 1790003522907
     },
     "clanId": null,
     "isRegistered": false,
@@ -120385,10 +120385,12 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢🍋",
-    "lastSeen": "2026-09-21T15:10:05.584Z",
+    "lastSeen": "2026-09-21T15:12:02.118Z",
     "jid": "62895405466188",
-    "rpg": {},
-    "exp": 1935,
+    "rpg": {
+      "health": 100
+    },
+    "exp": 3251,
     "cooldowns": {
       "s": 1789989654633,
       "smeme": 1789902978833,
@@ -120398,11 +120400,13 @@
       "brat": 1789746131510,
       "qc": 1789746169600,
       "love": 1789996786245,
-      "marry": 1789990373479
+      "marry": 1789990373479,
+      "adventure": 1790003524838
     },
-    "energi": 99990,
+    "energi": 99989,
     "lastActiveDate": "21/9/2026",
-    "activeDays": 7
+    "activeDays": 7,
+    "koin": 3240
   },
   "62882007228103": {
     "jid": "62882007228103",
