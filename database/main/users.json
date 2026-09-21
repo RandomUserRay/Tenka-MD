@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T13:44:33.662Z",
+    "lastSeen": "2026-09-21T13:42:40.205Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000088725,
+    "exp": 9000088500,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -28579,10 +28579,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99995,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295751,
+    "exp": 295721,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28593,7 +28593,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T13:45:31.047Z",
+    "lastSeen": "2026-09-21T13:43:47.763Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28745,7 +28745,7 @@
       "gila": 1787572887279,
       "buka": 1788263481031,
       "tutup": 1788263478030,
-      "tomp3": 1789998260757,
+      "tomp3": 1788425241936,
       "geometrydash": 1788247750976,
       "stacktower": 1788619985680,
       "bikini": 1788251530479,
@@ -90230,7 +90230,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18240,
+    "exp": 18210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95085,10 +95085,10 @@
     "jid": "6282224026470",
     "name": "Zidane𒉭",
     "number": "6282224026470",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95098,12 +95098,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T18:38:47.229Z",
+    "lastSeen": "2026-09-21T13:45:00.720Z",
     "cooldowns": {
       "hd": 1786938143760,
       "pap": 1786938328397,
       "play": 1789658168925,
-      "lirik": 1789658203143,
+      "lirik": 1789998303549,
       "ytmp4": 1789221629074,
       "s": 1789756729184
     },
@@ -95115,8 +95115,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 7
   },
   "62895370576172": {
     "jid": "62895370576172",
@@ -122062,12 +122062,18 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {
-      "stamina": 0,
-      "bank": 0
+      "stamina": 90,
+      "bank": 0,
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115
     },
-    "exp": 28131,
+    "exp": 31132,
     "name": "Edin",
-    "lastSeen": "2026-09-19T00:49:57.142Z",
+    "lastSeen": "2026-09-21T13:45:38.754Z",
     "cooldowns": {
       "menu": 1789275161456,
       "ytmp4": 1789779132533,
@@ -122076,18 +122082,18 @@
       "tebakbendera": 1789472903468,
       "ngemis": 1789567731306,
       "casino": 1789478351744,
-      "work": 1789568352952,
+      "work": 1789998342734,
       "bank": 1789568347166,
       "transfer": 1789473546144,
       "judi": 1789474244002,
       "slot": 1789567724274,
       "weekly": 1789478314615,
-      "freelance": 1789568391719
+      "freelance": 1789998342841
     },
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 4,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 5,
     "energi": 99999,
-    "koin": 7254
+    "koin": 26711
   },
   "6285771985823": {
     "jid": "6285771985823",
@@ -124875,15 +124881,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
