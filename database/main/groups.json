@@ -43600,6 +43600,14 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363425996701907@g.us"
+    "jid": "120363425996701907@g.us",
+    "chatStats": {
+      "6283121900324@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789975097609,
+        "name": "el yapping"
+      }
+    },
+    "name": "VIONIC | OFC"
   }
 }
