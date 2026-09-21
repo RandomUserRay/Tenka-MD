@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T13:28:20.799Z",
+    "lastSeen": "2026-09-21T13:12:00.163Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000087825,
+    "exp": 9000087600,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -804,7 +804,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66093,
+    "exp": 66078,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -26526,7 +26526,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168561,
+    "exp": 168606,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -89137,7 +89137,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1215,
+    "exp": 1245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113374,7 +113374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11265,
+    "exp": 11280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123878,7 +123878,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11616,
+    "exp": 11631,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124874,15 +124874,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
@@ -124917,5 +124917,10 @@
     "jid": "62882017051591",
     "rpg": {},
     "exp": 15
+  },
+  "6283175491402": {
+    "jid": "6283175491402",
+    "rpg": {},
+    "exp": 45
   }
 }
