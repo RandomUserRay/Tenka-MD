@@ -112008,12 +112008,12 @@
     "jid": "6283844881941",
     "name": "sell",
     "number": "6283844881941",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4152,
+    "exp": 5009,
     "level": 1,
-    "koin": 0,
+    "koin": 16843,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -112021,7 +112021,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T01:42:58.775Z",
+    "lastSeen": "2026-09-21T01:43:03.442Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -112044,7 +112044,7 @@
     "regGender": null,
     "rpg": {
       "health": 100,
-      "stamina": 60,
+      "stamina": 45,
       "bank": 0,
       "maxHealth": 100,
       "maxStamina": 100
