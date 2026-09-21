@@ -105752,10 +105752,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99993,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3360,
+    "exp": 3405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105765,12 +105765,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T07:59:05.147Z",
+    "lastSeen": "2026-09-21T07:59:21.150Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
-      "play": 1789976541275,
+      "play": 1789977570797,
       "antispam": 1789976384040,
       "antitagsw": 1789564491360,
       "antitoxic": 1789566319513,
@@ -105786,7 +105786,7 @@
       "del": 1789567518731,
       "close": 1789567905443,
       "open": 1789567912932,
-      "ytmp4": 1789977413569
+      "ytmp4": 1789977570192
     },
     "clanId": null,
     "isRegistered": false,
@@ -124816,7 +124816,7 @@
     "name": "śťāř",
     "lastSeen": "2026-09-21T07:58:36.240Z",
     "cooldowns": {
-      "play": 1789977160710
+      "play": 1789977560501
     },
     "energi": 22,
     "lastActiveDate": "21/9/2026",
