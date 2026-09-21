@@ -7437,7 +7437,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28540,
+    "exp": 28510,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604367,
+    "exp": 604382,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14541,
+    "exp": 14496,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -102150,13 +102150,13 @@
   },
   "628981194866": {
     "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-21T11:18:05.918Z",
+    "lastSeen": "2026-09-20T12:38:53.489Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14634,
+    "exp": 14619,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102167,7 +102167,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789989486787,
+      "afk": 1789907977690,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -102255,8 +102255,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 18
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 17
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -120372,7 +120372,7 @@
     "lastSeen": "2026-09-21T11:17:39.824Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1710,
+    "exp": 1680,
     "cooldowns": {
       "s": 1789989392260,
       "smeme": 1789902978833,
@@ -124663,7 +124663,7 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 330,
+    "exp": 300,
     "name": "aiko",
     "lastSeen": "2026-09-19T01:30:07.997Z",
     "cooldowns": {
@@ -124851,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   }
 }
