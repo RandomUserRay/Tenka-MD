@@ -111532,7 +111532,7 @@
     "isBanned": false,
     "exp": 217286,
     "level": 1,
-    "koin": 100621,
+    "koin": 300621,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -112013,9 +112013,9 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16164,
+    "exp": 16179,
     "level": 1,
-    "koin": 400428,
+    "koin": 200428,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -112023,7 +112023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T03:38:14.046Z",
+    "lastSeen": "2026-09-21T03:38:31.393Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -112039,7 +112039,7 @@
       "kurir": 1789961787838,
       "heal": 1789955006142,
       "nambalban": 1789961647136,
-      "transfer": 1789961894208
+      "transfer": 1789961911598
     },
     "clanId": null,
     "isRegistered": false,
