@@ -40331,7 +40331,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63240,
+    "exp": 63255,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50413,7 +50413,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830615,
+    "exp": 830600,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50422,7 +50422,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:41:33.006Z",
+    "lastSeen": "2026-09-21T14:40:03.386Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50531,8 +50531,7 @@
       "cekvillain": 1784459731780,
       "cekwibu": 1784459849850,
       "dare": 1790001506336,
-      "gombal": 1790001603488,
-      "truth": 1790001693112
+      "gombal": 1790001603488
     },
     "clanId": null,
     "isRegistered": false,
@@ -124877,15 +124876,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 150
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 150
   },
   "6283115666152": {
     "jid": "6283115666152",
