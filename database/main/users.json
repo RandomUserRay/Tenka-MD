@@ -11522,10 +11522,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33514,
+    "exp": 33544,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11534,7 +11534,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T01:35:31.314Z",
+    "lastSeen": "2026-09-21T01:35:50.437Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11551,7 +11551,7 @@
       "menucat": 1785649108309,
       "freelance": 1786708363322,
       "money": 1788080643994,
-      "s": 1787660754016,
+      "s": 1789954540617,
       "tidur": 1787894206113,
       "gojek": 1788080729812,
       "dagang": 1788080798118,
@@ -11568,7 +11568,8 @@
       "love": 1789135885643,
       "cekfemboy": 1789135803002,
       "training": 1789213756929,
-      "gamble": 1789213794986
+      "gamble": 1789213794986,
+      "delete": 1789954550475
     },
     "clanId": null,
     "isRegistered": false,
@@ -11593,8 +11594,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 5
   },
   "628385932548": {
     "jid": "628385932548",
