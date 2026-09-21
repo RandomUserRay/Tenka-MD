@@ -280,8 +280,8 @@
       "maxMana": 68075,
       "stamina": 68075,
       "maxStamina": 68075,
-      "spouse": "6283834782702@s.whatsapp.net",
-      "marriedAt": 1789990283002,
+      "spouse": null,
+      "marriedAt": null,
       "bank": 7230563233,
       "attack": 108,
       "luck": 95,
@@ -408,8 +408,8 @@
       "maxStamina": 125,
       "bank": 549143483,
       "luck": 6,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1789990294152
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "coal": 1,
@@ -7213,10 +7213,10 @@
     "jid": "6283196442568",
     "name": "Ciko 144p",
     "number": "6283196442568",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14270,
+    "exp": 14240,
     "level": 1,
     "koin": 1018499,
     "unlockedFeatures": [],
@@ -7225,7 +7225,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:31:09.322Z",
+    "lastSeen": "2026-09-17T15:33:04.211Z",
     "cooldowns": {
       "femboy": 1781183141177,
       "gay": 1780158137165,
@@ -7252,7 +7252,7 @@
       "sangean": 1781169239600,
       "topixel": 1782226841956,
       "play": 1783504557946,
-      "ttmp3": 1789990273188,
+      "ttmp3": 1789362262385,
       "ytmp4": 1786448124430,
       "toimg": 1783606278801,
       "beautiful": 1782124630349,
@@ -7287,8 +7287,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "17/9/2026",
+    "activeDays": 9
   },
   "6285123878040": {
     "name": "⋆. 𐙚˚࿔ 𝒌𝒆𝒚 𝜗𝜚˚⋆",
@@ -66993,7 +66993,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170105,
+    "exp": 170060,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67008,7 +67008,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:31:46.231Z",
+    "lastSeen": "2026-09-21T11:12:19.925Z",
     "cooldowns": {
       "afk": 1789977509378,
       "s": 1789987752480,
@@ -67021,7 +67021,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789990307784,
+      "bank": 1789989139966,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67041,7 +67041,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789990294268,
+      "marry": 1789989129727,
       "transfer": 1789633390126,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -67104,10 +67104,10 @@
       "maxMana": 185,
       "stamina": 185,
       "maxStamina": 185,
-      "bank": 1351637524,
+      "bank": 1351687524,
       "attack": 21,
-      "spouse": "6289529899190@s.whatsapp.net",
-      "marriedAt": 1789990294152,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -105116,7 +105116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50595,
+    "exp": 50610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120510,13 +120510,11 @@
       "mana": 100,
       "maxMana": 100,
       "stamina": 100,
-      "maxStamina": 100,
-      "spouse": "6281212759099@s.whatsapp.net",
-      "marriedAt": 1789990283002
+      "maxStamina": 100
     },
-    "exp": 1950,
+    "exp": 1935,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-21T11:31:23.001Z",
+    "lastSeen": "2026-09-21T06:38:21.235Z",
     "cooldowns": {
       "love": 1789136486991,
       "d": 1789907928204,
@@ -120524,13 +120522,12 @@
       "me": 1789732499814,
       "profile": 1789732539108,
       "warn": 1789793589789,
-      "afk": 1789972702241,
-      "marry": 1789990283090
+      "afk": 1789972702241
     },
     "lastActiveDate": "21/9/2026",
     "activeDays": 5,
     "energi": 99999,
-    "koin": 101283377
+    "koin": 101333377
   },
   "62895622978537": {
     "jid": "62895622978537",
@@ -123862,7 +123859,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11571,
+    "exp": 11601,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124854,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   }
 }
