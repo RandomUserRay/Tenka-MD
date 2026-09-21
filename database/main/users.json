@@ -50411,7 +50411,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830180,
+    "exp": 830255,
     "level": 1,
     "koin": 497181,
     "unlockedFeatures": [],
@@ -50420,7 +50420,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-06T05:29:31.609Z",
+    "lastSeen": "2026-09-21T05:46:00.476Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50527,7 +50527,8 @@
       "tambal": 1784468334792,
       "cekcupu": 1784459707622,
       "cekvillain": 1784459731780,
-      "cekwibu": 1784459849850
+      "cekwibu": 1784459849850,
+      "dare": 1789969560667
     },
     "clanId": null,
     "isRegistered": false,
@@ -50611,7 +50612,9 @@
     "quest": {},
     "lastStreamer": 1784468050524,
     "settings": {},
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   },
   "6288901803249": {
     "jid": "6288901803249",
