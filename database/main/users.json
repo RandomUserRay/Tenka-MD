@@ -102556,7 +102556,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 312305,
+    "exp": 312230,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -124814,6 +124814,15 @@
     "exp": 150,
     "name": "śťāř",
     "lastSeen": "2026-09-21T07:50:53.845Z",
+    "cooldowns": {},
+    "energi": 23
+  },
+  "6283842462314": {
+    "name": "naa",
+    "lastSeen": "2026-09-21T07:52:07.871Z",
+    "jid": "6283842462314",
+    "rpg": {},
+    "exp": 15,
     "cooldowns": {},
     "energi": 23
   }
