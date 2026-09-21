@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14586,
+    "exp": 14601,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -90227,7 +90227,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17745,
+    "exp": 17775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96504,7 +96504,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 765,
+    "exp": 795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101901,10 +101901,10 @@
     "jid": "6282177721525",
     "name": "ryan",
     "number": "6282177721525",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4545,
+    "exp": 4530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101914,14 +101914,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T12:04:59.248Z",
+    "lastSeen": "2026-09-20T15:09:59.413Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789911450366,
       "play": 1789861018432,
       "afk": 1789860526415,
       "lvl": 1789798783924,
-      "bratimg": 1789992305856,
+      "bratimg": 1789908082370,
       "wm": 1789872093943,
       "pin": 1789916576191,
       "jadwalmakan": 1789916915747
@@ -101934,8 +101934,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 5
   },
   "62895406126052": {
     "jid": "62895406126052",
@@ -120513,9 +120513,9 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1935,
+    "exp": 1950,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-21T06:38:21.235Z",
+    "lastSeen": "2026-09-21T12:04:40.432Z",
     "cooldowns": {
       "love": 1789136486991,
       "d": 1789907928204,
@@ -120523,11 +120523,12 @@
       "me": 1789732499814,
       "profile": 1789732539108,
       "warn": 1789793589789,
-      "afk": 1789972702241
+      "afk": 1789972702241,
+      "s": 1789992282024
     },
     "lastActiveDate": "21/9/2026",
     "activeDays": 5,
-    "energi": 99999,
+    "energi": 99998,
     "koin": 101333377
   },
   "62895622978537": {
@@ -123860,7 +123861,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11616,
+    "exp": 11601,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124853,15 +124854,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   },
   "6283115666152": {
     "jid": "6283115666152",
