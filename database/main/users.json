@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T12:56:45.996Z",
+    "lastSeen": "2026-09-21T12:54:57.990Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000086550,
+    "exp": 9000086400,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -3044,7 +3044,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703196,
+    "exp": 703136,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3458,7 +3458,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 425777,
+    "exp": 425747,
     "level": 1,
     "koin": 15300,
     "unlockedFeatures": [],
@@ -11527,7 +11527,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33604,
+    "exp": 33589,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -26524,7 +26524,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168561,
+    "exp": 168591,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26533,9 +26533,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T05:57:23.450Z",
+    "lastSeen": "2026-09-21T12:56:54.822Z",
     "cooldowns": {
-      "afk": 1789121430469,
+      "afk": 1789995415842,
       "play": 1788575721219,
       "tebakkata": 1783582134240,
       "me": 1782879671146,
@@ -26547,7 +26547,7 @@
       "s": 1789883844389,
       "d": 1789791624817,
       "cekhoki": 1783269818738,
-      "menu": 1788616619409,
+      "menu": 1789995386618,
       "tebaknegara": 1785228313783,
       "allmenu": 1785228839198,
       "bodoh": 1783582426228,
@@ -26657,8 +26657,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 12
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -89135,7 +89135,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1215,
+    "exp": 1230,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90373,7 +90373,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36030,
+    "exp": 36000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99152,7 +99152,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3570,
+    "exp": 3510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105761,7 +105761,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3675,
+    "exp": 3705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123754,7 +123754,7 @@
     "lastSeen": "2026-09-15T14:30:05.089Z",
     "jid": "6288221695707",
     "rpg": {},
-    "exp": 60,
+    "exp": 90,
     "energi": 99999
   },
   "6287761675563": {
@@ -123876,7 +123876,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11616,
+    "exp": 11631,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124870,15 +124870,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   },
   "6283115666152": {
     "jid": "6283115666152",
