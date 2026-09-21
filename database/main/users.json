@@ -7437,7 +7437,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28510,
+    "exp": 28540,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -22226,7 +22226,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28522,
+    "exp": 28537,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604382,
+    "exp": 604367,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14496,
+    "exp": 14556,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -66990,10 +66990,10 @@
     "jid": "6283135864303",
     "name": "Dio Brando",
     "number": "6283135864303",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170060,
+    "exp": 170075,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67008,10 +67008,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:12:19.925Z",
+    "lastSeen": "2026-09-21T11:18:49.094Z",
     "cooldowns": {
       "afk": 1789977509378,
-      "s": 1789987752480,
+      "s": 1789989530346,
       "play": 1789982437541,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -96208,7 +96208,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6720,
+    "exp": 6735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102150,13 +102150,13 @@
   },
   "628981194866": {
     "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-20T12:38:53.489Z",
+    "lastSeen": "2026-09-21T11:18:05.918Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14619,
+    "exp": 14634,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102167,7 +102167,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1789907977690,
+      "afk": 1789989486787,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -102255,8 +102255,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 17
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 18
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -120115,7 +120115,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2835,
+    "exp": 2820,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120125,7 +120125,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:19:07.127Z",
+    "lastSeen": "2026-09-19T14:11:52.377Z",
     "cooldowns": {
       "bratimg": 1789826118662,
       "menu": 1789827099929,
@@ -120372,7 +120372,7 @@
     "lastSeen": "2026-09-21T11:17:39.824Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1680,
+    "exp": 1725,
     "cooldowns": {
       "s": 1789989392260,
       "smeme": 1789902978833,
@@ -123859,7 +123859,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11511,
+    "exp": 11496,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124663,7 +124663,7 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 300,
+    "exp": 345,
     "name": "aiko",
     "lastSeen": "2026-09-19T01:30:07.997Z",
     "cooldowns": {
@@ -124851,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   }
 }
