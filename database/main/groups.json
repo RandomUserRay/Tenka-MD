@@ -43166,7 +43166,15 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363413361477719@g.us"
+    "jid": "120363413361477719@g.us",
+    "chatStats": {
+      "6281235283279@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1789974179430,
+        "name": "Drex Rhy"
+      }
+    },
+    "name": "Elite Zero Operation"
   },
   "120363430330805500@g.us": {
     "chatStats": {
