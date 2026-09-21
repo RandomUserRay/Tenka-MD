@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000090750,
+    "exp": 9000090825,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -9741,7 +9741,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48120,
+    "exp": 48135,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50410,10 +50410,10 @@
     "jid": "6289670776767",
     "name": "_;",
     "number": "6289670776767",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 830750,
+    "exp": 830735,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50422,7 +50422,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:53:00.491Z",
+    "lastSeen": "2026-09-21T14:52:19.934Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50532,8 +50532,7 @@
       "cekwibu": 1784459849850,
       "dare": 1790001997763,
       "gombal": 1790001603488,
-      "truth": 1790002125965,
-      "imgtoprompt": 1790002380687
+      "truth": 1790002125965
     },
     "clanId": null,
     "isRegistered": false,
@@ -123882,9 +123881,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 13116,
+    "exp": 13086,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T14:53:17.280Z",
+    "lastSeen": "2026-09-21T14:52:05.783Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123910,9 +123909,9 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1790002377931,
+      "dare": 1790002303734,
       "truth": 1790002122712,
-      "gombal": 1790002397486
+      "gombal": 1790002325918
     },
     "energi": 99999,
     "lastActiveDate": "21/9/2026",
@@ -124879,15 +124878,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 150
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 150
   },
   "6283115666152": {
     "jid": "6283115666152",
@@ -124942,5 +124941,10 @@
     "jid": "6283115028775",
     "rpg": {},
     "exp": 1110
+  },
+  "6285650881944": {
+    "jid": "6285650881944",
+    "rpg": {},
+    "exp": 60
   }
 }
