@@ -66993,7 +66993,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169835,
+    "exp": 169850,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67008,9 +67008,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T05:38:18.868Z",
+    "lastSeen": "2026-09-21T07:58:27.631Z",
     "cooldowns": {
-      "afk": 1789754492766,
+      "afk": 1789977509378,
       "s": 1789968147343,
       "play": 1789968639006,
       "inv": 1786434391177,
@@ -102550,13 +102550,13 @@
   },
   "6283822995454": {
     "name": "sarah imuppp",
-    "lastSeen": "2026-09-21T07:32:49.848Z",
+    "lastSeen": "2026-09-21T07:59:41.740Z",
     "jid": "6283822995454",
     "number": "6283822995454",
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 312305,
+    "exp": 312530,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105752,10 +105752,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99989,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3405,
+    "exp": 3345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105765,12 +105765,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T07:59:21.150Z",
+    "lastSeen": "2026-09-21T07:56:23.267Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
-      "play": 1789977570797,
+      "play": 1789976541275,
       "antispam": 1789976384040,
       "antitagsw": 1789564491360,
       "antitoxic": 1789566319513,
@@ -105786,7 +105786,7 @@
       "del": 1789567518731,
       "close": 1789567905443,
       "open": 1789567912932,
-      "ytmp4": 1789977570192
+      "ytmp4": 1789977413569
     },
     "clanId": null,
     "isRegistered": false,
@@ -123857,7 +123857,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 10508,
+    "exp": 10493,
     "name": "riyy stur",
     "lastSeen": "2026-09-20T16:39:08.317Z",
     "cooldowns": {
@@ -124812,13 +124812,13 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 180,
+    "exp": 165,
     "name": "śťāř",
-    "lastSeen": "2026-09-21T07:58:36.240Z",
+    "lastSeen": "2026-09-21T07:50:53.845Z",
     "cooldowns": {
-      "play": 1789977560501
+      "play": 1789977160710
     },
-    "energi": 22,
+    "energi": 23,
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
