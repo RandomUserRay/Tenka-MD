@@ -35281,7 +35281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1007197,
+    "exp": 1007242,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604397,
+    "exp": 604442,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14586,
+    "exp": 14556,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54240,7 +54240,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:25:28.824Z",
+    "lastSeen": "2026-09-21T11:16:11.281Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54268,7 +54268,7 @@
       "bank": 1789213562881,
       "profil": 1789119243016,
       "deposit": 1789119722960,
-      "love": 1789989928853,
+      "love": 1789989371309,
       "cerai": 1789136004842,
       "close": 1789137262323,
       "open": 1789137420963,
@@ -90227,7 +90227,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17775,
+    "exp": 17745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120372,7 +120372,7 @@
     "lastSeen": "2026-09-21T11:24:08.135Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1755,
     "cooldowns": {
       "s": 1789989654633,
       "smeme": 1789902978833,
@@ -124851,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   }
 }
