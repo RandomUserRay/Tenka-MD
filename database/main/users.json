@@ -9783,8 +9783,8 @@
       "stamina": 105,
       "maxStamina": 120,
       "bank": 3060303963,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6283135864303@s.whatsapp.net",
+      "marriedAt": 1790002277772
     },
     "inventory": {},
     "access": [],
@@ -66998,9 +66998,9 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170075,
+    "exp": 170120,
     "level": 1,
-    "koin": 0,
+    "koin": 1351637524,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -67013,7 +67013,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T13:24:55.687Z",
+    "lastSeen": "2026-09-21T14:51:17.771Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1789987752480,
@@ -67026,7 +67026,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789989139966,
+      "bank": 1790002259306,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67089,7 +67089,7 @@
       "training": 1789394704255,
       "tolak": 1786714790971,
       "love": 1789989100221,
-      "cerai": 1789475061902,
+      "cerai": 1790002263879,
       "tutup": 1789476760860,
       "open": 1789478015816,
       "close": 1789478007974,
@@ -67109,10 +67109,10 @@
       "maxMana": 185,
       "stamina": 185,
       "maxStamina": 185,
-      "bank": 1351687524,
+      "bank": 0,
       "attack": 21,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6281310184404@s.whatsapp.net",
+      "marriedAt": 1790002277772,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -123881,9 +123881,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12936,
+    "exp": 12816,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-21T14:50:35.783Z",
+    "lastSeen": "2026-09-21T14:49:41.347Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -123909,9 +123909,9 @@
       "slot": 1789917600315,
       "streamer": 1789988277384,
       "casino": 1789917633310,
-      "dare": 1790002235887,
+      "dare": 1790002176604,
       "truth": 1790002122712,
-      "gombal": 1790002224151
+      "gombal": 1790002181484
     },
     "energi": 99999,
     "lastActiveDate": "21/9/2026",
@@ -124878,15 +124878,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 150
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 150
   },
   "6283115666152": {
     "jid": "6283115666152",
@@ -124941,5 +124941,10 @@
     "jid": "6283115028775",
     "rpg": {},
     "exp": 1110
+  },
+  "6285650881944": {
+    "jid": "6285650881944",
+    "rpg": {},
+    "exp": 30
   }
 }
