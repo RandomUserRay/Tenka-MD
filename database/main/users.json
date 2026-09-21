@@ -280,8 +280,8 @@
       "maxMana": 68075,
       "stamina": 68075,
       "maxStamina": 68075,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1789989129629,
+      "spouse": null,
+      "marriedAt": null,
       "bank": 7230563233,
       "attack": 108,
       "luck": 95,
@@ -4417,7 +4417,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231380,
+    "exp": 231350,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14421,
+    "exp": 14331,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54240,7 +54240,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:14:39.855Z",
+    "lastSeen": "2026-09-21T11:11:26.705Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54268,7 +54268,7 @@
       "bank": 1789213562881,
       "profil": 1789119243016,
       "deposit": 1789119722960,
-      "love": 1789989280168,
+      "love": 1789989086734,
       "cerai": 1789136004842,
       "close": 1789137262323,
       "open": 1789137420963,
@@ -66993,7 +66993,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170060,
+    "exp": 170000,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67008,7 +67008,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:12:19.925Z",
+    "lastSeen": "2026-09-21T11:11:12.653Z",
     "cooldowns": {
       "afk": 1789977509378,
       "s": 1789987752480,
@@ -67021,7 +67021,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1789989139966,
+      "bank": 1789633363934,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67041,7 +67041,7 @@
       "gay": 1785587938268,
       "kiss": 1786715300424,
       "kill": 1785587602545,
-      "marry": 1789989129727,
+      "marry": 1789459946845,
       "transfer": 1789633390126,
       "yandere": 1785577263921,
       "lucky": 1785587470251,
@@ -67083,7 +67083,7 @@
       "mencuri": 1786524651261,
       "training": 1789394704255,
       "tolak": 1786714790971,
-      "love": 1789989100221,
+      "love": 1789989073702,
       "cerai": 1789475061902,
       "tutup": 1789476760860,
       "open": 1789478015816,
@@ -67104,10 +67104,10 @@
       "maxMana": 185,
       "stamina": 185,
       "maxStamina": 185,
-      "bank": 1351687524,
+      "bank": 1351737524,
       "attack": 21,
-      "spouse": "6281212759099@s.whatsapp.net",
-      "marriedAt": 1789989129629,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20,
       "luck": 11
@@ -102156,7 +102156,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14604,
+    "exp": 14589,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102556,7 +102556,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 315305,
+    "exp": 315005,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105755,7 +105755,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3660,
+    "exp": 3705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106358,7 +106358,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113410,7 +113410,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47905,
+    "exp": 47920,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113420,10 +113420,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:38:53.051Z",
+    "lastSeen": "2026-09-21T11:13:03.475Z",
     "cooldowns": {
       "afk": 1789825816649,
-      "level": 1789839307873,
+      "level": 1789989184423,
       "profil": 1789818663172,
       "duel": 1789867611787,
       "maling": 1789867861079,
@@ -113486,8 +113486,8 @@
     },
     "access": [],
     "fun": {},
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 2,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 3,
     "lastStreamer": 1789868198198
   },
   "6283191157210": {
@@ -120369,10 +120369,10 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟🍋",
-    "lastSeen": "2026-09-21T11:14:39.068Z",
+    "lastSeen": "2026-09-21T10:28:14.875Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1635,
+    "exp": 1590,
     "cooldowns": {
       "s": 1789986361869,
       "smeme": 1789902978833,
@@ -120380,8 +120380,7 @@
       "rvo": 1789986495544,
       "d": 1789728398252,
       "brat": 1789746131510,
-      "qc": 1789746169600,
-      "love": 1789989279106
+      "qc": 1789746169600
     },
     "energi": 99995,
     "lastActiveDate": "21/9/2026",
@@ -124442,7 +124441,7 @@
   "62882015916501": {
     "jid": "62882015916501",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6281220845350": {
@@ -124851,14 +124850,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "628998151665": {
-    "jid": "628998151665",
-    "rpg": {},
-    "exp": 15
-  },
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
     "exp": 45
+  },
+  "628998151665": {
+    "jid": "628998151665",
+    "rpg": {},
+    "exp": 15
   }
 }
