@@ -1799,7 +1799,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 647934,
+    "exp": 647859,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -111539,9 +111539,9 @@
     "energi": 99898,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230357,
+    "exp": 230417,
     "level": 1,
-    "koin": 150800,
+    "koin": 50800,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -111549,7 +111549,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T09:37:15.679Z",
+    "lastSeen": "2026-09-21T09:37:40.422Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1788878815093,
@@ -111662,7 +111662,7 @@
       "ngojek": 1789983319061,
       "leveluprpg": 1789819521422,
       "parkir": 1789963073936,
-      "bank": 1789983369815,
+      "bank": 1789983460744,
       "nyapu": 1789963083804,
       "nulis": 1789819949926,
       "berburu": 1789820029407,
@@ -111673,7 +111673,7 @@
       "dungeon": 1789820172244,
       "garden": 1789820394422,
       "rob": 1789820423273,
-      "casino": 1789983417096,
+      "casino": 1789983438721,
       "exp": 1789820713327,
       "stamina": 1789865029926,
       "inv": 1789825617498,
@@ -111722,7 +111722,7 @@
       "mana": 215,
       "stamina": 215,
       "attack": 10,
-      "bank": 1000000,
+      "bank": 1100000,
       "garden": {
         "plots": [
           {
@@ -123858,7 +123858,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 10493,
+    "exp": 10508,
     "name": "riyy stur",
     "lastSeen": "2026-09-20T16:39:08.317Z",
     "cooldowns": {
@@ -124236,7 +124236,7 @@
   "6285189048156": {
     "jid": "6285189048156",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1620,
     "energi": 99999,
     "name": "发货",
     "lastSeen": "2026-09-20T03:40:23.428Z",
