@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-21T12:14:17.916Z",
+    "lastSeen": "2026-09-21T12:17:23.691Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000082800,
+    "exp": 9000083025,
     "level": 1,
     "koin": 36390,
     "unlockedFeatures": [],
@@ -96209,7 +96209,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6720,
+    "exp": 6735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99152,7 +99152,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3270,
+    "exp": 3285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105122,7 +105122,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50745,
+    "exp": 50670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105152,7 +105152,7 @@
       "antisticker": 1789110549116,
       "bratcewek": 1788661413142,
       "brat": 1788628248906,
-      "bratimg": 1789993024599,
+      "bratimg": 1789992974676,
       "sticker": 1788678158238,
       "antispam": 1789223474167,
       "admin": 1788766651427,
@@ -105761,7 +105761,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3690,
+    "exp": 3675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123483,17 +123483,8 @@
   "6285656085945": {
     "jid": "6285656085945",
     "rpg": {},
-    "exp": 120,
-    "energi": 99995,
-    "name": "Keyrox",
-    "lastSeen": "2026-09-21T12:17:07.636Z",
-    "cooldowns": {
-      "brat": 1789993009942,
-      "bratimg": 1789993023318,
-      "iqc": 1789993029158
-    },
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 1
+    "exp": 30,
+    "energi": 99999
   },
   "6283161108229": {
     "jid": "6283161108229",
@@ -124869,15 +124860,15 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   },
   "6283115666152": {
     "jid": "6283115666152",
