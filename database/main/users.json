@@ -105755,7 +105755,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3555,
+    "exp": 3600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105765,7 +105765,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T08:02:12.040Z",
+    "lastSeen": "2026-09-21T08:03:11.922Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -105783,7 +105783,7 @@
       "antimedia": 1789566420292,
       "addcmdsticker": 1789566487339,
       "bratimg": 1789976361804,
-      "del": 1789977732072,
+      "del": 1789977791956,
       "close": 1789567905443,
       "open": 1789567912932,
       "ytmp4": 1789977413569
@@ -124827,7 +124827,7 @@
     "lastSeen": "2026-09-21T07:52:07.871Z",
     "jid": "6283842462314",
     "rpg": {},
-    "exp": 105,
+    "exp": 135,
     "cooldowns": {
       "ytmp4": 1789977133894
     },
