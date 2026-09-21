@@ -7437,7 +7437,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28510,
+    "exp": 28540,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604412,
+    "exp": 604397,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -120112,10 +120112,10 @@
     "jid": "6282254416963",
     "name": "r",
     "number": "6282254416963",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2850,
+    "exp": 2835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120125,9 +120125,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:19:22.906Z",
+    "lastSeen": "2026-09-21T11:19:07.127Z",
     "cooldowns": {
-      "bratimg": 1789989573188,
+      "bratimg": 1789826118662,
       "menu": 1789989550082,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
@@ -123859,7 +123859,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11556,
+    "exp": 11526,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T10:57:53.544Z",
     "cooldowns": {
@@ -124851,14 +124851,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   }
 }
