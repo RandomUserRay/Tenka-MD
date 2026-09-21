@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14241,
+    "exp": 14226,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -67979,7 +67979,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3180,
+    "exp": 3165,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72590,10 +72590,10 @@
     "jid": "62895320168082",
     "name": "§uLTaNジャスティン",
     "number": "62895320168082",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72602,9 +72602,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T10:33:27.278Z",
+    "lastSeen": "2026-09-21T10:54:06.818Z",
     "cooldowns": {
-      "s": 1789900408108
+      "s": 1789900408108,
+      "khodam": 1789988046827
     },
     "clanId": null,
     "isRegistered": false,
@@ -72615,8 +72616,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 3
   },
   "6285753107822": {
     "jid": "6285753107822",
@@ -102156,7 +102157,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14529,
+    "exp": 14499,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124246,10 +124247,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 2835,
-    "energi": 99997,
+    "exp": 2895,
+    "energi": 99996,
     "name": "𝐜hntka",
-    "lastSeen": "2026-09-21T08:25:30.463Z",
+    "lastSeen": "2026-09-21T10:54:52.066Z",
     "cooldowns": {
       "s": 1789979131452,
       "anj": 1789916189343,
@@ -124275,7 +124276,8 @@
       "dakjal": 1789917212628,
       "noob": 1789917277768,
       "kaya": 1789917339640,
-      "tanyaustad": 1789917459578
+      "tanyaustad": 1789917459578,
+      "poke": 1789988093461
     },
     "lastActiveDate": "21/9/2026",
     "activeDays": 2
