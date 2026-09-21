@@ -112013,7 +112013,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15424,
+    "exp": 15969,
     "level": 1,
     "koin": 8285,
     "saldo": 0,
@@ -112023,7 +112023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T03:36:07.135Z",
+    "lastSeen": "2026-09-21T03:36:29.569Z",
     "cooldowns": {
       "menu": 1789640057455,
       "ut": 1789555302794,
@@ -112036,7 +112036,7 @@
       "bank": 1789961730874,
       "jualan": 1789961641983,
       "nyapu": 1789961755771,
-      "kurir": 1789828378568,
+      "kurir": 1789961787838,
       "heal": 1789955006142,
       "nambalban": 1789961647136
     },
@@ -112047,7 +112047,7 @@
     "regGender": null,
     "rpg": {
       "health": 110,
-      "stamina": 81,
+      "stamina": 56,
       "bank": 400428,
       "maxHealth": 110,
       "maxStamina": 105,
