@@ -16536,9 +16536,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233479,
+    "exp": 233494,
     "level": 1,
-    "koin": 101333377,
+    "koin": 0,
     "unlockedFeatures": [
       "game"
     ],
@@ -16547,7 +16547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T04:23:44.060Z",
+    "lastSeen": "2026-09-21T04:24:23.355Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16571,7 +16571,7 @@
       "cool": 1785588387099,
       "baik": 1783504045862,
       "handsome": 1783144883285,
-      "transfer": 1789964624606,
+      "transfer": 1789964663422,
       "profile": 1786200647378,
       "benefitpremium": 1783150381272,
       "menu": 1785587404417,
@@ -120519,7 +120519,8 @@
     },
     "lastActiveDate": "21/9/2026",
     "activeDays": 5,
-    "energi": 99999
+    "energi": 99999,
+    "koin": 101333377
   },
   "62895622978537": {
     "jid": "62895622978537",
