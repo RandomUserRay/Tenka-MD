@@ -35283,7 +35283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008022,
+    "exp": 1008037,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50626,7 +50626,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605012,
+    "exp": 605027,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -50637,7 +50637,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:39:45.638Z",
+    "lastSeen": "2026-09-21T14:40:13.795Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -50757,7 +50757,7 @@
       "horny": 1789917220413,
       "soulmatch": 1789917335895,
       "top": 1789922421668,
-      "gombal": 1790001585749,
+      "gombal": 1790001613924,
       "fisht": 1789997705745
     },
     "clanId": null,
@@ -124938,6 +124938,6 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 870
+    "exp": 885
   }
 }
