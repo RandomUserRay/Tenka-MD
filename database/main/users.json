@@ -57245,7 +57245,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113005,
+    "exp": 113020,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -57254,7 +57254,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-18T00:30:09.165Z",
+    "lastSeen": "2026-09-21T04:09:51.213Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -57301,7 +57301,8 @@
       "kurir": 1784165812397,
       "stamina": 1784099655027,
       "slot": 1784258636627,
-      "training": 1784334696189
+      "training": 1784334696189,
+      "dare": 1789963791342
     },
     "clanId": null,
     "isRegistered": false,
@@ -57332,7 +57333,9 @@
       "daging_rusa": 1
     },
     "access": [],
-    "lastStreamer": 1784166392345
+    "lastStreamer": 1784166392345,
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 1
   },
   "6281260046909": {
     "jid": "6281260046909",
