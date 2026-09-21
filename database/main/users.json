@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135952985,
+    "exp": 135953135,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -35281,7 +35281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1007452,
+    "exp": 1007407,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -50623,7 +50623,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 604547,
+    "exp": 604532,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -54231,7 +54231,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14556,
+    "exp": 14571,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -105116,7 +105116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50640,
+    "exp": 50610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105126,7 +105126,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:33:05.496Z",
+    "lastSeen": "2026-09-21T11:07:46.792Z",
     "cooldowns": {
       "menu": 1789525763568,
       "owner": 1788775980116,
@@ -105171,7 +105171,7 @@
       "setintro": 1788690291991,
       "setwelcome": 1788714658217,
       "notifmakan": 1789483541525,
-      "tagall": 1789990385544,
+      "tagall": 1789484908974,
       "bass": 1788694545758,
       "blown": 1788694698473,
       "unadmin": 1788766659211,
@@ -110343,7 +110343,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4470,
+    "exp": 4455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113366,7 +113366,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11235,
+    "exp": 11220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113376,13 +113376,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:33:30.999Z",
+    "lastSeen": "2026-09-20T02:11:22.537Z",
     "cooldowns": {
       "ut": 1789561796283,
       "kyubigame": 1789562315046,
       "menu": 1789562549859,
-      "casino": 1789870284388,
-      "level": 1789990411551
+      "casino": 1789870284388
     },
     "clanId": null,
     "isRegistered": false,
@@ -113401,8 +113400,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 2
   },
   "6285150979843": {
     "jid": "6285150979843",
@@ -120370,10 +120369,10 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟🍋",
-    "lastSeen": "2026-09-21T11:24:08.135Z",
+    "lastSeen": "2026-09-21T11:33:18.754Z",
     "jid": "62895405466188",
     "rpg": {},
-    "exp": 1755,
+    "exp": 1800,
     "cooldowns": {
       "s": 1789989654633,
       "smeme": 1789902978833,
@@ -120382,7 +120381,8 @@
       "d": 1789728398252,
       "brat": 1789746131510,
       "qc": 1789746169600,
-      "love": 1789989848164
+      "love": 1789989848164,
+      "marry": 1789990373479
     },
     "energi": 99990,
     "lastActiveDate": "21/9/2026",
@@ -124852,14 +124852,14 @@
     "lastActiveDate": "21/9/2026",
     "activeDays": 1
   },
-  "6282310851097": {
-    "jid": "6282310851097",
-    "rpg": {},
-    "exp": 45
-  },
   "628998151665": {
     "jid": "628998151665",
     "rpg": {},
     "exp": 15
+  },
+  "6282310851097": {
+    "jid": "6282310851097",
+    "rpg": {},
+    "exp": 45
   }
 }
