@@ -5326,10 +5326,10 @@
     "jid": "6285810267907",
     "name": "rezz",
     "number": "6285810267907",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33886,
+    "exp": 33901,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -5338,7 +5338,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-18T06:49:05.874Z",
+    "lastSeen": "2026-09-22T04:54:28.445Z",
     "cooldowns": {
       "brat": 1789557085495,
       "bratimg": 1789023056494,
@@ -5367,7 +5367,7 @@
       "jadibot": 1784047504533,
       "hd": 1784891545544,
       "menu": 1785404080129,
-      "iqc": 1789629418226,
+      "iqc": 1790052870925,
       "qc": 1786087622664,
       "smeme": 1786352489322,
       "puisi": 1786183028318,
@@ -5401,8 +5401,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 12
   },
   "6285849861927": {
     "jid": "6285849861927",
