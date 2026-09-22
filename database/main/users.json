@@ -11691,12 +11691,12 @@
   },
   "6283873920834": {
     "jid": "6283873920834",
-    "name": "siapa jier socrazy",
+    "name": "私はケモナーが大好きです 🦈",
     "number": "6283873920834",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5535,
+    "exp": 5550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -11705,9 +11705,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-28T14:46:23.626Z",
+    "lastSeen": "2026-09-22T11:48:44.923Z",
     "cooldowns": {
-      "afk": 1780883786166,
+      "afk": 1790077726032,
       "redeem": 1781695023569,
       "d": 1782825267162,
       "profil": 1782888981843,
@@ -11729,7 +11729,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 1
   },
   "6285129572748": {
     "jid": "6285129572748",
