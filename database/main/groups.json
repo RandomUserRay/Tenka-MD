@@ -43887,12 +43887,18 @@
   "120363410158713155@g.us": {
     "chatStats": {
       "16063130847@s.whatsapp.net": {
-        "count": 5,
-        "lastChat": 1790078392725,
+        "count": 7,
+        "lastChat": 1790078398635,
         "name": "Zaycuz"
       }
     },
     "jid": "120363410158713155@g.us",
     "name": "Bot gratis"
+  },
+  "120363431878751272@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363431878751272@g.us"
   }
 }
