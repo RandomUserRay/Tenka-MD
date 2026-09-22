@@ -178,7 +178,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135954860,
+    "exp": 135955010,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -187,7 +187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:48:06.634Z",
+    "lastSeen": "2026-09-22T13:49:02.729Z",
     "cooldowns": {
       "profile": 1789060395779,
       "cekfemboy": 1780152179893,
@@ -266,7 +266,8 @@
       "love": 1790084539582,
       "top": 1789207418786,
       "marry": 1789060853853,
-      "ship": 1790084581815
+      "ship": 1790084581815,
+      "tsundere": 1790084944335
     },
     "clanId": null,
     "isRegistered": false,
@@ -805,7 +806,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66378,
+    "exp": 66468,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -814,7 +815,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:47:15.847Z",
+    "lastSeen": "2026-09-22T13:48:31.339Z",
     "cooldowns": {
       "cekfemboy": 1789202387517,
       "femboy": 1790084837749,
@@ -839,7 +840,8 @@
       "cekyandere": 1783059915802,
       "me": 1790084613291,
       "gacha": 1783060299392,
-      "cekganteng": 1785375722553
+      "cekganteng": 1785375722553,
+      "tsundere": 1790084912578
     },
     "clanId": null,
     "isRegistered": false,
@@ -3045,7 +3047,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704906,
+    "exp": 704996,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3077,7 +3079,7 @@
       "fishing": 1782555252495,
       "mine": 1782555255716,
       "heal": 1780402148890,
-      "tsundere": 1780229408283,
+      "tsundere": 1790084904525,
       "cekganteng": 1789201576173,
       "cekmesum": 1780229323038,
       "inv": 1780307135542,
@@ -3284,7 +3286,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29099,
+    "exp": 29174,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3293,10 +3295,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:47:12.012Z",
+    "lastSeen": "2026-09-22T13:49:43.486Z",
     "cooldowns": {
       "warn": 1780459399196,
-      "femboy": 1790084604092,
+      "femboy": 1790084948538,
       "iqc": 1780270490400,
       "work": 1780291964145,
       "ww": 1780402965194,
@@ -3326,11 +3328,12 @@
       "tebakanime": 1785483991770,
       "menucat": 1785484013634,
       "top": 1788076017996,
-      "love": 1790084742426,
+      "love": 1790084925081,
       "s": 1787838292326,
       "pintar": 1788075973103,
       "ytmp4": 1790068762842,
-      "lick": 1790084833590
+      "lick": 1790084833590,
+      "tsundere": 1790084984584
     },
     "clanId": null,
     "isRegistered": false,
@@ -9739,13 +9742,13 @@
   },
   "6281310184404": {
     "name": "Hans",
-    "lastSeen": "2026-09-22T13:48:09.015Z",
+    "lastSeen": "2026-09-22T13:50:03.058Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49665,
+    "exp": 49770,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9773,9 +9776,11 @@
       "s": 1787835436512,
       "topixel": 1787840678402,
       "ut": 1790003909468,
-      "love": 1790084854220,
+      "love": 1790084911342,
       "lick": 1790084812633,
-      "kiss": 1790084890599
+      "kiss": 1790084890599,
+      "tsundere": 1790084976165,
+      "femboy": 1790085005188
     },
     "clanId": null,
     "isRegistered": false,
@@ -96229,7 +96234,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7545,
+    "exp": 7590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96239,7 +96244,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:48:14.204Z",
+    "lastSeen": "2026-09-22T13:49:36.163Z",
     "cooldowns": {
       "afk": 1789997017575,
       "play": 1790079971834,
@@ -96259,14 +96264,15 @@
       "bank": 1789119647649,
       "cekyandere": 1789201775838,
       "cekimut": 1790084875085,
-      "d": 1790084894432,
+      "d": 1790084930578,
       "mutegc": 1789906948972,
       "pin": 1790069616897,
       "pat": 1789909412342,
       "unmute": 1789936512011,
       "slap": 1790084016014,
       "kiss": 1790084032681,
-      "lick": 1790084444399
+      "lick": 1790084444399,
+      "tsundere": 1790084977023
     },
     "clanId": null,
     "isRegistered": false,
@@ -96528,7 +96534,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 945,
+    "exp": 960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96538,10 +96544,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:44:25.811Z",
+    "lastSeen": "2026-09-22T13:49:52.280Z",
     "cooldowns": {
       "s": 1789992430710,
-      "femboy": 1790084666748
+      "femboy": 1790084666748,
+      "tsundere": 1790084993632
     },
     "clanId": null,
     "isRegistered": false,
@@ -124452,9 +124459,9 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1725,
+    "exp": 1800,
     "name": "Lucky🍀",
-    "lastSeen": "2026-09-22T13:47:13.957Z",
+    "lastSeen": "2026-09-22T13:50:04.023Z",
     "energi": 99997,
     "cooldowns": {
       "s": 1789862868363,
@@ -124465,7 +124472,9 @@
       "sip": 1790083906148,
       "slap": 1790083997011,
       "love": 1790084205612,
-      "gacha": 1790084834103
+      "gacha": 1790084834103,
+      "tsundere": 1790084946346,
+      "femboy": 1790084973457
     },
     "lastActiveDate": "22/9/2026",
     "activeDays": 3
@@ -125068,11 +125077,6 @@
   "6283101493667": {
     "jid": "6283101493667",
     "rpg": {},
-    "exp": 105
-  },
-  "6283850083164": {
-    "jid": "6283850083164",
-    "rpg": {},
-    "exp": 15
+    "exp": 90
   }
 }
