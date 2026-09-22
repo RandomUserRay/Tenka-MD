@@ -3044,7 +3044,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704381,
+    "exp": 704321,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:35:28.841Z",
+    "lastSeen": "2026-09-22T13:35:11.347Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3134,7 +3134,7 @@
       "petshop": 1787973780917,
       "breeding": 1787977386102,
       "ytmp4": 1788011661414,
-      "love": 1790084128948,
+      "love": 1790084111427,
       "top": 1789201880148,
       "dadu": 1788080107307,
       "dice": 1788080130572,
@@ -3283,7 +3283,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28889,
+    "exp": 28874,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3292,7 +3292,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:35:53.093Z",
+    "lastSeen": "2026-09-22T12:48:15.732Z",
     "cooldowns": {
       "warn": 1780459399196,
       "femboy": 1782565985928,
@@ -3325,7 +3325,7 @@
       "tebakanime": 1785483991770,
       "menucat": 1785484013634,
       "top": 1788076017996,
-      "love": 1790084153555,
+      "love": 1787834696857,
       "s": 1787838292326,
       "pintar": 1788075973103,
       "ytmp4": 1790068762842
@@ -9743,7 +9743,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49095,
+    "exp": 49080,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67007,7 +67007,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170670,
+    "exp": 170640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67022,7 +67022,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:35:54.409Z",
+    "lastSeen": "2026-09-22T13:34:17.493Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1790081340216,
@@ -67097,7 +67097,7 @@
       "mencuri": 1786524651261,
       "training": 1790003956393,
       "tolak": 1786714790971,
-      "love": 1790084154505,
+      "love": 1790084057584,
       "cerai": 1789475061902,
       "tutup": 1789476760860,
       "open": 1789478015816,
@@ -124446,7 +124446,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1650,
+    "exp": 1605,
     "name": "Lucky🍀",
     "lastSeen": "2026-09-22T13:32:40.711Z",
     "energi": 99998,
@@ -125061,5 +125061,10 @@
     "jid": "6283101493667",
     "rpg": {},
     "exp": 90
+  },
+  "6283850083164": {
+    "jid": "6283850083164",
+    "rpg": {},
+    "exp": 15
   }
 }
