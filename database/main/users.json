@@ -3044,7 +3044,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704171,
+    "exp": 704186,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T09:36:19.999Z",
+    "lastSeen": "2026-09-22T09:36:36.273Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -11534,7 +11534,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33844,
+    "exp": 33874,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11543,7 +11543,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T09:36:22.597Z",
+    "lastSeen": "2026-09-22T09:36:44.573Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11578,7 +11578,8 @@
       "cekfemboy": 1789135803002,
       "training": 1789213756929,
       "gamble": 1789213794986,
-      "delete": 1790037746811
+      "delete": 1790037746811,
+      "d": 1790069804735
     },
     "clanId": null,
     "isRegistered": false,
