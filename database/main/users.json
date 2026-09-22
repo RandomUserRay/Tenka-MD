@@ -50631,7 +50631,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 605252,
+    "exp": 605267,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -123893,7 +123893,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 13371,
+    "exp": 13386,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-21T14:52:05.783Z",
     "cooldowns": {
@@ -125011,6 +125011,6 @@
   "6281316283843": {
     "jid": "6281316283843",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
