@@ -32687,7 +32687,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62210,
+    "exp": 62225,
     "level": 1,
     "koin": 13334,
     "unlockedFeatures": [],
@@ -32696,7 +32696,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:15:39.899Z",
+    "lastSeen": "2026-09-22T12:16:02.557Z",
     "cooldowns": {
       "brat": 1789475745995,
       "bratimg": 1789475753268,
@@ -32715,7 +32715,7 @@
       "susun": 1783856117060,
       "caklontong": 1783582703845,
       "afk": 1787843915319,
-      "close": 1784385232175,
+      "close": 1790079362929,
       "open": 1784385240557,
       "bratvid2": 1785487345043,
       "s": 1788271057007,
@@ -32794,8 +32794,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 13
   },
   "62895342591003": {
     "jid": "62895342591003",
@@ -124286,7 +124286,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 3780,
+    "exp": 3795,
     "energi": 99998,
     "name": "𝐜hntka",
     "lastSeen": "2026-09-22T08:31:10.586Z",
