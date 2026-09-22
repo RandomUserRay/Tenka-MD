@@ -52407,7 +52407,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5745,
+    "exp": 5715,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -52416,12 +52416,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:15:05.818Z",
+    "lastSeen": "2026-09-20T23:00:07.617Z",
     "cooldowns": {
       "level": 1786274729221,
       "play": 1789945216457,
-      "menu": 1790079304101,
-      "allmenu": 1790079306367,
+      "menu": 1789945104660,
+      "allmenu": 1789945126381,
       "jadibot": 1788645040104,
       "mywaifu": 1788671319802,
       "asupan": 1788671362447,
@@ -52438,8 +52438,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 4
   },
   "6285796011776": {
     "name": "Samtek Kecap",
@@ -96224,7 +96224,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7140,
+    "exp": 7170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123897,7 +123897,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14601,
+    "exp": 14526,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
