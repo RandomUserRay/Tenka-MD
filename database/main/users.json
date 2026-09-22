@@ -3291,7 +3291,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29189,
+    "exp": 29174,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3300,7 +3300,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T15:31:04.689Z",
+    "lastSeen": "2026-09-22T13:49:43.486Z",
     "cooldowns": {
       "warn": 1780459399196,
       "femboy": 1790084948538,
@@ -3327,7 +3327,7 @@
       "deposit": 1782621147083,
       "me": 1782621989154,
       "kiss": 1790084680439,
-      "afk": 1790091067032,
+      "afk": 1785243115252,
       "tebakanimechar": 1785308632873,
       "naruto": 1785308604121,
       "tebakanime": 1785483991770,
@@ -9041,12 +9041,12 @@
   },
   "6285269347469": {
     "jid": "6285269347469",
-    "name": "raa",
+    "name": "lana del rey",
     "number": "6285269347469",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3735,
+    "exp": 3720,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9055,10 +9055,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T15:31:16.799Z",
+    "lastSeen": "2026-09-16T22:40:20.198Z",
     "cooldowns": {
       "menu": 1789300613562,
-      "tt": 1790091080917,
+      "tt": 1789574425261,
       "tt2": 1781508210406,
       "menucat": 1781708961796,
       "femboy": 1781708999979,
@@ -9075,8 +9075,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 3
   },
   "6281545193126": {
     "jid": "6281545193126",
@@ -124957,10 +124957,10 @@
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
-    "exp": 885,
+    "exp": 900,
     "energi": 99982,
     "name": "~`MBG JAKARTA TIMUR",
-    "lastSeen": "2026-09-22T14:55:01.182Z",
+    "lastSeen": "2026-09-22T15:31:40.822Z",
     "cooldowns": {
       "del": 1790087484466,
       "music": 1790087491634,
@@ -125116,13 +125116,13 @@
     "rpg": {},
     "exp": 90
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15
   }
