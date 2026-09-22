@@ -125028,7 +125028,11 @@
     "energi": 99997,
     "name": "SIPALING",
     "lastSeen": "2026-09-22T15:17:02.373Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "ytmp4": 1790090231013
+    },
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 1
   },
   "6285705153936": {
     "jid": "6285705153936",
