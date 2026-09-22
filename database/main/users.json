@@ -3041,10 +3041,10 @@
     "jid": "6285240302212",
     "name": "cihuyyy",
     "number": "6285240302212",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704246,
+    "exp": 704216,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:49:28.867Z",
+    "lastSeen": "2026-09-22T11:21:00.180Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3088,7 +3088,7 @@
       "menu": 1785599212528,
       "tf": 1782461497203,
       "adventure": 1780401640145,
-      "smeme": 1790081376277,
+      "smeme": 1788096490146,
       "transfer": 1788080585092,
       "me": 1789904823362,
       "tarik": 1780903358064,
@@ -3460,7 +3460,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 426002,
+    "exp": 425987,
     "level": 1,
     "koin": 15300,
     "unlockedFeatures": [],
@@ -6298,7 +6298,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4425,
+    "exp": 4410,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35291,7 +35291,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008952,
+    "exp": 1008982,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -67003,10 +67003,10 @@
     "jid": "6283135864303",
     "name": "Dio Brando",
     "number": "6283135864303",
-    "energi": 99993,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170640,
+    "exp": 170595,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67021,10 +67021,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:50:40.749Z",
+    "lastSeen": "2026-09-22T12:48:59.386Z",
     "cooldowns": {
       "afk": 1789997097920,
-      "s": 1790081441515,
+      "s": 1790081340216,
       "play": 1789982437541,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -124422,12 +124422,12 @@
   "6282116747451": {
     "jid": "6282116747451",
     "rpg": {},
-    "exp": 180,
-    "energi": 99996,
+    "exp": 165,
+    "energi": 99997,
     "name": "takashi mitshuashi",
-    "lastSeen": "2026-09-22T12:49:30.043Z",
+    "lastSeen": "2026-09-22T12:48:59.560Z",
     "cooldowns": {
-      "s": 1790081371099
+      "s": 1790081340356
     },
     "lastActiveDate": "22/9/2026",
     "activeDays": 1
@@ -124443,19 +124443,19 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1455,
+    "exp": 1425,
     "name": "Lucky🍀",
-    "lastSeen": "2026-09-22T12:49:29.880Z",
-    "energi": 99998,
+    "lastSeen": "2026-09-21T15:06:55.398Z",
+    "energi": 99999,
     "cooldowns": {
-      "s": 1790081370706,
+      "s": 1789862868363,
       "afk": 1789964613111,
       "play": 1789981620518,
       "level": 1790003215490,
       "me": 1790003270501
     },
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "21/9/2026",
+    "activeDays": 2
   },
   "6285814571034": {
     "jid": "6285814571034",
@@ -125043,5 +125043,10 @@
     "jid": "6283172085030",
     "rpg": {},
     "exp": 45
+  },
+  "6283101493667": {
+    "jid": "6283101493667",
+    "rpg": {},
+    "exp": 15
   }
 }
