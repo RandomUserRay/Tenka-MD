@@ -1799,7 +1799,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 648684,
+    "exp": 648759,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -5330,7 +5330,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33916,
+    "exp": 33901,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -35291,7 +35291,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1008697,
+    "exp": 1008667,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -36100,7 +36100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 229505,
+    "exp": 229460,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -96221,10 +96221,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99997,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7140,
+    "exp": 7200,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96234,7 +96234,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T09:36:12.991Z",
+    "lastSeen": "2026-09-22T12:04:21.059Z",
     "cooldowns": {
       "afk": 1789997017575,
       "play": 1789984467343,
@@ -96257,8 +96257,10 @@
       "d": 1789982171081,
       "mutegc": 1789906948972,
       "pin": 1790069616897,
-      "pat": 1789909412342,
-      "unmute": 1789936512011
+      "pat": 1790078662415,
+      "unmute": 1789936512011,
+      "hug": 1790078466684,
+      "slap": 1790078498493
     },
     "clanId": null,
     "isRegistered": false,
@@ -101400,7 +101402,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105776,7 +105778,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4050,
+    "exp": 3975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111560,7 +111562,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231617,
+    "exp": 231587,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111570,7 +111572,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:01:34.775Z",
+    "lastSeen": "2026-09-22T11:37:39.326Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1790076762750,
@@ -111666,7 +111668,7 @@
       "afk": 1789905620754,
       "antijudol": 1789730057095,
       "antidocument": 1789730085890,
-      "close": 1790078485002,
+      "close": 1789730222871,
       "open": 1789731873252,
       "giveaway": 1789730292706,
       "ht": 1789730369485,
@@ -111849,7 +111851,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17166,
+    "exp": 17136,
     "level": 1,
     "koin": 55999,
     "saldo": 0,
@@ -123897,7 +123899,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14271,
+    "exp": 14211,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
@@ -124436,9 +124438,9 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1245,
+    "exp": 1380,
     "name": "Lucky🍀",
-    "lastSeen": "2026-09-21T15:06:55.398Z",
+    "lastSeen": "2026-09-22T12:01:24.757Z",
     "energi": 99999,
     "cooldowns": {
       "s": 1789862868363,
@@ -124866,9 +124868,9 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 510,
+    "exp": 450,
     "name": "śťāř",
-    "lastSeen": "2026-09-22T12:02:45.540Z",
+    "lastSeen": "2026-09-21T13:02:38.568Z",
     "cooldowns": {
       "play": 1789977160710,
       "del": 1789995688023,
@@ -124977,7 +124979,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 1785,
+    "exp": 1770,
     "energi": 99999
   },
   "6285650881944": {
@@ -125031,10 +125033,5 @@
     "jid": "6287722742533",
     "rpg": {},
     "exp": 45
-  },
-  "6283172085030": {
-    "jid": "6283172085030",
-    "rpg": {},
-    "exp": 15
   }
 }
