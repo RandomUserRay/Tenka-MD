@@ -9737,13 +9737,13 @@
   },
   "6281310184404": {
     "name": "Hans",
-    "lastSeen": "2026-09-21T15:18:26.721Z",
+    "lastSeen": "2026-09-22T13:33:56.101Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49050,
+    "exp": 49080,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9770,7 +9770,8 @@
       "steal": 1787748311411,
       "s": 1787835436512,
       "topixel": 1787840678402,
-      "ut": 1790003909468
+      "ut": 1790003909468,
+      "love": 1790084036226
     },
     "clanId": null,
     "isRegistered": false,
@@ -9792,8 +9793,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 2
   },
   "6285779062752": {
     "jid": "6285779062752",
@@ -67006,7 +67007,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170625,
+    "exp": 170640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67021,7 +67022,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:25:50.475Z",
+    "lastSeen": "2026-09-22T13:34:17.493Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1790081340216,
@@ -67096,7 +67097,7 @@
       "mencuri": 1786524651261,
       "training": 1790003956393,
       "tolak": 1786714790971,
-      "love": 1790083550560,
+      "love": 1790084057584,
       "cerai": 1789475061902,
       "tutup": 1789476760860,
       "open": 1789478015816,
@@ -90241,7 +90242,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18810,
+    "exp": 18825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96221,10 +96222,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7350,
+    "exp": 7395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96234,7 +96235,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:26:02.356Z",
+    "lastSeen": "2026-09-22T13:34:05.399Z",
     "cooldowns": {
       "afk": 1789997017575,
       "play": 1790079971834,
@@ -96254,11 +96255,13 @@
       "bank": 1789119647649,
       "cekyandere": 1789201775838,
       "cekimut": 1789201609278,
-      "d": 1789982171081,
+      "d": 1790084045549,
       "mutegc": 1789906948972,
       "pin": 1790069616897,
       "pat": 1789909412342,
-      "unmute": 1789936512011
+      "unmute": 1789936512011,
+      "slap": 1790084016014,
+      "kiss": 1790084032681
     },
     "clanId": null,
     "isRegistered": false,
@@ -124443,7 +124446,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1545,
+    "exp": 1605,
     "name": "Lucky🍀",
     "lastSeen": "2026-09-22T13:32:40.711Z",
     "energi": 99998,
@@ -124875,7 +124878,7 @@
   "6282384159483": {
     "jid": "6282384159483",
     "rpg": {},
-    "exp": 555,
+    "exp": 540,
     "name": "śťāř",
     "lastSeen": "2026-09-22T12:02:45.540Z",
     "cooldowns": {
