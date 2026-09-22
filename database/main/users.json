@@ -96221,10 +96221,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7350,
+    "exp": 7365,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96234,7 +96234,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:26:02.356Z",
+    "lastSeen": "2026-09-22T13:33:33.812Z",
     "cooldowns": {
       "afk": 1789997017575,
       "play": 1790079971834,
@@ -96258,7 +96258,8 @@
       "mutegc": 1789906948972,
       "pin": 1790069616897,
       "pat": 1789909412342,
-      "unmute": 1789936512011
+      "unmute": 1789936512011,
+      "slap": 1790084016014
     },
     "clanId": null,
     "isRegistered": false,
@@ -124443,7 +124444,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1545,
+    "exp": 1560,
     "name": "Lucky🍀",
     "lastSeen": "2026-09-22T13:32:40.711Z",
     "energi": 99998,
