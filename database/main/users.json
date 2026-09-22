@@ -68011,7 +68011,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3270,
+    "exp": 3285,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105171,7 +105171,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51060,
+    "exp": 51015,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105181,14 +105181,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T15:49:40.468Z",
+    "lastSeen": "2026-09-22T15:47:22.466Z",
     "cooldowns": {
       "menu": 1790092047176,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
       "close": 1789999282554,
-      "open": 1790092181384,
+      "open": 1789524830247,
       "bratbahlil": 1788623947058,
       "mutegc": 1789482646036,
       "game": 1789007890139,
@@ -105406,7 +105406,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45,
+    "exp": 30,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123931,7 +123931,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 15336,
+    "exp": 15276,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
@@ -124322,7 +124322,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 4095,
+    "exp": 4065,
     "energi": 99998,
     "name": "𝐜hntka",
     "lastSeen": "2026-09-22T08:31:10.586Z",
@@ -125116,13 +125116,13 @@
     "rpg": {},
     "exp": 90
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15
   }
