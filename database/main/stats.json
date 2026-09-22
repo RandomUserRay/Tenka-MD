@@ -1,6 +1,6 @@
 {
   "commandErrors": 639,
-  "commandsExecuted": 125522,
+  "commandsExecuted": 125523,
   "command_totalchat": 26,
   "command_menu": 2027,
   "command_fb": 5,
@@ -1394,5 +1394,6 @@
   "command_mute": 1,
   "command_unreg": 1,
   "command_ownerutama": 29,
-  "command_imgtoprompt": 1
+  "command_imgtoprompt": 1,
+  "command_swhd": 1
 }
