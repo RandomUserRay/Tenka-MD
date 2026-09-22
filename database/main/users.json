@@ -111594,7 +111594,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231617,
+    "exp": 231632,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111604,7 +111604,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:01:34.775Z",
+    "lastSeen": "2026-09-22T22:16:53.821Z",
     "cooldowns": {
       "owner": 1788877900944,
       "totalchat": 1790076762750,
@@ -111701,7 +111701,7 @@
       "antijudol": 1789730057095,
       "antidocument": 1789730085890,
       "close": 1790078485002,
-      "open": 1789731873252,
+      "open": 1790115414499,
       "giveaway": 1789730292706,
       "ht": 1789730369485,
       "jadwalgroup": 1789945109271,
@@ -111815,8 +111815,8 @@
       "koran": 3
     },
     "access": [],
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 10,
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 11,
     "fun": {
       "tembakTarget": "6285150979843@s.whatsapp.net",
       "tembakCount": 1
@@ -125126,14 +125126,14 @@
     "exp": 90,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
