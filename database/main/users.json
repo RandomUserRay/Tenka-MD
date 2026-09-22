@@ -3044,7 +3044,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704216,
+    "exp": 704231,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T11:21:00.180Z",
+    "lastSeen": "2026-09-22T13:25:36.694Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3134,7 +3134,7 @@
       "petshop": 1787973780917,
       "breeding": 1787977386102,
       "ytmp4": 1788011661414,
-      "love": 1789996919024,
+      "love": 1790083537647,
       "top": 1789201880148,
       "dadu": 1788080107307,
       "dice": 1788080130572,
@@ -41132,10 +41132,10 @@
     "jid": "6282193635458",
     "name": "Who_Alzz?",
     "number": "6282193635458",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283889,
+    "exp": 283904,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41146,7 +41146,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T02:46:26.941Z",
+    "lastSeen": "2026-09-22T13:25:47.500Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
@@ -41181,7 +41181,7 @@
       "toaudio": 1786547961957,
       "blown": 1788269762393,
       "allmenu": 1785638767615,
-      "tts": 1789823547982,
+      "tts": 1790083559510,
       "p": 1785996577281,
       "fast": 1784190558212,
       "tohd": 1788418811205,
@@ -67006,7 +67006,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170610,
+    "exp": 170625,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67021,7 +67021,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T12:48:59.386Z",
+    "lastSeen": "2026-09-22T13:25:50.475Z",
     "cooldowns": {
       "afk": 1789997097920,
       "s": 1790081340216,
@@ -67096,7 +67096,7 @@
       "mencuri": 1786524651261,
       "training": 1790003956393,
       "tolak": 1786714790971,
-      "love": 1789989100221,
+      "love": 1790083550560,
       "cerai": 1789475061902,
       "tutup": 1789476760860,
       "open": 1789478015816,
@@ -90387,7 +90387,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36855,
+    "exp": 36870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124990,8 +124990,15 @@
   "6285650881944": {
     "jid": "6285650881944",
     "rpg": {},
-    "exp": 330,
-    "energi": 99999
+    "exp": 375,
+    "energi": 99999,
+    "name": "Srh",
+    "lastSeen": "2026-09-22T13:25:51.093Z",
+    "cooldowns": {
+      "love": 1790083551163
+    },
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 1
   },
   "601124155896": {
     "jid": "601124155896",
