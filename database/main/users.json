@@ -3044,7 +3044,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704261,
+    "exp": 704276,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3283,7 +3283,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28844,
+    "exp": 28874,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -124443,16 +124443,17 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1515,
+    "exp": 1530,
     "name": "Lucky🍀",
-    "lastSeen": "2026-09-22T13:26:29.851Z",
-    "energi": 99999,
+    "lastSeen": "2026-09-22T13:31:43.663Z",
+    "energi": 99998,
     "cooldowns": {
       "s": 1789862868363,
       "afk": 1790083591690,
       "play": 1789981620518,
       "level": 1790003215490,
-      "me": 1790003270501
+      "me": 1790003270501,
+      "sip": 1790083906148
     },
     "lastActiveDate": "22/9/2026",
     "activeDays": 3
