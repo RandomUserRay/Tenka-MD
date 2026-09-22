@@ -178,7 +178,7 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135954185,
+    "exp": 135954335,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -187,7 +187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:40:57.117Z",
+    "lastSeen": "2026-09-22T13:42:19.501Z",
     "cooldowns": {
       "profile": 1789060395779,
       "cekfemboy": 1780152179893,
@@ -263,7 +263,7 @@
       "benefitpremium": 1783609854537,
       "ganteng": 1783610501961,
       "gay": 1783610493669,
-      "love": 1790084443422,
+      "love": 1790084539582,
       "top": 1789207418786,
       "marry": 1789060853853
     },
@@ -3044,7 +3044,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704591,
+    "exp": 704606,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T13:40:14.602Z",
+    "lastSeen": "2026-09-22T13:42:18.739Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3134,7 +3134,7 @@
       "petshop": 1787973780917,
       "breeding": 1787977386102,
       "ytmp4": 1788011661414,
-      "love": 1790084370092,
+      "love": 1790084538828,
       "top": 1789201880148,
       "dadu": 1788080107307,
       "dice": 1788080130572,
@@ -9737,13 +9737,13 @@
   },
   "6281310184404": {
     "name": "Hans",
-    "lastSeen": "2026-09-22T13:37:49.382Z",
+    "lastSeen": "2026-09-22T13:41:33.607Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49350,
+    "exp": 49395,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9771,7 +9771,7 @@
       "s": 1787835436512,
       "topixel": 1787840678402,
       "ut": 1790003909468,
-      "love": 1790084269463
+      "love": 1790084493692
     },
     "clanId": null,
     "isRegistered": false,
@@ -46817,7 +46817,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180210,
+    "exp": 180195,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -125063,10 +125063,5 @@
     "jid": "6283101493667",
     "rpg": {},
     "exp": 90
-  },
-  "6283850083164": {
-    "jid": "6283850083164",
-    "rpg": {},
-    "exp": 15
   }
 }
