@@ -102611,7 +102611,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 317330,
+    "exp": 317405,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -105807,10 +105807,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4215,
+    "exp": 4185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105820,12 +105820,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T14:32:27.554Z",
+    "lastSeen": "2026-09-22T14:22:21.270Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
-      "play": 1790087562262,
+      "play": 1789976541275,
       "antispam": 1789976384040,
       "antitagsw": 1789564491360,
       "antitoxic": 1789566319513,
@@ -124957,7 +124957,7 @@
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
-    "exp": 495,
+    "exp": 480,
     "energi": 99999,
     "name": "~`MBG JAKARTA TIMUR",
     "lastSeen": "2026-09-22T14:31:31.521Z",
@@ -125107,13 +125107,13 @@
     "rpg": {},
     "exp": 90
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15
   }
