@@ -54244,7 +54244,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15081,
+    "exp": 15021,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -101400,7 +101400,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102337,12 +102337,12 @@
   },
   "16063130847": {
     "jid": "16063130847",
-    "name": "Zaycuz",
+    "name": "Zay",
     "number": "16063130847",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 212945,
+    "exp": 212870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102352,7 +102352,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T11:56:52.425Z",
+    "lastSeen": "2026-09-16T10:11:09.012Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1789135227735,
@@ -102374,8 +102374,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "16/9/2026",
+    "activeDays": 7
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
@@ -124977,7 +124977,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 1755,
+    "exp": 1770,
     "energi": 99999
   },
   "6285650881944": {
