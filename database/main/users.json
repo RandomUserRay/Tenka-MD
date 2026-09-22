@@ -3041,10 +3041,10 @@
     "jid": "6285240302212",
     "name": "cihuyyy",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703931,
+    "exp": 703946,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T13:21:58.949Z",
+    "lastSeen": "2026-09-22T09:19:12.296Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3111,7 +3111,7 @@
       "onlynsfw": 1782917368455,
       "redeem": 1783176436583,
       "job": 1782983146136,
-      "play": 1788089275577,
+      "play": 1790068768809,
       "tebaknegara": 1787747090717,
       "kicks": 1782998068424,
       "cekkhodam": 1783062546427,
@@ -3187,8 +3187,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 11,
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 12,
     "fun": {}
   },
   "6283171708445": {
@@ -3278,12 +3278,12 @@
   },
   "6285184199867": {
     "jid": "6285184199867",
-    "name": "hanip4g",
+    "name": "hanip suka sayur",
     "number": "6285184199867",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28589,
+    "exp": 28619,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3292,7 +3292,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T07:46:47.997Z",
+    "lastSeen": "2026-09-22T09:19:20.088Z",
     "cooldowns": {
       "warn": 1780459399196,
       "femboy": 1782565985928,
@@ -3327,7 +3327,8 @@
       "top": 1788076017996,
       "love": 1787834696857,
       "s": 1787838292326,
-      "pintar": 1788075973103
+      "pintar": 1788075973103,
+      "ytmp4": 1790068762842
     },
     "clanId": null,
     "isRegistered": false,
@@ -3351,8 +3352,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "30/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 2
   },
   "6287791971477": {
     "jid": "6287791971477",
@@ -124979,7 +124980,7 @@
   "6285650881944": {
     "jid": "6285650881944",
     "rpg": {},
-    "exp": 270,
+    "exp": 300,
     "energi": 99999
   },
   "601124155896": {
@@ -125012,10 +125013,5 @@
     "jid": "6281316283843",
     "rpg": {},
     "exp": 45
-  },
-  "6285178264340": {
-    "jid": "6285178264340",
-    "rpg": {},
-    "exp": 60
   }
 }
