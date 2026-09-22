@@ -3041,10 +3041,10 @@
     "jid": "6285240302212",
     "name": "cihuyyy",
     "number": "6285240302212",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703946,
+    "exp": 703931,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3053,7 +3053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T09:19:12.296Z",
+    "lastSeen": "2026-09-21T13:21:58.949Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3283,7 +3283,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28604,
+    "exp": 28589,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -124979,7 +124979,7 @@
   "6285650881944": {
     "jid": "6285650881944",
     "rpg": {},
-    "exp": 300,
+    "exp": 270,
     "energi": 99999
   },
   "601124155896": {
@@ -125012,5 +125012,10 @@
     "jid": "6281316283843",
     "rpg": {},
     "exp": 45
+  },
+  "6285178264340": {
+    "jid": "6285178264340",
+    "rpg": {},
+    "exp": 60
   }
 }
