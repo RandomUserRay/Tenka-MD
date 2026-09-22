@@ -28585,10 +28585,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295961,
+    "exp": 295946,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28599,7 +28599,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T09:48:19.127Z",
+    "lastSeen": "2026-09-22T08:09:16.465Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28621,7 +28621,7 @@
       "gay": 1787572878163,
       "pacar": 1784201941735,
       "totalchat": 1782826027803,
-      "play": 1790070507578,
+      "play": 1789998921823,
       "vibrato": 1782826160323,
       "afk": 1789213512123,
       "robot": 1788269885007,
@@ -125018,11 +125018,11 @@
   "6285178264340": {
     "jid": "6285178264340",
     "rpg": {},
-    "exp": 210
+    "exp": 240
   },
   "6287794622589": {
     "jid": "6287794622589",
     "rpg": {},
-    "exp": 75
+    "exp": 105
   }
 }
