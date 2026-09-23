@@ -98461,7 +98461,9 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "lastSeen": "2026-09-23T19:01:27.114Z",
-    "cooldowns": {},
+    "cooldowns": {
+      "play": 1790190099214
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -98469,7 +98471,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 1
   },
   "6283139500330": {
     "jid": "6283139500330",
