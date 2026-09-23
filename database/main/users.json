@@ -16026,10 +16026,10 @@
     "jid": "6285753061976",
     "name": "ody",
     "number": "6285753061976",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9391727,
+    "exp": 9391802,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16038,7 +16038,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T01:18:13.912Z",
+    "lastSeen": "2026-09-23T01:57:24.950Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16078,7 +16078,7 @@
       "luck": 1782817335197,
       "inv": 1785493786543,
       "job": 1783043875663,
-      "ai": 1786876169002,
+      "ai": 1790128647733,
       "inspect": 1782863165965,
       "playtiktok": 1782863273684,
       "tiktok": 1783004775102,
@@ -16321,8 +16321,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 22
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 23
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -125147,14 +125147,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
