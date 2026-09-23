@@ -90012,7 +90012,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7470,
+    "exp": 7485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90022,7 +90022,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T17:54:46.517Z",
+    "lastSeen": "2026-09-23T18:04:25.647Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90054,7 +90054,8 @@
       "tiktok": 1787032295449,
       "ttmp3": 1787032303802,
       "tt": 1790175879359,
-      "pixiv": 1790153020256
+      "pixiv": 1790153020256,
+      "limit": 1790186665778
     },
     "clanId": null,
     "isRegistered": false,
@@ -93872,7 +93873,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5520,
+    "exp": 5535,
     "level": 1,
     "koin": 0,
     "saldo": 0,
