@@ -16026,10 +16026,10 @@
     "jid": "6285753061976",
     "name": "ody",
     "number": "6285753061976",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9393077,
+    "exp": 9393152,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16038,7 +16038,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T01:57:51.291Z",
+    "lastSeen": "2026-09-23T08:23:33.682Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16263,7 +16263,8 @@
       "rtrapvid": 1789488781046,
       "trapvid": 1789490180246,
       "pp": 1789638943460,
-      "hitamkan": 1789638958789
+      "hitamkan": 1789638958789,
+      "rvo": 1790151813958
     },
     "clanId": null,
     "isRegistered": false,
@@ -125076,7 +125077,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 2550,
+    "exp": 2520,
     "energi": 99999
   },
   "6285650881944": {
@@ -125161,14 +125162,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
