@@ -16030,7 +16030,7 @@
     "energi": 99990,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9394277,
+    "exp": 9394352,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -35308,10 +35308,10 @@
     "jid": "6282131144804",
     "name": "radit maendra",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1010452,
+    "exp": 1010467,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -35320,7 +35320,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T14:47:26.944Z",
+    "lastSeen": "2026-09-23T11:04:28.358Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35500,7 +35500,8 @@
       "spek": 1789547873884,
       "truth": 1789986424263,
       "dare": 1789922933552,
-      "gombal": 1790001576761
+      "gombal": 1790001576761,
+      "iqc": 1790161470650
     },
     "clanId": null,
     "isRegistered": false,
@@ -35567,8 +35568,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 13
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -123978,7 +123979,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 16701,
+    "exp": 16731,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-23T11:04:13.229Z",
     "cooldowns": {
@@ -125005,7 +125006,7 @@
   "6282310851097": {
     "jid": "6282310851097",
     "rpg": {},
-    "exp": 975,
+    "exp": 990,
     "energi": 99994,
     "name": "~`MBG KALIMANTAN",
     "lastSeen": "2026-09-23T11:03:57.533Z",
