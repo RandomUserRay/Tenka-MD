@@ -6747,7 +6747,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62255,
+    "exp": 62240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -6756,7 +6756,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T07:55:13.188Z",
+    "lastSeen": "2026-09-22T22:14:09.010Z",
     "cooldowns": {
       "me": 1786371480628,
       "menu": 1786005735452,
@@ -6781,7 +6781,7 @@
       "play": 1786716154964,
       "spoiler": 1783146354298,
       "tovideo": 1783212704311,
-      "tutup": 1790150113736,
+      "tutup": 1790115249867,
       "buka": 1784908976585,
       "tt": 1783320758055,
       "kick": 1784699314116,
@@ -51612,7 +51612,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1063900,
+    "exp": 1063915,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96265,7 +96265,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8145,
+    "exp": 8130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102229,14 +102229,14 @@
     "access": []
   },
   "628981194866": {
-    "name": "\"{★}\"『𝑨𝒖𝒇𝒂✩𝑱𝒖𝒏𝒊𝒐𝒓』\"{★}\"",
-    "lastSeen": "2026-09-22T06:58:19.182Z",
+    "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
+    "lastSeen": "2026-09-23T07:56:43.365Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15049,
+    "exp": 15064,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102247,7 +102247,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1790060300524,
+      "afk": 1790150204987,
       "d": 1789552947868,
       "mutegc": 1788165687980,
       "ytmp4": 1788246763277,
@@ -102335,8 +102335,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 19
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 20
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -125159,14 +125159,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -125246,6 +125246,11 @@
   },
   "6285846053543": {
     "jid": "6285846053543",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285143429736": {
+    "jid": "6285143429736",
     "rpg": {},
     "exp": 15
   }
