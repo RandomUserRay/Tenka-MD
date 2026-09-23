@@ -26554,7 +26554,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 168906,
+    "exp": 168876,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -41158,7 +41158,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 283919,
+    "exp": 283904,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67028,10 +67028,10 @@
     "jid": "6283135864303",
     "name": "Dio Brando",
     "number": "6283135864303",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170775,
+    "exp": 170760,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67046,10 +67046,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T12:57:44.778Z",
+    "lastSeen": "2026-09-22T13:55:58.045Z",
     "cooldowns": {
       "afk": 1790085359518,
-      "s": 1790168265596,
+      "s": 1790081340216,
       "play": 1789982437541,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -67179,8 +67179,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 13
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -107033,7 +107033,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9315,
+    "exp": 9330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
