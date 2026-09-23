@@ -72787,7 +72787,7 @@
     "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15675,
+    "exp": 15660,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101974,10 +101974,10 @@
     "jid": "6282177721525",
     "name": "ryan",
     "number": "6282177721525",
-    "energi": 99981,
+    "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6360,
+    "exp": 6315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101987,11 +101987,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T04:23:27.019Z",
+    "lastSeen": "2026-09-23T04:19:10.691Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789911450366,
-      "play": 1790137405381,
+      "play": 1790137159128,
       "afk": 1790038153621,
       "lvl": 1789798783924,
       "bratimg": 1790137044291,
@@ -124781,16 +124781,17 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "name": "aiko",
-    "lastSeen": "2026-09-22T00:39:50.615Z",
+    "lastSeen": "2026-09-23T04:23:46.679Z",
     "cooldowns": {
       "intro": 1789781408136,
-      "s": 1790037591461
+      "s": 1790037591461,
+      "ytmp4": 1790137429180
     },
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 3,
-    "energi": 99999
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 4,
+    "energi": 99997
   },
   "6285124236521": {
     "jid": "6285124236521",
@@ -125148,14 +125149,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
