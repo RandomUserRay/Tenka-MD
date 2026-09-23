@@ -33739,7 +33739,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 88862,
+    "exp": 88877,
     "level": 1,
     "koin": 348555,
     "unlockedFeatures": [],
@@ -33748,7 +33748,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T11:46:54.216Z",
+    "lastSeen": "2026-09-23T12:25:08.889Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
@@ -33778,7 +33778,8 @@
       "use": 1789461019322,
       "s": 1789477363907,
       "wm": 1789477476451,
-      "tt": 1789559649703
+      "tt": 1789559649703,
+      "owner": 1790166309275
     },
     "clanId": null,
     "isRegistered": false,
@@ -33802,8 +33803,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 10
   },
   "6289529231434": {
     "jid": "6289529231434",
