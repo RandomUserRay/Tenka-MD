@@ -337,7 +337,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53860,
+    "exp": 53845,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -346,9 +346,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T09:23:33.113Z",
+    "lastSeen": "2026-09-22T09:57:25.957Z",
     "cooldowns": {
-      "afk": 1790155415008,
+      "afk": 1786716716848,
       "s": 1790071047057,
       "femboy": 1789395584644,
       "daily": 1780385975656,
@@ -424,8 +424,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 13
+    "lastActiveDate": "22/9/2026",
+    "activeDays": 12
   },
   "6285366861793": {
     "jid": "6285366861793",
@@ -16030,7 +16030,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 9393452,
+    "exp": 9393902,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16039,7 +16039,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T08:41:33.912Z",
+    "lastSeen": "2026-09-23T09:23:46.183Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -34246,7 +34246,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 286515,
+    "exp": 286620,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50656,7 +50656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 606767,
+    "exp": 606917,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -112006,7 +112006,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17280,
+    "exp": 17295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123972,7 +123972,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 15861,
+    "exp": 16056,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
@@ -125085,7 +125085,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 2580,
+    "exp": 2910,
     "energi": 99999
   },
   "6285650881944": {
@@ -125170,14 +125170,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
