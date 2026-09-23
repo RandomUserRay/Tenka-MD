@@ -105189,7 +105189,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51345,
+    "exp": 51360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105199,13 +105199,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T15:57:12.483Z",
+    "lastSeen": "2026-09-23T03:58:57.635Z",
     "cooldowns": {
       "menu": 1790092047176,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
-      "close": 1789999282554,
+      "close": 1790135938828,
       "open": 1790092181384,
       "bratbahlil": 1788623947058,
       "mutegc": 1789482646036,
@@ -105279,8 +105279,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 15
   },
   "6285859080403": {
     "jid": "6285859080403",
