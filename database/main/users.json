@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-23T08:36:54.454Z",
+    "lastSeen": "2026-09-23T08:27:52.478Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000096909,
+    "exp": 9000096759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -90001,10 +90001,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99988,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7110,
+    "exp": 7080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90014,7 +90014,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T08:37:13.208Z",
+    "lastSeen": "2026-09-23T08:35:57.133Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90046,7 +90046,7 @@
       "tiktok": 1787032295449,
       "ttmp3": 1787032303802,
       "tt": 1790150075606,
-      "pixiv": 1790152634557
+      "pixiv": 1790152561048
     },
     "clanId": null,
     "isRegistered": false,
@@ -93864,7 +93864,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5340,
+    "exp": 5310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101986,7 +101986,7 @@
     "energi": 99976,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6780,
+    "exp": 6810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101996,7 +101996,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T04:40:50.253Z",
+    "lastSeen": "2026-09-23T08:36:48.415Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789911450366,
@@ -102008,7 +102008,8 @@
       "pin": 1789916576191,
       "jadwalmakan": 1789916915747,
       "ytmp4": 1790137455291,
-      "s": 1790138451237
+      "s": 1790138451237,
+      "jadwaltidur": 1790152608535
     },
     "clanId": null,
     "isRegistered": false,
@@ -123570,17 +123571,20 @@
   "6285656085945": {
     "jid": "6285656085945",
     "rpg": {},
-    "exp": 180,
+    "exp": 240,
     "energi": 99997,
     "name": "Keyrox",
-    "lastSeen": "2026-09-23T08:01:17.583Z",
+    "lastSeen": "2026-09-23T08:37:27.416Z",
     "cooldowns": {
-      "all": 1789993219669,
+      "all": 1790152624559,
       "h": 1789993229038,
       "ht": 1789993236933,
       "brat": 1790029168448,
       "bratimg": 1790029181173,
-      "iqc": 1790150479522
+      "iqc": 1790150479522,
+      "menu": 1790152634469,
+      "owner": 1790152637067,
+      "allmenu": 1790152648034
     },
     "lastActiveDate": "23/9/2026",
     "activeDays": 3
@@ -125129,7 +125133,7 @@
   "6281316283843": {
     "jid": "6281316283843",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "energi": 99999
   },
   "6285178264340": {
@@ -125164,14 +125168,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
