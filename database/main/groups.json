@@ -29014,8 +29014,8 @@
         "name": "munoz s.farm"
       },
       "6281262657079@s.whatsapp.net": {
-        "count": 4390,
-        "lastChat": 1790149906867,
+        "count": 4392,
+        "lastChat": 1790149928848,
         "name": "Leon Bethel"
       },
       "62859106778670@s.whatsapp.net": {
@@ -29901,7 +29901,8 @@
     "antiphising": "on",
     "spamAction": "warn",
     "spamLimitCount": 5,
-    "spamLimitTime": 10
+    "spamLimitTime": 10,
+    "antitagsw": "on"
   },
   "120363430431974499@g.us": {
     "welcome": false,
