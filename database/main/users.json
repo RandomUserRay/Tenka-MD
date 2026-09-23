@@ -105189,7 +105189,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51405,
+    "exp": 51435,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105199,7 +105199,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T04:00:34.185Z",
+    "lastSeen": "2026-09-23T04:01:44.676Z",
     "cooldowns": {
       "menu": 1790092047176,
       "owner": 1788775980116,
@@ -105261,7 +105261,8 @@
       "level": 1789532990381,
       "cektsundere": 1789289725833,
       "asahotak": 1790092632526,
-      "blockblast": 1789534178168
+      "blockblast": 1789534178168,
+      "resetwelcome": 1790136104729
     },
     "clanId": null,
     "isRegistered": false,
