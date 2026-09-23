@@ -35311,7 +35311,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1010647,
+    "exp": 1010677,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -45211,7 +45211,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45220,10 +45220,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T01:31:48.857Z",
+    "lastSeen": "2026-09-23T11:14:46.034Z",
     "cooldowns": {
-      "menu": 1788521360084,
-      "menucat": 1788393833989
+      "menu": 1790162079659,
+      "menucat": 1790162086090
     },
     "clanId": null,
     "isRegistered": false,
@@ -45234,8 +45234,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "4/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 3
   },
   "6282260901478": {
     "jid": "6282260901478",
@@ -111872,7 +111872,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51825,
+    "exp": 51840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123979,7 +123979,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 16926,
+    "exp": 16971,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-23T11:04:13.229Z",
     "cooldowns": {
@@ -125013,7 +125013,7 @@
     "cooldowns": {
       "del": 1790087484466,
       "music": 1790087491634,
-      "play": 1790161795978,
+      "play": 1790162077313,
       "ytmp4": 1790088474115
     },
     "lastActiveDate": "23/9/2026",
