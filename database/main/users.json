@@ -9754,7 +9754,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50235,
+    "exp": 50220,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34246,7 +34246,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 286725,
+    "exp": 286740,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50657,7 +50657,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 607172,
+    "exp": 607202,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -67028,7 +67028,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170775,
+    "exp": 170760,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -123977,7 +123977,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 16341,
+    "exp": 16356,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
@@ -125175,14 +125175,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -125272,11 +125272,6 @@
   },
   "6281377055378": {
     "jid": "6281377055378",
-    "rpg": {},
-    "exp": 15
-  },
-  "6287794602336": {
-    "jid": "6287794602336",
     "rpg": {},
     "exp": 15
   }
