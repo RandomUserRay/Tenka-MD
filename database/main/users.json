@@ -11712,10 +11712,10 @@
     "jid": "6283873920834",
     "name": "私はケモナーが大好きです 🦈",
     "number": "6283873920834",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5550,
+    "exp": 5580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -11724,13 +11724,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-22T11:48:44.923Z",
+    "lastSeen": "2026-09-23T11:54:26.388Z",
     "cooldowns": {
       "afk": 1790077726032,
       "redeem": 1781695023569,
       "d": 1782825267162,
       "profil": 1782888981843,
-      "play": 1783600161049
+      "play": 1790164484149
     },
     "clanId": null,
     "isRegistered": false,
@@ -11749,8 +11749,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 2
   },
   "6285129572748": {
     "jid": "6285129572748",
@@ -111634,7 +111634,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232082,
+    "exp": 232067,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125178,14 +125178,14 @@
     "exp": 150,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
