@@ -45211,7 +45211,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 750,
+    "exp": 780,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45220,10 +45220,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T11:16:04.523Z",
+    "lastSeen": "2026-09-23T11:16:14.196Z",
     "cooldowns": {
       "menu": 1790162162910,
-      "menucat": 1790162157509,
+      "menucat": 1790162174261,
       "owner": 1790162164599
     },
     "clanId": null,
@@ -123980,7 +123980,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17016,
+    "exp": 17031,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-23T11:04:13.229Z",
     "cooldowns": {
