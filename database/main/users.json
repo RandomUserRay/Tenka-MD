@@ -1806,7 +1806,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 649284,
+    "exp": 649209,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -35311,7 +35311,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1010212,
+    "exp": 1010242,
     "level": 1,
     "koin": 5913436,
     "unlockedFeatures": [],
@@ -104226,7 +104226,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 120,
+    "exp": 180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104236,9 +104236,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-04T12:21:57.873Z",
+    "lastSeen": "2026-09-23T10:40:28.296Z",
     "cooldowns": {
-      "menucat": 1788524520873
+      "menucat": 1788524520873,
+      "menu": 1790159971075,
+      "owner": 1790160028368
     },
     "clanId": null,
     "isRegistered": false,
@@ -104248,8 +104250,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "23/9/2026",
+    "activeDays": 2
   },
   "6282330449696": {
     "jid": "6282330449696",
@@ -123975,7 +123977,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 16281,
+    "exp": 16296,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-22T08:50:56.776Z",
     "cooldowns": {
@@ -125088,7 +125090,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3150,
+    "exp": 3180,
     "energi": 99999
   },
   "6285650881944": {
@@ -125173,14 +125175,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -125270,11 +125272,6 @@
   },
   "6281377055378": {
     "jid": "6281377055378",
-    "rpg": {},
-    "exp": 15
-  },
-  "6287794602336": {
-    "jid": "6287794602336",
     "rpg": {},
     "exp": 15
   }
