@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1790155426448
+    },
+    {
+      "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1790155426288
+    },
+    {
+      "cmd": "unknown",
       "err": "ENOENT: no such file or directory, open '/home/container/session/jadibot/6283822995454/sender-key-120363211173061664@g.us--108985365594336_1--27.json'",
       "at": 1790063536086
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1789239904109
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789228249247
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789228146055
     }
   ],
   "jpmBlacklist": [],
