@@ -5337,10 +5337,10 @@
     "jid": "6285810267907",
     "name": "rezz",
     "number": "6285810267907",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33931,
+    "exp": 33946,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -5349,7 +5349,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T06:34:15.930Z",
+    "lastSeen": "2026-09-23T08:29:13.679Z",
     "cooldowns": {
       "brat": 1789557085495,
       "bratimg": 1789023056494,
@@ -5390,7 +5390,8 @@
       "stacktower": 1788180109136,
       "play2": 1788673765256,
       "bratgojovid": 1788673742474,
-      "playvid": 1789022918135
+      "playvid": 1789022918135,
+      "rvo": 1790152154354
     },
     "clanId": null,
     "isRegistered": false,
@@ -125162,14 +125163,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
