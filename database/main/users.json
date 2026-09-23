@@ -98450,7 +98450,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3090,
+    "exp": 3105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98460,9 +98460,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T19:01:27.114Z",
+    "lastSeen": "2026-09-23T21:18:48.854Z",
     "cooldowns": {
-      "play": 1790190099214
+      "play": 1790190099214,
+      "menu": 1790198331799
     },
     "clanId": null,
     "isRegistered": false,
