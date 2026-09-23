@@ -72791,7 +72791,7 @@
     "energi": 99961,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16230,
+    "exp": 16260,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90002,10 +90002,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99970,
+    "energi": 99972,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7365,
+    "exp": 7320,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90015,11 +90015,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T10:31:42.242Z",
+    "lastSeen": "2026-09-23T10:26:55.920Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
-      "s": 1790159501541,
+      "s": 1790159217582,
       "getpp": 1787029116594,
       "allmenu": 1786847518688,
       "cekfemboy": 1786871000052,
@@ -90047,8 +90047,7 @@
       "tiktok": 1787032295449,
       "ttmp3": 1787032303802,
       "tt": 1790159200936,
-      "pixiv": 1790153020256,
-      "ig": 1790159483960
+      "pixiv": 1790153020256
     },
     "clanId": null,
     "isRegistered": false,
@@ -93866,7 +93865,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5445,
+    "exp": 5430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125174,14 +125173,14 @@
     "exp": 105,
     "energi": 99999
   },
-  "6288293669411": {
-    "jid": "6288293669411",
+  "6283850083164": {
+    "jid": "6283850083164",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283850083164": {
-    "jid": "6283850083164",
+  "6288293669411": {
+    "jid": "6288293669411",
     "rpg": {},
     "exp": 15,
     "energi": 99999
