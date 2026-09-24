@@ -33127,7 +33127,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 553819,
+    "exp": 553834,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33136,9 +33136,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T09:59:04.374Z",
+    "lastSeen": "2026-09-24T07:58:29.138Z",
     "cooldowns": {
-      "allmenu": 1788532388048,
+      "allmenu": 1790236711471,
       "jadibot": 1785411094619,
       "menu": 1789729702609,
       "menucat": 1789729711027,
@@ -33462,8 +33462,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 19
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 20
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -54281,7 +54281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15891,
+    "exp": 15876,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
