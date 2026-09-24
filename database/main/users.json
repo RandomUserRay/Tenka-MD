@@ -3051,7 +3051,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 707456,
+    "exp": 707471,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -40374,7 +40374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63960,
+    "exp": 63975,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -47714,13 +47714,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-09-23T07:58:26.266Z",
+    "lastSeen": "2026-09-24T08:33:43.618Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 558503,
+    "exp": 558518,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -47750,7 +47750,7 @@
       "me": 1785029831602,
       "energi": 1784716647957,
       "inv": 1786837050156,
-      "afk": 1789863516679,
+      "afk": 1790238825259,
       "tebakkata": 1784701971063,
       "tebakbendera": 1784702055261,
       "live": 1786836557035,
@@ -47865,8 +47865,8 @@
     "access": [],
     "lastStreamer": 1784788665524,
     "saldo": 0,
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 20,
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 21,
     "birthday": "31-03"
   },
   "6287732757354": {
@@ -96292,7 +96292,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10073,
+    "exp": 10088,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96592,7 +96592,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1920,
+    "exp": 1950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111901,7 +111901,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52050,
+    "exp": 52005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125274,7 +125274,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-24T07:14:39.907Z",
@@ -125390,6 +125390,6 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 105
+    "exp": 150
   }
 }
