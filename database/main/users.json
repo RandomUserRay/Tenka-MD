@@ -9055,10 +9055,10 @@
     "jid": "6285269347469",
     "name": "raa",
     "number": "6285269347469",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3750,
+    "exp": 3765,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9067,7 +9067,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T13:02:49.466Z",
+    "lastSeen": "2026-09-24T13:03:49.703Z",
     "cooldowns": {
       "menu": 1789300613562,
       "tt": 1790254971442,
@@ -105264,7 +105264,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51615,
+    "exp": 51645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105393,7 +105393,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21360,
+    "exp": 21375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105403,7 +105403,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T04:03:18.795Z",
+    "lastSeen": "2026-09-24T13:03:48.513Z",
     "cooldowns": {
       "brat": 1789543738799,
       "menu": 1789543634630,
@@ -105415,7 +105415,7 @@
       "antispam": 1789690639600,
       "warn": 1789542654757,
       "antitoxic": 1789690649381,
-      "antiswgc": 1789543041442,
+      "antiswgc": 1790255028546,
       "welcome": 1789484984576,
       "mutegc": 1789530421052,
       "setwelcome": 1790136198886,
@@ -105462,8 +105462,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 7
   },
   "62882005885964": {
     "jid": "62882005885964",
@@ -105677,7 +105677,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8835,
+    "exp": 8850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111688,7 +111688,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232547,
+    "exp": 232562,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111927,7 +111927,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53160,
+    "exp": 53175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125499,18 +125499,25 @@
   "6285696536056": {
     "jid": "6285696536056",
     "rpg": {},
-    "exp": 30,
+    "exp": 60,
     "name": "joshhh",
-    "lastSeen": "2026-09-24T13:03:08.896Z",
+    "lastSeen": "2026-09-24T13:03:49.222Z",
     "cooldowns": {
-      "brat": 1790254988934
+      "brat": 1790255029255
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "24/9/2026",
     "activeDays": 1
   },
   "6282296588779": {
     "jid": "6282296588779",
+    "rpg": {},
+    "exp": 75
+  },
+  "6283188909011": {
+    "name": "rizz",
+    "lastSeen": "2026-09-24T13:03:33.656Z",
+    "jid": "6283188909011",
     "rpg": {},
     "exp": 30
   }
