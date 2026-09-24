@@ -35331,7 +35331,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1011292,
+    "exp": 1011277,
     "level": 1,
     "koin": 5788436,
     "unlockedFeatures": [],
@@ -100861,7 +100861,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3405,
+    "exp": 3420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100871,7 +100871,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T10:16:09.587Z",
+    "lastSeen": "2026-09-24T12:01:18.043Z",
     "cooldowns": {
       "menucat": 1788075258904,
       "menu": 1788075278469,
@@ -124032,9 +124032,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17691,
+    "exp": 17631,
     "name": "Dr. riyy",
-    "lastSeen": "2026-09-24T12:00:48.005Z",
+    "lastSeen": "2026-09-24T12:00:05.379Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -124063,14 +124063,14 @@
       "dare": 1790160918759,
       "truth": 1790002122712,
       "gombal": 1790002325918,
-      "ytmp4": 1790251250950,
+      "ytmp4": 1790251127973,
       "hd": 1790250549084,
       "hd5": 1790250588421,
       "toblack": 1790250693081,
-      "play": 1790251252505,
+      "play": 1790251183308,
       "marry": 1790250742612
     },
-    "energi": 99969,
+    "energi": 99972,
     "lastActiveDate": "24/9/2026",
     "activeDays": 7,
     "fun": {
@@ -125190,7 +125190,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 4200,
+    "exp": 4185,
     "energi": 99991,
     "name": "kittylesssyht",
     "lastSeen": "2026-09-24T11:57:56.879Z",
@@ -125472,6 +125472,13 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 105
+    "exp": 135,
+    "name": "Mazzz",
+    "lastSeen": "2026-09-24T12:00:59.607Z",
+    "cooldowns": {
+      "femboy": 1790251262092
+    },
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 1
   }
 }
