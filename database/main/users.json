@@ -35523,8 +35523,7 @@
       "gombal": 1790001576761,
       "iqc": 1790161470650,
       "toblack": 1790250641325,
-      "marry": 1790250765763,
-      "divorce": 1790250796141
+      "marry": 1790250765763
     },
     "clanId": null,
     "isRegistered": false,
@@ -37122,13 +37121,13 @@
   },
   "601121042154": {
     "name": "emo",
-    "lastSeen": "2026-09-20T12:43:54.685Z",
+    "lastSeen": "2026-09-24T11:53:39.777Z",
     "jid": "601121042154",
     "number": "601121042154",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40744,
+    "exp": 40759,
     "level": 1,
     "koin": 27416,
     "unlockedFeatures": [],
@@ -37148,7 +37147,8 @@
       "hytamkan": 1783872070056,
       "d": 1784304286527,
       "ttmp3": 1786015188316,
-      "s": 1789908236697
+      "s": 1789908236697,
+      "play": 1790250820042
     },
     "clanId": null,
     "isRegistered": false,
@@ -37167,8 +37167,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 5
   },
   "6287838003323": {
     "jid": "6287838003323",
@@ -113510,7 +113510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11850,
+    "exp": 11835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124032,7 +124032,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17346,
+    "exp": 17331,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-24T11:53:07.197Z",
     "cooldowns": {
@@ -125190,7 +125190,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3840,
+    "exp": 3825,
     "energi": 99993,
     "name": "kittylesssyht",
     "lastSeen": "2026-09-24T11:52:48.687Z",
