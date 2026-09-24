@@ -11552,10 +11552,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34114,
+    "exp": 34144,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11564,7 +11564,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T07:25:34.727Z",
+    "lastSeen": "2026-09-24T07:26:02.960Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -11603,7 +11603,9 @@
       "d": 1790069804735,
       "cekcantik": 1790233930366,
       "cekpintar": 1790233937518,
-      "cektsundere": 1790233967172
+      "cektsundere": 1790233967172,
+      "tembak": 1790234754965,
+      "tolak": 1790234763005
     },
     "clanId": null,
     "isRegistered": false,
@@ -11629,7 +11631,11 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "24/9/2026",
-    "activeDays": 7
+    "activeDays": 7,
+    "fun": {
+      "tembakTarget": "628981194866@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "628385932548": {
     "jid": "628385932548",
@@ -54274,7 +54280,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15741,
+    "exp": 15756,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -102368,7 +102374,8 @@
     },
     "access": [],
     "lastActiveDate": "22/9/2026",
-    "activeDays": 19
+    "activeDays": 19,
+    "fun": {}
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -124837,13 +124844,13 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 1155,
+    "exp": 1185,
     "name": "aiko",
-    "lastSeen": "2026-09-24T07:25:13.169Z",
+    "lastSeen": "2026-09-24T07:26:00.782Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
-      "menu": 1790234504432,
+      "menu": 1790234752701,
       "cekganteng": 1790233850398,
       "cekcantik": 1790233837836,
       "femboy": 1790234105561,
@@ -124856,7 +124863,7 @@
       "cekimut": 1790234235521,
       "yandere": 1790234368442,
       "tsundere": 1790234378304,
-      "menucat": 1790234574204,
+      "menucat": 1790234760829,
       "cekpacar": 1790234600928,
       "gay": 1790234643178,
       "tembak": 1790234713896
