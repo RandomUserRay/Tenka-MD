@@ -3052,7 +3052,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 709586,
+    "exp": 709601,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -54284,10 +54284,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16431,
+    "exp": 16461,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54296,7 +54296,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:15:58.854Z",
+    "lastSeen": "2026-09-24T11:16:35.663Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54331,7 +54331,7 @@
       "rob": 1789213633812,
       "istirahat": 1789213735157,
       "training": 1789213751788,
-      "ship": 1790248559467
+      "ship": 1790248597009
     },
     "clanId": null,
     "isRegistered": false,
@@ -96299,7 +96299,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11483,
+    "exp": 11513,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96309,7 +96309,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:14:45.545Z",
+    "lastSeen": "2026-09-24T11:16:26.369Z",
     "cooldowns": {
       "afk": 1790238870447,
       "play": 1790079971834,
@@ -96327,7 +96327,7 @@
       "femboy": 1790248405643,
       "dadu": 1788079899385,
       "bank": 1789119647649,
-      "cekyandere": 1790234702800,
+      "cekyandere": 1790248586439,
       "cekimut": 1790248333217,
       "d": 1790085476768,
       "mutegc": 1789906948972,
@@ -125293,7 +125293,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 2115,
+    "exp": 2130,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-24T11:15:11.156Z",
@@ -125410,7 +125410,7 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "Kitsune",
     "lastSeen": "2026-09-24T11:12:30.787Z",
     "cooldowns": {
@@ -125426,13 +125426,13 @@
   "6282336702011": {
     "jid": "6282336702011",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "my my",
-    "lastSeen": "2026-09-24T11:15:44.438Z",
+    "lastSeen": "2026-09-24T11:16:16.428Z",
     "cooldowns": {
-      "ship": 1790248544506
+      "ship": 1790248578350
     },
-    "energi": 23,
+    "energi": 21,
     "lastActiveDate": "24/9/2026",
     "activeDays": 1
   }
