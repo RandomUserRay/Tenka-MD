@@ -4433,7 +4433,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231455,
+    "exp": 231470,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -124837,9 +124837,9 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 1080,
+    "exp": 1095,
     "name": "aiko",
-    "lastSeen": "2026-09-24T07:22:54.158Z",
+    "lastSeen": "2026-09-24T07:23:20.857Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
@@ -124856,7 +124856,8 @@
       "cekimut": 1790234235521,
       "yandere": 1790234368442,
       "tsundere": 1790234378304,
-      "menucat": 1790234574204
+      "menucat": 1790234574204,
+      "cekpacar": 1790234600928
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
