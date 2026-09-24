@@ -35331,16 +35331,16 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1011052,
+    "exp": 1011067,
     "level": 1,
-    "koin": 5863436,
+    "koin": 5838436,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:52:45.697Z",
+    "lastSeen": "2026-09-24T11:53:16.046Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35551,8 +35551,8 @@
           "luck": 9
         }
       },
-      "spouse": "6288901803249@s.whatsapp.net",
-      "marriedAt": 1790250765698
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "rabbit": 0,
@@ -50853,8 +50853,8 @@
       ],
       "guildId": "guild_1783787144498",
       "luck": 8,
-      "spouse": "6282131144804@s.whatsapp.net",
-      "marriedAt": 1790250765698
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "daging_rusa": 13,
@@ -124031,7 +124031,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17316,
+    "exp": 17331,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-24T11:53:07.197Z",
     "cooldowns": {
@@ -125189,7 +125189,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3810,
+    "exp": 3825,
     "energi": 99993,
     "name": "kittylesssyht",
     "lastSeen": "2026-09-24T11:52:48.687Z",
