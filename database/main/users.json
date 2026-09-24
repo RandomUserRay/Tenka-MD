@@ -35328,10 +35328,10 @@
     "jid": "6282131144804",
     "name": "radit maendra",
     "number": "6282131144804",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1011067,
+    "exp": 1011097,
     "level": 1,
     "koin": 5838436,
     "unlockedFeatures": [],
@@ -35340,7 +35340,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:53:16.046Z",
+    "lastSeen": "2026-09-24T11:53:49.986Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35376,7 +35376,7 @@
       "jancok": 1783698261979,
       "tolol": 1783698280876,
       "hidetag": 1783743043390,
-      "play": 1790250715036,
+      "play": 1790250838040,
       "soulmatch": 1783755327274,
       "janda": 1783755475649,
       "onlynsfw": 1783755590237,
@@ -35523,7 +35523,8 @@
       "gombal": 1790001576761,
       "iqc": 1790161470650,
       "toblack": 1790250641325,
-      "marry": 1790250765763
+      "marry": 1790250765763,
+      "divorce": 1790250796141
     },
     "clanId": null,
     "isRegistered": false,
@@ -37121,13 +37122,13 @@
   },
   "601121042154": {
     "name": "emo",
-    "lastSeen": "2026-09-24T11:53:39.777Z",
+    "lastSeen": "2026-09-20T12:43:54.685Z",
     "jid": "601121042154",
     "number": "601121042154",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40759,
+    "exp": 40744,
     "level": 1,
     "koin": 27416,
     "unlockedFeatures": [],
@@ -37147,8 +37148,7 @@
       "hytamkan": 1783872070056,
       "d": 1784304286527,
       "ttmp3": 1786015188316,
-      "s": 1789908236697,
-      "play": 1790250820042
+      "s": 1789908236697
     },
     "clanId": null,
     "isRegistered": false,
@@ -37167,8 +37167,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 4
   },
   "6287838003323": {
     "jid": "6287838003323",
@@ -50467,10 +50467,10 @@
     "jid": "6289670776767",
     "name": "_;",
     "number": "6289670776767",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 831410,
+    "exp": 831425,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50479,7 +50479,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:51:49.275Z",
+    "lastSeen": "2026-09-24T11:53:50.603Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -50590,7 +50590,7 @@
       "dare": 1790001997763,
       "gombal": 1790001603488,
       "truth": 1790002125965,
-      "play": 1790250717143
+      "play": 1790250839439
     },
     "clanId": null,
     "isRegistered": false,
@@ -112063,7 +112063,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17835,
+    "exp": 17850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113510,7 +113510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11835,
+    "exp": 11865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124032,7 +124032,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17331,
+    "exp": 17346,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-24T11:53:07.197Z",
     "cooldowns": {
@@ -125190,7 +125190,7 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3825,
+    "exp": 3870,
     "energi": 99993,
     "name": "kittylesssyht",
     "lastSeen": "2026-09-24T11:52:48.687Z",
