@@ -3052,7 +3052,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 709886,
+    "exp": 709871,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -8006,7 +8006,7 @@
     "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 132368,
+    "exp": 132353,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -8015,7 +8015,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T12:42:20.142Z",
+    "lastSeen": "2026-09-24T09:00:08.123Z",
     "cooldowns": {
       "ww": 1781258054825,
       "level": 1786782468117,
@@ -8125,8 +8125,7 @@
       "hentai": 1787834075316,
       "waifu-nsfw": 1787834125116,
       "nwaifu": 1787834196893,
-      "am": 1790239722756,
-      "marry": 1790253740668
+      "am": 1790239722756
     },
     "clanId": null,
     "isRegistered": false,
@@ -102299,7 +102298,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15799,
+    "exp": 15754,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105903,7 +105902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4515,
+    "exp": 4590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105913,17 +105912,17 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T08:05:24.749Z",
+    "lastSeen": "2026-09-24T12:43:01.394Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
       "play": 1790087600441,
-      "antispam": 1789976384040,
+      "antispam": 1790253781442,
       "antitagsw": 1789564491360,
-      "antitoxic": 1789566319513,
+      "antitoxic": 1790253774380,
       "h": 1789564730690,
-      "antisticker": 1789976388830,
+      "antisticker": 1790253767116,
       "warn": 1789566339974,
       "resetwarn": 1789565347398,
       "antiswgc": 1789566195488,
@@ -105932,7 +105931,7 @@
       "addcmdsticker": 1789566487339,
       "bratimg": 1789976361804,
       "del": 1790086941361,
-      "close": 1790150726109,
+      "close": 1790253759260,
       "open": 1790117004652,
       "ytmp4": 1789977413569
     },
@@ -105944,8 +105943,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 6
   },
   "6283829647574": {
     "jid": "6283829647574",
@@ -111926,7 +111925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52545,
+    "exp": 52710,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125320,7 +125319,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 2280,
+    "exp": 2265,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-24T11:24:47.825Z",
@@ -125487,6 +125486,11 @@
   },
   "6285860023680": {
     "jid": "6285860023680",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285669069265": {
+    "jid": "6285669069265",
     "rpg": {},
     "exp": 15
   }
