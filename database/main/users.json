@@ -100863,7 +100863,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3510,
+    "exp": 3525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102298,7 +102298,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15754,
+    "exp": 15769,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120671,13 +120671,13 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2085,
+    "exp": 2100,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-24T12:38:12.447Z",
+    "lastSeen": "2026-09-24T12:39:10.176Z",
     "cooldowns": {
       "love": 1789136486991,
       "d": 1790253484621,
-      "rvo": 1790253492994,
+      "rvo": 1790253550616,
       "me": 1789732499814,
       "profile": 1789732539108,
       "warn": 1789793589789,
@@ -120686,7 +120686,7 @@
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 6,
-    "energi": 99997,
+    "energi": 99996,
     "koin": 101333377
   },
   "62895622978537": {
