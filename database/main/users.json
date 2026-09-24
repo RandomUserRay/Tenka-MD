@@ -54271,7 +54271,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15366,
+    "exp": 15381,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -124522,10 +124522,10 @@
   "6282116747451": {
     "jid": "6282116747451",
     "rpg": {},
-    "exp": 270,
+    "exp": 285,
     "energi": 99999,
     "name": "takashi mitshuashi",
-    "lastSeen": "2026-09-24T02:06:44.489Z",
+    "lastSeen": "2026-09-24T02:08:09.844Z",
     "cooldowns": {
       "s": 1790081340356,
       "cekganteng": 1790215568064,
@@ -124828,16 +124828,17 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 600,
+    "exp": 615,
     "name": "aiko",
-    "lastSeen": "2026-09-24T02:07:25.159Z",
+    "lastSeen": "2026-09-24T02:07:57.495Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
       "menu": 1790215288438,
       "cekganteng": 1790215591017,
       "cekcantik": 1790215606126,
-      "femboy": 1790215647120
+      "femboy": 1790215647120,
+      "cektsundere": 1790215678090
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
