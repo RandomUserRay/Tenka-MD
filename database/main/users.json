@@ -3475,7 +3475,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 426707,
+    "exp": 426722,
     "level": 1,
     "koin": 16064,
     "unlockedFeatures": [],
@@ -3484,7 +3484,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:39:24.855Z",
+    "lastSeen": "2026-09-24T11:55:41.915Z",
     "cooldowns": {
       "femboy": 1790249127025,
       "profile": 1790085318385,
@@ -3544,7 +3544,7 @@
       "tebaknegara": 1783409525679,
       "cantik": 1783150678520,
       "hytamkan": 1783508218400,
-      "cekfemboy": 1790248808185
+      "cekfemboy": 1790250944843
     },
     "clanId": null,
     "isRegistered": false,
@@ -8006,7 +8006,7 @@
     "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 132338,
+    "exp": 132353,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -8015,7 +8015,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T09:00:08.123Z",
+    "lastSeen": "2026-09-24T11:56:01.971Z",
     "cooldowns": {
       "ww": 1781258054825,
       "level": 1786782468117,
@@ -120523,7 +120523,7 @@
     "rpg": {
       "health": 100
     },
-    "exp": 4958,
+    "exp": 4973,
     "cooldowns": {
       "s": 1790249922752,
       "smeme": 1789902978833,
@@ -125469,6 +125469,6 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   }
 }
