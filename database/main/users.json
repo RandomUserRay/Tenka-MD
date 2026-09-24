@@ -105264,7 +105264,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51600,
+    "exp": 51615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105274,9 +105274,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T04:02:04.414Z",
+    "lastSeen": "2026-09-24T13:03:02.385Z",
     "cooldowns": {
-      "menu": 1790092047176,
+      "menu": 1790254988823,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
@@ -105355,8 +105355,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 15
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 16
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -111927,7 +111927,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53130,
+    "exp": 53145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125495,5 +125495,23 @@
     "jid": "6285669069265",
     "rpg": {},
     "exp": 15
+  },
+  "6285696536056": {
+    "jid": "6285696536056",
+    "rpg": {},
+    "exp": 30,
+    "name": "joshhh",
+    "lastSeen": "2026-09-24T13:03:08.896Z",
+    "cooldowns": {
+      "brat": 1790254988934
+    },
+    "energi": 24,
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 1
+  },
+  "6282296588779": {
+    "jid": "6282296588779",
+    "rpg": {},
+    "exp": 30
   }
 }
