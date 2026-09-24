@@ -96315,7 +96315,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12068,
+    "exp": 12038,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96325,7 +96325,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T13:20:48.725Z",
+    "lastSeen": "2026-09-24T13:20:03.000Z",
     "cooldowns": {
       "afk": 1790238870447,
       "play": 1790079971834,
@@ -96335,7 +96335,7 @@
       "menucat": 1788072970708,
       "cekfemboy": 1790085994641,
       "gay": 1788076153175,
-      "cekcantik": 1790256048811,
+      "cekcantik": 1790256003136,
       "cekganteng": 1790255822578,
       "tolol": 1788075743705,
       "top": 1788085475131,
@@ -111935,7 +111935,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53400,
+    "exp": 53415,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120681,9 +120681,9 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2325,
+    "exp": 2295,
     "name": "ビクトリア・サン",
-    "lastSeen": "2026-09-24T13:20:41.866Z",
+    "lastSeen": "2026-09-24T13:20:20.627Z",
     "cooldowns": {
       "love": 1790255903358,
       "d": 1790253484621,
@@ -120695,9 +120695,8 @@
       "s": 1790253462481,
       "cekganteng": 1790255811612,
       "femboy": 1790255828679,
-      "cekimut": 1790256031192,
-      "cekcantik": 1790256020714,
-      "cektsundere": 1790256043128
+      "cekimut": 1790256008363,
+      "cekcantik": 1790256020714
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 6,
@@ -125454,7 +125453,7 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 990,
+    "exp": 960,
     "name": "Kitsune",
     "lastSeen": "2026-09-24T11:18:33.759Z",
     "cooldowns": {
