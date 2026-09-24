@@ -39771,7 +39771,15 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363427651875935@g.us"
+    "jid": "120363427651875935@g.us",
+    "chatStats": {
+      "6283857834910@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1790230113267,
+        "name": "AoiMizu"
+      }
+    },
+    "name": "AoiMizu"
   },
   "120363430729407391@g.us": {
     "welcome": false,
