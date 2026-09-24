@@ -49,6 +49,16 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1790220535051
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1790220535007
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1790220423062
     },
     {
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789282272168
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot use 'in' operator to search for 'stream' in /**\n * =============================================================\n *  NAME       : BLOCK BLAST MINI\n *  AUTHOR     : Mommy Kyuu\n *  CHANNEL    : h",
-      "at": 1789270182242
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789269050086
     }
   ],
   "jpmBlacklist": [],
