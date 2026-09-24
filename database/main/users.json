@@ -62627,7 +62627,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16980,
+    "exp": 16995,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -124024,7 +124024,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17121,
+    "exp": 17136,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-24T11:49:35.526Z",
     "cooldowns": {
@@ -124056,7 +124056,8 @@
       "truth": 1790002122712,
       "gombal": 1790002325918,
       "ytmp4": 1790250529627,
-      "hd": 1790250549084
+      "hd": 1790250549084,
+      "hd5": 1790250588421
     },
     "energi": 99995,
     "lastActiveDate": "24/9/2026",
@@ -125178,10 +125179,10 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3735,
-    "energi": 99995,
+    "exp": 3750,
+    "energi": 99994,
     "name": "kittylesssyht",
-    "lastSeen": "2026-09-24T11:46:50.580Z",
+    "lastSeen": "2026-09-24T11:49:44.234Z",
     "cooldowns": {
       "play": 1790250307148
     },
