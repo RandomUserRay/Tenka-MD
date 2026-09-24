@@ -38016,8 +38016,8 @@
   "120363409996391404@g.us": {
     "chatStats": {
       "6283824756881@s.whatsapp.net": {
-        "count": 1443,
-        "lastChat": 1790255029275,
+        "count": 1445,
+        "lastChat": 1790255152317,
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
@@ -42717,8 +42717,8 @@
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 51,
-        "lastChat": 1790255141902,
+        "count": 52,
+        "lastChat": 1790255150720,
         "name": "Thiryzty X Wanzty"
       },
       "62881036183343@s.whatsapp.net": {
@@ -42838,7 +42838,11 @@
         }
       ]
     },
-    "antitoxic": true
+    "antitoxic": true,
+    "toxicWarns": {
+      "6283188909011@s.whatsapp.net": 1
+    },
+    "antispam": "on"
   },
   "120363428874863498@g.us": {
     "chatStats": {
