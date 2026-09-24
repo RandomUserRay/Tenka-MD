@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-24T08:44:59.965Z",
+    "lastSeen": "2026-09-24T08:43:40.528Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000101859,
+    "exp": 9000101709,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3051,7 +3051,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 707831,
+    "exp": 707801,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -6031,7 +6031,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31400,
+    "exp": 31415,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -6040,7 +6040,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-16T10:04:21.245Z",
+    "lastSeen": "2026-09-24T08:45:02.719Z",
     "cooldowns": {
       "brat": 1780192562768,
       "femboy": 1782294711569,
@@ -6077,7 +6077,8 @@
       "music": 1789026711077,
       "menu": 1789026743162,
       "menucat": 1789026795291,
-      "ytmp4": 1789026845266
+      "ytmp4": 1789026845266,
+      "p": 1790239504052
     },
     "clanId": null,
     "isRegistered": false,
@@ -6097,8 +6098,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 3
   },
   "62895329308463": {
     "jid": "62895329308463",
@@ -96292,7 +96293,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10328,
+    "exp": 10313,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125390,6 +125391,6 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 300
+    "exp": 285
   }
 }
