@@ -35331,16 +35331,16 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1011022,
+    "exp": 1011037,
     "level": 1,
-    "koin": 5913436,
+    "koin": 5863436,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:52:35.179Z",
+    "lastSeen": "2026-09-24T11:52:45.697Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35522,7 +35522,8 @@
       "dare": 1789922933552,
       "gombal": 1790001576761,
       "iqc": 1790161470650,
-      "toblack": 1790250641325
+      "toblack": 1790250641325,
+      "marry": 1790250765763
     },
     "clanId": null,
     "isRegistered": false,
@@ -35549,7 +35550,9 @@
           "defense": 3,
           "luck": 9
         }
-      }
+      },
+      "spouse": "6288901803249@s.whatsapp.net",
+      "marriedAt": 1790250765698
     },
     "inventory": {
       "rabbit": 0,
@@ -50849,7 +50852,9 @@
         }
       ],
       "guildId": "guild_1783787144498",
-      "luck": 8
+      "luck": 8,
+      "spouse": "6282131144804@s.whatsapp.net",
+      "marriedAt": 1790250765698
     },
     "inventory": {
       "daging_rusa": 13,
@@ -112057,7 +112062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17820,
+    "exp": 17835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124026,7 +124031,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 17271,
+    "exp": 17286,
     "name": "Dr. riyy",
     "lastSeen": "2026-09-24T11:52:37.911Z",
     "cooldowns": {
@@ -124061,7 +124066,7 @@
       "hd": 1790250549084,
       "hd5": 1790250588421,
       "toblack": 1790250693081,
-      "play": 1790250712645,
+      "play": 1790250764199,
       "marry": 1790250742612
     },
     "energi": 99987,
@@ -125184,10 +125189,10 @@
   "6283115028775": {
     "jid": "6283115028775",
     "rpg": {},
-    "exp": 3795,
-    "energi": 99994,
+    "exp": 3810,
+    "energi": 99993,
     "name": "kittylesssyht",
-    "lastSeen": "2026-09-24T11:49:44.234Z",
+    "lastSeen": "2026-09-24T11:52:48.687Z",
     "cooldowns": {
       "play": 1790250605960
     },
