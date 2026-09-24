@@ -42712,13 +42712,13 @@
     "jid": "120363413464027056@g.us",
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 29,
-        "lastChat": 1790255063100,
+        "count": 30,
+        "lastChat": 1790255078646,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 45,
-        "lastChat": 1790255074323,
+        "count": 46,
+        "lastChat": 1790255079423,
         "name": "Thiryzty X Wanzty"
       },
       "62881036183343@s.whatsapp.net": {
@@ -42727,8 +42727,8 @@
         "name": "Ryuu Kagenou"
       },
       "6285865675459@s.whatsapp.net": {
-        "count": 16,
-        "lastChat": 1790255063747,
+        "count": 17,
+        "lastChat": 1790255078787,
         "name": "?"
       },
       "6283121900324@s.whatsapp.net": {
@@ -42825,7 +42825,8 @@
     "name": "JB ALL GAME BY THIRYZTY",
     "welcomeMsg": "HALO {user} YG BARU JOIN SEMOGA BETAH YA😊",
     "antiswgc": "on",
-    "mutegc": true
+    "mutegc": true,
+    "antilinkgc": "on"
   },
   "120363428874863498@g.us": {
     "chatStats": {
