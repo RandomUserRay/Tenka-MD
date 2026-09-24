@@ -3048,10 +3048,10 @@
     "jid": "6285240302212",
     "name": "cihuyyy",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 707936,
+    "exp": 707951,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3060,7 +3060,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T04:47:50.108Z",
+    "lastSeen": "2026-09-24T08:54:16.236Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3150,7 +3150,8 @@
       "cekimut": 1790171813722,
       "cekjahat": 1789201700300,
       "sendbug": 1789292116531,
-      "yandere": 1790085077590
+      "yandere": 1790085077590,
+      "amprem": 1790240056302
     },
     "clanId": null,
     "isRegistered": false,
@@ -11558,7 +11559,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37200,
+    "exp": 37215,
     "level": 1,
     "koin": 4154,
     "unlockedFeatures": [],
@@ -54284,7 +54285,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16086,
+    "exp": 16101,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -120500,17 +120501,17 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢 𝑉𝑐/𝑌𝑎𝑛𝑖𝑘𝑜🍋",
-    "lastSeen": "2026-09-23T21:05:38.280Z",
+    "lastSeen": "2026-09-24T08:53:56.954Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 100
     },
-    "exp": 4658,
+    "exp": 4673,
     "cooldowns": {
       "s": 1790197539018,
       "smeme": 1789902978833,
       "allmenu": 1790003406148,
-      "rvo": 1789989657498,
+      "rvo": 1790240037465,
       "d": 1789728398252,
       "brat": 1789746131510,
       "qc": 1789746169600,
@@ -120519,7 +120520,7 @@
       "adventure": 1790003744733,
       "me": 1790183474179
     },
-    "energi": 99997,
+    "energi": 99996,
     "lastActiveDate": "24/9/2026",
     "activeDays": 8,
     "koin": 9103
