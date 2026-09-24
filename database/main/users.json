@@ -96300,7 +96300,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11858,
+    "exp": 11873,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -100853,7 +100853,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3300,
+    "exp": 3315,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120515,7 +120515,7 @@
     "rpg": {
       "health": 100
     },
-    "exp": 4838,
+    "exp": 4868,
     "cooldowns": {
       "s": 1790241102366,
       "smeme": 1789902978833,
@@ -125294,7 +125294,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 2250,
+    "exp": 2265,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-24T11:24:47.825Z",
@@ -125447,6 +125447,6 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
