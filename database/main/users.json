@@ -96299,7 +96299,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11543,
+    "exp": 11558,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125426,11 +125426,12 @@
   "6282336702011": {
     "jid": "6282336702011",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "name": "my my",
-    "lastSeen": "2026-09-24T11:16:16.428Z",
+    "lastSeen": "2026-09-24T11:18:16.281Z",
     "cooldowns": {
-      "ship": 1790248578350
+      "ship": 1790248578350,
+      "femboy": 1790248698421
     },
     "energi": 21,
     "lastActiveDate": "24/9/2026",
