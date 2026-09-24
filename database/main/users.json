@@ -11555,7 +11555,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34084,
+    "exp": 34114,
     "level": 1,
     "koin": 3348,
     "unlockedFeatures": [],
@@ -11564,7 +11564,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T07:12:53.521Z",
+    "lastSeen": "2026-09-24T07:25:34.727Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1789135813799,
@@ -54274,7 +54274,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15726,
+    "exp": 15741,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -96285,7 +96285,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8415,
+    "exp": 8430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96295,7 +96295,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T07:18:59.360Z",
+    "lastSeen": "2026-09-24T07:25:02.756Z",
     "cooldowns": {
       "afk": 1790128816000,
       "play": 1790079971834,
@@ -96313,7 +96313,7 @@
       "femboy": 1790085466032,
       "dadu": 1788079899385,
       "bank": 1789119647649,
-      "cekyandere": 1790086074364,
+      "cekyandere": 1790234702800,
       "cekimut": 1790234216743,
       "d": 1790085476768,
       "mutegc": 1789906948972,
@@ -124837,9 +124837,9 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1155,
     "name": "aiko",
-    "lastSeen": "2026-09-24T07:24:03.114Z",
+    "lastSeen": "2026-09-24T07:25:13.169Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
@@ -124858,11 +124858,12 @@
       "tsundere": 1790234378304,
       "menucat": 1790234574204,
       "cekpacar": 1790234600928,
-      "gay": 1790234643178
+      "gay": 1790234643178,
+      "tembak": 1790234713896
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
-    "energi": 99998
+    "energi": 99997
   },
   "6285124236521": {
     "jid": "6285124236521",
