@@ -96585,7 +96585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1680,
+    "exp": 1710,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96595,13 +96595,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T07:15:20.005Z",
+    "lastSeen": "2026-09-24T07:15:32.588Z",
     "cooldowns": {
       "s": 1789992430710,
       "femboy": 1790234098323,
       "tsundere": 1790085990057,
       "cekganteng": 1790234120048,
-      "cekcantik": 1790085544913,
+      "cekcantik": 1790234132630,
       "cekimut": 1790085845511,
       "cekfemboy": 1790085957408,
       "cekyandere": 1790086090003,
@@ -124837,9 +124837,9 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 825,
+    "exp": 855,
     "name": "aiko",
-    "lastSeen": "2026-09-24T07:15:16.338Z",
+    "lastSeen": "2026-09-24T07:15:44.677Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
@@ -124850,7 +124850,9 @@
       "cektsundere": 1790233956577,
       "cekyandere": 1790233991630,
       "cekfemboy": 1790233921982,
-      "ganteng": 1790234116410
+      "ganteng": 1790234116410,
+      "cantik": 1790234133602,
+      "imut": 1790234144722
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
