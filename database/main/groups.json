@@ -29019,8 +29019,8 @@
         "name": "munoz s.farm"
       },
       "6281262657079@s.whatsapp.net": {
-        "count": 4570,
-        "lastChat": 1790255484974,
+        "count": 4569,
+        "lastChat": 1790254481581,
         "name": "Leon Bethel"
       },
       "62859106778670@s.whatsapp.net": {
@@ -42712,8 +42712,8 @@
     "jid": "120363413464027056@g.us",
     "chatStats": {
       "6285709953593@s.whatsapp.net": {
-        "count": 37,
-        "lastChat": 1790255408502,
+        "count": 38,
+        "lastChat": 1790255483331,
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
@@ -42727,8 +42727,8 @@
         "name": "Ryuu Kagenou"
       },
       "6285865675459@s.whatsapp.net": {
-        "count": 18,
-        "lastChat": 1790255144900,
+        "count": 19,
+        "lastChat": 1790255489997,
         "name": "?"
       },
       "6283121900324@s.whatsapp.net": {
@@ -42842,7 +42842,9 @@
     "toxicWarns": {
       "6283188909011@s.whatsapp.net": 2
     },
-    "antispam": "on"
+    "antispam": "on",
+    "spamLimitCount": 5,
+    "spamLimitTime": 10
   },
   "120363428874863498@g.us": {
     "chatStats": {
