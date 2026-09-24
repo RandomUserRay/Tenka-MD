@@ -101479,7 +101479,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101489,12 +101489,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T02:03:12.528Z",
+    "lastSeen": "2026-09-24T02:04:09.427Z",
     "cooldowns": {
       "s": 1789445409212,
       "play": 1789876214928,
-      "cekcantik": 1790215392566,
-      "cekganteng": 1790215381820
+      "cekcantik": 1790215434720,
+      "cekganteng": 1790215449465
     },
     "clanId": null,
     "isRegistered": false,
@@ -124826,14 +124826,15 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 450,
+    "exp": 480,
     "name": "aiko",
-    "lastSeen": "2026-09-24T02:03:33.616Z",
+    "lastSeen": "2026-09-24T02:03:57.168Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
       "menu": 1790215288438,
-      "cekganteng": 1790215413653
+      "cekganteng": 1790215413653,
+      "cekcantik": 1790215437215
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
