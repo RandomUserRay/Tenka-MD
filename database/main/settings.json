@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1790220577182
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1790220535051
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789282278105
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of null (reading 'cooldowns')",
-      "at": 1789282272168
     }
   ],
   "jpmBlacklist": [],
@@ -24726,7 +24726,7 @@
     },
     "6282358519680@s.whatsapp.net": {
       "jid": "6282358519680@s.whatsapp.net",
-      "name": "zra"
+      "name": "ʙᴏᴛ ᴄᴏɴғᴇss ᴢᴇʏᴀ"
     },
     "6282312719606@s.whatsapp.net": {
       "jid": "6282312719606@s.whatsapp.net",
