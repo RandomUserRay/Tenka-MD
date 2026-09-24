@@ -20231,7 +20231,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55649,
+    "exp": 55619,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35332,7 +35332,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1011727,
+    "exp": 1011757,
     "level": 1,
     "koin": 5788436,
     "unlockedFeatures": [],
@@ -102298,7 +102298,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15724,
+    "exp": 15709,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111686,7 +111686,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232352,
+    "exp": 232367,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111925,7 +111925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52275,
+    "exp": 52335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125475,7 +125475,7 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 165,
+    "exp": 150,
     "name": "Mazzz",
     "lastSeen": "2026-09-24T12:00:59.607Z",
     "cooldowns": {
@@ -125487,6 +125487,6 @@
   "6285860023680": {
     "jid": "6285860023680",
     "rpg": {},
-    "exp": 45
+    "exp": 15
   }
 }
