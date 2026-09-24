@@ -20226,10 +20226,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55409,
+    "exp": 55424,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20238,7 +20238,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:15:06.230Z",
+    "lastSeen": "2026-09-24T11:18:35.843Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -125410,23 +125410,24 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 810,
+    "exp": 825,
     "name": "Kitsune",
-    "lastSeen": "2026-09-24T11:12:30.787Z",
+    "lastSeen": "2026-09-24T11:18:33.759Z",
     "cooldowns": {
       "am": 1790240497622,
       "ytmp4": 1790240889618,
       "play": 1790240893046,
-      "femboy": 1790248353009
+      "femboy": 1790248353009,
+      "ship": 1790248715436
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 1,
-    "energi": 22
+    "energi": 20
   },
   "6282336702011": {
     "jid": "6282336702011",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "my my",
     "lastSeen": "2026-09-24T11:18:16.281Z",
     "cooldowns": {
