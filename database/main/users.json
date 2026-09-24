@@ -3054,7 +3054,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 710021,
+    "exp": 710006,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -9057,10 +9057,10 @@
     "jid": "6285269347469",
     "name": "raa",
     "number": "6285269347469",
-    "energi": 99984,
+    "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3975,
+    "exp": 4005,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9069,10 +9069,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T13:14:41.905Z",
+    "lastSeen": "2026-09-24T13:45:02.755Z",
     "cooldowns": {
       "menu": 1789300613562,
-      "tt": 1790255684521,
+      "tt": 1790257505508,
       "tt2": 1781508210406,
       "menucat": 1781708961796,
       "femboy": 1781708999979,
@@ -40394,7 +40394,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64155,
+    "exp": 64095,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96316,7 +96316,7 @@
     "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12353,
+    "exp": 12338,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96617,7 +96617,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2790,
+    "exp": 2775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104779,7 +104779,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73053,
+    "exp": 73113,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -125009,7 +125009,7 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1500,
     "name": "fariz",
     "lastSeen": "2026-09-19T15:02:11.469Z",
     "cooldowns": {
@@ -125542,6 +125542,6 @@
   "6289526191301": {
     "jid": "6289526191301",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
