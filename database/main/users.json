@@ -54271,7 +54271,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15201,
+    "exp": 15231,
     "level": 1,
     "koin": 5920501,
     "unlockedFeatures": [],
@@ -54280,7 +54280,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T11:16:11.281Z",
+    "lastSeen": "2026-09-24T02:05:13.844Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54291,7 +54291,7 @@
       "warn": 1785311907607,
       "cektsundere": 1785333655490,
       "cekyandere": 1785333696424,
-      "cekcantik": 1785333834337,
+      "cekcantik": 1790215513888,
       "cekganteng": 1785333843851,
       "profile": 1789119195440,
       "gacha": 1785334162624,
@@ -54337,8 +54337,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 6
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -124826,9 +124826,9 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "aiko",
-    "lastSeen": "2026-09-24T02:04:35.210Z",
+    "lastSeen": "2026-09-24T02:05:24.198Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
