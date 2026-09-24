@@ -2101,10 +2101,10 @@
     "jid": "6287735607482",
     "name": "shiion",
     "number": "6287735607482",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231746,
+    "exp": 231731,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -2113,7 +2113,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T12:46:01.451Z",
+    "lastSeen": "2026-09-02T15:27:16.546Z",
     "cooldowns": {
       "profile": 1781357667609,
       "afk": 1785561401898,
@@ -2168,7 +2168,7 @@
       "naked": 1785059454254,
       "rcumvid": 1785327502640,
       "loli": 1785061930917,
-      "play": 1790253969557,
+      "play": 1785420572359,
       "stickerpack": 1785250247993,
       "mywaifu": 1785246578860,
       "cekfemboy": 1786889841907,
@@ -2200,9 +2200,7 @@
     "settings": {
       "levelupNotif": true
     },
-    "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 1
+    "saldo": 0
   },
   "6287768821605": {
     "jid": "6287768821605",
@@ -3054,7 +3052,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 709901,
+    "exp": 709871,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -111927,7 +111925,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52875,
+    "exp": 52935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120673,7 +120671,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2115,
+    "exp": 2085,
     "name": "ビクトリア・サン",
     "lastSeen": "2026-09-24T12:38:12.447Z",
     "cooldowns": {
