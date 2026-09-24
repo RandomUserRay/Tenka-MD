@@ -42717,8 +42717,8 @@
         "name": "izz"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 46,
-        "lastChat": 1790255079423,
+        "count": 48,
+        "lastChat": 1790255100212,
         "name": "Thiryzty X Wanzty"
       },
       "62881036183343@s.whatsapp.net": {
@@ -42826,7 +42826,9 @@
     "welcomeMsg": "HALO {user} YG BARU JOIN SEMOGA BETAH YA😊",
     "antiswgc": "on",
     "mutegc": true,
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "antisticker": true,
+    "antitagsw": "on"
   },
   "120363428874863498@g.us": {
     "chatStats": {
