@@ -96582,10 +96582,10 @@
     "jid": "6285111896442",
     "name": "yuuta_bjirr",
     "number": "6285111896442",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1740,
+    "exp": 1755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96595,9 +96595,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T07:20:05.363Z",
+    "lastSeen": "2026-09-24T07:23:00.651Z",
     "cooldowns": {
-      "s": 1789992430710,
+      "s": 1790234581320,
       "femboy": 1790234098323,
       "tsundere": 1790234407306,
       "cekganteng": 1790234120048,
@@ -124837,9 +124837,9 @@
   "6282190419955": {
     "jid": "6282190419955",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1080,
     "name": "aiko",
-    "lastSeen": "2026-09-24T07:21:54.869Z",
+    "lastSeen": "2026-09-24T07:22:54.158Z",
     "cooldowns": {
       "intro": 1789781408136,
       "s": 1790037591461,
@@ -124855,7 +124855,8 @@
       "imut": 1790234144722,
       "cekimut": 1790234235521,
       "yandere": 1790234368442,
-      "tsundere": 1790234378304
+      "tsundere": 1790234378304,
+      "menucat": 1790234574204
     },
     "lastActiveDate": "24/9/2026",
     "activeDays": 4,
