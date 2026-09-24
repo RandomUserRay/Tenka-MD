@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-23T23:11:05.763Z",
+    "lastSeen": "2026-09-24T02:47:28.882Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000098859,
+    "exp": 9000098934,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -96275,10 +96275,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8160,
+    "exp": 8175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96288,12 +96288,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T02:00:13.942Z",
+    "lastSeen": "2026-09-24T02:47:23.184Z",
     "cooldowns": {
       "afk": 1790128816000,
       "play": 1790079971834,
       "smeme": 1789440738497,
-      "s": 1790069773188,
+      "s": 1790218046386,
       "menu": 1788072949177,
       "menucat": 1788072970708,
       "cekfemboy": 1790085994641,
@@ -96335,8 +96335,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 15
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -124547,7 +124547,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1950,
+    "exp": 1965,
     "name": "Lucky🍀",
     "lastSeen": "2026-09-24T02:33:52.207Z",
     "energi": 99999,
