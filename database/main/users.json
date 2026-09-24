@@ -37130,13 +37130,13 @@
   },
   "601121042154": {
     "name": "emo",
-    "lastSeen": "2026-09-24T13:40:50.244Z",
+    "lastSeen": "2026-09-24T12:55:40.976Z",
     "jid": "601121042154",
     "number": "601121042154",
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40789,
+    "exp": 40759,
     "level": 1,
     "koin": 27416,
     "unlockedFeatures": [],
@@ -37156,8 +37156,7 @@
       "hytamkan": 1783872070056,
       "d": 1784304286527,
       "ttmp3": 1786015188316,
-      "s": 1789908236697,
-      "play": 1790257196412
+      "s": 1789908236697
     },
     "clanId": null,
     "isRegistered": false,
@@ -37176,8 +37175,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "20/9/2026",
+    "activeDays": 4
   },
   "6287838003323": {
     "jid": "6287838003323",
@@ -46867,13 +46866,13 @@
   },
   "6285716629814": {
     "name": "shin",
-    "lastSeen": "2026-09-24T12:21:35.357Z",
+    "lastSeen": "2026-09-24T13:39:48.970Z",
     "jid": "6285716629814",
     "number": "6285716629814",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180270,
+    "exp": 180285,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -46896,7 +46895,7 @@
       "cekhodam": 1783588827428,
       "play": 1783967340271,
       "delete": 1786189132000,
-      "h": 1790252496482,
+      "h": 1790257188981,
       "close": 1783856013947,
       "open": 1783856033917,
       "afk": 1789666100242,
@@ -104775,12 +104774,12 @@
   },
   "62895626761698": {
     "jid": "62895626761698",
-    "name": "traa",
+    "name": "hayy",
     "number": "62895626761698",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73023,
+    "exp": 73038,
     "level": 1,
     "koin": 1341,
     "saldo": 0,
@@ -104790,13 +104789,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-19T16:23:36.334Z",
+    "lastSeen": "2026-09-24T13:40:37.089Z",
     "cooldowns": {
       "play": 1788854085991,
       "iqc": 1789282691752,
       "ytmp4": 1788682428679,
       "owner": 1788682365634,
-      "menu": 1789830091305,
+      "menu": 1790257241263,
       "brat": 1789127651733,
       "bratanime": 1788692052231,
       "brathd": 1788693520600,
@@ -104862,8 +104861,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 15
   },
   "6283844985660": {
     "jid": "6283844985660",
@@ -111938,7 +111937,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53475,
+    "exp": 53505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125010,7 +125009,7 @@
   "6283124620093": {
     "jid": "6283124620093",
     "rpg": {},
-    "exp": 1455,
+    "exp": 1470,
     "name": "fariz",
     "lastSeen": "2026-09-19T15:02:11.469Z",
     "cooldowns": {
