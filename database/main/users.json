@@ -100870,7 +100870,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125583,5 +125583,17 @@
     "jid": "6285286566817",
     "rpg": {},
     "exp": 15
+  },
+  "275277909356749": {
+    "jid": "275277909356749",
+    "rpg": {},
+    "exp": 30,
+    "name": "Ahaha",
+    "lastSeen": "2026-09-25T05:31:53.648Z",
+    "cooldowns": {
+      "jadibot": 1790314316885
+    },
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 1
   }
 }
