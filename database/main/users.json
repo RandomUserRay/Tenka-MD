@@ -16593,7 +16593,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233539,
+    "exp": 233554,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -16604,7 +16604,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T07:32:15.786Z",
+    "lastSeen": "2026-09-25T07:32:43.957Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16688,7 +16688,7 @@
       "terima": 1786715014345,
       "stat": 1786715037965,
       "marry": 1786715318956,
-      "love": 1790321535846,
+      "love": 1790321564006,
       "cerai": 1789136006045
     },
     "clanId": null,
@@ -54305,7 +54305,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16641,
+    "exp": 16656,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -100875,7 +100875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3690,
+    "exp": 3705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100885,7 +100885,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T07:30:20.462Z",
+    "lastSeen": "2026-09-25T07:32:42.306Z",
     "cooldowns": {
       "menucat": 1788075258904,
       "menu": 1788075278469,
@@ -100895,7 +100895,7 @@
       "cekimut": 1789201676107,
       "cekganteng": 1789201739427,
       "s": 1789824485474,
-      "cekjodoh": 1790321420538
+      "cekjodoh": 1790321562372
     },
     "clanId": null,
     "isRegistered": false,
@@ -120542,15 +120542,20 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢 𝑉𝑐/𝑌𝑎𝑛𝑖𝑘𝑜🍋",
-    "lastSeen": "2026-09-25T07:30:27.251Z",
+    "lastSeen": "2026-09-25T07:32:47.240Z",
     "jid": "62895405466188",
     "rpg": {
-      "health": 100,
-      "stamina": 70,
+      "health": 110,
+      "stamina": 105,
       "spouse": "817083358303@s.whatsapp.net",
-      "marriedAt": 1790264845921
+      "marriedAt": 1790264845921,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "mana": 105
     },
-    "exp": 8201,
+    "exp": 10673,
     "cooldowns": {
       "s": 1790249922752,
       "smeme": 1789902978833,
@@ -120564,13 +120569,13 @@
       "adventure": 1790003744733,
       "me": 1790183474179,
       "play": 1790240930353,
-      "gojek": 1790321418516,
+      "gojek": 1790321571097,
       "profile": 1790280173216
     },
-    "energi": 99998,
+    "energi": 99997,
     "lastActiveDate": "25/9/2026",
     "activeDays": 9,
-    "koin": 20376
+    "koin": 69532
   },
   "62882007228103": {
     "jid": "62882007228103",
@@ -125370,7 +125375,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 3960,
+    "exp": 3975,
     "energi": 99997,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T07:31:50.384Z",
