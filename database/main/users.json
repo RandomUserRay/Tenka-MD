@@ -9762,13 +9762,13 @@
   },
   "6281310184404": {
     "name": "Hans",
-    "lastSeen": "2026-09-25T09:11:31.992Z",
+    "lastSeen": "2026-09-25T09:12:04.096Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50655,
+    "exp": 50685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9802,7 +9802,7 @@
       "tsundere": 1790327437494,
       "femboy": 1790327485014,
       "yandere": 1790327403429,
-      "cekcantik": 1790327430200,
+      "cekcantik": 1790327524181,
       "cekimut": 1790085286129,
       "cekyandere": 1790251333742,
       "ganteng": 1790327492153
@@ -125550,13 +125550,14 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 420,
+    "exp": 450,
     "name": "Mazzz",
-    "lastSeen": "2026-09-25T09:11:45.218Z",
+    "lastSeen": "2026-09-25T09:12:11.785Z",
     "cooldowns": {
       "femboy": 1790327498673,
       "yandere": 1790327473768,
-      "ganteng": 1790327505398
+      "ganteng": 1790327505398,
+      "cekcantik": 1790327531910
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 2,
