@@ -54306,7 +54306,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16866,
+    "exp": 16896,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54315,7 +54315,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T07:40:12.598Z",
+    "lastSeen": "2026-09-25T07:42:15.905Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54351,7 +54351,8 @@
       "istirahat": 1789213735157,
       "training": 1789213751788,
       "ship": 1790248597009,
-      "cekjodoh": 1790321611645
+      "cekjodoh": 1790321611645,
+      "unmute": 1790322136000
     },
     "clanId": null,
     "isRegistered": false,
@@ -98494,7 +98495,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3420,
+    "exp": 3435,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124942,12 +124943,12 @@
       "mana": 120,
       "stamina": 105
     },
-    "exp": 42718,
+    "exp": 42733,
     "name": "aiko",
-    "lastSeen": "2026-09-25T07:40:51.116Z",
+    "lastSeen": "2026-09-25T07:42:20.101Z",
     "cooldowns": {
       "intro": 1789781408136,
-      "s": 1790322052159,
+      "s": 1790322140913,
       "menu": 1790316653281,
       "cekganteng": 1790321808559,
       "cekcantik": 1790321798822,
@@ -124973,7 +124974,7 @@
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 5,
-    "energi": 100080,
+    "energi": 100079,
     "fun": {},
     "koin": 40495
   },
