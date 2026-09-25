@@ -1802,12 +1802,12 @@
   },
   "6283174193922": {
     "jid": "6283174193922",
-    "name": "Channel",
+    "name": "Tenka Izumo",
     "number": "6283174193922",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 653034,
+    "exp": 653109,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1816,7 +1816,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-11T11:11:27.786Z",
+    "lastSeen": "2026-09-25T12:27:46.783Z",
     "cooldowns": {
       "menu": 1784047213442,
       "owner": 1780107827338,
@@ -1868,8 +1868,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 6
   },
   "6281268965767": {
     "jid": "6281268965767",
@@ -3054,7 +3054,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 711611,
+    "exp": 711641,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -102321,7 +102321,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16834,
+    "exp": 16864,
     "level": 1,
     "koin": 0,
     "saldo": 0,
