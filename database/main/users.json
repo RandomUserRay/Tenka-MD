@@ -3478,7 +3478,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 427127,
+    "exp": 427142,
     "level": 1,
     "koin": 16064,
     "unlockedFeatures": [],
@@ -3487,14 +3487,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T13:31:01.045Z",
+    "lastSeen": "2026-09-25T22:07:16.756Z",
     "cooldowns": {
       "femboy": 1790343062968,
       "profile": 1790085318385,
       "menu": 1781530072258,
       "bank": 1783150240217,
       "profil": 1780487725718,
-      "afk": 1790340919763,
+      "afk": 1790374038464,
       "rob": 1783942526218,
       "me": 1790085329309,
       "work": 1783060174370,
@@ -3579,8 +3579,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 5
   },
   "6281227410972": {
     "jid": "6281227410972",
