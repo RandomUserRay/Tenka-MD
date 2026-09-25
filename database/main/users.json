@@ -19739,10 +19739,10 @@
     "jid": "6283172976375",
     "name": "iky p",
     "number": "6283172976375",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 286385,
+    "exp": 286400,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19751,7 +19751,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T16:05:26.328Z",
+    "lastSeen": "2026-09-25T10:57:48.826Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1790006726688,
@@ -19776,7 +19776,7 @@
       "jodoh": 1784451177581,
       "putus": 1784390264785,
       "afk": 1789383421062,
-      "tt": 1789880757386,
+      "tt": 1790333872651,
       "ttmp3": 1783745792376,
       "slot": 1784464160203,
       "kerja": 1784462533625,
@@ -19881,8 +19881,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 12
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -90484,7 +90484,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39750,
+    "exp": 39765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
