@@ -100870,7 +100870,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3615,
+    "exp": 3630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124918,12 +124918,12 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19851,
+    "exp": 19866,
     "name": "aiko",
-    "lastSeen": "2026-09-25T02:54:23.173Z",
+    "lastSeen": "2026-09-25T05:32:11.290Z",
     "cooldowns": {
       "intro": 1789781408136,
-      "s": 1790239166011,
+      "s": 1790314331849,
       "menu": 1790234752701,
       "cekganteng": 1790233850398,
       "cekcantik": 1790233837836,
@@ -124947,7 +124947,7 @@
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 5,
-    "energi": 100041,
+    "energi": 100040,
     "fun": {},
     "koin": 10809
   },
