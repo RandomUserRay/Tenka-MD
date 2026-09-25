@@ -20241,10 +20241,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55979,
+    "exp": 55994,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20253,7 +20253,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T11:18:35.843Z",
+    "lastSeen": "2026-09-25T16:54:30.189Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20326,7 +20326,8 @@
       "tenka": 1789396779128,
       "totalchat": 1789446644503,
       "bocil": 1789879838631,
-      "asupan": 1789880093782
+      "asupan": 1789880093782,
+      "ff": 1790355273029
     },
     "clanId": null,
     "isRegistered": false,
@@ -20346,8 +20347,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 12
   },
   "6282182476988": {
     "jid": "6282182476988",
