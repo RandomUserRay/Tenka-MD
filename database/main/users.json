@@ -28636,10 +28636,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296351,
+    "exp": 296366,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28650,7 +28650,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T09:14:25.755Z",
+    "lastSeen": "2026-09-25T11:02:22.650Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28711,7 +28711,7 @@
       "topglobal": 1782979599408,
       "antitoxic": 1788265043285,
       "listtoxic": 1788264826840,
-      "tt": 1790064558626,
+      "tt": 1790334145426,
       "ttmp3": 1788425272068,
       "hd": 1784640271962,
       "remini": 1782985011101,
@@ -28848,8 +28848,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 17
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 18
   },
   "6285810482980": {
     "jid": "6285810482980",
