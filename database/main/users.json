@@ -98489,7 +98489,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3240,
+    "exp": 3255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98499,11 +98499,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T21:19:46.794Z",
+    "lastSeen": "2026-09-25T05:46:09.784Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
-      "menucat": 1790198386832
+      "menucat": 1790198386832,
+      "cekfemboy": 1790315171694
     },
     "clanId": null,
     "isRegistered": false,
@@ -98513,8 +98514,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 2
   },
   "6283139500330": {
     "jid": "6283139500330",
