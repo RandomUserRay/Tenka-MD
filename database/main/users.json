@@ -67070,7 +67070,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 171135,
+    "exp": 171150,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67085,7 +67085,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T06:14:43.430Z",
+    "lastSeen": "2026-09-25T06:17:11.176Z",
     "cooldowns": {
       "afk": 1790312826153,
       "s": 1790314435424,
@@ -67168,7 +67168,8 @@
       "smemevid": 1789745755013,
       "intro": 1789781361840,
       "ut": 1790003919981,
-      "cekimut": 1790316883475
+      "cekimut": 1790316883475,
+      "tekateki": 1790317031216
     },
     "clanId": null,
     "isRegistered": false,
@@ -124925,7 +124926,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20076,
+    "exp": 22379,
     "name": "aiko",
     "lastSeen": "2026-09-25T06:16:57.297Z",
     "cooldowns": {
@@ -124955,9 +124956,9 @@
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 5,
-    "energi": 100038,
+    "energi": 100044,
     "fun": {},
-    "koin": 10809
+    "koin": 11588
   },
   "6285124236521": {
     "jid": "6285124236521",
