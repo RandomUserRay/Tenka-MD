@@ -62101,7 +62101,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 149394,
+    "exp": 149409,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62110,9 +62110,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T09:59:50.909Z",
+    "lastSeen": "2026-09-25T16:44:26.386Z",
     "cooldowns": {
-      "afk": 1788232334551,
+      "afk": 1790354667765,
       "play": 1790157599028,
       "mancing": 1784643047902,
       "susun": 1788241788337,
@@ -62139,8 +62139,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 10
   },
   "6281232577957": {
     "jid": "6281232577957",
