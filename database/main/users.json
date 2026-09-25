@@ -3055,7 +3055,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 712391,
+    "exp": 712406,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -90485,10 +90485,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39810,
+    "exp": 39855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90498,7 +90498,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T05:56:27.088Z",
+    "lastSeen": "2026-09-25T14:16:35.161Z",
     "cooldowns": {
       "play": 1789871072024,
       "toimg": 1787698619040,
@@ -90531,7 +90531,9 @@
       "antitagsw": 1790149921551,
       "closegroup": 1790149945257,
       "opengroup": 1790151058090,
-      "owner": 1790228154622
+      "owner": 1790228154622,
+      "lick": 1790345792529,
+      "kick": 1790345795901
     },
     "clanId": null,
     "isRegistered": false,
@@ -90549,8 +90551,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 11
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 12
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -125392,7 +125394,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 6360,
+    "exp": 6375,
     "energi": 99997,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T11:49:36.147Z",
