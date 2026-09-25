@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-25T08:50:57.123Z",
+    "lastSeen": "2026-09-25T08:52:44.291Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000111684,
+    "exp": 9000111759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3474,10 +3474,10 @@
     "jid": "6282135848247",
     "name": "Prince?",
     "number": "6282135848247",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 426842,
+    "exp": 426857,
     "level": 1,
     "koin": 16064,
     "unlockedFeatures": [],
@@ -3486,7 +3486,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T13:36:03.532Z",
+    "lastSeen": "2026-09-25T08:52:21.204Z",
     "cooldowns": {
       "femboy": 1790256966238,
       "profile": 1790085318385,
@@ -3503,7 +3503,7 @@
       "slap": 1782457591965,
       "level": 1781266941070,
       "exp": 1781530053122,
-      "s": 1790249965597,
+      "s": 1790326341939,
       "ww": 1782477803290,
       "fishing": 1781599522855,
       "mining": 1782910236160,
@@ -3578,8 +3578,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 4
   },
   "6281227410972": {
     "jid": "6281227410972",
@@ -96321,10 +96321,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99991,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12923,
+    "exp": 12953,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96334,12 +96334,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T07:55:51.109Z",
+    "lastSeen": "2026-09-25T08:52:12.377Z",
     "cooldowns": {
       "afk": 1790322267983,
       "play": 1790079971834,
       "smeme": 1789440738497,
-      "s": 1790306495159,
+      "s": 1790326333093,
       "menu": 1790247651585,
       "menucat": 1788072970708,
       "cekfemboy": 1790085994641,
@@ -125621,11 +125621,11 @@
   "275277909356749": {
     "jid": "275277909356749",
     "rpg": {},
-    "exp": 105,
+    "exp": 135,
     "name": "Ahaha",
-    "lastSeen": "2026-09-25T08:50:10.077Z",
+    "lastSeen": "2026-09-25T08:52:43.979Z",
     "cooldowns": {
-      "jadibot": 1790326213408
+      "jadibot": 1790326347477
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 1
