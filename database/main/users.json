@@ -54306,7 +54306,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17001,
+    "exp": 17016,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -67075,7 +67075,7 @@
     "energi": 100000,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173406,
+    "exp": 173421,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -90330,13 +90330,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-24T21:24:08.176Z",
+    "lastSeen": "2026-09-25T07:49:34.641Z",
     "jid": "6282168671203",
     "number": "6282168671203",
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19065,
+    "exp": 19125,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90347,7 +90347,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "menu": 1790285056846,
+      "menu": 1790322569957,
       "menucat": 1789999384095,
       "allmenu": 1786612038951,
       "cekfemboy": 1786885869654,
@@ -90386,7 +90386,8 @@
       "antispam": 1789877437767,
       "antiphising": 1789876881008,
       "kick": 1789968664796,
-      "tovid": 1789994706899
+      "tovid": 1789994706899,
+      "linkgc": 1790322574894
     },
     "clanId": null,
     "isRegistered": false,
@@ -96323,7 +96324,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12728,
+    "exp": 12743,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -120561,7 +120562,7 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 10823,
+    "exp": 10838,
     "cooldowns": {
       "s": 1790322241695,
       "smeme": 1789902978833,
@@ -125384,7 +125385,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 4230,
+    "exp": 4245,
     "energi": 99997,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T07:37:35.223Z",
