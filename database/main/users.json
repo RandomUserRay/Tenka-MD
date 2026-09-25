@@ -98492,10 +98492,10 @@
     "jid": "6285817456389",
     "name": "ra tau",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3435,
+    "exp": 3450,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98505,13 +98505,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T07:39:05.833Z",
+    "lastSeen": "2026-09-25T07:42:28.159Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
       "cekfemboy": 1790315171694,
-      "femboy": 1790321947831
+      "femboy": 1790321947831,
+      "s": 1790322149053
     },
     "clanId": null,
     "isRegistered": false,
@@ -120546,7 +120547,7 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢 𝑉𝑐/𝑌𝑎𝑛𝑖𝑘𝑜🍋",
-    "lastSeen": "2026-09-25T07:41:09.013Z",
+    "lastSeen": "2026-09-25T07:42:34.076Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 110,
@@ -120559,12 +120560,12 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 10703,
+    "exp": 10718,
     "cooldowns": {
       "s": 1790249922752,
       "smeme": 1789902978833,
       "allmenu": 1790003406148,
-      "rvo": 1790322069632,
+      "rvo": 1790322154753,
       "d": 1789728398252,
       "brat": 1789746131510,
       "qc": 1789746169600,
@@ -120576,7 +120577,7 @@
       "gojek": 1790321571097,
       "profile": 1790280173216
     },
-    "energi": 99996,
+    "energi": 99995,
     "lastActiveDate": "25/9/2026",
     "activeDays": 9,
     "koin": 69532
@@ -125382,7 +125383,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 4185,
+    "exp": 4200,
     "energi": 99997,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T07:37:35.223Z",
