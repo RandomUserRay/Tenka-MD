@@ -13315,7 +13315,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 240,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -13324,9 +13324,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-16T22:46:36.003Z",
+    "lastSeen": "2026-09-25T12:42:54.468Z",
     "cooldowns": {
-      "putihkan": 1783561241559
+      "putihkan": 1783561241559,
+      "menu": 1790340177601
     },
     "clanId": null,
     "isRegistered": false,
@@ -13336,7 +13337,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 1
   },
   "6282226796071": {
     "name": "Ivan",
@@ -102321,7 +102324,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17179,
+    "exp": 17194,
     "level": 1,
     "koin": 0,
     "saldo": 0,
