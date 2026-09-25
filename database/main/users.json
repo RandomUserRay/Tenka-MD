@@ -124909,8 +124909,16 @@
   },
   "6282190419955": {
     "jid": "6282190419955",
-    "rpg": {},
-    "exp": 8597,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 11417,
     "name": "aiko",
     "lastSeen": "2026-09-25T02:47:57.438Z",
     "cooldowns": {
@@ -124938,9 +124946,9 @@
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 5,
-    "energi": 100012,
+    "energi": 100019,
     "fun": {},
-    "koin": 4360
+    "koin": 5266
   },
   "6285124236521": {
     "jid": "6285124236521",
