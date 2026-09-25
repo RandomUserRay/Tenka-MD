@@ -1,6 +1,6 @@
 {
   "commandErrors": 648,
-  "commandsExecuted": 126556,
+  "commandsExecuted": 126557,
   "command_totalchat": 26,
   "command_menu": 2061,
   "command_fb": 10,
@@ -1398,5 +1398,6 @@
   "command_swhd": 4,
   "command_closegroup": 1,
   "command_bangb": 2,
-  "command_xdl": 1
+  "command_xdl": 1,
+  "command_x": 1
 }
