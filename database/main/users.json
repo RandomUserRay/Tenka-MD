@@ -54305,7 +54305,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16551,
+    "exp": 16581,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -100874,7 +100874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3675,
+    "exp": 3690,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100884,7 +100884,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T12:01:18.043Z",
+    "lastSeen": "2026-09-25T07:30:20.462Z",
     "cooldowns": {
       "menucat": 1788075258904,
       "menu": 1788075278469,
@@ -100893,7 +100893,8 @@
       "afk": 1790244970765,
       "cekimut": 1789201676107,
       "cekganteng": 1789201739427,
-      "s": 1789824485474
+      "s": 1789824485474,
+      "cekjodoh": 1790321420538
     },
     "clanId": null,
     "isRegistered": false,
@@ -100903,8 +100904,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "25/9/2026",
+    "activeDays": 5
   },
   "601173642441": {
     "jid": "601173642441",
@@ -102311,7 +102312,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16354,
+    "exp": 16369,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120539,15 +120540,15 @@
   },
   "62895405466188": {
     "name": "𝑆ℎ𝑒𝑟 𝑥 𝑇𝑎𝑡𝑠𝑢 𝑉𝑐/𝑌𝑎𝑛𝑖𝑘𝑜🍋",
-    "lastSeen": "2026-09-24T20:01:51.975Z",
+    "lastSeen": "2026-09-25T07:30:27.251Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 100,
-      "stamina": 85,
+      "stamina": 70,
       "spouse": "817083358303@s.whatsapp.net",
       "marriedAt": 1790264845921
     },
-    "exp": 7491,
+    "exp": 8201,
     "cooldowns": {
       "s": 1790249922752,
       "smeme": 1789902978833,
@@ -120561,13 +120562,13 @@
       "adventure": 1790003744733,
       "me": 1790183474179,
       "play": 1790240930353,
-      "gojek": 1790264815952,
+      "gojek": 1790321418516,
       "profile": 1790280173216
     },
-    "energi": 99999,
+    "energi": 99998,
     "lastActiveDate": "25/9/2026",
     "activeDays": 9,
-    "koin": 6776
+    "koin": 20376
   },
   "62882007228103": {
     "jid": "62882007228103",
