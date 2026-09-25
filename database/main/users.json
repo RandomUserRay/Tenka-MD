@@ -9768,7 +9768,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50715,
+    "exp": 50745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96325,7 +96325,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13013,
+    "exp": 13028,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125625,11 +125625,11 @@
   "275277909356749": {
     "jid": "275277909356749",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "name": "Ahaha",
-    "lastSeen": "2026-09-25T09:06:22.549Z",
+    "lastSeen": "2026-09-25T09:16:01.377Z",
     "cooldowns": {
-      "jadibot": 1790327185848
+      "jadibot": 1790327764717
     },
     "lastActiveDate": "25/9/2026",
     "activeDays": 1
