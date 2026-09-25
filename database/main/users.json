@@ -178,7 +178,7 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135962435,
+    "exp": 135962510,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -187,7 +187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T06:14:56.043Z",
+    "lastSeen": "2026-09-25T14:01:56.923Z",
     "cooldowns": {
       "profile": 1790279616965,
       "cekfemboy": 1780152179893,
@@ -269,7 +269,8 @@
       "ship": 1790084581815,
       "tsundere": 1790084944335,
       "yandere": 1790085087699,
-      "cekimut": 1790316866057
+      "cekimut": 1790316866057,
+      "freelance": 1790344921607
     },
     "clanId": null,
     "isRegistered": false,
@@ -282,7 +283,7 @@
       "maxHealth": 136060,
       "mana": 68080,
       "maxMana": 68080,
-      "stamina": 68080,
+      "stamina": 68055,
       "maxStamina": 68080,
       "spouse": null,
       "marriedAt": null,
