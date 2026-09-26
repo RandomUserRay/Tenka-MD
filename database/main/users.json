@@ -90062,7 +90062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7485,
+    "exp": 7500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90072,7 +90072,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T18:04:25.647Z",
+    "lastSeen": "2026-09-26T02:22:26.884Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90105,7 +90105,8 @@
       "ttmp3": 1787032303802,
       "tt": 1790175879359,
       "pixiv": 1790153020256,
-      "limit": 1790186665778
+      "limit": 1790186665778,
+      "p": 1790389348019
     },
     "clanId": null,
     "isRegistered": false,
@@ -90116,8 +90117,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 7
   },
   "6282229809440": {
     "jid": "6282229809440",
