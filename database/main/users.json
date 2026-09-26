@@ -102503,10 +102503,10 @@
     "jid": "16063130847",
     "name": "Zaycuz",
     "number": "16063130847",
-    "energi": 999999,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 213620,
+    "exp": 213635,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102516,11 +102516,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:29:32.218Z",
+    "lastSeen": "2026-09-26T04:29:51.728Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1790396932884,
-      "menu": 1790396972733
+      "menu": 1790396992210
     },
     "clanId": null,
     "isRegistered": false,
