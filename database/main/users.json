@@ -67087,7 +67087,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174051,
+    "exp": 174066,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67102,9 +67102,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T07:59:02.982Z",
+    "lastSeen": "2026-09-26T08:56:42.939Z",
     "cooldowns": {
-      "afk": 1790409544156,
+      "afk": 1790413004356,
       "s": 1790400433279,
       "play": 1789982437541,
       "inv": 1786434391177,
@@ -125296,7 +125296,7 @@
   "6285650881944": {
     "jid": "6285650881944",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "energi": 99999,
     "name": "Srh",
     "lastSeen": "2026-09-22T13:27:29.602Z",
