@@ -6644,8 +6644,8 @@
         "name": "Aexon"
       },
       "6285755379245@s.whatsapp.net": {
-        "count": 5992,
-        "lastChat": 1790397077198,
+        "count": 5994,
+        "lastChat": 1790397100838,
         "name": "Zay"
       },
       "6285835362050@s.whatsapp.net": {
@@ -6700,8 +6700,8 @@
     "antiswgc": "off",
     "antigroupstatus": "on",
     "botMode": "md",
-    "isPremium": false,
-    "premiumExpired": null,
+    "isPremium": true,
+    "premiumExpired": 1790483500883,
     "onlynsfw": true,
     "spamLimitCount": 3,
     "spamLimitTime": 10,
