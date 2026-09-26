@@ -120340,7 +120340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2925,
+    "exp": 2940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120350,10 +120350,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-23T13:01:31.559Z",
+    "lastSeen": "2026-09-26T12:58:22.088Z",
     "cooldowns": {
       "bratimg": 1790168494145,
-      "menu": 1789989550082,
+      "menu": 1790427504693,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
       "menucat": 1789827005432,
@@ -120386,8 +120386,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 8
   },
   "6281262488900": {
     "jid": "6281262488900",
