@@ -1874,7 +1874,8 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "25/9/2026",
-    "activeDays": 6
+    "activeDays": 6,
+    "fun": {}
   },
   "6281268965767": {
     "jid": "6281268965767",
@@ -3061,7 +3062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 714116,
+    "exp": 714131,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3070,7 +3071,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:35:32.055Z",
+    "lastSeen": "2026-09-26T11:36:30.763Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3163,7 +3164,8 @@
       "yandere": 1790085077590,
       "amprem": 1790241818368,
       "ammagic": 1790241774882,
-      "gay": 1790421886610
+      "gay": 1790421886610,
+      "terima": 1790422590941
     },
     "clanId": null,
     "isRegistered": false,
@@ -3482,10 +3484,10 @@
     "jid": "6282135848247",
     "name": "NekoChan",
     "number": "6282135848247",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 427952,
+    "exp": 427967,
     "level": 1,
     "koin": 20045,
     "unlockedFeatures": [],
@@ -3494,7 +3496,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:36:09.872Z",
+    "lastSeen": "2026-09-26T11:36:31.007Z",
     "cooldowns": {
       "femboy": 1790422436592,
       "profile": 1790085318385,
@@ -3556,7 +3558,8 @@
       "hytamkan": 1783508218400,
       "cekfemboy": 1790248808185,
       "top": 1790422195165,
-      "cekcantik": 1790422485278
+      "cekcantik": 1790422485278,
+      "tembak": 1790422591282
     },
     "clanId": null,
     "isRegistered": false,
@@ -3589,7 +3592,11 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "26/9/2026",
-    "activeDays": 5
+    "activeDays": 5,
+    "fun": {
+      "tembakTarget": "601121766723@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6281227410972": {
     "jid": "6281227410972",
@@ -125606,7 +125613,8 @@
     },
     "lastActiveDate": "26/9/2026",
     "activeDays": 3,
-    "energi": 99998
+    "energi": 99998,
+    "fun": {}
   },
   "6285860023680": {
     "jid": "6285860023680",
