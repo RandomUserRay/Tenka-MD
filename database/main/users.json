@@ -113635,7 +113635,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48010,
+    "exp": 48025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113645,7 +113645,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-20T01:38:53.051Z",
+    "lastSeen": "2026-09-26T13:04:14.564Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1789839307873,
@@ -113680,7 +113680,8 @@
       "expedition": 1789839755385,
       "nambalban": 1789867563014,
       "menu": 1789867737885,
-      "berladang": 1789868305213
+      "berladang": 1789868305213,
+      "delete": 1790427854603
     },
     "clanId": null,
     "isRegistered": false,
@@ -113711,8 +113712,8 @@
     },
     "access": [],
     "fun": {},
-    "lastActiveDate": "20/9/2026",
-    "activeDays": 2,
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 3,
     "lastStreamer": 1789868198198
   },
   "6283191157210": {
