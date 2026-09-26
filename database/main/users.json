@@ -3482,7 +3482,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 427322,
+    "exp": 427367,
     "level": 1,
     "koin": 20045,
     "unlockedFeatures": [],
@@ -3491,7 +3491,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:21:54.356Z",
+    "lastSeen": "2026-09-26T11:22:29.392Z",
     "cooldowns": {
       "femboy": 1790421716127,
       "profile": 1790085318385,
@@ -3513,7 +3513,7 @@
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1790085228941,
+      "gay": 1790421749611,
       "gacha": 1790421600788,
       "vote": 1781354632085,
       "sleep": 1782792781563,
@@ -3538,7 +3538,7 @@
       "smeme": 1782034295567,
       "energi": 1782048542328,
       "cool": 1782384677865,
-      "luck": 1783173960526,
+      "luck": 1790421743953,
       "baik": 1782385347102,
       "handsome": 1782441241722,
       "pinter": 1782384766058,
@@ -96345,7 +96345,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15188,
+    "exp": 15218,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96355,7 +96355,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:20:43.641Z",
+    "lastSeen": "2026-09-26T11:22:32.098Z",
     "cooldowns": {
       "afk": 1790420164430,
       "play": 1790406777317,
@@ -96370,7 +96370,7 @@
       "tolol": 1788075743705,
       "top": 1788085475131,
       "pintar": 1788075965074,
-      "femboy": 1790421644353,
+      "femboy": 1790421754060,
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1790256123798,
@@ -125578,19 +125578,21 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 720,
+    "exp": 750,
     "name": "Mazzz",
-    "lastSeen": "2026-09-26T11:21:44.153Z",
+    "lastSeen": "2026-09-26T11:22:34.733Z",
     "cooldowns": {
       "femboy": 1790421591346,
       "yandere": 1790327473768,
       "ganteng": 1790397216406,
       "cekcantik": 1790327531910,
-      "cekganteng": 1790421704290
+      "cekganteng": 1790421704290,
+      "luck": 1790421747169,
+      "gacha": 1790421754861
     },
     "lastActiveDate": "26/9/2026",
     "activeDays": 3,
-    "energi": 99999
+    "energi": 99998
   },
   "6285860023680": {
     "jid": "6285860023680",
