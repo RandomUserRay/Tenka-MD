@@ -125395,7 +125395,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 6705,
+    "exp": 6720,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T11:49:36.147Z",
@@ -125665,7 +125665,11 @@
     "jid": "62895348807500",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "iqc": 1790385985277
+    },
+    "energi": 23,
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 1
   }
 }
