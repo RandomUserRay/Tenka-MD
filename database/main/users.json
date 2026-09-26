@@ -7477,14 +7477,14 @@
     "access": []
   },
   "6281251684629": {
-    "name": "𝐃𝐚𝐰",
-    "lastSeen": "2026-08-30T09:04:37.260Z",
+    "name": "𝐃?",
+    "lastSeen": "2026-09-26T23:46:29.200Z",
     "jid": "6281251684629",
     "number": "6281251684629",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28585,
+    "exp": 28600,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -7497,7 +7497,7 @@
       "femboy": 1782908747438,
       "s": 1785083613710,
       "allmenu": 1782908840852,
-      "cekganteng": 1785394650381,
+      "cekganteng": 1790466389656,
       "qr": 1780186940958,
       "ceksocmed": 1780187054736,
       "ceksexy": 1780187110250,
@@ -7547,7 +7547,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   },
   "6283182305282": {
     "jid": "6283182305282",
