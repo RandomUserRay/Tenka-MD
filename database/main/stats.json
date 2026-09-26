@@ -1,6 +1,6 @@
 {
   "commandErrors": 648,
-  "commandsExecuted": 127461,
+  "commandsExecuted": 127460,
   "command_totalchat": 26,
   "command_menu": 2084,
   "command_fb": 14,
@@ -186,10 +186,10 @@
   "command_welcometype": 6,
   "command_tebakkata": 1013,
   "command_tebakhewan": 183,
-  "command_addplugin": 93,
+  "command_addplugin": 94,
   "command_autoreply": 86,
   "command_addcmdsticker": 3,
-  "command_ganticode": 504,
+  "command_ganticode": 503,
   "command_p2": 7,
   "command_delstickercmd": 2,
   "command_ganti-ourin-v9.jpg": 1,
@@ -1403,5 +1403,5 @@
   "command_bdsm": 2,
   "command_fotolive": 12,
   "command_netflix": 12,
-  "command_cekwa": 2
+  "command_cekwa": 1
 }
