@@ -102506,7 +102506,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 213545,
+    "exp": 213590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102516,11 +102516,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:28:06.199Z",
+    "lastSeen": "2026-09-26T04:29:03.342Z",
     "cooldowns": {
       "redeem": 1789116198474,
-      "owner": 1789135227735,
-      "menu": 1789135242963
+      "owner": 1790396932884,
+      "menu": 1790396936505
     },
     "clanId": null,
     "isRegistered": false,
