@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117601083,
+    "exp": 117601098,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -4440,7 +4440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231935,
+    "exp": 231950,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -125395,7 +125395,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 7200,
+    "exp": 7230,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T11:49:36.147Z",
@@ -125680,15 +125680,16 @@
   "6285788985156": {
     "jid": "6285788985156",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "𝘳𝘨𝘪𝘭",
-    "lastSeen": "2026-09-26T01:46:27.661Z",
+    "lastSeen": "2026-09-26T01:48:08.428Z",
     "cooldowns": {
       "menu": 1790387074009,
-      "hd4": 1790387228440
+      "hd4": 1790387228440,
+      "bratvid": 1790387289775
     },
     "lastActiveDate": "26/9/2026",
     "activeDays": 1,
-    "energi": 23
+    "energi": 22
   }
 }
