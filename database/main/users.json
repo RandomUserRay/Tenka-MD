@@ -65397,7 +65397,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3450,
+    "exp": 3465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -65406,11 +65406,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:47:30.441Z",
+    "lastSeen": "2026-09-26T13:17:34.204Z",
     "cooldowns": {
       "susun": 1784715421505,
       "play": 1784719710565,
-      "afk": 1790398051543
+      "afk": 1790428655638
     },
     "clanId": null,
     "isRegistered": false,
