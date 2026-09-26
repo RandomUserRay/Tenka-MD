@@ -90059,10 +90059,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99954,
+    "energi": 99952,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8085,
+    "exp": 8115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90072,7 +90072,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T03:06:52.951Z",
+    "lastSeen": "2026-09-26T03:07:41.266Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90107,7 +90107,7 @@
       "pixiv": 1790153020256,
       "limit": 1790186665778,
       "p": 1790390806535,
-      "x": 1790392002431
+      "x": 1790392055273
     },
     "clanId": null,
     "isRegistered": false,
@@ -125401,10 +125401,10 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 7950,
+    "exp": 7965,
     "energi": 99999,
     "name": "Mc Donald rimuru",
-    "lastSeen": "2026-09-25T11:49:36.147Z",
+    "lastSeen": "2026-09-26T03:07:28.305Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1790320368588,
@@ -125417,10 +125417,11 @@
       "x": 1790319422565,
       "love": 1790321510431,
       "tsundere": 1790321815232,
-      "yandere": 1790321855291
+      "yandere": 1790321855291,
+      "ganteng": 1790392048513
     },
-    "lastActiveDate": "25/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 3
   },
   "6281945913443": {
     "jid": "6281945913443",
@@ -125567,7 +125568,7 @@
   "601121766723": {
     "jid": "601121766723",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "Mazzz",
     "lastSeen": "2026-09-26T03:06:56.877Z",
     "cooldowns": {
