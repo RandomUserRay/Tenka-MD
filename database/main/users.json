@@ -3061,7 +3061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 714086,
+    "exp": 714116,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3485,7 +3485,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 427922,
+    "exp": 427952,
     "level": 1,
     "koin": 20045,
     "unlockedFeatures": [],
@@ -3494,7 +3494,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:35:27.492Z",
+    "lastSeen": "2026-09-26T11:36:09.872Z",
     "cooldowns": {
       "femboy": 1790422436592,
       "profile": 1790085318385,
@@ -3531,7 +3531,7 @@
       "deposit": 1782910240452,
       "heal": 1781600051647,
       "shop": 1781575673255,
-      "love": 1789996738355,
+      "love": 1790422570005,
       "steal": 1781702377297,
       "topexp": 1782792908312,
       "topenergi": 1781702355640,
@@ -96351,7 +96351,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15368,
+    "exp": 15383,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96361,7 +96361,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:34:39.400Z",
+    "lastSeen": "2026-09-26T11:35:54.651Z",
     "cooldowns": {
       "afk": 1790420164430,
       "play": 1790406777317,
@@ -96374,7 +96374,7 @@
       "cekcantik": 1790422480156,
       "cekganteng": 1790422383860,
       "tolol": 1788075743705,
-      "top": 1790422260193,
+      "top": 1790422554917,
       "pintar": 1788075965074,
       "femboy": 1790422326324,
       "dadu": 1788079899385,
@@ -102343,13 +102343,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-09-26T11:35:35.272Z",
+    "lastSeen": "2026-09-26T11:36:15.646Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17644,
+    "exp": 17674,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102421,7 +102421,9 @@
       "cekjodoh": 1790321492633,
       "femboy": 1790422330278,
       "cekcantik": 1790422443032,
-      "cekbaik": 1790422480299
+      "cekbaik": 1790422480299,
+      "cekpacar": 1790422557731,
+      "tembak": 1790422575944
     },
     "clanId": null,
     "isRegistered": false,
@@ -102455,7 +102457,10 @@
     "access": [],
     "lastActiveDate": "26/9/2026",
     "activeDays": 22,
-    "fun": {}
+    "fun": {
+      "tembakTarget": "6285240302212@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -125710,21 +125715,21 @@
   "6285788985156": {
     "jid": "6285788985156",
     "rpg": {},
-    "exp": 555,
+    "exp": 570,
     "name": "𝘳𝘨𝘪𝘭",
-    "lastSeen": "2026-09-26T11:35:35.827Z",
+    "lastSeen": "2026-09-26T11:36:03.675Z",
     "cooldowns": {
       "menu": 1790387074009,
       "hd4": 1790387228440,
       "bratvid": 1790422497394,
       "iqc": 1790394906826,
       "brat": 1790394926893,
-      "brathd": 1790422536738,
+      "brathd": 1790422564424,
       "ttmp3": 1790395182992
     },
     "lastActiveDate": "26/9/2026",
     "activeDays": 1,
-    "energi": 99996
+    "energi": 99995
   },
   "27093509361910@lid": {
     "energi": 9999
