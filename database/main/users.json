@@ -112001,10 +112001,10 @@
     "jid": "6282271219129",
     "name": "♛𝐭𝐮𝐝𝐞𝐩♛",
     "number": "6282271219129",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54810,
+    "exp": 54825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112014,7 +112014,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T14:21:38.107Z",
+    "lastSeen": "2026-09-26T16:08:53.495Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
@@ -112026,7 +112026,7 @@
       "tidur": 1789925041403,
       "status": 1789925350263,
       "hapus": 1789925352634,
-      "blockblast": 1789925442924
+      "blockblast": 1790438934433
     },
     "clanId": null,
     "isRegistered": false,
@@ -112044,8 +112044,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 8
   },
   "6287893710951": {
     "jid": "6287893710951",
@@ -125759,7 +125759,7 @@
     "lastSeen": "2026-09-26T15:25:31.664Z",
     "jid": "6285833562891",
     "rpg": {},
-    "exp": 4125,
+    "exp": 4200,
     "lastActiveDate": "26/9/2026",
     "activeDays": 1
   },
