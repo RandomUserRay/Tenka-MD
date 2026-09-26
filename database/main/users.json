@@ -93920,14 +93920,14 @@
     "access": []
   },
   "6285793601511": {
-    "name": "Bot",
-    "lastSeen": "2026-08-18T07:03:18.313Z",
+    "name": "A",
+    "lastSeen": "2026-09-26T02:20:07.638Z",
     "jid": "6285793601511",
     "number": "6285793601511",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5535,
+    "exp": 5550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93938,7 +93938,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1787026678067
+      "jadibot": 1790389210782
     },
     "clanId": null,
     "isRegistered": false,
@@ -93947,7 +93947,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 1
   },
   "6285939126537": {
     "name": "★🍳ɑzׁׅ֬υׁׅꭈׁׅɑׁׅ֮ɑׁׅ~💞🌷†★",
