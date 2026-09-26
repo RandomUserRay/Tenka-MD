@@ -101539,7 +101539,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 915,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101549,14 +101549,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T02:13:35.728Z",
+    "lastSeen": "2026-09-26T02:14:01.836Z",
     "cooldowns": {
       "s": 1789445409212,
       "play": 1789876214928,
       "cekcantik": 1790215476121,
       "cekganteng": 1790215449465,
       "femboy": 1790259427048,
-      "cekfemboy": 1790259394649
+      "cekfemboy": 1790259394649,
+      "jadibot": 1790388845077
     },
     "clanId": null,
     "isRegistered": false,
@@ -101566,8 +101567,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 7
   },
   "628984757583": {
     "jid": "628984757583",
@@ -125395,7 +125396,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 7920,
+    "exp": 7935,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T11:49:36.147Z",
