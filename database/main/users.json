@@ -4440,7 +4440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231995,
+    "exp": 232010,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -125680,16 +125680,17 @@
   "6285788985156": {
     "jid": "6285788985156",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "name": "𝘳𝘨𝘪𝘭",
-    "lastSeen": "2026-09-26T01:51:02.813Z",
+    "lastSeen": "2026-09-26T01:51:58.638Z",
     "cooldowns": {
       "menu": 1790387074009,
       "hd4": 1790387228440,
-      "bratvid": 1790387289775
+      "bratvid": 1790387289775,
+      "iqc": 1790387520520
     },
     "lastActiveDate": "26/9/2026",
     "activeDays": 1,
-    "energi": 22
+    "energi": 20
   }
 }
