@@ -3598,8 +3598,8 @@
     "lastActiveDate": "27/9/2026",
     "activeDays": 6,
     "fun": {
-      "tembakTarget": "6282135836023@s.whatsapp.net",
-      "tembakCount": 2
+      "tembakCount": 2,
+      "ditolakCount": 1
     }
   },
   "6281227410972": {
@@ -70818,12 +70818,12 @@
   },
   "6282135836023": {
     "jid": "6282135836023",
-    "name": "Unknown",
+    "name": "Jack Of All Trade❓💢",
     "number": "6282135836023",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 210,
+    "exp": 225,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -70832,8 +70832,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-30T08:22:28.616Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-26T21:15:59.965Z",
+    "cooldowns": {
+      "tolak": 1790457360268
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -70843,7 +70845,9 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "fun": {}
+    "fun": {},
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   },
   "6285753958897": {
     "jid": "6285753958897",
