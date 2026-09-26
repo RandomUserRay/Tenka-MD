@@ -3055,7 +3055,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 712691,
+    "exp": 712721,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4440,7 +4440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231575,
+    "exp": 231605,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -125661,17 +125661,18 @@
   },
   "62895348807500": {
     "name": "62895348807500",
-    "lastSeen": "2026-09-26T01:32:28.228Z",
+    "lastSeen": "2026-09-26T01:34:10.255Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "cooldowns": {
       "iqc": 1790385985277,
       "brat": 1790386309303,
       "hd": 1790386167578,
-      "bratgojo": 1790386349136
+      "bratgojo": 1790386349136,
+      "bratvid": 1790386452088
     },
-    "energi": 18,
+    "energi": 17,
     "lastActiveDate": "26/9/2026",
     "activeDays": 1
   }
