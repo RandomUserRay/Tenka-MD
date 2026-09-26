@@ -1808,7 +1808,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 655434,
+    "exp": 655509,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -67081,10 +67081,10 @@
     "jid": "6283135864303",
     "name": "Dio Brando",
     "number": "6283135864303",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173961,
+    "exp": 173976,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67099,10 +67099,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:46:59.866Z",
+    "lastSeen": "2026-09-26T05:27:12.389Z",
     "cooldowns": {
       "afk": 1790398021236,
-      "s": 1790330903482,
+      "s": 1790400433279,
       "play": 1789982437541,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -124359,7 +124359,7 @@
   "6282379159928": {
     "jid": "6282379159928",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "energi": 99999,
     "name": "ambaruwo",
     "lastSeen": "2026-09-22T14:05:05.214Z"
