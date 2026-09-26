@@ -3055,7 +3055,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 712826,
+    "exp": 712841,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4440,7 +4440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231815,
+    "exp": 231830,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -125395,7 +125395,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 6990,
+    "exp": 7005,
     "energi": 99999,
     "name": "Mc Donald rimuru",
     "lastSeen": "2026-09-25T11:49:36.147Z",
@@ -125676,5 +125676,10 @@
     "energi": 15,
     "lastActiveDate": "26/9/2026",
     "activeDays": 1
+  },
+  "6285788985156": {
+    "jid": "6285788985156",
+    "rpg": {},
+    "exp": 15
   }
 }
