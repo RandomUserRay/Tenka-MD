@@ -90825,15 +90825,15 @@
   },
   "6288268008253": {
     "name": "sigma",
-    "lastSeen": "2026-09-27T08:55:13.350Z",
+    "lastSeen": "2026-09-27T08:56:33.404Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3166,
+    "exp": 3181,
     "level": 1,
-    "koin": 150000,
+    "koin": 100000000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -90862,7 +90862,7 @@
     "rpg": {
       "stamina": 60,
       "health": 85,
-      "bank": 99850000
+      "bank": 0
     },
     "inventory": {},
     "access": [],
