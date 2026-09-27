@@ -8034,7 +8034,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 133103,
+    "exp": 133118,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -8043,7 +8043,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T06:26:13.949Z",
+    "lastSeen": "2026-09-27T07:39:19.242Z",
     "cooldowns": {
       "ww": 1781258054825,
       "level": 1786782468117,
@@ -8068,7 +8068,7 @@
       "smeme": 1781264201487,
       "apakah": 1780325298355,
       "profile": 1785154218530,
-      "menu": 1790239597324,
+      "menu": 1790494762570,
       "play": 1780326183507,
       "truth": 1780327865880,
       "dare": 1780327654052,
@@ -8189,8 +8189,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 3
   },
   "6285245902156": {
     "jid": "6285245902156",
@@ -101855,7 +101855,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 390,
+    "exp": 405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125732,13 +125732,13 @@
   },
   "62895348807500": {
     "name": "62895348807500",
-    "lastSeen": "2026-09-27T07:38:48.958Z",
+    "lastSeen": "2026-09-27T07:39:15.839Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 870,
+    "exp": 915,
     "cooldowns": {
       "iqc": 1790435839448,
-      "brat": 1790439324672,
+      "brat": 1790494755892,
       "hd": 1790386167578,
       "bratgojo": 1790386349136,
       "bratvid": 1790393996588,
@@ -125747,7 +125747,7 @@
       "bratimg": 1790439381083,
       "bratgojovid": 1790439467545
     },
-    "energi": 99993,
+    "energi": 99990,
     "lastActiveDate": "27/9/2026",
     "activeDays": 2
   },
