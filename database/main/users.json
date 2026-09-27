@@ -70833,7 +70833,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106017,7 +106017,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5100,
+    "exp": 5115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106027,7 +106027,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T13:16:05.809Z",
+    "lastSeen": "2026-09-27T11:42:44.671Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106041,7 +106041,7 @@
       "warn": 1789566339974,
       "resetwarn": 1789565347398,
       "antiswgc": 1790253792421,
-      "afk": 1789566369344,
+      "afk": 1790509365569,
       "antimedia": 1789566420292,
       "addcmdsticker": 1789566487339,
       "bratimg": 1789976361804,
@@ -106060,8 +106060,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 6
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 7
   },
   "6283829647574": {
     "jid": "6283829647574",
