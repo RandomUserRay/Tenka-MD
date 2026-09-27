@@ -68101,7 +68101,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3915,
+    "exp": 3930,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90101,7 +90101,7 @@
     "energi": 99966,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8955,
+    "exp": 8970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90111,7 +90111,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T06:22:24.280Z",
+    "lastSeen": "2026-09-27T06:43:46.554Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90147,7 +90147,8 @@
       "limit": 1790393643935,
       "p": 1790473845158,
       "x": 1790475540771,
-      "pp": 1790490026038
+      "pp": 1790490026038,
+      "h": 1790491429023
     },
     "clanId": null,
     "isRegistered": false,
