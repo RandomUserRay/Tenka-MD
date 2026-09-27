@@ -27669,10 +27669,10 @@
     "jid": "6282288273572",
     "name": "FERIT AY",
     "number": "6282288273572",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114112,
+    "exp": 114127,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -27681,13 +27681,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-29T03:29:34.241Z",
+    "lastSeen": "2026-09-27T01:54:20.425Z",
     "cooldowns": {
       "afk": 1785238067376,
       "jodoh": 1783338333447,
       "ganteng": 1782817667973,
       "setbirthday": 1782824672450,
-      "robloxstalk": 1783338399487,
+      "robloxstalk": 1790474062979,
       "tembak": 1785324264501,
       "tebakkata": 1785329855095,
       "cektinggi": 1783338308615,
@@ -27782,7 +27782,9 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastStreamer": 1785482541955
+    "lastStreamer": 1785482541955,
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   },
   "6285720043104": {
     "jid": "6285720043104",
@@ -102369,7 +102371,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18679,
+    "exp": 18694,
     "level": 1,
     "koin": 0,
     "saldo": 0,
