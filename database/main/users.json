@@ -73445,10 +73445,10 @@
     "jid": "6285602942938",
     "name": "VARO",
     "number": "6285602942938",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4380,
+    "exp": 4395,
     "level": 1,
     "koin": 1,
     "unlockedFeatures": [],
@@ -73457,7 +73457,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T08:20:13.529Z",
+    "lastSeen": "2026-09-27T08:20:28.913Z",
     "cooldowns": {
       "brathd": 1785154155052,
       "top": 1787833390209,
@@ -73465,7 +73465,8 @@
       "brat": 1785241192564,
       "bratimg": 1785241672273,
       "gila": 1785666032159,
-      "cekganteng": 1785666084888
+      "cekganteng": 1785666084888,
+      "bratvid2": 1790497232127
     },
     "clanId": null,
     "isRegistered": false,
@@ -73475,7 +73476,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   },
   "6282311412916": {
     "jid": "6282311412916",
