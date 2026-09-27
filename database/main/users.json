@@ -16624,9 +16624,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234223,
+    "exp": 235630,
     "level": 1,
-    "koin": 4292,
+    "koin": 32133,
     "unlockedFeatures": [
       "game"
     ],
@@ -16635,7 +16635,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T02:00:29.332Z",
+    "lastSeen": "2026-09-27T02:00:40.110Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16700,7 +16700,7 @@
       "inv": 1786284369973,
       "shop": 1786283945179,
       "casino": 1785648869733,
-      "freelance": 1786714381573,
+      "freelance": 1790474444587,
       "istirahat": 1785649512208,
       "mine": 1786283981580,
       "saldo": 1785649032038,
@@ -16735,7 +16735,7 @@
       "maxHealth": 330,
       "mana": 215,
       "maxMana": 215,
-      "stamina": 205,
+      "stamina": 180,
       "maxStamina": 215,
       "bank": 0,
       "spouse": null,
