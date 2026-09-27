@@ -73297,12 +73297,12 @@
   },
   "6285822938264": {
     "jid": "6285822938264",
-    "name": "elaina",
+    "name": "𝙀𝙇𝘼𝙄𝙉𝘼ッ",
     "number": "6285822938264",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9555,
+    "exp": 9585,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73311,9 +73311,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T08:57:08.317Z",
+    "lastSeen": "2026-09-27T07:38:01.187Z",
     "cooldowns": {
-      "jadibot": 1787833057358
+      "jadibot": 1790494684693
     },
     "clanId": null,
     "isRegistered": false,
@@ -73323,7 +73323,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   },
   "6282228091106": {
     "jid": "6282228091106",
@@ -96379,7 +96381,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15683,
+    "exp": 15698,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -101853,7 +101855,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
