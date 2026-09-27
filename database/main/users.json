@@ -70825,10 +70825,10 @@
     "jid": "6282135836023",
     "name": "Jack Of All Trade❓💢",
     "number": "6282135836023",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 225,
+    "exp": 240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -70837,9 +70837,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T21:15:59.965Z",
+    "lastSeen": "2026-09-27T04:19:32.992Z",
     "cooldowns": {
-      "tolak": 1790457360268
+      "tolak": 1790457360268,
+      "s": 1790482774352
     },
     "clanId": null,
     "isRegistered": false,
