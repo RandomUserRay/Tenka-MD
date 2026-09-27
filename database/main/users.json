@@ -3487,19 +3487,19 @@
     "jid": "6282135848247",
     "name": "NekoChan",
     "number": "6282135848247",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 428597,
+    "exp": 428612,
     "level": 1,
-    "koin": 21639,
+    "koin": 7059,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T01:40:05.142Z",
+    "lastSeen": "2026-09-27T08:58:05.748Z",
     "cooldowns": {
       "femboy": 1790466721909,
       "profile": 1790085318385,
@@ -3507,7 +3507,7 @@
       "bank": 1783150240217,
       "profil": 1780487725718,
       "afk": 1790473206778,
-      "rob": 1783942526218,
+      "rob": 1790499488685,
       "me": 1790085329309,
       "work": 1783060174370,
       "topixel": 1781183602489,
@@ -3572,7 +3572,7 @@
     "regGender": null,
     "rpg": {
       "level": 43,
-      "health": 520,
+      "health": 495,
       "maxHealth": 520,
       "mana": 310,
       "maxMana": 310,
@@ -90825,15 +90825,15 @@
   },
   "6288268008253": {
     "name": "sigma",
-    "lastSeen": "2026-09-27T08:56:33.404Z",
+    "lastSeen": "2026-09-27T08:58:12.151Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3181,
+    "exp": 3196,
     "level": 1,
-    "koin": 100000000,
+    "koin": 99950000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -90852,7 +90852,7 @@
       "s": 1789618441384,
       "bank": 1789636561666,
       "afk": 1789791584735,
-      "marry": 1790499313832
+      "marry": 1790499492556
     },
     "clanId": null,
     "isRegistered": false,
@@ -90862,7 +90862,9 @@
     "rpg": {
       "stamina": 60,
       "health": 85,
-      "bank": 0
+      "bank": 0,
+      "spouse": "6285650881944@s.whatsapp.net",
+      "marriedAt": 1790499492152
     },
     "inventory": {},
     "access": [],
@@ -125360,7 +125362,10 @@
   },
   "6285650881944": {
     "jid": "6285650881944",
-    "rpg": {},
+    "rpg": {
+      "spouse": "6288268008253@s.whatsapp.net",
+      "marriedAt": 1790499492152
+    },
     "exp": 585,
     "energi": 99999,
     "name": "Srh",
