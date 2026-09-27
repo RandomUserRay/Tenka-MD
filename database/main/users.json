@@ -90825,13 +90825,13 @@
   },
   "6288268008253": {
     "name": "sigma",
-    "lastSeen": "2026-09-19T04:19:42.254Z",
+    "lastSeen": "2026-09-27T08:55:13.350Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3151,
+    "exp": 3166,
     "level": 1,
     "koin": 150000,
     "saldo": 0,
@@ -90851,7 +90851,8 @@
       "transfer": 1786706221920,
       "s": 1789618441384,
       "bank": 1789636561666,
-      "afk": 1789791584735
+      "afk": 1789791584735,
+      "marry": 1790499313832
     },
     "clanId": null,
     "isRegistered": false,
@@ -90865,8 +90866,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 3
   },
   "6287737013754": {
     "jid": "6287737013754",
