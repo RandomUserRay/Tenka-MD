@@ -70833,7 +70833,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 300,
+    "exp": 315,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -70842,11 +70842,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T11:40:21.140Z",
+    "lastSeen": "2026-09-27T11:41:44.077Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790482774352,
-      "terima": 1790509221200
+      "terima": 1790509221200,
+      "cerai": 1790509304176
     },
     "clanId": null,
     "isRegistered": false,
