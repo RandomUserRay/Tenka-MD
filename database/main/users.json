@@ -41236,7 +41236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284069,
+    "exp": 284084,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -125881,6 +125881,13 @@
   "6282190148266": {
     "jid": "6282190148266",
     "rpg": {},
-    "exp": 15
+    "exp": 30,
+    "name": ".~☆?",
+    "lastSeen": "2026-09-27T14:50:45.022Z",
+    "cooldowns": {
+      "afk": 1790520645991
+    },
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 1
   }
 }
