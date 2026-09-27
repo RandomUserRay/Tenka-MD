@@ -65408,10 +65408,10 @@
     "jid": "6282114024241",
     "name": "𝒀𝒂𝒕𝒕𝒂★",
     "number": "6282114024241",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3480,
+    "exp": 3525,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -65420,11 +65420,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T11:21:30.569Z",
+    "lastSeen": "2026-09-27T14:47:08.855Z",
     "cooldowns": {
       "susun": 1784715421505,
       "play": 1784719710565,
-      "afk": 1790508093062
+      "afk": 1790508093062,
+      "ytmp4": 1790520431733
     },
     "clanId": null,
     "isRegistered": false,
