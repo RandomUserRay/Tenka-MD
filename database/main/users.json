@@ -16621,12 +16621,12 @@
     "jid": "6281357730198",
     "name": "ダークビスタ",
     "number": "6281357730198",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236349,
+    "exp": 236364,
     "level": 1,
-    "koin": 46219,
+    "koin": 34888,
     "unlockedFeatures": [
       "game"
     ],
@@ -16635,7 +16635,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T02:00:54.397Z",
+    "lastSeen": "2026-09-27T02:01:42.180Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16648,7 +16648,7 @@
       "afk": 1786275797416,
       "s": 1786714605508,
       "maling": 1786709602524,
-      "crime": 1786709703442,
+      "crime": 1790474505159,
       "gojek": 1786709554847,
       "deposit": 1785162053704,
       "bank": 1789964569194,
@@ -16731,7 +16731,7 @@
     "regGender": null,
     "rpg": {
       "level": 24,
-      "health": 305,
+      "health": 290,
       "maxHealth": 330,
       "mana": 215,
       "maxMana": 215,
