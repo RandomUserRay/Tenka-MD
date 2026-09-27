@@ -14988,10 +14988,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275073,
+    "exp": 275088,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -15002,7 +15002,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-17T15:05:39.615Z",
+    "lastSeen": "2026-09-27T13:33:07.829Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15236,7 +15236,8 @@
       "musicmaker": 1786939360310,
       "toblack": 1786939452613,
       "pinpack": 1786940109267,
-      "game": 1789473051325
+      "game": 1789473051325,
+      "netflix": 1790515988758
     },
     "clanId": null,
     "isRegistered": false,
@@ -15323,8 +15324,8 @@
     },
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "17/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 8
   },
   "6282261512336": {
     "jid": "6282261512336",
