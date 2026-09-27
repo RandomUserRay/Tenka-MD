@@ -90825,15 +90825,15 @@
   },
   "6288268008253": {
     "name": "sigma",
-    "lastSeen": "2026-09-27T08:58:12.151Z",
+    "lastSeen": "2026-09-27T08:58:32.893Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3196,
+    "exp": 3211,
     "level": 1,
-    "koin": 99950000,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -90850,7 +90850,7 @@
       "money": 1786706152968,
       "transfer": 1786706221920,
       "s": 1789618441384,
-      "bank": 1789636561666,
+      "bank": 1790499514481,
       "afk": 1789791584735,
       "marry": 1790499492556
     },
@@ -90862,7 +90862,7 @@
     "rpg": {
       "stamina": 60,
       "health": 85,
-      "bank": 0,
+      "bank": 99950000,
       "spouse": "6285650881944@s.whatsapp.net",
       "marriedAt": 1790499492152
     },
