@@ -1589,7 +1589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 313152,
+    "exp": 313167,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1598,7 +1598,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T11:33:01.946Z",
+    "lastSeen": "2026-09-27T08:57:41.231Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -1617,7 +1617,7 @@
       "smeme": 1785540947956,
       "kill": 1780404847290,
       "s": 1784475115806,
-      "bank": 1781504961737,
+      "bank": 1790499461443,
       "me": 1786181829333,
       "menucat": 1784360405460,
       "craft": 1780391866507,
@@ -1802,8 +1802,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "26/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "27/9/2026",
+    "activeDays": 2
   },
   "6283174193922": {
     "jid": "6283174193922",
