@@ -16624,9 +16624,9 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233779,
+    "exp": 234223,
     "level": 1,
-    "koin": 0,
+    "koin": 4292,
     "unlockedFeatures": [
       "game"
     ],
@@ -16635,7 +16635,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T01:56:09.831Z",
+    "lastSeen": "2026-09-27T02:00:29.332Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16643,7 +16643,7 @@
       "rob": 1786718181172,
       "gacha": 1786709687308,
       "villain": 1783504027804,
-      "work": 1786709653699,
+      "work": 1790474432659,
       "redeem": 1783604162803,
       "afk": 1786275797416,
       "s": 1786714605508,
@@ -16735,7 +16735,7 @@
       "maxHealth": 330,
       "mana": 215,
       "maxMana": 215,
-      "stamina": 215,
+      "stamina": 205,
       "maxStamina": 215,
       "bank": 0,
       "spouse": null,
