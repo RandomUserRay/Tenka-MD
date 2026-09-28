@@ -106037,10 +106037,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5280,
+    "exp": 5295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106050,7 +106050,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T12:45:59.122Z",
+    "lastSeen": "2026-09-28T12:46:32.479Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106075,7 +106075,8 @@
       "mutegc": 1790255628192,
       "setwelcome": 1790255746594,
       "fakeff": 1790594100378,
-      "bratvid": 1790599561871
+      "bratvid": 1790599561871,
+      "bratvid2": 1790599596635
     },
     "clanId": null,
     "isRegistered": false,
