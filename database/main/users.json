@@ -125923,17 +125923,18 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-09-28T10:40:35.788Z",
+    "lastSeen": "2026-09-28T10:40:48.046Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "cooldowns": {
       "iqc": 1790574389593,
       "p": 1790591470364,
       "bratvid2": 1790591953369,
-      "bratwhite": 1790592036684
+      "bratwhite": 1790592036684,
+      "bratimg": 1790592050365
     },
-    "energi": 19,
+    "energi": 18,
     "lastActiveDate": "28/9/2026",
     "activeDays": 1
   },
