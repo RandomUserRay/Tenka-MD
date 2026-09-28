@@ -16090,10 +16090,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99986,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9394967,
+    "exp": 9394982,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16102,7 +16102,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T14:52:50.164Z",
+    "lastSeen": "2026-09-28T14:53:22.128Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16332,7 +16332,7 @@
       "iqc": 1790437109539,
       "netflix": 1790581449110,
       "fakeml": 1790595322571,
-      "pin": 1790607179069
+      "pin": 1790607209361
     },
     "clanId": null,
     "isRegistered": false,
