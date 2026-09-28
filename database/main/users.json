@@ -4035,10 +4035,10 @@
     "jid": "62881023861379",
     "name": "𝐒𝐘𝐍𝐎",
     "number": "62881023861379",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 96990,
+    "exp": 97005,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4047,7 +4047,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T15:12:28.541Z",
+    "lastSeen": "2026-09-28T11:30:53.120Z",
     "cooldowns": {
       "cekfemboy": 1780119477300,
       "afk": 1783081643776,
@@ -4121,7 +4121,7 @@
       "bratimg": 1784272761434,
       "mywaifu": 1785247253231,
       "black": 1785420054956,
-      "play": 1785420070373,
+      "play": 1790595070389,
       "hd5": 1786316559073
     },
     "clanId": null,
@@ -4151,8 +4151,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 3
   },
   "628988810597": {
     "jid": "628988810597",
@@ -96421,7 +96421,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17708,
+    "exp": 17723,
     "level": 1,
     "koin": 552,
     "saldo": 0,
