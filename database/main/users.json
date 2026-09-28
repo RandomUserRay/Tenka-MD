@@ -71278,12 +71278,12 @@
   },
   "6287793883633": {
     "jid": "6287793883633",
-    "name": "nad",
+    "name": "nd",
     "number": "6287793883633",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1365,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71292,9 +71292,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T10:33:22.308Z",
+    "lastSeen": "2026-09-28T22:21:10.528Z",
     "cooldowns": {
-      "afk": 1787987876948,
+      "afk": 1790634071793,
       "s": 1789036350611,
       "wm": 1789036370208,
       "swm": 1789036407308
@@ -71308,8 +71308,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 3
   },
   "6283180359495": {
     "jid": "6283180359495",
