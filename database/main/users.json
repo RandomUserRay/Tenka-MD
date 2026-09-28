@@ -106029,10 +106029,10 @@
     "jid": "6283121900324",
     "name": "el yapping",
     "number": "6283121900324",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5190,
+    "exp": 5250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106042,12 +106042,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T11:42:44.671Z",
+    "lastSeen": "2026-09-28T00:00:32.574Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
-      "play": 1790087600441,
+      "play": 1790553646322,
       "antispam": 1790253781442,
       "antitagsw": 1790255414729,
       "antitoxic": 1790253774380,
@@ -106075,8 +106075,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 8
   },
   "6283829647574": {
     "jid": "6283829647574",
