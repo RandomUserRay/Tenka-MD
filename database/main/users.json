@@ -96418,10 +96418,10 @@
     "jid": "6283139380069",
     "name": "shiro <3",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17438,
+    "exp": 17453,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96431,7 +96431,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T12:49:05.812Z",
+    "lastSeen": "2026-09-28T07:45:43.471Z",
     "cooldowns": {
       "afk": 1790511691979,
       "play": 1790512912692,
@@ -96460,7 +96460,8 @@
       "kiss": 1790084032681,
       "lick": 1790084444399,
       "tsundere": 1790393988240,
-      "yandere": 1790256166163
+      "yandere": 1790256166163,
+      "rvo": 1790581544212
     },
     "clanId": null,
     "isRegistered": false,
@@ -96479,8 +96480,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 18
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 19
   },
   "6285814414356": {
     "jid": "6285814414356",
