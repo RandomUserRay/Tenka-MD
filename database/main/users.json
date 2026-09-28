@@ -98626,12 +98626,12 @@
   },
   "6283139500330": {
     "jid": "6283139500330",
-    "name": "Unknown",
+    "name": "Mambou",
     "number": "6283139500330",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98641,8 +98641,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T08:23:44.965Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-28T06:07:59.704Z",
+    "cooldowns": {
+      "play": 1790575687203
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -98650,7 +98652,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 1
   },
   "6285691135813": {
     "jid": "6285691135813",
