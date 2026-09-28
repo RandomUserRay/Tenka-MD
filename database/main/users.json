@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-28T11:05:47.709Z",
+    "lastSeen": "2026-09-28T11:02:29.149Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000139209,
+    "exp": 9000139134,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 661584,
+    "exp": 661659,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -4038,7 +4038,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 96960,
+    "exp": 96975,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -11600,7 +11600,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38644,
+    "exp": 38659,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -124392,7 +124392,7 @@
   "6281991077169": {
     "jid": "6281991077169",
     "rpg": {},
-    "exp": 30,
+    "exp": 75,
     "energi": 99999
   },
   "6285196313233": {
@@ -125935,7 +125935,8 @@
       "p": 1790591470364,
       "bratvid2": 1790592143861,
       "bratwhite": 1790592036684,
-      "bratimg": 1790592050365
+      "bratimg": 1790592050365,
+      "fakeml": 1790593478317
     },
     "energi": 16,
     "lastActiveDate": "28/9/2026",
@@ -125943,10 +125944,10 @@
   },
   "6285779164177": {
     "name": "Wise",
-    "lastSeen": "2026-09-28T11:05:37.264Z",
+    "lastSeen": "2026-09-28T06:12:13.726Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 450,
+    "exp": 300,
     "lastActiveDate": "28/9/2026",
     "activeDays": 1
   },
