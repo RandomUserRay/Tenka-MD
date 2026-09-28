@@ -3059,10 +3059,10 @@
     "jid": "6285240302212",
     "name": "cihuyyy",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 715286,
+    "exp": 715316,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3071,7 +3071,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T12:14:58.099Z",
+    "lastSeen": "2026-09-28T12:52:12.659Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3106,7 +3106,7 @@
       "menu": 1785599212528,
       "tf": 1782461497203,
       "adventure": 1780401640145,
-      "smeme": 1788096490146,
+      "smeme": 1790599941298,
       "transfer": 1788080585092,
       "me": 1790225330507,
       "tarik": 1780903358064,
@@ -3211,8 +3211,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 17,
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 18,
     "fun": {
       "pasangan": "628981194866@s.whatsapp.net"
     }
@@ -96423,7 +96423,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17933,
+    "exp": 17948,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125786,10 +125786,10 @@
   },
   "62895348807500": {
     "name": "62895348807500",
-    "lastSeen": "2026-09-28T12:50:49.689Z",
+    "lastSeen": "2026-09-28T12:51:57.325Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1785,
     "cooldowns": {
       "iqc": 1790572778039,
       "brat": 1790599849774,
@@ -125800,7 +125800,7 @@
       "bratvid2": 1790599789889,
       "bratimg": 1790439381083,
       "bratgojovid": 1790439467545,
-      "bratbahlil": 1790494795274,
+      "bratbahlil": 1790599917889,
       "hd4": 1790496043885,
       "pin": 1790568910643,
       "ytmp4": 1790566243753,
@@ -125814,7 +125814,7 @@
       "fakeff": 1790592394414,
       "fakeml": 1790599655670
     },
-    "energi": 99962,
+    "energi": 99961,
     "lastActiveDate": "28/9/2026",
     "activeDays": 3
   },
@@ -125968,6 +125968,14 @@
   "6289603548927": {
     "jid": "6289603548927",
     "rpg": {},
-    "exp": 45
+    "exp": 75,
+    "name": "~ 🇬🇦➕🇲🇨",
+    "lastSeen": "2026-09-28T12:51:56.106Z",
+    "cooldowns": {
+      "bratbahlil": 1790599916993
+    },
+    "energi": 24,
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 1
   }
 }
