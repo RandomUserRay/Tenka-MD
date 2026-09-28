@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 661659,
+    "exp": 661584,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -4038,7 +4038,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 96975,
+    "exp": 96960,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -11600,7 +11600,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38659,
+    "exp": 38644,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -124392,7 +124392,7 @@
   "6281991077169": {
     "jid": "6281991077169",
     "rpg": {},
-    "exp": 45,
+    "exp": 30,
     "energi": 99999
   },
   "6285196313233": {
@@ -125935,8 +125935,7 @@
       "p": 1790591470364,
       "bratvid2": 1790592143861,
       "bratwhite": 1790592036684,
-      "bratimg": 1790592050365,
-      "fakeml": 1790593478317
+      "bratimg": 1790592050365
     },
     "energi": 16,
     "lastActiveDate": "28/9/2026",
@@ -125944,10 +125943,10 @@
   },
   "6285779164177": {
     "name": "Wise",
-    "lastSeen": "2026-09-28T06:12:13.726Z",
+    "lastSeen": "2026-09-28T11:05:37.264Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 300,
+    "exp": 450,
     "lastActiveDate": "28/9/2026",
     "activeDays": 1
   },
