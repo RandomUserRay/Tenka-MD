@@ -90128,7 +90128,7 @@
     "energi": 99961,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9810,
+    "exp": 9825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90138,7 +90138,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T01:47:03.980Z",
+    "lastSeen": "2026-09-28T01:55:02.220Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90178,7 +90178,8 @@
       "h": 1790491429023,
       "hd": 1790511764634,
       "netflix": 1790518327681,
-      "ammagic": 1790519064296
+      "ammagic": 1790519064296,
+      "ht": 1790560502533
     },
     "clanId": null,
     "isRegistered": false,
