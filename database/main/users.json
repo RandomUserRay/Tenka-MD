@@ -71174,10 +71174,10 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70939,
+    "exp": 70954,
     "level": 1,
     "koin": 80888,
     "unlockedFeatures": [],
@@ -71186,7 +71186,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T12:54:41.445Z",
+    "lastSeen": "2026-09-28T12:55:20.666Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71246,7 +71246,8 @@
       "geometrydash": 1788247433604,
       "ttmp3": 1789909337556,
       "iqc": 1790394758428,
-      "netflix": 1790487253804
+      "netflix": 1790487253804,
+      "bratvid": 1790600121499
     },
     "clanId": null,
     "isRegistered": false,
@@ -71270,8 +71271,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 15,
+    "lastActiveDate": "28/9/2026",
+    "activeDays": 16,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -90566,7 +90567,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43545,
+    "exp": 43560,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125786,10 +125787,10 @@
   },
   "62895348807500": {
     "name": "62895348807500",
-    "lastSeen": "2026-09-28T12:54:43.175Z",
+    "lastSeen": "2026-09-28T12:55:19.851Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 1815,
+    "exp": 1830,
     "cooldowns": {
       "iqc": 1790572778039,
       "brat": 1790599849774,
