@@ -99430,7 +99430,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4980,
+    "exp": 4995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99440,10 +99440,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:33:56.498Z",
+    "lastSeen": "2026-09-29T12:34:56.929Z",
     "cooldowns": {
       "ytmp4": 1790516535586,
-      "play": 1790661785142,
+      "play": 1790685296979,
       "tembak": 1787893758938,
       "s": 1790142515211,
       "rvo": 1790685244740,
@@ -120712,7 +120712,7 @@
   },
   "62895405466188": {
     "name": "wπ",
-    "lastSeen": "2026-09-29T12:34:38.290Z",
+    "lastSeen": "2026-09-29T12:35:07.173Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 110,
@@ -120725,7 +120725,7 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 13006,
+    "exp": 13021,
     "cooldowns": {
       "s": 1790523787753,
       "smeme": 1789902978833,
