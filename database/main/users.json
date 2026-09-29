@@ -99430,7 +99430,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4995,
+    "exp": 5010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99440,7 +99440,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:34:56.929Z",
+    "lastSeen": "2026-09-29T12:36:28.456Z",
     "cooldowns": {
       "ytmp4": 1790516535586,
       "play": 1790685296979,
@@ -99448,7 +99448,8 @@
       "s": 1790142515211,
       "rvo": 1790685244740,
       "hd": 1790684941276,
-      "h": 1790685091038
+      "h": 1790685091038,
+      "tiktok": 1790685390289
     },
     "clanId": null,
     "isRegistered": false,
