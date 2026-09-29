@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-29T11:45:19.182Z",
+    "lastSeen": "2026-09-29T11:47:54.926Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000145134,
+    "exp": 9000145284,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -28683,10 +28683,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296681,
+    "exp": 296696,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28697,7 +28697,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T14:33:53.226Z",
+    "lastSeen": "2026-09-29T11:47:52.454Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28859,7 +28859,8 @@
       "pakustad": 1788354653725,
       "playvid": 1788950603486,
       "jadwalmakan": 1789651614309,
-      "notifmakan": 1789651630824
+      "notifmakan": 1789651630824,
+      "fakeml": 1790682481957
     },
     "clanId": null,
     "isRegistered": false,
@@ -28895,8 +28896,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "28/9/2026",
-    "activeDays": 20
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 21
   },
   "6285810482980": {
     "jid": "6285810482980",
