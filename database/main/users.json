@@ -90577,10 +90577,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43890,
+    "exp": 43920,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90590,7 +90590,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T11:58:38.931Z",
+    "lastSeen": "2026-09-29T02:42:25.112Z",
     "cooldowns": {
       "play": 1789871072024,
       "toimg": 1787698619040,
@@ -90625,7 +90625,8 @@
       "opengroup": 1790151058090,
       "owner": 1790228154622,
       "lick": 1790345792529,
-      "kick": 1790345795901
+      "kick": 1790345795901,
+      "tiktok": 1790649746950
     },
     "clanId": null,
     "isRegistered": false,
@@ -90643,8 +90644,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "28/9/2026",
-    "activeDays": 14
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 15
   },
   "6287780573884": {
     "jid": "6287780573884",
