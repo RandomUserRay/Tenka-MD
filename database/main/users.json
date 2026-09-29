@@ -4038,7 +4038,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 97230,
+    "exp": 97290,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -96439,7 +96439,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18143,
+    "exp": 18158,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125960,10 +125960,10 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-09-29T01:07:26.071Z",
+    "lastSeen": "2026-09-29T03:06:47.565Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 390,
+    "exp": 420,
     "cooldowns": {
       "iqc": 1790643941235,
       "p": 1790591470364,
@@ -125972,10 +125972,11 @@
       "bratimg": 1790594387453,
       "fakeml": 1790594459434,
       "fakeff": 1790634908379,
-      "brat": 1790594362165,
-      "pin": 1790634697311
+      "brat": 1790651189615,
+      "pin": 1790634697311,
+      "bratvid": 1790651208974
     },
-    "energi": 99992,
+    "energi": 99990,
     "lastActiveDate": "29/9/2026",
     "activeDays": 2
   },
