@@ -40449,7 +40449,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65865,
+    "exp": 65880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -112743,7 +112743,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1260,
+    "exp": 1275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126060,11 +126060,28 @@
   "628137280516": {
     "jid": "628137280516",
     "rpg": {},
-    "exp": 285
+    "exp": 300
   },
   "6285295214262": {
     "jid": "6285295214262",
     "rpg": {},
     "exp": 105
+  },
+  "62895411362896": {
+    "jid": "62895411362896",
+    "rpg": {},
+    "exp": 45
+  },
+  "6283878944881": {
+    "name": "another a",
+    "lastSeen": "2026-09-29T13:36:15.715Z",
+    "jid": "6283878944881",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "tenka": 1790688976868
+    },
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 1
   }
 }
