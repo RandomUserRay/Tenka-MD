@@ -125947,8 +125947,15 @@
   "923378930321": {
     "jid": "923378930321",
     "rpg": {},
-    "exp": 60,
-    "energi": 99999
+    "exp": 75,
+    "energi": 99997,
+    "name": "🌸",
+    "lastSeen": "2026-09-29T01:21:22.170Z",
+    "cooldowns": {
+      "ytmp4": 1790644884645
+    },
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 1
   },
   "6287747505289": {
     "name": "masukan teks...",
