@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-09-29T12:41:03.139Z",
+    "lastSeen": "2026-09-29T12:48:46.746Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000148359,
+    "exp": 9000148509,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -99432,7 +99432,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5085,
+    "exp": 5100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99442,7 +99442,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:48:08.146Z",
+    "lastSeen": "2026-09-29T12:48:33.871Z",
     "cooldowns": {
       "ytmp4": 1790516535586,
       "play": 1790685465657,
@@ -99451,8 +99451,8 @@
       "rvo": 1790685244740,
       "hd": 1790684941276,
       "h": 1790685091038,
-      "tiktok": 1790685729703,
-      "ttmp3": 1790685737519
+      "tiktok": 1790686109834,
+      "ttmp3": 1790686122306
     },
     "clanId": null,
     "isRegistered": false,
@@ -125991,12 +125991,12 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-09-29T11:26:58.656Z",
+    "lastSeen": "2026-09-29T12:48:39.820Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 615,
+    "exp": 630,
     "cooldowns": {
-      "iqc": 1790680935733,
+      "iqc": 1790686126298,
       "p": 1790591470364,
       "bratvid2": 1790680957160,
       "bratwhite": 1790592036684,
@@ -126009,7 +126009,7 @@
       "jadibot": 1790681043587,
       "play": 1790681345007
     },
-    "energi": 99980,
+    "energi": 99978,
     "lastActiveDate": "29/9/2026",
     "activeDays": 2
   },
