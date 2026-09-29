@@ -96440,7 +96440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18413,
+    "exp": 18428,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96450,7 +96450,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T08:37:16.192Z",
+    "lastSeen": "2026-09-29T08:37:56.588Z",
     "cooldowns": {
       "afk": 1790666791973,
       "play": 1790600101799,
@@ -96482,7 +96482,8 @@
       "yandere": 1790256166163,
       "rvo": 1790600176022,
       "ytmp4": 1790600773998,
-      "swgc": 1790670948129
+      "swgc": 1790670948129,
+      "allmenu": 1790671077166
     },
     "clanId": null,
     "isRegistered": false,
