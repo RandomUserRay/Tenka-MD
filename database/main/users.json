@@ -20282,7 +20282,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56819,
+    "exp": 56834,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20291,7 +20291,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:03:31.569Z",
+    "lastSeen": "2026-09-29T12:03:45.041Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20368,7 +20368,8 @@
       "ff": 1790683283762,
       "iqc": 1790406870469,
       "lirik": 1790681996019,
-      "allmenu": 1790683394659
+      "allmenu": 1790683394659,
+      "sendbug": 1790683425168
     },
     "clanId": null,
     "isRegistered": false,
