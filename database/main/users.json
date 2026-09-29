@@ -54359,7 +54359,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17316,
+    "exp": 17331,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54368,7 +54368,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:28:07.482Z",
+    "lastSeen": "2026-09-29T12:29:10.564Z",
     "cooldowns": {
       "afk": 1785596363926,
       "bot": 1785306210435,
@@ -54407,7 +54407,8 @@
       "cekjodoh": 1790321611645,
       "unmute": 1790322136000,
       "d": 1790322530678,
-      "femboy": 1790684890550
+      "femboy": 1790684890550,
+      "ganteng": 1790684950647
     },
     "clanId": null,
     "isRegistered": false,
@@ -68114,12 +68115,12 @@
   },
   "6287890213199": {
     "jid": "6287890213199",
-    "name": "Unknown",
+    "name": "iputt",
     "number": "6287890213199",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3930,
+    "exp": 3945,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -68128,8 +68129,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T12:27:59.853Z",
-    "cooldowns": {},
+    "lastSeen": "2026-09-29T12:29:13.510Z",
+    "cooldowns": {
+      "femboy": 1790684955210
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -68138,7 +68141,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 1
   },
   "628135366629": {
     "name": ".",
@@ -99437,7 +99442,7 @@
       "tembak": 1787893758938,
       "s": 1790142515211,
       "rvo": 1790597379373,
-      "hd": 1790684929495
+      "hd": 1790684941276
     },
     "clanId": null,
     "isRegistered": false,
