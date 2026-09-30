@@ -28687,10 +28687,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296726,
+    "exp": 296756,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28701,7 +28701,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T14:47:18.345Z",
+    "lastSeen": "2026-09-30T07:27:19.628Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28864,7 +28864,7 @@
       "playvid": 1788950603486,
       "jadwalmakan": 1789651614309,
       "notifmakan": 1789651630824,
-      "fakeml": 1790682481957
+      "fakeml": 1790753240201
     },
     "clanId": null,
     "isRegistered": false,
@@ -28900,8 +28900,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "29/9/2026",
-    "activeDays": 21
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 22
   },
   "6285810482980": {
     "jid": "6285810482980",
