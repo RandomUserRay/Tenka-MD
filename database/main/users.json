@@ -16110,7 +16110,7 @@
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1790767152752,
+      "play": 1790806921297,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1790753773880,
@@ -16395,8 +16395,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "30/9/2026",
-    "activeDays": 30
+    "lastActiveDate": "1/10/2026",
+    "activeDays": 31
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -43821,7 +43821,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1515,
+    "exp": 1500,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
