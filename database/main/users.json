@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 664209,
+    "exp": 664284,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -3490,7 +3490,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431027,
+    "exp": 431057,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3499,7 +3499,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T08:57:10.581Z",
+    "lastSeen": "2026-09-30T08:57:31.786Z",
     "cooldowns": {
       "femboy": 1790758622896,
       "profile": 1790583682310,
@@ -3521,7 +3521,7 @@
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1790685239488,
+      "gay": 1790758641112,
       "gacha": 1790509403734,
       "vote": 1781354632085,
       "sleep": 1782792781563,
@@ -3564,7 +3564,8 @@
       "cekcantik": 1790422485278,
       "tembak": 1790509148699,
       "judi": 1790422669748,
-      "ytmp4": 1790594538122
+      "ytmp4": 1790594538122,
+      "imut": 1790758652050
     },
     "clanId": null,
     "isRegistered": false,
@@ -96465,7 +96466,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20588,
+    "exp": 20618,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96475,7 +96476,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T08:55:23.557Z",
+    "lastSeen": "2026-09-30T08:57:32.614Z",
     "cooldowns": {
       "afk": 1790666791973,
       "play": 1790684791545,
@@ -96510,7 +96511,9 @@
       "swgc": 1790670948129,
       "allmenu": 1790671077166,
       "stickerpack": 1790687457631,
-      "tt": 1790750169353
+      "tt": 1790750169353,
+      "imut": 1790758638087,
+      "ganteng": 1790758652749
     },
     "clanId": null,
     "isRegistered": false,
@@ -126035,7 +126038,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 1050,
+    "exp": 975,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
