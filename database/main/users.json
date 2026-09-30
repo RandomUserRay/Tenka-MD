@@ -112142,7 +112142,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55065,
+    "exp": 55080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112152,14 +112152,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T16:08:53.495Z",
+    "lastSeen": "2026-09-30T15:03:48.932Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
       "ut": 1789560686531,
       "level": 1789925125157,
       "buka": 1789924980157,
-      "tutup": 1789924992581,
+      "tutup": 1790780629380,
       "tagall": 1790259699016,
       "tidur": 1789925041403,
       "status": 1789925350263,
@@ -112182,8 +112182,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 9
   },
   "6287893710951": {
     "jid": "6287893710951",
