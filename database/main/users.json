@@ -28690,10 +28690,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99991,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296861,
+    "exp": 296891,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28704,7 +28704,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T09:24:24.319Z",
+    "lastSeen": "2026-09-30T09:25:16.379Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28868,7 +28868,7 @@
       "jadwalmakan": 1789651614309,
       "notifmakan": 1789651630824,
       "fakeml": 1790753377260,
-      "bratvid2": 1790754931342
+      "bratvid2": 1790760319066
     },
     "clanId": null,
     "isRegistered": false,
@@ -62160,7 +62160,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 149769,
+    "exp": 149799,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62169,9 +62169,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T08:14:22.940Z",
+    "lastSeen": "2026-09-30T09:25:07.474Z",
     "cooldowns": {
-      "afk": 1790756063927,
+      "afk": 1790760308583,
       "play": 1790485205721,
       "mancing": 1784643047902,
       "susun": 1788241788337,
@@ -90121,14 +90121,14 @@
     "access": []
   },
   "62882020705446": {
-    "name": "Uswan Ganteng",
-    "lastSeen": "2026-08-13T07:45:27.486Z",
+    "name": "ytta",
+    "lastSeen": "2026-09-30T09:24:56.197Z",
     "jid": "62882020705446",
     "number": "62882020705446",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 514,
+    "exp": 529,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90140,7 +90140,8 @@
     "unregisteredAt": null,
     "cooldowns": {
       "kerja": 1786607227155,
-      "casino": 1786607123278
+      "casino": 1786607123278,
+      "bratvid2": 1790760299605
     },
     "clanId": null,
     "isRegistered": false,
@@ -90151,7 +90152,9 @@
       "stamina": 90
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 1
   },
   "6285147498740": {
     "jid": "6285147498740",
