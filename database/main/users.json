@@ -62707,7 +62707,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17265,
+    "exp": 17280,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -102471,13 +102471,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-09-29T12:29:42.085Z",
+    "lastSeen": "2026-09-30T02:30:35.542Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20029,
+    "exp": 20044,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102551,7 +102551,8 @@
       "cekcantik": 1790422443032,
       "cekbaik": 1790422480299,
       "cekpacar": 1790422557731,
-      "tembak": 1790422623040
+      "tembak": 1790422623040,
+      "p": 1790735436168
     },
     "clanId": null,
     "isRegistered": false,
@@ -102583,8 +102584,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "29/9/2026",
-    "activeDays": 25,
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 26,
     "fun": {
       "tembakTarget": "6285240302212@s.whatsapp.net",
       "tembakCount": 1,
