@@ -28690,10 +28690,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99975,
+    "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297146,
+    "exp": 297161,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28704,7 +28704,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T09:46:02.141Z",
+    "lastSeen": "2026-09-30T10:11:29.248Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28869,7 +28869,7 @@
       "notifmakan": 1789651630824,
       "fakeml": 1790753377260,
       "bratvid2": 1790760585967,
-      "tovid": 1790761563344
+      "tovid": 1790763090610
     },
     "clanId": null,
     "isRegistered": false,
