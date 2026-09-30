@@ -28687,10 +28687,10 @@
     "jid": "6285187171485",
     "name": "ram",
     "number": "6285187171485",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296816,
+    "exp": 296831,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28701,7 +28701,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T07:55:27.222Z",
+    "lastSeen": "2026-09-30T07:56:11.624Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28713,7 +28713,7 @@
       "open": 1790154851284,
       "bratvid": 1782929796745,
       "bratanime": 1782808622034,
-      "wm": 1789169206998,
+      "wm": 1790754972228,
       "autoreply": 1785061310347,
       "tembak": 1782838951748,
       "h": 1787983566333,
@@ -28864,7 +28864,8 @@
       "playvid": 1788950603486,
       "jadwalmakan": 1789651614309,
       "notifmakan": 1789651630824,
-      "fakeml": 1790753377260
+      "fakeml": 1790753377260,
+      "bratvid2": 1790754931342
     },
     "clanId": null,
     "isRegistered": false,
