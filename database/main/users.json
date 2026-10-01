@@ -72790,10 +72790,10 @@
     "jid": "62895320168082",
     "name": "Sultan",
     "number": "62895320168082",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 525,
+    "exp": 540,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72802,9 +72802,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-01T14:22:07.170Z",
+    "lastSeen": "2026-10-01T14:24:37.220Z",
     "cooldowns": {
-      "s": 1790864528206
+      "s": 1790864677899
     },
     "clanId": null,
     "isRegistered": false,
