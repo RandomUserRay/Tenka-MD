@@ -16094,10 +16094,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99991,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9395912,
+    "exp": 9395867,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16106,7 +16106,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-01T05:19:03.972Z",
+    "lastSeen": "2026-10-01T05:18:46.902Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16114,7 +16114,7 @@
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1790753773880,
-      "s": 1790831938382,
+      "s": 1790831926325,
       "afk": 1785393877062,
       "exp": 1781520653379,
       "tebakgambar": 1781520148894,
@@ -125869,10 +125869,10 @@
   },
   "62895348807500": {
     "name": "62895348807500",
-    "lastSeen": "2026-10-01T03:59:11.897Z",
+    "lastSeen": "2026-10-01T05:19:51.592Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 2280,
+    "exp": 2295,
     "cooldowns": {
       "iqc": 1790681486930,
       "brat": 1790686850312,
@@ -125902,7 +125902,7 @@
       "menu": 1790740592411,
       "ttmp3": 1790827155446
     },
-    "energi": 99997,
+    "energi": 99996,
     "lastActiveDate": "1/10/2026",
     "activeDays": 6
   },
