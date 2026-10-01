@@ -106112,10 +106112,10 @@
     "jid": "6283121900324",
     "name": "yantzy",
     "number": "6283121900324",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5325,
+    "exp": 5340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106125,12 +106125,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T09:05:29.146Z",
+    "lastSeen": "2026-10-01T03:59:48.197Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
       "menu": 1789975101063,
-      "play": 1790553646322,
+      "play": 1790827196305,
       "antispam": 1790253781442,
       "antitagsw": 1790255414729,
       "antitoxic": 1790253774380,
@@ -106161,8 +106161,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "1/10/2026",
+    "activeDays": 10
   },
   "6283829647574": {
     "jid": "6283829647574",
