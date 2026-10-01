@@ -111904,10 +111904,10 @@
     "jid": "6283824756881",
     "name": "a",
     "number": "6283824756881",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233462,
+    "exp": 233477,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111917,7 +111917,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-01T15:16:57.130Z",
+    "lastSeen": "2026-10-01T15:17:35.429Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112078,7 +112078,7 @@
       "tenka": 1790255653985,
       "donasi": 1790255670018,
       "sc": 1790255692656,
-      "fotolive": 1790867819122
+      "fotolive": 1790867856653
     },
     "clanId": null,
     "isRegistered": false,
