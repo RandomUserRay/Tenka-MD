@@ -126163,5 +126163,18 @@
     "energi": 99999,
     "lastActiveDate": "30/9/2026",
     "activeDays": 1
+  },
+  "6281348491234": {
+    "name": "kvicha iky",
+    "lastSeen": "2026-10-02T08:13:19.650Z",
+    "jid": "6281348491234",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "menu": 1790928798872,
+      "menucat": 1790928799755
+    },
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 1
   }
 }
