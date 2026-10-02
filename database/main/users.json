@@ -34529,12 +34529,12 @@
   },
   "6282154644088": {
     "jid": "6282154644088",
-    "name": "Xello van Winterfels",
+    "name": "Scharführer Winterfels",
     "number": "6282154644088",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32859,
+    "exp": 32874,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -34543,7 +34543,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T01:49:02.616Z",
+    "lastSeen": "2026-10-02T12:59:04.691Z",
     "cooldowns": {
       "bank": 1784722369572,
       "job": 1783043909231,
@@ -126233,14 +126233,14 @@
     "rpg": {},
     "exp": 90
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
     "exp": 45
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15
   }
 }
