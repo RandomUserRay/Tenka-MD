@@ -28693,10 +28693,10 @@
     "jid": "6285187171485",
     "name": "Rmz",
     "number": "6285187171485",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297611,
+    "exp": 297641,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28707,7 +28707,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T07:04:53.412Z",
+    "lastSeen": "2026-10-02T07:04:57.671Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28872,7 +28872,8 @@
       "notifmakan": 1789651630824,
       "fakeml": 1790753377260,
       "bratvid2": 1790848412317,
-      "tovid": 1790838651114
+      "tovid": 1790838651114,
+      "stiker": 1790924697960
     },
     "clanId": null,
     "isRegistered": false,
@@ -28908,8 +28909,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "1/10/2026",
-    "activeDays": 23
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 24
   },
   "6285810482980": {
     "jid": "6285810482980",
