@@ -8043,7 +8043,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 133508,
+    "exp": 133523,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20290,7 +20290,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58064,
+    "exp": 58094,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20299,7 +20299,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:39:34.812Z",
+    "lastSeen": "2026-10-02T12:53:38.005Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20334,7 +20334,7 @@
       "tt": 1790477495083,
       "ttmp3": 1783928174035,
       "rest": 1784381733654,
-      "jadibot": 1790688120356,
+      "jadibot": 1790945621888,
       "hytamkan": 1784272025393,
       "robloxstalk": 1784215676238,
       "igstalk": 1784215812763,
@@ -73792,7 +73792,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5700,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126231,10 +126231,5 @@
     "jid": "6289531477527",
     "rpg": {},
     "exp": 90
-  },
-  "6282363161583": {
-    "jid": "6282363161583",
-    "rpg": {},
-    "exp": 45
   }
 }
