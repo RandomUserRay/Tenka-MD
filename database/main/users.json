@@ -86777,7 +86777,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -86787,11 +86787,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:36:46.108Z",
+    "lastSeen": "2026-10-02T12:37:43.922Z",
     "cooldowns": {
       "bratgreen": 1790944491215,
       "bratanime": 1790944509629,
-      "bratimg": 1790944607724
+      "bratimg": 1790944607724,
+      "menu": 1790944666625
     },
     "clanId": null,
     "isRegistered": false,
