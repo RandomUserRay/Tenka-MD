@@ -48780,13 +48780,13 @@
   },
   "6283849298966": {
     "name": "princess",
-    "lastSeen": "2026-10-02T12:30:53.304Z",
+    "lastSeen": "2026-10-02T12:30:37.718Z",
     "jid": "6283849298966",
     "number": "6283849298966",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32101,
+    "exp": 31971,
     "level": 1,
     "koin": 17959,
     "unlockedFeatures": [],
@@ -48806,12 +48806,12 @@
       "susun": 1789599140570,
       "bank": 1785479320456,
       "mining": 1785992154273,
-      "mancing": 1790944241857,
+      "mancing": 1787027244389,
       "level": 1786683339798,
       "jual": 1785479333309,
       "shop": 1785479485726,
       "jadibot": 1785931044263,
-      "inv": 1790944253346,
+      "inv": 1786683363432,
       "use": 1785931077664,
       "tidur": 1787027801059,
       "brat": 1786513582627
@@ -48834,8 +48834,7 @@
     "inventory": {
       "rock": 9,
       "trash": 6,
-      "prawn": 1,
-      "fish": 1
+      "prawn": 1
     },
     "access": [],
     "saldo": 0,
@@ -73366,7 +73365,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10395,
+    "exp": 10410,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73375,9 +73374,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-27T07:38:01.187Z",
+    "lastSeen": "2026-10-02T12:31:33.315Z",
     "cooldowns": {
-      "jadibot": 1790494684693
+      "jadibot": 1790944297272
     },
     "clanId": null,
     "isRegistered": false,
@@ -73396,8 +73395,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 2
   },
   "6282228091106": {
     "jid": "6282228091106",
