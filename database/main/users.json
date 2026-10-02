@@ -73789,10 +73789,10 @@
     "jid": "62895626966709",
     "name": "gw Nak naik kereta api.",
     "number": "62895626966709",
-    "energi": 99993,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5670,
+    "exp": 5700,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73801,7 +73801,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:51:11.219Z",
+    "lastSeen": "2026-10-02T12:52:20.062Z",
     "cooldowns": {
       "top": 1787833368406,
       "bratimg": 1790945121012,
@@ -73811,7 +73811,8 @@
       "cekcantik": 1785673674607,
       "s": 1785674392573,
       "menucat": 1787833379772,
-      "amprem": 1790945471489
+      "amprem": 1790945471489,
+      "ammagic": 1790945540988
     },
     "clanId": null,
     "isRegistered": false,
