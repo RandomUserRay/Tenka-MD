@@ -48780,15 +48780,15 @@
   },
   "6283849298966": {
     "name": "princess",
-    "lastSeen": "2026-10-02T12:31:47.183Z",
+    "lastSeen": "2026-10-02T12:32:06.855Z",
     "jid": "6283849298966",
     "number": "6283849298966",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32141,
+    "exp": 32460,
     "level": 1,
-    "koin": 17959,
+    "koin": 24039,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
@@ -48814,7 +48814,8 @@
       "inv": 1790944253346,
       "use": 1785931077664,
       "tidur": 1787027801059,
-      "brat": 1786513582627
+      "brat": 1786513582627,
+      "konser": 1790944329912
     },
     "clanId": null,
     "isRegistered": false,
@@ -48823,7 +48824,7 @@
     "regGender": null,
     "rpg": {
       "bank": 0,
-      "stamina": 70,
+      "stamina": 60,
       "level": 4,
       "maxHealth": 130,
       "maxMana": 115,
