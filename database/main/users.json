@@ -86774,10 +86774,10 @@
     "jid": "6285649725870",
     "name": "opet kau tinggal sini ke",
     "number": "6285649725870",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 705,
+    "exp": 720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -86787,10 +86787,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:35:08.337Z",
+    "lastSeen": "2026-10-02T12:36:02.882Z",
     "cooldowns": {
       "bratgreen": 1790944491215,
-      "bratanime": 1790944509629
+      "bratanime": 1790944509629,
+      "bratimg": 1790944568242
     },
     "clanId": null,
     "isRegistered": false,
