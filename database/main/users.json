@@ -60602,7 +60602,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2880,
+    "exp": 2895,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60611,10 +60611,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-14T12:48:08.911Z",
+    "lastSeen": "2026-10-02T13:22:11.032Z",
     "cooldowns": {
       "d": 1784184995942,
-      "play": 1789032373031
+      "play": 1789032373031,
+      "absen": 1790947331085
     },
     "clanId": null,
     "isRegistered": false,
@@ -60625,8 +60626,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "10/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 2
   },
   "628133123394": {
     "jid": "628133123394",
