@@ -44894,11 +44894,20 @@
     "jid": "120363411823605284@g.us",
     "chatStats": {
       "6283181407349@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1790943788957,
+        "count": 2,
+        "lastChat": 1790943800984,
         "name": "Robben"
       }
     },
-    "name": "Gacor king🔥"
+    "name": "Gacor king🔥",
+    "warnings": {
+      "6285371947945@s.whatsapp.net": [
+        {
+          "reason": "Tidak ada alasan",
+          "by": "6283181407349@s.whatsapp.net",
+          "time": 1790943800986
+        }
+      ]
+    }
   }
 }
