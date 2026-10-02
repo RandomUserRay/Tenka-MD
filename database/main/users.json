@@ -109758,12 +109758,12 @@
   },
   "6282274280240": {
     "jid": "6282274280240",
-    "name": "Unknown",
+    "name": "⚡ Thunder ⚡",
     "number": "6282274280240",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1695,
+    "exp": 1710,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109773,8 +109773,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-10T22:36:43.884Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-02T13:20:59.901Z",
+    "cooldowns": {
+      "absen": 1790947260994
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -109782,7 +109784,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 1
   },
   "6285645047395": {
     "jid": "6285645047395",
