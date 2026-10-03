@@ -43360,13 +43360,13 @@
   },
   "6282179015669": {
     "name": "rian belagak",
-    "lastSeen": "2026-10-03T10:47:02.056Z",
+    "lastSeen": "2026-10-03T10:33:43.083Z",
     "jid": "6282179015669",
     "number": "6282179015669",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35446,
+    "exp": 35431,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43421,8 +43421,7 @@
       "simi": 1789889764128,
       "cekhodam": 1789889514157,
       "khodam": 1789889694977,
-      "robloxstalk": 1791023625979,
-      "inventory": 1791024422820
+      "robloxstalk": 1791023625979
     },
     "clanId": null,
     "isRegistered": false,
@@ -94089,13 +94088,13 @@
   },
   "6285793601511": {
     "name": "A",
-    "lastSeen": "2026-10-03T00:30:02.415Z",
+    "lastSeen": "2026-10-03T10:46:46.258Z",
     "jid": "6285793601511",
     "number": "6285793601511",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13575,
+    "exp": 13665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94106,7 +94105,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1790987406355,
+      "jadibot": 1791024410564,
       "p": 1790390805878,
       "stopjadibot": 1790672057526
     },
@@ -126275,6 +126274,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126287,12 +126292,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
