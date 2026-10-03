@@ -33205,10 +33205,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 554464,
+    "exp": 554479,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33217,7 +33217,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T13:50:20.759Z",
+    "lastSeen": "2026-10-03T13:51:55.781Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33227,7 +33227,7 @@
       "autoreply": 1788532499911,
       "giveaway": 1783470341177,
       "giveawaycreate": 1783297534008,
-      "play": 1790989594458,
+      "play": 1791035528514,
       "aio": 1785999819327,
       "ytmp3": 1790945106602,
       "setdeskgc": 1783301806566,
@@ -43224,14 +43224,14 @@
     "access": []
   },
   "6285187952793": {
-    "name": "masnidar",
-    "lastSeen": "2026-10-03T13:52:04.233Z",
+    "name": "dapa sukaaa apaya yak",
+    "lastSeen": "2026-09-30T11:06:45.120Z",
     "jid": "6285187952793",
     "number": "6285187952793",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 220817,
+    "exp": 220802,
     "level": 1,
     "koin": 8610,
     "unlockedFeatures": [],
@@ -43294,8 +43294,7 @@
       "cekkhodam": 1789889470092,
       "cekhodam": 1789889581864,
       "khodam": 1789890827747,
-      "ytmp4": 1790766444170,
-      "absen": 1791035524279
+      "ytmp4": 1790766444170
     },
     "clanId": null,
     "isRegistered": false,
@@ -43331,8 +43330,8 @@
       "jadiPacar": 1785419925220
     },
     "lastStreamer": 1789655778293,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 8
   },
   "62895383932080": {
     "jid": "62895383932080",
@@ -46942,13 +46941,13 @@
   },
   "6285716629814": {
     "name": "shin",
-    "lastSeen": "2026-10-03T13:51:59.713Z",
+    "lastSeen": "2026-09-24T14:08:57.976Z",
     "jid": "6285716629814",
     "number": "6285716629814",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180465,
+    "exp": 180450,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -46971,7 +46970,7 @@
       "cekhodam": 1783588827428,
       "play": 1783967340271,
       "delete": 1786189132000,
-      "h": 1791035520735,
+      "h": 1790258937995,
       "close": 1783856013947,
       "open": 1783856033917,
       "afk": 1789666100242,
@@ -47009,8 +47008,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 23
+    "lastActiveDate": "24/9/2026",
+    "activeDays": 22
   },
   "6282315759343": {
     "jid": "6282315759343",
@@ -126282,6 +126281,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126294,12 +126299,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
