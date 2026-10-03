@@ -45060,6 +45060,14 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363411683030755@g.us"
+    "jid": "120363411683030755@g.us",
+    "chatStats": {
+      "16063130847@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1791014244330,
+        "name": "Zaycuz"
+      }
+    },
+    "name": "Test kudeta"
   }
 }
