@@ -14995,10 +14995,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99984,
+    "energi": 99981,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275268,
+    "exp": 275298,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -15009,7 +15009,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T15:00:01.788Z",
+    "lastSeen": "2026-10-03T15:01:58.179Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -126285,12 +126285,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126303,6 +126297,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
