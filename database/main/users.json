@@ -48294,7 +48294,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66720,
+    "exp": 66690,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50412,7 +50412,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6510,
+    "exp": 6465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60608,7 +60608,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3480,
+    "exp": 3420,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102527,13 +102527,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-10-03T10:57:13.441Z",
+    "lastSeen": "2026-10-03T12:14:19.942Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20674,
+    "exp": 20689,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104827,7 +104827,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2880,
+    "exp": 2835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -120803,7 +120803,7 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 14979,
+    "exp": 14994,
     "cooldowns": {
       "s": 1790768819745,
       "smeme": 1789902978833,
@@ -125117,7 +125117,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 1605,
+    "exp": 1560,
     "energi": 99999,
     "name": "Apegan",
     "lastSeen": "2026-09-19T13:48:57.031Z"
@@ -125350,7 +125350,7 @@
   "6289504757541": {
     "jid": "6289504757541",
     "rpg": {},
-    "exp": 120,
+    "exp": 90,
     "energi": 99999
   },
   "6289673771541": {
@@ -126276,6 +126276,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126288,12 +126294,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
