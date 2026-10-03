@@ -16097,10 +16097,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9396602,
+    "exp": 9396617,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16109,7 +16109,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T15:12:27.940Z",
+    "lastSeen": "2026-10-03T00:35:04.970Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16243,7 +16243,7 @@
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1790950302462,
+      "tt": 1790987706791,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -16398,8 +16398,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 32
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 33
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -90199,7 +90199,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10485,
+    "exp": 10470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90209,7 +90209,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T00:34:57.069Z",
+    "lastSeen": "2026-10-03T00:32:53.377Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90250,7 +90250,7 @@
       "hd": 1790511764634,
       "netflix": 1790518327681,
       "ammagic": 1790519064296,
-      "ht": 1790987697088,
+      "ht": 1790560502533,
       "sticker": 1790643853577,
       "ai": 1790643884098,
       "ytmp3": 1790760121227
@@ -126264,16 +126264,16 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
     "exp": 1380,
+    "energi": 99999
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6285273157610": {
