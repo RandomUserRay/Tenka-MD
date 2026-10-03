@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "Connection Closed",
+      "at": 1791043573716
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
       "at": 1791041316221
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789299141850
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789295363499
     }
   ],
   "jpmBlacklist": [],
