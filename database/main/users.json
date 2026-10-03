@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669234,
+    "exp": 669159,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -14995,10 +14995,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275133,
+    "exp": 275148,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -15009,7 +15009,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T06:44:17.578Z",
+    "lastSeen": "2026-10-03T11:33:07.311Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15040,7 +15040,7 @@
       "dimana": 1781503411557,
       "afk": 1782895105829,
       "exp": 1781520657438,
-      "s": 1784461907901,
+      "s": 1791027188412,
       "kick": 1783003110576,
       "mengkane44": 1781510546125,
       "owner": 1782632459704,
@@ -50412,7 +50412,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5880,
+    "exp": 6015,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50421,7 +50421,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T11:28:05.758Z",
+    "lastSeen": "2026-10-03T11:33:55.837Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50432,7 +50432,7 @@
       "hitamkan": 1783738460738,
       "bratimg": 1789389835520,
       "smeme": 1789031799043,
-      "warn": 1789462090766,
+      "warn": 1791027236135,
       "mulaiabsen": 1791026667267
     },
     "clanId": null,
@@ -94096,7 +94096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13740,
+    "exp": 13665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96515,7 +96515,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23378,
+    "exp": 23363,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -109778,7 +109778,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3150,
+    "exp": 3240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123652,7 +123652,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 570,
+    "exp": 615,
     "energi": 99999,
     "name": "PAULO™",
     "lastSeen": "2026-10-03T11:30:17.224Z",
@@ -123738,7 +123738,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1560,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126128,7 +126128,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 2475,
+    "exp": 2550,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126276,12 +126276,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126294,6 +126288,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
