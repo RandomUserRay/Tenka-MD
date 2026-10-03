@@ -104822,7 +104822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2655,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104832,7 +104832,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T15:24:54.757Z",
+    "lastSeen": "2026-10-03T03:30:41.831Z",
     "cooldowns": {
       "simi": 1788510820788,
       "p": 1788615165195,
@@ -104841,7 +104841,8 @@
       "farm": 1789386064711,
       "pro": 1789386029501,
       "warn": 1790953774096,
-      "hapus": 1790954668452
+      "hapus": 1790954668452,
+      "absen": 1790998242059
     },
     "clanId": null,
     "isRegistered": false,
@@ -104856,8 +104857,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 6
   },
   "6285373779557": {
     "jid": "6285373779557",
@@ -126264,16 +126265,16 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
     "exp": 1425,
+    "energi": 99999
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6285273157610": {
