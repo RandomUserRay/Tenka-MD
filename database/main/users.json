@@ -96507,10 +96507,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23078,
+    "exp": 23093,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96520,12 +96520,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T11:23:39.437Z",
+    "lastSeen": "2026-10-03T02:21:41.934Z",
     "cooldowns": {
       "afk": 1790895256299,
       "play": 1790759474920,
       "smeme": 1790940220745,
-      "s": 1790855866147,
+      "s": 1790994103741,
       "menu": 1790928753381,
       "menucat": 1790928764293,
       "cekfemboy": 1790085994641,
@@ -96577,8 +96577,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 23
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 24
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -109772,7 +109772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2655,
+    "exp": 2625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123731,7 +123731,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 1335,
+    "exp": 1305,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-09-14T12:44:36.102Z",
     "cooldowns": {
@@ -126264,16 +126264,16 @@
     "exp": 90,
     "energi": 99999
   },
-  "6282363161583": {
-    "jid": "6282363161583",
-    "rpg": {},
-    "exp": 1380,
-    "energi": 99999
-  },
   "6287762356293": {
     "jid": "6287762356293",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282363161583": {
+    "jid": "6282363161583",
+    "rpg": {},
+    "exp": 1380,
     "energi": 99999
   },
   "6285273157610": {
