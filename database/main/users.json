@@ -70700,7 +70700,7 @@
     "jid": "601163956586",
     "name": "harniza",
     "number": "601163956586",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
     "exp": 46554,
@@ -70712,7 +70712,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T02:18:16.791Z",
+    "lastSeen": "2026-10-03T05:06:50.641Z",
     "cooldowns": {
       "afk": 1790993804471,
       "smeme": 1789731801068,
@@ -126266,12 +126266,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126284,6 +126278,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
