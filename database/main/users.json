@@ -33205,10 +33205,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 554329,
+    "exp": 554359,
     "level": 1,
     "koin": 66172,
     "unlockedFeatures": [],
@@ -33217,7 +33217,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:45:53.739Z",
+    "lastSeen": "2026-10-03T01:06:27.028Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33227,7 +33227,7 @@
       "autoreply": 1788532499911,
       "giveaway": 1783470341177,
       "giveawaycreate": 1783297534008,
-      "play": 1789383278325,
+      "play": 1790989594458,
       "aio": 1785999819327,
       "ytmp3": 1790945106602,
       "setdeskgc": 1783301806566,
@@ -33545,8 +33545,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 24
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 25
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -126264,16 +126264,16 @@
     "exp": 90,
     "energi": 99999
   },
-  "6282363161583": {
-    "jid": "6282363161583",
-    "rpg": {},
-    "exp": 1380,
-    "energi": 99999
-  },
   "6287762356293": {
     "jid": "6287762356293",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6282363161583": {
+    "jid": "6282363161583",
+    "rpg": {},
+    "exp": 1380,
     "energi": 99999
   },
   "6285273157610": {
