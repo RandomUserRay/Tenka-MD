@@ -40463,7 +40463,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67755,
+    "exp": 67800,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90651,7 +90651,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46020,
+    "exp": 46035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112333,7 +112333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19275,
+    "exp": 19260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125351,7 +125351,7 @@
   "6289504757541": {
     "jid": "6289504757541",
     "rpg": {},
-    "exp": 180,
+    "exp": 150,
     "energi": 99999,
     "name": "ABIZAR MURID FLADO",
     "lastSeen": "2026-10-03T12:44:04.471Z"
@@ -126279,6 +126279,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126291,12 +126297,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
