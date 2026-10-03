@@ -125096,16 +125096,16 @@
   },
   "6281393522395": {
     "name": "g",
-    "lastSeen": "2026-09-18T12:15:35.351Z",
+    "lastSeen": "2026-10-03T07:29:53.946Z",
     "jid": "6281393522395",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
-      "ig": 1789733743348
+      "ig": 1791012596580
     },
-    "energi": 99999,
-    "lastActiveDate": "18/9/2026",
-    "activeDays": 1
+    "energi": 99998,
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 2
   },
   "6285607583937": {
     "jid": "6285607583937",
@@ -126340,7 +126340,11 @@
     "jid": "6283137027920",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 24
+    "cooldowns": {
+      "tt": 1791012584989
+    },
+    "energi": 24,
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 1
   }
 }
