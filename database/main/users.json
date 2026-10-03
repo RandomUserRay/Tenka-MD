@@ -28278,7 +28278,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 391623,
+    "exp": 391608,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -60608,7 +60608,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3315,
+    "exp": 3345,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -123652,15 +123652,15 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 615,
+    "exp": 690,
     "energi": 99999,
     "name": "PAULO™",
-    "lastSeen": "2026-10-03T11:30:17.224Z",
+    "lastSeen": "2026-10-03T11:42:08.189Z",
     "cooldowns": {
-      "absen": 1790949063356
+      "absen": 1791027713846
     },
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 2
   },
   "6283853016925": {
     "name": "manusia",
@@ -126276,12 +126276,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126294,6 +126288,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
