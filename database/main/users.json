@@ -96509,10 +96509,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99991,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23333,
+    "exp": 23348,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96522,7 +96522,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T10:12:44.252Z",
+    "lastSeen": "2026-10-03T10:22:21.199Z",
     "cooldowns": {
       "afk": 1790895256299,
       "play": 1790759474920,
@@ -126273,6 +126273,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126285,12 +126291,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
