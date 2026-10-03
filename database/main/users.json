@@ -43231,7 +43231,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222058,
+    "exp": 222043,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43246,7 +43246,7 @@
       "maling": 1785973605567,
       "me": 1785421639685,
       "p": 1785454727127,
-      "play": 1791036047822,
+      "play": 1790766464271,
       "robloxstalk": 1789655960195,
       "casino": 1789655592671,
       "saldo": 1791035608642,
@@ -62186,7 +62186,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150504,
+    "exp": 150549,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62195,9 +62195,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T11:37:48.835Z",
+    "lastSeen": "2026-10-03T14:01:13.474Z",
     "cooldowns": {
-      "afk": 1790775007015,
+      "afk": 1791036074696,
       "play": 1790485205721,
       "mancing": 1784643047902,
       "susun": 1788241788337,
@@ -62227,8 +62227,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 17
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -126285,6 +126285,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126297,12 +126303,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
