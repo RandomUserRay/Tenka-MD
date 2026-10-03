@@ -33208,7 +33208,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 554974,
+    "exp": 555019,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33217,7 +33217,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T13:54:05.021Z",
+    "lastSeen": "2026-10-03T14:16:06.049Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33256,7 +33256,7 @@
       "antilinkall": 1783344731548,
       "deltoxic": 1784722339513,
       "antibot": 1785386935807,
-      "afk": 1790509112422,
+      "afk": 1791036967633,
       "ceksewa": 1783344954584,
       "bego": 1783344965940,
       "infogame": 1784293137205,
@@ -96521,7 +96521,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23858,
+    "exp": 23843,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126285,12 +126285,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126303,6 +126297,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
