@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000154434,
+    "exp": 9000154509,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -14995,10 +14995,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99984,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275268,
+    "exp": 275238,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -15009,7 +15009,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T15:00:01.788Z",
+    "lastSeen": "2026-10-03T14:59:27.205Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15047,7 +15047,7 @@
       "ping": 1781510681885,
       "stopjadibot": 1781511091705,
       "menucat": 1786939586822,
-      "play": 1791039584026,
+      "play": 1791039250746,
       "cektinggi": 1782731774869,
       "cekpsikopat": 1781512009572,
       "cekvillain": 1781519834681,
@@ -15225,7 +15225,7 @@
       "hytamkan": 1783610610624,
       "putihkan": 1783504151666,
       "fakeml": 1784394765794,
-      "ytmp4": 1791039591242,
+      "ytmp4": 1791039247631,
       "amprem": 1786962252305,
       "playcall": 1786938381141,
       "carigrup": 1786938444962,
@@ -50416,7 +50416,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6645,
+    "exp": 6630,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126285,6 +126285,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126297,12 +126303,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
