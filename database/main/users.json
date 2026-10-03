@@ -40463,7 +40463,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67800,
+    "exp": 67755,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -47807,13 +47807,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-10-02T07:11:55.175Z",
+    "lastSeen": "2026-10-03T12:46:44.480Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 558968,
+    "exp": 558983,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -90651,7 +90651,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46035,
+    "exp": 46020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112333,7 +112333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19260,
+    "exp": 19275,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125351,7 +125351,7 @@
   "6289504757541": {
     "jid": "6289504757541",
     "rpg": {},
-    "exp": 150,
+    "exp": 180,
     "energi": 99999,
     "name": "ABIZAR MURID FLADO",
     "lastSeen": "2026-10-03T12:44:04.471Z"
@@ -126279,12 +126279,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126297,6 +126291,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
