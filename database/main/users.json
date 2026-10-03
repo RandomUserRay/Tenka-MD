@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669234,
+    "exp": 669159,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -50412,7 +50412,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6060,
+    "exp": 6135,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96515,7 +96515,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23438,
+    "exp": 23393,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -109778,7 +109778,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3360,
+    "exp": 3375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123652,12 +123652,12 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 690,
+    "exp": 795,
     "energi": 99999,
     "name": "PAULO™",
-    "lastSeen": "2026-10-03T11:42:08.189Z",
+    "lastSeen": "2026-10-03T11:42:53.083Z",
     "cooldowns": {
-      "absen": 1791027713846
+      "absen": 1791027773324
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 2
@@ -126128,7 +126128,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 2550,
+    "exp": 2625,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126276,12 +126276,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126294,6 +126288,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126367,5 +126367,10 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6285362481895": {
+    "jid": "6285362481895",
+    "rpg": {},
+    "exp": 105
   }
 }
