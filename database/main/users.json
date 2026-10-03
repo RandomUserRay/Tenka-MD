@@ -46945,7 +46945,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180375,
+    "exp": 180360,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -48294,7 +48294,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66780,
+    "exp": 66750,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -62182,7 +62182,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150504,
+    "exp": 150534,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62191,9 +62191,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T11:37:48.835Z",
+    "lastSeen": "2026-10-03T12:17:14.249Z",
     "cooldowns": {
-      "afk": 1790775007015,
+      "afk": 1791029836039,
       "play": 1790485205721,
       "mancing": 1784643047902,
       "susun": 1788241788337,
@@ -62223,8 +62223,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 17
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -62737,7 +62737,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17925,
+    "exp": 17895,
     "level": 1,
     "koin": 50000,
     "unlockedFeatures": [],
@@ -102527,13 +102527,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-10-03T12:16:26.095Z",
+    "lastSeen": "2026-10-03T10:57:13.441Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99994,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20719,
+    "exp": 20674,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102609,8 +102609,7 @@
       "cekpacar": 1790422557731,
       "tembak": 1790422623040,
       "p": 1790735436168,
-      "tt": 1790862716539,
-      "lirik": 1791029789229
+      "tt": 1790862716539
     },
     "clanId": null,
     "isRegistered": false,
@@ -126277,6 +126276,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126289,12 +126294,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
