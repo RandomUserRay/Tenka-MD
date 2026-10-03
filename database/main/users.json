@@ -48107,7 +48107,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14951,
+    "exp": 14966,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48116,7 +48116,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T13:21:58.889Z",
+    "lastSeen": "2026-10-03T11:25:50.729Z",
     "cooldowns": {
       "menu": 1789209648334,
       "tebaknegara": 1783670524132,
@@ -48129,7 +48129,8 @@
       "d": 1784640877018,
       "smeme": 1789034598836,
       "bratimg": 1788660592875,
-      "absen": 1790947318940
+      "absen": 1790947318940,
+      "warn": 1791026750926
     },
     "clanId": null,
     "isRegistered": false,
@@ -48148,8 +48149,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 7
   },
   "6283177669752": {
     "jid": "6283177669752",
