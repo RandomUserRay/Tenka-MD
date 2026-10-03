@@ -69046,7 +69046,8 @@
       "allgame": 1790125798402,
       "bratbahlil": 1790123227039,
       "playvideo": 1790125994343,
-      "harilibur": 1790126049341
+      "harilibur": 1790126049341,
+      "play": 1791012655093
     },
     "clanId": null,
     "isRegistered": false,
@@ -69074,8 +69075,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "30/9/2026",
-    "activeDays": 16
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 17
   },
   "6287797980617": {
     "jid": "6287797980617",
@@ -123733,7 +123734,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 1440,
+    "exp": 1455,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-09-14T12:44:36.102Z",
     "cooldowns": {
