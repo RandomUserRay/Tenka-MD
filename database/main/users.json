@@ -19787,10 +19787,10 @@
     "jid": "6283172976375",
     "name": "iky ugm",
     "number": "6283172976375",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 286760,
+    "exp": 286775,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19799,7 +19799,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T02:39:42.217Z",
+    "lastSeen": "2026-10-04T02:39:33.759Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1790006726688,
@@ -19904,7 +19904,8 @@
       "unmute": 1789466770746,
       "unmutegc": 1789641130227,
       "wm": 1790430143938,
-      "sticker": 1790654817233
+      "sticker": 1790654817233,
+      "alightmotion": 1791081574175
     },
     "clanId": null,
     "isRegistered": false,
@@ -19931,8 +19932,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 17
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 18
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -126298,6 +126299,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126310,12 +126317,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
