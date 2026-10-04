@@ -5376,10 +5376,10 @@
     "jid": "6285810267907",
     "name": "mie ayam 🤤",
     "number": "6285810267907",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34021,
+    "exp": 34081,
     "level": 1,
     "koin": 19972,
     "unlockedFeatures": [],
@@ -5388,12 +5388,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T08:40:42.079Z",
+    "lastSeen": "2026-10-04T08:42:45.388Z",
     "cooldowns": {
       "brat": 1790424811344,
       "bratimg": 1789023056494,
       "bratcewek": 1780173764123,
-      "s": 1791103242617,
+      "s": 1791103365299,
       "brathd": 1781155849758,
       "bratgreen": 1780192520527,
       "bratsquidward": 1781155942363,
@@ -94106,7 +94106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15225,
+    "exp": 15150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126306,12 +126306,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126324,6 +126318,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
