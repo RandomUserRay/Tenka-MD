@@ -27262,10 +27262,10 @@
     "jid": "6283129172027",
     "name": "Raadityaa S. M. / 7G",
     "number": "6283129172027",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12069094,
+    "exp": 12069109,
     "level": 1,
     "koin": 36635,
     "unlockedFeatures": [
@@ -27280,7 +27280,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-15T23:37:35.663Z",
+    "lastSeen": "2026-10-04T03:51:25.721Z",
     "cooldowns": {
       "afk": 1788994840695,
       "play": 1789482632947,
@@ -126299,6 +126299,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126311,12 +126317,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
