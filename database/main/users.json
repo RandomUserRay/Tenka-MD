@@ -102546,13 +102546,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-10-04T00:08:32.675Z",
+    "lastSeen": "2026-10-04T23:05:07.129Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20974,
+    "exp": 20989,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102563,7 +102563,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1791072513905,
+      "afk": 1791155109440,
       "d": 1791033297775,
       "mutegc": 1788165687980,
       "ytmp4": 1791024907222,
@@ -102661,8 +102661,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 30,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 31,
     "fun": {
       "tembakTarget": "6285240302212@s.whatsapp.net",
       "tembakCount": 1,
@@ -126319,6 +126319,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126331,12 +126337,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
