@@ -96518,10 +96518,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23948,
+    "exp": 23963,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96531,12 +96531,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T00:59:28.139Z",
+    "lastSeen": "2026-10-04T01:04:41.054Z",
     "cooldowns": {
       "afk": 1791041576433,
       "play": 1791034878274,
       "smeme": 1790940220745,
-      "s": 1791075570594,
+      "s": 1791075882498,
       "menu": 1791020902791,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -112198,7 +112198,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56205,
+    "exp": 56145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112339,7 +112339,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19350,
+    "exp": 19335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126294,6 +126294,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126306,12 +126312,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
