@@ -90206,10 +90206,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10830,
+    "exp": 10860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90219,7 +90219,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T02:04:19.516Z",
+    "lastSeen": "2026-10-04T02:07:53.092Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90264,7 +90264,9 @@
       "sticker": 1790643853577,
       "ai": 1790643884098,
       "ytmp3": 1790760121227,
-      "family100": 1791024556845
+      "family100": 1791024556845,
+      "brat": 1791079661343,
+      "bratimg": 1791079675048
     },
     "clanId": null,
     "isRegistered": false,
