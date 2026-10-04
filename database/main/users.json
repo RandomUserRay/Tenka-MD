@@ -35711,7 +35711,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 304363,
+    "exp": 304333,
     "level": 1,
     "koin": 510091,
     "unlockedFeatures": [],
@@ -50418,7 +50418,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7425,
+    "exp": 7440,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -109790,7 +109790,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4575,
+    "exp": 4665,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123675,7 +123675,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 1170,
+    "exp": 1185,
     "energi": 99999,
     "name": "PAULO™",
     "lastSeen": "2026-10-04T01:44:37.488Z",
@@ -126309,16 +126309,10 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 1695,
+    "exp": 1710,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-03T03:31:08.206Z",
@@ -126327,6 +126321,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
