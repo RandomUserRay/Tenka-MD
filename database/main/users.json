@@ -90662,7 +90662,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46470,
+    "exp": 46455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90672,13 +90672,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T13:44:59.183Z",
+    "lastSeen": "2026-10-03T17:53:55.681Z",
     "cooldowns": {
       "play": 1790661861148,
       "toimg": 1790829435907,
       "hitamkan": 1787698715659,
       "benefitpremium": 1786929820395,
-      "s": 1791121499788,
+      "s": 1790865020507,
       "getpp": 1788322457146,
       "femboyvid": 1786931425035,
       "pussyvid": 1786931483730,
@@ -111960,7 +111960,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234602,
+    "exp": 234632,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113795,7 +113795,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12825,
+    "exp": 12840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126311,12 +126311,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126329,6 +126323,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
