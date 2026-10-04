@@ -94096,13 +94096,13 @@
   },
   "6285793601511": {
     "name": "A",
-    "lastSeen": "2026-10-03T16:48:22.611Z",
+    "lastSeen": "2026-10-04T00:58:59.477Z",
     "jid": "6285793601511",
     "number": "6285793601511",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14820,
+    "exp": 14925,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94113,9 +94113,9 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1791043572037,
+      "jadibot": 1791075542945,
       "p": 1790390805878,
-      "stopjadibot": 1791046101905
+      "stopjadibot": 1791075535411
     },
     "clanId": null,
     "isRegistered": false,
@@ -94133,8 +94133,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 9
   },
   "6285939126537": {
     "name": "★🍳ɑzׁׅ֬υׁׅꭈׁׅɑׁׅ֮ɑׁׅ~💞🌷†★",
@@ -96521,7 +96521,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23918,
+    "exp": 23933,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -103968,7 +103968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 105,
+    "exp": 135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
