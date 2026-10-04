@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669984,
+    "exp": 670059,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1859,13 +1859,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 67,
-      "health": 760,
-      "maxHealth": 760,
-      "mana": 430,
-      "maxMana": 430,
-      "stamina": 430,
-      "maxStamina": 430
+      "level": 68,
+      "health": 770,
+      "maxHealth": 770,
+      "mana": 435,
+      "maxMana": 435,
+      "stamina": 435,
+      "maxStamina": 435
     },
     "inventory": {
       "potion": 1,
@@ -46945,13 +46945,13 @@
   },
   "6285716629814": {
     "name": "shin",
-    "lastSeen": "2026-10-04T10:45:04.320Z",
+    "lastSeen": "2026-10-04T06:07:17.695Z",
     "jid": "6285716629814",
     "number": "6285716629814",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181065,
+    "exp": 181035,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -46974,7 +46974,7 @@
       "cekhodam": 1783588827428,
       "play": 1783967340271,
       "delete": 1786189132000,
-      "h": 1791110704529,
+      "h": 1791094037901,
       "close": 1783856013947,
       "open": 1783856033917,
       "afk": 1789666100242,
@@ -126309,6 +126309,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126321,12 +126327,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
