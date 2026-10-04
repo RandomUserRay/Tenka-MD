@@ -90659,10 +90659,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999997,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46530,
+    "exp": 46500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90672,9 +90672,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T13:48:10.543Z",
+    "lastSeen": "2026-10-04T13:45:19.935Z",
     "cooldowns": {
-      "play": 1791121696152,
+      "play": 1790661861148,
       "toimg": 1790829435907,
       "hitamkan": 1787698715659,
       "benefitpremium": 1786929820395,
@@ -90693,7 +90693,7 @@
       "rvo": 1791050040295,
       "mutegc": 1789870916192,
       "unmute": 1788322616325,
-      "ytmp4": 1791121709856,
+      "ytmp4": 1790661850416,
       "setwelcome": 1787663970245,
       "level": 1787823834168,
       "status": 1787825944266,
@@ -99517,8 +99517,8 @@
     "unregisteredAt": null,
     "lastSeen": "2026-10-04T13:47:28.344Z",
     "cooldowns": {
-      "ytmp4": 1791121663242,
-      "play": 1791121693532,
+      "ytmp4": 1790516535586,
+      "play": 1790866092783,
       "tembak": 1787893758938,
       "s": 1790142515211,
       "rvo": 1791121416062,
@@ -111961,7 +111961,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234602,
+    "exp": 234617,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126312,12 +126312,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126330,6 +126324,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
