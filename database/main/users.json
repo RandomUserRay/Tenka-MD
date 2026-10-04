@@ -1589,7 +1589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 313242,
+    "exp": 313287,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669984,
+    "exp": 670059,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1859,13 +1859,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 67,
-      "health": 760,
-      "maxHealth": 760,
-      "mana": 430,
-      "maxMana": 430,
-      "stamina": 430,
-      "maxStamina": 430
+      "level": 68,
+      "health": 770,
+      "maxHealth": 770,
+      "mana": 435,
+      "maxMana": 435,
+      "stamina": 435,
+      "maxStamina": 435
     },
     "inventory": {
       "potion": 1,
@@ -4042,7 +4042,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 98295,
+    "exp": 98340,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -40467,7 +40467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68280,
+    "exp": 68340,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60614,7 +60614,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3585,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104839,7 +104839,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3255,
+    "exp": 3075,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109790,7 +109790,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4200,
+    "exp": 4035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112204,7 +112204,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56880,
+    "exp": 56865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123761,7 +123761,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2040,
+    "exp": 2010,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126161,7 +126161,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 3600,
+    "exp": 3525,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126309,6 +126309,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126321,12 +126327,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
