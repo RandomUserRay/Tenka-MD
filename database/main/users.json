@@ -338,7 +338,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54100,
+    "exp": 54085,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -347,9 +347,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T10:43:47.246Z",
+    "lastSeen": "2026-10-04T10:17:21.322Z",
     "cooldowns": {
-      "afk": 1791110628793,
+      "afk": 1791109042776,
       "s": 1790071047057,
       "femboy": 1790422408770,
       "daily": 1780385975656,
@@ -23345,7 +23345,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48735,
+    "exp": 48750,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126309,12 +126309,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126327,6 +126321,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
