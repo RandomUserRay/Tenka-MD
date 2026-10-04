@@ -16641,7 +16641,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 239453,
+    "exp": 239468,
     "level": 1,
     "koin": 20715,
     "unlockedFeatures": [
@@ -16652,7 +16652,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T14:10:11.020Z",
+    "lastSeen": "2026-10-04T06:34:04.825Z",
     "cooldowns": {
       "me": 1786715106250,
       "luck": 1785641654832,
@@ -16688,7 +16688,7 @@
       "intro": 1783150921194,
       "welcome": 1783151176970,
       "tebaknegara": 1783174161933,
-      "mutegc": 1785417998666,
+      "mutegc": 1791095645267,
       "unmutegc": 1786198477323,
       "d": 1789794376301,
       "hytamkan": 1783503568840,
@@ -16781,8 +16781,8 @@
       "pasangan": "6283135864303@s.whatsapp.net",
       "jadiPacar": 1786715009248
     },
-    "lastActiveDate": "28/9/2026",
-    "activeDays": 8
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 9
   },
   "60146540094": {
     "jid": "60146540094",
@@ -126299,6 +126299,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126311,12 +126317,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
