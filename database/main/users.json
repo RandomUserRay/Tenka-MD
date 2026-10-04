@@ -94096,13 +94096,13 @@
   },
   "6285793601511": {
     "name": "A",
-    "lastSeen": "2026-10-04T00:58:59.477Z",
+    "lastSeen": "2026-10-04T00:59:39.845Z",
     "jid": "6285793601511",
     "number": "6285793601511",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14925,
+    "exp": 15000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96518,10 +96518,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23933,
+    "exp": 23948,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96531,12 +96531,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T15:32:54.416Z",
+    "lastSeen": "2026-10-04T00:59:28.139Z",
     "cooldowns": {
       "afk": 1791041576433,
       "play": 1791034878274,
       "smeme": 1790940220745,
-      "s": 1790855866147,
+      "s": 1791075570594,
       "menu": 1791020902791,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -96588,8 +96588,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 24
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 25
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -121537,15 +121537,16 @@
   "6283869213895": {
     "jid": "6283869213895",
     "rpg": {},
-    "exp": 105,
-    "energi": 99999,
+    "exp": 120,
+    "energi": 99998,
     "name": "Saiid limitless",
-    "lastSeen": "2026-10-02T09:15:03.265Z",
+    "lastSeen": "2026-10-04T00:59:48.133Z",
     "cooldowns": {
-      "tt": 1790932505317
+      "tt": 1790932505317,
+      "toimg": 1791075588602
     },
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 2
   },
   "6282190567392": {
     "jid": "6282190567392",
