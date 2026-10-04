@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669984,
+    "exp": 670059,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1859,13 +1859,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 67,
-      "health": 760,
-      "maxHealth": 760,
-      "mana": 430,
-      "maxMana": 430,
-      "stamina": 430,
-      "maxStamina": 430
+      "level": 68,
+      "health": 770,
+      "maxHealth": 770,
+      "mana": 435,
+      "maxMana": 435,
+      "stamina": 435,
+      "maxStamina": 435
     },
     "inventory": {
       "potion": 1,
@@ -16100,7 +16100,7 @@
     "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9396962,
+    "exp": 9396947,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16109,14 +16109,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T09:36:12.692Z",
+    "lastSeen": "2026-10-04T09:35:17.136Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
       "play": 1790866294031,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
-      "menu": 1791106575382,
+      "menu": 1790753773880,
       "s": 1790945750595,
       "afk": 1785393877062,
       "exp": 1781520653379,
@@ -16309,7 +16309,7 @@
       "cnn": 1786939071773,
       "mywaifu": 1790753806899,
       "deepseek": 1786939224776,
-      "pinpack": 1791106541529,
+      "pinpack": 1790351330999,
       "pins": 1786943697255,
       "h": 1786972730974,
       "samehadaku": 1787580893552,
@@ -111959,7 +111959,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233672,
+    "exp": 233642,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111969,12 +111969,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T09:36:23.007Z",
+    "lastSeen": "2026-10-04T05:01:22.047Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
       "play": 1788879286198,
-      "menu": 1791106583856,
+      "menu": 1790867155616,
       "menucat": 1790867159708,
       "lesby": 1789481637870,
       "gay": 1789481731625,
@@ -112184,8 +112184,8 @@
       "koran": 3
     },
     "access": [],
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 16,
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 15,
     "fun": {
       "tembakTarget": "6285150979843@s.whatsapp.net",
       "tembakCount": 1
@@ -120801,7 +120801,7 @@
   },
   "62895405466188": {
     "name": "𝑶𝒓𝒕𝒆𝒓 𝑶𝒓𝒕𝒆𝒈𝒂",
-    "lastSeen": "2026-10-02T13:01:34.181Z",
+    "lastSeen": "2026-10-04T09:36:32.402Z",
     "jid": "62895405466188",
     "rpg": {
       "health": 110,
@@ -120814,9 +120814,9 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 15159,
+    "exp": 15174,
     "cooldowns": {
-      "s": 1790768819745,
+      "s": 1791106593660,
       "smeme": 1789902978833,
       "allmenu": 1790003406148,
       "rvo": 1790685467554,
@@ -120837,9 +120837,9 @@
       "rfemboyvid": 1790946099255,
       "femboysvid": 1790942310063
     },
-    "energi": 99999,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 13,
+    "energi": 99998,
+    "lastActiveDate": "4/10/2026",
+    "activeDays": 14,
     "koin": 125978
   },
   "62882007228103": {
@@ -126306,6 +126306,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126318,12 +126324,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
