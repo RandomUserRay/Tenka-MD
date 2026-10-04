@@ -1,6 +1,6 @@
 {
   "commandErrors": 652,
-  "commandsExecuted": 129286,
+  "commandsExecuted": 129287,
   "command_totalchat": 26,
   "command_menu": 2124,
   "command_fb": 14,
@@ -163,7 +163,7 @@
   "command_delstikerreply": 3,
   "command_delowner": 18,
   "command_bratimg": 2032,
-  "command_rvo": 223,
+  "command_rvo": 222,
   "command_listowner": 5,
   "command_listprem": 31,
   "command_addprem": 42,
@@ -597,7 +597,7 @@
   "command_listcode": 33,
   "command_delcode": 3,
   "command_toimg": 166,
-  "command_music": 20,
+  "command_music": 21,
   "command_istirahat": 179,
   "command_lesby": 124,
   "command_ht2": 1,
@@ -1412,5 +1412,6 @@
   "command_mediafire": 1,
   "command_mfdl": 1,
   "command_rch3": 3,
-  "command_alightmotion": 1
+  "command_alightmotion": 1,
+  "command_music2": 1
 }
