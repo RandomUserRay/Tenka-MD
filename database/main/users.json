@@ -48113,7 +48113,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15041,
+    "exp": 15056,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48122,7 +48122,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T11:25:50.729Z",
+    "lastSeen": "2026-10-04T14:39:26.724Z",
     "cooldowns": {
       "menu": 1789209648334,
       "tebaknegara": 1783670524132,
@@ -126313,12 +126313,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126331,6 +126325,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
