@@ -111961,7 +111961,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234602,
+    "exp": 234617,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111971,13 +111971,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T13:44:24.684Z",
+    "lastSeen": "2026-10-04T13:47:23.742Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
       "play": 1788879286198,
       "menu": 1791106583856,
-      "menucat": 1791106599368,
+      "menucat": 1791121643816,
       "lesby": 1789481637870,
       "gay": 1789481731625,
       "bodoh": 1789481952366,
@@ -126312,12 +126312,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126330,6 +126324,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
