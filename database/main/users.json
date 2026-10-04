@@ -3062,7 +3062,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 716246,
+    "exp": 716276,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -28280,7 +28280,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 391668,
+    "exp": 391683,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -101103,7 +101103,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4770,
+    "exp": 4830,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109790,7 +109790,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4935,
+    "exp": 4860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109800,10 +109800,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T12:49:34.196Z",
+    "lastSeen": "2026-10-04T12:48:31.250Z",
     "cooldowns": {
       "absen": 1790993067728,
-      "warn": 1791118174238,
+      "warn": 1791118111298,
       "cekabsen": 1791000106650
     },
     "clanId": null,
@@ -111960,7 +111960,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233957,
+    "exp": 233942,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123675,10 +123675,10 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 1350,
+    "exp": 1320,
     "energi": 99999,
     "name": "PAULO™",
-    "lastSeen": "2026-10-04T12:49:42.413Z",
+    "lastSeen": "2026-10-04T01:44:37.488Z",
     "cooldowns": {
       "absen": 1791078277673
     },
@@ -126309,6 +126309,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126321,12 +126327,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
