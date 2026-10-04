@@ -4042,7 +4042,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 98370,
+    "exp": 98385,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -121544,15 +121544,15 @@
   "6283869213895": {
     "jid": "6283869213895",
     "rpg": {},
-    "exp": 165,
-    "energi": 99995,
+    "exp": 180,
+    "energi": 99994,
     "name": "Saiid limitless",
-    "lastSeen": "2026-10-04T12:17:02.510Z",
+    "lastSeen": "2026-10-04T12:18:06.446Z",
     "cooldowns": {
       "tt": 1790932505317,
       "toimg": 1791075588602,
       "s": 1791079238805,
-      "smeme": 1791116230240
+      "smeme": 1791116286578
     },
     "lastActiveDate": "4/10/2026",
     "activeDays": 2
