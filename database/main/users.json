@@ -109790,7 +109790,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4965,
+    "exp": 4980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109800,10 +109800,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T12:53:33.023Z",
+    "lastSeen": "2026-10-04T12:53:58.301Z",
     "cooldowns": {
       "absen": 1790993067728,
-      "warn": 1791118413411,
+      "warn": 1791118438440,
       "cekabsen": 1791000106650
     },
     "clanId": null,
