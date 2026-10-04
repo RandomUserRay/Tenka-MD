@@ -16097,10 +16097,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99992,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9396827,
+    "exp": 9396902,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16109,7 +16109,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T00:42:51.719Z",
+    "lastSeen": "2026-10-04T01:42:54.125Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16237,13 +16237,13 @@
       "wag": 1782999057687,
       "ass": 1782999246111,
       "pussyvid": 1782999294557,
-      "ttmp3": 1783257676631,
+      "ttmp3": 1791078169744,
       "warn": 1783043498556,
       "animespank": 1783004033903,
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1791074575115,
+      "tt": 1791078162192,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -123660,7 +123660,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 825,
+    "exp": 855,
     "energi": 99999,
     "name": "PAULO™",
     "lastSeen": "2026-10-03T11:42:53.083Z",
@@ -126427,5 +126427,10 @@
     "energi": 24,
     "lastActiveDate": "4/10/2026",
     "activeDays": 1
+  },
+  "6282185401041": {
+    "jid": "6282185401041",
+    "rpg": {},
+    "exp": 15
   }
 }
