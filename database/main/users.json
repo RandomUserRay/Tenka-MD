@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 669984,
+    "exp": 670059,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1859,13 +1859,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 67,
-      "health": 760,
-      "maxHealth": 760,
-      "mana": 430,
-      "maxMana": 430,
-      "stamina": 430,
-      "maxStamina": 430
+      "level": 68,
+      "health": 770,
+      "maxHealth": 770,
+      "mana": 435,
+      "maxMana": 435,
+      "stamina": 435,
+      "maxStamina": 435
     },
     "inventory": {
       "potion": 1,
@@ -126309,6 +126309,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126321,12 +126327,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
