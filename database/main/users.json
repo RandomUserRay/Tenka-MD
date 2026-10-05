@@ -67172,7 +67172,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174546,
+    "exp": 174561,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67187,9 +67187,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T14:25:14.845Z",
+    "lastSeen": "2026-10-05T06:13:08.173Z",
     "cooldowns": {
-      "afk": 1791123916708,
+      "afk": 1791180789620,
       "s": 1790758371793,
       "play": 1789982437541,
       "inv": 1786434391177,
@@ -67322,8 +67322,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 22
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 23
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -121107,7 +121107,7 @@
   "6283848747103": {
     "jid": "6283848747103",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "energi": 99999
   },
   "6281990054908": {
