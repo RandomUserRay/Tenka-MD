@@ -90218,7 +90218,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11055,
+    "exp": 11010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90228,7 +90228,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:17:36.212Z",
+    "lastSeen": "2026-10-05T11:18:18.713Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90264,7 +90264,7 @@
       "limit": 1790393643935,
       "p": 1791129781027,
       "x": 1790894118416,
-      "pp": 1791202656834,
+      "pp": 1790490026038,
       "h": 1790564070451,
       "hd": 1791079462115,
       "netflix": 1790518327681,
@@ -94116,7 +94116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15885,
+    "exp": 15810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102561,7 +102561,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21154,
+    "exp": 21124,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109807,7 +109807,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5175,
+    "exp": 5295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123781,7 +123781,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2145,
+    "exp": 2175,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126329,12 +126329,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126348,10 +126342,16 @@
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 375,
+    "exp": 435,
     "energi": 99999
   },
   "6282230312323": {
