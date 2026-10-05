@@ -33211,7 +33211,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555229,
+    "exp": 555109,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -43234,7 +43234,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222193,
+    "exp": 222148,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -101121,7 +101121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5220,
+    "exp": 5235,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101772,7 +101772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1020,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124965,7 +124965,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8281,
+    "exp": 8311,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -126331,6 +126331,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126343,12 +126349,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126859,6 +126859,11 @@
   },
   "6281927379061": {
     "jid": "6281927379061",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285196520613": {
+    "jid": "6285196520613",
     "rpg": {},
     "exp": 15
   }
