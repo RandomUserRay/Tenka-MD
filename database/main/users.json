@@ -67175,7 +67175,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174576,
+    "exp": 174591,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -90216,10 +90216,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99993,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11070,
+    "exp": 11100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90229,7 +90229,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:48:28.874Z",
+    "lastSeen": "2026-10-05T12:50:09.612Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90265,7 +90265,7 @@
       "limit": 1790393643935,
       "p": 1791129781027,
       "x": 1790894118416,
-      "pp": 1791204504019,
+      "pp": 1791204603488,
       "h": 1790564070451,
       "hd": 1791079462115,
       "netflix": 1790518327681,
@@ -101121,7 +101121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5175,
+    "exp": 5220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112224,7 +112224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58245,
+    "exp": 58230,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126331,6 +126331,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126343,12 +126349,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
