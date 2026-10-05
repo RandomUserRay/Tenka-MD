@@ -6069,7 +6069,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31670,
+    "exp": 31655,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -90215,10 +90215,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10995,
+    "exp": 11010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90228,7 +90228,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T11:17:55.279Z",
+    "lastSeen": "2026-10-05T11:18:18.713Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90250,7 +90250,7 @@
       "sangean": 1786871213094,
       "cekpacar": 1786871248360,
       "putus": 1786871369055,
-      "hitamkan": 1790917017502,
+      "hitamkan": 1791199130337,
       "gayvid": 1786931392747,
       "yaoi": 1786931963652,
       "stickerlydl": 1790154835499,
@@ -92295,13 +92295,13 @@
   },
   "6287745016987": {
     "name": "Azril/8B/14",
-    "lastSeen": "2026-09-30T13:32:42.106Z",
+    "lastSeen": "2026-10-05T11:18:30.453Z",
     "jid": "6287745016987",
     "number": "6287745016987",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 450,
+    "exp": 480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -92316,7 +92316,7 @@
       "menu": 1786886193617,
       "menucat": 1786886224636,
       "bratvid": 1786886257288,
-      "tt2": 1790917568160,
+      "tt2": 1791199117822,
       "s": 1786887325923,
       "ytmp4": 1790718653107
     },
@@ -92328,8 +92328,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 3
   },
   "6281241009137": {
     "jid": "6281241009137",
@@ -94116,7 +94116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15510,
+    "exp": 15585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126329,6 +126329,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126341,12 +126347,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
