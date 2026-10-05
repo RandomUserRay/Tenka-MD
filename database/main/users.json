@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330,
+    "exp": 315,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -28281,7 +28281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 391848,
+    "exp": 391668,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -33208,10 +33208,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99998,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555289,
+    "exp": 555484,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33220,7 +33220,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:59:09.105Z",
+    "lastSeen": "2026-10-05T13:03:02.507Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33264,7 +33264,7 @@
       "bego": 1783344965940,
       "infogame": 1784293137205,
       "buildml": 1783408638686,
-      "h": 1790750640604,
+      "h": 1791205245010,
       "jadwalbola": 1783420590300,
       "cekbaik": 1783420598238,
       "cekcupu": 1783420614426,
@@ -33466,7 +33466,9 @@
       "jadwalsholat": 1790750682706,
       "bratvid2": 1790764234938,
       "absen": 1791035410592,
-      "mulaiabsen": 1791035420825
+      "mulaiabsen": 1791035420825,
+      "netflix": 1791205250287,
+      "fotolive": 1791205387521
     },
     "clanId": null,
     "isRegistered": false,
@@ -40468,7 +40470,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68850,
+    "exp": 68835,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43228,13 +43230,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T12:55:36.121Z",
+    "lastSeen": "2026-10-05T13:03:12.645Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222193,
+    "exp": 222253,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43300,7 +43302,7 @@
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
       "cekabsen": 1791035535465,
-      "stacktower": 1791204937093
+      "stacktower": 1791205393423
     },
     "clanId": null,
     "isRegistered": false,
@@ -91670,7 +91672,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1785,
+    "exp": 1815,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101772,7 +101774,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1065,
+    "exp": 1035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102131,7 +102133,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 825,
+    "exp": 735,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -111978,7 +111980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234782,
+    "exp": 234827,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124965,7 +124967,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8326,
+    "exp": 8296,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -126331,12 +126333,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126345,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126865,6 +126867,6 @@
   "6285196520613": {
     "jid": "6285196520613",
     "rpg": {},
-    "exp": 270
+    "exp": 15
   }
 }
