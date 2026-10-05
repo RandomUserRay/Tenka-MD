@@ -1,6 +1,6 @@
 {
   "commandErrors": 652,
-  "commandsExecuted": 129331,
+  "commandsExecuted": 129332,
   "command_totalchat": 26,
   "command_menu": 2124,
   "command_fb": 14,
@@ -1413,5 +1413,6 @@
   "command_mfdl": 1,
   "command_rch3": 3,
   "command_alightmotion": 1,
-  "command_music2": 1
+  "command_music2": 1,
+  "command_bug": 1
 }
