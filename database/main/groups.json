@@ -45556,9 +45556,17 @@
     "name": "mie Aceh sayang hbd tu me"
   },
   "120363429735327728@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
-    "jid": "120363429735327728@g.us"
+    "jid": "120363429735327728@g.us",
+    "chatStats": {
+      "6281324631258@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1791210814968,
+        "name": "epic face mystery Daffa"
+      }
+    },
+    "welcomeMsg": "SELAMAT DATANG GB JB AMANAH BOLEH JUALAN SINI"
   }
 }
