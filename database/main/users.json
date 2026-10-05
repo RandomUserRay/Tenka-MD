@@ -4042,7 +4042,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 98940,
+    "exp": 98925,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -48302,7 +48302,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66930,
+    "exp": 66945,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71236,10 +71236,10 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73366,
+    "exp": 73351,
     "level": 1,
     "koin": 17768,
     "unlockedFeatures": [],
@@ -71248,7 +71248,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:30:21.870Z",
+    "lastSeen": "2026-10-05T12:06:54.337Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71295,7 +71295,7 @@
       "brat": 1787743643132,
       "bratimg": 1787743653577,
       "bratvideo": 1786884921431,
-      "tt": 1791203424903,
+      "tt": 1791202016209,
       "stiker": 1787741309187,
       "menu": 1788179323999,
       "menucat": 1788247404976,
@@ -72878,7 +72878,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4065,
+    "exp": 4095,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73385,7 +73385,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11550,
+    "exp": 11325,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -94116,7 +94116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15885,
+    "exp": 15810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125160,7 +125160,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 1815,
+    "exp": 1830,
     "energi": 99999,
     "name": "Apegan",
     "lastSeen": "2026-09-19T13:48:57.031Z"
@@ -126329,12 +126329,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126348,10 +126342,16 @@
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 510,
+    "exp": 540,
     "energi": 99999
   },
   "6282230312323": {
