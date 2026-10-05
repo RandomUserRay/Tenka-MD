@@ -96299,13 +96299,13 @@
   },
   "6285817724197": {
     "name": "fael kopling",
-    "lastSeen": "2026-10-04T02:53:38.517Z",
+    "lastSeen": "2026-10-05T04:25:18.189Z",
     "jid": "6285817724197",
     "number": "6285817724197",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4755,
+    "exp": 4770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96359,7 +96359,8 @@
       "lirik": 1789684730194,
       "liriklagu": 1790055635282,
       "nwaifu": 1790782836213,
-      "lesbian": 1790783364218
+      "lesbian": 1790783364218,
+      "bug": 1791174318886
     },
     "clanId": null,
     "isRegistered": false,
@@ -96369,8 +96370,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 24
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 25
   },
   "6285758156410": {
     "jid": "6285758156410",
