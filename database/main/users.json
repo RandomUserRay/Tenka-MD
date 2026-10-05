@@ -43228,13 +43228,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T13:18:42.229Z",
+    "lastSeen": "2026-10-05T13:24:20.629Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222298,
+    "exp": 222418,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43300,7 +43300,7 @@
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
       "cekabsen": 1791035535465,
-      "stacktower": 1791206323188
+      "stacktower": 1791206661538
     },
     "clanId": null,
     "isRegistered": false,
@@ -43368,13 +43368,13 @@
   },
   "6282179015669": {
     "name": "rian belagak",
-    "lastSeen": "2026-10-03T10:33:43.083Z",
+    "lastSeen": "2026-10-05T13:23:22.163Z",
     "jid": "6282179015669",
     "number": "6282179015669",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35506,
+    "exp": 35641,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43429,7 +43429,8 @@
       "simi": 1789889764128,
       "cekhodam": 1789889514157,
       "khodam": 1789889694977,
-      "robloxstalk": 1791023625979
+      "robloxstalk": 1791023625979,
+      "stacktower": 1791206602908
     },
     "clanId": null,
     "isRegistered": false,
@@ -43450,8 +43451,8 @@
     "access": [],
     "saldo": 0,
     "lastStreamer": 1785671751582,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 7
   },
   "6287859047549": {
     "jid": "6287859047549",
@@ -90219,7 +90220,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11160,
+    "exp": 11145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90229,7 +90230,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:25:28.711Z",
+    "lastSeen": "2026-10-05T12:51:48.731Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90270,7 +90271,7 @@
       "hd": 1791079462115,
       "netflix": 1790518327681,
       "ammagic": 1790519064296,
-      "ht": 1791206728830,
+      "ht": 1790560502533,
       "sticker": 1790643853577,
       "ai": 1790643884098,
       "ytmp3": 1790760121227,
@@ -102131,7 +102132,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1620,
+    "exp": 1455,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -126331,12 +126332,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126344,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126865,11 +126866,6 @@
   "6285196520613": {
     "jid": "6285196520613",
     "rpg": {},
-    "exp": 900
-  },
-  "6285751799011": {
-    "jid": "6285751799011",
-    "rpg": {},
-    "exp": 75
+    "exp": 750
   }
 }
