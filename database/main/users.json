@@ -90664,7 +90664,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46860,
+    "exp": 46875,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99507,10 +99507,10 @@
     "jid": "6281521975279",
     "name": "ŘEEŶ",
     "number": "6281521975279",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6585,
+    "exp": 6600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99520,13 +99520,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T13:55:36.215Z",
+    "lastSeen": "2026-10-05T05:34:26.734Z",
     "cooldowns": {
       "ytmp4": 1790516535586,
       "play": 1790866092783,
       "tembak": 1787893758938,
       "s": 1790142515211,
-      "rvo": 1791121416062,
+      "rvo": 1791178469398,
       "hd": 1790686194087,
       "h": 1790685091038,
       "tiktok": 1791122138435,
@@ -99540,8 +99540,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 13
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 14
   },
   "6285210615596": {
     "jid": "6285210615596",
@@ -113559,7 +113559,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1980,
+    "exp": 1965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126322,6 +126322,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126334,12 +126340,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
