@@ -43228,13 +43228,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T12:55:36.121Z",
+    "lastSeen": "2026-10-05T13:18:42.229Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222253,
+    "exp": 222283,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43300,7 +43300,7 @@
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
       "cekabsen": 1791035535465,
-      "stacktower": 1791204937093
+      "stacktower": 1791206323188
     },
     "clanId": null,
     "isRegistered": false,
@@ -43374,7 +43374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35446,
+    "exp": 35461,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50421,7 +50421,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7530,
+    "exp": 7560,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102131,7 +102131,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1470,
+    "exp": 1455,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -123783,7 +123783,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2565,
+    "exp": 2580,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126331,12 +126331,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126343,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
