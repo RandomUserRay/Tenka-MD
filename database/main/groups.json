@@ -45562,8 +45562,8 @@
     "jid": "120363429735327728@g.us",
     "chatStats": {
       "6281324631258@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1791211038110,
+        "count": 11,
+        "lastChat": 1791211062709,
         "name": "epic face mystery Daffa"
       }
     },
@@ -45572,6 +45572,7 @@
     "goodbyeMsg": "knp ya keluar🙃",
     "antijudol": "on",
     "antijudolMode": "kick",
-    "toxicMethod": "kick"
+    "toxicMethod": "kick",
+    "antispam": "on"
   }
 }
