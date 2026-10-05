@@ -41262,10 +41262,10 @@
     "jid": "6282193635458",
     "name": "Alzz Reaper | 亗",
     "number": "6282193635458",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284204,
+    "exp": 284219,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41276,7 +41276,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T11:33:57.598Z",
+    "lastSeen": "2026-10-05T13:54:57.496Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
@@ -41370,7 +41370,7 @@
       "everyone": 1786877294709,
       "susunkata": 1786887208324,
       "stiker": 1787584631131,
-      "ai": 1790940861991,
+      "ai": 1791208498488,
       "stickerpack": 1790926204736
     },
     "clanId": null,
@@ -41396,8 +41396,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 23,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 24,
     "fun": {}
   },
   "6285779209643": {
@@ -126333,6 +126333,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126345,12 +126351,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
