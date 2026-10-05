@@ -28281,7 +28281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 391668,
+    "exp": 391743,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -33208,10 +33208,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99996,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555349,
+    "exp": 555289,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33220,7 +33220,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:00:49.614Z",
+    "lastSeen": "2026-10-05T12:59:09.105Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33264,7 +33264,7 @@
       "bego": 1783344965940,
       "infogame": 1784293137205,
       "buildml": 1783408638686,
-      "h": 1791205245010,
+      "h": 1790750640604,
       "jadwalbola": 1783420590300,
       "cekbaik": 1783420598238,
       "cekcupu": 1783420614426,
@@ -33466,8 +33466,7 @@
       "jadwalsholat": 1790750682706,
       "bratvid2": 1790764234938,
       "absen": 1791035410592,
-      "mulaiabsen": 1791035420825,
-      "netflix": 1791205250287
+      "mulaiabsen": 1791035420825
     },
     "clanId": null,
     "isRegistered": false,
@@ -40469,7 +40468,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68835,
+    "exp": 68850,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43235,7 +43234,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222223,
+    "exp": 222193,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -91671,7 +91670,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1800,
+    "exp": 1785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101773,7 +101772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111979,7 +111978,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234797,
+    "exp": 234782,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124966,7 +124965,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8296,
+    "exp": 8311,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -126332,6 +126331,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126344,12 +126349,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126866,6 +126865,6 @@
   "6285196520613": {
     "jid": "6285196520613",
     "rpg": {},
-    "exp": 15
+    "exp": 195
   }
 }
