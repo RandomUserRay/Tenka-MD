@@ -73385,7 +73385,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11235,
+    "exp": 11250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73394,9 +73394,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:31:33.315Z",
+    "lastSeen": "2026-10-05T10:52:06.750Z",
     "cooldowns": {
-      "jadibot": 1790944297272
+      "jadibot": 1791197530772
     },
     "clanId": null,
     "isRegistered": false,
@@ -73415,8 +73415,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 3
   },
   "6282228091106": {
     "jid": "6282228091106",
@@ -126325,6 +126325,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126337,12 +126343,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
