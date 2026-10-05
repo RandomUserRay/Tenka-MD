@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117601713,
+    "exp": 117601728,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -73710,7 +73710,9 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "lastSeen": "2026-10-05T11:02:00.209Z",
-    "cooldowns": {},
+    "cooldowns": {
+      "bratimg": 1791198126778
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -73719,7 +73721,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 1
   },
   "6285708047294": {
     "jid": "6285708047294",
