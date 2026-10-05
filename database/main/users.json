@@ -62187,10 +62187,10 @@
     "jid": "6281999293718",
     "name": "͟͟͞͞⏤͟͟͞͞☆٭𝒎𝒂𝒏𝒖𝒔𝒊𝒂٭☆⏤͟͟͞͞",
     "number": "6281999293718",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150699,
+    "exp": 150639,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62199,10 +62199,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T09:27:42.343Z",
+    "lastSeen": "2026-10-03T14:01:46.002Z",
     "cooldowns": {
       "afk": 1791036107286,
-      "play": 1791192473686,
+      "play": 1790485205721,
       "mancing": 1784643047902,
       "susun": 1788241788337,
       "ytmp4": 1787933041178,
@@ -62231,8 +62231,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 18
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 17
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -79175,7 +79175,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2325,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102556,7 +102556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20989,
+    "exp": 21019,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126324,12 +126324,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126342,6 +126336,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
