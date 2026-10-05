@@ -45557,17 +45557,18 @@
   },
   "120363429735327728@g.us": {
     "welcome": true,
-    "goodbye": false,
-    "leave": false,
+    "goodbye": true,
+    "leave": true,
     "jid": "120363429735327728@g.us",
     "chatStats": {
       "6281324631258@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1791210814968,
+        "count": 2,
+        "lastChat": 1791210835942,
         "name": "epic face mystery Daffa"
       }
     },
     "welcomeMsg": "SELAMAT DATANG GB JB AMANAH BOLEH JUALAN SINI",
-    "name": "💎 TRIZRIZZ JB - ALL GAME OFFICIAL STORE 💎"
+    "name": "💎 TRIZRIZZ JB - ALL GAME OFFICIAL STORE 💎",
+    "goodbyeMsg": "knp ya keluar🙃"
   }
 }
