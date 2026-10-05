@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 671409,
+    "exp": 671484,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -2112,7 +2112,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231761,
+    "exp": 231776,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -2121,7 +2121,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T15:20:09.382Z",
+    "lastSeen": "2026-10-05T15:21:05.485Z",
     "cooldowns": {
       "profile": 1781357667609,
       "afk": 1785561401898,
@@ -2155,7 +2155,7 @@
       "yaoivid": 1782475165500,
       "femboyvid": 1783609882135,
       "pap": 1782642540167,
-      "rfemboyvid": 1786847990951,
+      "rfemboyvid": 1791213667207,
       "menu": 1783005220382,
       "nsfwloli": 1783609934712,
       "yaoi": 1783609951613,
@@ -2209,8 +2209,8 @@
       "levelupNotif": true
     },
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 2
   },
   "6287768821605": {
     "jid": "6287768821605",
@@ -126185,7 +126185,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 4875,
+    "exp": 4800,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126333,6 +126333,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126345,12 +126351,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
