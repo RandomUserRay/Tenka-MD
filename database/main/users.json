@@ -43228,13 +43228,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T12:44:12.712Z",
+    "lastSeen": "2026-10-05T12:55:36.121Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222088,
+    "exp": 222103,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43300,7 +43300,7 @@
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
       "cekabsen": 1791035535465,
-      "stacktower": 1791204253605
+      "stacktower": 1791204937093
     },
     "clanId": null,
     "isRegistered": false,
@@ -101772,7 +101772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124965,7 +124965,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8296,
+    "exp": 8281,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -126331,12 +126331,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126343,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
