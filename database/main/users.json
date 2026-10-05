@@ -109807,7 +109807,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5505,
+    "exp": 5550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122557,14 +122557,14 @@
   "6285849063461": {
     "jid": "6285849063461",
     "rpg": {
-      "stamina": 0,
+      "stamina": 90,
       "bank": 0
     },
-    "exp": 28146,
+    "exp": 28411,
     "name": "Edin",
-    "lastSeen": "2026-10-02T12:50:10.520Z",
+    "lastSeen": "2026-10-05T12:38:15.188Z",
     "cooldowns": {
-      "menu": 1789275161456,
+      "menu": 1791203892845,
       "ytmp4": 1789779132533,
       "play": 1789779010500,
       "lirik": 1789472754692,
@@ -122580,10 +122580,10 @@
       "freelance": 1789568391719,
       "s": 1790945411045
     },
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 5,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 6,
     "energi": 99999,
-    "koin": 7254
+    "koin": 9608
   },
   "6285771985823": {
     "jid": "6285771985823",
@@ -123781,7 +123781,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2430,
+    "exp": 2445,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
