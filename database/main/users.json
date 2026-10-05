@@ -28281,7 +28281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392043,
+    "exp": 392058,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -65465,7 +65465,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4035,
+    "exp": 4065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72879,7 +72879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4080,
+    "exp": 4065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102131,7 +102131,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1110,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -123783,7 +123783,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2595,
+    "exp": 2565,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126331,6 +126331,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126343,12 +126349,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126865,6 +126865,6 @@
   "6285196520613": {
     "jid": "6285196520613",
     "rpg": {},
-    "exp": 570
+    "exp": 630
   }
 }
