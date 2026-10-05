@@ -73697,10 +73697,10 @@
     "jid": "6289520406091",
     "name": "YUDHA CX-NEO",
     "number": "6289520406091",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 690,
+    "exp": 705,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73709,9 +73709,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T11:02:53.483Z",
+    "lastSeen": "2026-10-05T11:03:40.453Z",
     "cooldowns": {
-      "bratimg": 1791198174839
+      "bratimg": 1791198223538
     },
     "clanId": null,
     "isRegistered": false,
@@ -126844,5 +126844,10 @@
     "jid": "628886754708",
     "rpg": {},
     "exp": 75
+  },
+  "6283846628879": {
+    "jid": "6283846628879",
+    "rpg": {},
+    "exp": 15
   }
 }
