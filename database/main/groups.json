@@ -34735,11 +34735,6 @@
         "count": 1,
         "lastChat": 1791198231260,
         "name": "🕸Nad"
-      },
-      "6288245040255@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1791210995985,
-        "name": "Yuri"
       }
     },
     "mutegc": false
@@ -45567,8 +45562,8 @@
     "jid": "120363429735327728@g.us",
     "chatStats": {
       "6281324631258@s.whatsapp.net": {
-        "count": 8,
-        "lastChat": 1791210932995,
+        "count": 9,
+        "lastChat": 1791211007393,
         "name": "epic face mystery Daffa"
       }
     },
@@ -45576,6 +45571,7 @@
     "name": "💎 TRIZRIZZ JB - ALL GAME OFFICIAL STORE 💎",
     "goodbyeMsg": "knp ya keluar🙃",
     "antijudol": "on",
-    "antijudolMode": "kick"
+    "antijudolMode": "kick",
+    "toxicMethod": "kick"
   }
 }
