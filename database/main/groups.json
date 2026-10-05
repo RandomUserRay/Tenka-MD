@@ -34207,8 +34207,8 @@
         "name": "novaysukasusu"
       },
       "62895622978537@s.whatsapp.net": {
-        "count": 62,
-        "lastChat": 1791210542099,
+        "count": 63,
+        "lastChat": 1791210852930,
         "name": "HULOL"
       },
       "6283848747103@s.whatsapp.net": {
@@ -45105,8 +45105,8 @@
         "name": "Robben"
       },
       "6289506676085@s.whatsapp.net": {
-        "count": 171,
-        "lastChat": 1791210823256,
+        "count": 169,
+        "lastChat": 1791210801447,
         "name": "jovzboii🪶"
       },
       "6282363161583@s.whatsapp.net": {
@@ -45556,19 +45556,9 @@
     "name": "mie Aceh sayang hbd tu me"
   },
   "120363429735327728@g.us": {
-    "welcome": true,
-    "goodbye": true,
-    "leave": true,
-    "jid": "120363429735327728@g.us",
-    "chatStats": {
-      "6281324631258@s.whatsapp.net": {
-        "count": 2,
-        "lastChat": 1791210835942,
-        "name": "epic face mystery Daffa"
-      }
-    },
-    "welcomeMsg": "SELAMAT DATANG GB JB AMANAH BOLEH JUALAN SINI",
-    "name": "💎 TRIZRIZZ JB - ALL GAME OFFICIAL STORE 💎",
-    "goodbyeMsg": "knp ya keluar🙃"
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363429735327728@g.us"
   }
 }
