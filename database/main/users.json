@@ -8044,7 +8044,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 133718,
+    "exp": 133658,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43228,13 +43228,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T13:28:16.251Z",
+    "lastSeen": "2026-10-05T13:35:06.813Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99992,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222523,
+    "exp": 222553,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43300,7 +43300,7 @@
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
       "cekabsen": 1791035535465,
-      "stacktower": 1791206897076
+      "stacktower": 1791207307586
     },
     "clanId": null,
     "isRegistered": false,
@@ -73388,7 +73388,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12120,
+    "exp": 11775,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73397,9 +73397,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:36:25.870Z",
+    "lastSeen": "2026-10-05T10:52:06.750Z",
     "cooldowns": {
-      "jadibot": 1791207381057
+      "jadibot": 1791197530772
     },
     "clanId": null,
     "isRegistered": false,
@@ -73537,10 +73537,10 @@
     "jid": "6285602942938",
     "name": "VARO",
     "number": "6285602942938",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4485,
+    "exp": 4470,
     "level": 1,
     "koin": 1,
     "unlockedFeatures": [],
@@ -73549,13 +73549,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:36:22.342Z",
+    "lastSeen": "2026-10-02T12:33:23.003Z",
     "cooldowns": {
       "brathd": 1785154155052,
       "top": 1787833390209,
       "mywaifu": 1785239324654,
       "brat": 1790944372632,
-      "bratimg": 1791207385254,
+      "bratimg": 1790944405135,
       "gila": 1785666032159,
       "cekganteng": 1785666084888,
       "bratvid2": 1790497232127
@@ -73569,8 +73569,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 2
   },
   "6282311412916": {
     "jid": "6282311412916",
@@ -73700,10 +73700,10 @@
     "jid": "6289520406091",
     "name": "YUDHA CX-NEO",
     "number": "6289520406091",
-    "energi": 99992,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 735,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73712,9 +73712,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:36:22.308Z",
+    "lastSeen": "2026-10-05T11:05:55.837Z",
     "cooldowns": {
-      "bratimg": 1791207384474
+      "bratimg": 1791198368670
     },
     "clanId": null,
     "isRegistered": false,
@@ -86810,7 +86810,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1200,
+    "exp": 1170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104904,7 +104904,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1905,
+    "exp": 1920,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112367,7 +112367,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20280,
+    "exp": 20295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125164,7 +125164,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 1860,
+    "exp": 1875,
     "energi": 99999,
     "name": "Apegan",
     "lastSeen": "2026-09-19T13:48:57.031Z"
@@ -126333,12 +126333,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126351,6 +126345,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126868,10 +126868,5 @@
     "jid": "6285196520613",
     "rpg": {},
     "exp": 750
-  },
-  "6285751799011": {
-    "jid": "6285751799011",
-    "rpg": {},
-    "exp": 75
   }
 }
