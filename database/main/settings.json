@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
+      "at": 1791202629588
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791043573716
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789308212993
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789299141850
     }
   ],
   "jpmBlacklist": [],
