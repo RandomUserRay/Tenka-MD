@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 671184,
+    "exp": 671034,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -73386,7 +73386,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11700,
+    "exp": 11550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90251,7 +90251,7 @@
       "sangean": 1786871213094,
       "cekpacar": 1786871248360,
       "putus": 1786871369055,
-      "hitamkan": 1791204765308,
+      "hitamkan": 1791204676337,
       "gayvid": 1786931392747,
       "yaoi": 1786931963652,
       "stickerlydl": 1790154835499,
@@ -94117,7 +94117,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15960,
+    "exp": 15885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126183,7 +126183,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 4800,
+    "exp": 5025,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126331,12 +126331,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126343,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
