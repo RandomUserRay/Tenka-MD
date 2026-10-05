@@ -33208,10 +33208,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555274,
+    "exp": 555109,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33220,7 +33220,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:59:09.105Z",
+    "lastSeen": "2026-10-05T11:58:17.438Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33446,7 +33446,7 @@
       "femboy": 1786601748584,
       "bot": 1786630331222,
       "music5": 1787618872220,
-      "stacktower": 1791205149838,
+      "stacktower": 1789263473948,
       "croptop": 1788258530532,
       "bikini": 1788258662845,
       "croptopbikini": 1788258845139,
@@ -43234,7 +43234,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222193,
+    "exp": 222148,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -101121,7 +101121,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5220,
+    "exp": 5235,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101772,7 +101772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1020,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102131,7 +102131,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 750,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -124965,7 +124965,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8281,
+    "exp": 8311,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -126331,6 +126331,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126343,12 +126349,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126859,6 +126859,11 @@
   },
   "6281927379061": {
     "jid": "6281927379061",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285196520613": {
+    "jid": "6285196520613",
     "rpg": {},
     "exp": 15
   }
