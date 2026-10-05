@@ -73700,7 +73700,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 420,
+    "exp": 435,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -86800,10 +86800,10 @@
     "jid": "6285649725870",
     "name": "opet kau tinggal sini ke",
     "number": "6285649725870",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 945,
+    "exp": 960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -86813,11 +86813,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T12:47:08.349Z",
+    "lastSeen": "2026-10-05T10:53:35.338Z",
     "cooldowns": {
       "bratgreen": 1790944491215,
       "bratanime": 1790944509629,
-      "bratimg": 1790945235236,
+      "bratimg": 1791197616644,
       "menu": 1790944666625
     },
     "clanId": null,
@@ -86828,8 +86828,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 2
   },
   "6289671886267": {
     "jid": "6289671886267",
