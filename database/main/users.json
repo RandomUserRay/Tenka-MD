@@ -26387,10 +26387,10 @@
     "jid": "6285735855849",
     "name": "Patrick jane🗿☕",
     "number": "6285735855849",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81031,
+    "exp": 81076,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -26399,7 +26399,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T15:14:45.243Z",
+    "lastSeen": "2026-10-05T11:28:59.554Z",
     "cooldowns": {
       "menu": 1790819518127,
       "allmenu": 1788956252855,
@@ -26433,7 +26433,7 @@
       "superfast": 1784810199088,
       "superslow": 1784810114188,
       "tiktok": 1784860467478,
-      "ttmp3": 1790844330889,
+      "ttmp3": 1791199743335,
       "tochibi": 1785245451812,
       "freelance": 1788307572692,
       "live": 1784992759542,
@@ -26508,8 +26508,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "1/10/2026",
-    "activeDays": 21,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 22,
     "fun": {
       "tembakTarget": "6285641569049@s.whatsapp.net",
       "tembakCount": 1
@@ -41262,10 +41262,10 @@
     "jid": "6282193635458",
     "name": "Alzz Reaper | 亗",
     "number": "6282193635458",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284204,
+    "exp": 284234,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41276,7 +41276,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T11:33:57.598Z",
+    "lastSeen": "2026-10-05T11:28:48.073Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
@@ -41370,7 +41370,7 @@
       "everyone": 1786877294709,
       "susunkata": 1786887208324,
       "stiker": 1787584631131,
-      "ai": 1790940861991,
+      "ai": 1791199728691,
       "stickerpack": 1790926204736
     },
     "clanId": null,
@@ -41396,8 +41396,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 23,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 24,
     "fun": {}
   },
   "6285779209643": {
@@ -126329,6 +126329,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126341,12 +126347,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
