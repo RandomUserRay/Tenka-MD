@@ -43228,13 +43228,13 @@
   },
   "6285187952793": {
     "name": "masnidar",
-    "lastSeen": "2026-10-05T12:44:12.712Z",
+    "lastSeen": "2026-10-03T14:00:27.622Z",
     "jid": "6285187952793",
     "number": "6285187952793",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222088,
+    "exp": 222043,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -43299,8 +43299,7 @@
       "khodam": 1789890827747,
       "ytmp4": 1790766444170,
       "absen": 1791035524279,
-      "cekabsen": 1791035535465,
-      "stacktower": 1791204253605
+      "cekabsen": 1791035535465
     },
     "clanId": null,
     "isRegistered": false,
@@ -43336,8 +43335,8 @@
       "jadiPacar": 1785419925220
     },
     "lastStreamer": 1789655778293,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "3/10/2026",
+    "activeDays": 9
   },
   "62895383932080": {
     "jid": "62895383932080",
@@ -48116,7 +48115,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15131,
+    "exp": 15101,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -67175,7 +67174,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174576,
+    "exp": 174591,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -101121,7 +101120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5160,
+    "exp": 5175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111978,7 +111977,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234782,
+    "exp": 234767,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123783,7 +123782,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2565,
+    "exp": 2490,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126331,6 +126330,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126343,12 +126348,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
