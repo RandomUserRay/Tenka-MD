@@ -33211,7 +33211,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555289,
+    "exp": 555304,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33220,7 +33220,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:59:09.105Z",
+    "lastSeen": "2026-10-05T13:00:44.798Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33264,7 +33264,7 @@
       "bego": 1783344965940,
       "infogame": 1784293137205,
       "buildml": 1783408638686,
-      "h": 1790750640604,
+      "h": 1791205245010,
       "jadwalbola": 1783420590300,
       "cekbaik": 1783420598238,
       "cekcupu": 1783420614426,
@@ -126331,12 +126331,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126349,6 +126343,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
