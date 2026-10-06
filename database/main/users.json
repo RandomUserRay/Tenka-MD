@@ -3494,7 +3494,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431402,
+    "exp": 431417,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3503,14 +3503,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T11:12:51.609Z",
+    "lastSeen": "2026-10-06T13:56:05.340Z",
     "cooldowns": {
       "femboy": 1790758747915,
       "profile": 1790583682310,
       "menu": 1781530072258,
       "bank": 1783150240217,
       "profil": 1780487725718,
-      "afk": 1790672331173,
+      "afk": 1791294968251,
       "rob": 1790499488685,
       "me": 1790085329309,
       "work": 1783060174370,
@@ -16103,10 +16103,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99998,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397082,
+    "exp": 9397097,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16115,7 +16115,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T09:46:20.650Z",
+    "lastSeen": "2026-10-06T13:55:55.911Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16249,7 +16249,7 @@
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1791279983649,
+      "tt": 1791294957618,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -112236,7 +112236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58950,
+    "exp": 58935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123712,7 +123712,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 2490,
+    "exp": 2460,
     "energi": 99999,
     "name": "PAULO™",
     "lastSeen": "2026-10-04T12:49:42.413Z",
@@ -123798,7 +123798,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 3135,
+    "exp": 3120,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126347,6 +126347,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126360,16 +126366,10 @@
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 705,
+    "exp": 690,
     "energi": 99999
   },
   "6282230312323": {
