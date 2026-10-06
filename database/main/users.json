@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 673284,
+    "exp": 673209,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -111990,7 +111990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235052,
+    "exp": 235067,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112000,7 +112000,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T14:06:01.772Z",
+    "lastSeen": "2026-10-06T14:19:53.902Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112035,7 +112035,7 @@
       "topchat": 1790935611958,
       "antitoxic": 1791106621217,
       "videy": 1789534788602,
-      "tagall": 1791289634462,
+      "tagall": 1791296395109,
       "slowmode": 1789623256016,
       "mutegc": 1789640168951,
       "mutemember": 1789634157262,
@@ -112236,7 +112236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59295,
+    "exp": 59325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112377,7 +112377,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20565,
+    "exp": 20580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113869,7 +113869,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48565,
+    "exp": 48580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126200,7 +126200,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 6075,
+    "exp": 6150,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126348,12 +126348,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126366,6 +126360,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
