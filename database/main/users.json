@@ -72822,10 +72822,10 @@
     "jid": "62895320168082",
     "name": "Sultan",
     "number": "62895320168082",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 570,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -72834,9 +72834,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-01T14:25:06.414Z",
+    "lastSeen": "2026-10-06T03:29:30.188Z",
     "cooldowns": {
-      "s": 1790864706921
+      "s": 1791257372808
     },
     "clanId": null,
     "isRegistered": false,
@@ -72847,8 +72847,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "1/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 6
   },
   "6285753107822": {
     "jid": "6285753107822",
@@ -126336,12 +126336,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126354,6 +126348,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
