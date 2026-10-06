@@ -67181,7 +67181,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175026,
+    "exp": 175011,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67196,9 +67196,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T15:15:13.858Z",
+    "lastSeen": "2026-10-06T13:20:14.039Z",
     "cooldowns": {
-      "afk": 1791299716545,
+      "afk": 1791287415237,
       "s": 1791292815383,
       "play": 1789982437541,
       "inv": 1786434391177,
@@ -102564,13 +102564,13 @@
   },
   "628981194866": {
     "name": "\"{�}『¿𝑰 𝑫𝒐𝒏'𝒕 𝑲𝒏𝒐𝒘?』{�}\"",
-    "lastSeen": "2026-10-06T12:17:12.382Z",
+    "lastSeen": "2026-10-06T15:15:27.606Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21349,
+    "exp": 21364,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102581,7 +102581,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1791289033995,
+      "afk": 1791299729203,
       "d": 1791033297775,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
@@ -126349,12 +126349,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126367,6 +126361,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
