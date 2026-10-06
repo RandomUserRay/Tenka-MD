@@ -4045,7 +4045,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 98985,
+    "exp": 99015,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4054,10 +4054,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T14:23:33.778Z",
+    "lastSeen": "2026-10-06T11:02:31.619Z",
     "cooldowns": {
       "cekfemboy": 1780119477300,
-      "afk": 1791123816205,
+      "afk": 1791284553030,
       "s": 1790521949939,
       "ww": 1782475625593,
       "cekganteng": 1785377324470,
@@ -4158,8 +4158,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 5
   },
   "628988810597": {
     "jid": "628988810597",
@@ -26646,7 +26646,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170391,
+    "exp": 170376,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -50426,7 +50426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8250,
+    "exp": 8205,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90956,13 +90956,13 @@
   },
   "6288268008253": {
     "name": "loser gem",
-    "lastSeen": "2026-10-06T04:21:09.158Z",
+    "lastSeen": "2026-10-06T11:02:02.858Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3406,
+    "exp": 3436,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90982,7 +90982,7 @@
       "transfer": 1786706221920,
       "s": 1789618441384,
       "bank": 1790499514481,
-      "afk": 1791260471014,
+      "afk": 1791284524190,
       "marry": 1790499492556
     },
     "clanId": null,
@@ -126346,6 +126346,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126358,12 +126364,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
