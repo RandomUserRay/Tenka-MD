@@ -104300,12 +104300,12 @@
   },
   "628889265200": {
     "jid": "628889265200",
-    "name": "Unknown",
+    "name": "kai suka merah",
     "number": "628889265200",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104315,8 +104315,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T07:13:38.738Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-06T06:08:44.937Z",
+    "cooldowns": {
+      "sc": 1791266925475
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -104324,7 +104326,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 1
   },
   "62882005259111": {
     "jid": "62882005259111",
@@ -126523,7 +126527,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 1590,
+    "exp": 1605,
     "energi": 99999
   },
   "6282142567964": {
