@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 673209,
+    "exp": 673284,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -111990,7 +111990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235067,
+    "exp": 235052,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112000,7 +112000,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T14:19:53.902Z",
+    "lastSeen": "2026-10-06T14:06:01.772Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112035,7 +112035,7 @@
       "topchat": 1790935611958,
       "antitoxic": 1791106621217,
       "videy": 1789534788602,
-      "tagall": 1791296395109,
+      "tagall": 1791289634462,
       "slowmode": 1789623256016,
       "mutegc": 1789640168951,
       "mutemember": 1789634157262,
@@ -112236,7 +112236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59355,
+    "exp": 59295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112377,7 +112377,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20580,
+    "exp": 20565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113869,7 +113869,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48580,
+    "exp": 48565,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126200,7 +126200,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 6150,
+    "exp": 6075,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126348,6 +126348,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126360,12 +126366,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126419,18 +126419,18 @@
   },
   "6283137027920": {
     "name": "𝑭𝒓𝒆𝒆𝒅𝒐𝒎",
-    "lastSeen": "2026-10-04T01:57:45.922Z",
+    "lastSeen": "2026-10-06T14:20:39.875Z",
     "jid": "6283137027920",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "cooldowns": {
-      "tt": 1791035004439,
+      "tt": 1791296443736,
       "smeme": 1791079046832,
       "s": 1791079066826
     },
-    "energi": 99999,
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 2
+    "energi": 99998,
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 3
   },
   "6287892754869": {
     "name": "E v e l y n",
@@ -126533,7 +126533,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 2325,
+    "exp": 2340,
     "energi": 99999
   },
   "6282142567964": {
