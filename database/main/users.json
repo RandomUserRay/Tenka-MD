@@ -43238,7 +43238,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222538,
+    "exp": 222583,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -101779,7 +101779,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1185,
+    "exp": 1155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125275,7 +125275,7 @@
       "mana": 120,
       "stamina": 105
     },
-    "exp": 43768,
+    "exp": 43738,
     "name": "aiko",
     "lastSeen": "2026-09-26T16:29:55.982Z",
     "cooldowns": {
@@ -126343,12 +126343,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126361,6 +126355,12 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
