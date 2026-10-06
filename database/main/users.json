@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 672834,
+    "exp": 672759,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -26646,7 +26646,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170826,
+    "exp": 170841,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -50426,7 +50426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8220,
+    "exp": 8250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90674,10 +90674,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47145,
+    "exp": 47115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90687,7 +90687,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T11:35:46.604Z",
+    "lastSeen": "2026-10-05T05:32:54.209Z",
     "cooldowns": {
       "play": 1791122438138,
       "toimg": 1790829435907,
@@ -90705,7 +90705,7 @@
       "smeme": 1790437299175,
       "cekfemboy": 1786970914865,
       "putihkan": 1787909290250,
-      "rvo": 1791286547092,
+      "rvo": 1791178375425,
       "mutegc": 1789870916192,
       "unmute": 1788322616325,
       "ytmp4": 1791122428315,
@@ -90742,8 +90742,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 20
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 19
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -126198,7 +126198,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 5625,
+    "exp": 5775,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126346,12 +126346,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126364,6 +126358,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
