@@ -26646,7 +26646,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170106,
+    "exp": 170091,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26655,7 +26655,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T07:36:50.559Z",
+    "lastSeen": "2026-10-02T12:23:20.984Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26677,7 +26677,7 @@
       "owner": 1783582864259,
       "bucin": 1783582886927,
       "pakustad": 1788354793905,
-      "h": 1791272210576,
+      "h": 1789390175183,
       "kick": 1789124189537,
       "p": 1790943790329,
       "mutegc": 1784883707440,
@@ -26779,8 +26779,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 14
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 13
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -126343,6 +126343,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126355,12 +126361,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
