@@ -67180,7 +67180,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174636,
+    "exp": 174651,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67195,9 +67195,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T11:15:08.690Z",
+    "lastSeen": "2026-10-06T11:21:36.276Z",
     "cooldowns": {
-      "afk": 1791285310290,
+      "afk": 1791285697567,
       "s": 1790758371793,
       "play": 1789982437541,
       "inv": 1786434391177,
@@ -126346,6 +126346,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126358,12 +126364,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
