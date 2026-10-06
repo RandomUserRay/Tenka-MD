@@ -3065,7 +3065,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 716471,
+    "exp": 716441,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -48122,7 +48122,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15746,
+    "exp": 15761,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -50427,7 +50427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8610,
+    "exp": 8640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102570,7 +102570,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21364,
+    "exp": 21334,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104914,7 +104914,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2175,
+    "exp": 2190,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112236,7 +112236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58860,
+    "exp": 58905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112377,7 +112377,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20430,
+    "exp": 20475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123798,7 +123798,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 2895,
+    "exp": 2955,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126347,12 +126347,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126366,10 +126360,16 @@
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 675,
+    "exp": 690,
     "energi": 99999
   },
   "6282230312323": {
