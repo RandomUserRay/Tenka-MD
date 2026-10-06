@@ -112236,7 +112236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60015,
+    "exp": 59955,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112266,13 +112266,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 7,
-      "maxHealth": 160,
-      "maxMana": 130,
-      "maxStamina": 130,
-      "health": 160,
-      "mana": 130,
-      "stamina": 130
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125,
+      "health": 150,
+      "mana": 125,
+      "stamina": 125
     },
     "inventory": {},
     "access": [],
@@ -126349,6 +126349,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126361,12 +126367,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126931,7 +126931,7 @@
   "6287770552145": {
     "jid": "6287770552145",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285649318520": {
     "jid": "6285649318520",
