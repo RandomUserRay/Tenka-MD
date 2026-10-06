@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 672159,
+    "exp": 672234,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -47820,13 +47820,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-10-06T06:50:11.960Z",
+    "lastSeen": "2026-10-04T22:11:22.033Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 559073,
+    "exp": 559043,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -47946,7 +47946,7 @@
       "netflix": 1790511056894,
       "fotolive": 1790843432136,
       "stickerpack": 1790925152346,
-      "swgc": 1791269424492
+      "swgc": 1791151773748
     },
     "clanId": null,
     "isRegistered": false,
@@ -47975,8 +47975,8 @@
     "access": [],
     "lastStreamer": 1784788665524,
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 27,
+    "lastActiveDate": "5/10/2026",
+    "activeDays": 26,
     "birthday": "31-03"
   },
   "6287732757354": {
@@ -126343,6 +126343,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126355,12 +126361,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
