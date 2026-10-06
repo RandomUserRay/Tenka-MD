@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117601773,
+    "exp": 117601803,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -491,7 +491,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T11:39:18.246Z",
+    "lastSeen": "2026-10-06T12:42:32.134Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
       "femboy": 1783060022213,
@@ -510,7 +510,7 @@
       "tsundere": 1780279871082,
       "yandere": 1780279908983,
       "play": 1781966519651,
-      "afk": 1791200360055,
+      "afk": 1791290553485,
       "gacha": 1782996037794,
       "petshop": 1780318021880,
       "breeding": 1780322686074,
@@ -548,8 +548,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 5
   },
   "6285696697553": {
     "jid": "6285696697553",
@@ -120824,7 +120824,7 @@
   "6285189773918": {
     "jid": "6285189773918",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "energi": 99999
   },
   "6285161587720": {
