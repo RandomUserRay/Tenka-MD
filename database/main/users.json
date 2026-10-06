@@ -33211,10 +33211,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555334,
+    "exp": 555304,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33223,7 +33223,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T09:15:30.715Z",
+    "lastSeen": "2026-10-06T06:38:22.291Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33470,8 +33470,7 @@
       "bratvid2": 1790764234938,
       "absen": 1791035410592,
       "mulaiabsen": 1791035420825,
-      "blockblast": 1791268703863,
-      "tt2": 1791278104271
+      "blockblast": 1791268703863
     },
     "clanId": null,
     "isRegistered": false,
@@ -43239,7 +43238,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 222583,
+    "exp": 222538,
     "level": 1,
     "koin": 6914,
     "unlockedFeatures": [],
@@ -101780,7 +101779,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125276,7 +125275,7 @@
       "mana": 120,
       "stamina": 105
     },
-    "exp": 43738,
+    "exp": 43813,
     "name": "aiko",
     "lastSeen": "2026-09-26T16:29:55.982Z",
     "cooldowns": {
@@ -126344,6 +126343,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126356,12 +126361,6 @@
     },
     "lastActiveDate": "3/10/2026",
     "activeDays": 1
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
