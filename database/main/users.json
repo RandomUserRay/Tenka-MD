@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 540,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96546,7 +96546,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25898,
+    "exp": 25883,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -109820,7 +109820,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5715,
+    "exp": 5760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -111990,7 +111990,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234872,
+    "exp": 234902,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112377,7 +112377,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20415,
+    "exp": 20460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125177,7 +125177,7 @@
   "6285607583937": {
     "jid": "6285607583937",
     "rpg": {},
-    "exp": 1890,
+    "exp": 1905,
     "energi": 99999,
     "name": "Apegan",
     "lastSeen": "2026-09-19T13:48:57.031Z"
@@ -126347,12 +126347,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126365,6 +126359,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
