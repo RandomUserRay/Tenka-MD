@@ -102315,7 +102315,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7725,
+    "exp": 7740,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102325,12 +102325,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-28T11:33:59.119Z",
+    "lastSeen": "2026-10-06T23:51:34.126Z",
     "cooldowns": {
       "owner": 1788089665806,
       "robloxstalk": 1789911450366,
       "play": 1790137466217,
-      "afk": 1790595240682,
+      "afk": 1791330696056,
       "lvl": 1789798783924,
       "bratimg": 1790137044291,
       "wm": 1790137059333,
@@ -102348,8 +102348,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "28/9/2026",
-    "activeDays": 9
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 10
   },
   "62895406126052": {
     "jid": "62895406126052",
@@ -126349,6 +126349,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126361,12 +126367,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
