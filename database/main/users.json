@@ -98761,10 +98761,10 @@
     "jid": "6283139500330",
     "name": "Mambou",
     "number": "6283139500330",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 510,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98774,7 +98774,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T03:45:58.440Z",
+    "lastSeen": "2026-10-06T09:43:08.722Z",
     "cooldowns": {
       "play": 1790575687203,
       "menu": 1791258363376
@@ -123254,14 +123254,14 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-06T09:42:24.540Z",
+    "lastSeen": "2026-10-06T09:42:54.377Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 1425,
+    "exp": 1455,
     "cooldowns": {
-      "play": 1791279752337
+      "play": 1791279781966
     },
-    "energi": 99979,
+    "energi": 99978,
     "lastActiveDate": "6/10/2026",
     "activeDays": 4
   },
@@ -126530,7 +126530,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 2250,
+    "exp": 2265,
     "energi": 99999
   },
   "6282142567964": {
