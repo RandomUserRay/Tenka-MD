@@ -28702,10 +28702,10 @@
     "jid": "6285187171485",
     "name": "Miru Miru",
     "number": "6285187171485",
-    "energi": 99991,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297986,
+    "exp": 297956,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28716,11 +28716,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T12:41:41.593Z",
+    "lastSeen": "2026-10-07T09:08:48.449Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
-      "s": 1791376874900,
+      "s": 1791348394635,
       "brat": 1783160134077,
       "brathd": 1782800037546,
       "bratimg": 1790777492945,
@@ -67182,7 +67182,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175041,
+    "exp": 175026,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -112239,7 +112239,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62805,
+    "exp": 62835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123803,7 +123803,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 3885,
+    "exp": 3900,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-03T10:17:27.768Z",
     "cooldowns": {
@@ -126354,12 +126354,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126372,6 +126366,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
