@@ -1812,7 +1812,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 673659,
+    "exp": 673734,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -20294,10 +20294,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61214,
+    "exp": 61244,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20306,7 +20306,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T08:25:17.666Z",
+    "lastSeen": "2026-10-07T15:08:23.075Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20325,7 +20325,7 @@
       "smeme": 1786967183980,
       "meme": 1783604031605,
       "tts": 1789894058461,
-      "fakeff": 1784452096990,
+      "fakeff": 1791385707311,
       "slot": 1784465173135,
       "bank": 1784465213614,
       "kerja": 1784037630782,
@@ -90692,7 +90692,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48030,
+    "exp": 48135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99539,7 +99539,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6900,
+    "exp": 6945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126219,7 +126219,7 @@
     "lastSeen": "2026-09-30T01:18:53.523Z",
     "jid": "6285779164177",
     "rpg": {},
-    "exp": 7125,
+    "exp": 7050,
     "lastActiveDate": "30/9/2026",
     "activeDays": 2,
     "energi": 99999
@@ -126367,6 +126367,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126379,12 +126385,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
