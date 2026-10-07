@@ -7271,10 +7271,10 @@
     "jid": "6283196442568",
     "name": "cìko",
     "number": "6283196442568",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14690,
+    "exp": 14705,
     "level": 1,
     "koin": 1018499,
     "unlockedFeatures": [],
@@ -7283,7 +7283,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T13:47:28.491Z",
+    "lastSeen": "2026-10-07T22:35:35.689Z",
     "cooldowns": {
       "femboy": 1781183141177,
       "gay": 1780158137165,
@@ -7299,7 +7299,7 @@
       "afk": 1781969570659,
       "menu": 1791183946430,
       "allmenu": 1780408509946,
-      "tt": 1791380850584,
+      "tt": 1791412538355,
       "tt2": 1790838363450,
       "tiktok2": 1780813547206,
       "menucat": 1791183950657,
@@ -7347,8 +7347,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 21
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 22
   },
   "6285123878040": {
     "name": "⋆. 𐙚˚࿔ 𝒌𝒆𝒚 𝜗𝜚˚⋆",
@@ -126370,6 +126370,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126382,12 +126388,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
