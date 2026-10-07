@@ -45149,14 +45149,14 @@
     "name": "kelompok 1 ppkn"
   },
   "120363411823605284@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": true,
     "leave": true,
     "jid": "120363411823605284@g.us",
     "chatStats": {
       "6283181407349@s.whatsapp.net": {
-        "count": 295,
-        "lastChat": 1791383277302,
+        "count": 296,
+        "lastChat": 1791383289522,
         "name": "Robben"
       },
       "6289506676085@s.whatsapp.net": {
@@ -45281,7 +45281,8 @@
       ]
     },
     "mutedMembers": [],
-    "goodbyeMsg": null
+    "goodbyeMsg": null,
+    "welcomeMsg": "HAIIII"
   },
   "120363419908380997@g.us": {
     "chatStats": {
