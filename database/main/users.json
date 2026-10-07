@@ -26647,7 +26647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 172851,
+    "exp": 172911,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -50428,7 +50428,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9810,
+    "exp": 9840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90677,10 +90677,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47940,
+    "exp": 47895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90690,7 +90690,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T14:13:50.101Z",
+    "lastSeen": "2026-10-06T13:28:21.200Z",
     "cooldowns": {
       "play": 1791122438138,
       "toimg": 1790829435907,
@@ -90708,7 +90708,7 @@
       "smeme": 1790437299175,
       "cekfemboy": 1786970914865,
       "putihkan": 1787909290250,
-      "rvo": 1791382434246,
+      "rvo": 1791286547092,
       "mutegc": 1789870916192,
       "unmute": 1791293291336,
       "ytmp4": 1791122428315,
@@ -90745,8 +90745,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 21
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 20
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -113872,7 +113872,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48820,
+    "exp": 48835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126355,12 +126355,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126373,6 +126367,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
