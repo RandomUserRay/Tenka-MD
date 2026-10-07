@@ -35414,19 +35414,19 @@
     "jid": "6282131144804",
     "name": "radit maendra | uaf",
     "number": "6282131144804",
-    "energi": 100013,
+    "energi": 100026,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1015712,
+    "exp": 1021152,
     "level": 1,
-    "koin": 5791048,
+    "koin": 5793550,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T08:45:17.116Z",
+    "lastSeen": "2026-10-07T08:46:26.999Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35496,7 +35496,7 @@
       "level": 1789917218802,
       "totalfitur": 1783766680074,
       "zodiak": 1783766838128,
-      "tebaktebakan": 1791362717151,
+      "tebaktebakan": 1791362787050,
       "warn": 1783767678432,
       "ceklevel": 1783827040516,
       "open": 1784258068358,
@@ -35619,13 +35619,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 102,
-      "maxHealth": 1110,
-      "maxMana": 605,
-      "maxStamina": 605,
-      "health": 1110,
-      "mana": 605,
-      "stamina": 605,
+      "level": 103,
+      "maxHealth": 1120,
+      "maxMana": 610,
+      "maxStamina": 610,
+      "health": 1120,
+      "mana": 610,
+      "stamina": 610,
       "bank": 0,
       "pet": {
         "type": "bird",
@@ -41267,10 +41267,10 @@
     "jid": "6282193635458",
     "name": "Alzz Reaper | 亗",
     "number": "6282193635458",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284249,
+    "exp": 284219,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41281,7 +41281,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T08:46:51.055Z",
+    "lastSeen": "2026-10-05T13:54:57.496Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
@@ -126351,12 +126351,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126369,6 +126363,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
