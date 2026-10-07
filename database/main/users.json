@@ -16103,10 +16103,10 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397187,
+    "exp": 9397217,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16115,11 +16115,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T08:31:23.175Z",
+    "lastSeen": "2026-10-07T08:32:26.337Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1790866294031,
+      "play": 1791361960524,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1791106575382,
@@ -16345,7 +16345,7 @@
       "iqc": 1790437109539,
       "netflix": 1790953949607,
       "fakeml": 1790595322571,
-      "pin": 1791361894466,
+      "pin": 1791361919741,
       "stalkml": 1790685762802
     },
     "clanId": null,
@@ -34352,7 +34352,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 287700,
+    "exp": 287670,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -40473,7 +40473,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68940,
+    "exp": 68955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106192,10 +106192,10 @@
     "jid": "6283121900324",
     "name": "yantzy",
     "number": "6283121900324",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5370,
+    "exp": 5385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106205,7 +106205,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-01T03:59:48.197Z",
+    "lastSeen": "2026-10-07T08:32:35.507Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106231,7 +106231,8 @@
       "setwelcome": 1790255746594,
       "fakeff": 1790594100378,
       "bratvid": 1790599561871,
-      "bratvid2": 1790672733873
+      "bratvid2": 1790672733873,
+      "pin": 1791361965818
     },
     "clanId": null,
     "isRegistered": false,
@@ -106241,8 +106242,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "1/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 11
   },
   "6283829647574": {
     "jid": "6283829647574",
@@ -126351,6 +126352,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126363,12 +126370,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
