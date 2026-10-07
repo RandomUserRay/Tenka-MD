@@ -26647,7 +26647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170871,
+    "exp": 170826,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26656,7 +26656,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T11:33:19.034Z",
+    "lastSeen": "2026-10-06T11:26:23.634Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26735,7 +26735,7 @@
       "buyenergi": 1785389960203,
       "simi": 1788510658500,
       "tf": 1785390251938,
-      "warn": 1791372799515,
+      "warn": 1790943801306,
       "apakah": 1785502548169,
       "slot": 1785503307296,
       "ytmp4": 1787627100405,
@@ -26780,8 +26780,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 15
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 14
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -50427,7 +50427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9135,
+    "exp": 9120,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -55733,7 +55733,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 120,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90679,7 +90679,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47490,
+    "exp": 47640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126353,6 +126353,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126365,12 +126371,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
