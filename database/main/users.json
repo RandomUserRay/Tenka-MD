@@ -90240,7 +90240,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11310,
+    "exp": 11460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90250,7 +90250,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T16:12:46.419Z",
+    "lastSeen": "2026-10-07T16:13:05.040Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -126992,6 +126992,16 @@
   },
   "6288226688040": {
     "jid": "6288226688040",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281371820463": {
+    "jid": "6281371820463",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282342641942": {
+    "jid": "6282342641942",
     "rpg": {},
     "exp": 15
   }
