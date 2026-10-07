@@ -26647,7 +26647,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173571,
+    "exp": 173586,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26656,7 +26656,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T14:24:40.734Z",
+    "lastSeen": "2026-10-07T14:26:24.101Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26757,7 +26757,8 @@
       "toxic": 1788616918914,
       "deltoxic": 1788617006939,
       "listwarn": 1788667275001,
-      "setgoodbye": 1791383064770
+      "setgoodbye": 1791383064770,
+      "resetgoodbye": 1791383184441
     },
     "clanId": null,
     "isRegistered": false,
