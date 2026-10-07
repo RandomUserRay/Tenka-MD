@@ -45155,8 +45155,8 @@
     "jid": "120363411823605284@g.us",
     "chatStats": {
       "6283181407349@s.whatsapp.net": {
-        "count": 277,
-        "lastChat": 1791382914942,
+        "count": 279,
+        "lastChat": 1791382949431,
         "name": "Robben"
       },
       "6289506676085@s.whatsapp.net": {
@@ -45165,8 +45165,8 @@
         "name": "jovzboii🪶"
       },
       "6282363161583@s.whatsapp.net": {
-        "count": 344,
-        "lastChat": 1791382934629,
+        "count": 345,
+        "lastChat": 1791382939934,
         "name": ".."
       },
       "6285373779557@s.whatsapp.net": {
@@ -45280,7 +45280,9 @@
         }
       ]
     },
-    "mutedMembers": []
+    "mutedMembers": [
+      "6282363161583@s.whatsapp.net"
+    ]
   },
   "120363419908380997@g.us": {
     "chatStats": {
