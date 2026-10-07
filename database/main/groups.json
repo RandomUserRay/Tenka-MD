@@ -11490,8 +11490,8 @@
     "chat": {},
     "chatStats": {
       "6285753061976@s.whatsapp.net": {
-        "count": 3890,
-        "lastChat": 1791361982358,
+        "count": 3891,
+        "lastChat": 1791361983478,
         "name": "ytta"
       },
       "6282221996953@s.whatsapp.net": {
@@ -45628,5 +45628,16 @@
     "antijudol": "on",
     "antijudolMode": "kick",
     "toxicMethod": "kick"
+  },
+  "120363411313318172@g.us": {
+    "chatStats": {
+      "6282131144804@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1791362001548,
+        "name": "radit maendra | uaf"
+      }
+    },
+    "jid": "120363411313318172@g.us",
+    "name": "testbot"
   }
 }
