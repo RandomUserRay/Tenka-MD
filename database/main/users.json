@@ -26647,7 +26647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 172536,
+    "exp": 172491,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -90680,7 +90680,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47490,
+    "exp": 47505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109822,7 +109822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6540,
+    "exp": 6510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112239,7 +112239,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63285,
+    "exp": 63255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112380,7 +112380,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21480,
+    "exp": 21465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126354,10 +126354,16 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 4230,
+    "exp": 4125,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-07T12:32:50.531Z",
@@ -126366,12 +126372,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
