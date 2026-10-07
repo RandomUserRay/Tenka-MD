@@ -96560,10 +96560,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26033,
+    "exp": 26048,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96573,7 +96573,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T12:07:23.981Z",
+    "lastSeen": "2026-10-07T23:54:09.587Z",
     "cooldowns": {
       "afk": 1791123783015,
       "play": 1791034878274,
@@ -96608,7 +96608,7 @@
       "swgc": 1790670948129,
       "allmenu": 1790671077166,
       "stickerpack": 1791022109686,
-      "tt": 1791267781461,
+      "tt": 1791417252056,
       "imut": 1790758638087,
       "ganteng": 1790758652749,
       "stickerlydl": 1791022958053
@@ -96630,8 +96630,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 27
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 28
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -126370,6 +126370,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126382,12 +126388,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
