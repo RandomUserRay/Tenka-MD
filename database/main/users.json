@@ -73390,10 +73390,10 @@
     "jid": "6285822938264",
     "name": "𝙀𝙇𝘼𝙄𝙉𝘼ッ",
     "number": "6285822938264",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12825,
+    "exp": 12840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73402,9 +73402,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T08:51:40.146Z",
+    "lastSeen": "2026-10-07T08:52:05.325Z",
     "cooldowns": {
-      "jadibot": 1791207381057
+      "jadibot": 1791207381057,
+      "pin": 1791363135369
     },
     "clanId": null,
     "isRegistered": false,
@@ -73423,8 +73424,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 4
   },
   "6282228091106": {
     "jid": "6282228091106",
