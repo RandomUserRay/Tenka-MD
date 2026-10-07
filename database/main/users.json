@@ -111991,7 +111991,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235172,
+    "exp": 235202,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112001,7 +112001,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T11:07:18.976Z",
+    "lastSeen": "2026-10-07T11:09:23.757Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112165,7 +112165,8 @@
       "fotolive": 1791371242555,
       "d": 1791295561848,
       "music": 1791121457442,
-      "music2": 1791121464746
+      "music2": 1791121464746,
+      "buka": 1791371364653
     },
     "clanId": null,
     "isRegistered": false,
