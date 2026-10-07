@@ -45155,8 +45155,8 @@
     "jid": "120363411823605284@g.us",
     "chatStats": {
       "6283181407349@s.whatsapp.net": {
-        "count": 267,
-        "lastChat": 1791382819259,
+        "count": 269,
+        "lastChat": 1791382841693,
         "name": "Robben"
       },
       "6289506676085@s.whatsapp.net": {
@@ -45279,7 +45279,10 @@
           "time": 1791373621329
         }
       ]
-    }
+    },
+    "mutedMembers": [
+      "6282363161583@s.whatsapp.net"
+    ]
   },
   "120363419908380997@g.us": {
     "chatStats": {
