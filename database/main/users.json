@@ -54399,7 +54399,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18111,
+    "exp": 18126,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54408,9 +54408,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T15:53:34.336Z",
+    "lastSeen": "2026-10-07T12:21:00.644Z",
     "cooldowns": {
-      "afk": 1791302016736,
+      "afk": 1791375662368,
       "bot": 1785306210435,
       "work": 1785306564048,
       "tebakgambar": 1785306538251,
@@ -54473,8 +54473,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 10
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -101131,7 +101131,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5760,
+    "exp": 5775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
