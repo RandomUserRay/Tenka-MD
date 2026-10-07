@@ -90240,7 +90240,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11145,
+    "exp": 11160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90250,7 +90250,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T12:51:48.731Z",
+    "lastSeen": "2026-10-07T16:11:43.223Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90299,7 +90299,8 @@
       "brat": 1791079690666,
       "bratimg": 1791079675048,
       "bratcewek": 1791079696448,
-      "pin": 1791122224215
+      "pin": 1791122224215,
+      "jadibot": 1791389507574
     },
     "clanId": null,
     "isRegistered": false,
@@ -90318,8 +90319,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 17
   },
   "6282229809440": {
     "jid": "6282229809440",
