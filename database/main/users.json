@@ -16106,7 +16106,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397217,
+    "exp": 9397232,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34352,7 +34352,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 287715,
+    "exp": 287745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73393,7 +73393,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12885,
+    "exp": 12870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73405,7 +73405,7 @@
     "lastSeen": "2026-10-07T08:53:43.019Z",
     "cooldowns": {
       "jadibot": 1791207381057,
-      "pin": 1791363232138
+      "pin": 1791363179418
     },
     "clanId": null,
     "isRegistered": false,
@@ -123257,15 +123257,15 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-07T08:53:54.790Z",
+    "lastSeen": "2026-10-07T08:52:40.397Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 2025,
+    "exp": 1995,
     "cooldowns": {
-      "play": 1791363249490,
+      "play": 1791363175007,
       "limit": 1791353114061
     },
-    "energi": 99982,
+    "energi": 99983,
     "lastActiveDate": "7/10/2026",
     "activeDays": 5
   },
@@ -126352,12 +126352,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126370,6 +126364,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126418,15 +126418,8 @@
   "6287847422082": {
     "jid": "6287847422082",
     "rpg": {},
-    "exp": 45,
-    "energi": 99997,
-    "name": "punya glen",
-    "lastSeen": "2026-10-07T08:54:17.812Z",
-    "cooldowns": {
-      "ytmp4": 1791363268375
-    },
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 1
+    "exp": 30,
+    "energi": 99999
   },
   "6283137027920": {
     "name": "𝑭𝒓𝒆𝒆𝒅𝒐𝒎",
@@ -126544,7 +126537,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 2955,
+    "exp": 2925,
     "energi": 99999
   },
   "6282142567964": {
