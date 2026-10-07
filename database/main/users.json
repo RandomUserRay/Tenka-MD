@@ -90655,10 +90655,10 @@
     "jid": "6289630843540",
     "name": "munoz s.farm",
     "number": "6289630843540",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1395,
+    "exp": 1410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90668,9 +90668,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-01T16:28:30.276Z",
+    "lastSeen": "2026-10-07T16:01:01.098Z",
     "cooldowns": {
-      "s": 1787834449453,
+      "s": 1791388863656,
       "smeme": 1786690995673,
       "cekfemboy": 1786887614086,
       "femboys": 1787666537039,
@@ -90683,7 +90683,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 1
   },
   "6281262657079": {
     "jid": "6281262657079",
