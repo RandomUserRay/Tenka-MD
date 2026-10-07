@@ -35414,12 +35414,12 @@
     "jid": "6282131144804",
     "name": "radit maendra | uaf",
     "number": "6282131144804",
-    "energi": 100021,
+    "energi": 100013,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1018099,
+    "exp": 1015712,
     "level": 1,
-    "koin": 5792219,
+    "koin": 5791048,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
@@ -41267,10 +41267,10 @@
     "jid": "6282193635458",
     "name": "Alzz Reaper | 亗",
     "number": "6282193635458",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284219,
+    "exp": 284234,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41281,7 +41281,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-05T13:54:57.496Z",
+    "lastSeen": "2026-10-07T08:46:24.011Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
@@ -126351,6 +126351,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126363,12 +126369,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
