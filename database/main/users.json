@@ -28702,10 +28702,10 @@
     "jid": "6285187171485",
     "name": "Miru Miru",
     "number": "6285187171485",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297956,
+    "exp": 297971,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28716,7 +28716,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T09:08:48.449Z",
+    "lastSeen": "2026-10-07T10:38:43.598Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28778,7 +28778,7 @@
       "antitoxic": 1788265043285,
       "listtoxic": 1788264826840,
       "tt": 1791364117521,
-      "ttmp3": 1791364132366,
+      "ttmp3": 1791369527262,
       "hd": 1784640271962,
       "remini": 1782985011101,
       "jadwalsholat": 1782985761080,
@@ -112237,7 +112237,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61695,
+    "exp": 61680,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126352,6 +126352,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126364,12 +126370,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
