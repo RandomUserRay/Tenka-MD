@@ -48123,7 +48123,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16661,
+    "exp": 16706,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -96545,10 +96545,10 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26003,
+    "exp": 25958,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96558,10 +96558,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T12:13:32.213Z",
+    "lastSeen": "2026-10-07T12:07:23.981Z",
     "cooldowns": {
       "afk": 1791123783015,
-      "play": 1791375241638,
+      "play": 1791034878274,
       "smeme": 1791374844295,
       "s": 1791374819337,
       "menu": 1791020902791,
@@ -109822,7 +109822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6195,
+    "exp": 6330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112239,7 +112239,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62415,
+    "exp": 62445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126354,12 +126354,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126372,6 +126366,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126539,7 +126539,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 3435,
+    "exp": 3420,
     "energi": 99999
   },
   "6282142567964": {
@@ -126972,6 +126972,6 @@
   "62882017742907": {
     "jid": "62882017742907",
     "rpg": {},
-    "exp": 150
+    "exp": 180
   }
 }
