@@ -26647,7 +26647,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173646,
+    "exp": 173676,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26656,7 +26656,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T14:27:57.302Z",
+    "lastSeen": "2026-10-07T14:28:16.748Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26741,7 +26741,7 @@
       "ytmp4": 1787627100405,
       "heal": 1785667605338,
       "hd": 1785922667587,
-      "setwelcome": 1791383268485,
+      "setwelcome": 1791383289622,
       "warning": 1786619383632,
       "tohd": 1786691297264,
       "berita": 1786840871374,
@@ -26758,7 +26758,8 @@
       "deltoxic": 1788617006939,
       "listwarn": 1788667275001,
       "setgoodbye": 1791383064770,
-      "resetgoodbye": 1791383184441
+      "resetgoodbye": 1791383184441,
+      "resetwelcome": 1791383296806
     },
     "clanId": null,
     "isRegistered": false,
