@@ -20294,10 +20294,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61349,
+    "exp": 61364,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20306,7 +20306,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T06:20:06.652Z",
+    "lastSeen": "2026-10-08T06:31:39.545Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -126373,6 +126373,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126385,12 +126391,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
