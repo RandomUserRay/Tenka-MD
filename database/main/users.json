@@ -55769,7 +55769,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 645,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96595,7 +96595,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26183,
+    "exp": 26168,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236072,
+    "exp": 236117,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68085,
+    "exp": 68130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113628,7 +113628,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2310,
+    "exp": 2325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126403,12 +126403,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126421,6 +126415,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127096,17 +127096,17 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T13:50:28.709Z",
+    "lastSeen": "2026-10-08T13:53:49.588Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 2874,
+    "exp": 2904,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791467366555,
       "allmenu": 1791467405294,
       "love": 1791450944033,
       "tebaknegara": 1791451339767,
-      "cekfemboy": 1791467431376,
+      "cekfemboy": 1791467610982,
       "fuckmylife": 1791454038445,
       "stickerpack": 1791454059698,
       "blockblast": 1791454086917,
@@ -127190,16 +127190,16 @@
   "6285748250884": {
     "jid": "6285748250884",
     "rpg": {},
-    "exp": 90
+    "exp": 120
   },
   "6285714370329": {
     "jid": "6285714370329",
     "rpg": {},
-    "exp": 150
+    "exp": 180
   },
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   }
 }
