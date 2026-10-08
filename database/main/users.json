@@ -33849,7 +33849,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91506,
+    "exp": 91521,
     "level": 1,
     "koin": 350300,
     "unlockedFeatures": [],
@@ -33905,11 +33905,19 @@
       "maxStamina": 145,
       "health": 190,
       "mana": 145,
-      "stamina": 145,
+      "stamina": 115,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791465490446
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Bandit Hutan",
+        "monsterPower": 13,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791465523303
       }
     },
     "inventory": {
