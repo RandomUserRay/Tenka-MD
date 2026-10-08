@@ -33217,10 +33217,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555424,
+    "exp": 555409,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33229,7 +33229,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:35:22.539Z",
+    "lastSeen": "2026-10-07T13:44:09.093Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33462,7 +33462,7 @@
       "list": 1788511747947,
       "swgc": 1791201505147,
       "play2": 1788777624419,
-      "pin": 1791466534705,
+      "pin": 1791380654365,
       "ganteng": 1789263677434,
       "cektsundere": 1789307169467,
       "tagall": 1789458983492,
@@ -33560,8 +33560,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 29
+    "lastActiveDate": "7/10/2026",
+    "activeDays": 28
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021347,
+    "exp": 1021317,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35436,7 +35436,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:35:21.567Z",
+    "lastSeen": "2026-10-08T13:34:40.269Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35462,7 +35462,7 @@
       "hytamkan": 1783788774165,
       "waifutohitam": 1783788616737,
       "owner": 1790251464426,
-      "setwelcome": 1791466521602,
+      "setwelcome": 1783697628491,
       "brat": 1789391301348,
       "bratanime": 1783697700663,
       "bratimg": 1789391298744,
@@ -35621,8 +35621,7 @@
       "toblack": 1790250641325,
       "marry": 1790251071674,
       "divorce": 1790250796141,
-      "tebakanimechar": 1790251799705,
-      "intro": 1791466514216
+      "tebakanimechar": 1790251799705
     },
     "clanId": null,
     "isRegistered": false,
@@ -112032,7 +112031,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235877,
+    "exp": 235817,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112279,7 +112278,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67665,
+    "exp": 67590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113912,7 +113911,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49210,
+    "exp": 49195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126214,15 +126213,15 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-10-07T05:41:57.461Z",
+    "lastSeen": "2026-10-08T13:35:30.171Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 1260,
+    "exp": 1290,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1791122468701,
       "bratvid2": 1790680957160,
-      "bratwhite": 1790592036684,
+      "bratwhite": 1791466531903,
       "bratimg": 1790594387453,
       "fakeml": 1790594459434,
       "fakeff": 1790634908379,
@@ -126237,11 +126236,12 @@
       "tts": 1791007058645,
       "brathd": 1791280956304,
       "tt": 1791280380743,
-      "s": 1791351718355
+      "s": 1791351718355,
+      "bratgojovid": 1791466505470
     },
-    "energi": 99999,
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 10
+    "energi": 99996,
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 11
   },
   "6285779164177": {
     "name": "Wise",
@@ -126396,6 +126396,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126408,12 +126414,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
