@@ -127212,21 +127212,9 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 10,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Goblin Liar",
-        "monsterPower": 32,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791469070145
-      }
+      "maxStamina": 100
     },
-    "exp": 979,
+    "exp": 1124,
     "name": "npc",
     "lastSeen": "2026-10-08T14:17:29.500Z",
     "cooldowns": {
@@ -127247,7 +127235,7 @@
       "potion": 1,
       "leather": 3
     },
-    "koin": 513
+    "koin": 723
   },
   "6285714370329": {
     "jid": "6285714370329",
