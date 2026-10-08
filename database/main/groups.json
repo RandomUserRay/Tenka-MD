@@ -45270,8 +45270,8 @@
         "name": "erman"
       },
       "6285371947945@s.whatsapp.net": {
-        "count": 209,
-        "lastChat": 1791472893595,
+        "count": 210,
+        "lastChat": 1791472907535,
         "name": "TIPIS TIPIS🤏💥💫"
       },
       "628216487300@s.whatsapp.net": {
@@ -45997,13 +45997,16 @@
   "120363428007244888@g.us": {
     "chatStats": {
       "6289524280314@s.whatsapp.net": {
-        "count": 79,
-        "lastChat": 1791472896991,
+        "count": 80,
+        "lastChat": 1791472905999,
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       }
     },
     "jid": "120363428007244888@g.us",
     "name": "Tes ai",
-    "onlynsfw": true
+    "onlynsfw": true,
+    "toxicWords": [
+      "kontol"
+    ]
   }
 }
