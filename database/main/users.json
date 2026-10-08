@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70020,
+    "exp": 70035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112296,12 +112296,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T12:57:35.066Z",
+    "lastSeen": "2026-10-08T15:55:48.027Z",
     "cooldowns": {
       "ytmp4": 1788877987397,
       "menu": 1788879487379,
       "ut": 1789560686531,
-      "level": 1789925125157,
+      "level": 1791474948091,
       "buka": 1791376832314,
       "tutup": 1791376835064,
       "tagall": 1791325166069,
@@ -112326,8 +112326,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 12
   },
   "6287893710951": {
     "jid": "6287893710951",
@@ -127096,7 +127096,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T15:55:21.678Z",
+    "lastSeen": "2026-10-08T15:55:47.080Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127108,7 +127108,7 @@
       "maxMana": 105,
       "mana": 53
     },
-    "exp": 19598,
+    "exp": 19613,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
