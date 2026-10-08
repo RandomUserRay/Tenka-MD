@@ -4474,7 +4474,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232835,
+    "exp": 232820,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -20296,10 +20296,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61379,
+    "exp": 61364,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20308,7 +20308,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T10:46:59.586Z",
+    "lastSeen": "2026-10-08T06:31:39.545Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20340,7 +20340,7 @@
       "ngojek": 1783834118024,
       "ngamen": 1783834126192,
       "afk": 1789403348360,
-      "tt": 1791456422136,
+      "tt": 1791440395128,
       "ttmp3": 1791440411509,
       "rest": 1784381733654,
       "jadibot": 1791199457534,
@@ -101154,7 +101154,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5820,
+    "exp": 5805,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112262,7 +112262,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65925,
+    "exp": 65970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126378,12 +126378,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126396,6 +126390,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
