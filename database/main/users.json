@@ -127273,21 +127273,9 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 70,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Bandit Hutan",
-        "monsterPower": 16,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791468799908
-      }
+      "maxStamina": 100
     },
-    "exp": 225,
+    "exp": 447,
     "name": "AJO GS ☠️",
     "lastSeen": "2026-10-08T14:13:13.041Z",
     "cooldowns": {
@@ -127298,7 +127286,11 @@
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
-    "inventory": {}
+    "inventory": {
+      "gold": 2,
+      "herb": 6
+    },
+    "koin": 133
   },
   "6285837219145": {
     "jid": "6285837219145",
