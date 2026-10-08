@@ -33849,7 +33849,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91756,
+    "exp": 91771,
     "level": 1,
     "koin": 350432,
     "unlockedFeatures": [],
@@ -33906,11 +33906,19 @@
       "maxStamina": 145,
       "health": 190,
       "mana": 145,
-      "stamina": 115,
+      "stamina": 85,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791465559395
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 25,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791465580143
       }
     },
     "inventory": {
@@ -104958,7 +104966,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2250,
+    "exp": 2265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112281,7 +112289,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67035,
+    "exp": 67080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123759,7 +123767,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 3045,
+    "exp": 3060,
     "energi": 99999,
     "name": "PAULO™",
     "lastSeen": "2026-10-07T11:45:52.954Z",
