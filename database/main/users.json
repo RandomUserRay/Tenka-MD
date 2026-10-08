@@ -127106,13 +127106,9 @@
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 105,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791471355425
-      }
+      "mana": 105
     },
-    "exp": 16405,
+    "exp": 16420,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
