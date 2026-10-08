@@ -127096,19 +127096,31 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T16:47:42.948Z",
+    "lastSeen": "2026-10-08T16:49:08.248Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 120,
       "maxHealth": 120,
-      "stamina": 80,
+      "stamina": 50,
       "maxStamina": 110,
       "level": 3,
       "maxMana": 110,
-      "mana": 110
+      "mana": 110,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 27,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791478156048
+      }
     },
-    "exp": 24009,
+    "exp": 24069,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127128,7 +127140,7 @@
       "afk": 1791477828043,
       "cekabsen": 1791468423697,
       "gacha": 1791477983616,
-      "dungeon": 1791476833175,
+      "dungeon": 1791478148344,
       "cekpacar": 1791478063045,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
@@ -127508,7 +127520,7 @@
   "6285368265330": {
     "jid": "6285368265330",
     "rpg": {},
-    "exp": 581,
+    "exp": 596,
     "name": "델라? (𝙳𝚎𝚕𝚕𝚊?)",
     "lastSeen": "2026-10-08T16:46:41.309Z",
     "cooldowns": {
