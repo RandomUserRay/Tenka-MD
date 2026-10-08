@@ -38543,8 +38543,8 @@
         "name": "a"
       },
       "6282271219129@s.whatsapp.net": {
-        "count": 5510,
-        "lastChat": 1791467372874,
+        "count": 5511,
+        "lastChat": 1791467410616,
         "name": "♛𝐭𝐮𝐝𝐞𝐩♛"
       },
       "6283877554226@s.whatsapp.net": {
@@ -45861,8 +45861,8 @@
         "name": "🤭maira_😶‍🌫️🤟"
       },
       "6285748250884@s.whatsapp.net": {
-        "count": 7,
-        "lastChat": 1791467401586,
+        "count": 8,
+        "lastChat": 1791467410058,
         "name": "npc"
       },
       "6289524280314@s.whatsapp.net": {
@@ -45871,18 +45871,33 @@
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       },
       "6285714370329@s.whatsapp.net": {
-        "count": 3,
-        "lastChat": 1791467402000,
+        "count": 4,
+        "lastChat": 1791467407867,
         "name": "KAMILZ"
+      },
+      "628895546832@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1791467417235,
+        "name": "*"
       }
     },
     "jid": "120363429696148357@g.us",
     "name": "Light Forge"
   },
   "120363427666976507@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
-    "jid": "120363427666976507@g.us"
+    "jid": "120363427666976507@g.us",
+    "chatStats": {
+      "6282131144804@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1791467424396,
+        "name": "radit maendra | uaf"
+      }
+    },
+    "mutegc": true,
+    "name": "「 KACUNGPRETT」 BF COMMUNITY",
+    "welcomeMsg": "haloo memberbaru {user} \nsemoga betah betah ya disinii🤭"
   }
 }
