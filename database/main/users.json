@@ -11613,7 +11613,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40084,
+    "exp": 40069,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -26649,7 +26649,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175026,
+    "exp": 175101,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26658,7 +26658,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T14:02:24.555Z",
+    "lastSeen": "2026-10-08T14:03:04.542Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26670,7 +26670,7 @@
       "bratimg": 1790165011861,
       "sticker": 1783167183924,
       "s": 1791468145343,
-      "d": 1791465703933,
+      "d": 1791468184638,
       "cekhoki": 1783269818738,
       "menu": 1790150372108,
       "tebaknegara": 1785228313783,
@@ -60659,7 +60659,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4980,
+    "exp": 4995,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96038,7 +96038,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1050,
+    "exp": 1080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236297,
+    "exp": 236342,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68280,
+    "exp": 68370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113628,7 +113628,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2385,
+    "exp": 2400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113875,7 +113875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14175,
+    "exp": 14205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126403,12 +126403,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126421,6 +126415,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127077,7 +127077,7 @@
   "6282241939982": {
     "jid": "6282241939982",
     "rpg": {},
-    "exp": 1140
+    "exp": 1185
   },
   "6285779340944": {
     "jid": "6285779340944",
@@ -127096,10 +127096,10 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:02:20.467Z",
+    "lastSeen": "2026-10-08T14:04:03.028Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 3189,
+    "exp": 3219,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791467366555,
@@ -127113,13 +127113,13 @@
       "brat": 1791454136189,
       "bratimg": 1791454213404,
       "bratvermeil": 1791454249445,
-      "cekkhodam": 1791468140479,
+      "cekkhodam": 1791468243030,
       "geometrydash": 1791454331004,
       "leaderboard": 1791454680875
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
-    "energi": 17,
+    "energi": 16,
     "koin": 507
   },
   "6282254026486": {
@@ -127190,14 +127190,15 @@
   "6285748250884": {
     "jid": "6285748250884",
     "rpg": {},
-    "exp": 405,
+    "exp": 450,
     "name": "npc",
-    "lastSeen": "2026-10-08T14:02:16.650Z",
+    "lastSeen": "2026-10-08T14:03:25.785Z",
     "cooldowns": {
       "hd": 1791467824460,
-      "love": 1791468136677
+      "love": 1791468136677,
+      "cekkhodam": 1791468205799
     },
-    "energi": 24,
+    "energi": 22,
     "lastActiveDate": "8/10/2026",
     "activeDays": 1
   },
@@ -127253,16 +127254,18 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-08T14:02:18.952Z",
+    "lastSeen": "2026-10-08T14:03:46.004Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 75,
+    "exp": 120,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791468002435,
-      "love": 1791468138976
+      "love": 1791468181285,
+      "cekkhodam": 1791468226006
     },
     "lastActiveDate": "8/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   }
 }
