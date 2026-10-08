@@ -127096,19 +127096,31 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T15:24:29.242Z",
+    "lastSeen": "2026-10-08T15:24:43.545Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 105,
       "maxHealth": 110,
-      "stamina": 94,
+      "stamina": 64,
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 53
+      "mana": 53,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 21,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791473088586
+      }
     },
-    "exp": 18747,
+    "exp": 18777,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127128,7 +127140,7 @@
       "afk": 1791471735156,
       "cekabsen": 1791468423697,
       "gacha": 1791469948769,
-      "dungeon": 1791471355509,
+      "dungeon": 1791473083631,
       "cekpacar": 1791468881293,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
