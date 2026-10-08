@@ -99574,7 +99574,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7020,
+    "exp": 7005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236522,
+    "exp": 236567,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126403,12 +126403,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126421,6 +126415,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127250,13 +127250,14 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "name": "*",
-    "lastSeen": "2026-10-08T14:09:11.361Z",
+    "lastSeen": "2026-10-08T14:15:10.589Z",
     "cooldowns": {
       "hd": 1791467852015,
       "love": 1791468014363,
-      "gacha": 1791468551449
+      "gacha": 1791468551449,
+      "cekpacar": 1791468910643
     },
     "energi": 23,
     "lastActiveDate": "8/10/2026",
@@ -127273,17 +127274,30 @@
       "attack": 10,
       "health": 100,
       "maxHealth": 100,
-      "stamina": 70,
-      "maxStamina": 100
+      "stamina": 40,
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Bandit Hutan",
+        "monsterPower": 27,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791468919526
+      }
     },
-    "exp": 477,
+    "exp": 537,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:13:51.264Z",
+    "lastSeen": "2026-10-08T14:15:09.022Z",
     "cooldowns": {
       "love": 1791468042515,
       "afk": 1791468627415,
       "p": 1791468502175,
-      "dungeon": 1791468771856
+      "dungeon": 1791468909094,
+      "cekpacar": 1791468896202
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
