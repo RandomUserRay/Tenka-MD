@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237077,
+    "exp": 237092,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127096,7 +127096,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:55:27.252Z",
+    "lastSeen": "2026-10-08T14:55:55.424Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127106,9 +127106,13 @@
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 105
+      "mana": 105,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791471355425
+      }
     },
-    "exp": 16375,
+    "exp": 16405,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127128,7 +127132,7 @@
       "afk": 1791468679867,
       "cekabsen": 1791468423697,
       "gacha": 1791469948769,
-      "dungeon": 1791471063676,
+      "dungeon": 1791471355509,
       "cekpacar": 1791468881293,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
@@ -127171,11 +127175,12 @@
       "tenka": 1791471239735,
       "ngentod": 1791471262981,
       "mengkane": 1791471275796,
-      "mengkane1": 1791471283668
+      "mengkane1": 1791471283668,
+      "boss": 1791471345487
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
-    "energi": 32,
+    "energi": 29,
     "koin": 258,
     "inventory": {
       "potion": 2,
