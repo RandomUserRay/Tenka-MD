@@ -45997,8 +45997,8 @@
   "120363428007244888@g.us": {
     "chatStats": {
       "6289524280314@s.whatsapp.net": {
-        "count": 138,
-        "lastChat": 1791476853550,
+        "count": 140,
+        "lastChat": 1791476898817,
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       },
       "6285368265330@s.whatsapp.net": {
@@ -46013,6 +46013,8 @@
     "toxicWords": [
       "kontol"
     ],
-    "welcome": true
+    "welcome": true,
+    "goodbye": true,
+    "leave": true
   }
 }
