@@ -55769,7 +55769,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 690,
+    "exp": 705,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236357,
+    "exp": 236402,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113875,7 +113875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14265,
+    "exp": 14280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127096,14 +127096,14 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:07:03.641Z",
+    "lastSeen": "2026-10-08T14:08:09.732Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 3309,
+    "exp": 3339,
     "cooldowns": {
       "menucat": 1791453957471,
-      "menu": 1791467366555,
-      "allmenu": 1791468347748,
+      "menu": 1791468477692,
+      "allmenu": 1791468490317,
       "love": 1791468071552,
       "tebaknegara": 1791451339767,
       "cekfemboy": 1791467770037,
@@ -127195,14 +127195,10 @@
       "attack": 10,
       "health": 100,
       "maxHealth": 100,
-      "stamina": 100,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791468435523
-      }
+      "stamina": 70,
+      "maxStamina": 100
     },
-    "exp": 510,
+    "exp": 646,
     "name": "npc",
     "lastSeen": "2026-10-08T14:07:15.520Z",
     "cooldowns": {
@@ -127216,7 +127212,8 @@
     "energi": 20,
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
-    "inventory": {}
+    "inventory": {},
+    "koin": 228
   },
   "6285714370329": {
     "jid": "6285714370329",
@@ -127271,18 +127268,18 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-08T14:06:29.582Z",
+    "lastSeen": "2026-10-08T14:08:05.062Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 225,
+    "exp": 270,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791468002435,
       "love": 1791468181285,
       "cekkhodam": 1791468268743,
       "bucin": 1791468306980,
-      "afk": 1791468390838,
-      "menu": 1791468356691
+      "afk": 1791468459974,
+      "menu": 1791468485799
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
