@@ -3833,7 +3833,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750017,
+    "exp": 125750002,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -60638,10 +60638,10 @@
     "jid": "6282160628923",
     "name": "erman",
     "number": "6282160628923",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4650,
+    "exp": 4665,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60650,12 +60650,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T06:59:02.667Z",
+    "lastSeen": "2026-10-08T10:40:43.872Z",
     "cooldowns": {
       "d": 1784184995942,
       "play": 1789032373031,
       "absen": 1791000077044,
-      "s": 1791442654992
+      "s": 1791442654992,
+      "smeme": 1791456044531
     },
     "clanId": null,
     "isRegistered": false,
@@ -112261,7 +112262,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65925,
+    "exp": 65940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113894,7 +113895,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49030,
+    "exp": 49045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126377,12 +126378,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126396,10 +126391,16 @@
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "energi": 99999
   },
   "6282230312323": {
