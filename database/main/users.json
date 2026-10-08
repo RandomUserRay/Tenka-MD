@@ -127096,10 +127096,28 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:12:01.351Z",
+    "lastSeen": "2026-10-08T14:12:29.204Z",
     "jid": "6289524280314",
-    "rpg": {},
-    "exp": 3778,
+    "rpg": {
+      "attack": 10,
+      "health": 100,
+      "maxHealth": 100,
+      "stamina": 70,
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 18,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791468757054
+      }
+    },
+    "exp": 3808,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791468477692,
@@ -127118,12 +127136,14 @@
       "leaderboard": 1791454680875,
       "afk": 1791468679867,
       "cekabsen": 1791468423697,
-      "gacha": 1791468536377
+      "gacha": 1791468536377,
+      "dungeon": 1791468749247
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "energi": 15,
-    "koin": 507
+    "koin": 507,
+    "inventory": {}
   },
   "6282254026486": {
     "jid": "6282254026486",
