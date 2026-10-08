@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021662,
+    "exp": 1021692,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -50447,7 +50447,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10935,
+    "exp": 10950,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50726,7 +50726,8 @@
       "dare": 1790001997763,
       "gombal": 1790001603488,
       "truth": 1790002125965,
-      "play": 1790251460735
+      "play": 1790251460735,
+      "menu": 1791467284860
     },
     "clanId": null,
     "isRegistered": false,
@@ -50811,8 +50812,8 @@
     "lastStreamer": 1784468050524,
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 3
   },
   "6288901803249": {
     "jid": "6288901803249",
@@ -55767,7 +55768,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -112284,7 +112285,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67995,
+    "exp": 68025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126401,12 +126402,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126419,6 +126414,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126490,7 +126491,7 @@
     "lastSeen": "2026-10-03T10:07:33.524Z",
     "jid": "6287892754869",
     "rpg": {},
-    "exp": 30,
+    "exp": 15,
     "cooldowns": {
       "menu": 1791022056462
     },
