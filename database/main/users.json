@@ -113875,7 +113875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14280,
+    "exp": 14295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127197,18 +127197,22 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 70,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791468587066
+      }
     },
-    "exp": 676,
+    "exp": 691,
     "name": "npc",
-    "lastSeen": "2026-10-08T14:09:04.452Z",
+    "lastSeen": "2026-10-08T14:09:47.065Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
       "cekkhodam": 1791468205799,
       "bucin": 1791468296565,
       "bratanime": 1791468387634,
-      "dungeon": 1791468435635,
+      "dungeon": 1791468587125,
       "gacha": 1791468544573
     },
     "energi": 19,
@@ -127254,9 +127258,9 @@
   "6282280082308": {
     "jid": "6282280082308",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:08:21.881Z",
+    "lastSeen": "2026-10-08T14:09:42.371Z",
     "cooldowns": {
       "love": 1791468042515,
       "afk": 1791468417800,
