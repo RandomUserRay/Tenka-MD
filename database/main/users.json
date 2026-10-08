@@ -127096,19 +127096,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T16:26:10.187Z",
+    "lastSeen": "2026-10-08T16:27:12.918Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 120,
       "maxHealth": 120,
-      "stamina": 110,
+      "stamina": 80,
       "maxStamina": 110,
       "level": 3,
       "maxMana": 110,
       "mana": 110
     },
-    "exp": 20063,
+    "exp": 20380,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127128,7 +127128,7 @@
       "afk": 1791471735156,
       "cekabsen": 1791468423697,
       "gacha": 1791473117060,
-      "dungeon": 1791473083631,
+      "dungeon": 1791476833175,
       "cekpacar": 1791468881293,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
@@ -127192,7 +127192,7 @@
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "energi": 36,
-    "koin": 8099,
+    "koin": 8234,
     "inventory": {
       "potion": 2,
       "iron": 3,
