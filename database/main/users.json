@@ -127103,21 +127103,9 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 40,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 13,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791469044552
-      }
+      "maxStamina": 100
     },
-    "exp": 4163,
+    "exp": 4270,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791468477692,
@@ -127145,9 +127133,11 @@
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "energi": 13,
-    "koin": 696,
+    "koin": 958,
     "inventory": {
-      "potion": 1
+      "potion": 2,
+      "iron": 3,
+      "herb": 3
     }
   },
   "6282254026486": {
@@ -127222,18 +127212,22 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 40,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791469049501
+      }
     },
-    "exp": 949,
+    "exp": 964,
     "name": "npc",
-    "lastSeen": "2026-10-08T14:11:24.456Z",
+    "lastSeen": "2026-10-08T14:17:29.500Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
       "cekkhodam": 1791468205799,
       "bucin": 1791468296565,
       "bratanime": 1791468387634,
-      "dungeon": 1791468587125,
+      "dungeon": 1791469049548,
       "gacha": 1791468544573,
       "afk": 1791468685598
     },
