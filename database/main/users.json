@@ -26646,10 +26646,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99991,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174021,
+    "exp": 173976,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26658,7 +26658,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T12:11:07.677Z",
+    "lastSeen": "2026-10-08T12:09:38.090Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26670,7 +26670,7 @@
       "bratimg": 1790165011861,
       "sticker": 1783167183924,
       "s": 1791461051726,
-      "d": 1791461467730,
+      "d": 1791461221062,
       "cekhoki": 1783269818738,
       "menu": 1790150372108,
       "tebaknegara": 1785228313783,
@@ -26742,7 +26742,7 @@
       "slot": 1785503307296,
       "ytmp4": 1787627100405,
       "heal": 1785667605338,
-      "hd": 1791461413902,
+      "hd": 1791461382004,
       "setwelcome": 1791383289622,
       "warning": 1786619383632,
       "tohd": 1786691297264,
@@ -50434,10 +50434,10 @@
     "jid": "6289506676085",
     "name": "jovzboii🪶",
     "number": "6289506676085",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10890,
+    "exp": 10845,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50446,7 +50446,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T12:10:01.714Z",
+    "lastSeen": "2026-10-08T12:08:51.212Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50463,8 +50463,7 @@
       "menu": 1791461206246,
       "menucat": 1791461273019,
       "bratpatrick": 1791461291875,
-      "bratbahlil": 1791461332012,
-      "brat": 1791461401784
+      "bratbahlil": 1791461332012
     },
     "clanId": null,
     "isRegistered": false,
@@ -96583,7 +96582,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26093,
+    "exp": 26108,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -123838,7 +123837,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 4515,
+    "exp": 4455,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-08T12:06:39.020Z",
     "cooldowns": {
@@ -125471,16 +125470,16 @@
   "6285654965339": {
     "jid": "6285654965339",
     "rpg": {},
-    "exp": 75,
-    "energi": 99999,
+    "exp": 90,
+    "energi": 99998,
     "name": "lah kok aku",
-    "lastSeen": "2026-10-03T20:13:23.075Z",
+    "lastSeen": "2026-10-08T12:11:27.361Z",
     "cooldowns": {
-      "tt": 1791175456077,
+      "tt": 1791461489838,
       "ttmp3": 1791058407531
     },
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 3
   },
   "62895391750390": {
     "jid": "62895391750390",
@@ -126391,6 +126390,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126403,12 +126408,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126578,7 +126577,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 3570,
+    "exp": 3585,
     "energi": 99999
   },
   "6282142567964": {
