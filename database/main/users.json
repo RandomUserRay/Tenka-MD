@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021557,
+    "exp": 1021572,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -50606,7 +50606,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 831575,
+    "exp": 831590,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50615,7 +50615,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T12:04:12.988Z",
+    "lastSeen": "2026-10-08T13:46:23.849Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -127183,6 +127183,6 @@
   "6285762122941": {
     "jid": "6285762122941",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
