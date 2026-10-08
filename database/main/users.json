@@ -50437,7 +50437,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10710,
+    "exp": 10740,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50446,7 +50446,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T11:42:38.230Z",
+    "lastSeen": "2026-10-08T12:06:45.759Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50459,7 +50459,8 @@
       "smeme": 1789031799043,
       "warn": 1791459759137,
       "mulaiabsen": 1791026667267,
-      "unmute": 1791382981383
+      "unmute": 1791382981383,
+      "menu": 1791461206246
     },
     "clanId": null,
     "isRegistered": false,
@@ -104901,7 +104902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4230,
+    "exp": 4245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123833,20 +123834,20 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 4380,
+    "exp": 4410,
     "name": "Domenic Siringoringo",
-    "lastSeen": "2026-10-08T12:06:21.150Z",
+    "lastSeen": "2026-10-08T12:06:39.020Z",
     "cooldowns": {
       "ping": 1789389614069,
       "menu": 1789389675565,
       "menucat": 1789389686649,
       "bratimg": 1789389879407,
       "buat": 1791022648534,
-      "smeme": 1791461181209
+      "smeme": 1791461199063
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 3,
-    "energi": 99998,
+    "energi": 99997,
     "inventory": {}
   },
   "6285817275968": {
