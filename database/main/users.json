@@ -42368,7 +42368,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235946,
+    "exp": 235961,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -42383,7 +42383,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-15T21:26:08.873Z",
+    "lastSeen": "2026-10-08T04:21:19.923Z",
     "cooldowns": {
       "tohd": 1786194305662,
       "simi": 1786194393034,
@@ -42409,7 +42409,7 @@
       "tebakbendera": 1785231050421,
       "istirahat": 1785332847140,
       "shop": 1786149574630,
-      "afk": 1786016161962,
+      "afk": 1791433281971,
       "gift": 1785229680349,
       "makan": 1785333174078,
       "inventory": 1785229751481,
@@ -42475,7 +42475,9 @@
     },
     "access": [],
     "saldo": 0,
-    "lastStreamer": 1786149996585
+    "lastStreamer": 1786149996585,
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 1
   },
   "6285809938630": {
     "jid": "6285809938630",
@@ -126370,6 +126372,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126382,12 +126390,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
