@@ -127216,18 +127216,22 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 10,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791469146189
+      }
     },
-    "exp": 1154,
+    "exp": 1169,
     "name": "npc",
-    "lastSeen": "2026-10-08T14:18:18.555Z",
+    "lastSeen": "2026-10-08T14:19:06.186Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
       "cekkhodam": 1791468205799,
       "bucin": 1791468296565,
       "bratanime": 1791468387634,
-      "dungeon": 1791469049548,
+      "dungeon": 1791469146297,
       "gacha": 1791469098760,
       "afk": 1791468685598
     },
