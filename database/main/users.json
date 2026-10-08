@@ -54434,7 +54434,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18096,
+    "exp": 18126,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -90726,7 +90726,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48285,
+    "exp": 48300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98777,7 +98777,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3960,
+    "exp": 3990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99574,7 +99574,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7005,
+    "exp": 7035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236507,
+    "exp": 236462,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68490,
+    "exp": 68445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113875,7 +113875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14370,
+    "exp": 14340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126403,6 +126403,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126415,12 +126421,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127096,20 +127096,14 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:12:29.204Z",
+    "lastSeen": "2026-10-08T14:08:56.256Z",
     "jid": "6289524280314",
-    "rpg": {
-      "attack": 10,
-      "health": 100,
-      "maxHealth": 100,
-      "stamina": 70,
-      "maxStamina": 100
-    },
-    "exp": 4013,
+    "rpg": {},
+    "exp": 3748,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791468477692,
-      "allmenu": 1791468722207,
+      "allmenu": 1791468490317,
       "love": 1791468071552,
       "tebaknegara": 1791451339767,
       "cekfemboy": 1791467770037,
@@ -127122,18 +127116,14 @@
       "cekkhodam": 1791468243030,
       "geometrydash": 1791454331004,
       "leaderboard": 1791454680875,
-      "afk": 1791468679867,
+      "afk": 1791468312978,
       "cekabsen": 1791468423697,
-      "gacha": 1791468536377,
-      "dungeon": 1791468749247
+      "gacha": 1791468536377
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "energi": 15,
-    "koin": 696,
-    "inventory": {
-      "potion": 1
-    }
+    "koin": 507
   },
   "6282254026486": {
     "jid": "6282254026486",
@@ -127193,7 +127183,7 @@
   "6289679569897": {
     "jid": "6289679569897",
     "rpg": {},
-    "exp": 180
+    "exp": 165
   },
   "6285762122941": {
     "jid": "6285762122941",
@@ -127209,9 +127199,9 @@
       "stamina": 40,
       "maxStamina": 100
     },
-    "exp": 949,
+    "exp": 934,
     "name": "npc",
-    "lastSeen": "2026-10-08T14:11:24.456Z",
+    "lastSeen": "2026-10-08T14:10:17.165Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
@@ -127219,8 +127209,7 @@
       "bucin": 1791468296565,
       "bratanime": 1791468387634,
       "dungeon": 1791468587125,
-      "gacha": 1791468544573,
-      "afk": 1791468685598
+      "gacha": 1791468544573
     },
     "energi": 19,
     "lastActiveDate": "8/10/2026",
@@ -127268,29 +127257,17 @@
   },
   "6282280082308": {
     "jid": "6282280082308",
-    "rpg": {
-      "attack": 10,
-      "health": 100,
-      "maxHealth": 100,
-      "stamina": 100,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791468771807
-      }
-    },
-    "exp": 195,
+    "rpg": {},
+    "exp": 165,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:12:51.805Z",
+    "lastSeen": "2026-10-08T14:10:26.130Z",
     "cooldowns": {
       "love": 1791468042515,
       "afk": 1791468627415,
-      "p": 1791468502175,
-      "dungeon": 1791468771856
+      "p": 1791468502175
     },
     "lastActiveDate": "8/10/2026",
-    "activeDays": 1,
-    "inventory": {}
+    "activeDays": 1
   },
   "6285837219145": {
     "jid": "6285837219145",
@@ -127299,17 +127276,17 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-08T14:11:31.449Z",
+    "lastSeen": "2026-10-08T14:10:34.437Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 936,
+    "exp": 876,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791468002435,
       "love": 1791468598036,
       "cekkhodam": 1791468268743,
       "bucin": 1791468306980,
-      "afk": 1791468692740,
+      "afk": 1791468635740,
       "menu": 1791468485799,
       "p": 1791468521268,
       "gacha": 1791468557035
@@ -127317,10 +127294,5 @@
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "energi": 22
-  },
-  "6285367129055": {
-    "jid": "6285367129055",
-    "rpg": {},
-    "exp": 15
   }
 }
