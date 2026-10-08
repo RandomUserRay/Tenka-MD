@@ -127096,16 +127096,20 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:40:44.765Z",
+    "lastSeen": "2026-10-08T14:40:49.605Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 100,
       "maxHealth": 100,
       "stamina": 40,
-      "maxStamina": 100
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791470449606
+      }
     },
-    "exp": 7217,
+    "exp": 7232,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127125,7 +127129,7 @@
       "afk": 1791468679867,
       "cekabsen": 1791468423697,
       "gacha": 1791469948769,
-      "dungeon": 1791469108001,
+      "dungeon": 1791470449649,
       "cekpacar": 1791468881293,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
@@ -127350,7 +127354,7 @@
       "stamina": 40,
       "maxStamina": 100
     },
-    "exp": 1105,
+    "exp": 1120,
     "name": "AJO GS ☠️",
     "lastSeen": "2026-10-08T14:40:36.222Z",
     "cooldowns": {
