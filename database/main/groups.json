@@ -45954,8 +45954,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 25,
-        "lastChat": 1791479152584,
+        "count": 26,
+        "lastChat": 1791479164599,
         "name": "radit maendra | uaf"
       },
       "6281339787411@s.whatsapp.net": {
@@ -45970,7 +45970,8 @@
     "antispam": "on",
     "antitoxic": false,
     "antiswgc": "on",
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "intro": "basot"
   },
   "120363426735184360@g.us": {
     "welcome": false,
