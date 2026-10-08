@@ -45866,8 +45866,8 @@
         "name": "npc"
       },
       "6289524280314@s.whatsapp.net": {
-        "count": 66,
-        "lastChat": 1791477175599,
+        "count": 67,
+        "lastChat": 1791477203407,
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       },
       "6285714370329@s.whatsapp.net": {
@@ -45910,7 +45910,16 @@
     "name": "Light Forge",
     "welcome": true,
     "goodbye": true,
-    "leave": true
+    "leave": true,
+    "warnings": {
+      "6289678528528@s.whatsapp.net": [
+        {
+          "reason": "Tidak ada alasan",
+          "by": "6289524280314@s.whatsapp.net",
+          "time": 1791477203408
+        }
+      ]
+    }
   },
   "120363427666976507@g.us": {
     "welcome": true,
