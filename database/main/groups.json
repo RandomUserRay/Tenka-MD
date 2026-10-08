@@ -45953,8 +45953,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 15,
-        "lastChat": 1791468042096,
+        "count": 16,
+        "lastChat": 1791478898845,
         "name": "radit maendra | uaf"
       }
     },
@@ -45963,7 +45963,8 @@
     "welcomeMsg": "haloo memberbaru {user} \nsemoga betah betah ya disinii🤭",
     "antispam": "on",
     "antitoxic": false,
-    "antiswgc": "on"
+    "antiswgc": "on",
+    "antilinkgc": "on"
   },
   "120363426735184360@g.us": {
     "welcome": false,
