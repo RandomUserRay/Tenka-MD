@@ -60659,7 +60659,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5055,
+    "exp": 5070,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68415,
+    "exp": 68430,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127251,12 +127251,13 @@
   "6282280082308": {
     "jid": "6282280082308",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:06:56.803Z",
+    "lastSeen": "2026-10-08T14:08:21.881Z",
     "cooldowns": {
       "love": 1791468042515,
-      "afk": 1791468417800
+      "afk": 1791468417800,
+      "p": 1791468502175
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1
