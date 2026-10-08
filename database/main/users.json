@@ -60659,7 +60659,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4860,
+    "exp": 4875,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236162,
+    "exp": 236177,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127096,15 +127096,15 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T13:56:32.322Z",
+    "lastSeen": "2026-10-08T13:56:54.735Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 2994,
+    "exp": 3009,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791467366555,
       "allmenu": 1791467793158,
-      "love": 1791450944033,
+      "love": 1791467814749,
       "tebaknegara": 1791451339767,
       "cekfemboy": 1791467770037,
       "fuckmylife": 1791454038445,
@@ -127190,9 +127190,15 @@
   "6285748250884": {
     "jid": "6285748250884",
     "rpg": {},
-    "exp": 225,
+    "exp": 255,
     "name": "npc",
-    "lastSeen": "2026-10-08T13:55:53.726Z"
+    "lastSeen": "2026-10-08T13:57:04.426Z",
+    "cooldowns": {
+      "hd": 1791467824460
+    },
+    "energi": 24,
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 1
   },
   "6285714370329": {
     "jid": "6285714370329",
