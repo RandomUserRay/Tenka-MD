@@ -3833,7 +3833,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750002,
+    "exp": 125750017,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -9811,7 +9811,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52530,
+    "exp": 52545,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60638,10 +60638,10 @@
     "jid": "6282160628923",
     "name": "erman",
     "number": "6282160628923",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4665,
+    "exp": 4650,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60650,13 +60650,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T10:40:43.872Z",
+    "lastSeen": "2026-10-08T06:59:02.667Z",
     "cooldowns": {
       "d": 1784184995942,
       "play": 1789032373031,
       "absen": 1791000077044,
-      "s": 1791442654992,
-      "smeme": 1791456044531
+      "s": 1791442654992
     },
     "clanId": null,
     "isRegistered": false,
@@ -112262,7 +112261,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65940,
+    "exp": 65925,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113895,7 +113894,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49045,
+    "exp": 49030,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126378,6 +126377,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126391,16 +126396,10 @@
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6285273157610": {
     "jid": "6285273157610",
     "rpg": {},
-    "exp": 810,
+    "exp": 795,
     "energi": 99999
   },
   "6282230312323": {
