@@ -11613,7 +11613,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40069,
+    "exp": 40084,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -26649,7 +26649,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173961,
+    "exp": 173916,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26658,7 +26658,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T12:07:42.852Z",
+    "lastSeen": "2026-10-08T12:07:10.990Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26705,7 +26705,7 @@
       "wm": 1786152671617,
       "bass": 1784205723947,
       "mutemember": 1791461231107,
-      "unmutemember": 1791461262908,
+      "unmutemember": 1791382997708,
       "steal": 1785667331277,
       "casino": 1786440833300,
       "kerja": 1785667173445,
@@ -46968,7 +46968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 182550,
+    "exp": 182535,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -50434,10 +50434,10 @@
     "jid": "6289506676085",
     "name": "jovzboii🪶",
     "number": "6289506676085",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10830,
+    "exp": 10785,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50446,7 +50446,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T12:08:10.928Z",
+    "lastSeen": "2026-10-08T12:06:45.759Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50460,9 +50460,7 @@
       "warn": 1791459759137,
       "mulaiabsen": 1791026667267,
       "unmute": 1791382981383,
-      "menu": 1791461206246,
-      "menucat": 1791461273019,
-      "bratpatrick": 1791461291875
+      "menu": 1791461206246
     },
     "clanId": null,
     "isRegistered": false,
@@ -123836,7 +123834,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 4440,
+    "exp": 4425,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-08T12:06:39.020Z",
     "cooldowns": {
@@ -126389,6 +126387,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126401,12 +126405,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -126544,7 +126542,7 @@
   "6285169688274": {
     "jid": "6285169688274",
     "rpg": {},
-    "exp": 435,
+    "exp": 420,
     "energi": 99999,
     "name": "<NEP7NUS>",
     "lastSeen": "2026-10-08T03:31:46.570Z"
@@ -126993,7 +126991,7 @@
   "6285748450038": {
     "jid": "6285748450038",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6289515737600": {
