@@ -45230,8 +45230,8 @@
         "name": "Robben"
       },
       "6289506676085@s.whatsapp.net": {
-        "count": 421,
-        "lastChat": 1791467238496,
+        "count": 422,
+        "lastChat": 1791467247714,
         "name": "jovzboii🪶"
       },
       "6282363161583@s.whatsapp.net": {
@@ -45744,13 +45744,13 @@
   "120363411313318172@g.us": {
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 92,
-        "lastChat": 1791467238604,
+        "count": 94,
+        "lastChat": 1791467248376,
         "name": "radit maendra | uaf"
       },
       "6289670776767@s.whatsapp.net": {
-        "count": 5,
-        "lastChat": 1791467243650,
+        "count": 6,
+        "lastChat": 1791467245372,
         "name": "_;"
       }
     },
@@ -45758,7 +45758,8 @@
     "name": "testbot",
     "welcomeMsg": "haloo memberbaru {user} \nsemoga betah betah ya disinii🤭",
     "welcome": true,
-    "mutegc": false
+    "mutegc": false,
+    "antispam": "on"
   },
   "120363410595735464@g.us": {
     "chatStats": {
