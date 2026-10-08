@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021812,
+    "exp": 1021842,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35436,7 +35436,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:52:21.414Z",
+    "lastSeen": "2026-10-08T13:52:34.817Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35627,7 +35627,8 @@
       "unmutegc": 1791467080426,
       "antitoxic": 1791467541507,
       "antispam": 1791467528703,
-      "addcmdsticker": 1791467204540
+      "addcmdsticker": 1791467204540,
+      "antiswgc": 1791467554847
     },
     "clanId": null,
     "isRegistered": false,
@@ -48142,7 +48143,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17396,
+    "exp": 17411,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -112038,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236057,
+    "exp": 236072,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127189,7 +127190,7 @@
   "6285748250884": {
     "jid": "6285748250884",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6285714370329": {
     "jid": "6285714370329",
