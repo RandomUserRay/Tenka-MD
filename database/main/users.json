@@ -35722,7 +35722,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 304798,
+    "exp": 304828,
     "level": 1,
     "koin": 510091,
     "unlockedFeatures": [],
@@ -47835,7 +47835,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 559718,
+    "exp": 559658,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -48318,7 +48318,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67740,
+    "exp": 67725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71263,10 +71263,10 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73396,
+    "exp": 73411,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71275,7 +71275,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T03:05:14.137Z",
+    "lastSeen": "2026-10-08T09:47:39.745Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71339,7 +71339,8 @@
       "bratvid": 1790600121499,
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
-      "ai": 1790779136102
+      "ai": 1790779136102,
+      "pin": 1791452871464
     },
     "clanId": null,
     "isRegistered": false,
@@ -71363,8 +71364,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 22,
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 23,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -72994,7 +72995,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17415,
+    "exp": 17385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126377,6 +126378,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126389,12 +126396,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127073,7 +127074,7 @@
     "lastSeen": "2026-10-08T09:29:25.655Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 2214,
+    "exp": 2064,
     "cooldowns": {
       "menucat": 1791451249124,
       "menu": 1791451766458,
@@ -127089,16 +127090,6 @@
   "6282254026486": {
     "jid": "6282254026486",
     "rpg": {},
-    "exp": 1020
-  },
-  "6287813742727": {
-    "jid": "6287813742727",
-    "rpg": {},
-    "exp": 15
-  },
-  "211093968433159": {
-    "jid": "211093968433159",
-    "rpg": {},
-    "exp": 120
+    "exp": 975
   }
 }
