@@ -26649,7 +26649,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174351,
+    "exp": 174396,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -33849,7 +33849,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91726,
+    "exp": 91756,
     "level": 1,
     "koin": 350432,
     "unlockedFeatures": [],
@@ -33858,7 +33858,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:18:10.444Z",
+    "lastSeen": "2026-10-08T13:19:19.394Z",
     "cooldowns": {
       "tebaknegara": 1791458018721,
       "simi": 1785159752772,
@@ -33891,7 +33891,8 @@
       "tt": 1790426321411,
       "owner": 1790166309275,
       "tebakepep": 1791457987880,
-      "dungeon": 1791465490887
+      "dungeon": 1791465559467,
+      "level": 1791465550200
     },
     "clanId": null,
     "isRegistered": false,
@@ -33906,7 +33907,11 @@
       "health": 190,
       "mana": 145,
       "stamina": 115,
-      "attack": 10
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791465559395
+      }
     },
     "inventory": {
       "fish": 1,
@@ -60649,7 +60654,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4740,
+    "exp": 4770,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -104953,7 +104958,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2235,
+    "exp": 2250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126548,7 +126553,7 @@
   "6285169688274": {
     "jid": "6285169688274",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999,
     "name": "<NEP7NUS>",
     "lastSeen": "2026-10-08T03:31:46.570Z"
