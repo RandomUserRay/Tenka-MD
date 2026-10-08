@@ -45744,13 +45744,15 @@
   "120363411313318172@g.us": {
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 72,
-        "lastChat": 1791466521567,
+        "count": 73,
+        "lastChat": 1791466584131,
         "name": "radit maendra | uaf"
       }
     },
     "jid": "120363411313318172@g.us",
-    "name": "testbot"
+    "name": "testbot",
+    "welcomeMsg": "haloo memberbaru { user } \nsemoga betah betah ya disinii🤭",
+    "welcome": true
   },
   "120363410595735464@g.us": {
     "chatStats": {
