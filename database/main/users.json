@@ -98811,10 +98811,10 @@
     "jid": "6283139500330",
     "name": "Mambou",
     "number": "6283139500330",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98824,10 +98824,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T19:14:08.114Z",
+    "lastSeen": "2026-10-08T15:27:57.803Z",
     "cooldowns": {
       "play": 1791314069849,
-      "menu": 1791258363376
+      "menu": 1791258363376,
+      "s": 1791473266106,
+      "smeme": 1791473278024
     },
     "clanId": null,
     "isRegistered": false,
@@ -98837,8 +98839,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 4
   },
   "6285691135813": {
     "jid": "6285691135813",
@@ -112286,7 +112288,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69150,
+    "exp": 69120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126403,6 +126405,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126415,12 +126423,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127476,8 +127478,18 @@
     "rpg": {},
     "exp": 45
   },
+  "6283845252262": {
+    "jid": "6283845252262",
+    "rpg": {},
+    "exp": 15
+  },
   "6285165583892": {
     "jid": "6285165583892",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285941901216": {
+    "jid": "6285941901216",
     "rpg": {},
     "exp": 15
   },
