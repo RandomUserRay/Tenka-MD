@@ -60633,12 +60633,12 @@
   },
   "6282160628923": {
     "jid": "6282160628923",
-    "name": "er",
+    "name": "erman",
     "number": "6282160628923",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4590,
+    "exp": 4605,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -60647,11 +60647,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T04:01:16.404Z",
+    "lastSeen": "2026-10-08T06:57:33.990Z",
     "cooldowns": {
       "d": 1784184995942,
       "play": 1789032373031,
-      "absen": 1791000077044
+      "absen": 1791000077044,
+      "s": 1791442654992
     },
     "clanId": null,
     "isRegistered": false,
@@ -60662,8 +60663,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 4
   },
   "628133123394": {
     "jid": "628133123394",
