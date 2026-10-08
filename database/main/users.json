@@ -7499,7 +7499,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28780,
+    "exp": 28810,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -33849,7 +33849,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 89252,
+    "exp": 89237,
     "level": 1,
     "koin": 348555,
     "unlockedFeatures": [],
@@ -33858,13 +33858,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T10:58:54.778Z",
+    "lastSeen": "2026-10-08T10:58:03.420Z",
     "cooldowns": {
       "tebaknegara": 1783070083190,
       "simi": 1785159752772,
       "quiz": 1785236673242,
       "robloxstalk": 1789901462055,
-      "menucat": 1791457134820,
+      "menucat": 1791457083458,
       "tiktokstalk": 1786014971420,
       "afk": 1790756962860,
       "ytmp4": 1788163427588,
@@ -126378,6 +126378,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126390,12 +126396,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
