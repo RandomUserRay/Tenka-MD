@@ -22346,10 +22346,10 @@
     "jid": "6289677467174",
     "name": "Lixxya :3",
     "number": "6289677467174",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29002,
+    "exp": 28987,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -22358,7 +22358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T15:37:30.681Z",
+    "lastSeen": "2026-10-02T03:25:19.961Z",
     "cooldowns": {
       "me": 1783409070254,
       "jodoh": 1782632804137,
@@ -22385,8 +22385,7 @@
       "cekfemboy": 1786894410877,
       "tembak": 1786871497818,
       "pussy": 1786933619569,
-      "menu": 1787810648482,
-      "smeme": 1791473851263
+      "menu": 1787810648482
     },
     "clanId": null,
     "isRegistered": false,
@@ -22411,8 +22410,8 @@
       "jadiPacar": 1786871525605,
       "terimaCount": 1
     },
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "2/10/2026",
+    "activeDays": 2
   },
   "6281370701148": {
     "jid": "6281370701148",
@@ -112287,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69405,
+    "exp": 69570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126404,12 +126403,6 @@
     "exp": 90,
     "energi": 99999
   },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126422,6 +126415,12 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
+  },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127477,18 +127476,8 @@
     "rpg": {},
     "exp": 45
   },
-  "6283845252262": {
-    "jid": "6283845252262",
-    "rpg": {},
-    "exp": 15
-  },
   "6285165583892": {
     "jid": "6285165583892",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285941901216": {
-    "jid": "6285941901216",
     "rpg": {},
     "exp": 15
   },
