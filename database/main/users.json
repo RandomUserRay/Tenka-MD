@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021902,
+    "exp": 1021917,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35436,7 +35436,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:52:34.817Z",
+    "lastSeen": "2026-10-08T17:00:57.292Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35628,7 +35628,8 @@
       "antitoxic": 1791467541507,
       "antispam": 1791467528703,
       "addcmdsticker": 1791467204540,
-      "antiswgc": 1791467554847
+      "antiswgc": 1791467554847,
+      "listtoxic": 1791478857550
     },
     "clanId": null,
     "isRegistered": false,
@@ -35697,8 +35698,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 17
   },
   "6285752659355": {
     "jid": "6285752659355",
