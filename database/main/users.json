@@ -26649,7 +26649,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174321,
+    "exp": 174336,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -33849,7 +33849,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91491,
+    "exp": 91506,
     "level": 1,
     "koin": 350300,
     "unlockedFeatures": [],
@@ -33858,7 +33858,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T11:14:46.960Z",
+    "lastSeen": "2026-10-08T13:18:10.444Z",
     "cooldowns": {
       "tebaknegara": 1791458018721,
       "simi": 1785159752772,
@@ -33890,7 +33890,8 @@
       "wm": 1789477476451,
       "tt": 1790426321411,
       "owner": 1790166309275,
-      "tebakepep": 1791457987880
+      "tebakepep": 1791457987880,
+      "dungeon": 1791465490887
     },
     "clanId": null,
     "isRegistered": false,
@@ -33904,7 +33905,12 @@
       "maxStamina": 145,
       "health": 190,
       "mana": 145,
-      "stamina": 145
+      "stamina": 145,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791465490446
+      }
     },
     "inventory": {
       "fish": 1,
