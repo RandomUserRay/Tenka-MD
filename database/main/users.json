@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68730,
+    "exp": 68745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127358,14 +127358,15 @@
     "jid": "6282280082308",
     "rpg": {
       "attack": 10,
-      "health": 100,
+      "health": 105,
       "maxHealth": 100,
-      "stamina": 40,
-      "maxStamina": 100
+      "stamina": 85,
+      "maxStamina": 100,
+      "mana": 53
     },
-    "exp": 1255,
+    "exp": 1270,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:44:55.022Z",
+    "lastSeen": "2026-10-08T14:45:04.710Z",
     "cooldowns": {
       "love": 1791468042515,
       "afk": 1791468627415,
@@ -127387,7 +127388,8 @@
       "cekjomblo": 1791470462340,
       "cool": 1791470530472,
       "femboy": 1791470579034,
-      "cekkepribadian": 1791470612701
+      "cekkepribadian": 1791470612701,
+      "tidur": 1791470707971
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
@@ -127407,10 +127409,10 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-08T14:43:45.740Z",
+    "lastSeen": "2026-10-08T14:45:02.991Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 2511,
+    "exp": 2526,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791469490100,
