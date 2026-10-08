@@ -127096,7 +127096,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:14:41.243Z",
+    "lastSeen": "2026-10-08T14:15:26.735Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127105,7 +127105,7 @@
       "stamina": 70,
       "maxStamina": 100
     },
-    "exp": 4073,
+    "exp": 4088,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791468477692,
@@ -127126,11 +127126,12 @@
       "cekabsen": 1791468423697,
       "gacha": 1791468536377,
       "dungeon": 1791468749247,
-      "cekpacar": 1791468881293
+      "cekpacar": 1791468881293,
+      "bratpatrick": 1791468927569
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
-    "energi": 15,
+    "energi": 14,
     "koin": 696,
     "inventory": {
       "potion": 1
@@ -127275,37 +127276,28 @@
       "health": 100,
       "maxHealth": 100,
       "stamina": 40,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Bandit Hutan",
-        "monsterPower": 27,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791468919526
-      }
+      "maxStamina": 100
     },
-    "exp": 537,
+    "exp": 685,
     "name": "AJO GS ☠️",
-    "lastSeen": "2026-10-08T14:15:09.022Z",
+    "lastSeen": "2026-10-08T14:15:31.401Z",
     "cooldowns": {
       "love": 1791468042515,
       "afk": 1791468627415,
       "p": 1791468502175,
       "dungeon": 1791468909094,
-      "cekpacar": 1791468896202
+      "cekpacar": 1791468896202,
+      "buka": 1791468931686
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
     "inventory": {
       "gold": 2,
-      "herb": 6
+      "herb": 6,
+      "potion": 3,
+      "mysterybox": 1
     },
-    "koin": 133
+    "koin": 360
   },
   "6285837219145": {
     "jid": "6285837219145",
