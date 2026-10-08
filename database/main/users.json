@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69030,
+    "exp": 69045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127100,27 +127100,15 @@
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 105,
+      "health": 80,
       "maxHealth": 110,
       "stamina": 64,
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 53,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 21,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791473088586
-      }
+      "mana": 53
     },
-    "exp": 18777,
+    "exp": 18792,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
