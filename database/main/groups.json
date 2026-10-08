@@ -45744,8 +45744,8 @@
   "120363411313318172@g.us": {
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 105,
-        "lastChat": 1791478948690,
+        "count": 109,
+        "lastChat": 1791478972835,
         "name": "radit maendra | uaf"
       },
       "6289670776767@s.whatsapp.net": {
@@ -45759,7 +45759,8 @@
     "welcomeMsg": "haloo memberbaru {user} \nsemoga betah betah ya disinii🤭",
     "welcome": true,
     "mutegc": false,
-    "antispam": "on"
+    "antispam": "on",
+    "onlynsfw": true
   },
   "120363410595735464@g.us": {
     "chatStats": {
