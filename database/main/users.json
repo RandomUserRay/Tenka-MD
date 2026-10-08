@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021692,
+    "exp": 1021722,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35436,7 +35436,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:47:25.810Z",
+    "lastSeen": "2026-10-08T13:50:24.396Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35462,7 +35462,7 @@
       "hytamkan": 1783788774165,
       "waifutohitam": 1783788616737,
       "owner": 1791466750901,
-      "setwelcome": 1791466889394,
+      "setwelcome": 1791467424473,
       "brat": 1789391301348,
       "bratanime": 1783697700663,
       "bratimg": 1789391298744,
@@ -35623,7 +35623,7 @@
       "divorce": 1790250796141,
       "tebakanimechar": 1790251799705,
       "intro": 1791466514216,
-      "mutegc": 1791467073348,
+      "mutegc": 1791467414589,
       "unmutegc": 1791467080426,
       "antitoxic": 1791467108417,
       "antispam": 1791467245861,
@@ -112285,7 +112285,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68055,
+    "exp": 68070,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113874,7 +113874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13965,
+    "exp": 13980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127095,17 +127095,17 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T13:49:24.140Z",
+    "lastSeen": "2026-10-08T13:50:28.709Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 2799,
+    "exp": 2829,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791467366555,
-      "allmenu": 1791454270806,
+      "allmenu": 1791467405294,
       "love": 1791450944033,
       "tebaknegara": 1791451339767,
-      "cekfemboy": 1791453454078,
+      "cekfemboy": 1791467431376,
       "fuckmylife": 1791454038445,
       "stickerpack": 1791454059698,
       "blockblast": 1791454086917,
@@ -127189,6 +127189,16 @@
   "6285748250884": {
     "jid": "6285748250884",
     "rpg": {},
-    "exp": 30
+    "exp": 60
+  },
+  "6285714370329": {
+    "jid": "6285714370329",
+    "rpg": {},
+    "exp": 60
+  },
+  "628895546832": {
+    "jid": "628895546832",
+    "rpg": {},
+    "exp": 15
   }
 }
