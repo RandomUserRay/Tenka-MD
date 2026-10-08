@@ -46979,7 +46979,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 183225,
+    "exp": 183240,
     "level": 1,
     "koin": 50622,
     "unlockedFeatures": [],
@@ -127096,19 +127096,31 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T14:50:51.975Z",
+    "lastSeen": "2026-10-08T14:51:03.602Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 110,
       "maxHealth": 110,
-      "stamina": 105,
+      "stamina": 75,
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 105
+      "mana": 105,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 12,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791471068549
+      }
     },
-    "exp": 15939,
+    "exp": 15969,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127128,7 +127140,7 @@
       "afk": 1791468679867,
       "cekabsen": 1791468423697,
       "gacha": 1791469948769,
-      "dungeon": 1791470449649,
+      "dungeon": 1791471063676,
       "cekpacar": 1791468881293,
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
