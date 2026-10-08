@@ -26646,10 +26646,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 173751,
+    "exp": 173781,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26658,7 +26658,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T11:59:33.830Z",
+    "lastSeen": "2026-10-08T11:59:59.703Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26749,7 +26749,7 @@
       "berita": 1786840871374,
       "toimg": 1787625923050,
       "topixel": 1787923256234,
-      "smeme": 1788602905852,
+      "smeme": 1791460799898,
       "menucat": 1788616709207,
       "tiktok2": 1788511227774,
       "brat": 1788575685515,
@@ -69008,13 +69008,13 @@
   },
   "6281324631258": {
     "name": "epic face mystery Daffa",
-    "lastSeen": "2026-10-08T11:59:32.728Z",
+    "lastSeen": "2026-10-08T11:59:56.696Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14242,
+    "exp": 14272,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -69039,7 +69039,7 @@
       "setgoodbye": 1791210836268,
       "setrulesgrup": 1787998657817,
       "rulesgrup": 1789135962426,
-      "menucat": 1791460772769,
+      "menucat": 1791460786305,
       "notiftidur": 1789138680042,
       "notifsholat": 1785676642375,
       "menu": 1791460764360,
@@ -69086,7 +69086,8 @@
       "bratbahlil": 1790123227039,
       "playvideo": 1790125994343,
       "harilibur": 1790126049341,
-      "play": 1791017693370
+      "play": 1791017693370,
+      "dungeon": 1791460796854
     },
     "clanId": null,
     "isRegistered": false,
@@ -69100,7 +69101,12 @@
       "maxHealth": 110,
       "maxStamina": 105,
       "level": 2,
-      "maxMana": 105
+      "maxMana": 105,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791460796698
+      }
     },
     "inventory": {
       "rock": 11,
@@ -126382,7 +126388,7 @@
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 5100,
+    "exp": 5115,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-07T12:32:50.531Z",
