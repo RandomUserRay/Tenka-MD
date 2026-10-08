@@ -26649,7 +26649,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 174966,
+    "exp": 174981,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -35427,7 +35427,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1021857,
+    "exp": 1021887,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -48143,7 +48143,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17441,
+    "exp": 17456,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -104918,7 +104918,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4305,
+    "exp": 4350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112039,7 +112039,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236177,
+    "exp": 236207,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112286,7 +112286,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68160,
+    "exp": 68205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113628,7 +113628,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2355,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113875,7 +113875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14040,
+    "exp": 14055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127096,15 +127096,15 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T13:59:01.927Z",
+    "lastSeen": "2026-10-08T13:59:52.651Z",
     "jid": "6289524280314",
     "rpg": {},
-    "exp": 3099,
+    "exp": 3144,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791467366555,
       "allmenu": 1791467793158,
-      "love": 1791467942090,
+      "love": 1791467992665,
       "tebaknegara": 1791451339767,
       "cekfemboy": 1791467770037,
       "fuckmylife": 1791454038445,
@@ -127204,7 +127204,7 @@
   "6285714370329": {
     "jid": "6285714370329",
     "rpg": {},
-    "exp": 240,
+    "exp": 270,
     "name": "KAMILZ",
     "lastSeen": "2026-10-08T13:59:02.444Z",
     "cooldowns": {
@@ -127218,11 +127218,12 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": "*",
-    "lastSeen": "2026-10-08T13:57:31.984Z",
+    "lastSeen": "2026-10-08T14:00:14.342Z",
     "cooldowns": {
-      "hd": 1791467852015
+      "hd": 1791467852015,
+      "love": 1791468014363
     },
     "energi": 24,
     "lastActiveDate": "8/10/2026",
@@ -127236,6 +127237,31 @@
   "6282280082308": {
     "jid": "6282280082308",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "AJO GS ☠️",
+    "lastSeen": "2026-10-08T13:59:31.834Z",
+    "cooldowns": {
+      "love": 1791467971988
+    },
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 1
+  },
+  "6285837219145": {
+    "jid": "6285837219145",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282280529984": {
+    "name": "★",
+    "lastSeen": "2026-10-08T14:00:01.802Z",
+    "jid": "6282280529984",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "owner": 1791467985211,
+      "allmenu": 1791468002435
+    },
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 1
   }
 }
