@@ -127096,19 +127096,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-08T15:24:27.417Z",
+    "lastSeen": "2026-10-08T15:24:29.242Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 110,
+      "health": 105,
       "maxHealth": 110,
-      "stamina": 50,
+      "stamina": 94,
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "mana": 105
+      "mana": 53
     },
-    "exp": 18732,
+    "exp": 18747,
     "cooldowns": {
       "menucat": 1791453957471,
       "menu": 1791470050203,
@@ -127180,7 +127180,8 @@
       "capcutdl": 1791472934746,
       "sendbug": 1791473015016,
       "adventure": 1791473034000,
-      "hunt": 1791473061192
+      "hunt": 1791473061192,
+      "rest": 1791473072479
     },
     "lastActiveDate": "8/10/2026",
     "activeDays": 1,
