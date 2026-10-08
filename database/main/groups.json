@@ -45866,8 +45866,8 @@
         "name": "npc"
       },
       "6289524280314@s.whatsapp.net": {
-        "count": 46,
-        "lastChat": 1791469778014,
+        "count": 48,
+        "lastChat": 1791476917549,
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       },
       "6285714370329@s.whatsapp.net": {
@@ -45907,7 +45907,10 @@
       }
     },
     "jid": "120363429696148357@g.us",
-    "name": "Light Forge"
+    "name": "Light Forge",
+    "welcome": true,
+    "goodbye": true,
+    "leave": true
   },
   "120363427666976507@g.us": {
     "welcome": true,
