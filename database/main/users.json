@@ -127807,22 +127807,22 @@
   "6285704381228": {
     "jid": "6285704381228",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125,
       "health": 105,
       "mana": 53,
-      "stamina": 39,
+      "stamina": 14,
       "attack": 20,
       "guildId": "guild_1791568221406",
       "luck": 7,
       "lastHourly": 1791569032738
     },
-    "exp": 54765,
-    "energi": 99959,
+    "exp": 54895,
+    "energi": 99958,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T18:07:25.682Z",
+    "lastSeen": "2026-10-09T18:07:45.607Z",
     "cooldowns": {
       "menu": 1791569017110,
       "menucat": 1791569021597,
@@ -127851,7 +127851,7 @@
       "training": 1791568946980,
       "adventure": 1791569107239,
       "arena": 1791565527524,
-      "mining": 1791569100437,
+      "mining": 1791569250418,
       "dungeon": 1791568901497,
       "stamina": 1791568057773,
       "create": 1791568170576,
@@ -127873,7 +127873,7 @@
       "work": 1791568374782,
       "shop": 1791568641887,
       "use": 1791568995792,
-      "hunt": 1791569115978,
+      "hunt": 1791569260449,
       "nyapu": 1791568856640,
       "daily": 1791569064780,
       "parkir": 1791569165363,
@@ -127904,7 +127904,7 @@
       "stamina": 1,
       "common": 0,
       "bear": 1,
-      "rabbit": 1
+      "rabbit": 2
     },
     "quest": {
       "adventure3": {
