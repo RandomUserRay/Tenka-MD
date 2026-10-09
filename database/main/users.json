@@ -127814,21 +127814,9 @@
       "health": 105,
       "mana": 53,
       "stamina": 65,
-      "attack": 16,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 34,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791567746742
-      }
+      "attack": 16
     },
-    "exp": 13554,
+    "exp": 13741,
     "energi": 99979,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T17:42:19.859Z",
@@ -127877,7 +127865,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 9982,
+    "koin": 10129,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127885,10 +127873,11 @@
       "rock": 17,
       "coal": 3,
       "gold": 2,
-      "herb": 2,
-      "leather": 2,
+      "herb": 5,
+      "leather": 4,
       "iron": 1,
-      "wood": 6
+      "wood": 6,
+      "potion": 3
     }
   },
   "628137819779": {
