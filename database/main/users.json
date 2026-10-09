@@ -127815,21 +127815,9 @@
       "mana": 53,
       "stamina": 52,
       "attack": 20,
-      "guildId": "guild_1791568221406",
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 20,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791568908941
-      }
+      "guildId": "guild_1791568221406"
     },
-    "exp": 46787,
+    "exp": 46946,
     "energi": 99964,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T18:01:41.144Z",
@@ -127888,7 +127876,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 23205,
+    "koin": 23311,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127897,7 +127885,7 @@
       "coal": 6,
       "gold": 2,
       "herb": 5,
-      "leather": 4,
+      "leather": 8,
       "iron": 2,
       "wood": 6,
       "potion": 3,
