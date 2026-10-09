@@ -26652,7 +26652,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176136,
+    "exp": 176166,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26661,10 +26661,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T13:14:32.396Z",
+    "lastSeen": "2026-10-09T13:14:46.531Z",
     "cooldowns": {
       "afk": 1789121430469,
-      "play": 1788575721219,
+      "play": 1791551684695,
       "tebakkata": 1783582134240,
       "me": 1782879671146,
       "robloxstalk": 1785388725100,
@@ -26673,7 +26673,7 @@
       "bratimg": 1790165011861,
       "sticker": 1783167183924,
       "s": 1791545410344,
-      "d": 1791468184638,
+      "d": 1791551686608,
       "cekhoki": 1783269818738,
       "menu": 1790150372108,
       "tebaknegara": 1785228313783,
@@ -123914,7 +123914,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 5940,
+    "exp": 5955,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-08T12:12:53.715Z",
     "cooldowns": {
@@ -127869,13 +127869,14 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 1215,
+    "exp": 1230,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T13:11:41.692Z",
+    "lastSeen": "2026-10-09T13:14:40.915Z",
     "cooldowns": {
       "love": 1791550465893,
       "lirik": 1791551505509,
-      "top": 1791551387773
+      "top": 1791551387773,
+      "cekintrovert": 1791551681164
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
