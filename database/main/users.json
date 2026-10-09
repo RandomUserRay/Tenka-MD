@@ -26652,7 +26652,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175731,
+    "exp": 175746,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -60703,7 +60703,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5205,
+    "exp": 5235,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71440,10 +71440,10 @@
     "jid": "6287793883633",
     "name": "nd",
     "number": "6287793883633",
-    "energi": 99995,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71452,15 +71452,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T12:19:16.697Z",
+    "lastSeen": "2026-10-09T11:41:51.237Z",
     "cooldowns": {
       "afk": 1790634071793,
       "s": 1789036350611,
       "wm": 1789036370208,
       "swm": 1789036407308,
-      "tt": 1791546113273,
-      "brat": 1791548313235,
-      "bratcewek": 1791548358019
+      "tt": 1791546113273
     },
     "clanId": null,
     "isRegistered": false,
@@ -127367,7 +127365,7 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 5190,
+    "exp": 5205,
     "energi": 99973,
     "name": "Virberzo",
     "lastSeen": "2026-10-09T11:48:30.767Z",
@@ -127849,7 +127847,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 735,
+    "exp": 750,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-09T12:05:02.542Z",
     "cooldowns": {
@@ -128114,10 +128112,10 @@
   "6285767399546": {
     "jid": "6285767399546",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
-  "60173328973": {
-    "jid": "60173328973",
+  "6283167561944": {
+    "jid": "6283167561944",
     "rpg": {},
     "exp": 15
   }
