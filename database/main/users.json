@@ -127188,19 +127188,15 @@
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 140,
+      "health": 100,
       "maxHealth": 140,
-      "stamina": 120,
+      "stamina": 90,
       "maxStamina": 120,
       "level": 5,
       "maxMana": 120,
-      "mana": 120,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791565358053
-      }
+      "mana": 120
     },
-    "exp": 42895,
+    "exp": 42925,
     "cooldowns": {
       "menucat": 1791565136051,
       "menu": 1791564572834,
@@ -127328,7 +127324,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99998,
-    "koin": 14791,
+    "koin": 12573,
     "inventory": {
       "potion": 2,
       "iron": 8,
@@ -127798,13 +127794,13 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10197,
+    "exp": 10212,
     "energi": 99999,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:02:33.988Z",
+    "lastSeen": "2026-10-09T17:02:44.828Z",
     "cooldowns": {
       "menu": 1791565354932,
-      "menucat": 1791533116127,
+      "menucat": 1791565365081,
       "cekfemboy": 1791520088280,
       "jadibot": 1791520332929,
       "owner": 1791527084629,
