@@ -65553,7 +65553,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4575,
+    "exp": 4605,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -128071,5 +128071,17 @@
     "jid": "62895343063140",
     "rpg": {},
     "exp": 240
+  },
+  "601139918191": {
+    "name": "Lucy 🌠🍼🛴🎉",
+    "lastSeen": "2026-10-09T11:32:24.957Z",
+    "jid": "601139918191",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "afk": 1791545547251
+    },
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 1
   }
 }
