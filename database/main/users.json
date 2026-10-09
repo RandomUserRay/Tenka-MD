@@ -127352,7 +127352,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 4039,
+    "exp": 4054,
     "name": "npc",
     "lastSeen": "2026-10-09T04:06:14.862Z",
     "cooldowns": {
@@ -127697,6 +127697,13 @@
   "6285609079537": {
     "jid": "6285609079537",
     "rpg": {},
-    "exp": 60
+    "exp": 75,
+    "name": "Ranzz_M",
+    "lastSeen": "2026-10-09T04:10:05.541Z",
+    "cooldowns": {
+      "love": 1791519005627
+    },
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 1
   }
 }
