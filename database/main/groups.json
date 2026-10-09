@@ -46094,8 +46094,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 51,
-        "lastChat": 1791545999747,
+        "count": 52,
+        "lastChat": 1791546005939,
         "name": "radit maendra | uaf"
       },
       "6281339787411@s.whatsapp.net": {
@@ -46116,7 +46116,16 @@
     "antitoxic": false,
     "antiswgc": "on",
     "antilinkgc": "on",
-    "intro": "@user"
+    "intro": "@user",
+    "warnings": {
+      "6285767399546@s.whatsapp.net": [
+        {
+          "reason": "Tidak ada alasan",
+          "by": "6282131144804@s.whatsapp.net",
+          "time": 1791546005980
+        }
+      ]
+    }
   },
   "120363426735184360@g.us": {
     "welcome": true,
