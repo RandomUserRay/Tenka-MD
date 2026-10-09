@@ -45082,7 +45082,7 @@
     "energi": 100009,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10101,
+    "exp": 10116,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45091,9 +45091,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T11:17:03.161Z",
+    "lastSeen": "2026-10-09T11:18:45.715Z",
     "cooldowns": {
-      "top": 1791544623677,
+      "top": 1791544726266,
       "love": 1791533277241,
       "cekkhodam": 1791533376055,
       "cekimut": 1791533434106,
@@ -127364,10 +127364,10 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 4875,
-    "energi": 99975,
+    "exp": 4890,
+    "energi": 99973,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T11:18:17.855Z",
+    "lastSeen": "2026-10-09T11:18:50.553Z",
     "cooldowns": {
       "top": 1791544698889,
       "ship": 1791533171858,
@@ -127385,7 +127385,8 @@
       "janda": 1791524688060,
       "perawan": 1791524740715,
       "carifitur": 1791524908712,
-      "tembak": 1791543589185
+      "tembak": 1791543589185,
+      "hitamkan": 1791544730824
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
@@ -127613,7 +127614,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 3855,
+    "exp": 3870,
     "energi": 99998,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T11:16:39.804Z",
