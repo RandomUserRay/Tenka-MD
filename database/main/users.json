@@ -105017,7 +105017,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2445,
+    "exp": 2460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105027,12 +105027,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-02T13:51:30.860Z",
+    "lastSeen": "2026-10-09T13:10:35.813Z",
     "cooldowns": {
       "p": 1788667225052,
       "ytmp4": 1789032783642,
       "play": 1789032361003,
-      "absen": 1790949090891
+      "absen": 1791551436486
     },
     "clanId": null,
     "isRegistered": false,
@@ -105042,8 +105042,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 5
   },
   "6285852479134": {
     "jid": "6285852479134",
@@ -123913,7 +123913,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 5865,
+    "exp": 5880,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-08T12:12:53.715Z",
     "cooldowns": {
@@ -127633,7 +127633,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 5595,
+    "exp": 5610,
     "energi": 99998,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T13:10:06.523Z",
@@ -127804,12 +127804,12 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30968,
+    "exp": 31013,
     "name": "👣",
-    "lastSeen": "2026-10-09T12:40:36.261Z",
+    "lastSeen": "2026-10-09T13:10:30.205Z",
     "cooldowns": {
       "top": 1791532649368,
-      "menu": 1791549638100,
+      "menu": 1791551433738,
       "owner": 1791528004822,
       "menucat": 1791528509134,
       "jadibot": 1791543025726,
