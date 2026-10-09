@@ -127813,16 +127813,16 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 50,
+      "stamina": 25,
       "attack": 20,
       "guildId": "guild_1791568221406",
       "luck": 7,
       "lastHourly": 1791569032738
     },
-    "exp": 53989,
-    "energi": 99961,
+    "exp": 54104,
+    "energi": 99960,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T18:05:03.910Z",
+    "lastSeen": "2026-10-09T18:05:12.878Z",
     "cooldowns": {
       "menu": 1791569017110,
       "menucat": 1791569021597,
@@ -127849,7 +127849,7 @@
       "inventory": 1791568661196,
       "berburu": 1791565382348,
       "training": 1791568946980,
-      "adventure": 1791568741314,
+      "adventure": 1791569107239,
       "arena": 1791565527524,
       "mining": 1791569100437,
       "dungeon": 1791568901497,
@@ -127873,7 +127873,7 @@
       "work": 1791568374782,
       "shop": 1791568641887,
       "use": 1791568995792,
-      "hunt": 1791568823860,
+      "hunt": 1791569115978,
       "nyapu": 1791568856640,
       "daily": 1791569064780
     },
@@ -127900,7 +127900,8 @@
       "uncommon": 1,
       "stamina": 1,
       "common": 0,
-      "bear": 1
+      "bear": 1,
+      "rabbit": 1
     },
     "quest": {
       "adventure3": {
