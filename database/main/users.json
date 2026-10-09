@@ -35432,7 +35432,7 @@
     "energi": 99972,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1022877,
+    "exp": 1022892,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35441,7 +35441,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T17:11:58.009Z",
+    "lastSeen": "2026-10-09T11:44:50.049Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35467,7 +35467,7 @@
       "hytamkan": 1783788774165,
       "waifutohitam": 1783788616737,
       "owner": 1791466750901,
-      "setwelcome": 1791467424473,
+      "setwelcome": 1791546290394,
       "brat": 1789391301348,
       "bratanime": 1783697700663,
       "bratimg": 1789391298744,
@@ -128088,6 +128088,6 @@
   "6288287684755": {
     "jid": "6288287684755",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
