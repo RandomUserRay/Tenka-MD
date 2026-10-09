@@ -127813,13 +127813,13 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 45,
+      "stamina": 30,
       "attack": 16
     },
-    "exp": 14684,
-    "energi": 99975,
+    "exp": 14862,
+    "energi": 99974,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:47:03.373Z",
+    "lastSeen": "2026-10-09T17:47:16.344Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127862,11 +127862,12 @@
       "gacha": 1791567953986,
       "maling": 1791567968254,
       "rob": 1791567986740,
-      "me": 1791567876397
+      "me": 1791567876397,
+      "mulung": 1791568041151
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 16604,
+    "koin": 17708,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127878,7 +127879,12 @@
       "leather": 4,
       "iron": 2,
       "wood": 6,
-      "potion": 3
+      "potion": 3,
+      "botol": 7,
+      "kaleng": 8,
+      "kardus": 1,
+      "sampah": 13,
+      "koran": 3
     }
   },
   "628137819779": {
