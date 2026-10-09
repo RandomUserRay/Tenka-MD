@@ -45082,7 +45082,7 @@
     "energi": 100009,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10011,
+    "exp": 9996,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45091,9 +45091,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T11:10:29.259Z",
+    "lastSeen": "2026-10-09T11:09:14.293Z",
     "cooldowns": {
-      "top": 1791544230945,
+      "top": 1791544088556,
       "love": 1791533277241,
       "cekkhodam": 1791533376055,
       "cekimut": 1791533434106,
@@ -45106,15 +45106,7 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "lastActiveDate": "9/10/2026",
@@ -62279,7 +62271,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 151044,
+    "exp": 151074,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -127364,12 +127356,12 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 4800,
+    "exp": 4725,
     "energi": 99975,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T11:10:10.184Z",
+    "lastSeen": "2026-10-09T11:09:24.019Z",
     "cooldowns": {
-      "top": 1791544210682,
+      "top": 1791544164503,
       "ship": 1791533171858,
       "love": 1791543541982,
       "femboy": 1791518260309,
@@ -127394,10 +127386,10 @@
   "6289679569897": {
     "jid": "6289679569897",
     "rpg": {},
-    "exp": 4290,
+    "exp": 4260,
     "energi": 99999,
     "name": "🤭maira_😶‍🌫️🤟",
-    "lastSeen": "2026-10-09T11:09:35.391Z",
+    "lastSeen": "2026-10-09T11:08:32.781Z",
     "cooldowns": {
       "top": 1791544113302,
       "love": 1791543522159
@@ -127613,12 +127605,12 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 3825,
+    "exp": 3750,
     "energi": 99998,
     "name": "利斯蒂亚尼",
-    "lastSeen": "2026-10-09T11:10:03.499Z",
+    "lastSeen": "2026-10-09T11:09:26.312Z",
     "cooldowns": {
-      "top": 1791544204067,
+      "top": 1791544166783,
       "dare": 1791525894421,
       "teka": 1791526925636,
       "menu": 1791533091805,
@@ -127711,7 +127703,7 @@
   "6288242155869": {
     "jid": "6288242155869",
     "rpg": {},
-    "exp": 345,
+    "exp": 330,
     "energi": 99999
   },
   "6285368265330": {
