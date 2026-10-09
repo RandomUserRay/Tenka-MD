@@ -127196,7 +127196,7 @@
       "maxMana": 120,
       "mana": 53
     },
-    "exp": 43145,
+    "exp": 43160,
     "cooldowns": {
       "menucat": 1791565136051,
       "menu": 1791564572834,
@@ -127798,7 +127798,7 @@
       "mana": 105,
       "stamina": 80
     },
-    "exp": 11117,
+    "exp": 11132,
     "energi": 99995,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T17:05:24.488Z",
@@ -127828,7 +127828,8 @@
       "inventory": 1791565284058,
       "berburu": 1791565382348,
       "training": 1791565407376,
-      "adventure": 1791565490658
+      "adventure": 1791565490658,
+      "arena": 1791565527524
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
