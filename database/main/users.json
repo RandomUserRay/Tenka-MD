@@ -112349,7 +112349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71145,
+    "exp": 71160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112490,7 +112490,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23280,
+    "exp": 23295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127884,9 +127884,9 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1560,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T13:26:03.392Z",
+    "lastSeen": "2026-10-09T13:29:57.069Z",
     "cooldowns": {
       "love": 1791552363714,
       "lirik": 1791551505509,
@@ -127898,11 +127898,12 @@
       "jelek": 1791551953609,
       "ganteng": 1791551963637,
       "imut": 1791551984377,
-      "ceksetia": 1791552306528
+      "ceksetia": 1791552306528,
+      "cekkhodam": 1791552597070
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
-    "energi": 18
+    "energi": 17
   },
   "6288271071833": {
     "jid": "6288271071833",
