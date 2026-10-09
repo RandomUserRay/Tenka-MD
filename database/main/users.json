@@ -127184,19 +127184,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-09T17:07:20.718Z",
+    "lastSeen": "2026-10-09T17:07:41.788Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 105,
       "maxHealth": 140,
-      "stamina": 65,
+      "stamina": 45,
       "maxStamina": 120,
       "level": 5,
       "maxMana": 120,
       "mana": 53
     },
-    "exp": 43962,
+    "exp": 44455,
     "cooldowns": {
       "menucat": 1791565136051,
       "menu": 1791564572834,
@@ -127321,13 +127321,13 @@
       "inventory": 1791565295105,
       "rpg": 1791565320769,
       "fishing": 1791565624491,
-      "inv": 1791565402744,
+      "inv": 1791565645297,
       "arena": 1791565499202,
-      "mining": 1791565599581
+      "mining": 1791565665734
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99989,
+    "energi": 99988,
     "koin": 12573,
     "inventory": {
       "potion": 2,
@@ -127336,7 +127336,8 @@
       "rabbit": 1,
       "trash": 1,
       "coal": 3,
-      "fish": 1
+      "fish": 1,
+      "rock": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -127799,25 +127800,13 @@
       "maxStamina": 105,
       "health": 87,
       "mana": 105,
-      "stamina": 30,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Goblin Liar",
-        "monsterPower": 12,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791565622984
-      }
+      "stamina": 10,
+      "attack": 13
     },
-    "exp": 11345,
-    "energi": 99994,
+    "exp": 11566,
+    "energi": 99993,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:06:53.059Z",
+    "lastSeen": "2026-10-09T17:07:53.691Z",
     "cooldowns": {
       "menu": 1791565354932,
       "menucat": 1791565365081,
@@ -127847,17 +127836,21 @@
       "adventure": 1791565490658,
       "arena": 1791565527524,
       "mining": 1791565601640,
-      "dungeon": 1791565613410
+      "dungeon": 1791565613410,
+      "stamina": 1791565659548
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 13182,
+    "koin": 13386,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
       "cakar_beruang": 1,
       "rock": 4,
-      "coal": 3
+      "coal": 3,
+      "gold": 1,
+      "herb": 2,
+      "leather": 2
     }
   },
   "628137819779": {
