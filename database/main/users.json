@@ -9805,13 +9805,13 @@
   },
   "6281310184404": {
     "name": "Elara-mao",
-    "lastSeen": "2026-10-06T11:48:04.407Z",
+    "lastSeen": "2026-10-09T10:00:33.891Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53235,
+    "exp": 53250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9822,7 +9822,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "ww": 1780478671549,
-      "afk": 1780311266110,
+      "afk": 1791540036264,
       "rob": 1787748654164,
       "cekmesum": 1780325034270,
       "cekganteng": 1790085327675,
@@ -9871,8 +9871,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 6
   },
   "6285779062752": {
     "jid": "6285779062752",
