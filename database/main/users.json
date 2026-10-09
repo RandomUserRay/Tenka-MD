@@ -109936,7 +109936,8 @@
     "cooldowns": {
       "absen": 1790993067728,
       "warn": 1791118438440,
-      "cekabsen": 1791000106650
+      "cekabsen": 1791000106650,
+      "play": 1791550306501
     },
     "clanId": null,
     "isRegistered": false,
@@ -109946,8 +109947,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 4
   },
   "6285645047395": {
     "jid": "6285645047395",
@@ -127164,19 +127165,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-09T12:51:04.467Z",
+    "lastSeen": "2026-10-09T12:51:53.892Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 130,
-      "maxHealth": 130,
-      "stamina": 115,
-      "maxStamina": 115,
-      "level": 4,
-      "maxMana": 115,
-      "mana": 115
+      "health": 140,
+      "maxHealth": 140,
+      "stamina": 120,
+      "maxStamina": 120,
+      "level": 5,
+      "maxMana": 120,
+      "mana": 120
     },
-    "exp": 39985,
+    "exp": 40000,
     "cooldowns": {
       "menucat": 1791527889812,
       "menu": 1791527610124,
@@ -128087,7 +128088,7 @@
   "62895343063140": {
     "jid": "62895343063140",
     "rpg": {},
-    "exp": 300
+    "exp": 315
   },
   "601139918191": {
     "name": "Lucy 🌠🍼🛴🎉",
