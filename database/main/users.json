@@ -127184,19 +127184,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-09T17:02:38.051Z",
+    "lastSeen": "2026-10-09T17:03:03.669Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 100,
       "maxHealth": 140,
-      "stamina": 90,
+      "stamina": 75,
       "maxStamina": 120,
       "level": 5,
       "maxMana": 120,
       "mana": 120
     },
-    "exp": 42925,
+    "exp": 42950,
     "cooldowns": {
       "menucat": 1791565136051,
       "menu": 1791564572834,
@@ -127319,17 +127319,19 @@
       "robloxplayer": 1791565185609,
       "level": 1791565230246,
       "inventory": 1791565295105,
-      "rpg": 1791565320769
+      "rpg": 1791565320769,
+      "fishing": 1791565388765
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99998,
+    "energi": 99997,
     "koin": 12573,
     "inventory": {
       "potion": 2,
       "iron": 8,
       "herb": 3,
-      "rabbit": 1
+      "rabbit": 1,
+      "trash": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -127821,7 +127823,8 @@
       "afk": 1791534566271,
       "cekkepribadian": 1791565086303,
       "level": 1791565250680,
-      "inventory": 1791565284058
+      "inventory": 1791565284058,
+      "berburu": 1791565382348
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
