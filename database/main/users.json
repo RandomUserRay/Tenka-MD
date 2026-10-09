@@ -45077,7 +45077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2445,
+    "exp": 2460,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -47859,13 +47859,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-10-09T06:09:30.305Z",
+    "lastSeen": "2026-10-09T06:09:49.625Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 560198,
+    "exp": 560213,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -47987,7 +47987,8 @@
       "stickerpack": 1790925152346,
       "swgc": 1791269424492,
       "love": 1791450965821,
-      "topchat": 1791523841695
+      "topchat": 1791523841695,
+      "setwelcome": 1791526189661
     },
     "clanId": null,
     "isRegistered": false,
@@ -127711,7 +127712,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15568,
+    "exp": 15643,
     "name": "👣",
     "lastSeen": "2026-10-09T05:24:21.823Z",
     "cooldowns": {
