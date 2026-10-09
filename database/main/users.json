@@ -11616,7 +11616,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40084,
+    "exp": 40114,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -68267,7 +68267,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4035,
+    "exp": 4080,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -124795,7 +124795,7 @@
   "6282379159928": {
     "jid": "6282379159928",
     "rpg": {},
-    "exp": 435,
+    "exp": 495,
     "energi": 99999,
     "name": "ambaruwo",
     "lastSeen": "2026-09-22T14:05:05.214Z"
@@ -127184,7 +127184,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-09T17:19:33.502Z",
+    "lastSeen": "2026-10-09T17:17:32.960Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127196,10 +127196,10 @@
       "maxMana": 120,
       "mana": 53
     },
-    "exp": 47521,
+    "exp": 47371,
     "cooldowns": {
-      "menucat": 1791566311443,
-      "menu": 1791566307304,
+      "menucat": 1791565944801,
+      "menu": 1791565729591,
       "allmenu": 1791565122312,
       "love": 1791565082986,
       "tebaknegara": 1791526896154,
@@ -127247,13 +127247,13 @@
       "giveawayreroll": 1791470353506,
       "notifmakan": 1791470372315,
       "ship": 1791518391475,
-      "hentai": 1791566361032,
-      "onlynsfw": 1791566355004,
+      "hentai": 1791518930133,
+      "onlynsfw": 1791518967429,
       "energi": 1791507559622,
       "buyenergi": 1791475130941,
       "boobs": 1791471192676,
       "nsfwloli": 1791471203627,
-      "blowjob": 1791566376450,
+      "blowjob": 1791471537122,
       "benefitpremium": 1791470892458,
       "pussy": 1791471552471,
       "tenka": 1791471239735,
@@ -127281,7 +127281,7 @@
       "cekyandere": 1791477667535,
       "keren": 1791478356841,
       "soulmatch": 1791478404803,
-      "tebakanime": 1791566336980,
+      "tebakanime": 1791527810576,
       "tagall": 1791520183394,
       "topactive": 1791551110876,
       "topexp": 1791507988762,
@@ -127329,13 +127329,11 @@
       "use": 1791565815763,
       "liriklagu": 1791565925020,
       "leveluprpg": 1791566029384,
-      "guildcreate": 1791566101864,
-      "shop": 1791566269870,
-      "clancreate": 1791566319049
+      "guildcreate": 1791566101864
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99977,
+    "energi": 99981,
     "koin": 12573,
     "inventory": {
       "potion": 2,
@@ -127810,13 +127808,17 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 9,
-      "attack": 16
+      "stamina": 59,
+      "attack": 16,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791566182047
+      }
     },
-    "exp": 13179,
-    "energi": 99985,
+    "exp": 12852,
+    "energi": 99986,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:19:37.587Z",
+    "lastSeen": "2026-10-09T17:17:39.132Z",
     "cooldowns": {
       "menu": 1791565934682,
       "menucat": 1791565942186,
@@ -127845,8 +127847,8 @@
       "training": 1791565873644,
       "adventure": 1791565490658,
       "arena": 1791565527524,
-      "mining": 1791566359019,
-      "dungeon": 1791566272850,
+      "mining": 1791566134635,
+      "dungeon": 1791566182420,
       "stamina": 1791566145355,
       "create": 1791565714571,
       "coinflip": 1791565761601,
@@ -127858,12 +127860,12 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 13511,
+    "koin": 13386,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
       "cakar_beruang": 1,
-      "rock": 17,
+      "rock": 13,
       "coal": 3,
       "gold": 2,
       "herb": 2,
@@ -128266,6 +128268,12 @@
     "exp": 225,
     "energi": 99999
   },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128288,12 +128296,6 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 165,
-    "energi": 99999
-  },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
