@@ -127813,14 +127813,14 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 71,
+      "stamina": 46,
       "attack": 20,
       "guildId": "guild_1791568221406"
     },
-    "exp": 45806,
-    "energi": 99966,
+    "exp": 46336,
+    "energi": 99965,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:59:10.075Z",
+    "lastSeen": "2026-10-09T18:00:20.771Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127894,13 +127894,19 @@
       "koran": 3,
       "uncommon": 1,
       "stamina": 3,
-      "common": 0
+      "common": 0,
+      "bear": 1
     },
     "quest": {
       "adventure3": {
         "progress": 0,
         "claimed": false,
         "takenAt": 1791568416551
+      },
+      "hunt5": {
+        "progress": 0,
+        "claimed": false,
+        "takenAt": 1791568812674
       }
     }
   },
