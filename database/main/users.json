@@ -50493,7 +50493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11355,
+    "exp": 11385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50502,7 +50502,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T12:29:22.666Z",
+    "lastSeen": "2026-10-09T12:30:21.232Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50517,12 +50517,13 @@
       "mulaiabsen": 1791538880523,
       "unmute": 1791382981383,
       "menu": 1791548933642,
-      "menucat": 1791461273019,
+      "menucat": 1791549012005,
       "bratpatrick": 1791461291875,
       "bratbahlil": 1791461332012,
       "brat": 1791461401784,
       "cekabsen": 1791548917746,
-      "owner": 1791548962740
+      "owner": 1791548962740,
+      "music": 1791549021286
     },
     "clanId": null,
     "isRegistered": false,
@@ -112476,7 +112477,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22920,
+    "exp": 22935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128059,7 +128060,7 @@
   "60173850654": {
     "jid": "60173850654",
     "rpg": {},
-    "exp": 345
+    "exp": 360
   },
   "6281266909713": {
     "jid": "6281266909713",
