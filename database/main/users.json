@@ -127813,15 +127813,15 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 30,
+      "stamina": 50,
       "attack": 20,
       "guildId": "guild_1791568221406",
       "luck": 7
     },
-    "exp": 47061,
+    "exp": 47076,
     "energi": 99963,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T18:02:46.896Z",
+    "lastSeen": "2026-10-09T18:02:59.683Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127871,7 +127871,7 @@
       "money": 1791568262041,
       "work": 1791568374782,
       "shop": 1791568641887,
-      "use": 1791568706982,
+      "use": 1791568980158,
       "hunt": 1791568823860,
       "nyapu": 1791568856640
     },
@@ -127896,7 +127896,7 @@
       "sampah": 13,
       "koran": 3,
       "uncommon": 1,
-      "stamina": 3,
+      "stamina": 2,
       "common": 0,
       "bear": 1
     },
