@@ -96014,7 +96014,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 240,
+    "exp": 255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128134,7 +128134,7 @@
     "lastSeen": "2026-10-09T11:32:24.957Z",
     "jid": "601139918191",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
       "afk": 1791545547251
     },
