@@ -71440,10 +71440,10 @@
     "jid": "6287793883633",
     "name": "nd",
     "number": "6287793883633",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1410,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71452,13 +71452,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T11:41:31.871Z",
+    "lastSeen": "2026-09-28T22:21:10.528Z",
     "cooldowns": {
       "afk": 1790634071793,
       "s": 1789036350611,
       "wm": 1789036370208,
-      "swm": 1789036407308,
-      "tt": 1791546092064
+      "swm": 1789036407308
     },
     "clanId": null,
     "isRegistered": false,
@@ -71469,8 +71468,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "29/9/2026",
+    "activeDays": 3
   },
   "6283180359495": {
     "jid": "6283180359495",
@@ -123810,7 +123809,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 3645,
+    "exp": 3720,
     "energi": 99999,
     "name": "TIPIS TIPIS🤏💥💫",
     "lastSeen": "2026-10-08T15:19:22.208Z",
