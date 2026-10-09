@@ -127814,12 +127814,13 @@
       "health": 105,
       "mana": 53,
       "stamina": 51,
-      "attack": 19
+      "attack": 19,
+      "guildId": "guild_1791568221406"
     },
-    "exp": 40677,
+    "exp": 40707,
     "energi": 99971,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:49:59.156Z",
+    "lastSeen": "2026-10-09T17:50:21.405Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127855,7 +127856,7 @@
       "coinflip": 1791565761601,
       "meditation": 1791568101979,
       "liriklagu": 1791565897171,
-      "guild": 1791568199443,
+      "guild": 1791568221720,
       "guildcreate": 1791566104716,
       "rest": 1791567728987,
       "lottery": 1791566449394,
@@ -127869,7 +127870,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 17708,
+    "koin": 7708,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
