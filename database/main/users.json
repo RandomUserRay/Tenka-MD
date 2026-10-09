@@ -45077,7 +45077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2055,
+    "exp": 2070,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -127138,7 +127138,7 @@
       "maxMana": 115,
       "mana": 115
     },
-    "exp": 35655,
+    "exp": 35685,
     "cooldowns": {
       "menucat": 1791524680006,
       "menu": 1791523861999,
@@ -127567,12 +127567,12 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 1155,
+    "exp": 1170,
     "energi": 99999,
     "name": "利斯蒂亚尼",
-    "lastSeen": "2026-10-09T05:59:20.793Z",
+    "lastSeen": "2026-10-09T06:00:24.052Z",
     "cooldowns": {
-      "top": 1791525561100
+      "top": 1791525624325
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1
