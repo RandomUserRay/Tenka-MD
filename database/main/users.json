@@ -128024,10 +128024,14 @@
   "6287892819825": {
     "jid": "6287892819825",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "name": "hell?",
-    "lastSeen": "2026-10-09T09:31:58.323Z",
-    "cooldowns": {},
-    "energi": 24
+    "lastSeen": "2026-10-09T09:32:05.319Z",
+    "cooldowns": {
+      "play": 1791538329291
+    },
+    "energi": 22,
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 1
   }
 }
