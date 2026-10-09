@@ -127813,13 +127813,13 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 30,
-      "attack": 16
+      "stamina": 10,
+      "attack": 19
     },
-    "exp": 14877,
-    "energi": 99974,
+    "exp": 14972,
+    "energi": 99973,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:47:37.547Z",
+    "lastSeen": "2026-10-09T17:47:53.649Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127845,7 +127845,7 @@
       "level": 1791567845642,
       "inventory": 1791566250721,
       "berburu": 1791565382348,
-      "training": 1791566629834,
+      "training": 1791568077255,
       "adventure": 1791565490658,
       "arena": 1791565527524,
       "mining": 1791567776801,
