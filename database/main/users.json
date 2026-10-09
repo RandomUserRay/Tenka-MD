@@ -47861,7 +47861,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 560108,
+    "exp": 560123,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -127138,7 +127138,7 @@
       "maxMana": 115,
       "mana": 115
     },
-    "exp": 33426,
+    "exp": 33441,
     "cooldowns": {
       "menucat": 1791478335950,
       "menu": 1791523861999,
@@ -127875,6 +127875,6 @@
   "6285198295395": {
     "jid": "6285198295395",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
