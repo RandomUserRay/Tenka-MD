@@ -46273,8 +46273,8 @@
         "name": "seannoel"
       },
       "6288804612621@s.whatsapp.net": {
-        "count": 74,
-        "lastChat": 1791523798675,
+        "count": 75,
+        "lastChat": 1791523805622,
         "name": "— someone to talk"
       },
       "6287811930699@s.whatsapp.net": {
@@ -46382,5 +46382,11 @@
     },
     "jid": "120363431913323938@g.us",
     "name": "Random"
+  },
+  "120363429743948124@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363429743948124@g.us"
   }
 }
