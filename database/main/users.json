@@ -9811,7 +9811,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52995,
+    "exp": 53010,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45074,10 +45074,10 @@
     "jid": "6285185629882",
     "name": "Naraa",
     "number": "6285185629882",
-    "energi": 99994,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3540,
+    "exp": 3510,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45086,14 +45086,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T09:06:49.427Z",
+    "lastSeen": "2026-10-09T09:05:29.089Z",
     "cooldowns": {
       "top": 1791533865950,
       "love": 1791533277241,
       "cekkhodam": 1791533376055,
       "cekimut": 1791533434106,
       "tebakanime": 1791534646774,
-      "lirik": 1791536781519
+      "lirik": 1791536733684
     },
     "clanId": null,
     "isRegistered": false,
@@ -67246,10 +67246,10 @@
     "jid": "6283135864303",
     "name": "pria. sigma",
     "number": "6283135864303",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175131,
+    "exp": 175146,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67264,10 +67264,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T13:20:14.039Z",
+    "lastSeen": "2026-10-09T09:06:46.944Z",
     "cooldowns": {
       "afk": 1791287415237,
-      "s": 1791292815383,
+      "s": 1791536807876,
       "play": 1789982437541,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -67399,8 +67399,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 24
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 25
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -96625,7 +96625,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26303,
+    "exp": 26333,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96635,7 +96635,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T23:54:09.587Z",
+    "lastSeen": "2026-10-09T09:06:20.201Z",
     "cooldowns": {
       "afk": 1791123783015,
       "play": 1791034878274,
@@ -96655,7 +96655,7 @@
       "bank": 1789119647649,
       "cekyandere": 1790256123798,
       "cekimut": 1790422411359,
-      "d": 1790679559524,
+      "d": 1791536781322,
       "mutegc": 1789906948972,
       "pin": 1790412931603,
       "pat": 1789909412342,
@@ -96692,8 +96692,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 28
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 29
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -126442,6 +126442,12 @@
     "exp": 90,
     "energi": 99999
   },
+  "6287762356293": {
+    "jid": "6287762356293",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
@@ -126454,12 +126460,6 @@
     },
     "lastActiveDate": "6/10/2026",
     "activeDays": 2
-  },
-  "6287762356293": {
-    "jid": "6287762356293",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
   },
   "6285273157610": {
     "jid": "6285273157610",
@@ -127666,20 +127666,14 @@
     "exp": 45,
     "energi": 99999
   },
-  "6285165583892": {
-    "jid": "6285165583892",
+  "6283845252262": {
+    "jid": "6283845252262",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6288242155869": {
-    "jid": "6288242155869",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
-  "6283845252262": {
-    "jid": "6283845252262",
+  "6285165583892": {
+    "jid": "6285165583892",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -127688,6 +127682,12 @@
     "jid": "6285941901216",
     "rpg": {},
     "exp": 15,
+    "energi": 99999
+  },
+  "6288242155869": {
+    "jid": "6288242155869",
+    "rpg": {},
+    "exp": 150,
     "energi": 99999
   },
   "6285368265330": {
@@ -127752,7 +127752,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 28838,
+    "exp": 28763,
     "name": "👣",
     "lastSeen": "2026-10-09T08:41:01.076Z",
     "cooldowns": {
@@ -127813,16 +127813,16 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 255,
+    "exp": 240,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T09:07:09.590Z",
+    "lastSeen": "2026-10-09T09:04:21.746Z",
     "cooldowns": {
       "love": 1791534657228,
-      "lirik": 1791536835227
+      "lirik": 1791536665725
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
-    "energi": 22
+    "energi": 23
   },
   "6288271071833": {
     "jid": "6288271071833",
