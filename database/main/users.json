@@ -127798,14 +127798,22 @@
       "maxStamina": 105,
       "health": 87,
       "mana": 105,
-      "stamina": 60,
+      "stamina": 30,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791565613060
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 12,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791565622984
       }
     },
-    "exp": 11330,
+    "exp": 11345,
     "energi": 99994,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T17:06:53.059Z",
