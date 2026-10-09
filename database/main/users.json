@@ -26868,7 +26868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 718758,
+    "exp": 718833,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -43209,7 +43209,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5235,
+    "exp": 5265,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45077,7 +45077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1230,
+    "exp": 1260,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -73034,7 +73034,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17535,
+    "exp": 17565,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -127549,15 +127549,15 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-09T05:06:24.585Z",
+    "lastSeen": "2026-10-09T05:07:14.649Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 3711,
+    "exp": 3771,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791469490100,
       "love": 1791519064883,
-      "cekkhodam": 1791522384519,
+      "cekkhodam": 1791522434584,
       "bucin": 1791468306980,
       "afk": 1791468692740,
       "menu": 1791519088239,
@@ -127598,7 +127598,7 @@
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 2,
-    "energi": 99993,
+    "energi": 99992,
     "koin": 3234
   },
   "6285367129055": {
@@ -127676,9 +127676,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12523,
+    "exp": 12703,
     "name": "👣",
-    "lastSeen": "2026-10-09T05:05:29.684Z",
+    "lastSeen": "2026-10-09T05:06:59.221Z",
     "cooldowns": {
       "top": 1791499827171,
       "menu": 1791521845792,
@@ -127700,12 +127700,12 @@
       "gacha": 1791521879905,
       "donasi": 1791521916308,
       "khodam": 1791522130435,
-      "cekkhodam": 1791522261886
+      "cekkhodam": 1791522419223
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
     "koin": 1000,
-    "energi": 21
+    "energi": 20
   },
   "6281534003702": {
     "jid": "6281534003702",
