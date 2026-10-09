@@ -127196,7 +127196,7 @@
       "maxMana": 120,
       "mana": 53
     },
-    "exp": 47641,
+    "exp": 47691,
     "cooldowns": {
       "menucat": 1791566311443,
       "menu": 1791566307304,
@@ -127332,12 +127332,13 @@
       "guildcreate": 1791566101864,
       "shop": 1791566269870,
       "clancreate": 1791566319049,
-      "trap": 1791566407575
+      "trap": 1791566407575,
+      "maling": 1791566542560
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99974,
-    "koin": 12573,
+    "koin": 14573,
     "inventory": {
       "potion": 2,
       "iron": 11,
@@ -127814,7 +127815,7 @@
       "stamina": 52,
       "attack": 16
     },
-    "exp": 13344,
+    "exp": 13359,
     "energi": 99981,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T17:22:08.053Z",
