@@ -45083,7 +45083,7 @@
     "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10836,
+    "exp": 10896,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45092,7 +45092,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T13:15:30.738Z",
+    "lastSeen": "2026-10-09T13:16:20.310Z",
     "cooldowns": {
       "top": 1791551516463,
       "love": 1791533277241,
@@ -45104,7 +45104,8 @@
       "brat": 1791551105294,
       "cekintrovert": 1791551617601,
       "pintar": 1791551716546,
-      "bodoh": 1791551731258
+      "bodoh": 1791551731258,
+      "cekpintar": 1791551762463
     },
     "clanId": null,
     "isRegistered": false,
@@ -112345,7 +112346,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70575,
+    "exp": 70590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127386,10 +127387,10 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 6855,
+    "exp": 6870,
     "energi": 99971,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T13:15:47.102Z",
+    "lastSeen": "2026-10-09T13:16:14.676Z",
     "cooldowns": {
       "top": 1791551502787,
       "ship": 1791550476627,
@@ -127636,7 +127637,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 5775,
+    "exp": 5790,
     "energi": 99998,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T13:15:43.770Z",
@@ -127872,14 +127873,15 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 1245,
+    "exp": 1275,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T13:15:17.271Z",
+    "lastSeen": "2026-10-09T13:16:26.353Z",
     "cooldowns": {
       "love": 1791550465893,
       "lirik": 1791551505509,
       "top": 1791551387773,
-      "cekintrovert": 1791551681164
+      "cekintrovert": 1791551681164,
+      "cekpintar": 1791551786602
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
