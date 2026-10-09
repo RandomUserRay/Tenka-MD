@@ -45077,7 +45077,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3360,
+    "exp": 3375,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45086,12 +45086,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T08:17:45.519Z",
+    "lastSeen": "2026-10-09T08:30:45.541Z",
     "cooldowns": {
       "top": 1791533865950,
       "love": 1791533277241,
       "cekkhodam": 1791533376055,
-      "cekimut": 1791533434106
+      "cekimut": 1791533434106,
+      "tebakanime": 1791534646774
     },
     "clanId": null,
     "isRegistered": false,
@@ -127708,10 +127709,10 @@
   "6285704381228": {
     "jid": "6285704381228",
     "rpg": {},
-    "exp": 8562,
+    "exp": 8577,
     "energi": 99996,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T08:29:24.174Z",
+    "lastSeen": "2026-10-09T08:30:39.939Z",
     "cooldowns": {
       "menu": 1791528468295,
       "menucat": 1791533116127,
@@ -127750,9 +127751,9 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26288,
+    "exp": 26438,
     "name": "👣",
-    "lastSeen": "2026-10-09T08:30:26.746Z",
+    "lastSeen": "2026-10-09T08:30:45.318Z",
     "cooldowns": {
       "top": 1791532649368,
       "menu": 1791528377296,
@@ -127811,11 +127812,11 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T08:30:07.723Z",
+    "lastSeen": "2026-10-09T08:30:56.964Z",
     "cooldowns": {
-      "love": 1791534607958
+      "love": 1791534657228
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1
