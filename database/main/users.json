@@ -50493,7 +50493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11340,
+    "exp": 11355,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50502,7 +50502,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T12:28:50.838Z",
+    "lastSeen": "2026-10-09T12:29:22.666Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
@@ -50521,7 +50521,8 @@
       "bratpatrick": 1791461291875,
       "bratbahlil": 1791461332012,
       "brat": 1791461401784,
-      "cekabsen": 1791548917746
+      "cekabsen": 1791548917746,
+      "owner": 1791548962740
     },
     "clanId": null,
     "isRegistered": false,
