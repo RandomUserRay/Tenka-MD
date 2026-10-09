@@ -46548,7 +46548,7 @@
     "name": "Random"
   },
   "120363411919283441@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
     "jid": "120363411919283441@g.us",
@@ -46559,11 +46559,17 @@
         "name": "spy"
       },
       "6282131144804@s.whatsapp.net": {
-        "count": 3,
-        "lastChat": 1791546271701,
+        "count": 4,
+        "lastChat": 1791546290049,
         "name": "radit maendra | uaf"
+      },
+      "6285191981703@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1791546298237,
+        "name": "sibuk"
       }
     },
-    "name": "GROUP MABAR BLOXFRUIT KACUNGPRET"
+    "name": "GROUP MABAR BLOXFRUIT KACUNGPRET",
+    "welcomeMsg": "pindah ke gb ini guyss\nhttps://chat.whatsapp.com/LBGTxystmrNJz3gxCmP1YY?s=cl&p=a&mlu=4&ilr=4"
   }
 }
