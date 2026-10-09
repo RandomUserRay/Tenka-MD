@@ -127817,10 +127817,10 @@
       "attack": 20,
       "guildId": "guild_1791568221406"
     },
-    "exp": 41011,
+    "exp": 41026,
     "energi": 99970,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:52:51.219Z",
+    "lastSeen": "2026-10-09T17:53:36.550Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127892,7 +127892,13 @@
       "koran": 3,
       "uncommon": 2
     },
-    "quest": {}
+    "quest": {
+      "adventure3": {
+        "progress": 0,
+        "claimed": false,
+        "takenAt": 1791568416551
+      }
+    }
   },
   "628137819779": {
     "jid": "628137819779",
