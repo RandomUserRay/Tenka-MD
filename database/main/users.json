@@ -45083,7 +45083,7 @@
     "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10656,
+    "exp": 10671,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45092,9 +45092,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T13:09:36.492Z",
+    "lastSeen": "2026-10-09T13:11:56.330Z",
     "cooldowns": {
-      "top": 1791551377052,
+      "top": 1791551516463,
       "love": 1791533277241,
       "cekkhodam": 1791533376055,
       "cekimut": 1791533434106,
@@ -112483,7 +112483,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23070,
+    "exp": 23085,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127804,9 +127804,9 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31043,
+    "exp": 31073,
     "name": "👣",
-    "lastSeen": "2026-10-09T13:11:42.577Z",
+    "lastSeen": "2026-10-09T13:11:51.728Z",
     "cooldowns": {
       "top": 1791551481381,
       "menu": 1791551433738,
@@ -127833,7 +127833,8 @@
       "info": 1791528265617,
       "tt": 1791528281850,
       "s": 1791528411895,
-      "benefitpremium": 1791528531151
+      "benefitpremium": 1791528531151,
+      "cekhoki": 1791551511806
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
