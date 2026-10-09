@@ -127130,7 +127130,7 @@
       "maxMana": 110,
       "mana": 110
     },
-    "exp": 26067,
+    "exp": 26082,
     "cooldowns": {
       "menucat": 1791478335950,
       "menu": 1791470050203,
@@ -127335,9 +127335,9 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 2877,
+    "exp": 2892,
     "name": "npc",
-    "lastSeen": "2026-10-09T01:08:24.882Z",
+    "lastSeen": "2026-10-09T01:09:33.102Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
@@ -127372,9 +127372,10 @@
       "energi": 1791507575239,
       "profile": 1791507936878,
       "leaderboard": 1791507985164,
-      "spotify": 1791508105105
+      "spotify": 1791508105105,
+      "soundcloud": 1791508173182
     },
-    "energi": 99995,
+    "energi": 99994,
     "lastActiveDate": "9/10/2026",
     "activeDays": 2,
     "inventory": {
