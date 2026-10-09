@@ -26868,7 +26868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 718398,
+    "exp": 718413,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -45077,7 +45077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 825,
+    "exp": 885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -127692,16 +127692,17 @@
   "6281534003702": {
     "jid": "6281534003702",
     "rpg": {},
-    "exp": 1605,
+    "exp": 1650,
     "name": ">⁠.⁠<ハイランニサ>⁠.⁠<",
-    "lastSeen": "2026-10-09T04:52:52.578Z",
+    "lastSeen": "2026-10-09T04:54:23.367Z",
     "cooldowns": {
       "warnlist": 1791508340179,
       "topchat": 1791519656129,
       "afk": 1791519782816,
       "menu": 1791521549897,
       "menucat": 1791520102318,
-      "jadibot": 1791521575535
+      "jadibot": 1791521575535,
+      "cekhoki": 1791521663069
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1
