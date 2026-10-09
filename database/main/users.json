@@ -127820,10 +127820,10 @@
       "lastHourly": 1791569032738,
       "bank": 43924
     },
-    "exp": 59593,
-    "energi": 99949,
+    "exp": 59688,
+    "energi": 99948,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T23:16:38.609Z",
+    "lastSeen": "2026-10-09T23:16:45.956Z",
     "cooldowns": {
       "menu": 1791569017110,
       "menucat": 1791569021597,
@@ -127885,7 +127885,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 7439,
+    "koin": 6939,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127907,7 +127907,8 @@
       "stamina": 1,
       "common": 0,
       "bear": 1,
-      "rabbit": 4
+      "rabbit": 4,
+      "diamond": 1
     },
     "quest": {
       "adventure3": {
