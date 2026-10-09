@@ -45072,12 +45072,12 @@
   },
   "6285185629882": {
     "jid": "6285185629882",
-    "name": "Unknown",
+    "name": "Naraa",
     "number": "6285185629882",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2085,
+    "exp": 2115,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45086,8 +45086,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-07T12:34:37.586Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-09T06:01:11.702Z",
+    "cooldowns": {
+      "top": 1791525672206
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -45095,7 +45097,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 1
   },
   "6285185918024": {
     "jid": "6285185918024",
@@ -127138,7 +127142,7 @@
       "maxMana": 115,
       "mana": 115
     },
-    "exp": 35700,
+    "exp": 35730,
     "cooldowns": {
       "menucat": 1791524680006,
       "menu": 1791523861999,
@@ -127567,7 +127571,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 1215,
+    "exp": 1245,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T06:00:24.052Z",
