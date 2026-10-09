@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135970910,
+    "exp": 135970835,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -187,7 +187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T10:59:28.495Z",
+    "lastSeen": "2026-10-06T10:58:02.592Z",
     "cooldowns": {
       "profile": 1790279616965,
       "cekfemboy": 1780152179893,
@@ -233,7 +233,7 @@
       "buy": 1780850880995,
       "listproduk": 1780850774686,
       "shop": 1782137691424,
-      "afk": 1791543571018,
+      "afk": 1791284284807,
       "yaoi": 1780960348037,
       "rest": 1781357408693,
       "topexp": 1781576363824,
@@ -328,8 +328,8 @@
     "access": [],
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "9/10/2026",
-    "activeDays": 14
+    "lastActiveDate": "6/10/2026",
+    "activeDays": 13
   },
   "6289529899190": {
     "jid": "6289529899190",
@@ -45082,7 +45082,7 @@
     "energi": 100009,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9846,
+    "exp": 9861,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45091,7 +45091,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T09:39:53.795Z",
+    "lastSeen": "2026-10-09T10:59:12.487Z",
     "cooldowns": {
       "top": 1791533865950,
       "love": 1791533277241,
@@ -127356,14 +127356,14 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 4260,
-    "energi": 99976,
+    "exp": 4305,
+    "energi": 99975,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T10:58:41.026Z",
+    "lastSeen": "2026-10-09T10:59:48.279Z",
     "cooldowns": {
       "top": 1791543425307,
       "ship": 1791533171858,
-      "love": 1791543521272,
+      "love": 1791543541982,
       "femboy": 1791518260309,
       "gay": 1791524756091,
       "gacha": 1791518567005,
@@ -127376,7 +127376,8 @@
       "cekcantik": 1791524656968,
       "janda": 1791524688060,
       "perawan": 1791524740715,
-      "carifitur": 1791524908712
+      "carifitur": 1791524908712,
+      "tembak": 1791543589185
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
@@ -127604,7 +127605,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 3465,
+    "exp": 3540,
     "energi": 99998,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T09:08:57.966Z",
@@ -127767,7 +127768,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30668,
+    "exp": 30683,
     "name": "👣",
     "lastSeen": "2026-10-09T10:50:22.062Z",
     "cooldowns": {
@@ -128060,6 +128061,6 @@
   "62895343063140": {
     "jid": "62895343063140",
     "rpg": {},
-    "exp": 150
+    "exp": 195
   }
 }
