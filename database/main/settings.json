@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "fetch failed",
+      "at": 1791570870026
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791569270378
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789389381572
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789389168347
     }
   ],
   "jpmBlacklist": [],
