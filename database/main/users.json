@@ -127813,17 +127813,17 @@
       "maxStamina": 125,
       "health": 105,
       "mana": 53,
-      "stamina": 55,
+      "stamina": 30,
       "attack": 20,
       "guildId": "guild_1791568221406",
       "luck": 7,
       "lastHourly": 1791569032738,
       "bank": 28363
     },
-    "exp": 57029,
-    "energi": 99953,
+    "exp": 57144,
+    "energi": 99952,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T18:23:06.016Z",
+    "lastSeen": "2026-10-09T18:23:19.816Z",
     "cooldowns": {
       "menu": 1791569017110,
       "menucat": 1791569021597,
@@ -127852,7 +127852,7 @@
       "training": 1791568946980,
       "adventure": 1791570181745,
       "arena": 1791565527524,
-      "mining": 1791569250418,
+      "mining": 1791570190107,
       "dungeon": 1791568901497,
       "stamina": 1791568057773,
       "create": 1791568170576,
@@ -127907,7 +127907,7 @@
       "stamina": 1,
       "common": 0,
       "bear": 1,
-      "rabbit": 2
+      "rabbit": 3
     },
     "quest": {
       "adventure3": {
