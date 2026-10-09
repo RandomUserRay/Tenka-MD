@@ -127562,7 +127562,7 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 3180,
+    "exp": 3210,
     "name": "*",
     "lastSeen": "2026-10-09T17:01:27.781Z",
     "cooldowns": {
@@ -127813,13 +127813,13 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 65,
+      "stamina": 45,
       "attack": 16
     },
-    "exp": 13741,
-    "energi": 99979,
+    "exp": 13971,
+    "energi": 99978,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:42:19.859Z",
+    "lastSeen": "2026-10-09T17:42:52.775Z",
     "cooldowns": {
       "menu": 1791565934682,
       "menucat": 1791565942186,
@@ -127848,7 +127848,7 @@
       "training": 1791566629834,
       "adventure": 1791565490658,
       "arena": 1791565527524,
-      "mining": 1791566359019,
+      "mining": 1791567776801,
       "dungeon": 1791567740242,
       "stamina": 1791566145355,
       "create": 1791565714571,
@@ -127870,12 +127870,12 @@
       "daging_rusa": 1,
       "bulu_rubah": 1,
       "cakar_beruang": 1,
-      "rock": 17,
-      "coal": 3,
+      "rock": 19,
+      "coal": 6,
       "gold": 2,
       "herb": 5,
       "leather": 4,
-      "iron": 1,
+      "iron": 2,
       "wood": 6,
       "potion": 3
     }
