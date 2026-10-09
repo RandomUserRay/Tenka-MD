@@ -127813,13 +127813,13 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 66,
+      "stamina": 51,
       "attack": 19
     },
-    "exp": 15002,
-    "energi": 99973,
+    "exp": 15017,
+    "energi": 99971,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:48:28.998Z",
+    "lastSeen": "2026-10-09T17:48:41.695Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127863,7 +127863,8 @@
       "maling": 1791567968254,
       "rob": 1791567986740,
       "me": 1791567876397,
-      "mulung": 1791568041151
+      "mulung": 1791568041151,
+      "steal": 1791568122011
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
