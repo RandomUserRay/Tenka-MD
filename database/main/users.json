@@ -26649,7 +26649,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175416,
+    "exp": 175446,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26658,7 +26658,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T14:03:04.542Z",
+    "lastSeen": "2026-10-09T09:41:43.628Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1788575721219,
@@ -26761,7 +26761,9 @@
       "listwarn": 1788667275001,
       "setgoodbye": 1791383064770,
       "resetgoodbye": 1791383184441,
-      "resetwelcome": 1791383296806
+      "resetwelcome": 1791383296806,
+      "cekabsen": 1791538892716,
+      "hapusabsen": 1791538903688
     },
     "clanId": null,
     "isRegistered": false,
@@ -26785,8 +26787,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 17
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -45077,7 +45079,7 @@
     "energi": 100009,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9801,
+    "exp": 9816,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -50479,7 +50481,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11190,
+    "exp": 11250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50488,19 +50490,19 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T12:10:01.714Z",
+    "lastSeen": "2026-10-09T09:41:27.751Z",
     "cooldowns": {
       "s": 1789462056749,
       "d": 1783741421008,
       "gay": 1783738460576,
       "jelek": 1783738651828,
-      "absen": 1791282391527,
+      "absen": 1791538887807,
       "cekkhodam": 1783694668277,
       "hitamkan": 1783738460738,
       "bratimg": 1789389835520,
       "smeme": 1789031799043,
       "warn": 1791459759137,
-      "mulaiabsen": 1791026667267,
+      "mulaiabsen": 1791538880523,
       "unmute": 1791382981383,
       "menu": 1791461206246,
       "menucat": 1791461273019,
@@ -50525,8 +50527,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 10
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -127351,12 +127353,12 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 3945,
+    "exp": 3960,
     "energi": 99976,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T09:40:48.666Z",
+    "lastSeen": "2026-10-09T09:41:28.000Z",
     "cooldowns": {
-      "top": 1791538849224,
+      "top": 1791538888513,
       "ship": 1791533171858,
       "love": 1791534524781,
       "femboy": 1791518260309,
@@ -127609,10 +127611,10 @@
   },
   "6282280529984": {
     "name": "★",
-    "lastSeen": "2026-10-09T09:41:01.283Z",
+    "lastSeen": "2026-10-09T09:41:38.750Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 4101,
+    "exp": 4131,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791469490100,
@@ -127746,15 +127748,15 @@
     "jid": "628137819779",
     "rpg": {
       "lastHourly": 1791533412057,
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 29888,
+    "exp": 30113,
     "name": "👣",
     "lastSeen": "2026-10-09T09:37:54.550Z",
     "cooldowns": {
