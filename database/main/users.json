@@ -127709,9 +127709,17 @@
   },
   "6285704381228": {
     "jid": "6285704381228",
-    "rpg": {},
-    "exp": 8787,
-    "energi": 99996,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 11764,
+    "energi": 100001,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T08:34:30.192Z",
     "cooldowns": {
@@ -127738,7 +127746,7 @@
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
-    "koin": 1977
+    "koin": 2996
   },
   "628137819779": {
     "jid": "628137819779",
