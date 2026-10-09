@@ -46104,8 +46104,8 @@
     "jid": "120363426735184360@g.us",
     "chatStats": {
       "6289524280314@s.whatsapp.net": {
-        "count": 512,
-        "lastChat": 1791526150521,
+        "count": 513,
+        "lastChat": 1791526168589,
         "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪"
       },
       "6282280082308@s.whatsapp.net": {
@@ -46435,17 +46435,18 @@
   },
   "120363429743948124@g.us": {
     "welcome": false,
-    "goodbye": false,
-    "leave": false,
+    "goodbye": true,
+    "leave": true,
     "jid": "120363429743948124@g.us",
     "chatStats": {
       "6282142632981@s.whatsapp.net": {
-        "count": 6,
-        "lastChat": 1791526119575,
+        "count": 7,
+        "lastChat": 1791526170304,
         "name": "Yumnaadinyakiaramaandpeya"
       }
     },
-    "name": "⋆. 𐙚 ˚𝐷𝑟𝑒𝑎𝑚𝑣𝑒𝑟𝑠𝑒⋆. ୨୧˚⋆"
+    "name": "⋆. 𐙚 ˚𝐷𝑟𝑒𝑎𝑚𝑣𝑒𝑟𝑠𝑒⋆. ୨୧˚⋆",
+    "goodbyeMsg": "apakah dia tidak suka disini?"
   },
   "120363414976537739@g.us": {
     "chatStats": {
