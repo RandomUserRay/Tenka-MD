@@ -45077,7 +45077,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3045,
+    "exp": 3060,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45086,9 +45086,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T08:03:52.995Z",
+    "lastSeen": "2026-10-09T08:05:34.111Z",
     "cooldowns": {
-      "top": 1791533033442
+      "top": 1791533033442,
+      "love": 1791533134348
     },
     "clanId": null,
     "isRegistered": false,
@@ -127345,14 +127346,14 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 2895,
+    "exp": 2925,
     "energi": 99978,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T08:04:56.989Z",
+    "lastSeen": "2026-10-09T08:05:34.836Z",
     "cooldowns": {
       "top": 1791532977435,
       "ship": 1791518885541,
-      "love": 1791533097177,
+      "love": 1791533135032,
       "femboy": 1791518260309,
       "gay": 1791524756091,
       "gacha": 1791518567005,
@@ -127585,7 +127586,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 2295,
+    "exp": 2325,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-09T08:04:50.771Z",
@@ -127702,13 +127703,13 @@
   "6285704381228": {
     "jid": "6285704381228",
     "rpg": {},
-    "exp": 7707,
+    "exp": 7722,
     "energi": 100001,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T08:04:55.559Z",
+    "lastSeen": "2026-10-09T08:05:15.879Z",
     "cooldowns": {
       "menu": 1791528468295,
-      "menucat": 1791528483767,
+      "menucat": 1791533116127,
       "cekfemboy": 1791520088280,
       "jadibot": 1791520332929,
       "owner": 1791527084629,
@@ -127738,9 +127739,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18688,
+    "exp": 18913,
     "name": "👣",
-    "lastSeen": "2026-10-09T08:04:57.864Z",
+    "lastSeen": "2026-10-09T08:05:37.759Z",
     "cooldowns": {
       "top": 1791532649368,
       "menu": 1791528377296,
