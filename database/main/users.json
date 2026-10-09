@@ -127813,16 +127813,16 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 25,
+      "stamina": 13,
       "attack": 20,
       "guildId": "guild_1791568221406",
       "luck": 7,
       "lastHourly": 1791569032738
     },
-    "exp": 54104,
+    "exp": 54119,
     "energi": 99960,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T18:05:12.878Z",
+    "lastSeen": "2026-10-09T18:06:01.380Z",
     "cooldowns": {
       "menu": 1791569017110,
       "menucat": 1791569021597,
@@ -127875,11 +127875,12 @@
       "use": 1791568995792,
       "hunt": 1791569115978,
       "nyapu": 1791568856640,
-      "daily": 1791569064780
+      "daily": 1791569064780,
+      "parkir": 1791569165363
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 32024,
+    "koin": 28363,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
