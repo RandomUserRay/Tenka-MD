@@ -127817,10 +127817,10 @@
       "attack": 20,
       "guildId": "guild_1791568221406"
     },
-    "exp": 44102,
+    "exp": 44117,
     "energi": 99967,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-09T17:56:30.785Z",
+    "lastSeen": "2026-10-09T17:57:20.930Z",
     "cooldowns": {
       "menu": 1791568019695,
       "menucat": 1791568023639,
@@ -127869,11 +127869,11 @@
       "weekly": 1791568147611,
       "money": 1791568262041,
       "work": 1791568374782,
-      "shop": 1791568574692
+      "shop": 1791568641887
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 16354,
+    "koin": 14354,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127892,7 +127892,8 @@
       "sampah": 13,
       "koran": 3,
       "uncommon": 2,
-      "stamina": 3
+      "stamina": 3,
+      "common": 1
     },
     "quest": {
       "adventure3": {
