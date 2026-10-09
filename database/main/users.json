@@ -127818,21 +127818,9 @@
       "guildId": "guild_1791568221406",
       "luck": 7,
       "lastHourly": 1791569032738,
-      "bank": 43924,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Bandit Hutan",
-        "monsterPower": 34,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791587736779
-      }
+      "bank": 43924
     },
-    "exp": 58329,
+    "exp": 58497,
     "energi": 99952,
     "name": "MaLa ?",
     "lastSeen": "2026-10-09T23:15:24.169Z",
@@ -127897,7 +127885,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 2520,
+    "koin": 2784,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
