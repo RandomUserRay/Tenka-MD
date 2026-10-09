@@ -26649,10 +26649,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176181,
+    "exp": 176196,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26661,10 +26661,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T13:15:07.203Z",
+    "lastSeen": "2026-10-09T13:18:15.535Z",
     "cooldowns": {
       "afk": 1789121430469,
-      "play": 1791551684695,
+      "play": 1791551915461,
       "tebakkata": 1783582134240,
       "me": 1782879671146,
       "robloxstalk": 1785388725100,
@@ -45083,7 +45083,7 @@
     "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10896,
+    "exp": 10941,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -45092,7 +45092,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T13:16:20.310Z",
+    "lastSeen": "2026-10-09T13:19:04.716Z",
     "cooldowns": {
       "top": 1791551516463,
       "love": 1791533277241,
@@ -45105,7 +45105,8 @@
       "cekintrovert": 1791551617601,
       "pintar": 1791551716546,
       "bodoh": 1791551731258,
-      "cekpintar": 1791551762463
+      "cekpintar": 1791551762463,
+      "cekcantik": 1791551918200
     },
     "clanId": null,
     "isRegistered": false,
@@ -112487,7 +112488,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23130,
+    "exp": 23160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127387,12 +127388,12 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {},
-    "exp": 6945,
+    "exp": 7035,
     "energi": 99971,
     "name": "Virberzo",
-    "lastSeen": "2026-10-09T13:17:16.527Z",
+    "lastSeen": "2026-10-09T13:18:29.383Z",
     "cooldowns": {
-      "top": 1791551502787,
+      "top": 1791551909930,
       "ship": 1791550476627,
       "love": 1791550382946,
       "femboy": 1791518260309,
@@ -127638,12 +127639,12 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 5895,
+    "exp": 5985,
     "energi": 99998,
     "name": "利斯蒂亚尼",
-    "lastSeen": "2026-10-09T13:17:39.025Z",
+    "lastSeen": "2026-10-09T13:18:53.748Z",
     "cooldowns": {
-      "top": 1791551407002,
+      "top": 1791551934292,
       "dare": 1791525894421,
       "teka": 1791526925636,
       "menu": 1791533091805,
@@ -127843,7 +127844,8 @@
       "s": 1791528411895,
       "benefitpremium": 1791528531151,
       "cekhoki": 1791551511806,
-      "pintar": 1791551648899
+      "pintar": 1791551648899,
+      "me": 1791551923062
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
@@ -127875,15 +127877,17 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 1305,
+    "exp": 1365,
     "name": "사랑해 주훈아",
-    "lastSeen": "2026-10-09T13:17:29.124Z",
+    "lastSeen": "2026-10-09T13:19:13.083Z",
     "cooldowns": {
       "love": 1791550465893,
       "lirik": 1791551505509,
       "top": 1791551387773,
       "cekintrovert": 1791551681164,
-      "cekpintar": 1791551849369
+      "cekpintar": 1791551849369,
+      "bodoh": 1791551872381,
+      "pintar": 1791551929161
     },
     "lastActiveDate": "9/10/2026",
     "activeDays": 1,
@@ -128069,7 +128073,7 @@
   "6283899314272": {
     "jid": "6283899314272",
     "rpg": {},
-    "exp": 45
+    "exp": 90
   },
   "6285874067153": {
     "jid": "6285874067153",
@@ -128183,5 +128187,10 @@
     "jid": "6285722693315",
     "rpg": {},
     "exp": 15
+  },
+  "6283179211339": {
+    "jid": "6283179211339",
+    "rpg": {},
+    "exp": 30
   }
 }
