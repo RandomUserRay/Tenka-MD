@@ -3063,12 +3063,12 @@
   },
   "6285240302212": {
     "jid": "6285240302212",
-    "name": "luci",
+    "name": "arkana",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 716906,
+    "exp": 716921,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3077,7 +3077,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-04T12:01:54.707Z",
+    "lastSeen": "2026-10-10T02:34:48.234Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3139,7 +3139,7 @@
       "tebaknegara": 1787747090717,
       "kicks": 1782998068424,
       "cekkhodam": 1783062546427,
-      "s": 1790299216345,
+      "s": 1791599689788,
       "rfemboyvid": 1783239608583,
       "furryvid": 1783229351946,
       "hytamkan": 1783777396215,
@@ -3217,8 +3217,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "4/10/2026",
-    "activeDays": 21,
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 22,
     "fun": {
       "pasangan": "628981194866@s.whatsapp.net"
     }
@@ -127463,12 +127463,12 @@
   "6289679569897": {
     "jid": "6289679569897",
     "rpg": {},
-    "exp": 7410,
+    "exp": 7395,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
-    "lastSeen": "2026-10-10T02:34:01.653Z",
+    "lastSeen": "2026-10-10T02:08:43.081Z",
     "cooldowns": {
-      "top": 1791599642811,
+      "top": 1791598123572,
       "love": 1791597173623,
       "cekpintar": 1791597516633
     },
@@ -127946,7 +127946,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 40718,
+    "exp": 40703,
     "name": "👣",
     "lastSeen": "2026-10-09T23:33:17.839Z",
     "cooldowns": {
@@ -128329,6 +128329,12 @@
     "exp": 225,
     "energi": 99999
   },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128351,12 +128357,6 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 270,
-    "energi": 99999
-  },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
