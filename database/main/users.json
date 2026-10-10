@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:24:05.748Z",
+    "lastSeen": "2026-10-10T09:24:18.346Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 200,
       "maxHealth": 200,
-      "stamina": 57,
+      "stamina": 42,
       "maxStamina": 150,
       "level": 11,
       "maxMana": 150,
@@ -127220,7 +127220,7 @@
         "stats": null
       }
     },
-    "exp": 102328,
+    "exp": 102395,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127396,11 +127396,12 @@
       "parkir": 1791624131983,
       "pet": 1791624208842,
       "petshop": 1791624184544,
-      "train": 1791624224707
+      "train": 1791624224707,
+      "woodcut": 1791624261908
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99911,
+    "energi": 99910,
     "koin": 113958,
     "inventory": {
       "potion": 5,
@@ -127418,7 +127419,8 @@
       "lion": 1,
       "daging_kelinci": 3,
       "bulu_rubah": 1,
-      "emerald": 1
+      "emerald": 1,
+      "wood": 3
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -128104,7 +128106,7 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 91627,
+    "exp": 91852,
     "name": "👣",
     "lastSeen": "2026-10-10T09:23:36.466Z",
     "cooldowns": {
