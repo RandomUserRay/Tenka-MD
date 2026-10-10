@@ -127195,9 +127195,9 @@
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 105,
+      "health": 135,
       "maxHealth": 150,
-      "stamina": 100,
+      "stamina": 125,
       "maxStamina": 125,
       "level": 6,
       "maxMana": 125,
@@ -127360,7 +127360,8 @@
       "training": 1791622412504,
       "daily": 1791622210098,
       "kurir": 1791622473280,
-      "ngojek": 1791622522379
+      "ngojek": 1791622522379,
+      "heal": 1791622557813
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
