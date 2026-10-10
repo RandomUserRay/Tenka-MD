@@ -127861,7 +127861,7 @@
       "maxStamina": 130,
       "health": 105,
       "mana": 53,
-      "stamina": 93,
+      "stamina": 63,
       "attack": 23,
       "guildId": "guild_1791568221406",
       "luck": 8,
@@ -127869,11 +127869,19 @@
       "bank": 80471,
       "enchants": {},
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791614393165
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Bandit Hutan",
+        "monsterPower": 17,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791614398872
       }
     },
-    "exp": 68559,
+    "exp": 68574,
     "energi": 99917,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T06:39:53.164Z",
