@@ -112496,7 +112496,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24870,
+    "exp": 24885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127663,10 +127663,11 @@
       "pinter": 1791518539172,
       "gacha": 1791518572642,
       "menu": 1791518637317,
-      "owner": 1791518640887
+      "owner": 1791518640887,
+      "pin": 1791613666177
     },
-    "lastActiveDate": "9/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 2
   },
   "6282280082308": {
     "jid": "6282280082308",
