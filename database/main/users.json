@@ -233,7 +233,7 @@
       "buy": 1780850880995,
       "listproduk": 1780850774686,
       "shop": 1782137691424,
-      "afk": 1791604222527,
+      "afk": 1791604284717,
       "yaoi": 1780960348037,
       "rest": 1781357408693,
       "topexp": 1781576363824,
@@ -1592,7 +1592,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 313452,
+    "exp": 313467,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1601,7 +1601,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T13:20:34.291Z",
+    "lastSeen": "2026-10-10T03:51:34.042Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -1683,7 +1683,7 @@
       "stickerpack": 1781326228906,
       "femboys": 1784435721123,
       "luck": 1781504672446,
-      "afk": 1781686433440,
+      "afk": 1791604295293,
       "tt": 1791144373669,
       "hd": 1790703360156,
       "gay": 1782124568212,
@@ -1805,8 +1805,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "5/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 5
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -125857,7 +125857,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 9840,
+    "exp": 9855,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-09T03:07:17.710Z",
