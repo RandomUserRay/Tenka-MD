@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:20:53.771Z",
+    "lastSeen": "2026-10-10T09:21:31.538Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 105,
       "maxHealth": 190,
-      "stamina": 64,
+      "stamina": 44,
       "maxStamina": 145,
       "level": 10,
       "maxMana": 145,
@@ -127212,7 +127212,7 @@
       },
       "enchants": {}
     },
-    "exp": 98854,
+    "exp": 99475,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127382,11 +127382,12 @@
       "enchant": 1791623877566,
       "coinflip": 1791623943446,
       "ngamen": 1791624030937,
-      "nambalban": 1791624036342
+      "nambalban": 1791624036342,
+      "lottery": 1791624071311
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99914,
+    "energi": 99913,
     "koin": 81068,
     "inventory": {
       "potion": 5,
@@ -127394,16 +127395,17 @@
       "herb": 3,
       "rabbit": 4,
       "trash": 1,
-      "coal": 0,
+      "coal": 1,
       "fish": 0,
-      "rock": 0,
+      "rock": 2,
       "octopus": 1,
       "gold": 0,
       "uncommon": 0,
       "whale": 0,
       "lion": 1,
       "daging_kelinci": 3,
-      "bulu_rubah": 1
+      "bulu_rubah": 1,
+      "emerald": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -128088,9 +128090,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 90727,
+    "exp": 90877,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:21:05.565Z",
+    "lastSeen": "2026-10-10T09:21:24.778Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
