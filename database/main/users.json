@@ -48193,10 +48193,10 @@
     "jid": "6281377143900",
     "name": "Telur gulung_dish",
     "number": "6281377143900",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17591,
+    "exp": 17606,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48205,7 +48205,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T14:04:12.386Z",
+    "lastSeen": "2026-10-10T03:30:36.088Z",
     "cooldowns": {
       "menu": 1789209648334,
       "tebaknegara": 1783670524132,
@@ -125857,7 +125857,7 @@
   "6289528303342": {
     "jid": "6289528303342",
     "rpg": {},
-    "exp": 9735,
+    "exp": 9720,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-09T03:07:17.710Z",
@@ -128330,12 +128330,6 @@
     "exp": 225,
     "energi": 99999
   },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128358,6 +128352,12 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 270,
+    "energi": 99999
+  },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
