@@ -127881,10 +127881,10 @@
         "time": 1791614398872
       }
     },
-    "exp": 68574,
-    "energi": 99917,
+    "exp": 68589,
+    "energi": 99915,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:39:53.164Z",
+    "lastSeen": "2026-10-10T06:40:13.761Z",
     "cooldowns": {
       "menu": 1791613254752,
       "menucat": 1791613414732,
@@ -127950,7 +127950,8 @@
       "robloxplayer": 1791611801104,
       "levelup": 1791611859472,
       "enchant": 1791612854560,
-      "buyfitur": 1791614231385
+      "buyfitur": 1791614231385,
+      "upgrade": 1791614414014
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -128013,11 +128014,16 @@
       "mana": 135,
       "stamina": 135,
       "guildId": "guild_1791568221406",
-      "bank": 0
+      "bank": 0,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791614418911
+      }
     },
-    "exp": 70452,
+    "exp": 70467,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:39:53.821Z",
+    "lastSeen": "2026-10-10T06:40:18.910Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
