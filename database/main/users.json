@@ -127980,18 +127980,12 @@
       "lastHourly": 1791624425279,
       "bank": 917365,
       "enchants": {},
-      "expeditions": [
-        {
-          "type": "forest",
-          "startedAt": 1791625257402,
-          "duration": 1800000
-        }
-      ]
+      "expeditions": []
     },
-    "exp": 144626,
+    "exp": 144741,
     "energi": 99775,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T10:49:57.995Z",
+    "lastSeen": "2026-10-10T10:50:13.159Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128070,7 +128064,7 @@
       "heal": 1791625591002,
       "duel": 1791615989535,
       "streamer": 1791627171946,
-      "expedition": 1791629398836,
+      "expedition": 1791629413803,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
       "nulis": 1791619991420,
@@ -128095,10 +128089,10 @@
       "rock": 39,
       "coal": 24,
       "gold": 4,
-      "herb": 10,
+      "herb": 11,
       "leather": 13,
       "iron": 9,
-      "wood": 19,
+      "wood": 22,
       "potion": 10,
       "botol": 33,
       "kaleng": 22,
@@ -128115,7 +128109,8 @@
       "sword": 1,
       "stick": 5,
       "pickaxe": 1,
-      "watermelon": 20
+      "watermelon": 20,
+      "mushroom": 4
     },
     "quest": {
       "adventure3": {
