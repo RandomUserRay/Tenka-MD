@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000162534,
+    "exp": 9000162609,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135973085,
+    "exp": 135973235,
     "level": 1,
     "koin": 60777169,
     "unlockedFeatures": [],
@@ -9814,7 +9814,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53340,
+    "exp": 53370,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67279,10 +67279,10 @@
     "jid": "6283135864303",
     "name": "pria. sigma",
     "number": "6283135864303",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175341,
+    "exp": 175371,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67297,10 +67297,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-09T10:39:28.279Z",
+    "lastSeen": "2026-10-10T13:51:01.647Z",
     "cooldowns": {
       "afk": 1791537636256,
-      "s": 1791542370384,
+      "s": 1791640262623,
       "play": 1791538499792,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -67432,8 +67432,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "9/10/2026",
-    "activeDays": 25
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 26
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -125118,7 +125118,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8731,
+    "exp": 8746,
     "name": "Why'Zeyn💫",
     "lastSeen": "2026-09-27T16:27:43.937Z",
     "energi": 99999,
@@ -128855,5 +128855,10 @@
     "jid": "6282190237811",
     "rpg": {},
     "exp": 45
+  },
+  "6282191896920": {
+    "jid": "6282191896920",
+    "rpg": {},
+    "exp": 15
   }
 }
