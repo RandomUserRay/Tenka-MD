@@ -127869,7 +127869,7 @@
       "bank": 87494,
       "enchants": {}
     },
-    "exp": 71211,
+    "exp": 71297,
     "energi": 99900,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T06:54:43.178Z",
@@ -127946,7 +127946,8 @@
       "treasure": 1791615023754,
       "boss": 1791615038465,
       "fishing": 1791615055276,
-      "marry": 1791615222082
+      "marry": 1791615222082,
+      "woodcut": 1791615287222
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -127961,7 +127962,7 @@
       "herb": 10,
       "leather": 10,
       "iron": 5,
-      "wood": 6,
+      "wood": 11,
       "potion": 10,
       "botol": 24,
       "kaleng": 15,
@@ -127975,7 +127976,8 @@
       "rabbit": 6,
       "diamond": 3,
       "trash": 2,
-      "sword": 1
+      "sword": 1,
+      "stick": 2
     },
     "quest": {
       "adventure3": {
@@ -128015,9 +128017,9 @@
       "attack": 10,
       "luck": 7
     },
-    "exp": 74703,
+    "exp": 74718,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:54:25.482Z",
+    "lastSeen": "2026-10-10T06:54:47.504Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128075,7 +128077,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
     "koin": 10399,
-    "energi": 99984,
+    "energi": 99983,
     "inventory": {
       "rock": 7,
       "iron": 3,
