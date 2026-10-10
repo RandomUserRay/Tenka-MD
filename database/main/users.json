@@ -80441,12 +80441,12 @@
   },
   "6287754915996": {
     "jid": "6287754915996",
-    "name": "Unknown",
+    "name": "Ha?Bang! ツ",
     "number": "6287754915996",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2445,
+    "exp": 2460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -80456,8 +80456,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-06T11:52:58.852Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-10T05:47:09.100Z",
+    "cooldowns": {
+      "afk": 1791611230749
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -80465,7 +80467,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 1
   },
   "6287742444196": {
     "jid": "6287742444196",
@@ -127145,7 +127149,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 105,
+    "exp": 135,
     "energi": 99999
   },
   "6281392627443": {
