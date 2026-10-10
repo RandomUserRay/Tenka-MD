@@ -128008,7 +128008,7 @@
       "maxHealth": 270,
       "maxMana": 185,
       "maxStamina": 185,
-      "health": 270,
+      "health": 240,
       "mana": 185,
       "stamina": 185,
       "attack": 42,
@@ -128019,10 +128019,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 177539,
+    "exp": 177614,
     "energi": 99760,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T16:04:13.194Z",
+    "lastSeen": "2026-10-10T16:04:28.976Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791633808579,
@@ -128119,7 +128119,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 1000,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
