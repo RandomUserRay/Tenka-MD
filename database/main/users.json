@@ -127605,7 +127605,7 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 4185,
+    "exp": 4200,
     "name": "*",
     "lastSeen": "2026-10-10T05:06:46.387Z",
     "cooldowns": {
@@ -127719,7 +127719,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 8910,
+    "exp": 8925,
     "energi": 99997,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-10T06:10:16.630Z",
@@ -127860,18 +127860,26 @@
       "maxStamina": 130,
       "health": 135,
       "mana": 130,
-      "stamina": 38,
+      "stamina": 8,
       "attack": 21,
       "guildId": "guild_1791568221406",
       "luck": 8,
       "lastHourly": 1791610544240,
       "bank": 92123,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791612725479
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 39,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791612748861
       }
     },
-    "exp": 65029,
+    "exp": 65059,
     "energi": 99931,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T06:12:05.479Z",
@@ -128506,7 +128514,7 @@
   "601170015343": {
     "jid": "601170015343",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6285382473297": {
     "jid": "6285382473297",
