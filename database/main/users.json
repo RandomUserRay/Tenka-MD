@@ -127192,17 +127192,17 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:36:39.050Z",
+    "lastSeen": "2026-10-10T09:36:49.346Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 105,
-      "maxHealth": 200,
-      "stamina": 55,
-      "maxStamina": 150,
-      "level": 11,
-      "maxMana": 150,
-      "mana": 53,
+      "health": 210,
+      "maxHealth": 210,
+      "stamina": 155,
+      "maxStamina": 155,
+      "level": 12,
+      "maxMana": 155,
+      "mana": 155,
       "bank": 222574,
       "guildId": "guild_1791568221406",
       "luck": 16,
@@ -127221,7 +127221,7 @@
         "stats": null
       }
     },
-    "exp": 109978,
+    "exp": 110293,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127293,7 +127293,7 @@
       "capcutdl": 1791472934746,
       "sendbug": 1791473015016,
       "adventure": 1791624985570,
-      "hunt": 1791623574610,
+      "hunt": 1791625012707,
       "rest": 1791624905607,
       "cooking": 1791565261985,
       "bratcewek": 1791475035889,
@@ -127405,7 +127405,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99900,
+    "energi": 99899,
     "koin": 19956,
     "inventory": {
       "potion": 4,
@@ -127424,7 +127424,8 @@
       "daging_kelinci": 3,
       "bulu_rubah": 1,
       "emerald": 1,
-      "wood": 3
+      "wood": 3,
+      "boar": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -128113,7 +128114,7 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 96022,
+    "exp": 96037,
     "name": "👣",
     "lastSeen": "2026-10-10T09:35:27.925Z",
     "cooldowns": {
