@@ -112110,7 +112110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237497,
+    "exp": 237512,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112120,7 +112120,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T09:37:16.986Z",
+    "lastSeen": "2026-10-10T09:37:36.506Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112286,7 +112286,7 @@
       "music": 1791121457442,
       "music2": 1791121464746,
       "buka": 1791371364653,
-      "groupinfo": 1791625037811
+      "groupinfo": 1791625058240
     },
     "clanId": null,
     "isRegistered": false,
@@ -127193,7 +127193,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:37:23.491Z",
+    "lastSeen": "2026-10-10T09:37:42.781Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127204,7 +127204,7 @@
       "level": 12,
       "maxMana": 155,
       "mana": 155,
-      "bank": 222574,
+      "bank": 402741,
       "guildId": "guild_1791568221406",
       "luck": 16,
       "lastHourly": 1791622227107,
@@ -127222,7 +127222,7 @@
         "stats": null
       }
     },
-    "exp": 115678,
+    "exp": 115723,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127370,7 +127370,7 @@
       "marry": 1791607038729,
       "mancing": 1791624011605,
       "weekly": 1791621896492,
-      "bank": 1791625043598,
+      "bank": 1791625052802,
       "guild": 1791624851258,
       "training": 1791624154644,
       "daily": 1791622210098,
@@ -127408,7 +127408,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99899,
-    "koin": 180167,
+    "koin": 0,
     "inventory": {
       "potion": 4,
       "iron": 0,
@@ -127513,20 +127513,28 @@
       "maxStamina": 105,
       "health": 110,
       "mana": 53,
-      "stamina": 76,
+      "stamina": 46,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 19,
       "defense": 8,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791625048587
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 13,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791625066085
       }
     },
-    "exp": 16537,
+    "exp": 16567,
     "energi": 99963,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T09:37:28.587Z",
+    "lastSeen": "2026-10-10T09:37:40.952Z",
     "cooldowns": {
       "top": 1791621106971,
       "ship": 1791594897315,
@@ -127962,10 +127970,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 124377,
-    "energi": 99809,
+    "exp": 124407,
+    "energi": 99808,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:37:18.056Z",
+    "lastSeen": "2026-10-10T09:37:33.465Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128052,11 +128060,11 @@
       "buyenergi": 1791623350249,
       "clan": 1791624705746,
       "divorce": 1791624964760,
-      "slot": 1791625041044
+      "slot": 1791625056507
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 106000,
+    "koin": 108500,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128123,9 +128131,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 96082,
+    "exp": 96097,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:37:17.145Z",
+    "lastSeen": "2026-10-10T09:37:37.009Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791624513880,
@@ -128192,12 +128200,12 @@
       "streamer": 1791624595204,
       "nambalban": 1791624691386,
       "clan": 1791624791524,
-      "slot": 1791625029725
+      "slot": 1791625057253
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
     "koin": 29286,
-    "energi": 99958,
+    "energi": 99957,
     "inventory": {
       "rock": 20,
       "iron": 5,
