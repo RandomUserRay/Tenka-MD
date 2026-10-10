@@ -127419,7 +127419,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99847,
-    "koin": 0,
+    "koin": 200000,
     "inventory": {
       "potion": 4,
       "iron": 2,
@@ -127985,10 +127985,10 @@
         }
       ]
     },
-    "exp": 144126,
+    "exp": 144141,
     "energi": 99780,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T10:16:32.116Z",
+    "lastSeen": "2026-10-10T10:16:44.899Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128057,7 +128057,7 @@
       "buyfitur": 1791614231385,
       "upgrade": 1791614414014,
       "cool": 1791614568717,
-      "transfer": 1791625954122,
+      "transfer": 1791627405182,
       "mancing": 1791624647532,
       "treasure": 1791619078130,
       "boss": 1791615038465,
@@ -128083,7 +128083,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 200000,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
