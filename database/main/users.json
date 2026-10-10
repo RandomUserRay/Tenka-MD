@@ -128889,5 +128889,17 @@
     "jid": "6285719427260",
     "rpg": {},
     "exp": 30
+  },
+  "6288221307500": {
+    "name": "Ryusei Martabak manis 🤤",
+    "lastSeen": "2026-10-10T15:46:49.822Z",
+    "jid": "6288221307500",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "menu": 1791647213156
+    },
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 1
   }
 }
