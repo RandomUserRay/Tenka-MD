@@ -127993,19 +127993,19 @@
       "maxStamina": 170,
       "health": 105,
       "mana": 53,
-      "stamina": 46,
+      "stamina": 24,
       "attack": 42,
       "guildId": "guild_1791568221406",
-      "luck": 29,
+      "luck": 30,
       "lastHourly": 1791624425279,
-      "bank": 1554501,
+      "bank": 54501,
       "enchants": {},
       "expeditions": []
     },
-    "exp": 146650,
-    "energi": 99771,
+    "exp": 146765,
+    "energi": 99770,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T11:56:26.714Z",
+    "lastSeen": "2026-10-10T11:58:44.854Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128031,7 +128031,7 @@
       "level": 1791619321713,
       "inventory": 1791625530773,
       "berburu": 1791565382348,
-      "training": 1791631892760,
+      "training": 1791633528315,
       "adventure": 1791625846236,
       "arena": 1791565527524,
       "mining": 1791625897664,
@@ -128062,7 +128062,7 @@
       "parkir": 1791627218923,
       "kurir": 1791629426261,
       "craft": 1791615167333,
-      "bank": 1791633373229,
+      "bank": 1791633519708,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128101,7 +128101,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 1500000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128809,5 +128809,10 @@
     "energi": 23,
     "lastActiveDate": "10/10/2026",
     "activeDays": 1
+  },
+  "6283169006716": {
+    "jid": "6283169006716",
+    "rpg": {},
+    "exp": 15
   }
 }
