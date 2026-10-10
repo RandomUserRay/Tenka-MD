@@ -127191,23 +127191,23 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:08:47.638Z",
+    "lastSeen": "2026-10-10T09:09:34.390Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 75,
-      "maxHealth": 150,
-      "stamina": 54,
-      "maxStamina": 125,
-      "level": 6,
-      "maxMana": 125,
-      "mana": 53,
+      "health": 190,
+      "maxHealth": 190,
+      "stamina": 145,
+      "maxStamina": 145,
+      "level": 10,
+      "maxMana": 145,
+      "mana": 145,
       "bank": 100429,
       "guildId": "guild_1791568221406",
       "luck": 9,
       "lastHourly": 1791622227107
     },
-    "exp": 89090,
+    "exp": 90578,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127279,7 +127279,7 @@
       "capcutdl": 1791472934746,
       "sendbug": 1791473015016,
       "adventure": 1791622702834,
-      "hunt": 1791623235591,
+      "hunt": 1791623377623,
       "rest": 1791623289999,
       "cooking": 1791565261985,
       "bratcewek": 1791475035889,
@@ -127328,7 +127328,7 @@
       "cekkepribadian": 1791565109579,
       "genshinstalk": 1791565144844,
       "robloxplayer": 1791565185609,
-      "level": 1791620676434,
+      "level": 1791623333830,
       "inventory": 1791565802091,
       "rpg": 1791565320769,
       "fishing": 1791566152355,
@@ -127359,18 +127359,19 @@
       "guild": 1791622074969,
       "training": 1791623046890,
       "daily": 1791622210098,
-      "kurir": 1791622950365,
+      "kurir": 1791623350421,
       "ngojek": 1791623260965,
       "heal": 1791623191849,
       "treasure": 1791622690419,
       "jualan": 1791622994269,
       "meditation": 1791622823053,
-      "steal": 1791623314054
+      "steal": 1791623314054,
+      "work": 1791623362117
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99937,
-    "koin": 0,
+    "energi": 99936,
+    "koin": 8596,
     "inventory": {
       "potion": 5,
       "iron": 14,
@@ -127383,7 +127384,8 @@
       "octopus": 1,
       "gold": 2,
       "uncommon": 0,
-      "whale": 1
+      "whale": 1,
+      "lion": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -127907,10 +127909,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 114605,
+    "exp": 114725,
     "energi": 99823,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:08:43.462Z",
+    "lastSeen": "2026-10-10T09:09:09.717Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -127993,7 +127995,8 @@
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
       "nulis": 1791619991420,
-      "jualan": 1791622870446
+      "jualan": 1791622870446,
+      "buyenergi": 1791623350249
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -128064,9 +128067,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 86077,
+    "exp": 86317,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:08:15.612Z",
+    "lastSeen": "2026-10-10T09:09:00.473Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
@@ -128102,7 +128105,7 @@
       "koin": 1791612081306,
       "weekly": 1791612054190,
       "daily": 1791612090742,
-      "money": 1791614083821,
+      "money": 1791623340889,
       "susunkata": 1791612418936,
       "tekateki": 1791612554594,
       "guild": 1791615721149,
