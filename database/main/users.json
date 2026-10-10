@@ -127867,9 +127867,9 @@
       "maxHealth": 180,
       "maxMana": 140,
       "maxStamina": 140,
-      "health": 105,
+      "health": 135,
       "mana": 53,
-      "stamina": 64,
+      "stamina": 114,
       "attack": 39,
       "guildId": "guild_1791568221406",
       "luck": 10,
@@ -127877,10 +127877,10 @@
       "bank": 242760,
       "enchants": {}
     },
-    "exp": 88225,
+    "exp": 88240,
     "energi": 99864,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T07:57:08.136Z",
+    "lastSeen": "2026-10-10T07:57:13.920Z",
     "cooldowns": {
       "menu": 1791616079414,
       "menucat": 1791616084542,
@@ -127956,7 +127956,7 @@
       "fishing": 1791618962081,
       "marry": 1791615222082,
       "woodcut": 1791617082197,
-      "heal": 1791617008599,
+      "heal": 1791619037687,
       "duel": 1791615989535,
       "streamer": 1791616131345
     },
