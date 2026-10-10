@@ -127195,20 +127195,20 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T10:00:33.065Z",
+    "lastSeen": "2026-10-10T10:01:25.884Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 240,
       "maxHealth": 240,
-      "stamina": 150,
+      "stamina": 128,
       "maxStamina": 170,
       "level": 15,
       "maxMana": 170,
       "mana": 170,
       "bank": 1011489,
       "guildId": "guild_1791568221406",
-      "luck": 23,
+      "luck": 25,
       "lastHourly": 1791622227107,
       "garden": {
         "plots": [],
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 147249,
+    "exp": 147349,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127414,7 +127414,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99878,
+    "energi": 99877,
     "koin": 16220,
     "inventory": {
       "potion": 4,
@@ -127975,10 +127975,10 @@
         }
       ]
     },
-    "exp": 141404,
-    "energi": 99788,
+    "exp": 141434,
+    "energi": 99787,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T10:01:09.272Z",
+    "lastSeen": "2026-10-10T10:01:14.951Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128035,7 +128035,7 @@
       "parkir": 1791624611491,
       "kurir": 1791626286919,
       "craft": 1791615167333,
-      "bank": 1791626430040,
+      "bank": 1791626471524,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128065,7 +128065,7 @@
       "buyenergi": 1791623350249,
       "clan": 1791624705746,
       "divorce": 1791624964760,
-      "slot": 1791626404910,
+      "slot": 1791626477935,
       "live": 1791625671611,
       "ngamen": 1791625379491,
       "nambalban": 1791626302666,
@@ -128073,7 +128073,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 50000,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
