@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T08:55:29.039Z",
+    "lastSeen": "2026-10-10T08:55:53.912Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 105,
       "maxHealth": 150,
-      "stamina": 0,
+      "stamina": 100,
       "maxStamina": 125,
       "level": 6,
       "maxMana": 125,
@@ -127207,7 +127207,7 @@
       "luck": 8,
       "lastHourly": 1791622227107
     },
-    "exp": 83139,
+    "exp": 83184,
     "cooldowns": {
       "menucat": 1791622509452,
       "menu": 1791622503999,
@@ -127884,7 +127884,7 @@
       "maxStamina": 145,
       "health": 105,
       "mana": 53,
-      "stamina": 20,
+      "stamina": 77,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 13,
@@ -127893,10 +127893,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 98013,
+    "exp": 98028,
     "energi": 99837,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T08:55:11.526Z",
+    "lastSeen": "2026-10-10T08:55:50.759Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
