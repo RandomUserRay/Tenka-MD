@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117601983,
+    "exp": 117601998,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3317,7 +3317,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32159,
+    "exp": 32174,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96655,7 +96655,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26633,
+    "exp": 26648,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126335,7 +126335,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11250,
+    "exp": 11175,
     "lastActiveDate": "9/10/2026",
     "activeDays": 3,
     "energi": 99999
@@ -127429,14 +127429,14 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11520,
+    "exp": 11490,
     "energi": 99995,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T04:20:02.651Z",
+    "lastSeen": "2026-10-10T04:19:33.271Z",
     "cooldowns": {
       "top": 1791605936576,
       "ship": 1791594897315,
-      "love": 1791606002452,
+      "love": 1791605973145,
       "femboy": 1791518260309,
       "gay": 1791605420862,
       "gacha": 1791518567005,
@@ -127948,9 +127948,9 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 43058,
+    "exp": 42938,
     "name": "👣",
-    "lastSeen": "2026-10-10T04:20:17.139Z",
+    "lastSeen": "2026-10-10T04:19:44.833Z",
     "cooldowns": {
       "top": 1791605664929,
       "menu": 1791588500851,
@@ -127959,7 +127959,7 @@
       "jadibot": 1791605491483,
       "gay": 1791551578706,
       "intro": 1791523445547,
-      "love": 1791606017375,
+      "love": 1791605985083,
       "pinter": 1791521240201,
       "bodoh": 1791605557208,
       "cantik": 1791521261630,
@@ -128331,6 +128331,12 @@
     "exp": 225,
     "energi": 99999
   },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128353,12 +128359,6 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 270,
-    "energi": 99999
-  },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
