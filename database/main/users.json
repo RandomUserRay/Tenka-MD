@@ -127859,7 +127859,7 @@
       "maxHealth": 160,
       "maxMana": 130,
       "maxStamina": 130,
-      "health": 105,
+      "health": 74,
       "mana": 53,
       "stamina": 76,
       "attack": 23,
@@ -127869,10 +127869,10 @@
       "bank": 87494,
       "enchants": {}
     },
-    "exp": 69895,
-    "energi": 99912,
+    "exp": 69910,
+    "energi": 99911,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:50:18.726Z",
+    "lastSeen": "2026-10-10T06:50:23.508Z",
     "cooldowns": {
       "menu": 1791614590162,
       "menucat": 1791614595980,
@@ -127899,7 +127899,7 @@
       "inventory": 1791612770535,
       "berburu": 1791565382348,
       "training": 1791614366531,
-      "adventure": 1791614275185,
+      "adventure": 1791615021984,
       "arena": 1791565527524,
       "mining": 1791613432921,
       "dungeon": 1791614393466,
@@ -127942,7 +127942,8 @@
       "upgrade": 1791614414014,
       "cool": 1791614568717,
       "transfer": 1791614899869,
-      "mancing": 1791614634923
+      "mancing": 1791614634923,
+      "treasure": 1791615023754
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -128009,9 +128010,9 @@
       "bank": 5000,
       "attack": 10
     },
-    "exp": 71905,
+    "exp": 74021,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:49:59.305Z",
+    "lastSeen": "2026-10-10T06:50:33.935Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128062,8 +128063,8 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
-    "energi": 99991,
+    "koin": 10399,
+    "energi": 99990,
     "inventory": {
       "rock": 5,
       "iron": 3,
