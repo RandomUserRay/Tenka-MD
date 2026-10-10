@@ -127859,7 +127859,7 @@
       "maxHealth": 170,
       "maxMana": 135,
       "maxStamina": 135,
-      "health": 105,
+      "health": 85,
       "mana": 53,
       "stamina": 41,
       "attack": 36,
@@ -127869,10 +127869,10 @@
       "bank": 123547,
       "enchants": {}
     },
-    "exp": 76089,
-    "energi": 99887,
+    "exp": 76104,
+    "energi": 99886,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T07:06:15.634Z",
+    "lastSeen": "2026-10-10T07:06:27.024Z",
     "cooldowns": {
       "menu": 1791615208379,
       "menucat": 1791615214982,
@@ -127948,11 +127948,12 @@
       "fishing": 1791615645442,
       "marry": 1791615222082,
       "woodcut": 1791615287222,
-      "heal": 1791615421448
+      "heal": 1791615421448,
+      "duel": 1791615989535
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 8000,
+    "koin": 7000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128014,13 +128015,13 @@
       "mana": 140,
       "stamina": 98,
       "guildId": "guild_1791568221406",
-      "bank": 34254,
+      "bank": 42254,
       "attack": 10,
       "luck": 8
     },
-    "exp": 80751,
+    "exp": 81266,
     "name": "👣",
-    "lastSeen": "2026-10-10T07:06:07.672Z",
+    "lastSeen": "2026-10-10T07:06:27.255Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128063,7 +128064,7 @@
       "mining": 1791615938888,
       "clanwar": 1791613579763,
       "maling": 1791615970692,
-      "bank": 1791615834878,
+      "bank": 1791615988762,
       "rest": 1791615611366,
       "dungeon": 1791615871702,
       "cool": 1791614571897,
@@ -128082,7 +128083,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 8000,
+    "koin": 0,
     "energi": 99973,
     "inventory": {
       "rock": 20,
