@@ -128015,21 +128015,9 @@
       "stamina": 105,
       "guildId": "guild_1791568221406",
       "bank": 0,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 29,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791614432643
-      }
+      "attack": 10
     },
-    "exp": 70497,
+    "exp": 70670,
     "name": "👣",
     "lastSeen": "2026-10-10T06:40:18.910Z",
     "cooldowns": {
@@ -128080,12 +128068,13 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 11000,
+    "koin": 11278,
     "energi": 99994,
     "inventory": {
       "rock": 5,
-      "iron": 2,
-      "gold": 1
+      "iron": 3,
+      "gold": 1,
+      "herb": 6
     }
   },
   "6281534003702": {
