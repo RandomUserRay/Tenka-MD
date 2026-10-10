@@ -112497,7 +112497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24900,
+    "exp": 24915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127191,19 +127191,20 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T08:44:19.526Z",
+    "lastSeen": "2026-10-10T08:45:07.268Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 150,
       "maxHealth": 150,
-      "stamina": 105,
+      "stamina": 70,
       "maxStamina": 125,
       "level": 6,
       "maxMana": 125,
-      "mana": 125
+      "mana": 125,
+      "bank": 0
     },
-    "exp": 50852,
+    "exp": 74744,
     "cooldowns": {
       "menucat": 1791606836227,
       "menu": 1791606832638,
@@ -127330,7 +127331,7 @@
       "fishing": 1791566152355,
       "inv": 1791621786126,
       "arena": 1791565499202,
-      "mining": 1791621710513,
+      "mining": 1791621884170,
       "sell": 1791607068985,
       "create": 1791565696081,
       "use": 1791565815763,
@@ -127348,11 +127349,14 @@
       "newbie": 1791606874688,
       "kiss": 1791606931548,
       "hug": 1791606977083,
-      "marry": 1791607038729
+      "marry": 1791607038729,
+      "mancing": 1791621872274,
+      "weekly": 1791621896492,
+      "bank": 1791621907544
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99968,
+    "energi": 99966,
     "koin": 59561,
     "inventory": {
       "potion": 2,
@@ -127360,10 +127364,12 @@
       "herb": 3,
       "rabbit": 1,
       "trash": 1,
-      "coal": 4,
-      "fish": 1,
-      "rock": 0,
-      "octopus": 0
+      "coal": 7,
+      "fish": 2,
+      "rock": 3,
+      "octopus": 0,
+      "gold": 1,
+      "uncommon": 3
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -127868,7 +127874,7 @@
       "maxHealth": 190,
       "maxMana": 145,
       "maxStamina": 145,
-      "health": 165,
+      "health": 132,
       "mana": 145,
       "stamina": 65,
       "attack": 42,
@@ -127879,10 +127885,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 94844,
-    "energi": 99843,
+    "exp": 94904,
+    "energi": 99842,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T08:44:24.529Z",
+    "lastSeen": "2026-10-10T08:44:33.202Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -127909,7 +127915,7 @@
       "inventory": 1791619555736,
       "berburu": 1791565382348,
       "training": 1791621579073,
-      "adventure": 1791619681483,
+      "adventure": 1791621876725,
       "arena": 1791565527524,
       "mining": 1791619911992,
       "dungeon": 1791618933708,
@@ -127939,7 +127945,7 @@
       "parkir": 1791616299309,
       "kurir": 1791619693003,
       "craft": 1791615167333,
-      "bank": 1791621712431,
+      "bank": 1791621866121,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128526,7 +128532,7 @@
   "6283179211339": {
     "jid": "6283179211339",
     "rpg": {},
-    "exp": 90,
+    "exp": 120,
     "energi": 99999
   },
   "62895402326761": {
