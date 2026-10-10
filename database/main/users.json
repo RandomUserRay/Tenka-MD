@@ -127191,7 +127191,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T08:54:29.214Z",
+    "lastSeen": "2026-10-10T08:55:29.039Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127207,10 +127207,10 @@
       "luck": 8,
       "lastHourly": 1791622227107
     },
-    "exp": 83079,
+    "exp": 83139,
     "cooldowns": {
-      "menucat": 1791606836227,
-      "menu": 1791606832638,
+      "menucat": 1791622509452,
+      "menu": 1791622503999,
       "allmenu": 1791606827376,
       "love": 1791606716481,
       "tebaknegara": 1791526896154,
@@ -127359,11 +127359,12 @@
       "guild": 1791622074969,
       "training": 1791622412504,
       "daily": 1791622210098,
-      "kurir": 1791622473280
+      "kurir": 1791622473280,
+      "ngojek": 1791622522379
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99958,
+    "energi": 99957,
     "koin": 0,
     "inventory": {
       "potion": 5,
@@ -127883,7 +127884,7 @@
       "maxStamina": 145,
       "health": 105,
       "mana": 53,
-      "stamina": 40,
+      "stamina": 20,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 13,
@@ -127892,10 +127893,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 97584,
+    "exp": 97983,
     "energi": 99837,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T08:54:00.896Z",
+    "lastSeen": "2026-10-10T08:55:11.526Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -127973,7 +127974,7 @@
       "woodcut": 1791619068063,
       "heal": 1791619037687,
       "duel": 1791615989535,
-      "streamer": 1791619804702,
+      "streamer": 1791622515744,
       "expedition": 1791619313005,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
@@ -127981,7 +127982,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 10623,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
