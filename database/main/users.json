@@ -127195,20 +127195,20 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T10:08:14.716Z",
+    "lastSeen": "2026-10-10T10:08:22.142Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 260,
       "maxHealth": 260,
-      "stamina": 145,
+      "stamina": 123,
       "maxStamina": 180,
       "level": 17,
       "maxMana": 180,
       "mana": 180,
       "bank": 1011489,
       "guildId": "guild_1791568221406",
-      "luck": 27,
+      "luck": 29,
       "lastHourly": 1791626816935,
       "garden": {
         "plots": [],
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 161161,
+    "exp": 161261,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127401,7 +127401,7 @@
       "parkir": 1791626640578,
       "pet": 1791624208842,
       "petshop": 1791624184544,
-      "train": 1791626721936,
+      "train": 1791626905200,
       "woodcut": 1791624261908,
       "stamina": 1791624442983,
       "casino": 1791626669790,
@@ -127417,7 +127417,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99858,
+    "energi": 99857,
     "koin": 94348,
     "inventory": {
       "potion": 4,
