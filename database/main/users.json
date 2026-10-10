@@ -127537,12 +127537,12 @@
       "guildId": "guild_1791568221406",
       "attack": 26,
       "defense": 8,
-      "bank": 0
+      "bank": 25576
     },
-    "exp": 18453,
+    "exp": 18468,
     "energi": 99957,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T11:27:08.691Z",
+    "lastSeen": "2026-10-10T11:27:33.425Z",
     "cooldowns": {
       "top": 1791631534805,
       "ship": 1791594897315,
@@ -127591,7 +127591,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 25576,
+    "koin": 0,
     "inventory": {
       "iron": 2,
       "leather": 5
@@ -127837,7 +127837,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 9615,
+    "exp": 9630,
     "energi": 99997,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-10T11:25:58.134Z",
@@ -127987,7 +127987,7 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 146250,
+    "exp": 146280,
     "energi": 99775,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T11:27:12.291Z",
