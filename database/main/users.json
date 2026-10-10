@@ -127861,7 +127861,7 @@
       "maxStamina": 130,
       "health": 105,
       "mana": 53,
-      "stamina": 51,
+      "stamina": 36,
       "attack": 23,
       "guildId": "guild_1791568221406",
       "luck": 8,
@@ -127869,10 +127869,10 @@
       "bank": 86730,
       "enchants": {}
     },
-    "exp": 69235,
-    "energi": 99915,
+    "exp": 69260,
+    "energi": 99914,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:43:34.855Z",
+    "lastSeen": "2026-10-10T06:43:49.422Z",
     "cooldowns": {
       "menu": 1791614590162,
       "menucat": 1791614595980,
@@ -127941,7 +127941,8 @@
       "buyfitur": 1791614231385,
       "upgrade": 1791614414014,
       "cool": 1791614568717,
-      "transfer": 1791614615137
+      "transfer": 1791614615137,
+      "mancing": 1791614634923
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -127968,7 +127969,8 @@
       "common": 0,
       "bear": 1,
       "rabbit": 5,
-      "diamond": 1
+      "diamond": 1,
+      "trash": 1
     },
     "quest": {
       "adventure3": {
@@ -128007,9 +128009,9 @@
       "bank": 0,
       "attack": 10
     },
-    "exp": 71620,
+    "exp": 71635,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:43:33.327Z",
+    "lastSeen": "2026-10-10T06:43:54.472Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
