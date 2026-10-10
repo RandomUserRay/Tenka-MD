@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117602043,
+    "exp": 117601998,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3317,7 +3317,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32204,
+    "exp": 32159,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96655,7 +96655,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26648,
+    "exp": 26633,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -127185,31 +127185,19 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T04:38:48.266Z",
+    "lastSeen": "2026-10-10T04:41:31.910Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 105,
+      "health": 65,
       "maxHealth": 140,
-      "stamina": 3,
+      "stamina": 57,
       "maxStamina": 120,
       "level": 5,
       "maxMana": 120,
-      "mana": 53,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 26,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791607133739
-      }
+      "mana": 53
     },
-    "exp": 49386,
+    "exp": 49791,
     "cooldowns": {
       "menucat": 1791606836227,
       "menu": 1791606832638,
@@ -127234,7 +127222,7 @@
       "bratpatrick": 1791468927569,
       "tutup": 1791468947891,
       "pakustad": 1791478520148,
-      "me": 1791566708686,
+      "me": 1791607217829,
       "inspect": 1791469237168,
       "game": 1791519292288,
       "terima": 1791469398407,
@@ -127282,7 +127270,7 @@
       "sendbug": 1791473015016,
       "adventure": 1791565454418,
       "hunt": 1791473061192,
-      "rest": 1791566203872,
+      "rest": 1791607251223,
       "cooking": 1791565261985,
       "bratcewek": 1791475035889,
       "welcome": 1791518194045,
@@ -127347,7 +127335,7 @@
       "clancreate": 1791566319049,
       "trap": 1791566407575,
       "maling": 1791566542560,
-      "rob": 1791566565920,
+      "rob": 1791607270758,
       "cekkaya": 1791606801433,
       "perawan": 1791606848986,
       "pintar": 1791606860049,
@@ -127358,8 +127346,8 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99971,
-    "koin": 15127,
+    "energi": 99970,
+    "koin": 13847,
     "inventory": {
       "potion": 2,
       "iron": 11,
@@ -127444,14 +127432,14 @@
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
-      "health": 110,
+      "health": 85,
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12525,
-    "energi": 99989,
+    "exp": 12585,
+    "energi": 99988,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T04:38:27.653Z",
+    "lastSeen": "2026-10-10T04:41:34.125Z",
     "cooldowns": {
       "top": 1791606842699,
       "ship": 1791594897315,
@@ -127479,21 +127467,22 @@
       "cekkaya": 1791606807640,
       "cekpacar": 1791606914931,
       "kiss": 1791607109748,
-      "hug": 1791606993918
+      "hug": 1791606993918,
+      "rob": 1791607297170
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 1559
+    "koin": 0
   },
   "6289679569897": {
     "jid": "6289679569897",
     "rpg": {},
-    "exp": 9165,
+    "exp": 9240,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
-    "lastSeen": "2026-10-10T04:38:46.824Z",
+    "lastSeen": "2026-10-10T04:41:32.142Z",
     "cooldowns": {
-      "top": 1791607127619,
+      "top": 1791607292633,
       "love": 1791606818378,
       "cekpintar": 1791597516633,
       "pintar": 1791606913843,
@@ -128357,12 +128346,6 @@
     "exp": 225,
     "energi": 99999
   },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128385,6 +128368,12 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 270,
+    "energi": 99999
+  },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
@@ -128471,6 +128460,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285122141618": {
+    "jid": "6285122141618",
+    "rpg": {},
+    "exp": 15
+  },
   "919405192321": {
     "jid": "919405192321",
     "rpg": {},
@@ -128479,11 +128473,6 @@
   "6285188512432": {
     "jid": "6285188512432",
     "rpg": {},
-    "exp": 75
-  },
-  "6285122141618": {
-    "jid": "6285122141618",
-    "rpg": {},
-    "exp": 15
+    "exp": 60
   }
 }
