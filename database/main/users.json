@@ -43210,12 +43210,12 @@
   },
   "6282256693533": {
     "jid": "6282256693533",
-    "name": "肖恩·诺埃尔",
+    "name": "seannoel",
     "number": "6282256693533",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5760,
+    "exp": 5790,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43224,12 +43224,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T08:06:26.758Z",
+    "lastSeen": "2026-10-10T16:02:34.587Z",
     "cooldowns": {
       "truth": 1783430463613,
       "play": 1783430212997,
       "simi": 1783432086480,
-      "afk": 1790237190579
+      "afk": 1791648155566
     },
     "clanId": null,
     "isRegistered": false,
@@ -43240,8 +43240,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 3
   },
   "6285812363410": {
     "jid": "6285812363410",
@@ -128013,15 +128013,15 @@
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 36,
-      "lastHourly": 1791633904467,
+      "lastHourly": 1791648157863,
       "bank": 23260,
       "enchants": {},
       "expeditions": []
     },
-    "exp": 176014,
+    "exp": 177164,
     "energi": 99760,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T16:01:18.849Z",
+    "lastSeen": "2026-10-10T16:02:37.863Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791633808579,
@@ -128118,7 +128118,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 1000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128887,7 +128887,7 @@
   "6285719427260": {
     "jid": "6285719427260",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6288221307500": {
     "name": "Ryusei Martabak manis 🤤",
