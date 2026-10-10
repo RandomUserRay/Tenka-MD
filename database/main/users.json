@@ -127193,7 +127193,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:37:47.028Z",
+    "lastSeen": "2026-10-10T09:37:59.929Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127220,9 +127220,10 @@
         "exp": 0,
         "hunger": 80,
         "stats": null
-      }
+      },
+      "expeditions": []
     },
-    "exp": 115738,
+    "exp": 115753,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127403,7 +127404,8 @@
       "stamina": 1791624442983,
       "casino": 1791624486324,
       "clan": 1791624781507,
-      "streamer": 1791625028251
+      "streamer": 1791625028251,
+      "expedition": 1791625080104
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
@@ -127517,21 +127519,9 @@
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 19,
-      "defense": 8,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 13,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791625066085
-      }
+      "defense": 8
     },
-    "exp": 16567,
+    "exp": 16762,
     "energi": 99963,
     "name": "Virberzo",
     "lastSeen": "2026-10-10T09:37:40.952Z",
@@ -127578,8 +127568,11 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 11417,
-    "inventory": {}
+    "koin": 11534,
+    "inventory": {
+      "iron": 2,
+      "leather": 5
+    }
   },
   "6289679569897": {
     "jid": "6289679569897",
