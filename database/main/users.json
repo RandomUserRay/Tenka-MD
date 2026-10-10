@@ -26874,7 +26874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720078,
+    "exp": 720108,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -26883,7 +26883,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T10:45:26.695Z",
+    "lastSeen": "2026-10-10T16:00:41.003Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -27086,7 +27086,8 @@
       "stacktower": 1788223768137,
       "tovideo": 1788348764568,
       "jadwaltidur": 1789679648300,
-      "jadwalmakan": 1789679749064
+      "jadwalmakan": 1789679749064,
+      "putus": 1791648041073
     },
     "clanId": null,
     "isRegistered": false,
@@ -27105,7 +27106,6 @@
     "inventory": {},
     "access": [],
     "fun": {
-      "pasangan": "6285187171485@s.whatsapp.net",
       "jadiPacar": 1782822063008
     },
     "birthday": "21-12",
@@ -27113,8 +27113,8 @@
       "levelupNotif": true
     },
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 17
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 18
   },
   "6281808207155": {
     "jid": "6281808207155",
@@ -28924,7 +28924,6 @@
     "access": [],
     "fun": {
       "tembakCount": 2,
-      "pasangan": "6288804612621@s.whatsapp.net",
       "jadiPacar": 1782822063008,
       "terimaCount": 1
     },
@@ -128425,7 +128424,7 @@
   "6283874532450": {
     "jid": "6283874532450",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999
   },
   "6285784825794": {
