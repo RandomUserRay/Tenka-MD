@@ -127875,21 +127875,9 @@
       "luck": 10,
       "lastHourly": 1791616067991,
       "bank": 219087,
-      "enchants": {},
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 14,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791616915602
-      }
+      "enchants": {}
     },
-    "exp": 85322,
+    "exp": 85582,
     "energi": 99871,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T07:21:47.972Z",
@@ -127974,7 +127962,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 2000,
+    "koin": 2127,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
