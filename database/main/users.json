@@ -482,7 +482,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117602223,
+    "exp": 117602238,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -28296,7 +28296,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392493,
+    "exp": 392538,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -33856,7 +33856,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91934,
+    "exp": 91949,
     "level": 1,
     "koin": 350592,
     "unlockedFeatures": [],
@@ -40511,7 +40511,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69450,
+    "exp": 69480,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -47896,7 +47896,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 561443,
+    "exp": 561458,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -54498,7 +54498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18681,
+    "exp": 18711,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -104988,7 +104988,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6705,
+    "exp": 6675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128655,6 +128655,12 @@
     "exp": 240,
     "energi": 99999
   },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128677,12 +128683,6 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 315,
-    "energi": 99999
-  },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
@@ -128769,11 +128769,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6285122141618": {
-    "jid": "6285122141618",
-    "rpg": {},
-    "exp": 15
-  },
   "919405192321": {
     "jid": "919405192321",
     "rpg": {},
@@ -128783,6 +128778,11 @@
     "jid": "6285188512432",
     "rpg": {},
     "exp": 60
+  },
+  "6285122141618": {
+    "jid": "6285122141618",
+    "rpg": {},
+    "exp": 15
   },
   "6281252191524": {
     "jid": "6281252191524",
@@ -128799,15 +128799,15 @@
     "rpg": {},
     "exp": 15
   },
-  "62895403944053": {
-    "jid": "62895403944053",
-    "rpg": {},
-    "exp": 135
-  },
   "628176892100": {
     "jid": "628176892100",
     "rpg": {},
     "exp": 15
+  },
+  "62895403944053": {
+    "jid": "62895403944053",
+    "rpg": {},
+    "exp": 135
   },
   "6282364343199": {
     "name": "Irene Rally Vincent",
