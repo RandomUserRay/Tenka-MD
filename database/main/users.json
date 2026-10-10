@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1050,
+    "exp": 1035,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1592,7 +1592,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 313482,
+    "exp": 313467,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -3317,7 +3317,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32174,
+    "exp": 32159,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -26652,7 +26652,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176751,
+    "exp": 176796,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -105031,7 +105031,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2610,
+    "exp": 2625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109937,7 +109937,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8400,
+    "exp": 8475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112110,7 +112110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237707,
+    "exp": 237737,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112359,7 +112359,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74790,
+    "exp": 74835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123845,7 +123845,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 4380,
+    "exp": 4455,
     "energi": 99999,
     "name": "TIPIS TIPIS🤏💥💫",
     "lastSeen": "2026-10-08T15:19:22.208Z",
@@ -128156,7 +128156,7 @@
       "attack": 10,
       "luck": 13
     },
-    "exp": 121393,
+    "exp": 121468,
     "name": "👣",
     "lastSeen": "2026-10-10T10:29:39.868Z",
     "cooldowns": {
@@ -128621,12 +128621,6 @@
     "exp": 225,
     "energi": 99999
   },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128649,6 +128643,12 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 285,
+    "energi": 99999
+  },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
@@ -128735,6 +128735,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285122141618": {
+    "jid": "6285122141618",
+    "rpg": {},
+    "exp": 15
+  },
   "919405192321": {
     "jid": "919405192321",
     "rpg": {},
@@ -128744,11 +128749,6 @@
     "jid": "6285188512432",
     "rpg": {},
     "exp": 60
-  },
-  "6285122141618": {
-    "jid": "6285122141618",
-    "rpg": {},
-    "exp": 15
   },
   "6281252191524": {
     "jid": "6281252191524",
@@ -128765,27 +128765,9 @@
     "rpg": {},
     "exp": 15
   },
-  "628176892100": {
-    "jid": "628176892100",
-    "rpg": {},
-    "exp": 15
-  },
   "62895403944053": {
     "jid": "62895403944053",
     "rpg": {},
     "exp": 135
-  },
-  "6282364343199": {
-    "name": "Irene Rally Vincent",
-    "lastSeen": "2026-10-10T09:57:31.592Z",
-    "jid": "6282364343199",
-    "rpg": {},
-    "exp": 45,
-    "cooldowns": {
-      "play": 1791626276675
-    },
-    "energi": 23,
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 1
   }
 }
