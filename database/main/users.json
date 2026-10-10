@@ -7276,10 +7276,10 @@
     "jid": "6283196442568",
     "name": "cìko",
     "number": "6283196442568",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14750,
+    "exp": 14765,
     "level": 1,
     "koin": 1018499,
     "unlockedFeatures": [],
@@ -7288,7 +7288,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T22:38:52.514Z",
+    "lastSeen": "2026-10-10T06:37:56.199Z",
     "cooldowns": {
       "femboy": 1781183141177,
       "gay": 1780158137165,
@@ -7304,7 +7304,7 @@
       "afk": 1781969570659,
       "menu": 1791183946430,
       "allmenu": 1780408509946,
-      "tt": 1791412734378,
+      "tt": 1791614278966,
       "tt2": 1790838363450,
       "tiktok2": 1780813547206,
       "menucat": 1791183950657,
@@ -7352,8 +7352,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 22
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 23
   },
   "6285123878040": {
     "name": "⋆. 𐙚˚࿔ 𝒌𝒆𝒚 𝜗𝜚˚⋆",
@@ -112355,7 +112355,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74115,
+    "exp": 74100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127861,7 +127861,7 @@
       "maxStamina": 130,
       "health": 91,
       "mana": 53,
-      "stamina": 52,
+      "stamina": 67,
       "attack": 23,
       "guildId": "guild_1791568221406",
       "luck": 8,
@@ -127869,10 +127869,10 @@
       "bank": 65825,
       "enchants": {}
     },
-    "exp": 67582,
-    "energi": 99920,
+    "exp": 67227,
+    "energi": 99922,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:37:37.584Z",
+    "lastSeen": "2026-10-10T06:36:01.289Z",
     "cooldowns": {
       "menu": 1791613254752,
       "menucat": 1791613414732,
@@ -127913,10 +127913,10 @@
       "rest": 1791613457644,
       "lottery": 1791587809574,
       "gacha": 1791610535097,
-      "maling": 1791614252145,
+      "maling": 1791613627217,
       "rob": 1791613641140,
       "me": 1791613904631,
-      "mulung": 1791614261315,
+      "mulung": 1791613481479,
       "steal": 1791568122011,
       "weekly": 1791568147611,
       "money": 1791613816716,
@@ -127938,11 +127938,11 @@
       "robloxplayer": 1791611801104,
       "levelup": 1791611859472,
       "enchant": 1791612854560,
-      "buyfitur": 1791614231385
+      "buyfitur": 1791614161884
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 8569,
+    "koin": 3000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127955,11 +127955,11 @@
       "iron": 10,
       "wood": 6,
       "potion": 8,
-      "botol": 24,
-      "kaleng": 15,
-      "kardus": 5,
-      "sampah": 17,
-      "koran": 6,
+      "botol": 16,
+      "kaleng": 10,
+      "kardus": 4,
+      "sampah": 16,
+      "koran": 4,
       "uncommon": 1,
       "stamina": 1,
       "common": 0,
@@ -127985,8 +127985,7 @@
     "unlockedFeatures": [
       "game",
       "tools",
-      "downloader",
-      "sticker"
+      "downloader"
     ]
   },
   "628137819779": {
@@ -128003,9 +128002,9 @@
       "guildId": "guild_1791568221406",
       "bank": 0
     },
-    "exp": 70362,
+    "exp": 70147,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:37:47.967Z",
+    "lastSeen": "2026-10-10T06:35:23.006Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128047,13 +128046,13 @@
       "guild": 1791613141097,
       "mining": 1791613427791,
       "clanwar": 1791613579763,
-      "maling": 1791614270931,
+      "maling": 1791613648086,
       "bank": 1791614123330
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 11000,
-    "energi": 99995,
+    "koin": 3000,
+    "energi": 99996,
     "inventory": {
       "rock": 5,
       "iron": 2,
@@ -128418,6 +128417,12 @@
     "exp": 225,
     "energi": 99999
   },
+  "60173328973": {
+    "jid": "60173328973",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
@@ -128440,12 +128445,6 @@
     "jid": "6282190555784",
     "rpg": {},
     "exp": 270,
-    "energi": 99999
-  },
-  "60173328973": {
-    "jid": "60173328973",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6289654046550": {
@@ -128532,11 +128531,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6285122141618": {
-    "jid": "6285122141618",
-    "rpg": {},
-    "exp": 15
-  },
   "919405192321": {
     "jid": "919405192321",
     "rpg": {},
@@ -128546,6 +128540,11 @@
     "jid": "6285188512432",
     "rpg": {},
     "exp": 60
+  },
+  "6285122141618": {
+    "jid": "6285122141618",
+    "rpg": {},
+    "exp": 15
   },
   "6281252191524": {
     "jid": "6281252191524",
