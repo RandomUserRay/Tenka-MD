@@ -127869,10 +127869,10 @@
       "bank": 71825,
       "enchants": {}
     },
-    "exp": 67107,
+    "exp": 67122,
     "energi": 99922,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:34:07.531Z",
+    "lastSeen": "2026-10-10T06:34:25.515Z",
     "cooldowns": {
       "menu": 1791613254752,
       "menucat": 1791613414732,
@@ -127938,11 +127938,11 @@
       "robloxplayer": 1791611801104,
       "levelup": 1791611859472,
       "enchant": 1791612854560,
-      "buyfitur": 1791614048003
+      "buyfitur": 1791614066046
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 3000,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127983,7 +127983,8 @@
       "levelupNotif": true
     },
     "unlockedFeatures": [
-      "game"
+      "game",
+      "tools"
     ]
   },
   "628137819779": {
@@ -127999,9 +128000,9 @@
       "stamina": 135,
       "guildId": "guild_1791568221406"
     },
-    "exp": 70057,
+    "exp": 70072,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:32:21.225Z",
+    "lastSeen": "2026-10-10T06:34:28.787Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128037,7 +128038,7 @@
       "koin": 1791612081306,
       "weekly": 1791612054190,
       "daily": 1791612090742,
-      "money": 1791613941967,
+      "money": 1791614069036,
       "susunkata": 1791612418936,
       "tekateki": 1791612554594,
       "guild": 1791613141097,
