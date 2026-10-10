@@ -127208,7 +127208,7 @@
       "mana": 165,
       "bank": 928072,
       "guildId": "guild_1791568221406",
-      "luck": 20,
+      "luck": 21,
       "lastHourly": 1791622227107,
       "garden": {
         "plots": [],
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 139795,
+    "exp": 139880,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127401,7 +127401,7 @@
       "parkir": 1791625863383,
       "pet": 1791624208842,
       "petshop": 1791624184544,
-      "train": 1791625687563,
+      "train": 1791625952818,
       "woodcut": 1791624261908,
       "stamina": 1791624442983,
       "casino": 1791624486324,
@@ -127415,7 +127415,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99888,
-    "koin": 0,
+    "koin": 70000,
     "inventory": {
       "potion": 4,
       "iron": 1,
@@ -127975,10 +127975,10 @@
         }
       ]
     },
-    "exp": 133684,
+    "exp": 133699,
     "energi": 99801,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:52:21.937Z",
+    "lastSeen": "2026-10-10T09:52:33.827Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128047,7 +128047,7 @@
       "buyfitur": 1791614231385,
       "upgrade": 1791614414014,
       "cool": 1791614568717,
-      "transfer": 1791625886603,
+      "transfer": 1791625954122,
       "mancing": 1791624647532,
       "treasure": 1791619078130,
       "boss": 1791615038465,
@@ -128072,7 +128072,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 72603,
+    "koin": 2603,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
