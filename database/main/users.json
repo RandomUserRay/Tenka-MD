@@ -127191,7 +127191,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:18:39.137Z",
+    "lastSeen": "2026-10-10T09:19:00.813Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127212,7 +127212,7 @@
       },
       "enchants": {}
     },
-    "exp": 94082,
+    "exp": 94112,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127379,12 +127379,13 @@
       "garden": 1791623843168,
       "berburu": 1791623861049,
       "divorce": 1791623868096,
-      "enchant": 1791623877566
+      "enchant": 1791623877566,
+      "coinflip": 1791623943446
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99920,
-    "koin": 23009,
+    "energi": 99918,
+    "koin": 22009,
     "inventory": {
       "potion": 5,
       "iron": 0,
@@ -128073,21 +128074,21 @@
     "jid": "628137819779",
     "rpg": {
       "lastHourly": 1791612107067,
-      "level": 9,
-      "maxHealth": 180,
-      "maxMana": 140,
-      "maxStamina": 140,
-      "health": 50,
-      "mana": 53,
-      "stamina": 14,
+      "level": 10,
+      "maxHealth": 190,
+      "maxMana": 145,
+      "maxStamina": 145,
+      "health": 190,
+      "mana": 145,
+      "stamina": 145,
       "guildId": "guild_1791568221406",
       "bank": 130146,
       "attack": 10,
       "luck": 12
     },
-    "exp": 89977,
+    "exp": 90052,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:18:10.892Z",
+    "lastSeen": "2026-10-10T09:19:02.243Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
