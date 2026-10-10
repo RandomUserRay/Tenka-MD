@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:04:03.150Z",
+    "lastSeen": "2026-10-10T09:04:14.037Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 75,
       "maxHealth": 150,
-      "stamina": 19,
+      "stamina": 4,
       "maxStamina": 125,
       "level": 6,
       "maxMana": 125,
@@ -127207,7 +127207,7 @@
       "luck": 9,
       "lastHourly": 1791622227107
     },
-    "exp": 86470,
+    "exp": 86495,
     "cooldowns": {
       "menucat": 1791622673432,
       "menu": 1791622665080,
@@ -127368,14 +127368,14 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99946,
+    "energi": 99945,
     "koin": 0,
     "inventory": {
       "potion": 5,
       "iron": 14,
       "herb": 3,
       "rabbit": 2,
-      "trash": 0,
+      "trash": 1,
       "coal": 10,
       "fish": 2,
       "rock": 10,
@@ -128054,9 +128054,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 85582,
+    "exp": 85597,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:03:55.538Z",
+    "lastSeen": "2026-10-10T09:04:12.633Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
