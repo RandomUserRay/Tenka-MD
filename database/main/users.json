@@ -127591,7 +127591,7 @@
   "6285714370329": {
     "jid": "6285714370329",
     "rpg": {},
-    "exp": 645,
+    "exp": 660,
     "name": "KAMILZ",
     "lastSeen": "2026-10-08T14:01:56.211Z",
     "cooldowns": {
@@ -127867,12 +127867,16 @@
       "luck": 10,
       "lastHourly": 1791610544240,
       "bank": 103254,
-      "enchants": {}
+      "enchants": {},
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791615446775
+      }
     },
-    "exp": 73346,
+    "exp": 73361,
     "energi": 99898,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:57:19.786Z",
+    "lastSeen": "2026-10-10T06:57:26.775Z",
     "cooldowns": {
       "menu": 1791615208379,
       "menucat": 1791615214982,
@@ -127899,7 +127903,7 @@
       "inventory": 1791612770535,
       "berburu": 1791565382348,
       "training": 1791615193161,
-      "adventure": 1791615021984,
+      "adventure": 1791615443134,
       "arena": 1791565527524,
       "mining": 1791615149442,
       "dungeon": 1791615116984,
