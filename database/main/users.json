@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:23:41.857Z",
+    "lastSeen": "2026-10-10T09:24:05.748Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 200,
       "maxHealth": 200,
-      "stamina": 106,
+      "stamina": 57,
       "maxStamina": 150,
       "level": 11,
       "maxMana": 150,
@@ -127220,7 +127220,7 @@
         "stats": null
       }
     },
-    "exp": 100368,
+    "exp": 102328,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127372,7 +127372,7 @@
       "guild": 1791622074969,
       "training": 1791624154644,
       "daily": 1791622210098,
-      "kurir": 1791624025982,
+      "kurir": 1791624232179,
       "ngojek": 1791624049025,
       "heal": 1791623984626,
       "treasure": 1791622690419,
@@ -127389,18 +127389,19 @@
       "divorce": 1791623868096,
       "enchant": 1791623877566,
       "coinflip": 1791623943446,
-      "ngamen": 1791624030937,
-      "nambalban": 1791624036342,
+      "ngamen": 1791624235759,
+      "nambalban": 1791624248966,
       "lottery": 1791624071311,
       "nyapu": 1791624125514,
       "parkir": 1791624131983,
       "pet": 1791624208842,
-      "petshop": 1791624184544
+      "petshop": 1791624184544,
+      "train": 1791624224707
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99911,
-    "koin": 83630,
+    "koin": 113958,
     "inventory": {
       "potion": 5,
       "iron": 0,
@@ -127941,14 +127942,14 @@
       "guildId": "guild_1791568221406",
       "luck": 17,
       "lastHourly": 1791616067991,
-      "bank": 310241,
+      "bank": 339315,
       "enchants": {},
       "expeditions": []
     },
-    "exp": 120135,
+    "exp": 120195,
     "energi": 99821,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:23:03.445Z",
+    "lastSeen": "2026-10-10T09:24:00.268Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -128005,7 +128006,7 @@
       "parkir": 1791622976162,
       "kurir": 1791622960019,
       "craft": 1791615167333,
-      "bank": 1791623228002,
+      "bank": 1791624242025,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128036,7 +128037,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 29074,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
