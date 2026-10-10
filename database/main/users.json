@@ -127875,12 +127875,16 @@
       "luck": 10,
       "lastHourly": 1791616067991,
       "bank": 240426,
-      "enchants": {}
+      "enchants": {},
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791618933440
+      }
     },
-    "exp": 87022,
-    "energi": 99869,
+    "exp": 87636,
+    "energi": 99868,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T07:24:58.957Z",
+    "lastSeen": "2026-10-10T07:55:33.440Z",
     "cooldowns": {
       "menu": 1791616079414,
       "menucat": 1791616084542,
@@ -127907,10 +127911,10 @@
       "inventory": 1791616484662,
       "berburu": 1791565382348,
       "training": 1791616981649,
-      "adventure": 1791616787670,
+      "adventure": 1791618927398,
       "arena": 1791565527524,
       "mining": 1791616900157,
-      "dungeon": 1791616908287,
+      "dungeon": 1791618933708,
       "stamina": 1791615297311,
       "create": 1791568170576,
       "coinflip": 1791565761601,
@@ -127962,7 +127966,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 2139,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
