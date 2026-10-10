@@ -127720,7 +127720,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 9000,
+    "exp": 9015,
     "energi": 99997,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-10T06:10:16.630Z",
@@ -127866,13 +127866,13 @@
       "guildId": "guild_1791568221406",
       "luck": 10,
       "lastHourly": 1791610544240,
-      "bank": 87494,
+      "bank": 103254,
       "enchants": {}
     },
-    "exp": 72881,
+    "exp": 72896,
     "energi": 99900,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:55:14.130Z",
+    "lastSeen": "2026-10-10T06:55:34.402Z",
     "cooldowns": {
       "menu": 1791615208379,
       "menucat": 1791615214982,
@@ -127929,7 +127929,7 @@
       "parkir": 1791614476708,
       "kurir": 1791569192442,
       "craft": 1791615167333,
-      "bank": 1791614941147,
+      "bank": 1791615336158,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -127951,7 +127951,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 15760,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128011,15 +128011,15 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 28,
+      "stamina": 18,
       "guildId": "guild_1791568221406",
       "bank": 5000,
       "attack": 10,
       "luck": 7
     },
-    "exp": 75263,
+    "exp": 75473,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:55:18.303Z",
+    "lastSeen": "2026-10-10T06:55:35.569Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128072,11 +128072,12 @@
       "craft": 1791615171611,
       "training": 1791615206528,
       "marry": 1791615230452,
-      "steal": 1791615265764
+      "steal": 1791615265764,
+      "work": 1791615339105
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 30399,
+    "koin": 32201,
     "energi": 99983,
     "inventory": {
       "rock": 7,
