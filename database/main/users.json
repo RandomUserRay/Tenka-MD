@@ -127195,13 +127195,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T11:01:06.907Z",
+    "lastSeen": "2026-10-10T11:01:18.282Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 270,
       "maxHealth": 270,
-      "stamina": 116,
+      "stamina": 81,
       "maxStamina": 185,
       "level": 18,
       "maxMana": 185,
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 172358,
+    "exp": 172512,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127352,7 +127352,7 @@
       "fishing": 1791566152355,
       "inv": 1791627079345,
       "arena": 1791565499202,
-      "mining": 1791626968744,
+      "mining": 1791630080179,
       "sell": 1791607068985,
       "create": 1791565696081,
       "use": 1791624562426,
@@ -127418,14 +127418,14 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99845,
+    "energi": 99843,
     "koin": 50000,
     "inventory": {
       "potion": 4,
       "iron": 2,
       "herb": 3,
       "rabbit": 4,
-      "trash": 4,
+      "trash": 5,
       "coal": 2,
       "fish": 0,
       "rock": 20,
@@ -127443,7 +127443,7 @@
       "kaleng": 7,
       "kardus": 2,
       "sampah": 8,
-      "diamond": 0
+      "diamond": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
