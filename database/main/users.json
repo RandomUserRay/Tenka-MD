@@ -47888,13 +47888,13 @@
   },
   "6282142632981": {
     "name": "Yumnaadinyakiaramaandpeya",
-    "lastSeen": "2026-10-10T07:36:01.348Z",
+    "lastSeen": "2026-10-10T07:36:17.939Z",
     "jid": "6282142632981",
     "number": "6282142632981",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 561008,
+    "exp": 561038,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -128606,5 +128606,10 @@
     "jid": "62882015580012",
     "rpg": {},
     "exp": 30
+  },
+  "6285123960385": {
+    "jid": "6285123960385",
+    "rpg": {},
+    "exp": 15
   }
 }
