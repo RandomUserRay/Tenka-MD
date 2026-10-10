@@ -26874,7 +26874,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720198,
+    "exp": 720228,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -43215,7 +43215,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5820,
+    "exp": 5850,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48198,7 +48198,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17621,
+    "exp": 17636,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -101935,7 +101935,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1740,
+    "exp": 1755,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101945,11 +101945,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T15:57:45.350Z",
+    "lastSeen": "2026-10-10T16:03:10.354Z",
     "cooldowns": {
       "menu": 1791646517928,
       "brat": 1791647861133,
-      "bratimg": 1791647867215
+      "bratimg": 1791647867215,
+      "afk": 1791648191427
     },
     "clanId": null,
     "isRegistered": false,
@@ -128018,7 +128019,7 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 177164,
+    "exp": 177314,
     "energi": 99760,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T16:02:37.863Z",
@@ -128424,7 +128425,7 @@
   "6283874532450": {
     "jid": "6283874532450",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "energi": 99999
   },
   "6285784825794": {
@@ -128887,7 +128888,7 @@
   "6285719427260": {
     "jid": "6285719427260",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   },
   "6288221307500": {
     "name": "Ryusei Martabak manis 🤤",
