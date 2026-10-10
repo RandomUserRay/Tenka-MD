@@ -112355,7 +112355,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74145,
+    "exp": 74205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127869,13 +127869,13 @@
       "bank": 86730,
       "enchants": {}
     },
-    "exp": 69115,
+    "exp": 69235,
     "energi": 99915,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:41:25.598Z",
+    "lastSeen": "2026-10-10T06:43:34.855Z",
     "cooldowns": {
-      "menu": 1791613254752,
-      "menucat": 1791613414732,
+      "menu": 1791614590162,
+      "menucat": 1791614595980,
       "cekfemboy": 1791520088280,
       "jadibot": 1791520332929,
       "owner": 1791527084629,
@@ -127939,7 +127939,9 @@
       "levelup": 1791611859472,
       "enchant": 1791612854560,
       "buyfitur": 1791614231385,
-      "upgrade": 1791614414014
+      "upgrade": 1791614414014,
+      "cool": 1791614568717,
+      "transfer": 1791614615137
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -128000,19 +128002,19 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 105,
+      "stamina": 90,
       "guildId": "guild_1791568221406",
       "bank": 0,
       "attack": 10
     },
-    "exp": 70715,
+    "exp": 71620,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:41:58.395Z",
+    "lastSeen": "2026-10-10T06:43:33.327Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
       "owner": 1791528004822,
-      "menucat": 1791613567142,
+      "menucat": 1791614600434,
       "jadibot": 1791605491483,
       "gay": 1791551578706,
       "intro": 1791523445547,
@@ -128053,17 +128055,19 @@
       "bank": 1791614123330,
       "rest": 1791614311013,
       "dungeon": 1791614419210,
-      "cool": 1791614518655
+      "cool": 1791614571897,
+      "fishing": 1791614618382
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
     "koin": 11278,
-    "energi": 99994,
+    "energi": 99993,
     "inventory": {
       "rock": 5,
       "iron": 3,
       "gold": 1,
-      "herb": 6
+      "herb": 6,
+      "shark": 1
     }
   },
   "6281534003702": {
