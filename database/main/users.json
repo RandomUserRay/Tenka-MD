@@ -127856,18 +127856,14 @@
       "maxStamina": 130,
       "health": 160,
       "mana": 130,
-      "stamina": 88,
+      "stamina": 58,
       "attack": 21,
       "guildId": "guild_1791568221406",
       "luck": 8,
       "lastHourly": 1791569032738,
-      "bank": 43924,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791610420786
-      }
+      "bank": 43924
     },
-    "exp": 62856,
+    "exp": 63115,
     "energi": 99944,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T05:33:40.786Z",
@@ -127932,7 +127928,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 18662,
+    "koin": 18867,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127940,9 +127936,9 @@
       "rock": 5,
       "coal": 13,
       "gold": 2,
-      "herb": 5,
+      "herb": 10,
       "leather": 8,
-      "iron": 6,
+      "iron": 7,
       "wood": 6,
       "potion": 6,
       "botol": 7,
