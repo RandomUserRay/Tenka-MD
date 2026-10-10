@@ -112110,7 +112110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237572,
+    "exp": 237587,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112120,7 +112120,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T09:37:36.506Z",
+    "lastSeen": "2026-10-10T09:40:04.722Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112286,7 +112286,8 @@
       "music": 1791121457442,
       "music2": 1791121464746,
       "buka": 1791371364653,
-      "groupinfo": 1791625058240
+      "groupinfo": 1791625058240,
+      "listadmin": 1791625204782
     },
     "clanId": null,
     "isRegistered": false,
@@ -127954,7 +127955,7 @@
       "maxStamina": 160,
       "health": 187,
       "mana": 160,
-      "stamina": 44,
+      "stamina": 24,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 20,
@@ -127963,10 +127964,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 124512,
+    "exp": 124542,
     "energi": 99806,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:39:23.683Z",
+    "lastSeen": "2026-10-10T09:40:09.642Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128044,7 +128045,7 @@
       "woodcut": 1791619068063,
       "heal": 1791624739406,
       "duel": 1791615989535,
-      "streamer": 1791624578623,
+      "streamer": 1791625214207,
       "expedition": 1791625163980,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
@@ -128106,7 +128107,8 @@
       "tools",
       "downloader",
       "sticker"
-    ]
+    ],
+    "lastStreamer": 1791625513654
   },
   "628137819779": {
     "jid": "628137819779",
@@ -128118,15 +128120,15 @@
       "maxStamina": 150,
       "health": 200,
       "mana": 150,
-      "stamina": 128,
+      "stamina": 150,
       "guildId": "guild_1791568221406",
       "bank": 161101,
       "attack": 10,
       "luck": 12
     },
-    "exp": 102566,
+    "exp": 102626,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:39:32.883Z",
+    "lastSeen": "2026-10-10T09:40:22.178Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791624513880,
@@ -128169,7 +128171,7 @@
       "mining": 1791616339777,
       "clanwar": 1791613579763,
       "maling": 1791624723286,
-      "bank": 1791625146383,
+      "bank": 1791625197343,
       "rest": 1791624715270,
       "dungeon": 1791615871702,
       "cool": 1791614571897,
