@@ -127195,15 +127195,15 @@
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 65,
-      "maxHealth": 140,
-      "stamina": 57,
-      "maxStamina": 120,
-      "level": 5,
-      "maxMana": 120,
-      "mana": 53
+      "health": 150,
+      "maxHealth": 150,
+      "stamina": 125,
+      "maxStamina": 125,
+      "level": 6,
+      "maxMana": 125,
+      "mana": 125
     },
-    "exp": 49986,
+    "exp": 50001,
     "cooldowns": {
       "menucat": 1791606836227,
       "menu": 1791606832638,
