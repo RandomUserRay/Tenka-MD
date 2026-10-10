@@ -127869,10 +127869,10 @@
       "bank": 71825,
       "enchants": {}
     },
-    "exp": 67092,
+    "exp": 67107,
     "energi": 99922,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:33:47.874Z",
+    "lastSeen": "2026-10-10T06:34:07.531Z",
     "cooldowns": {
       "menu": 1791613254752,
       "menucat": 1791613414732,
@@ -127938,11 +127938,11 @@
       "robloxplayer": 1791611801104,
       "levelup": 1791611859472,
       "enchant": 1791612854560,
-      "buyfitur": 1791614028355
+      "buyfitur": 1791614048003
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 6000,
+    "koin": 3000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -127981,7 +127981,10 @@
     },
     "settings": {
       "levelupNotif": true
-    }
+    },
+    "unlockedFeatures": [
+      "game"
+    ]
   },
   "628137819779": {
     "jid": "628137819779",
