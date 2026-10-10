@@ -127878,10 +127878,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 89013,
-    "energi": 99858,
+    "exp": 89208,
+    "energi": 99857,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T08:05:09.699Z",
+    "lastSeen": "2026-10-10T08:05:31.225Z",
     "cooldowns": {
       "menu": 1791619243229,
       "menucat": 1791619246329,
@@ -127976,8 +127976,8 @@
       "gold": 3,
       "herb": 10,
       "leather": 13,
-      "iron": 5,
-      "wood": 21,
+      "iron": 2,
+      "wood": 19,
       "potion": 10,
       "botol": 24,
       "kaleng": 15,
@@ -127992,7 +127992,8 @@
       "diamond": 3,
       "trash": 7,
       "sword": 1,
-      "stick": 5
+      "stick": 5,
+      "pickaxe": 1
     },
     "quest": {
       "adventure3": {
