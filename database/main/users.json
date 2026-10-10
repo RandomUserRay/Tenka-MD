@@ -127605,7 +127605,7 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 4335,
+    "exp": 4365,
     "name": "*",
     "lastSeen": "2026-10-10T05:06:46.387Z",
     "cooldowns": {
@@ -127720,7 +127720,7 @@
   "6285837219145": {
     "jid": "6285837219145",
     "rpg": {},
-    "exp": 9030,
+    "exp": 9060,
     "energi": 99997,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-10T06:10:16.630Z",
@@ -127869,10 +127869,10 @@
       "bank": 123547,
       "enchants": {}
     },
-    "exp": 75844,
+    "exp": 75889,
     "energi": 99890,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T07:03:55.930Z",
+    "lastSeen": "2026-10-10T07:04:34.797Z",
     "cooldowns": {
       "menu": 1791615208379,
       "menucat": 1791615214982,
@@ -128012,15 +128012,27 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 45,
+      "stamina": 15,
       "guildId": "guild_1791568221406",
       "bank": 34254,
       "attack": 10,
-      "luck": 7
+      "luck": 7,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Bandit Hutan",
+        "monsterPower": 31,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791615876736
+      }
     },
-    "exp": 79905,
+    "exp": 79980,
     "name": "👣",
-    "lastSeen": "2026-10-10T07:03:54.581Z",
+    "lastSeen": "2026-10-10T07:04:31.116Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128065,7 +128077,7 @@
       "maling": 1791615766835,
       "bank": 1791615834878,
       "rest": 1791615611366,
-      "dungeon": 1791614419210,
+      "dungeon": 1791615871702,
       "cool": 1791614571897,
       "fishing": 1791614618382,
       "adventure": 1791615459766,
