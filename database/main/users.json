@@ -127189,27 +127189,15 @@
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 105,
+      "health": 65,
       "maxHealth": 140,
       "stamina": 3,
       "maxStamina": 120,
       "level": 5,
       "maxMana": 120,
-      "mana": 53,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 26,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791607133739
-      }
+      "mana": 53
     },
-    "exp": 49386,
+    "exp": 49401,
     "cooldowns": {
       "menucat": 1791606836227,
       "menu": 1791606832638,
@@ -127359,7 +127347,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99971,
-    "koin": 15127,
+    "koin": 12858,
     "inventory": {
       "potion": 2,
       "iron": 11,
