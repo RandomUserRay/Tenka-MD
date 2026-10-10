@@ -26652,7 +26652,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176601,
+    "exp": 176616,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -127195,17 +127195,17 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:52:29.257Z",
+    "lastSeen": "2026-10-10T09:52:49.179Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
-      "health": 230,
-      "maxHealth": 230,
-      "stamina": 52,
-      "maxStamina": 165,
-      "level": 14,
-      "maxMana": 165,
-      "mana": 165,
+      "health": 240,
+      "maxHealth": 240,
+      "stamina": 170,
+      "maxStamina": 170,
+      "level": 15,
+      "maxMana": 170,
+      "mana": 170,
       "bank": 928072,
       "guildId": "guild_1791568221406",
       "luck": 21,
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 139910,
+    "exp": 140745,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127414,8 +127414,8 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99888,
-    "koin": 70000,
+    "energi": 99887,
+    "koin": 86413,
     "inventory": {
       "potion": 4,
       "iron": 1,
@@ -127975,7 +127975,7 @@
         }
       ]
     },
-    "exp": 133699,
+    "exp": 133714,
     "energi": 99801,
     "name": "MaLa ?",
     "lastSeen": "2026-10-10T09:52:33.827Z",
