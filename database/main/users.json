@@ -127991,11 +127991,12 @@
       "maxStamina": 120,
       "health": 140,
       "mana": 120,
-      "stamina": 120
+      "stamina": 120,
+      "guildId": "guild_1791568221406"
     },
-    "exp": 69214,
+    "exp": 69229,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:17:06.251Z",
+    "lastSeen": "2026-10-10T06:19:00.424Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791612261769,
@@ -128033,7 +128034,8 @@
       "daily": 1791612090742,
       "money": 1791612127596,
       "susunkata": 1791612418936,
-      "tekateki": 1791612554594
+      "tekateki": 1791612554594,
+      "guild": 1791613141097
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
