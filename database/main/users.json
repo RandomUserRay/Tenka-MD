@@ -127865,12 +127865,13 @@
       "guildId": "guild_1791568221406",
       "luck": 8,
       "lastHourly": 1791610544240,
-      "bank": 92123
+      "bank": 92123,
+      "enchants": {}
     },
-    "exp": 65164,
-    "energi": 99931,
+    "exp": 65179,
+    "energi": 99929,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:13:40.535Z",
+    "lastSeen": "2026-10-10T06:14:14.291Z",
     "cooldowns": {
       "menu": 1791611351014,
       "menucat": 1791611825812,
@@ -127934,7 +127935,8 @@
       "anichin": 1791611550985,
       "stalkml": 1791611724813,
       "robloxplayer": 1791611801104,
-      "levelup": 1791611859472
+      "levelup": 1791611859472,
+      "enchant": 1791612854560
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
