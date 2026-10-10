@@ -128012,16 +128012,24 @@
       "maxStamina": 135,
       "health": 170,
       "mana": 135,
-      "stamina": 135,
+      "stamina": 105,
       "guildId": "guild_1791568221406",
       "bank": 0,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791614418911
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 29,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791614432643
       }
     },
-    "exp": 70482,
+    "exp": 70497,
     "name": "👣",
     "lastSeen": "2026-10-10T06:40:18.910Z",
     "cooldowns": {
