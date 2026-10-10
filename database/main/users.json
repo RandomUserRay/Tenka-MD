@@ -112500,7 +112500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25005,
+    "exp": 25020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127195,7 +127195,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T10:14:15.881Z",
+    "lastSeen": "2026-10-10T10:14:38.021Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127206,7 +127206,7 @@
       "level": 17,
       "maxMana": 180,
       "mana": 53,
-      "bank": 1011489,
+      "bank": 1142304,
       "guildId": "guild_1791568221406",
       "luck": 30,
       "lastHourly": 1791626816935,
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 168990,
+    "exp": 169020,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127373,7 +127373,7 @@
       "marry": 1791607038729,
       "mancing": 1791626973966,
       "weekly": 1791621896492,
-      "bank": 1791627256145,
+      "bank": 1791627278305,
       "guild": 1791624851258,
       "training": 1791626128480,
       "daily": 1791622210098,
@@ -127419,7 +127419,7 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
     "energi": 99848,
-    "koin": 130815,
+    "koin": 0,
     "inventory": {
       "potion": 4,
       "iron": 2,
@@ -127975,7 +127975,7 @@
       "guildId": "guild_1791568221406",
       "luck": 23,
       "lastHourly": 1791624425279,
-      "bank": 617365,
+      "bank": 117365,
       "enchants": {},
       "expeditions": [
         {
@@ -127985,10 +127985,10 @@
         }
       ]
     },
-    "exp": 143876,
+    "exp": 143906,
     "energi": 99782,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T10:13:46.204Z",
+    "lastSeen": "2026-10-10T10:14:42.605Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128083,7 +128083,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 500000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
