@@ -127958,7 +127958,7 @@
       "maxHealth": 230,
       "maxMana": 165,
       "maxStamina": 165,
-      "health": 230,
+      "health": 215,
       "mana": 165,
       "stamina": 135,
       "attack": 42,
@@ -128068,11 +128068,12 @@
       "slot": 1791625101741,
       "live": 1791625671611,
       "ngamen": 1791625379491,
-      "nambalban": 1791625433005
+      "nambalban": 1791625433005,
+      "crime": 1791625982079
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 2603,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
