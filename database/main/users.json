@@ -127513,16 +127513,16 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 61,
+      "stamina": 46,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 18,
       "defense": 6
     },
-    "exp": 16222,
-    "energi": 99966,
+    "exp": 16237,
+    "energi": 99965,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T09:31:45.066Z",
+    "lastSeen": "2026-10-10T09:32:02.457Z",
     "cooldowns": {
       "top": 1791621106971,
       "ship": 1791594897315,
@@ -128114,9 +128114,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 94504,
+    "exp": 94719,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:31:51.078Z",
+    "lastSeen": "2026-10-10T09:32:00.195Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791624513880,
@@ -128185,8 +128185,8 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
-    "energi": 99960,
+    "koin": 8000,
+    "energi": 99959,
     "inventory": {
       "rock": 20,
       "iron": 5,
