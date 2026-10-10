@@ -127869,10 +127869,10 @@
       "bank": 87494,
       "enchants": {}
     },
-    "exp": 71091,
+    "exp": 71106,
     "energi": 99904,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:53:09.652Z",
+    "lastSeen": "2026-10-10T06:53:24.931Z",
     "cooldowns": {
       "menu": 1791614590162,
       "menucat": 1791614595980,
@@ -128008,14 +128008,15 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 65,
+      "stamina": 43,
       "guildId": "guild_1791568221406",
       "bank": 5000,
-      "attack": 10
+      "attack": 10,
+      "luck": 7
     },
-    "exp": 74558,
+    "exp": 74658,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:53:06.630Z",
+    "lastSeen": "2026-10-10T06:53:22.921Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128065,12 +128066,13 @@
       "fishing": 1791614618382,
       "adventure": 1791615037213,
       "treasure": 1791615044575,
-      "craft": 1791615171611
+      "craft": 1791615171611,
+      "training": 1791615206528
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
     "koin": 10399,
-    "energi": 99987,
+    "energi": 99986,
     "inventory": {
       "rock": 7,
       "iron": 3,
