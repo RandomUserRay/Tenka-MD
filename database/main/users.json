@@ -127195,13 +127195,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T10:02:33.644Z",
+    "lastSeen": "2026-10-10T10:03:21.953Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 250,
       "maxHealth": 250,
-      "stamina": 175,
+      "stamina": 160,
       "maxStamina": 175,
       "level": 16,
       "maxMana": 175,
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 152353,
+    "exp": 153057,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127244,7 +127244,7 @@
       "leaderboard": 1791454680875,
       "afk": 1791607375939,
       "cekabsen": 1791468423697,
-      "gacha": 1791626137881,
+      "gacha": 1791626589462,
       "dungeon": 1791624572564,
       "cekpacar": 1791606884054,
       "bratpatrick": 1791468927569,
@@ -127373,7 +127373,7 @@
       "marry": 1791607038729,
       "mancing": 1791625677069,
       "weekly": 1791621896492,
-      "bank": 1791626504253,
+      "bank": 1791626592589,
       "guild": 1791624851258,
       "training": 1791626128480,
       "daily": 1791622210098,
@@ -127410,12 +127410,13 @@
       "expedition": 1791625515280,
       "live": 1791626519452,
       "ngemis": 1791625627129,
-      "nulis": 1791625636983
+      "nulis": 1791625636983,
+      "mulung": 1791626567227
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99876,
-    "koin": 55363,
+    "energi": 99873,
+    "koin": 76436,
     "inventory": {
       "potion": 4,
       "iron": 1,
@@ -127434,7 +127435,11 @@
       "bulu_rubah": 1,
       "emerald": 1,
       "wood": 8,
-      "boar": 1
+      "boar": 1,
+      "botol": 7,
+      "kaleng": 7,
+      "kardus": 2,
+      "sampah": 8
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -127975,10 +127980,10 @@
         }
       ]
     },
-    "exp": 141539,
-    "energi": 99783,
+    "exp": 141584,
+    "energi": 99782,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T10:02:35.989Z",
+    "lastSeen": "2026-10-10T10:02:54.796Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128065,7 +128070,7 @@
       "buyenergi": 1791623350249,
       "clan": 1791624705746,
       "divorce": 1791624964760,
-      "slot": 1791626533237,
+      "slot": 1791626577805,
       "live": 1791625671611,
       "ngamen": 1791625379491,
       "nambalban": 1791626302666,
@@ -128073,7 +128078,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 125000,
+    "koin": 25000,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
