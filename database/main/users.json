@@ -112110,7 +112110,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237362,
+    "exp": 237377,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112120,7 +112120,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:21:42.831Z",
+    "lastSeen": "2026-10-10T09:29:41.783Z",
     "cooldowns": {
       "owner": 1790255646134,
       "totalchat": 1790076762750,
@@ -112155,7 +112155,7 @@
       "topchat": 1791455579229,
       "antitoxic": 1791106621217,
       "videy": 1789534788602,
-      "tagall": 1791296395109,
+      "tagall": 1791624585188,
       "slowmode": 1789623256016,
       "mutegc": 1789640168951,
       "mutemember": 1789634157262,
@@ -112339,8 +112339,8 @@
       "koran": 3
     },
     "access": [],
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 20,
+    "lastActiveDate": "10/10/2026",
+    "activeDays": 21,
     "fun": {
       "tembakTarget": "6285150979843@s.whatsapp.net",
       "tembakCount": 1
@@ -127192,7 +127192,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:29:32.461Z",
+    "lastSeen": "2026-10-10T09:29:42.533Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127225,7 +127225,7 @@
         "time": 1791624572462
       }
     },
-    "exp": 106517,
+    "exp": 106547,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127946,19 +127946,19 @@
       "maxStamina": 160,
       "health": 220,
       "mana": 160,
-      "stamina": 98,
+      "stamina": 78,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 19,
       "lastHourly": 1791624425279,
-      "bank": 339315,
+      "bank": 377372,
       "enchants": {},
       "expeditions": []
     },
-    "exp": 121570,
+    "exp": 122835,
     "energi": 99818,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:27:18.896Z",
+    "lastSeen": "2026-10-10T09:29:47.298Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -128015,7 +128015,7 @@
       "parkir": 1791622976162,
       "kurir": 1791622960019,
       "craft": 1791615167333,
-      "bank": 1791624276341,
+      "bank": 1791624588135,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128036,7 +128036,7 @@
       "woodcut": 1791619068063,
       "heal": 1791622824207,
       "duel": 1791615989535,
-      "streamer": 1791624188219,
+      "streamer": 1791624578623,
       "expedition": 1791619313005,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
@@ -128046,7 +128046,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 1000,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
