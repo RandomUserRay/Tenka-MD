@@ -127191,7 +127191,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:11:01.199Z",
+    "lastSeen": "2026-10-10T09:11:27.793Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127207,7 +127207,7 @@
       "luck": 9,
       "lastHourly": 1791622227107
     },
-    "exp": 90713,
+    "exp": 90743,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127339,7 +127339,7 @@
       "create": 1791565696081,
       "use": 1791622001098,
       "liriklagu": 1791565925020,
-      "leveluprpg": 1791566029384,
+      "leveluprpg": 1791623487871,
       "guildcreate": 1791566101864,
       "shop": 1791622870968,
       "clancreate": 1791566319049,
@@ -127391,7 +127391,9 @@
       "pasangan": "6285748250884@s.whatsapp.net",
       "jadiPacar": 1791469398322
     },
-    "settings": {},
+    "settings": {
+      "rpgLevelupNotif": true
+    },
     "quest": {
       "hunt5": {
         "progress": 0,
@@ -128067,7 +128069,7 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 87142,
+    "exp": 87367,
     "name": "👣",
     "lastSeen": "2026-10-10T09:10:53.771Z",
     "cooldowns": {
