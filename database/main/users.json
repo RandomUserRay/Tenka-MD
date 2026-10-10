@@ -127875,12 +127875,13 @@
       "luck": 10,
       "lastHourly": 1791616067991,
       "bank": 242760,
-      "enchants": {}
+      "enchants": {},
+      "expeditions": []
     },
-    "exp": 88768,
+    "exp": 88798,
     "energi": 99861,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T08:00:46.086Z",
+    "lastSeen": "2026-10-10T08:01:16.515Z",
     "cooldowns": {
       "menu": 1791619243229,
       "menucat": 1791619246329,
@@ -127958,7 +127959,8 @@
       "woodcut": 1791619068063,
       "heal": 1791619037687,
       "duel": 1791615989535,
-      "streamer": 1791616131345
+      "streamer": 1791616131345,
+      "expedition": 1791619276788
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
