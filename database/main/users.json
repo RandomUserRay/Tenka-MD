@@ -127191,13 +127191,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:17:11.447Z",
+    "lastSeen": "2026-10-10T09:18:13.963Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 90,
       "maxHealth": 190,
-      "stamina": 65,
+      "stamina": 40,
       "maxStamina": 145,
       "level": 10,
       "maxMana": 145,
@@ -127205,9 +127205,14 @@
       "bank": 125527,
       "guildId": "guild_1791568221406",
       "luck": 11,
-      "lastHourly": 1791622227107
+      "lastHourly": 1791622227107,
+      "garden": {
+        "plots": [],
+        "maxPlots": 3
+      },
+      "enchants": {}
     },
-    "exp": 93597,
+    "exp": 94037,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127370,12 +127375,16 @@
       "slot": 1791623540378,
       "breeding": 1791623608201,
       "beg": 1791623624986,
-      "crime": 1791623636258
+      "crime": 1791623636258,
+      "garden": 1791623843168,
+      "berburu": 1791623861049,
+      "divorce": 1791623868096,
+      "enchant": 1791623877566
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99923,
-    "koin": 18509,
+    "energi": 99920,
+    "koin": 23009,
     "inventory": {
       "potion": 5,
       "iron": 0,
@@ -127389,7 +127398,9 @@
       "gold": 0,
       "uncommon": 0,
       "whale": 0,
-      "lion": 1
+      "lion": 1,
+      "daging_kelinci": 3,
+      "bulu_rubah": 1
     },
     "fun": {
       "pasangan": "6285748250884@s.whatsapp.net",
@@ -128074,9 +128085,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 89347,
+    "exp": 89902,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:16:58.456Z",
+    "lastSeen": "2026-10-10T09:18:10.892Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
@@ -128660,6 +128671,11 @@
   },
   "6285123960385": {
     "jid": "6285123960385",
+    "rpg": {},
+    "exp": 15
+  },
+  "62895403944053": {
+    "jid": "62895403944053",
     "rpg": {},
     "exp": 15
   }
