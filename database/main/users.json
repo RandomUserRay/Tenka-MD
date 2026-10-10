@@ -26652,7 +26652,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176316,
+    "exp": 176376,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -26661,7 +26661,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T07:10:37.875Z",
+    "lastSeen": "2026-10-10T09:23:21.461Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -26685,7 +26685,7 @@
       "pakustad": 1788354793905,
       "h": 1791285984156,
       "kick": 1791465922209,
-      "p": 1790943790329,
+      "p": 1791624201730,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
       "hytamkan": 1785385527679,
@@ -126341,7 +126341,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12450,
+    "exp": 12525,
     "lastActiveDate": "9/10/2026",
     "activeDays": 3,
     "energi": 99999
@@ -127191,28 +127191,36 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:22:52.463Z",
+    "lastSeen": "2026-10-10T09:23:41.857Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 200,
       "maxHealth": 200,
-      "stamina": 128,
+      "stamina": 106,
       "maxStamina": 150,
       "level": 11,
       "maxMana": 150,
       "mana": 150,
       "bank": 125527,
       "guildId": "guild_1791568221406",
-      "luck": 13,
+      "luck": 14,
       "lastHourly": 1791622227107,
       "garden": {
         "plots": [],
         "maxPlots": 3
       },
-      "enchants": {}
+      "enchants": {},
+      "pet": {
+        "type": "cat",
+        "name": "Kucing",
+        "level": 1,
+        "exp": 0,
+        "hunger": 80,
+        "stats": null
+      }
     },
-    "exp": 100208,
+    "exp": 100368,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127386,13 +127394,13 @@
       "lottery": 1791624071311,
       "nyapu": 1791624125514,
       "parkir": 1791624131983,
-      "pet": 1791624165145,
-      "petshop": 1791624172562
+      "pet": 1791624208842,
+      "petshop": 1791624184544
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99912,
-    "koin": 88630,
+    "energi": 99911,
+    "koin": 83630,
     "inventory": {
       "potion": 5,
       "iron": 0,
@@ -127501,10 +127509,10 @@
       "attack": 18,
       "defense": 6
     },
-    "exp": 16132,
+    "exp": 16192,
     "energi": 99966,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T09:22:47.366Z",
+    "lastSeen": "2026-10-10T09:23:02.439Z",
     "cooldowns": {
       "top": 1791621106971,
       "ship": 1791594897315,
@@ -127922,13 +127930,13 @@
   "6285704381228": {
     "jid": "6285704381228",
     "rpg": {
-      "level": 12,
-      "maxHealth": 210,
-      "maxMana": 155,
-      "maxStamina": 155,
-      "health": 210,
-      "mana": 155,
-      "stamina": 111,
+      "level": 13,
+      "maxHealth": 220,
+      "maxMana": 160,
+      "maxStamina": 160,
+      "health": 220,
+      "mana": 160,
+      "stamina": 160,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 17,
@@ -127937,10 +127945,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 114955,
+    "exp": 120135,
     "energi": 99821,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:22:53.715Z",
+    "lastSeen": "2026-10-10T09:23:03.445Z",
     "cooldowns": {
       "menu": 1791619880164,
       "menucat": 1791619887230,
@@ -128018,7 +128026,7 @@
       "woodcut": 1791619068063,
       "heal": 1791622824207,
       "duel": 1791615989535,
-      "streamer": 1791623303258,
+      "streamer": 1791624188219,
       "expedition": 1791619313005,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
@@ -128028,7 +128036,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 0,
+    "koin": 29074,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128095,9 +128103,9 @@
       "attack": 10,
       "luck": 12
     },
-    "exp": 91477,
+    "exp": 91627,
     "name": "👣",
-    "lastSeen": "2026-10-10T09:22:35.594Z",
+    "lastSeen": "2026-10-10T09:23:36.466Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791616721848,
@@ -128687,6 +128695,6 @@
   "62895403944053": {
     "jid": "62895403944053",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   }
 }
