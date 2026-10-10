@@ -127861,7 +127861,7 @@
       "maxStamina": 130,
       "health": 74,
       "mana": 53,
-      "stamina": 76,
+      "stamina": 61,
       "attack": 23,
       "guildId": "guild_1791568221406",
       "luck": 8,
@@ -127869,10 +127869,10 @@
       "bank": 87494,
       "enchants": {}
     },
-    "exp": 69925,
-    "energi": 99908,
+    "exp": 69950,
+    "energi": 99907,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T06:50:38.214Z",
+    "lastSeen": "2026-10-10T06:50:50.297Z",
     "cooldowns": {
       "menu": 1791614590162,
       "menucat": 1791614595980,
@@ -127944,7 +127944,8 @@
       "transfer": 1791614899869,
       "mancing": 1791614634923,
       "treasure": 1791615023754,
-      "boss": 1791615038465
+      "boss": 1791615038465,
+      "fishing": 1791615055276
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -127972,7 +127973,7 @@
       "bear": 1,
       "rabbit": 5,
       "diamond": 1,
-      "trash": 1
+      "trash": 2
     },
     "quest": {
       "adventure3": {
@@ -128006,14 +128007,14 @@
       "maxStamina": 135,
       "health": 105,
       "mana": 53,
-      "stamina": 100,
+      "stamina": 85,
       "guildId": "guild_1791568221406",
       "bank": 5000,
       "attack": 10
     },
-    "exp": 74036,
+    "exp": 74366,
     "name": "👣",
-    "lastSeen": "2026-10-10T06:50:44.302Z",
+    "lastSeen": "2026-10-10T06:51:02.928Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128067,13 +128068,14 @@
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
     "koin": 10399,
-    "energi": 99989,
+    "energi": 99988,
     "inventory": {
       "rock": 5,
       "iron": 3,
       "gold": 1,
       "herb": 6,
-      "shark": 1
+      "shark": 1,
+      "octopus": 1
     }
   },
   "6281534003702": {
