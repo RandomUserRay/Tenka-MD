@@ -109936,7 +109936,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8235,
+    "exp": 8265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112356,7 +112356,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74295,
+    "exp": 74310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127440,12 +127440,13 @@
       "maxStamina": 105,
       "health": 105,
       "mana": 53,
-      "stamina": 100
+      "stamina": 78,
+      "luck": 6
     },
-    "exp": 13005,
-    "energi": 99988,
+    "exp": 13105,
+    "energi": 99987,
     "name": "Virberzo",
-    "lastSeen": "2026-10-10T07:12:34.750Z",
+    "lastSeen": "2026-10-10T07:15:04.815Z",
     "cooldowns": {
       "top": 1791616355523,
       "ship": 1791594897315,
@@ -127476,7 +127477,8 @@
       "hug": 1791606993918,
       "rob": 1791607297170,
       "rest": 1791607497583,
-      "afk": 1791613585929
+      "afk": 1791613585929,
+      "training": 1791616508283
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
@@ -127493,7 +127495,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10125,
+    "exp": 10140,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-10T05:25:24.743Z",
@@ -127862,7 +127864,7 @@
       "maxStamina": 140,
       "health": 180,
       "mana": 140,
-      "stamina": 140,
+      "stamina": 120,
       "attack": 36,
       "guildId": "guild_1791568221406",
       "luck": 10,
@@ -127870,10 +127872,10 @@
       "bank": 179654,
       "enchants": {}
     },
-    "exp": 81517,
-    "energi": 99878,
+    "exp": 81532,
+    "energi": 99877,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T07:14:44.430Z",
+    "lastSeen": "2026-10-10T07:15:14.159Z",
     "cooldowns": {
       "menu": 1791616079414,
       "menucat": 1791616084542,
@@ -128021,9 +128023,9 @@
       "attack": 10,
       "luck": 10
     },
-    "exp": 83916,
+    "exp": 83961,
     "name": "👣",
-    "lastSeen": "2026-10-10T07:14:27.678Z",
+    "lastSeen": "2026-10-10T07:15:10.415Z",
     "cooldowns": {
       "top": 1791613027659,
       "menu": 1791613550162,
@@ -128084,7 +128086,7 @@
       "mancing": 1791615820318,
       "nyapu": 1791616445581,
       "parkir": 1791616439084,
-      "shop": 1791616467942
+      "shop": 1791616500881
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
