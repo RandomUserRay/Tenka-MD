@@ -127195,13 +127195,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-10T09:52:04.709Z",
+    "lastSeen": "2026-10-10T09:52:29.257Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 230,
       "maxHealth": 230,
-      "stamina": 74,
+      "stamina": 52,
       "maxStamina": 165,
       "level": 14,
       "maxMana": 165,
@@ -127225,7 +127225,7 @@
       },
       "expeditions": []
     },
-    "exp": 139780,
+    "exp": 139795,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1791622665080,
@@ -127414,7 +127414,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "energi": 99889,
+    "energi": 99888,
     "koin": 0,
     "inventory": {
       "potion": 4,
@@ -127965,7 +127965,7 @@
       "guildId": "guild_1791568221406",
       "luck": 20,
       "lastHourly": 1791624425279,
-      "bank": 432000,
+      "bank": 362000,
       "enchants": {},
       "expeditions": [
         {
@@ -127975,10 +127975,10 @@
         }
       ]
     },
-    "exp": 133669,
+    "exp": 133684,
     "energi": 99801,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-10T09:51:33.664Z",
+    "lastSeen": "2026-10-10T09:52:21.937Z",
     "cooldowns": {
       "menu": 1791624942577,
       "menucat": 1791624949569,
@@ -128035,7 +128035,7 @@
       "parkir": 1791624611491,
       "kurir": 1791625574208,
       "craft": 1791615167333,
-      "bank": 1791625860713,
+      "bank": 1791625943708,
       "freelance": 1791570160960,
       "totalfitur": 1791611396735,
       "samehadaku": 1791611488666,
@@ -128072,7 +128072,7 @@
     },
     "lastActiveDate": "10/10/2026",
     "activeDays": 2,
-    "koin": 2603,
+    "koin": 72603,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
