@@ -127563,7 +127563,7 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 24886,
+    "exp": 24931,
     "energi": 99987,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T03:42:46.492Z",
@@ -127658,7 +127658,8 @@
       "pinter": 1791688279379
     },
     "lastActiveDate": "11/10/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "fun": {}
   },
   "6285762122941": {
     "jid": "6285762122941",
@@ -128203,9 +128204,9 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 131641,
+    "exp": 131656,
     "name": "👣",
-    "lastSeen": "2026-10-11T03:42:52.659Z",
+    "lastSeen": "2026-10-11T03:43:16.367Z",
     "cooldowns": {
       "top": 1791689873228,
       "menu": 1791681831196,
@@ -128282,12 +128283,12 @@
       "apakah": 1791689574736,
       "tolak": 1791690173228,
       "ga": 1791689842461,
-      "tembak": 1791690118461
+      "tembak": 1791690196903
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
     "koin": 56722,
-    "energi": 99995,
+    "energi": 99994,
     "inventory": {
       "rock": 20,
       "iron": 5,
@@ -128300,8 +128301,8 @@
       "trash": 1
     },
     "fun": {
-      "tembakTarget": "6285779164177@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakTarget": "6289679569897@s.whatsapp.net",
+      "tembakCount": 2
     }
   },
   "6281534003702": {
