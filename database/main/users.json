@@ -127562,18 +127562,26 @@
       "maxStamina": 110,
       "health": 105,
       "mana": 53,
-      "stamina": 70,
+      "stamina": 40,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 34,
       "defense": 11,
       "bank": 97964,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791691877242
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 33,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1791691915861
       }
     },
-    "exp": 27748,
+    "exp": 27763,
     "energi": 99974,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T04:11:31.632Z",
@@ -128221,9 +128229,9 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 141332,
+    "exp": 141347,
     "name": "👣",
-    "lastSeen": "2026-10-11T04:11:37.988Z",
+    "lastSeen": "2026-10-11T04:11:51.126Z",
     "cooldowns": {
       "top": 1791691279634,
       "menu": 1791690311491,
