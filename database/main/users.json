@@ -105044,7 +105044,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2880,
+    "exp": 2895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127566,19 +127566,19 @@
       "maxHealth": 150,
       "maxMana": 125,
       "maxStamina": 125,
-      "health": 117,
-      "mana": 125,
-      "stamina": 6,
+      "health": 105,
+      "mana": 53,
+      "stamina": 60,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 39,
       "defense": 16,
       "bank": 344198
     },
-    "exp": 58611,
+    "exp": 58626,
     "energi": 99944,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T08:52:06.955Z",
+    "lastSeen": "2026-10-11T08:52:18.820Z",
     "cooldowns": {
       "top": 1791700601689,
       "ship": 1791594897315,
@@ -128066,10 +128066,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 276401,
+    "exp": 276416,
     "energi": 99838,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:52:09.991Z",
+    "lastSeen": "2026-10-11T08:52:15.969Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128318,7 +128318,7 @@
       "streamer": 1791624595204,
       "nambalban": 1791701025171,
       "clan": 1791624791524,
-      "slot": 1791708720435,
+      "slot": 1791708734697,
       "live": 1791708590092,
       "ngamen": 1791625457410,
       "topchat": 1791689415998,
@@ -129102,6 +129102,6 @@
   "6287794785386": {
     "jid": "6287794785386",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
