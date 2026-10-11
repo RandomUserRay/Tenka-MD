@@ -128051,13 +128051,13 @@
   "6285704381228": {
     "jid": "6285704381228",
     "rpg": {
-      "level": 28,
-      "maxHealth": 370,
-      "maxMana": 235,
-      "maxStamina": 235,
-      "health": 351,
-      "mana": 235,
-      "stamina": 128,
+      "level": 29,
+      "maxHealth": 380,
+      "maxMana": 240,
+      "maxStamina": 240,
+      "health": 380,
+      "mana": 240,
+      "stamina": 240,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 63,
@@ -128066,10 +128066,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 279157,
+    "exp": 280147,
     "energi": 99829,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:54:47.641Z",
+    "lastSeen": "2026-10-11T08:54:51.683Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128098,7 +128098,7 @@
       "training": 1791708782735,
       "adventure": 1791708810110,
       "arena": 1791565527524,
-      "mining": 1791708718271,
+      "mining": 1791708888681,
       "dungeon": 1791618933708,
       "stamina": 1791706026560,
       "create": 1791568170576,
@@ -128167,7 +128167,7 @@
       "bratimg": 1791700470793,
       "p": 1791700955150,
       "topchat": 1791706284692,
-      "tambang": 1791708722580,
+      "tambang": 1791708891690,
       "istirahat": 1791708125418,
       "tidur": 1791708161138,
       "petualangan": 1791708813147,
@@ -128181,8 +128181,8 @@
       "daging_rusa": 1,
       "bulu_rubah": 1,
       "cakar_beruang": 1,
-      "rock": 83,
-      "coal": 42,
+      "rock": 88,
+      "coal": 45,
       "gold": 5,
       "herb": 11,
       "leather": 13,
@@ -128199,7 +128199,7 @@
       "common": 0,
       "bear": 3,
       "rabbit": 14,
-      "diamond": 3,
+      "diamond": 4,
       "trash": 13,
       "sword": 1,
       "stick": 5,
@@ -128251,7 +128251,7 @@
       "attack": 10,
       "luck": 18
     },
-    "exp": 190501,
+    "exp": 190932,
     "name": "👣",
     "lastSeen": "2026-10-11T08:54:45.152Z",
     "cooldowns": {
@@ -128307,7 +128307,7 @@
       "training": 1791706470273,
       "marry": 1791615230452,
       "steal": 1791615265764,
-      "work": 1791708536232,
+      "work": 1791708888908,
       "kurir": 1791708610023,
       "heal": 1791705977519,
       "withdraw": 1791615795883,
@@ -128339,7 +128339,7 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 2500,
+    "koin": 6812,
     "energi": 99942,
     "inventory": {
       "rock": 20,
@@ -129104,6 +129104,6 @@
   "6287794785386": {
     "jid": "6287794785386",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
