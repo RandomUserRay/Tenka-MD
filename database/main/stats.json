@@ -1,6 +1,6 @@
 {
   "commandErrors": 661,
-  "commandsExecuted": 134991,
+  "commandsExecuted": 134993,
   "command_totalchat": 26,
   "command_menu": 2313,
   "command_fb": 14,
@@ -35,7 +35,7 @@
   "command_autoreactsw": 3,
   "command_public": 10,
   "command_onlythisgrup": 8,
-  "command_jadibot": 476,
+  "command_jadibot": 475,
   "command_hd": 360,
   "command_stopjadibot": 93,
   "command_ttp": 3,
@@ -1159,7 +1159,7 @@
   "command_tocroptopbikini": 3,
   "command_konser": 1,
   "command_automedia": 3,
-  "command_quran": 10,
+  "command_quran": 12,
   "command_cc": 4,
   "command_autoforward": 2,
   "command_spamotp": 322,
@@ -1254,7 +1254,7 @@
   "command_gantiscraper": 48,
   "command_berhentijadibot": 1,
   "command_pixeldraindl": 2,
-  "command_unjadibot": 4,
+  "command_unjadibot": 3,
   "command_capcut": 1,
   "command_ccdl": 1,
   "command_ultah": 6,
@@ -1432,5 +1432,5 @@
   "command_guildcreate": 2,
   "command_newbie": 1,
   "command_clanwar": 1,
-  "command_alquran": 4
+  "command_alquran": 6
 }
