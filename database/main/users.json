@@ -127564,10 +127564,10 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 25486,
-    "energi": 99978,
+    "exp": 25501,
+    "energi": 99977,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T03:56:27.794Z",
+    "lastSeen": "2026-10-11T03:57:06.379Z",
     "cooldowns": {
       "top": 1791689308080,
       "ship": 1791594897315,
@@ -127585,7 +127585,7 @@
       "janda": 1791524688060,
       "perawan": 1791606863236,
       "carifitur": 1791524908712,
-      "tembak": 1791690958206,
+      "tembak": 1791691026941,
       "hitamkan": 1791544730824,
       "cekpintar": 1791597592365,
       "cantik": 1791688222807,
@@ -127632,8 +127632,9 @@
     },
     "lastStreamer": 1791675259033,
     "fun": {
-      "tembakCount": 9,
-      "ditolakCount": 4
+      "tembakCount": 10,
+      "ditolakCount": 4,
+      "tembakTarget": "6285837219145@s.whatsapp.net"
     }
   },
   "6289679569897": {
@@ -127888,7 +127889,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12465,
+    "exp": 12480,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T03:25:12.318Z",
