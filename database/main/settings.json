@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
+      "at": 1791689727035
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791648414314
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789471982032
-    },
-    {
-      "cmd": "unknown",
-      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
-      "at": 1789442330099
     }
   ],
   "jpmBlacklist": [],
