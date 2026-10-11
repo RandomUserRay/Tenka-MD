@@ -49,6 +49,16 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
+      "at": 1791694006964
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
+      "at": 1791694006562
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
       "at": 1791689727035
     },
     {
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'cooldowns')",
       "at": 1789567239046
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1789556878635
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789471982032
     }
   ],
   "jpmBlacklist": [],
