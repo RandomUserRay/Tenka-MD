@@ -114005,7 +114005,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49930,
+    "exp": 49945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114015,7 +114015,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-11T07:33:37.709Z",
+    "lastSeen": "2026-10-11T07:34:29.802Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1791475011332,
@@ -114054,7 +114054,8 @@
       "delete": 1790427854603,
       "d": 1791295572179,
       "tagall": 1791704018306,
-      "totag": 1791690265907
+      "totag": 1791690265907,
+      "topchat": 1791704069912
     },
     "clanId": null,
     "isRegistered": false,
