@@ -50506,7 +50506,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12720,
+    "exp": 12735,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -109950,7 +109950,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9255,
+    "exp": 9270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109960,10 +109960,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T07:10:50.132Z",
+    "lastSeen": "2026-10-11T08:24:17.113Z",
     "cooldowns": {
       "absen": 1790993067728,
-      "warn": 1791552023443,
+      "warn": 1791707057328,
       "cekabsen": 1791000106650,
       "play": 1791594004854,
       "ytmp4": 1791594001481,
@@ -109977,8 +109977,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "11/10/2026",
+    "activeDays": 6
   },
   "6285645047395": {
     "jid": "6285645047395",
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 250508,
-    "energi": 99897,
+    "exp": 250523,
+    "energi": 99896,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:23:59.067Z",
+    "lastSeen": "2026-10-11T08:24:21.663Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128169,7 +128169,7 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 1002500,
+    "koin": 1252500,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128241,9 +128241,9 @@
       "attack": 10,
       "luck": 18
     },
-    "exp": 180378,
+    "exp": 180393,
     "name": "👣",
-    "lastSeen": "2026-10-11T08:23:54.298Z",
+    "lastSeen": "2026-10-11T08:24:15.896Z",
     "cooldowns": {
       "top": 1791706959466,
       "menu": 1791706020122,
@@ -128310,7 +128310,7 @@
       "streamer": 1791624595204,
       "nambalban": 1791701025171,
       "clan": 1791624791524,
-      "slot": 1791706992953,
+      "slot": 1791707059176,
       "live": 1791706936101,
       "ngamen": 1791625457410,
       "topchat": 1791689415998,
@@ -128328,8 +128328,8 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 252996,
-    "energi": 99955,
+    "koin": 245996,
+    "energi": 99954,
     "inventory": {
       "rock": 20,
       "iron": 5,
