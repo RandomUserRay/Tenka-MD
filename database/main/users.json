@@ -128056,7 +128056,7 @@
       "maxStamina": 225,
       "health": 105,
       "mana": 53,
-      "stamina": 50,
+      "stamina": 30,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 59,
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 256323,
-    "energi": 99860,
+    "exp": 256770,
+    "energi": 99859,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:41:19.949Z",
+    "lastSeen": "2026-10-11T08:41:27.672Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128165,7 +128165,8 @@
       "brat": 1791700461603,
       "bratimg": 1791700470793,
       "p": 1791700955150,
-      "topchat": 1791706284692
+      "topchat": 1791706284692,
+      "tambang": 1791708091728
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
@@ -128174,8 +128175,8 @@
       "daging_rusa": 1,
       "bulu_rubah": 1,
       "cakar_beruang": 1,
-      "rock": 49,
-      "coal": 28,
+      "rock": 52,
+      "coal": 30,
       "gold": 4,
       "herb": 11,
       "leather": 13,
