@@ -102699,7 +102699,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22069,
+    "exp": 22084,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128056,7 +128056,7 @@
       "maxStamina": 235,
       "health": 370,
       "mana": 235,
-      "stamina": 220,
+      "stamina": 200,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 61,
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 273582,
+    "exp": 275461,
     "energi": 99841,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:51:20.891Z",
+    "lastSeen": "2026-10-11T08:51:41.571Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128116,7 +128116,7 @@
       "steal": 1791615254906,
       "weekly": 1791568147611,
       "money": 1791707879063,
-      "work": 1791708519905,
+      "work": 1791708705072,
       "shop": 1791625637680,
       "use": 1791708589476,
       "hunt": 1791708273875,
@@ -128170,7 +128170,7 @@
       "istirahat": 1791708125418,
       "tidur": 1791708161138,
       "petualangan": 1791708544061,
-      "kerja": 1791708514917
+      "kerja": 1791708703201
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
