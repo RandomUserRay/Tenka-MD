@@ -112120,7 +112120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 238412,
+    "exp": 238427,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127562,10 +127562,10 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 24661,
+    "exp": 24676,
     "energi": 99992,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T03:35:27.031Z",
+    "lastSeen": "2026-10-11T03:35:36.960Z",
     "cooldowns": {
       "top": 1791689308080,
       "ship": 1791594897315,
@@ -127614,7 +127614,8 @@
       "sell": 1791631807498,
       "pinter": 1791688261320,
       "imut": 1791688269949,
-      "duel": 1791688848855
+      "duel": 1791688848855,
+      "pacar": 1791689737490
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
