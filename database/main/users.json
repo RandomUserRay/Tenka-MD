@@ -127563,7 +127563,7 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 24796,
+    "exp": 24811,
     "energi": 99988,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T03:41:41.107Z",
@@ -128203,9 +128203,9 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 131521,
+    "exp": 131536,
     "name": "👣",
-    "lastSeen": "2026-10-11T03:41:16.834Z",
+    "lastSeen": "2026-10-11T03:41:57.887Z",
     "cooldowns": {
       "top": 1791689873228,
       "menu": 1791681831196,
@@ -128286,7 +128286,7 @@
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
     "koin": 56722,
-    "energi": 99996,
+    "energi": 99995,
     "inventory": {
       "rock": 20,
       "iron": 5,
@@ -128298,7 +128298,10 @@
       "prawn": 1,
       "trash": 1
     },
-    "fun": {}
+    "fun": {
+      "tembakTarget": "6285779164177@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6281534003702": {
     "jid": "6281534003702",
