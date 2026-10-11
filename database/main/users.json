@@ -112120,7 +112120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 238442,
+    "exp": 238457,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113958,7 +113958,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15390,
+    "exp": 15405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126368,7 +126368,8 @@
     "exp": 13500,
     "lastActiveDate": "9/10/2026",
     "activeDays": 3,
-    "energi": 99999
+    "energi": 99999,
+    "fun": {}
   },
   "6282315654909": {
     "jid": "6282315654909",
@@ -128202,9 +128203,9 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 131326,
+    "exp": 131356,
     "name": "👣",
-    "lastSeen": "2026-10-11T03:33:25.763Z",
+    "lastSeen": "2026-10-11T03:37:22.458Z",
     "cooldowns": {
       "top": 1791689402623,
       "menu": 1791681831196,
@@ -128278,7 +128279,9 @@
       "siapa": 1791632138024,
       "sleep": 1791632234322,
       "tebakkata": 1791681849743,
-      "apakah": 1791689574736
+      "apakah": 1791689574736,
+      "tolak": 1791689829187,
+      "ga": 1791689842461
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
