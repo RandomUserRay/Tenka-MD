@@ -112369,7 +112369,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 77265,
+    "exp": 77280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127560,21 +127560,9 @@
       "guildId": "guild_1791568221406",
       "attack": 34,
       "defense": 8,
-      "bank": 25576,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Bandit Hutan",
-        "monsterPower": 30,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1791688120857
-      }
+      "bank": 25576
     },
-    "exp": 21994,
+    "exp": 22184,
     "energi": 99996,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T03:08:08.234Z",
@@ -127628,10 +127616,11 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 114,
+    "koin": 345,
     "inventory": {
-      "iron": 5,
-      "leather": 5
+      "iron": 10,
+      "leather": 5,
+      "herb": 5
     },
     "lastStreamer": 1791675259033
   },
