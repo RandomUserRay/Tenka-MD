@@ -100889,7 +100889,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2505,
+    "exp": 2520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100899,7 +100899,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-29T12:34:38.153Z",
+    "lastSeen": "2026-10-11T00:13:25.003Z",
     "cooldowns": {
       "s": 1788073358266,
       "cekfemboy": 1790684839602,
@@ -100911,7 +100911,8 @@
       "cekyandere": 1790086083804,
       "cantik": 1790684894528,
       "gay": 1790685066031,
-      "femboy": 1790685280437
+      "femboy": 1790685280437,
+      "afk": 1791677606600
     },
     "clanId": null,
     "isRegistered": false,
@@ -100921,8 +100922,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/9/2026",
-    "activeDays": 3
+    "lastActiveDate": "11/10/2026",
+    "activeDays": 4
   },
   "6282229557378": {
     "jid": "6282229557378",
@@ -126676,7 +126677,7 @@
   "6289657861876": {
     "jid": "6289657861876",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6287790288562": {
