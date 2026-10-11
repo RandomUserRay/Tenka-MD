@@ -112120,7 +112120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 238427,
+    "exp": 238442,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112369,7 +112369,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 77835,
+    "exp": 77850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127562,10 +127562,10 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 24676,
-    "energi": 99992,
+    "exp": 24691,
+    "energi": 99991,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T03:35:36.960Z",
+    "lastSeen": "2026-10-11T03:35:52.584Z",
     "cooldowns": {
       "top": 1791689308080,
       "ship": 1791594897315,
@@ -127583,7 +127583,7 @@
       "janda": 1791524688060,
       "perawan": 1791606863236,
       "carifitur": 1791524908712,
-      "tembak": 1791543589185,
+      "tembak": 1791689753185,
       "hitamkan": 1791544730824,
       "cekpintar": 1791597592365,
       "cantik": 1791688222807,
@@ -127625,7 +127625,11 @@
       "leather": 8,
       "herb": 7
     },
-    "lastStreamer": 1791675259033
+    "lastStreamer": 1791675259033,
+    "fun": {
+      "tembakTarget": "628137819779@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6289679569897": {
     "jid": "6289679569897",
@@ -128290,7 +128294,8 @@
       "coal": 7,
       "prawn": 1,
       "trash": 1
-    }
+    },
+    "fun": {}
   },
   "6281534003702": {
     "jid": "6281534003702",
