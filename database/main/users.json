@@ -127567,12 +127567,16 @@
       "guildId": "guild_1791568221406",
       "attack": 34,
       "defense": 11,
-      "bank": 97964
+      "bank": 97964,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1791691877242
+      }
     },
-    "exp": 27718,
+    "exp": 27733,
     "energi": 99974,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T04:11:00.941Z",
+    "lastSeen": "2026-10-11T04:11:17.241Z",
     "cooldowns": {
       "top": 1791691661549,
       "ship": 1791594897315,
