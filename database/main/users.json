@@ -128061,14 +128061,14 @@
       "guildId": "guild_1791568221406",
       "luck": 55,
       "lastHourly": 1791695153293,
-      "bank": 930323,
+      "bank": 0,
       "enchants": {},
       "expeditions": []
     },
-    "exp": 249718,
+    "exp": 249733,
     "energi": 99916,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:14:48.171Z",
+    "lastSeen": "2026-10-11T08:15:51.486Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128169,7 +128169,7 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 0,
+    "koin": 930323,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
