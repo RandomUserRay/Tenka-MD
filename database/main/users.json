@@ -102693,13 +102693,13 @@
   },
   "628981194866": {
     "name": "idk...?",
-    "lastSeen": "2026-10-11T08:47:30.377Z",
+    "lastSeen": "2026-10-11T08:48:30.320Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22009,
+    "exp": 22024,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102711,7 +102711,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1791644074128,
-      "d": 1791708450464,
+      "d": 1791708510396,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -127182,7 +127182,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "energi": 99999
   },
   "6281392627443": {
@@ -127910,7 +127910,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16845,
+    "exp": 16860,
     "energi": 99994,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -128056,7 +128056,7 @@
       "maxStamina": 230,
       "health": 344,
       "mana": 230,
-      "stamina": 28,
+      "stamina": 18,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 61,
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 264838,
+    "exp": 265293,
     "energi": 99846,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:48:27.088Z",
+    "lastSeen": "2026-10-11T08:48:31.371Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128169,11 +128169,12 @@
       "tambang": 1791708469141,
       "istirahat": 1791708125418,
       "tidur": 1791708161138,
-      "petualangan": 1791708320599
+      "petualangan": 1791708320599,
+      "kerja": 1791708514917
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 21901,
+    "koin": 26305,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
