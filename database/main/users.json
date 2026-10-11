@@ -114002,7 +114002,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49735,
+    "exp": 49750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114012,7 +114012,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-11T03:35:20.708Z",
+    "lastSeen": "2026-10-11T03:44:25.364Z",
     "cooldowns": {
       "afk": 1789825816649,
       "level": 1791475011332,
@@ -114050,7 +114050,8 @@
       "berladang": 1789868305213,
       "delete": 1790427854603,
       "d": 1791295572179,
-      "tagall": 1791689721326
+      "tagall": 1791689721326,
+      "totag": 1791690265907
     },
     "clanId": null,
     "isRegistered": false,
@@ -127563,10 +127564,10 @@
       "defense": 10,
       "bank": 25576
     },
-    "exp": 25006,
-    "energi": 99987,
+    "exp": 25036,
+    "energi": 99986,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T03:42:46.492Z",
+    "lastSeen": "2026-10-11T03:44:25.655Z",
     "cooldowns": {
       "top": 1791689308080,
       "ship": 1791594897315,
@@ -127584,7 +127585,7 @@
       "janda": 1791524688060,
       "perawan": 1791606863236,
       "carifitur": 1791524908712,
-      "tembak": 1791690167037,
+      "tembak": 1791690266540,
       "hitamkan": 1791544730824,
       "cekpintar": 1791597592365,
       "cantik": 1791688222807,
@@ -127628,8 +127629,9 @@
     },
     "lastStreamer": 1791675259033,
     "fun": {
-      "tembakCount": 3,
-      "ditolakCount": 1
+      "tembakCount": 4,
+      "ditolakCount": 1,
+      "tembakTarget": "6288808783933@s.whatsapp.net"
     }
   },
   "6289679569897": {
@@ -128204,7 +128206,7 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 131716,
+    "exp": 131731,
     "name": "👣",
     "lastSeen": "2026-10-11T03:43:16.367Z",
     "cooldowns": {
@@ -128352,7 +128354,8 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "energi": 99999
+    "energi": 99999,
+    "fun": {}
   },
   "6288271071833": {
     "jid": "6288271071833",
