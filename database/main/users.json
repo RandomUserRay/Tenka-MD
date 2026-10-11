@@ -127575,10 +127575,10 @@
       "defense": 16,
       "bank": 344198
     },
-    "exp": 58581,
-    "energi": 99945,
+    "exp": 58596,
+    "energi": 99944,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T08:36:11.484Z",
+    "lastSeen": "2026-10-11T08:52:04.633Z",
     "cooldowns": {
       "top": 1791700601689,
       "ship": 1791594897315,
@@ -127639,7 +127639,8 @@
       "jadibot": 1791693751066,
       "alquran": 1791699024594,
       "kurir": 1791700645160,
-      "saldo": 1791700667452
+      "saldo": 1791700667452,
+      "mining": 1791708725021
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
@@ -128065,10 +128066,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 276371,
-    "energi": 99839,
+    "exp": 276386,
+    "energi": 99838,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:51:58.529Z",
+    "lastSeen": "2026-10-11T08:52:04.609Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128108,7 +128109,7 @@
       "guildcreate": 1791566104716,
       "rest": 1791708256689,
       "lottery": 1791701023443,
-      "gacha": 1791700790343,
+      "gacha": 1791708724870,
       "maling": 1791706734427,
       "rob": 1791624843379,
       "me": 1791613904631,
@@ -128174,7 +128175,7 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 0,
+    "koin": 837,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
