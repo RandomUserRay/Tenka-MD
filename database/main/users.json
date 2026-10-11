@@ -16111,7 +16111,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397337,
+    "exp": 9397367,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -128056,7 +128056,7 @@
       "maxStamina": 225,
       "health": 105,
       "mana": 53,
-      "stamina": 68,
+      "stamina": 51,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 59,
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 257147,
+    "exp": 259348,
     "energi": 99858,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:42:21.862Z",
+    "lastSeen": "2026-10-11T08:43:13.782Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128123,7 +128123,7 @@
       "nyapu": 1791626114276,
       "daily": 1791673303957,
       "parkir": 1791701485737,
-      "kurir": 1791707922031,
+      "kurir": 1791708180592,
       "craft": 1791701789476,
       "bank": 1791707573611,
       "freelance": 1791570160960,
@@ -128146,7 +128146,7 @@
       "woodcut": 1791701464420,
       "heal": 1791673284809,
       "duel": 1791615989535,
-      "streamer": 1791707936179,
+      "streamer": 1791708191430,
       "expedition": 1791629413803,
       "leveluprpg": 1791619355204,
       "blacksmith": 1791619536315,
@@ -128167,11 +128167,12 @@
       "p": 1791700955150,
       "topchat": 1791706284692,
       "tambang": 1791708091728,
-      "istirahat": 1791708125418
+      "istirahat": 1791708125418,
+      "tidur": 1791708161138
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 127341,
+    "koin": 179314,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
@@ -128756,7 +128757,7 @@
   "6282190555784": {
     "jid": "6282190555784",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "60173328973": {
