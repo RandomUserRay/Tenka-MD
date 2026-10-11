@@ -102693,13 +102693,13 @@
   },
   "628981194866": {
     "name": "idk...?",
-    "lastSeen": "2026-10-10T14:54:32.311Z",
+    "lastSeen": "2026-10-11T08:46:09.104Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21979,
+    "exp": 21994,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102711,7 +102711,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1791644074128,
-      "d": 1791033297775,
+      "d": 1791708369336,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -102808,8 +102808,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 33,
+    "lastActiveDate": "11/10/2026",
+    "activeDays": 34,
     "fun": {
       "tembakTarget": "6285240302212@s.whatsapp.net",
       "tembakCount": 1,
@@ -127182,7 +127182,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "6281392627443": {
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 262771,
+    "exp": 262801,
     "energi": 99850,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:45:37.196Z",
+    "lastSeen": "2026-10-11T08:46:10.373Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128094,7 +128094,7 @@
       "level": 1791619321713,
       "inventory": 1791625530773,
       "berburu": 1791565382348,
-      "training": 1791707957006,
+      "training": 1791708341089,
       "adventure": 1791708270060,
       "arena": 1791565527524,
       "mining": 1791708299614,
