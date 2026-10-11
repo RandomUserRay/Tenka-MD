@@ -127562,23 +127562,23 @@
   "6285746122997": {
     "jid": "6285746122997",
     "rpg": {
-      "level": 6,
-      "maxHealth": 150,
-      "maxMana": 125,
-      "maxStamina": 125,
-      "health": 105,
-      "mana": 53,
-      "stamina": 48,
+      "level": 7,
+      "maxHealth": 160,
+      "maxMana": 130,
+      "maxStamina": 130,
+      "health": 160,
+      "mana": 130,
+      "stamina": 130,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 39,
       "defense": 16,
       "bank": 344198
     },
-    "exp": 59106,
+    "exp": 60424,
     "energi": 99944,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T09:03:52.960Z",
+    "lastSeen": "2026-10-11T09:04:13.249Z",
     "cooldowns": {
       "top": 1791700601689,
       "ship": 1791594897315,
@@ -127619,8 +127619,8 @@
       "sleep": 1791692853454,
       "heal": 1791700552614,
       "dungeon": 1791696685315,
-      "live": 1791708727257,
-      "bank": 1791709433314,
+      "live": 1791709458372,
+      "bank": 1791709449325,
       "donate": 1791627874589,
       "topchat": 1791700581776,
       "istirahat": 1791708743033,
@@ -127644,7 +127644,7 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 0,
+    "koin": 38646,
     "inventory": {
       "iron": 19,
       "leather": 10,
@@ -129107,7 +129107,7 @@
   "6287794785386": {
     "jid": "6287794785386",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "name": "Арся Унстар",
     "lastSeen": "2026-10-11T08:58:27.757Z"
   }
