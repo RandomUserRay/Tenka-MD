@@ -128186,15 +128186,15 @@
       "maxStamina": 165,
       "health": 230,
       "mana": 165,
-      "stamina": 140,
+      "stamina": 118,
       "guildId": "guild_1791568221406",
       "bank": 736255,
       "attack": 10,
-      "luck": 13
+      "luck": 14
     },
-    "exp": 130896,
+    "exp": 131011,
     "name": "👣",
-    "lastSeen": "2026-10-11T01:21:41.951Z",
+    "lastSeen": "2026-10-11T01:22:00.605Z",
     "cooldowns": {
       "top": 1791681590239,
       "menu": 1791678648222,
@@ -128237,7 +128237,7 @@
       "mining": 1791616339777,
       "clanwar": 1791613579763,
       "maling": 1791627863151,
-      "bank": 1791681666035,
+      "bank": 1791681710142,
       "rest": 1791631598683,
       "dungeon": 1791615871702,
       "cool": 1791614571897,
@@ -128271,7 +128271,7 @@
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
     "koin": 56722,
-    "energi": 99998,
+    "energi": 99997,
     "inventory": {
       "rock": 20,
       "iron": 5,
