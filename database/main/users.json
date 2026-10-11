@@ -127803,7 +127803,8 @@
     "energi": 99999,
     "lastActiveDate": "10/10/2026",
     "activeDays": 3,
-    "koin": 639
+    "koin": 639,
+    "fun": {}
   },
   "6285746911759": {
     "jid": "6285746911759",
@@ -128207,9 +128208,9 @@
       "attack": 10,
       "luck": 14
     },
-    "exp": 138143,
+    "exp": 138158,
     "name": "👣",
-    "lastSeen": "2026-10-11T03:47:04.207Z",
+    "lastSeen": "2026-10-11T03:47:21.616Z",
     "cooldowns": {
       "top": 1791689873228,
       "menu": 1791690311491,
@@ -128286,12 +128287,12 @@
       "apakah": 1791689574736,
       "tolak": 1791690173228,
       "ga": 1791689842461,
-      "tembak": 1791690196903
+      "tembak": 1791690442098
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
     "koin": 224589,
-    "energi": 99994,
+    "energi": 99993,
     "inventory": {
       "rock": 20,
       "iron": 5,
@@ -128304,8 +128305,8 @@
       "trash": 1
     },
     "fun": {
-      "tembakTarget": "6289679569897@s.whatsapp.net",
-      "tembakCount": 2
+      "tembakTarget": "628895546832@s.whatsapp.net",
+      "tembakCount": 3
     }
   },
   "6281534003702": {
