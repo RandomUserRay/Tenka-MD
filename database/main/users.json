@@ -123948,7 +123948,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 7170,
+    "exp": 7185,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-10T00:52:14.018Z",
     "cooldowns": {
@@ -128056,7 +128056,7 @@
       "maxStamina": 230,
       "health": 344,
       "mana": 230,
-      "stamina": 230,
+      "stamina": 190,
       "attack": 42,
       "guildId": "guild_1791568221406",
       "luck": 59,
@@ -128065,10 +128065,10 @@
       "enchants": {},
       "expeditions": []
     },
-    "exp": 260325,
-    "energi": 99857,
+    "exp": 260755,
+    "energi": 99855,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-11T08:44:26.565Z",
+    "lastSeen": "2026-10-11T08:44:41.037Z",
     "cooldowns": {
       "menu": 1791702139930,
       "menucat": 1791672978891,
@@ -128095,7 +128095,7 @@
       "inventory": 1791625530773,
       "berburu": 1791565382348,
       "training": 1791707957006,
-      "adventure": 1791707899529,
+      "adventure": 1791708270060,
       "arena": 1791565527524,
       "mining": 1791708100745,
       "dungeon": 1791618933708,
@@ -128119,7 +128119,7 @@
       "work": 1791705267305,
       "shop": 1791625637680,
       "use": 1791621970586,
-      "hunt": 1791701868679,
+      "hunt": 1791708273875,
       "nyapu": 1791626114276,
       "daily": 1791673303957,
       "parkir": 1791701485737,
@@ -128194,7 +128194,7 @@
       "stamina": 7,
       "common": 0,
       "bear": 3,
-      "rabbit": 13,
+      "rabbit": 14,
       "diamond": 3,
       "trash": 11,
       "sword": 1,
@@ -128204,7 +128204,7 @@
       "mushroom": 4,
       "apple": 1,
       "lion": 1,
-      "octopus": 1
+      "octopus": 2
     },
     "quest": {
       "adventure3": {
