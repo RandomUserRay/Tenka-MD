@@ -127565,18 +127565,14 @@
       "maxStamina": 120,
       "health": 116,
       "mana": 53,
-      "stamina": 41,
+      "stamina": 11,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 35,
       "defense": 13,
-      "bank": 343976,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791696685025
-      }
+      "bank": 343976
     },
-    "exp": 46535,
+    "exp": 46665,
     "energi": 99958,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T05:31:25.025Z",
@@ -127641,10 +127637,10 @@
     },
     "lastActiveDate": "11/10/2026",
     "activeDays": 3,
-    "koin": 0,
+    "koin": 222,
     "inventory": {
-      "iron": 17,
-      "leather": 8,
+      "iron": 19,
+      "leather": 10,
       "herb": 7,
       "diamond": 1,
       "potion": 3
