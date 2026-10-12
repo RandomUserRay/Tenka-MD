@@ -3065,7 +3065,7 @@
     "jid": "6285240302212",
     "name": "arkana",
     "number": "6285240302212",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 718226,
@@ -7276,7 +7276,7 @@
     "jid": "6283196442568",
     "name": "cìko",
     "number": "6283196442568",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 14780,
@@ -9811,7 +9811,7 @@
     "lastSeen": "2026-10-12T10:10:43.628Z",
     "jid": "6281310184404",
     "number": "6281310184404",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 54420,
@@ -16109,7 +16109,7 @@
     "jid": "6285753061976",
     "name": "ytta",
     "number": "6285753061976",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 9397382,
@@ -20301,7 +20301,7 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 61544,
@@ -67284,7 +67284,7 @@
     "jid": "6283135864303",
     "name": "pria. sigma",
     "number": "6283135864303",
-    "energi": 999995,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 175611,
@@ -90796,7 +90796,7 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 48465,
@@ -96665,7 +96665,7 @@
     "jid": "6283139380069",
     "name": "shiro zone",
     "number": "6283139380069",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 27623,
@@ -98847,7 +98847,7 @@
     "jid": "6285817456389",
     "name": "ra tau",
     "number": "6285817456389",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 5040,
@@ -121479,7 +121479,7 @@
     "cooldowns": {
       "play": 1791822616962
     },
-    "energi": 99997,
+    "energi": 99999,
     "lastActiveDate": "12/10/2026",
     "activeDays": 5
   },
@@ -122235,7 +122235,7 @@
       "tt": 1791796824358,
       "daily": 1791188860887
     },
-    "energi": 99994,
+    "energi": 99999,
     "lastActiveDate": "12/10/2026",
     "activeDays": 9
   },
@@ -123413,7 +123413,7 @@
       "play": 1791786422064,
       "limit": 1791353114061
     },
-    "energi": 99970,
+    "energi": 99999,
     "lastActiveDate": "12/10/2026",
     "activeDays": 6
   },
@@ -126492,7 +126492,7 @@
     },
     "lastActiveDate": "12/10/2026",
     "activeDays": 2,
-    "energi": 99997
+    "energi": 99999
   },
   "6285188774905": {
     "jid": "6285188774905",
@@ -126612,7 +126612,7 @@
       "smeme": 1791079046832,
       "s": 1791527488381
     },
-    "energi": 99996,
+    "energi": 99999,
     "lastActiveDate": "12/10/2026",
     "activeDays": 5
   },
@@ -129172,27 +129172,32 @@
   "6281343115965": {
     "jid": "6281343115965",
     "rpg": {},
-    "exp": 30
+    "exp": 30,
+    "energi": 99999
   },
   "6289692096357": {
     "jid": "6289692096357",
     "rpg": {},
-    "exp": 45
+    "exp": 45,
+    "energi": 99999
   },
   "6285705437931": {
     "jid": "6285705437931",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6283846171541": {
     "jid": "6283846171541",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6285828939372": {
     "jid": "6285828939372",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6285876737576": {
     "name": "Cainn :D",
@@ -129207,17 +129212,19 @@
     },
     "lastActiveDate": "12/10/2026",
     "activeDays": 1,
-    "energi": 23
+    "energi": 99999
   },
   "6289522184018": {
     "jid": "6289522184018",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6285741760626": {
     "jid": "6285741760626",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6282371750165": {
     "name": "Felia🇪🇦🇪🇦~🇺🇲🇺🇲",
@@ -129228,13 +129235,14 @@
     "cooldowns": {
       "ytmp4": 1791822975788
     },
-    "energi": 23,
+    "energi": 99999,
     "lastActiveDate": "12/10/2026",
     "activeDays": 1
   },
   "6285129802594": {
     "jid": "6285129802594",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   }
 }
