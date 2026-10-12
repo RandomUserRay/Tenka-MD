@@ -126484,13 +126484,14 @@
     "lastSeen": "2026-10-12T06:41:03.150Z",
     "jid": "6281348491234",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "cooldowns": {
       "menu": 1790928798872,
-      "menucat": 1790928799755
+      "menucat": 1790928799755,
+      "play": 1791787273959
     },
-    "lastActiveDate": "2/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "12/10/2026",
+    "activeDays": 2,
     "energi": 99998
   },
   "6285188774905": {
