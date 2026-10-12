@@ -98847,10 +98847,10 @@
     "jid": "6285817456389",
     "name": "ra tau",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4980,
+    "exp": 4995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98860,14 +98860,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T23:52:08.855Z",
+    "lastSeen": "2026-10-12T11:26:06.813Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
       "cekfemboy": 1790646727048,
       "femboy": 1790457489676,
-      "s": 1791676329952
+      "s": 1791804368738
     },
     "clanId": null,
     "isRegistered": false,
@@ -98877,8 +98877,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "12/10/2026",
+    "activeDays": 6
   },
   "6283139500330": {
     "jid": "6283139500330",
