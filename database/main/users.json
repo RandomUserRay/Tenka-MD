@@ -4050,7 +4050,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 100425,
+    "exp": 100440,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4059,13 +4059,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-12T23:49:34.074Z",
+    "lastSeen": "2026-10-12T23:49:42.585Z",
     "cooldowns": {
       "cekfemboy": 1780119477300,
       "afk": 1791284553030,
       "s": 1790521949939,
       "ww": 1782475625593,
-      "cekganteng": 1785377324470,
+      "cekganteng": 1791848982796,
       "femboy": 1785320378137,
       "rob": 1780815427533,
       "warn": 1785294792026,
@@ -4163,8 +4163,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "13/10/2026",
+    "activeDays": 6
   },
   "628988810597": {
     "jid": "628988810597",
@@ -98852,7 +98852,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5265,
+    "exp": 5280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98862,7 +98862,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-12T23:49:11.612Z",
+    "lastSeen": "2026-10-12T23:49:41.253Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
@@ -98870,7 +98870,8 @@
       "cekfemboy": 1791848589887,
       "femboy": 1790457489676,
       "s": 1791804368738,
-      "cekganteng": 1791848951834
+      "cekganteng": 1791848951834,
+      "cekcantik": 1791848981517
     },
     "clanId": null,
     "isRegistered": false,
