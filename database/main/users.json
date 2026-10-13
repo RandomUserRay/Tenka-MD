@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1230,
+    "exp": 1245,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1212,10 +1212,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-12T23:47:58.873Z",
+    "lastSeen": "2026-10-13T04:15:45.707Z",
     "cooldowns": {
       "cekfemboy": 1791848882490,
-      "s": 1791542135738
+      "s": 1791542135738,
+      "cekganteng": 1791864946499
     },
     "clanId": null,
     "isRegistered": false,
