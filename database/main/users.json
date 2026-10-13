@@ -7281,7 +7281,7 @@
     "jid": "6283196442568",
     "name": "cìko",
     "number": "6283196442568",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 14855,
@@ -9818,7 +9818,7 @@
     "lastSeen": "2026-10-13T08:53:40.089Z",
     "jid": "6281310184404",
     "number": "6281310184404",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 54555,
@@ -20308,7 +20308,7 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99993,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 61649,
@@ -35760,7 +35760,7 @@
     "jid": "6287830385717",
     "name": "f",
     "number": "6287830385717",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 304903,
@@ -67292,7 +67292,7 @@
     "jid": "6283135864303",
     "name": "pria. sigma",
     "number": "6283135864303",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 175656,
@@ -90349,7 +90349,7 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99966,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 11970,
@@ -99654,7 +99654,7 @@
     "jid": "6281521975279",
     "name": "Reyy",
     "number": "6281521975279",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 7350,
@@ -123425,7 +123425,7 @@
       "play": 1791871142508,
       "limit": 1791353114061
     },
-    "energi": 99975,
+    "energi": 99999,
     "lastActiveDate": "13/10/2026",
     "activeDays": 7
   },
@@ -125337,7 +125337,7 @@
     "cooldowns": {
       "ig": 1791891207839
     },
-    "energi": 99996,
+    "energi": 99999,
     "lastActiveDate": "13/10/2026",
     "activeDays": 4
   },
@@ -126377,7 +126377,7 @@
       "tt": 1791280380743,
       "s": 1791351718355
     },
-    "energi": 99996,
+    "energi": 99999,
     "lastActiveDate": "13/10/2026",
     "activeDays": 11
   },
@@ -128454,7 +128454,7 @@
     "jid": "6285933771984",
     "rpg": {},
     "exp": 30,
-    "energi": 99997,
+    "energi": 99999,
     "name": "faa",
     "lastSeen": "2026-10-13T05:22:01.946Z",
     "cooldowns": {
@@ -128724,7 +128724,7 @@
       "femboy": 1791882324135,
       "tt": 1791897362528
     },
-    "energi": 99998,
+    "energi": 99999,
     "lastActiveDate": "13/10/2026",
     "activeDays": 2
   },
@@ -129272,12 +129272,14 @@
   "62895626733482": {
     "jid": "62895626733482",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {},
-    "exp": 330
+    "exp": 330,
+    "energi": 99999
   },
   "6285168650186": {
     "name": "pratama",
@@ -129288,23 +129290,26 @@
     "cooldowns": {
       "play": 1791898047216
     },
-    "energi": 23,
+    "energi": 99999,
     "lastActiveDate": "13/10/2026",
     "activeDays": 1
   },
   "6288987096165": {
     "jid": "6288987096165",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "628981225271": {
     "jid": "628981225271",
     "rpg": {},
-    "exp": 30
+    "exp": 30,
+    "energi": 99999
   },
   "6285861528612": {
     "jid": "6285861528612",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   }
 }
