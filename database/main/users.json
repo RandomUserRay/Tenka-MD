@@ -2999,7 +2999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3765,
+    "exp": 3780,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35758,12 +35758,12 @@
   },
   "6287830385717": {
     "jid": "6287830385717",
-    "name": "fyanie",
+    "name": "f",
     "number": "6287830385717",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 304888,
+    "exp": 304903,
     "level": 1,
     "koin": 510091,
     "unlockedFeatures": [],
@@ -35772,7 +35772,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T05:10:56.267Z",
+    "lastSeen": "2026-10-13T05:58:09.305Z",
     "cooldowns": {
       "close": 1786965998292,
       "open": 1786966028516,
@@ -35816,7 +35816,7 @@
       "topchat": 1784800943182,
       "setwelcome": 1784949508806,
       "stiker": 1785232330879,
-      "s": 1786966003883,
+      "s": 1791871090464,
       "smeme": 1786966254400,
       "menu": 1786966332152
     },
@@ -35845,8 +35845,8 @@
     "access": [],
     "lastStreamer": 1785232741005,
     "saldo": 0,
-    "lastActiveDate": "29/8/2026",
-    "activeDays": 1
+    "lastActiveDate": "13/10/2026",
+    "activeDays": 2
   },
   "6282172848271": {
     "name": "NATHAN NEWMAN TARA",
@@ -100903,7 +100903,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2595,
+    "exp": 2640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102185,7 +102185,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123414,15 +123414,15 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-13T05:56:29.512Z",
+    "lastSeen": "2026-10-13T05:57:58.438Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 3705,
+    "exp": 3735,
     "cooldowns": {
-      "play": 1791870998424,
+      "play": 1791871113316,
       "limit": 1791353114061
     },
-    "energi": 99977,
+    "energi": 99976,
     "lastActiveDate": "13/10/2026",
     "activeDays": 7
   },
@@ -125904,10 +125904,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11745,
+    "exp": 11790,
     "energi": 99999,
     "name": "Sins keren",
-    "lastSeen": "2026-10-13T05:52:59.518Z",
+    "lastSeen": "2026-10-13T05:58:25.216Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1790320368588,
@@ -125922,7 +125922,8 @@
       "tsundere": 1790321815232,
       "yandere": 1790321855291,
       "ganteng": 1790392048513,
-      "play": 1791726176881
+      "play": 1791726176881,
+      "top": 1791871105636
     },
     "lastActiveDate": "13/10/2026",
     "activeDays": 5
@@ -126728,7 +126729,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 6045,
+    "exp": 6075,
     "energi": 99999
   },
   "6282142567964": {
