@@ -178,7 +178,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 135978785,
+    "exp": 135978860,
     "level": 1,
     "koin": 60752169,
     "unlockedFeatures": [],
@@ -187,7 +187,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T03:42:03.471Z",
+    "lastSeen": "2026-10-13T05:51:58.618Z",
     "cooldowns": {
       "profile": 1790279616965,
       "cekfemboy": 1780152179893,
@@ -2999,7 +2999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3600,
+    "exp": 3615,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3008,7 +3008,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T05:44:35.188Z",
+    "lastSeen": "2026-10-13T05:51:58.613Z",
     "cooldowns": {
       "bank": 1780380079016,
       "profile": 1780381098141,
@@ -123416,7 +123416,7 @@
     "lastSeen": "2026-10-13T05:51:48.111Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 3630,
+    "exp": 3645,
     "cooldowns": {
       "play": 1791870568539,
       "limit": 1791353114061
@@ -125903,10 +125903,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11595,
+    "exp": 11610,
     "energi": 99999,
     "name": "Sins keren",
-    "lastSeen": "2026-10-13T05:51:39.048Z",
+    "lastSeen": "2026-10-13T05:51:51.979Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1790320368588,
@@ -126727,7 +126727,7 @@
   "628134903757": {
     "jid": "628134903757",
     "rpg": {},
-    "exp": 5940,
+    "exp": 5955,
     "energi": 99999
   },
   "6282142567964": {
