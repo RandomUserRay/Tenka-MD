@@ -71364,10 +71364,10 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73651,
+    "exp": 73666,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71376,7 +71376,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-14T10:32:26.541Z",
+    "lastSeen": "2026-10-14T10:32:48.228Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -127108,15 +127108,15 @@
   },
   "6283183806247": {
     "name": "ᴡᴀɴɢ ʟɪɴ",
-    "lastSeen": "2026-10-14T10:30:57.985Z",
+    "lastSeen": "2026-10-14T10:32:37.167Z",
     "jid": "6283183806247",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "cooldowns": {
-      "s": 1791973859052,
+      "s": 1791973958234,
       "play": 1791219814165
     },
-    "energi": 99995,
+    "energi": 99994,
     "lastActiveDate": "14/10/2026",
     "activeDays": 3
   },
