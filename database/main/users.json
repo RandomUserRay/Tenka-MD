@@ -3070,7 +3070,7 @@
     "jid": "6285240302212",
     "name": "arkana",
     "number": "6285240302212",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 719531,
@@ -7281,7 +7281,7 @@
     "jid": "6283196442568",
     "name": "cìko",
     "number": "6283196442568",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 14930,
@@ -9818,7 +9818,7 @@
     "lastSeen": "2026-10-14T08:34:00.978Z",
     "jid": "6281310184404",
     "number": "6281310184404",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 55170,
@@ -16116,7 +16116,7 @@
     "jid": "6285753061976",
     "name": "Thomas Jefferson",
     "number": "6285753061976",
-    "energi": 99993,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 9397517,
@@ -20308,7 +20308,7 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 61709,
@@ -22358,7 +22358,7 @@
     "jid": "6289677467174",
     "name": "Lixxya :3",
     "number": "6289677467174",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 29047,
@@ -28722,7 +28722,7 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 298196,
@@ -33231,7 +33231,7 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99996,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 555559,
@@ -71365,7 +71365,7 @@
     "jid": "6287811930699",
     "name": "FATHIR",
     "number": "6287811930699",
-    "energi": 99994,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 73666,
@@ -90806,7 +90806,7 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 48930,
@@ -96675,7 +96675,7 @@
     "jid": "6283139380069",
     "name": "shiro >ᴗ•",
     "number": "6283139380069",
-    "energi": 99994,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 28958,
@@ -98857,7 +98857,7 @@
     "jid": "6285817456389",
     "name": "ra tau",
     "number": "6285817456389",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 6390,
@@ -99656,7 +99656,7 @@
     "jid": "6281521975279",
     "name": "Reyy",
     "number": "6281521975279",
-    "energi": 999999,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
     "exp": 8085,
@@ -122250,7 +122250,7 @@
       "tt": 1791948075314,
       "daily": 1791941472984
     },
-    "energi": 99971,
+    "energi": 99999,
     "lastActiveDate": "14/10/2026",
     "activeDays": 10
   },
@@ -125341,7 +125341,7 @@
       "ig": 1791934888142,
       "tt": 1791974374764
     },
-    "energi": 99997,
+    "energi": 99999,
     "lastActiveDate": "14/10/2026",
     "activeDays": 5
   },
@@ -125602,7 +125602,7 @@
     "jid": "6285654965339",
     "rpg": {},
     "exp": 120,
-    "energi": 99998,
+    "energi": 99999,
     "name": "lah kok aku",
     "lastSeen": "2026-10-13T17:16:24.964Z",
     "cooldowns": {
@@ -126228,7 +126228,7 @@
       "s": 1791297266416,
       "pinpack": 1791975178642
     },
-    "energi": 99993,
+    "energi": 99999,
     "lastActiveDate": "14/10/2026",
     "activeDays": 13
   },
@@ -126382,7 +126382,7 @@
       "tt": 1791280380743,
       "s": 1791351718355
     },
-    "energi": 99996,
+    "energi": 99999,
     "lastActiveDate": "14/10/2026",
     "activeDays": 12
   },
@@ -127119,7 +127119,7 @@
       "s": 1791973958234,
       "play": 1791219814165
     },
-    "energi": 99994,
+    "energi": 99999,
     "lastActiveDate": "14/10/2026",
     "activeDays": 3
   },
@@ -129320,23 +129320,27 @@
   "6281233252692": {
     "jid": "6281233252692",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "6283838609451": {
     "jid": "6283838609451",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   },
   "601116523182": {
     "jid": "601116523182",
     "rpg": {},
-    "exp": 90
+    "exp": 90,
+    "energi": 99999
   },
   "6285137207418": {
     "name": "clowie",
     "lastSeen": "2026-10-14T10:56:47.212Z",
     "jid": "6285137207418",
     "rpg": {},
-    "exp": 15
+    "exp": 15,
+    "energi": 99999
   }
 }
