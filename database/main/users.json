@@ -9816,13 +9816,13 @@
   },
   "6281310184404": {
     "name": "Elara-mao",
-    "lastSeen": "2026-10-15T10:10:26.403Z",
+    "lastSeen": "2026-10-15T10:11:04.444Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55935,
+    "exp": 55950,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9863,7 +9863,7 @@
       "rfemboyvid": 1791287286055,
       "femboysvid": 1791966842746,
       "cekfemboy": 1792058767859,
-      "cektsundere": 1792059009051
+      "cektsundere": 1792059066281
     },
     "clanId": null,
     "isRegistered": false,
@@ -96681,7 +96681,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29573,
+    "exp": 29588,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96691,7 +96691,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T10:10:37.072Z",
+    "lastSeen": "2026-10-15T10:11:08.712Z",
     "cooldowns": {
       "afk": 1792051660880,
       "play": 1791555279345,
@@ -96709,7 +96709,7 @@
       "femboy": 1792058868930,
       "dadu": 1788079899385,
       "bank": 1789119647649,
-      "cekyandere": 1790256123798,
+      "cekyandere": 1792059068970,
       "cekimut": 1792058791980,
       "d": 1791963093308,
       "mutegc": 1789906948972,
@@ -129305,7 +129305,15 @@
   },
   "6285284891404": {
     "jid": "6285284891404",
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "exp": 1920,
     "energi": 99999,
     "name": "Devvarajha",
