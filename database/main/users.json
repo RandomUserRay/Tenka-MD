@@ -54520,7 +54520,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20016,
+    "exp": 20061,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54529,7 +54529,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T16:30:15.776Z",
+    "lastSeen": "2026-10-15T16:30:48.666Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54574,7 +54574,10 @@
       "s": 1790686221341,
       "promote": 1791894633467,
       "benefitprem": 1792077323680,
-      "rank": 1792081816537
+      "rank": 1792081816537,
+      "topkoin": 1792081833650,
+      "topexp": 1792081841867,
+      "topenergi": 1792081848917
     },
     "clanId": null,
     "isRegistered": false,
@@ -129426,7 +129429,7 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 930,
+    "exp": 960,
     "name": "Angga?",
     "lastSeen": "2026-10-15T16:30:26.574Z"
   },
