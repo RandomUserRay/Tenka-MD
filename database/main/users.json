@@ -96679,7 +96679,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29078,
+    "exp": 29093,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96989,7 +96989,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6060,
+    "exp": 6090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125912,7 +125912,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14235,
+    "exp": 14280,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-15T07:57:41.551Z",
@@ -129284,13 +129284,14 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {},
-    "exp": 1380,
+    "exp": 1455,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-15T07:57:42.365Z",
+    "lastSeen": "2026-10-15T07:59:46.762Z",
     "cooldowns": {
       "cekganteng": 1792050647440,
-      "femboy": 1792051063753
+      "femboy": 1792051063753,
+      "top": 1792051187245
     },
     "lastActiveDate": "15/10/2026",
     "activeDays": 1
