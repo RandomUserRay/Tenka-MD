@@ -9438,7 +9438,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7275,
+    "exp": 7290,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9447,7 +9447,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T03:58:15.031Z",
+    "lastSeen": "2026-10-15T14:44:03.685Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9465,7 +9465,8 @@
       "afk": 1780892839841,
       "hug": 1780920517657,
       "marry": 1781398929822,
-      "femboy": 1791863899288
+      "femboy": 1791863899288,
+      "cekcantik": 1792075443921
     },
     "clanId": null,
     "isRegistered": false,
@@ -9485,8 +9486,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 2
   },
   "6283164294513": {
     "jid": "6283164294513",
@@ -129411,7 +129412,7 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "name": "Angga?",
     "lastSeen": "2026-10-15T14:41:35.284Z"
   },
