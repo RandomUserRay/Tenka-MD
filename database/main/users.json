@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 680559,
+    "exp": 680634,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -127151,7 +127151,11 @@
     "energi": 99998,
     "name": "kel sangnean (wlw)",
     "lastSeen": "2026-10-15T08:28:21.805Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "s": 1792052905195
+    },
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 1
   },
   "6285649318520": {
     "jid": "6285649318520",
