@@ -3502,7 +3502,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431552,
+    "exp": 431597,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3511,9 +3511,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:40:06.177Z",
+    "lastSeen": "2026-10-15T13:42:05.511Z",
     "cooldowns": {
-      "femboy": 1792071608229,
+      "femboy": 1792071719580,
       "profile": 1790583682310,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -3533,7 +3533,7 @@
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1790758834111,
+      "gay": 1792071725966,
       "gacha": 1790509403734,
       "vote": 1781354632085,
       "sleep": 1782792781563,
@@ -90357,10 +90357,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99986,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12225,
+    "exp": 12255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90370,7 +90370,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:40:46.074Z",
+    "lastSeen": "2026-10-15T13:42:05.285Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90408,7 +90408,7 @@
       "x": 1791863977149,
       "pp": 1791204603488,
       "h": 1790564070451,
-      "hd": 1792071657225,
+      "hd": 1792071734933,
       "netflix": 1790518327681,
       "ammagic": 1790519064296,
       "ht": 1791423392743,
@@ -98867,7 +98867,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6540,
+    "exp": 6615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98877,15 +98877,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:39:11.633Z",
+    "lastSeen": "2026-10-15T13:42:02.734Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
       "cekfemboy": 1792071554260,
-      "femboy": 1790457489676,
+      "femboy": 1792071678951,
       "s": 1791804368738,
-      "cekganteng": 1792071528845,
+      "cekganteng": 1792071722951,
       "cekcantik": 1791848981517
     },
     "clanId": null,
@@ -129334,16 +129334,17 @@
   },
   "6285168650186": {
     "name": "pratama",
-    "lastSeen": "2026-10-13T13:26:57.487Z",
+    "lastSeen": "2026-10-15T13:41:47.387Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "cooldowns": {
-      "play": 1791898047216
+      "play": 1791898047216,
+      "femboy": 1792071709252
     },
     "energi": 99999,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 2
   },
   "6288987096165": {
     "jid": "6288987096165",
@@ -129397,13 +129398,13 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "Angga?",
-    "lastSeen": "2026-10-15T13:36:29.341Z"
+    "lastSeen": "2026-10-15T13:42:14.201Z"
   }
 }
