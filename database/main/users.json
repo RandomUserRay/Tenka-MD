@@ -129435,13 +129435,14 @@
   },
   "60105719917": {
     "name": "Edison（马来西亚）",
-    "lastSeen": "2026-10-15T16:00:22.227Z",
+    "lastSeen": "2026-10-15T16:00:49.991Z",
     "jid": "60105719917",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 999997,
     "cooldowns": {
-      "yaoivid": 1792079962283
+      "yaoivid": 1792079962283,
+      "milfvid": 1792080052614
     },
     "lastActiveDate": "15/10/2026",
     "activeDays": 1
