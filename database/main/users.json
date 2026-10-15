@@ -100914,7 +100914,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4125,
+    "exp": 4140,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121502,16 +121502,17 @@
   },
   "239478803304669": {
     "name": "Rin",
-    "lastSeen": "2026-10-12T16:30:00.891Z",
+    "lastSeen": "2026-10-15T11:26:42.338Z",
     "jid": "239478803304669",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "cooldowns": {
-      "play": 1791822616962
+      "play": 1791822616962,
+      "s": 1792063605432
     },
-    "energi": 99999,
-    "lastActiveDate": "12/10/2026",
-    "activeDays": 5
+    "energi": 99998,
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 6
   },
   "62895414271608": {
     "jid": "62895414271608",
