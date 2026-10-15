@@ -96989,7 +96989,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5835,
+    "exp": 5865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -96999,10 +96999,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T07:49:21.559Z",
+    "lastSeen": "2026-10-15T07:51:06.580Z",
     "cooldowns": {
       "s": 1790565713193,
-      "femboy": 1792050564632,
+      "femboy": 1792050668440,
       "tsundere": 1790234407306,
       "cekganteng": 1791870993895,
       "cekcantik": 1790234132630,
@@ -125912,16 +125912,16 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13725,
+    "exp": 13785,
     "energi": 99999,
     "name": "Sins keren",
-    "lastSeen": "2026-10-15T07:50:29.558Z",
+    "lastSeen": "2026-10-15T07:50:49.921Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1792050462293,
       "cekganteng": 1791870747741,
       "cekcantik": 1790321680084,
-      "femboy": 1792050632442,
+      "femboy": 1792050651734,
       "cantik": 1790248464010,
       "afk": 1790265270455,
       "cekjodoh": 1790321487229,
@@ -129284,8 +129284,16 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {},
-    "exp": 1230,
-    "energi": 99999
+    "exp": 1275,
+    "energi": 99999,
+    "name": "Devvarajha",
+    "lastSeen": "2026-10-15T07:51:10.652Z",
+    "cooldowns": {
+      "cekganteng": 1792050647440,
+      "femboy": 1792050672331
+    },
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 1
   },
   "6285168650186": {
     "name": "pratama",
