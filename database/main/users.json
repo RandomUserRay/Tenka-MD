@@ -139,8 +139,8 @@
       ],
       "time": 1786853090787
     },
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 42
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 43
   },
   "639757724313": {
     "jid": "639757724313",
@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 680334,
+    "exp": 680484,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1827,7 +1827,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T07:42:04.119Z",
+    "lastSeen": "2026-10-15T07:42:14.121Z",
     "cooldowns": {
       "menu": 1784047213442,
       "owner": 1780107827338,
@@ -128720,7 +128720,7 @@
   "6287892819825": {
     "jid": "6287892819825",
     "rpg": {},
-    "exp": 585,
+    "exp": 600,
     "name": "hell?",
     "lastSeen": "2026-10-15T07:42:04.221Z",
     "cooldowns": {
