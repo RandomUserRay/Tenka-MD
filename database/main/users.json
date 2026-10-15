@@ -102224,7 +102224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 600,
+    "exp": 615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102234,11 +102234,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-14T06:19:07.884Z",
+    "lastSeen": "2026-10-15T09:29:08.900Z",
     "cooldowns": {
       "cekcantik": 1790248510656,
       "cekganteng": 1790248531436,
-      "afk": 1791958749837
+      "afk": 1792056550967
     },
     "clanId": null,
     "isRegistered": false,
@@ -102248,8 +102248,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "14/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 6
   },
   "6285705825895": {
     "jid": "6285705825895",
