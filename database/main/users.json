@@ -54517,7 +54517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19836,
+    "exp": 19851,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54526,7 +54526,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:40:07.777Z",
+    "lastSeen": "2026-10-15T15:15:23.120Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54569,7 +54569,8 @@
       "ganteng": 1790684950647,
       "cekimut": 1790685001410,
       "s": 1790686221341,
-      "promote": 1791894633467
+      "promote": 1791894633467,
+      "benefitprem": 1792077323680
     },
     "clanId": null,
     "isRegistered": false,
