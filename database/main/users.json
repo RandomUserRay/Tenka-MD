@@ -3073,7 +3073,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 719936,
+    "exp": 719951,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3082,10 +3082,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T14:43:48.889Z",
+    "lastSeen": "2026-10-15T14:44:17.263Z",
     "cooldowns": {
       "iqc": 1780115533418,
-      "cektsundere": 1792075299659,
+      "cektsundere": 1792075458996,
       "profile": 1788080088758,
       "gacha": 1786422991276,
       "mulung": 1780122236839,
@@ -129412,7 +129412,7 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "name": "Angga?",
     "lastSeen": "2026-10-15T14:41:35.284Z"
   },
