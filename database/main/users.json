@@ -98867,7 +98867,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6510,
+    "exp": 6525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98877,12 +98877,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:38:48.598Z",
+    "lastSeen": "2026-10-15T13:39:11.633Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
-      "cekfemboy": 1792071320788,
+      "cekfemboy": 1792071554260,
       "femboy": 1790457489676,
       "s": 1791804368738,
       "cekganteng": 1792071528845,
@@ -129402,7 +129402,7 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 105,
+    "exp": 135,
     "name": "Angga?",
     "lastSeen": "2026-10-15T13:36:29.341Z"
   }
