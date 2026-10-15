@@ -98872,7 +98872,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6855,
+    "exp": 6870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98882,7 +98882,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T16:13:47.216Z",
+    "lastSeen": "2026-10-15T16:14:44.529Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
@@ -98891,7 +98891,8 @@
       "femboy": 1792071678951,
       "s": 1791804368738,
       "cekganteng": 1792071722951,
-      "cekcantik": 1791848981517
+      "cekcantik": 1791848981517,
+      "benefitpremium": 1792080884560
     },
     "clanId": null,
     "isRegistered": false,
