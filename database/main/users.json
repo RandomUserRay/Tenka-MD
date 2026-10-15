@@ -11630,7 +11630,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40549,
+    "exp": 40564,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11639,7 +11639,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T00:24:51.523Z",
+    "lastSeen": "2026-10-15T14:09:42.879Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1790421860555,
@@ -11675,7 +11675,7 @@
       "training": 1789213756929,
       "gamble": 1789213794986,
       "delete": 1790037746811,
-      "d": 1791108550330,
+      "d": 1792073383336,
       "cekcantik": 1791848885788,
       "cekpintar": 1790233937518,
       "cektsundere": 1790233967172,
@@ -11710,8 +11710,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 11,
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 12,
     "fun": {
       "tembakTarget": "628981194866@s.whatsapp.net",
       "tembakCount": 1
@@ -129318,7 +129318,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 2550,
+    "exp": 2565,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-15T10:10:20.352Z",
@@ -129398,14 +129398,20 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "FeeSukaAyam",
-    "lastSeen": "2026-10-15T13:42:41.694Z"
+    "lastSeen": "2026-10-15T14:09:33.338Z",
+    "cooldowns": {
+      "s": 1792073375200
+    },
+    "energi": 24,
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 1
   },
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "name": "Angga?",
     "lastSeen": "2026-10-15T13:42:14.201Z"
   }
