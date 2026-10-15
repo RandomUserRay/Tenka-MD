@@ -3499,10 +3499,10 @@
     "jid": "6282135848247",
     "name": "LeonaSukaMieAyam",
     "number": "6282135848247",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431597,
+    "exp": 431612,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3511,7 +3511,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:42:05.511Z",
+    "lastSeen": "2026-10-15T13:42:34.008Z",
     "cooldowns": {
       "femboy": 1792071719580,
       "profile": 1790583682310,
@@ -3528,7 +3528,7 @@
       "slap": 1782457591965,
       "level": 1781266941070,
       "exp": 1781530053122,
-      "s": 1791285163543,
+      "s": 1792071755113,
       "ww": 1782477803290,
       "fishing": 1781599522855,
       "mining": 1782910236160,
@@ -90357,10 +90357,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99984,
+    "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12255,
+    "exp": 12270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90370,7 +90370,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T13:42:05.285Z",
+    "lastSeen": "2026-10-15T13:42:43.797Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -129337,7 +129337,7 @@
     "lastSeen": "2026-10-15T13:41:47.387Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "cooldowns": {
       "play": 1791898047216,
       "femboy": 1792071709252
@@ -129398,7 +129398,9 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "FeeSukaAyam",
+    "lastSeen": "2026-10-15T13:42:41.694Z"
   },
   "6283155516406": {
     "jid": "6283155516406",
