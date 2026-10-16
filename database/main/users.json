@@ -4053,7 +4053,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 101805,
+    "exp": 101820,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4062,7 +4062,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T07:45:38.116Z",
+    "lastSeen": "2026-10-16T10:27:53.256Z",
     "cooldowns": {
       "cekfemboy": 1792050340233,
       "afk": 1791284553030,
@@ -4138,7 +4138,8 @@
       "black": 1785420054956,
       "play": 1790595070389,
       "hd5": 1786316559073,
-      "femboysvid": 1792050316509
+      "femboysvid": 1792050316509,
+      "top": 1792146473689
     },
     "clanId": null,
     "isRegistered": false,
@@ -4167,8 +4168,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 7
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 8
   },
   "628988810597": {
     "jid": "628988810597",
@@ -124817,7 +124818,7 @@
   "6281991077169": {
     "jid": "6281991077169",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "energi": 99995,
     "name": "Shenka C.L",
     "lastSeen": "2026-10-16T10:27:07.837Z",
