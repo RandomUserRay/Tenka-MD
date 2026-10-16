@@ -3071,10 +3071,10 @@
     "jid": "6285240302212",
     "name": "arkana",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720611,
+    "exp": 720656,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3083,7 +3083,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T10:40:08.497Z",
+    "lastSeen": "2026-10-16T14:14:12.596Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3145,7 +3145,7 @@
       "tebaknegara": 1787747090717,
       "kicks": 1782998068424,
       "cekkhodam": 1783062546427,
-      "s": 1791789776239,
+      "s": 1792160053823,
       "rfemboyvid": 1783239608583,
       "furryvid": 1783229351946,
       "hytamkan": 1783777396215,
@@ -126250,7 +126250,7 @@
   "6285151164722": {
     "jid": "6285151164722",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "energi": 99999
   },
   "62895348807500": {
