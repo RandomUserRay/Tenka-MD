@@ -90877,7 +90877,8 @@
       "lick": 1790345792529,
       "kick": 1790345795901,
       "tiktok": 1791122224854,
-      "delete": 1791121520025
+      "delete": 1791121520025,
+      "pin": 1792158402336
     },
     "clanId": null,
     "isRegistered": false,
@@ -98902,14 +98903,23 @@
       "s": 1792086425005,
       "cekganteng": 1792071722951,
       "cekcantik": 1791848981517,
-      "benefitpremium": 1792080884560
+      "benefitpremium": 1792080884560,
+      "me": 1792158405221
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 1,
+      "health": 100,
+      "maxHealth": 100,
+      "mana": 100,
+      "maxMana": 100,
+      "stamina": 100,
+      "maxStamina": 100
+    },
     "inventory": {},
     "access": [],
     "lastActiveDate": "16/10/2026",
