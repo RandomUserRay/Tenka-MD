@@ -62329,7 +62329,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 152229,
+    "exp": 152244,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62338,9 +62338,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T14:29:45.527Z",
+    "lastSeen": "2026-10-16T08:32:37.815Z",
     "cooldowns": {
-      "afk": 1791036107286,
+      "afk": 1792139559417,
       "play": 1792074599014,
       "mancing": 1784643047902,
       "susun": 1788241788337,
@@ -62370,8 +62370,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 22
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 23
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -129435,7 +129435,7 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1065,
     "name": "FeeSukaAyam",
     "lastSeen": "2026-10-16T08:13:09.925Z",
     "cooldowns": {
