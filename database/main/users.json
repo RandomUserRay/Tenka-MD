@@ -90368,10 +90368,10 @@
     "jid": "6285147498740",
     "name": "emoh",
     "number": "6285147498740",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12315,
+    "exp": 12345,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90381,7 +90381,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-15T15:50:16.734Z",
+    "lastSeen": "2026-10-16T01:56:42.372Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90416,7 +90416,7 @@
       "pixiv": 1791087937918,
       "limit": 1790393643935,
       "p": 1792068953476,
-      "x": 1791863977149,
+      "x": 1792115795353,
       "pp": 1791204603488,
       "h": 1790564070451,
       "hd": 1792079420380,
@@ -90450,8 +90450,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 21
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 22
   },
   "6282229809440": {
     "jid": "6282229809440",
