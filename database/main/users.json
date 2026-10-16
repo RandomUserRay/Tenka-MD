@@ -100926,7 +100926,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4650,
+    "exp": 4680,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122270,15 +122270,15 @@
   },
   "6285242211494": {
     "name": "olv",
-    "lastSeen": "2026-10-16T04:11:30.440Z",
+    "lastSeen": "2026-10-16T04:12:07.334Z",
     "jid": "6285242211494",
     "rpg": {},
-    "exp": 7962,
+    "exp": 7977,
     "cooldowns": {
-      "tt": 1792123892842,
+      "tt": 1792123930992,
       "daily": 1791941472984
     },
-    "energi": 99998,
+    "energi": 99997,
     "lastActiveDate": "16/10/2026",
     "activeDays": 11
   },
