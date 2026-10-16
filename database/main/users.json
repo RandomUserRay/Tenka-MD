@@ -77023,13 +77023,13 @@
   },
   "6282347918190": {
     "name": "pulzz",
-    "lastSeen": "2026-10-15T16:45:44.986Z",
+    "lastSeen": "2026-10-16T15:50:24.319Z",
     "jid": "6282347918190",
     "number": "6282347918190",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6337,
+    "exp": 6352,
     "level": 1,
     "koin": 2494,
     "unlockedFeatures": [],
@@ -77066,7 +77066,8 @@
       "stiker": 1789563751026,
       "pin": 1789561407285,
       "swm": 1789563738987,
-      "yaoivid": 1792082748072
+      "yaoivid": 1792082748072,
+      "benefitpremium": 1792165824808
     },
     "clanId": null,
     "isRegistered": false,
@@ -77077,8 +77078,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 7
   },
   "6285738067580": {
     "jid": "6285738067580",
