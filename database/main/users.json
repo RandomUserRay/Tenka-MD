@@ -1203,7 +1203,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1560,
+    "exp": 1575,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1212,12 +1212,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T10:34:24.040Z",
+    "lastSeen": "2026-10-16T10:38:57.216Z",
     "cooldowns": {
       "cekfemboy": 1791848882490,
       "s": 1792146497211,
       "cekganteng": 1791864946499,
-      "top": 1792146864588
+      "top": 1792147137665
     },
     "clanId": null,
     "isRegistered": false,
@@ -3074,7 +3074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720446,
+    "exp": 720461,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -129457,7 +129457,7 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {},
-    "exp": 1860,
+    "exp": 1875,
     "name": "Angga?",
     "lastSeen": "2026-10-16T10:18:21.802Z",
     "energi": 99999
