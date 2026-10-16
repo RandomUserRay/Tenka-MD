@@ -71039,12 +71039,12 @@
   },
   "6282135836023": {
     "jid": "6282135836023",
-    "name": "Fin❓",
+    "name": "Shin🪻",
     "number": "6282135836023",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 975,
+    "exp": 990,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71053,7 +71053,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-30T08:59:21.508Z",
+    "lastSeen": "2026-10-16T10:44:05.821Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -129353,13 +129353,13 @@
       "stamina": 205,
       "maxStamina": 205
     },
-    "exp": 212240,
+    "exp": 212390,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-16T10:43:37.342Z",
+    "lastSeen": "2026-10-16T10:43:52.044Z",
     "cooldowns": {
       "cekganteng": 1792058708546,
-      "femboy": 1792147423607,
+      "femboy": 1792147433895,
       "top": 1792147093649,
       "cekcantik": 1792058732742,
       "status": 1792059081248,
@@ -129497,5 +129497,10 @@
     "jid": "6282347767335",
     "rpg": {},
     "exp": 30
+  },
+  "6289674776053": {
+    "jid": "6289674776053",
+    "rpg": {},
+    "exp": 15
   }
 }
