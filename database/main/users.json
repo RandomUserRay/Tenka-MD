@@ -3073,7 +3073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720296,
+    "exp": 720341,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -94273,7 +94273,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18645,
+    "exp": 18720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124817,8 +124817,15 @@
   "6281991077169": {
     "jid": "6281991077169",
     "rpg": {},
-    "exp": 225,
-    "energi": 99999
+    "exp": 255,
+    "energi": 99998,
+    "name": "Shenka C.L",
+    "lastSeen": "2026-10-16T10:25:51.193Z",
+    "cooldowns": {
+      "play": 1792146362303
+    },
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 1
   },
   "6285196313233": {
     "jid": "6285196313233",
