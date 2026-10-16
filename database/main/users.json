@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 681459,
+    "exp": 681534,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -129434,15 +129434,15 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "FeeSukaAyam",
-    "lastSeen": "2026-10-15T14:09:33.338Z",
+    "lastSeen": "2026-10-16T08:12:29.692Z",
     "cooldowns": {
-      "s": 1792073375200
+      "s": 1792138351122
     },
-    "energi": 99999,
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 1
+    "energi": 99998,
+    "lastActiveDate": "16/10/2026",
+    "activeDays": 2
   },
   "6283155516406": {
     "jid": "6283155516406",
