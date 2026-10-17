@@ -335,10 +335,10 @@
     "jid": "6289529899190",
     "name": "케냐인",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54280,
+    "exp": 54295,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -347,7 +347,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T07:48:50.759Z",
+    "lastSeen": "2026-10-17T13:40:26.735Z",
     "cooldowns": {
       "afk": 1791109042776,
       "s": 1790071047057,
@@ -396,7 +396,8 @@
       "transfer": 1789223180637,
       "judi": 1789223203774,
       "cerai": 1789298142670,
-      "smeme": 1789654880099
+      "smeme": 1789654880099,
+      "bdsmvid": 1792244431332
     },
     "clanId": null,
     "isRegistered": false,
