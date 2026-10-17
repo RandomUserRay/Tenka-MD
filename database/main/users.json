@@ -1203,7 +1203,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1635,
+    "exp": 1650,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -1212,12 +1212,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T10:38:57.216Z",
+    "lastSeen": "2026-10-17T03:08:51.821Z",
     "cooldowns": {
       "cekfemboy": 1791848882490,
       "s": 1792146497211,
       "cekganteng": 1791864946499,
-      "top": 1792147137665
+      "top": 1792147137665,
+      "femboy": 1792206533268
     },
     "clanId": null,
     "isRegistered": false,
@@ -1227,8 +1228,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 4
   },
   "6285711067525": {
     "jid": "6285711067525",
