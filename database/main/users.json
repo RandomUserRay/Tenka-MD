@@ -2120,7 +2120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232121,
+    "exp": 232136,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -129424,7 +129424,7 @@
     "lastSeen": "2026-10-17T02:32:48.694Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 915,
+    "exp": 930,
     "cooldowns": {
       "play": 1791898047216,
       "femboy": 1792071709252,
@@ -129635,12 +129635,13 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 225,
+    "exp": 270,
     "name": "Ren🔱",
-    "lastSeen": "2026-10-17T10:07:18.255Z",
+    "lastSeen": "2026-10-17T10:08:02.582Z",
     "cooldowns": {
       "femboy": 1792231562612,
-      "cekganteng": 1792231638493
+      "cekganteng": 1792231638493,
+      "cekfemboy": 1792231684399
     },
     "lastActiveDate": "17/10/2026",
     "activeDays": 1
@@ -129648,11 +129649,18 @@
   "6283857708453": {
     "jid": "6283857708453",
     "rpg": {},
-    "exp": 15
+    "exp": 30,
+    "name": "posera",
+    "lastSeen": "2026-10-17T10:08:37.068Z",
+    "cooldowns": {
+      "cekfemboy": 1792231719026
+    },
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 1
   },
   "39586797498460": {
     "name": "~Oniichan Wyan",
-    "lastSeen": "2026-10-17T10:06:55.625Z",
+    "lastSeen": "2026-10-17T10:08:23.631Z",
     "jid": "39586797498460",
     "rpg": {
       "level": 1,
@@ -129663,10 +129671,11 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 30,
+    "exp": 45,
     "cooldowns": {
       "femboy": 1792231617214,
-      "me": 1792231632327
+      "me": 1792231632327,
+      "cekfemboy": 1792231705355
     },
     "lastActiveDate": "17/10/2026",
     "activeDays": 1
