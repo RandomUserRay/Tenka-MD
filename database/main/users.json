@@ -100950,7 +100950,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5370,
+    "exp": 5400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125222,12 +125222,12 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 9481,
+    "exp": 9511,
     "name": "Why'Zeyn💫",
-    "lastSeen": "2026-10-17T01:16:05.183Z",
-    "energi": 99999,
+    "lastSeen": "2026-10-17T01:16:44.467Z",
+    "energi": 99998,
     "cooldowns": {
-      "s": 1790419670066,
+      "s": 1792199792411,
       "afk": 1792199767904,
       "play": 1790512357012,
       "level": 1790470121928,
@@ -125983,7 +125983,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17550,
+    "exp": 17565,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-16T10:18:06.561Z",
@@ -129415,18 +129415,19 @@
   },
   "6285168650186": {
     "name": "pratama",
-    "lastSeen": "2026-10-16T13:43:57.337Z",
+    "lastSeen": "2026-10-17T01:16:22.068Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 765,
+    "exp": 795,
     "cooldowns": {
       "play": 1791898047216,
       "femboy": 1792071709252,
-      "menu": 1792158241148
+      "menu": 1792158241148,
+      "femboysvid": 1792199786986
     },
-    "energi": 99999,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 3
+    "energi": 999997,
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 4
   },
   "6288987096165": {
     "jid": "6288987096165",
@@ -129484,7 +129485,7 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "name": "FeeSukaAyam",
     "lastSeen": "2026-10-16T08:13:09.925Z",
     "cooldowns": {
