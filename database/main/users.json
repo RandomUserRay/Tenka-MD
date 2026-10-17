@@ -2120,7 +2120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232076,
+    "exp": 232091,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -129423,7 +129423,7 @@
     "lastSeen": "2026-10-17T02:32:48.694Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 870,
+    "exp": 885,
     "cooldowns": {
       "play": 1791898047216,
       "femboy": 1792071709252,
@@ -129634,11 +129634,26 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 150
+    "exp": 210,
+    "name": "Ren🔱",
+    "lastSeen": "2026-10-17T10:06:00.651Z",
+    "cooldowns": {
+      "femboy": 1792231562612
+    },
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 1
   },
   "6283857708453": {
     "jid": "6283857708453",
     "rpg": {},
     "exp": 15
+  },
+  "39586797498460": {
+    "name": "~Oniichan Wyan",
+    "lastSeen": "2026-10-17T10:06:11.677Z",
+    "jid": "39586797498460",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {}
   }
 }
