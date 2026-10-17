@@ -28738,10 +28738,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298196,
+    "exp": 298226,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28752,7 +28752,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T23:14:29.994Z",
+    "lastSeen": "2026-10-17T03:13:34.228Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -28919,7 +28919,7 @@
       "bratvid2": 1791033389039,
       "tovid": 1791033422165,
       "stiker": 1790924697960,
-      "stickerpack": 1790925027117
+      "stickerpack": 1792206801146
     },
     "clanId": null,
     "isRegistered": false,
@@ -28954,8 +28954,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "14/10/2026",
-    "activeDays": 29
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 30
   },
   "6285810482980": {
     "jid": "6285810482980",
