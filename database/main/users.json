@@ -129612,7 +129612,11 @@
     "jid": "6283143762378",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 24
+    "cooldowns": {
+      "pin": 1792201934208
+    },
+    "energi": 24,
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 1
   }
 }
