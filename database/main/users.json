@@ -2120,7 +2120,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232091,
+    "exp": 232106,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -98891,7 +98891,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7185,
+    "exp": 7215,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98901,7 +98901,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T10:04:53.523Z",
+    "lastSeen": "2026-10-17T10:06:57.044Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
@@ -98909,10 +98909,11 @@
       "cekfemboy": 1792071554260,
       "femboy": 1792231496357,
       "s": 1792086425005,
-      "cekganteng": 1792071722951,
+      "cekganteng": 1792231617363,
       "cekcantik": 1791848981517,
       "benefitpremium": 1792080884560,
-      "me": 1792158405221
+      "me": 1792158405221,
+      "ganteng": 1792231606921
     },
     "clanId": null,
     "isRegistered": false,
@@ -129650,10 +129651,14 @@
   },
   "39586797498460": {
     "name": "~Oniichan Wyan",
-    "lastSeen": "2026-10-17T10:06:11.677Z",
+    "lastSeen": "2026-10-17T10:06:55.625Z",
     "jid": "39586797498460",
     "rpg": {},
-    "exp": 15,
-    "cooldowns": {}
+    "exp": 30,
+    "cooldowns": {
+      "femboy": 1792231617214
+    },
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 1
   }
 }
