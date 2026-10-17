@@ -90835,10 +90835,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50640,
+    "exp": 50655,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90848,7 +90848,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T12:17:39.964Z",
+    "lastSeen": "2026-10-17T12:18:57.162Z",
     "cooldowns": {
       "play": 1791975077550,
       "toimg": 1790829435907,
@@ -90887,7 +90887,7 @@
       "tiktok": 1791122224854,
       "delete": 1791121520025,
       "pin": 1792158402336,
-      "hd": 1792239332482
+      "hd": 1792239540822
     },
     "clanId": null,
     "isRegistered": false,
