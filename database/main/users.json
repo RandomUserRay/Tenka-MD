@@ -90340,13 +90340,13 @@
   },
   "62882020705446": {
     "name": "ytta",
-    "lastSeen": "2026-09-30T10:05:22.615Z",
+    "lastSeen": "2026-10-17T03:55:16.917Z",
     "jid": "62882020705446",
     "number": "62882020705446",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 544,
+    "exp": 559,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90359,7 +90359,8 @@
     "cooldowns": {
       "kerja": 1786607227155,
       "casino": 1786607123278,
-      "bratvid2": 1790762727399
+      "bratvid2": 1790762727399,
+      "robloxstalk": 1792209318841
     },
     "clanId": null,
     "isRegistered": false,
@@ -90371,8 +90372,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "30/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 2
   },
   "6285147498740": {
     "jid": "6285147498740",
