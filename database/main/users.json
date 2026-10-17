@@ -101964,7 +101964,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1425,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129392,7 +129392,7 @@
       "stamina": 210,
       "maxStamina": 210
     },
-    "exp": 220490,
+    "exp": 220640,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-17T06:59:30.814Z",
@@ -129410,7 +129410,8 @@
       "yaoivid": 1792083364208,
       "ryaoivid": 1792083448300,
       "d": 1792138426865,
-      "gay": 1792204483828
+      "gay": 1792204483828,
+      "me": 1792220431442
     },
     "lastActiveDate": "17/10/2026",
     "activeDays": 3,
@@ -129489,7 +129490,7 @@
   "6283164203004": {
     "jid": "6283164203004",
     "rpg": {},
-    "exp": 1530,
+    "exp": 1545,
     "name": "FeeSukaAyam",
     "lastSeen": "2026-10-16T08:13:09.925Z",
     "cooldowns": {
