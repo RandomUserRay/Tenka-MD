@@ -54527,7 +54527,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21351,
+    "exp": 21366,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -96708,7 +96708,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31088,
+    "exp": 31118,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -129384,15 +129384,15 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 22,
-      "health": 310,
-      "maxHealth": 310,
-      "mana": 205,
-      "maxMana": 205,
-      "stamina": 205,
-      "maxStamina": 205
+      "level": 23,
+      "health": 320,
+      "maxHealth": 320,
+      "mana": 210,
+      "maxMana": 210,
+      "stamina": 210,
+      "maxStamina": 210
     },
-    "exp": 219815,
+    "exp": 220040,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-17T05:59:44.716Z",
@@ -129629,5 +129629,10 @@
     "energi": 24,
     "lastActiveDate": "17/10/2026",
     "activeDays": 1
+  },
+  "6285230568463": {
+    "jid": "6285230568463",
+    "rpg": {},
+    "exp": 15
   }
 }
