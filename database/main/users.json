@@ -62334,7 +62334,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 152559,
+    "exp": 152604,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62343,10 +62343,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T12:32:55.866Z",
+    "lastSeen": "2026-10-17T12:33:15.657Z",
     "cooldowns": {
       "afk": 1792209552208,
-      "play": 1792240282345,
+      "play": 1792240384857,
       "mancing": 1784643047902,
       "susun": 1788241788337,
       "ytmp4": 1787933041178,
@@ -126448,7 +126448,7 @@
       "fakeml": 1790594459434,
       "fakeff": 1790634908379,
       "brat": 1791968763890,
-      "pin": 1791345895116,
+      "pin": 1792240381342,
       "bratvid": 1790659880010,
       "jadibot": 1791898855089,
       "play": 1790807899588,
@@ -126461,8 +126461,8 @@
       "s": 1791351718355
     },
     "energi": 99998,
-    "lastActiveDate": "15/10/2026",
-    "activeDays": 13
+    "lastActiveDate": "17/10/2026",
+    "activeDays": 14
   },
   "6285779164177": {
     "name": "Wise",
