@@ -33882,10 +33882,10 @@
     "jid": "6285797806240",
     "name": "Plenger 🤓",
     "number": "6285797806240",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 92024,
+    "exp": 92039,
     "level": 1,
     "koin": 350592,
     "unlockedFeatures": [],
@@ -33894,7 +33894,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T01:21:12.413Z",
+    "lastSeen": "2026-10-18T04:44:10.506Z",
     "cooldowns": {
       "tebaknegara": 1791458018721,
       "simi": 1785159752772,
@@ -33928,7 +33928,8 @@
       "owner": 1790166309275,
       "tebakepep": 1791457987880,
       "dungeon": 1791465559467,
-      "level": 1791465550200
+      "level": 1791465550200,
+      "play": 1792298658794
     },
     "clanId": null,
     "isRegistered": false,
@@ -33954,8 +33955,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "18/10/2026",
+    "activeDays": 17
   },
   "6289529231434": {
     "jid": "6289529231434",
