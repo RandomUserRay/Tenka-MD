@@ -4489,7 +4489,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233825,
+    "exp": 233840,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -9832,7 +9832,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57450,
+    "exp": 57465,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -121291,7 +121291,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 1035,
+    "exp": 1050,
     "name": "endy oey",
     "lastSeen": "2026-10-17T14:09:15.680Z",
     "cooldowns": {
@@ -129733,6 +129733,6 @@
   "6282374575939": {
     "jid": "6282374575939",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   }
 }
