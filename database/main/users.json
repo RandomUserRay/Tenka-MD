@@ -19824,12 +19824,12 @@
   },
   "6283172976375": {
     "jid": "6283172976375",
-    "name": "ikyra",
+    "name": "iky vrl",
     "number": "6283172976375",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 286970,
+    "exp": 286985,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19838,7 +19838,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T16:19:23.490Z",
+    "lastSeen": "2026-10-18T10:29:03.977Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1790006726688,
@@ -19863,7 +19863,7 @@
       "jodoh": 1784451177581,
       "putus": 1784390264785,
       "afk": 1789383421062,
-      "tt": 1792167565661,
+      "tt": 1792319345840,
       "ttmp3": 1783745792376,
       "slot": 1784464160203,
       "kerja": 1784462533625,
@@ -19972,8 +19972,8 @@
       "jadiPacar": 1784390189653
     },
     "saldo": 0,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 20
+    "lastActiveDate": "18/10/2026",
+    "activeDays": 21
   },
   "6285143762806": {
     "jid": "6285143762806",
@@ -96715,7 +96715,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33173,
+    "exp": 33188,
     "level": 1,
     "koin": 552,
     "saldo": 0,
