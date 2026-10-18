@@ -98899,7 +98899,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9480,
+    "exp": 9495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101975,7 +101975,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1560,
+    "exp": 1575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101985,13 +101985,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T21:41:19.811Z",
+    "lastSeen": "2026-10-18T21:41:32.432Z",
     "cooldowns": {
       "s": 1789445409212,
       "play": 1789876214928,
       "cekcantik": 1792359435711,
       "cekganteng": 1792359455683,
-      "femboy": 1792359505965,
+      "femboy": 1792359693885,
       "cekfemboy": 1792220354109,
       "jadibot": 1790388845077,
       "ganteng": 1792359447330
@@ -129438,10 +129438,10 @@
       "maxStamina": 468818845,
       "bank": 9000000000
     },
-    "exp": 937637490015,
+    "exp": 937637490090,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-18T21:36:30.197Z",
+    "lastSeen": "2026-10-18T21:41:31.033Z",
     "cooldowns": {
       "cekganteng": 1792300749994,
       "femboy": 1792359000910,
@@ -129460,7 +129460,8 @@
       "me": 1792301310166,
       "ganteng": 1792241031040,
       "imut": 1792359378304,
-      "bank": 1792301166315
+      "bank": 1792301166315,
+      "game": 1792359691512
     },
     "lastActiveDate": "19/10/2026",
     "activeDays": 5,
