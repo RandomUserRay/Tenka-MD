@@ -9833,7 +9833,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57705,
+    "exp": 57735,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -129773,9 +129773,9 @@
   "6285753616838": {
     "jid": "6285753616838",
     "rpg": {},
-    "exp": 1950,
+    "exp": 1965,
     "name": "Meöwwy",
-    "lastSeen": "2026-10-18T09:35:17.151Z",
+    "lastSeen": "2026-10-18T09:36:39.921Z",
     "cooldowns": {
       "menu": 1792315664792,
       "menucat": 1792311541297,
@@ -129786,7 +129786,8 @@
       "h": 1792313141704,
       "topactive": 1792313783466,
       "info": 1792316019680,
-      "setwelcome": 1792316117679
+      "setwelcome": 1792316117679,
+      "setgoodbye": 1792316201318
     },
     "lastActiveDate": "18/10/2026",
     "activeDays": 1,
@@ -129904,7 +129905,7 @@
     "lastSeen": "2026-10-18T09:24:20.152Z",
     "jid": "6281356881573",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "cooldowns": {
       "menu": 1792315462935
     },
