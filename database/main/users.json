@@ -6087,10 +6087,10 @@
     "jid": "62882001638434",
     "name": "¥@$1Nzz",
     "number": "62882001638434",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31745,
+    "exp": 31760,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -6099,7 +6099,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T11:13:06.306Z",
+    "lastSeen": "2026-10-18T02:59:09.358Z",
     "cooldowns": {
       "brat": 1780192562768,
       "femboy": 1782294711569,
@@ -6108,7 +6108,7 @@
       "rob": 1781670257704,
       "afk": 1791025988035,
       "play": 1790912270084,
-      "s": 1782964387583,
+      "s": 1792292351566,
       "bank": 1782983231910,
       "hapus": 1782984889573,
       "smeme": 1782297489692,
@@ -6156,8 +6156,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "18/10/2026",
+    "activeDays": 6
   },
   "62895329308463": {
     "jid": "62895329308463",
@@ -126163,7 +126163,7 @@
   "62882008180637": {
     "jid": "62882008180637",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 99998,
     "name": "ヨガ",
     "lastSeen": "2026-10-18T02:44:50.013Z",
