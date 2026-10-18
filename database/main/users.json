@@ -9832,7 +9832,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57630,
+    "exp": 57645,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -128828,9 +128828,9 @@
   "6287892819825": {
     "jid": "6287892819825",
     "rpg": {},
-    "exp": 930,
+    "exp": 945,
     "name": "hell?",
-    "lastSeen": "2026-10-18T02:44:35.583Z",
+    "lastSeen": "2026-10-18T02:45:04.819Z",
     "cooldowns": {
       "play": 1791538521549,
       "ytmp4": 1791538540149,
@@ -128841,9 +128841,10 @@
       "top": 1792058962950,
       "cektsundere": 1792059028456,
       "menu": 1792291467777,
-      "menucat": 1792291475750
+      "menucat": 1792291475750,
+      "instagramdl": 1792291507655
     },
-    "energi": 99999,
+    "energi": 99998,
     "lastActiveDate": "18/10/2026",
     "activeDays": 6
   },
