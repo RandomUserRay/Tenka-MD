@@ -19826,10 +19826,10 @@
     "jid": "6283172976375",
     "name": "iky vrl",
     "number": "6283172976375",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 287015,
+    "exp": 287030,
     "level": 1,
     "koin": 55984,
     "unlockedFeatures": [],
@@ -19838,7 +19838,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T10:31:22.848Z",
+    "lastSeen": "2026-10-18T10:32:11.916Z",
     "cooldowns": {
       "ww": 1782493413397,
       "allmenu": 1790006726688,
@@ -19863,7 +19863,7 @@
       "jodoh": 1784451177581,
       "putus": 1784390264785,
       "afk": 1789383421062,
-      "tt": 1792319485028,
+      "tt": 1792319533512,
       "ttmp3": 1783745792376,
       "slot": 1784464160203,
       "kerja": 1784462533625,
@@ -129927,6 +129927,6 @@
   "6283188145111": {
     "jid": "6283188145111",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
