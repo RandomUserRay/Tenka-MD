@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-16T12:49:44.380Z",
+    "lastSeen": "2026-10-18T05:21:06.084Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000168834,
+    "exp": 9000168909,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -139,8 +139,8 @@
       ],
       "time": 1786853090787
     },
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 44
+    "lastActiveDate": "18/10/2026",
+    "activeDays": 45
   },
   "639757724313": {
     "jid": "639757724313",
@@ -3078,7 +3078,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 721271,
+    "exp": 721301,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3087,7 +3087,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T05:20:22.212Z",
+    "lastSeen": "2026-10-18T05:21:01.513Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3111,7 +3111,7 @@
       "mine": 1782555255716,
       "heal": 1780402148890,
       "tsundere": 1790394491143,
-      "cekganteng": 1792300808929,
+      "cekganteng": 1792300861789,
       "cekmesum": 1780229323038,
       "inv": 1780307135542,
       "level": 1783234527724,
@@ -102772,7 +102772,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23824,
+    "exp": 23839,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129416,7 +129416,7 @@
       "stamina": 210,
       "maxStamina": 210
     },
-    "exp": 226715,
+    "exp": 226790,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-18T05:20:36.515Z",
