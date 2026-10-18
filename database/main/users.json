@@ -7290,10 +7290,10 @@
     "jid": "6283196442568",
     "name": "Ciko Wikipedia",
     "number": "6283196442568",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15110,
+    "exp": 15125,
     "level": 1,
     "koin": 1018499,
     "unlockedFeatures": [],
@@ -7302,7 +7302,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T09:57:42.711Z",
+    "lastSeen": "2026-10-18T10:43:24.860Z",
     "cooldowns": {
       "femboy": 1781183141177,
       "gay": 1780158137165,
@@ -7318,7 +7318,7 @@
       "afk": 1781969570659,
       "menu": 1792075893911,
       "allmenu": 1780408509946,
-      "tt": 1792144561340,
+      "tt": 1792320206520,
       "tt2": 1790838363450,
       "tiktok2": 1780813547206,
       "menucat": 1791183950657,
@@ -7366,8 +7366,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 28
+    "lastActiveDate": "18/10/2026",
+    "activeDays": 29
   },
   "6285123878040": {
     "name": "⋆. 𐙚˚࿔ 𝒌𝒆𝒚 𝜗𝜚˚⋆",
@@ -129774,9 +129774,9 @@
   "6285753616838": {
     "jid": "6285753616838",
     "rpg": {},
-    "exp": 3390,
+    "exp": 3405,
     "name": "Meöwwy",
-    "lastSeen": "2026-10-18T10:42:49.561Z",
+    "lastSeen": "2026-10-18T10:43:24.912Z",
     "cooldowns": {
       "menu": 1792317317567,
       "menucat": 1792311541297,
@@ -129907,7 +129907,7 @@
     "lastSeen": "2026-10-18T09:24:20.152Z",
     "jid": "6281356881573",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1155,
     "cooldowns": {
       "menu": 1792315462935
     },
