@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-18T05:25:39.754Z",
+    "lastSeen": "2026-10-18T05:25:59.086Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000169284,
+    "exp": 9000169359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -96715,7 +96715,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32348,
+    "exp": 32363,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96725,7 +96725,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T05:23:39.782Z",
+    "lastSeen": "2026-10-18T05:26:04.211Z",
     "cooldowns": {
       "afk": 1792144998071,
       "play": 1791555279345,
@@ -96738,7 +96738,7 @@
       "cekcantik": 1792300792448,
       "cekganteng": 1792300780366,
       "tolol": 1788075743705,
-      "top": 1790759114738,
+      "top": 1792301164667,
       "pintar": 1788075965074,
       "femboy": 1792209510426,
       "dadu": 1788079899385,
@@ -129414,12 +129414,13 @@
       "mana": 210,
       "maxMana": 210,
       "stamina": 210,
-      "maxStamina": 210
+      "maxStamina": 210,
+      "bank": 9000000000
     },
-    "exp": 227015,
+    "exp": 227090,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-18T05:24:45.388Z",
+    "lastSeen": "2026-10-18T05:26:06.072Z",
     "cooldowns": {
       "cekganteng": 1792300749994,
       "femboy": 1792300711505,
@@ -129437,12 +129438,13 @@
       "gay": 1792204483828,
       "me": 1792301146163,
       "ganteng": 1792241031040,
-      "imut": 1792300836754
+      "imut": 1792300836754,
+      "bank": 1792301166315
     },
     "lastActiveDate": "18/10/2026",
     "activeDays": 4,
     "isPremium": true,
-    "koin": 9000000020000
+    "koin": 8991000020000
   },
   "6285168650186": {
     "name": "pratama",
