@@ -98906,7 +98906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11175,
+    "exp": 11190,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98916,7 +98916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T17:37:25.166Z",
+    "lastSeen": "2026-10-19T17:38:39.536Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
@@ -129448,19 +129448,19 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 93763752,
-      "health": 937637610,
-      "maxHealth": 937637610,
-      "mana": 468818855,
-      "maxMana": 468818855,
-      "stamina": 468818845,
-      "maxStamina": 468818855,
+      "level": 93763753,
+      "health": 937637620,
+      "maxHealth": 937637620,
+      "mana": 468818860,
+      "maxMana": 468818860,
+      "stamina": 468818860,
+      "maxStamina": 468818860,
       "bank": 7009000000000
     },
-    "exp": 937637512720,
+    "exp": 937637522680,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-19T17:38:15.542Z",
+    "lastSeen": "2026-10-19T17:38:36.255Z",
     "cooldowns": {
       "cekganteng": 1792410620407,
       "femboy": 1792384793720,
@@ -129488,7 +129488,7 @@
     "lastActiveDate": "20/10/2026",
     "activeDays": 6,
     "isPremium": true,
-    "koin": 1991000033919
+    "koin": 1991000073461
   },
   "6285168650186": {
     "name": "pratama 🐜",
@@ -129584,7 +129584,7 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 8325,
+    "exp": 8340,
     "name": "Angga?",
     "lastSeen": "2026-10-19T17:38:23.554Z",
     "energi": 99998,
