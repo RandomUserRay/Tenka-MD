@@ -129981,14 +129981,15 @@
   "62887435100255": {
     "jid": "62887435100255",
     "rpg": {},
-    "exp": 120,
-    "energi": 99999,
+    "exp": 150,
+    "energi": 99996,
     "name": "Kayy",
-    "lastSeen": "2026-10-19T11:10:38.758Z",
+    "lastSeen": "2026-10-19T11:11:16.838Z",
     "cooldowns": {
       "menu": 1792408136145,
       "allmenu": 1792408138628,
-      "menucat": 1792408239038
+      "menucat": 1792408239038,
+      "stickerpack": 1792408254835
     },
     "lastActiveDate": "19/10/2026",
     "activeDays": 1
