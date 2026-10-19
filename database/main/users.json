@@ -98906,7 +98906,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10980,
+    "exp": 10995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98916,13 +98916,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T11:57:24.045Z",
+    "lastSeen": "2026-10-19T17:28:57.513Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
       "cekfemboy": 1792359895796,
-      "femboy": 1792411046175,
+      "femboy": 1792430939539,
       "s": 1792285557408,
       "cekganteng": 1792408032464,
       "cekcantik": 1792407977940,
@@ -98947,8 +98947,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "19/10/2026",
-    "activeDays": 12
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 13
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -129582,9 +129582,9 @@
       "stamina": 100,
       "maxStamina": 100
     },
-    "exp": 7950,
+    "exp": 7965,
     "name": "Angga?",
-    "lastSeen": "2026-10-19T17:28:38.454Z",
+    "lastSeen": "2026-10-19T17:29:00.093Z",
     "energi": 99998,
     "cooldowns": {
       "femboy": 1792428187202,
