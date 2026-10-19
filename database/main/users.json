@@ -3519,7 +3519,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-10-19T10:43:57.157Z",
     "cooldowns": {
-      "femboy": 1792309200529,
+      "femboy": 1792406640374,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -3617,8 +3617,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "18/10/2026",
-    "activeDays": 14,
+    "lastActiveDate": "19/10/2026",
+    "activeDays": 15,
     "fun": {
       "tembakCount": 3,
       "ditolakCount": 1,
@@ -11644,7 +11644,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41479,
+    "exp": 41494,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
