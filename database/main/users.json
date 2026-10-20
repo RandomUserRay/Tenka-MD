@@ -96721,10 +96721,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36128,
+    "exp": 36143,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96734,11 +96734,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T06:08:19.343Z",
+    "lastSeen": "2026-10-20T06:33:11.123Z",
     "cooldowns": {
       "afk": 1792390576606,
       "play": 1792476507218,
-      "smeme": 1792314178742,
+      "smeme": 1792478000590,
       "s": 1792296712005,
       "menu": 1792288560777,
       "menucat": 1791020922728,
@@ -122014,8 +122014,15 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 1605,
-    "energi": 99999
+    "exp": 1620,
+    "energi": 99998,
+    "name": "Garta",
+    "lastSeen": "2026-10-20T06:33:09.713Z",
+    "cooldowns": {
+      "smeme": 1792477990463
+    },
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 1
   },
   "62882005686310": {
     "jid": "62882005686310",
