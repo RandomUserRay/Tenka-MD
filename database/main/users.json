@@ -54533,7 +54533,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22176,
+    "exp": 22221,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54542,7 +54542,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T04:41:19.136Z",
+    "lastSeen": "2026-10-20T08:16:16.168Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54590,7 +54590,8 @@
       "rank": 1792081816537,
       "topkoin": 1792081833650,
       "topexp": 1792081841867,
-      "topenergi": 1792081848917
+      "topenergi": 1792081848917,
+      "antibot": 1792484176576
     },
     "clanId": null,
     "isRegistered": false,
@@ -54613,8 +54614,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 14
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 15
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -96724,7 +96725,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36458,
+    "exp": 36473,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -129489,7 +129490,7 @@
       "maxStamina": 468818865,
       "bank": 7009000000000
     },
-    "exp": 937637531905,
+    "exp": 937637531980,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-19T19:13:22.599Z",
