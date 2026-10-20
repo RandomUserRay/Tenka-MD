@@ -104169,10 +104169,10 @@
     "jid": "62887435059795",
     "name": "Anda",
     "number": "62887435059795",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 660,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104182,9 +104182,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T12:44:43.586Z",
+    "lastSeen": "2026-10-20T12:44:57.009Z",
     "cooldowns": {
-      "s": 1792500284744
+      "s": 1792500298126
     },
     "clanId": null,
     "isRegistered": false,
