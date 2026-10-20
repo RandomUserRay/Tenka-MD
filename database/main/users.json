@@ -8063,10 +8063,10 @@
     "jid": "6283832176990",
     "name": "𖣘",
     "number": "6283832176990",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 134198,
+    "exp": 134213,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -8075,7 +8075,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T14:19:28.676Z",
+    "lastSeen": "2026-10-20T11:23:18.448Z",
     "cooldowns": {
       "ww": 1781258054825,
       "level": 1786782468117,
@@ -8093,7 +8093,7 @@
       "cekintrovert": 1780241001130,
       "rob": 1782998652604,
       "bank": 1785661472342,
-      "s": 1792160370028,
+      "s": 1792495399653,
       "status": 1780292068874,
       "rest": 1780292708615,
       "training": 1780381070213,
@@ -8223,8 +8223,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 7
   },
   "6285245902156": {
     "jid": "6285245902156",
