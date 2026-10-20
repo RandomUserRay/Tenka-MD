@@ -9564,12 +9564,12 @@
   },
   "6282285824980": {
     "jid": "6282285824980",
-    "name": "idk",
+    "name": "itu",
     "number": "6282285824980",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28356,
+    "exp": 28371,
     "level": 1,
     "koin": 6595,
     "unlockedFeatures": [],
@@ -9578,9 +9578,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-19T11:39:45.249Z",
+    "lastSeen": "2026-10-20T19:10:15.368Z",
     "cooldowns": {
-      "femboy": 1784123179790,
+      "femboy": 1792523417891,
       "menu": 1783494246579,
       "handsome": 1784017599262,
       "owner": 1783770284374,
@@ -9648,7 +9648,9 @@
       "maxStamina": 110
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   },
   "6285591469371": {
     "jid": "6285591469371",
