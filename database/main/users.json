@@ -5188,7 +5188,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129596541,
+    "exp": 129596556,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -54533,7 +54533,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22581,
+    "exp": 22596,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -96725,7 +96725,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36908,
+    "exp": 36923,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126659,22 +126659,22 @@
   },
   "6281348491234": {
     "name": "kvicha",
-    "lastSeen": "2026-10-20T10:58:40.787Z",
+    "lastSeen": "2026-10-20T11:00:31.318Z",
     "jid": "6281348491234",
     "rpg": {},
-    "exp": 285,
+    "exp": 315,
     "cooldowns": {
       "menu": 1790928798872,
       "menucat": 1790928799755,
       "play": 1792301628874,
       "tt": 1792480415494,
       "ttmp3": 1792480425068,
-      "s": 1792493863073,
-      "smeme": 1792493921122
+      "s": 1792494017841,
+      "smeme": 1792494031591
     },
     "lastActiveDate": "20/10/2026",
     "activeDays": 4,
-    "energi": 99993
+    "energi": 99991
   },
   "6285188774905": {
     "jid": "6285188774905",
