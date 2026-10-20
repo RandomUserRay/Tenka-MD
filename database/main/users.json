@@ -96724,7 +96724,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36173,
+    "exp": 36188,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96734,7 +96734,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T06:38:26.156Z",
+    "lastSeen": "2026-10-20T07:44:55.562Z",
     "cooldowns": {
       "afk": 1792390576606,
       "play": 1792476507218,
@@ -96774,7 +96774,8 @@
       "ganteng": 1790758652749,
       "stickerlydl": 1791022958053,
       "cektsundere": 1792059038381,
-      "absen": 1792313199844
+      "absen": 1792313199844,
+      "kick": 1792482296670
     },
     "clanId": null,
     "isRegistered": false,
