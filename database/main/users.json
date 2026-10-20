@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000163634,
+    "exp": 1009000163709,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -333,12 +333,12 @@
   },
   "6289529899190": {
     "jid": "6289529899190",
-    "name": "케냐인",
+    "name": "케냐인ハンサム",
     "number": "6289529899190",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54715,
+    "exp": 54745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -347,7 +347,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T08:46:14.087Z",
+    "lastSeen": "2026-10-20T13:02:41.337Z",
     "cooldowns": {
       "afk": 1791109042776,
       "s": 1790071047057,
@@ -397,7 +397,7 @@
       "judi": 1789223203774,
       "cerai": 1789298142670,
       "smeme": 1789654880099,
-      "bdsmvid": 1792253595171
+      "bdsmvid": 1792501366132
     },
     "clanId": null,
     "isRegistered": false,
@@ -426,8 +426,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 15
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 16
   },
   "6285366861793": {
     "jid": "6285366861793",
@@ -96725,7 +96725,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37133,
+    "exp": 37163,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -129497,7 +129497,7 @@
       "maxStamina": 468818865,
       "bank": 7009000000000
     },
-    "exp": 937637537530,
+    "exp": 937637537680,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-20T11:55:36.642Z",
