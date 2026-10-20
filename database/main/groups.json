@@ -32156,8 +32156,8 @@
         "name": "elvn"
       },
       "6283857834910@s.whatsapp.net": {
-        "count": 1482,
-        "lastChat": 1792484166528,
+        "count": 1483,
+        "lastChat": 1792484176168,
         "name": "AoiMizu"
       },
       "6283139380069@s.whatsapp.net": {
@@ -32951,8 +32951,8 @@
         "name": "Akbar"
       },
       "6285284891404@s.whatsapp.net": {
-        "count": 809,
-        "lastChat": 1792483893328,
+        "count": 810,
+        "lastChat": 1792484175514,
         "name": "Devvarajha"
       },
       "628981225271@s.whatsapp.net": {
@@ -33121,7 +33121,8 @@
     "mutegc": false,
     "antinsfw": false,
     "onlynsfw": false,
-    "antilinkgc": "off"
+    "antilinkgc": "off",
+    "antibot": true
   },
   "120363411746320422@g.us": {
     "chatStats": {
