@@ -9831,13 +9831,13 @@
   },
   "6281310184404": {
     "name": "Elara-mao",
-    "lastSeen": "2026-10-19T15:30:57.006Z",
+    "lastSeen": "2026-10-20T14:38:26.401Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58770,
+    "exp": 58800,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -102802,7 +102802,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24799,
+    "exp": 24814,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129502,13 +129502,13 @@
       "maxStamina": 468818865,
       "bank": 7009000000000
     },
-    "exp": 937637538805,
+    "exp": 937637538880,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-20T11:55:36.642Z",
+    "lastSeen": "2026-10-20T14:38:14.271Z",
     "cooldowns": {
       "cekganteng": 1792410620407,
-      "femboy": 1792497339034,
+      "femboy": 1792507095867,
       "top": 1792360280415,
       "cekcantik": 1792437202851,
       "status": 1792059081248,
@@ -130183,6 +130183,6 @@
   "6285800456836": {
     "jid": "6285800456836",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
