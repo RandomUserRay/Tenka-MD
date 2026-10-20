@@ -483,7 +483,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117605268,
+    "exp": 117605283,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -121061,7 +121061,7 @@
   "6285189773918": {
     "jid": "6285189773918",
     "rpg": {},
-    "exp": 1395,
+    "exp": 1410,
     "energi": 99999
   },
   "6285161587720": {
@@ -121339,17 +121339,18 @@
     "activeDays": 14
   },
   "6288228867255": {
-    "name": "emma like moon🌙",
-    "lastSeen": "2026-09-11T12:22:27.288Z",
+    "name": "Emma",
+    "lastSeen": "2026-10-20T02:11:47.351Z",
     "jid": "6288228867255",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "cooldowns": {
-      "cekfemboy": 1789129349632
+      "cekfemboy": 1789129349632,
+      "stiker": 1792462308068
     },
-    "lastActiveDate": "11/9/2026",
-    "activeDays": 1,
-    "energi": 99999
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 2,
+    "energi": 99998
   },
   "6285161715192": {
     "jid": "6285161715192",
