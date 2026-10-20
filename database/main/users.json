@@ -96725,7 +96725,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36983,
+    "exp": 36998,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -104167,12 +104167,12 @@
   },
   "62887435059795": {
     "jid": "62887435059795",
-    "name": "Unknown",
+    "name": "Anda",
     "number": "62887435059795",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 405,
+    "exp": 420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -104182,8 +104182,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-02T15:44:52.887Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-20T11:21:38.776Z",
+    "cooldowns": {
+      "s": 1792495300378
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -104191,7 +104193,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "20/10/2026",
+    "activeDays": 1
   },
   "628871075026": {
     "jid": "628871075026",
@@ -129493,7 +129497,7 @@
       "maxStamina": 468818865,
       "bank": 7009000000000
     },
-    "exp": 937637536330,
+    "exp": 937637536405,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-19T19:13:22.599Z",
