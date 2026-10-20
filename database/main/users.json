@@ -338,7 +338,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54895,
+    "exp": 54910,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9837,7 +9837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58725,
+    "exp": 58755,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -102802,7 +102802,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24784,
+    "exp": 24799,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129778,7 +129778,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4080,
+    "exp": 4110,
     "name": "Ren🔱",
     "lastSeen": "2026-10-19T15:27:08.219Z",
     "cooldowns": {
@@ -130177,6 +130177,11 @@
   },
   "6285855061664": {
     "jid": "6285855061664",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285800456836": {
+    "jid": "6285800456836",
     "rpg": {},
     "exp": 15
   }
