@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-21T14:47:03.771Z",
+    "lastSeen": "2026-10-21T14:47:47.989Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000185384,
+    "exp": 1009000185459,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -130479,6 +130479,10 @@
     "exp": 135,
     "name": "sitepugiovan",
     "lastSeen": "2026-10-21T14:47:11.469Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "afk": 1792594034644
+    },
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   }
 }
