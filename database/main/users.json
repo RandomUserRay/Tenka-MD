@@ -16146,7 +16146,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397802,
+    "exp": 9397817,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -54546,7 +54546,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25266,
+    "exp": 25281,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:55:28.763Z",
+    "lastSeen": "2026-10-21T12:55:54.993Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54566,7 +54566,7 @@
       "warn": 1785311907607,
       "cektsundere": 1790321808984,
       "cekyandere": 1790321839543,
-      "cekcantik": 1791860675666,
+      "cekcantik": 1792587355897,
       "cekganteng": 1792587329006,
       "profile": 1789119195440,
       "gacha": 1785334162624,
@@ -96743,7 +96743,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38543,
+    "exp": 38558,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96753,7 +96753,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:55:00.078Z",
+    "lastSeen": "2026-10-21T12:55:58.858Z",
     "cooldowns": {
       "afk": 1792390576606,
       "play": 1792476507218,
@@ -96772,7 +96772,7 @@
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1792059068970,
-      "cekimut": 1792390306707,
+      "cekimut": 1792587359093,
       "d": 1792557148662,
       "mutegc": 1789906948972,
       "pin": 1792501799714,
@@ -129024,7 +129024,7 @@
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "energi": 99999
   },
   "628217012533": {
@@ -129658,9 +129658,9 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10410,
+    "exp": 10440,
     "name": "Angga?",
-    "lastSeen": "2026-10-21T12:55:42.706Z",
+    "lastSeen": "2026-10-21T12:55:58.137Z",
     "energi": 99999,
     "cooldowns": {
       "femboy": 1792587331171,
@@ -129674,7 +129674,7 @@
       "level": 1792431482414,
       "cekimut": 1792437070515,
       "s": 1792495087507,
-      "yandere": 1792587342961
+      "yandere": 1792587358385
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 5
@@ -130325,13 +130325,14 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T12:55:22.995Z",
+    "lastSeen": "2026-10-21T12:55:58.854Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
-      "femboy": 1792587324590
+      "femboy": 1792587324590,
+      "tsundere": 1792587362721
     },
     "energi": 22,
     "lastActiveDate": "21/10/2026",
@@ -130362,6 +130363,6 @@
   "6285701106957": {
     "jid": "6285701106957",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
