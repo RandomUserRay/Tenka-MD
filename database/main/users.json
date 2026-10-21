@@ -20338,7 +20338,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62639,
+    "exp": 62654,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35473,7 +35473,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024092,
+    "exp": 1024122,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35482,7 +35482,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:21:34.224Z",
+    "lastSeen": "2026-10-21T11:22:48.349Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35598,7 +35598,7 @@
       "sell": 1784025477250,
       "shop": 1783842204379,
       "jualan": 1784335104403,
-      "afk": 1788951244521,
+      "afk": 1792581769511,
       "kerja": 1789280744473,
       "transfer": 1788170500021,
       "inv": 1783825778868,
@@ -130242,11 +130242,11 @@
   "628980538460": {
     "jid": "628980538460",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": "-",
-    "lastSeen": "2026-10-21T11:17:17.375Z",
+    "lastSeen": "2026-10-21T11:22:38.510Z",
     "cooldowns": {
-      "afk": 1792581438452
+      "afk": 1792581760841
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 1
