@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-21T11:24:57.502Z",
+    "lastSeen": "2026-10-21T11:26:04.874Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000179984,
+    "exp": 1009000180059,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -26,13 +26,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 100900018,
-      "health": 1009000270,
-      "maxHealth": 1009000270,
-      "mana": 504500185,
-      "maxMana": 504500185,
-      "stamina": 504500185,
-      "maxStamina": 504500185,
+      "level": 100900019,
+      "health": 1009000280,
+      "maxHealth": 1009000280,
+      "mana": 504500190,
+      "maxMana": 504500190,
+      "stamina": 504500190,
+      "maxStamina": 504500190,
       "bank": 1000016137013563,
       "luck": 12,
       "spouse": "628565071625@s.whatsapp.net",
@@ -20426,7 +20426,8 @@
       "lirik": 1790681996019,
       "allmenu": 1790683394659,
       "sendbug": 1790683425168,
-      "hd5": 1792477441233
+      "hd5": 1792477441233,
+      "hd4": 1792581950234
     },
     "clanId": null,
     "isRegistered": false,
@@ -20446,8 +20447,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 33
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 34
   },
   "6282182476988": {
     "jid": "6282182476988",
@@ -35473,7 +35474,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024167,
+    "exp": 1024197,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35482,7 +35483,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:25:28.491Z",
+    "lastSeen": "2026-10-21T11:25:57.551Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35676,7 +35677,7 @@
       "addcmdsticker": 1791467204540,
       "antiswgc": 1791467554847,
       "listtoxic": 1791478857550,
-      "antilinkgc": 1792581928527,
+      "antilinkgc": 1792581957584,
       "jahy": 1791478974837,
       "setintro": 1792581904086,
       "bocil": 1791479243677,
@@ -129740,7 +129741,7 @@
   "6281374815481": {
     "jid": "6281374815481",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1590,
     "energi": 99999
   },
   "6282156303857": {
