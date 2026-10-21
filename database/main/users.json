@@ -487,7 +487,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117606693,
+    "exp": 117606723,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -54545,10 +54545,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99988,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25701,
+    "exp": 25731,
     "level": 1,
     "koin": 5795501,
     "unlockedFeatures": [],
@@ -54557,7 +54557,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:14:06.336Z",
+    "lastSeen": "2026-10-21T13:20:05.982Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54592,7 +54592,7 @@
       "rob": 1789213633812,
       "istirahat": 1789213735157,
       "training": 1789213751788,
-      "ship": 1792588212359,
+      "ship": 1792588807924,
       "cekjodoh": 1790321611645,
       "unmute": 1790322136000,
       "d": 1790322530678,
@@ -122046,15 +122046,15 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2910,
-    "energi": 99995,
+    "exp": 2925,
+    "energi": 99993,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:15:33.059Z",
+    "lastSeen": "2026-10-21T13:20:09.931Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
       "femboy": 1792588173814,
-      "ship": 1792588535628
+      "ship": 1792588811258
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2
@@ -129539,7 +129539,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637546530,
+    "exp": 937637546605,
     "energi": 99997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-21T13:19:29.397Z",
