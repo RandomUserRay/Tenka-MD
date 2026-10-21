@@ -46920,8 +46920,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 146,
-        "lastChat": 1792582307887,
+        "count": 147,
+        "lastChat": 1792582319605,
         "name": "Salycilic Adit"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47002,7 +47002,7 @@
     },
     "mutegc": false,
     "name": "「 KACUNGPRETT」 BF COMMUNITY",
-    "welcomeMsg": "WELCOME TO KACUNGPRET\n\nWelcome, {user}!\n\nSelamat bergabung di {group}.\nKamu adalah member ke- {number} di komunitas ini.\nHarap patuhi rules dan saling menghargai.\n\nEnjoy your stay!\n{time}",
+    "welcomeMsg": "WELCOME TO KACUNGPRET\n\nWelcome, {user}!\n\nSelamat bergabung di {group}.\nKamu adalah member ke- {count} di komunitas ini.\nHarap patuhi rules dan saling menghargai.\n\nEnjoy your stay!\n{time}",
     "antispam": "on",
     "antitoxic": false,
     "antiswgc": "on",
