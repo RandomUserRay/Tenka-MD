@@ -87023,7 +87023,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124731,7 +124731,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 18906,
+    "exp": 18921,
     "name": "paduka riyy",
     "lastSeen": "2026-10-21T11:11:49.885Z",
     "cooldowns": {
@@ -130231,5 +130231,10 @@
     "jid": "6285881934127",
     "rpg": {},
     "exp": 15
+  },
+  "628980538460": {
+    "jid": "628980538460",
+    "rpg": {},
+    "exp": 30
   }
 }
