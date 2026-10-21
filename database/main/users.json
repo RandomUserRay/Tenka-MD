@@ -30694,10 +30694,10 @@
     "jid": "6283146277923",
     "name": "QORI KHUMAIRAH",
     "number": "6283146277923",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25896,
+    "exp": 25911,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -30706,12 +30706,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T09:31:25.831Z",
+    "lastSeen": "2026-10-21T12:18:33.789Z",
     "cooldowns": {
       "wibu": 1782838867251,
       "jancok": 1782838886493,
       "cekmalas": 1782838941066,
-      "play": 1792315890473,
+      "play": 1792585123169,
       "bratimg": 1783011207741,
       "cekcupu": 1782839456420,
       "cekwibu": 1782839494995,
@@ -30787,8 +30787,8 @@
     "access": [],
     "lastStreamer": 1782902190858,
     "saldo": 0,
-    "lastActiveDate": "18/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 3
   },
   "6288279411439": {
     "name": "ryan",
@@ -129524,7 +129524,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637544430,
+    "exp": 937637544505,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-20T14:38:14.271Z",
@@ -130309,5 +130309,10 @@
     "exp": 30,
     "name": "sigma and rizz",
     "lastSeen": "2026-10-21T12:09:36.690Z"
+  },
+  "62882021394601": {
+    "jid": "62882021394601",
+    "rpg": {},
+    "exp": 30
   }
 }
