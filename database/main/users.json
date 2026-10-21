@@ -98918,7 +98918,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12270,
+    "exp": 12285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98928,13 +98928,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T10:56:17.086Z",
+    "lastSeen": "2026-10-21T11:01:04.107Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1792446851178,
       "menucat": 1792446961081,
       "cekfemboy": 1792359895796,
-      "femboy": 1792580180693,
+      "femboy": 1792580466473,
       "s": 1792285557408,
       "cekganteng": 1792523499419,
       "cekcantik": 1792431427087,
@@ -102312,7 +102312,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102322,11 +102322,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T04:40:46.291Z",
+    "lastSeen": "2026-10-21T11:01:10.730Z",
     "cooldowns": {
       "cekcantik": 1790248510656,
       "cekganteng": 1790248531436,
-      "afk": 1792298448747
+      "afk": 1792580472577
     },
     "clanId": null,
     "isRegistered": false,
@@ -102336,8 +102336,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "18/10/2026",
-    "activeDays": 7
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 8
   },
   "6285705825895": {
     "jid": "6285705825895",
