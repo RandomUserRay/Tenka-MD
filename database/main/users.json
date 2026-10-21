@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-21T11:14:21.600Z",
+    "lastSeen": "2026-10-21T11:19:13.770Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000179459,
+    "exp": 1009000179534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -57575,7 +57575,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113290,
+    "exp": 113305,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -87021,10 +87021,10 @@
     "jid": "6289671886267",
     "name": "Lintar Tempest",
     "number": "6289671886267",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1425,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87034,8 +87034,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:17:49.012Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-21T11:19:14.013Z",
+    "cooldowns": {
+      "iqc": 1792581555921
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -87043,7 +87045,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   },
   "6285792126411": {
     "jid": "6285792126411",
@@ -130264,6 +130268,6 @@
   "6288994254354": {
     "jid": "6288994254354",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
