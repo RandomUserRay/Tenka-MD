@@ -40558,7 +40558,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71355,
+    "exp": 71385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -40567,12 +40567,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T13:08:17.902Z",
+    "lastSeen": "2026-10-21T13:47:07.921Z",
     "cooldowns": {
       "allmenu": 1787978058894,
       "rob": 1784628880390,
       "jadibot": 1786817410360,
-      "kick": 1792242499890,
+      "kick": 1792590430239,
       "antispam": 1786280360569,
       "antitoxic": 1788343502905,
       "listtoxic": 1788343489952,
@@ -40609,8 +40609,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 13
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 14
   },
   "6285640264137": {
     "jid": "6285640264137",
@@ -130104,7 +130104,7 @@
     "lastSeen": "2026-10-18T11:49:41.795Z",
     "jid": "6281356881573",
     "rpg": {},
-    "exp": 7680,
+    "exp": 7695,
     "cooldowns": {
       "menu": 1792315462935
     },
