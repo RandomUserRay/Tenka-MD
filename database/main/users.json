@@ -1,15 +1,15 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-21T13:34:36.966Z",
+    "lastSeen": "2026-10-21T13:34:51.500Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000183659,
+    "exp": 1009000183734,
     "level": 1,
-    "koin": 91036390,
+    "koin": 90036390,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
@@ -102830,7 +102830,7 @@
     "isBanned": false,
     "exp": 25549,
     "level": 1,
-    "koin": 0,
+    "koin": 1000000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -122056,10 +122056,10 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 3255,
+    "exp": 3270,
     "energi": 99983,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:34:37.211Z",
+    "lastSeen": "2026-10-21T13:34:50.912Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
@@ -122067,7 +122067,7 @@
       "ship": 1792589477099,
       "love": 1792589235415,
       "bank": 1792589649372,
-      "transfer": 1792589677479
+      "transfer": 1792589691151
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2,
