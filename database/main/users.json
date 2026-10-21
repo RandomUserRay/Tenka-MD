@@ -35473,7 +35473,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024137,
+    "exp": 1024167,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35482,7 +35482,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:25:04.018Z",
+    "lastSeen": "2026-10-21T11:25:28.491Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35668,7 +35668,7 @@
       "marry": 1790251071674,
       "divorce": 1790250796141,
       "tebakanimechar": 1790251799705,
-      "intro": 1792581694258,
+      "intro": 1792581907518,
       "mutegc": 1791467414589,
       "unmutegc": 1792580486345,
       "antitoxic": 1791467541507,
@@ -35676,7 +35676,7 @@
       "addcmdsticker": 1791467204540,
       "antiswgc": 1791467554847,
       "listtoxic": 1791478857550,
-      "antilinkgc": 1791478899306,
+      "antilinkgc": 1792581928527,
       "jahy": 1791478974837,
       "setintro": 1792581904086,
       "bocil": 1791479243677,
@@ -130277,5 +130277,10 @@
     "jid": "6288271435378",
     "rpg": {},
     "exp": 15
+  },
+  "62881012149927": {
+    "jid": "62881012149927",
+    "rpg": {},
+    "exp": 60
   }
 }
