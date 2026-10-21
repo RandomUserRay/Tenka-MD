@@ -35473,7 +35473,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1023762,
+    "exp": 1023777,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -57574,7 +57574,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113260,
+    "exp": 113290,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -87018,12 +87018,12 @@
   },
   "6289671886267": {
     "jid": "6289671886267",
-    "name": "Unknown",
+    "name": "Lintar Tempest",
     "number": "6289671886267",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1380,
+    "exp": 1410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87033,7 +87033,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-02T14:40:45.796Z",
+    "lastSeen": "2026-10-21T11:17:49.012Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -130247,14 +130247,20 @@
   "6285849473859": {
     "jid": "6285849473859",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "name": "Ad",
-    "lastSeen": "2026-10-21T11:17:37.431Z",
+    "lastSeen": "2026-10-21T11:17:57.731Z",
     "cooldowns": {
-      "kiss": 1792581459092
+      "kiss": 1792581459092,
+      "sleep": 1792581478927
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "21/10/2026",
     "activeDays": 1
+  },
+  "6288994254354": {
+    "jid": "6288994254354",
+    "rpg": {},
+    "exp": 30
   }
 }
