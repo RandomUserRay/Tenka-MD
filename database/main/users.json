@@ -3508,12 +3508,12 @@
   },
   "6282135848247": {
     "jid": "6282135848247",
-    "name": "Leona??",
+    "name": "Kun??",
     "number": "6282135848247",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 432842,
+    "exp": 432887,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3522,7 +3522,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:02:28.503Z",
+    "lastSeen": "2026-10-21T13:09:36.506Z",
     "cooldowns": {
       "femboy": 1792587749810,
       "profile": 1792158310899,
@@ -3559,7 +3559,7 @@
       "deposit": 1782910240452,
       "heal": 1781600051647,
       "shop": 1781575673255,
-      "love": 1790422663391,
+      "love": 1792588176734,
       "steal": 1781702377297,
       "topexp": 1782792908312,
       "topenergi": 1781702355640,
@@ -54543,10 +54543,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99992,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25551,
+    "exp": 25581,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:08:52.861Z",
+    "lastSeen": "2026-10-21T13:09:34.366Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54583,14 +54583,14 @@
       "bank": 1789213562881,
       "profil": 1789119243016,
       "deposit": 1789119722960,
-      "love": 1792587788208,
+      "love": 1792588150863,
       "cerai": 1790240223130,
       "close": 1789137262323,
       "open": 1789137420963,
       "rob": 1789213633812,
       "istirahat": 1789213735157,
       "training": 1789213751788,
-      "ship": 1792588133113,
+      "ship": 1792588177005,
       "cekjodoh": 1790321611645,
       "unmute": 1790322136000,
       "d": 1790322530678,
@@ -96744,7 +96744,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38888,
+    "exp": 38918,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96754,7 +96754,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:02:40.750Z",
+    "lastSeen": "2026-10-21T13:09:28.921Z",
     "cooldowns": {
       "afk": 1792390576606,
       "play": 1792476507218,
@@ -96769,7 +96769,7 @@
       "tolol": 1788075743705,
       "top": 1792301164667,
       "pintar": 1788075965074,
-      "femboy": 1792587762262,
+      "femboy": 1792588170514,
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1792587668025,
@@ -122042,14 +122042,14 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2775,
+    "exp": 2805,
     "energi": 99999,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:08:00.778Z",
+    "lastSeen": "2026-10-21T13:09:32.301Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
-      "femboy": 1792588082950
+      "femboy": 1792588173814
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2
@@ -130346,9 +130346,9 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T13:02:05.140Z",
+    "lastSeen": "2026-10-21T13:09:18.774Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -130356,7 +130356,8 @@
       "tsundere": 1792587659565,
       "cekganteng": 1792587489372,
       "cekimut": 1792587621398,
-      "yandere": 1792587725416
+      "yandere": 1792587725416,
+      "love": 1792588159016
     },
     "energi": 22,
     "lastActiveDate": "21/10/2026",
@@ -130370,15 +130371,17 @@
   "6283135180881": {
     "jid": "6283135180881",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "name": "b!ecaice",
-    "lastSeen": "2026-10-21T13:02:49.596Z",
+    "lastSeen": "2026-10-21T13:09:44.282Z",
     "cooldowns": {
       "cekfemboy": 1792587771481,
-      "cekcantik": 1792587634920
+      "cekcantik": 1792587634920,
+      "ship": 1792588186283
     },
     "lastActiveDate": "21/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 23
   },
   "6282343111013": {
     "jid": "6282343111013",
