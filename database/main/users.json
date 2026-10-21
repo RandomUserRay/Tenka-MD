@@ -54548,7 +54548,7 @@
     "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25881,
+    "exp": 25896,
     "level": 1,
     "koin": 5795501,
     "unlockedFeatures": [],
@@ -54557,7 +54557,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:24:06.662Z",
+    "lastSeen": "2026-10-21T13:26:23.003Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54581,7 +54581,7 @@
       "cekfemboy": 1792587318427,
       "pin": 1788353518587,
       "me": 1792588488341,
-      "marry": 1792588413636,
+      "marry": 1792589183202,
       "bank": 1792588386700,
       "profil": 1789119243016,
       "deposit": 1789119722960,
@@ -95409,7 +95409,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315,
+    "exp": 330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95419,10 +95419,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T01:35:41.753Z",
+    "lastSeen": "2026-10-21T13:26:10.711Z",
     "cooldowns": {
       "ammagic": 1786929870096,
-      "amprem": 1786930551753
+      "amprem": 1786930551753,
+      "top5": 1792589171907
     },
     "clanId": null,
     "isRegistered": false,
@@ -95431,7 +95432,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   },
   "60178804369": {
     "jid": "60178804369",
@@ -102823,7 +102826,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25444,
+    "exp": 25459,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122047,7 +122050,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 3030,
+    "exp": 3045,
     "energi": 99989,
     "name": "Garta",
     "lastSeen": "2026-10-21T13:23:00.829Z",
@@ -129540,10 +129543,10 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637547205,
+    "exp": 937637547280,
     "energi": 99995,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-21T13:24:26.977Z",
+    "lastSeen": "2026-10-21T13:26:15.994Z",
     "cooldowns": {
       "cekganteng": 1792587665483,
       "femboy": 1792587335459,
@@ -129829,7 +129832,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4725,
+    "exp": 4740,
     "name": "Ren🔱",
     "lastSeen": "2026-10-21T13:23:56.854Z",
     "cooldowns": {
