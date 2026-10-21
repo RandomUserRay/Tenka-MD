@@ -54546,7 +54546,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25596,
+    "exp": 25611,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:10:10.104Z",
+    "lastSeen": "2026-10-21T13:10:38.760Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54580,7 +54580,7 @@
       "pin": 1788353518587,
       "me": 1788354216245,
       "marry": 1789135949843,
-      "bank": 1789213562881,
+      "bank": 1792588238988,
       "profil": 1789119243016,
       "deposit": 1789119722960,
       "love": 1792588150863,
@@ -71412,7 +71412,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73831,
+    "exp": 73846,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71421,7 +71421,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:41:29.947Z",
+    "lastSeen": "2026-10-21T13:10:50.636Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71487,7 +71487,7 @@
       "fakeml": 1790640532640,
       "ai": 1790779136102,
       "pin": 1792258230464,
-      "top5": 1792586490426
+      "top5": 1792588251851
     },
     "clanId": null,
     "isRegistered": false,
@@ -121409,7 +121409,7 @@
   "6283848747103": {
     "jid": "6283848747103",
     "rpg": {},
-    "exp": 480,
+    "exp": 495,
     "energi": 99999
   },
   "6281990054908": {
