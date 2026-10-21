@@ -57574,7 +57574,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113245,
+    "exp": 113260,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -87023,7 +87023,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1365,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130235,6 +130235,26 @@
   "628980538460": {
     "jid": "628980538460",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "-",
+    "lastSeen": "2026-10-21T11:17:17.375Z",
+    "cooldowns": {
+      "afk": 1792581438452
+    },
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
+  },
+  "6285849473859": {
+    "jid": "6285849473859",
+    "rpg": {},
+    "exp": 30,
+    "name": "Ad",
+    "lastSeen": "2026-10-21T11:17:37.431Z",
+    "cooldowns": {
+      "kiss": 1792581459092
+    },
+    "energi": 24,
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   }
 }
