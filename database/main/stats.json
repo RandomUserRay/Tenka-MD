@@ -1,6 +1,6 @@
 {
   "commandErrors": 663,
-  "commandsExecuted": 137768,
+  "commandsExecuted": 137770,
   "command_totalchat": 26,
   "command_menu": 2354,
   "command_fb": 21,
@@ -506,7 +506,7 @@
   "command_fakecallwa": 4,
   "command_gura": 4,
   "command_antivirtex": 2,
-  "command_intro": 81,
+  "command_intro": 82,
   "command_antilinkgc": 74,
   "command_removeexp": 1,
   "command_delexp": 4,
@@ -1438,5 +1438,6 @@
   "command_benefitprem": 1,
   "command_cuntboyvid": 34,
   "command_cuntboy": 1,
-  "command_futavid": 8
+  "command_futavid": 8,
+  "command_resetintro": 1
 }
