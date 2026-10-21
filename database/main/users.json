@@ -71523,10 +71523,10 @@
     "jid": "6287793883633",
     "name": "nd",
     "number": "6287793883633",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1485,
+    "exp": 1500,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71535,10 +71535,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T09:20:11.414Z",
+    "lastSeen": "2026-10-21T13:37:57.872Z",
     "cooldowns": {
       "afk": 1792142417075,
-      "s": 1789036350611,
+      "s": 1792589879331,
       "wm": 1789036370208,
       "swm": 1789036407308,
       "tt": 1791546113273
@@ -71552,8 +71552,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 6
   },
   "6283180359495": {
     "jid": "6283180359495",
@@ -96751,7 +96751,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39098,
+    "exp": 39113,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -129848,7 +129848,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4950,
+    "exp": 4980,
     "name": "Ren🔱",
     "lastSeen": "2026-10-21T13:28:08.404Z",
     "cooldowns": {
