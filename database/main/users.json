@@ -3007,7 +3007,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4260,
+    "exp": 4275,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3016,7 +3016,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T04:32:38.239Z",
+    "lastSeen": "2026-10-21T13:03:23.103Z",
     "cooldowns": {
       "bank": 1780380079016,
       "profile": 1780381098141,
@@ -3024,7 +3024,7 @@
       "kiss": 1782383232226,
       "d": 1782383238964,
       "s": 1791254716646,
-      "femboy": 1792470739498,
+      "femboy": 1792587805215,
       "top": 1791871049812,
       "cekganteng": 1792280024905,
       "cekcantik": 1792280058725
@@ -3046,8 +3046,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 5
   },
   "6283832232163": {
     "jid": "6283832232163",
@@ -54546,7 +54546,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25416,
+    "exp": 25446,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:00:53.224Z",
+    "lastSeen": "2026-10-21T13:03:07.971Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54583,7 +54583,7 @@
       "bank": 1789213562881,
       "profil": 1789119243016,
       "deposit": 1789119722960,
-      "love": 1792227237802,
+      "love": 1792587788208,
       "cerai": 1790240223130,
       "close": 1789137262323,
       "open": 1789137420963,
@@ -96744,7 +96744,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38753,
+    "exp": 38768,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -100998,7 +100998,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7560,
+    "exp": 7590,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122042,16 +122042,17 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2700,
+    "exp": 2715,
     "energi": 99999,
     "name": "Garta",
-    "lastSeen": "2026-10-20T06:36:57.207Z",
+    "lastSeen": "2026-10-21T13:02:57.548Z",
     "cooldowns": {
       "smeme": 1792478178706,
-      "s": 1792478218306
+      "s": 1792478218306,
+      "femboy": 1792587780669
     },
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 2
   },
   "62882005686310": {
     "jid": "62882005686310",
@@ -129530,7 +129531,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637545555,
+    "exp": 937637545780,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-21T13:01:05.239Z",
