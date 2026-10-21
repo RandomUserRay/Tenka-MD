@@ -54543,10 +54543,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99990,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25581,
+    "exp": 25596,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:09:34.366Z",
+    "lastSeen": "2026-10-21T13:10:10.104Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54590,7 +54590,7 @@
       "rob": 1789213633812,
       "istirahat": 1789213735157,
       "training": 1789213751788,
-      "ship": 1792588177005,
+      "ship": 1792588212359,
       "cekjodoh": 1790321611645,
       "unmute": 1790322136000,
       "d": 1790322530678,
@@ -96744,7 +96744,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38918,
+    "exp": 38933,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -122042,14 +122042,15 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2805,
-    "energi": 99999,
+    "exp": 2820,
+    "energi": 99997,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:09:32.301Z",
+    "lastSeen": "2026-10-21T13:10:08.675Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
-      "femboy": 1792588173814
+      "femboy": 1792588173814,
+      "ship": 1792588210804
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2
@@ -130346,9 +130347,9 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T13:09:18.774Z",
+    "lastSeen": "2026-10-21T13:10:12.724Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -130357,9 +130358,10 @@
       "cekganteng": 1792587489372,
       "cekimut": 1792587621398,
       "yandere": 1792587725416,
-      "love": 1792588159016
+      "love": 1792588159016,
+      "ship": 1792588212971
     },
-    "energi": 22,
+    "energi": 20,
     "lastActiveDate": "21/10/2026",
     "activeDays": 1
   },
