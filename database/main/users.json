@@ -3328,12 +3328,12 @@
   },
   "6285184199867": {
     "jid": "6285184199867",
-    "name": "hanip suka sayur",
+    "name": "hnip sesudah after",
     "number": "6285184199867",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33224,
+    "exp": 33239,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3342,7 +3342,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-25T15:44:34.070Z",
+    "lastSeen": "2026-10-21T13:11:58.753Z",
     "cooldowns": {
       "warn": 1780459399196,
       "femboy": 1790084948538,
@@ -3381,7 +3381,8 @@
       "ytmp4": 1790174389382,
       "lick": 1790084833590,
       "tsundere": 1790084984584,
-      "play": 1790178813644
+      "play": 1790178813644,
+      "ship": 1792588320458
     },
     "clanId": null,
     "isRegistered": false,
@@ -3405,8 +3406,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/9/2026",
-    "activeDays": 5
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 6
   },
   "6287791971477": {
     "jid": "6287791971477",
@@ -3513,7 +3514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 432887,
+    "exp": 432902,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3522,9 +3523,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:09:36.506Z",
+    "lastSeen": "2026-10-21T13:11:44.437Z",
     "cooldowns": {
-      "femboy": 1792587749810,
+      "femboy": 1792588306592,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -40556,7 +40557,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71280,
+    "exp": 71310,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54546,7 +54547,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25611,
+    "exp": 25626,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54556,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:10:38.760Z",
+    "lastSeen": "2026-10-21T13:11:50.773Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54580,7 +54581,7 @@
       "pin": 1788353518587,
       "me": 1788354216245,
       "marry": 1789135949843,
-      "bank": 1792588238988,
+      "bank": 1792588311039,
       "profil": 1789119243016,
       "deposit": 1789119722960,
       "love": 1792588150863,
@@ -122042,7 +122043,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2820,
+    "exp": 2835,
     "energi": 99997,
     "name": "Garta",
     "lastSeen": "2026-10-21T13:10:08.675Z",
@@ -126379,10 +126380,10 @@
   },
   "62895348807500": {
     "name": "ziyann?",
-    "lastSeen": "2026-10-21T12:50:51.960Z",
+    "lastSeen": "2026-10-21T13:12:02.153Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 3465,
+    "exp": 3480,
     "cooldowns": {
       "iqc": 1790681486930,
       "brat": 1790686850312,
@@ -126416,7 +126417,7 @@
       "pinpack": 1791975178642,
       "p": 1792583131341,
       "afk": 1792583334315,
-      "top5": 1792587053147
+      "top5": 1792588322636
     },
     "energi": 99999,
     "lastActiveDate": "21/10/2026",
@@ -129532,10 +129533,10 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637545855,
+    "exp": 937637546080,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-21T13:01:05.239Z",
+    "lastSeen": "2026-10-21T13:11:54.407Z",
     "cooldowns": {
       "cekganteng": 1792587665483,
       "femboy": 1792587335459,
@@ -129554,12 +129555,13 @@
       "me": 1792301310166,
       "ganteng": 1792241031040,
       "imut": 1792359378304,
-      "bank": 1792365582798,
+      "bank": 1792588314637,
       "game": 1792359691512,
       "afk": 1792389380341,
       "cekimut": 1792436858079,
       "work": 1792431499032,
-      "freelance": 1792431521953
+      "freelance": 1792431521953,
+      "money": 1792588306824
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 7,
@@ -129662,10 +129664,10 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10710,
+    "exp": 10740,
     "name": "Angga?",
-    "lastSeen": "2026-10-21T13:11:07.951Z",
-    "energi": 99995,
+    "lastSeen": "2026-10-21T13:11:39.576Z",
+    "energi": 99993,
     "cooldowns": {
       "femboy": 1792587556582,
       "top": 1792208802567,
@@ -129682,7 +129684,7 @@
       "tsundere": 1792587502913,
       "hd": 1792587631085,
       "love": 1792588125706,
-      "ship": 1792588268188
+      "ship": 1792588301465
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 5
