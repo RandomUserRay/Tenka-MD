@@ -129657,7 +129657,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10365,
+    "exp": 10380,
     "name": "Angga?",
     "lastSeen": "2026-10-21T10:53:14.314Z",
     "energi": 99999,
@@ -130323,13 +130323,14 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T12:51:34.270Z",
+    "lastSeen": "2026-10-21T12:53:44.938Z",
     "cooldowns": {
-      "smeme": 1792587096388
+      "smeme": 1792587096388,
+      "s": 1792587226158
     },
-    "energi": 23,
+    "energi": 22,
     "lastActiveDate": "21/10/2026",
     "activeDays": 1
   },
