@@ -57582,7 +57582,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113365,
+    "exp": 113395,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -129539,10 +129539,10 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637546380,
+    "exp": 937637546455,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-21T13:16:04.162Z",
+    "lastSeen": "2026-10-21T13:18:42.059Z",
     "cooldowns": {
       "cekganteng": 1792587665483,
       "femboy": 1792587335459,
@@ -129568,7 +129568,8 @@
       "work": 1792431499032,
       "freelance": 1792431521953,
       "money": 1792588306824,
-      "mutegc": 1792588564426
+      "mutegc": 1792588564426,
+      "unmutegc": 1792588722934
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 7,
@@ -130412,7 +130413,7 @@
     "lastSeen": "2026-10-21T13:18:07.914Z",
     "jid": "6289514871890",
     "rpg": {},
-    "exp": 15,
+    "exp": 45,
     "cooldowns": {
       "intro": 1792588687956
     },
