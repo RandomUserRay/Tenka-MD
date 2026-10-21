@@ -20335,10 +20335,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62594,
+    "exp": 62609,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20347,7 +20347,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T10:21:27.804Z",
+    "lastSeen": "2026-10-21T11:21:13.470Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -35473,7 +35473,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1023957,
+    "exp": 1023972,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -124737,7 +124737,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19041,
+    "exp": 19071,
     "name": "paduka riyy",
     "lastSeen": "2026-10-21T11:19:02.913Z",
     "cooldowns": {
@@ -130270,5 +130270,12 @@
     "jid": "6288994254354",
     "rpg": {},
     "exp": 60
+  },
+  "6288271435378": {
+    "name": "Jon suki liar😈🤬",
+    "lastSeen": "2026-10-21T11:20:59.269Z",
+    "jid": "6288271435378",
+    "rpg": {},
+    "exp": 15
   }
 }
