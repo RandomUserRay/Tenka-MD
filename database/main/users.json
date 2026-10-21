@@ -35474,7 +35474,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024257,
+    "exp": 1024272,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -54544,7 +54544,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24816,
+    "exp": 24846,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -129521,7 +129521,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637543230,
+    "exp": 937637543305,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-20T14:38:14.271Z",
@@ -130255,14 +130255,15 @@
   "6285849473859": {
     "jid": "6285849473859",
     "rpg": {},
-    "exp": 120,
+    "exp": 150,
     "name": "Ad",
-    "lastSeen": "2026-10-21T11:29:50.200Z",
+    "lastSeen": "2026-10-21T11:30:45.986Z",
     "cooldowns": {
       "kiss": 1792581498246,
       "sleep": 1792581478927,
       "bug": 1792581520228,
-      "siapa": 1792582190242
+      "siapa": 1792582246023,
+      "apakah": 1792582234839
     },
     "energi": 22,
     "lastActiveDate": "21/10/2026",
