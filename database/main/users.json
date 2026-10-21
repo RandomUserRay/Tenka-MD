@@ -129632,15 +129632,15 @@
   "6283155516406": {
     "jid": "6283155516406",
     "rpg": {
-      "level": 1,
-      "health": 100,
-      "maxHealth": 100,
-      "mana": 100,
-      "maxMana": 100,
-      "stamina": 100,
-      "maxStamina": 100
+      "level": 2,
+      "health": 110,
+      "maxHealth": 110,
+      "mana": 105,
+      "maxMana": 105,
+      "stamina": 105,
+      "maxStamina": 105
     },
-    "exp": 9990,
+    "exp": 10005,
     "name": "Angga?",
     "lastSeen": "2026-10-20T11:18:06.297Z",
     "energi": 99999,
