@@ -30694,10 +30694,10 @@
     "jid": "6283146277923",
     "name": "QORI KHUMAIRAH",
     "number": "6283146277923",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26001,
+    "exp": 26016,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -30706,12 +30706,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:32:19.777Z",
+    "lastSeen": "2026-10-21T12:32:48.255Z",
     "cooldowns": {
       "wibu": 1782838867251,
       "jancok": 1782838886493,
       "cekmalas": 1782838941066,
-      "play": 1792585861365,
+      "play": 1792585976630,
       "bratimg": 1783011207741,
       "cekcupu": 1782839456420,
       "cekwibu": 1782839494995,
@@ -35474,7 +35474,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024692,
+    "exp": 1024707,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -87027,7 +87027,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129524,7 +129524,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637544580,
+    "exp": 937637544655,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-20T14:38:14.271Z",
@@ -129652,7 +129652,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10335,
+    "exp": 10350,
     "name": "Angga?",
     "lastSeen": "2026-10-21T10:53:14.314Z",
     "energi": 99999,
@@ -130323,6 +130323,6 @@
   "6285716195278": {
     "jid": "6285716195278",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
