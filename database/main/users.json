@@ -54546,7 +54546,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25206,
+    "exp": 25266,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54555,7 +54555,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:52:24.250Z",
+    "lastSeen": "2026-10-21T12:55:28.763Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54567,7 +54567,7 @@
       "cektsundere": 1790321808984,
       "cekyandere": 1790321839543,
       "cekcantik": 1791860675666,
-      "cekganteng": 1792071608025,
+      "cekganteng": 1792587329006,
       "profile": 1789119195440,
       "gacha": 1785334162624,
       "menu": 1790696978617,
@@ -54576,7 +54576,7 @@
       "soulmatch": 1785334475314,
       "gay": 1785539900405,
       "top": 1792239651603,
-      "cekfemboy": 1792071579785,
+      "cekfemboy": 1792587318427,
       "pin": 1788353518587,
       "me": 1788354216245,
       "marry": 1789135949843,
@@ -96743,7 +96743,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38528,
+    "exp": 38543,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96753,7 +96753,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:54:28.692Z",
+    "lastSeen": "2026-10-21T12:55:00.078Z",
     "cooldowns": {
       "afk": 1792390576606,
       "play": 1792476507218,
@@ -96768,7 +96768,7 @@
       "tolol": 1788075743705,
       "top": 1792301164667,
       "pintar": 1788075965074,
-      "femboy": 1792421938792,
+      "femboy": 1792587302101,
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1792059068970,
@@ -98929,7 +98929,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12480,
+    "exp": 12510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98939,7 +98939,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T12:54:10.021Z",
+    "lastSeen": "2026-10-21T12:55:36.239Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1792446851178,
@@ -98954,7 +98954,8 @@
       "ganteng": 1792361994581,
       "cantik": 1792286199230,
       "cekimut": 1792446825755,
-      "gay": 1792447019351
+      "gay": 1792447019351,
+      "tsundere": 1792587338488
     },
     "clanId": null,
     "isRegistered": false,
@@ -129023,7 +129024,7 @@
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
-    "exp": 105,
+    "exp": 150,
     "energi": 99999
   },
   "628217012533": {
@@ -129528,13 +129529,13 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637545180,
+    "exp": 937637545255,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-20T14:38:14.271Z",
+    "lastSeen": "2026-10-21T12:55:34.034Z",
     "cooldowns": {
       "cekganteng": 1792410620407,
-      "femboy": 1792507095867,
+      "femboy": 1792587335459,
       "top": 1792360280415,
       "cekcantik": 1792437202851,
       "status": 1792059081248,
@@ -129557,8 +129558,8 @@
       "work": 1792431499032,
       "freelance": 1792431521953
     },
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 6,
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 7,
     "isPremium": true,
     "koin": 1991000073461
   },
@@ -129657,12 +129658,12 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10380,
+    "exp": 10410,
     "name": "Angga?",
-    "lastSeen": "2026-10-21T10:53:14.314Z",
+    "lastSeen": "2026-10-21T12:55:42.706Z",
     "energi": 99999,
     "cooldowns": {
-      "femboy": 1792580000333,
+      "femboy": 1792587331171,
       "top": 1792208802567,
       "cekcantik": 1792437082308,
       "pin": 1792431754872,
@@ -129672,7 +129673,8 @@
       "berapa": 1792428224891,
       "level": 1792431482414,
       "cekimut": 1792437070515,
-      "s": 1792495087507
+      "s": 1792495087507,
+      "yandere": 1792587342961
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 5
@@ -130323,12 +130325,13 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T12:53:44.938Z",
+    "lastSeen": "2026-10-21T12:55:22.995Z",
     "cooldowns": {
       "smeme": 1792587096388,
-      "s": 1792587226158
+      "s": 1792587226158,
+      "femboy": 1792587324590
     },
     "energi": 22,
     "lastActiveDate": "21/10/2026",
@@ -130342,11 +130345,23 @@
   "6283135180881": {
     "jid": "6283135180881",
     "rpg": {},
-    "exp": 60
+    "exp": 75,
+    "name": "b!ecaice",
+    "lastSeen": "2026-10-21T12:55:41.036Z",
+    "cooldowns": {
+      "cekfemboy": 1792587342072
+    },
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   },
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
     "exp": 75
+  },
+  "6285701106957": {
+    "jid": "6285701106957",
+    "rpg": {},
+    "exp": 30
   }
 }
