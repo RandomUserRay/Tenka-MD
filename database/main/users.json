@@ -3514,7 +3514,7 @@
     "energi": 99977,
     "isPremium": false,
     "isBanned": false,
-    "exp": 433172,
+    "exp": 433187,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3523,14 +3523,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:25:16.994Z",
+    "lastSeen": "2026-10-21T13:26:36.259Z",
     "cooldowns": {
       "femboy": 1792588306592,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
       "profil": 1780487725718,
-      "afk": 1792309213338,
+      "afk": 1792589199019,
       "rob": 1790499488685,
       "me": 1790085329309,
       "work": 1783060174370,
@@ -122049,8 +122049,11 @@
   },
   "6285165048021": {
     "jid": "6285165048021",
-    "rpg": {},
-    "exp": 3045,
+    "rpg": {
+      "spouse": null,
+      "marriedAt": null
+    },
+    "exp": 3060,
     "energi": 99989,
     "name": "Garta",
     "lastSeen": "2026-10-21T13:23:00.829Z",
@@ -129541,12 +129544,14 @@
       "maxMana": 468818870,
       "stamina": 468818870,
       "maxStamina": 468818870,
-      "bank": 7009000000000
+      "bank": 7009000000000,
+      "spouse": null,
+      "marriedAt": null
     },
-    "exp": 937637547280,
+    "exp": 937637547430,
     "energi": 99995,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-21T13:26:15.994Z",
+    "lastSeen": "2026-10-21T13:26:47.398Z",
     "cooldowns": {
       "cekganteng": 1792587665483,
       "femboy": 1792587335459,
@@ -129574,12 +129579,14 @@
       "money": 1792588306824,
       "mutegc": 1792588564426,
       "unmutegc": 1792588722934,
-      "ship": 1792589069050
+      "ship": 1792589069050,
+      "marry": 1792589195050,
+      "divorce": 1792589207923
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 7,
     "isPremium": true,
-    "koin": 1991000073461
+    "koin": 1990999998461
   },
   "6285168650186": {
     "name": "pratama 🐜",
@@ -129832,7 +129839,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4740,
+    "exp": 4755,
     "name": "Ren🔱",
     "lastSeen": "2026-10-21T13:23:56.854Z",
     "cooldowns": {
