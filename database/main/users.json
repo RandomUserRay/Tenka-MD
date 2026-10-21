@@ -54548,16 +54548,16 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25656,
+    "exp": 25671,
     "level": 1,
-    "koin": 5845501,
+    "koin": 5795501,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:13:03.895Z",
+    "lastSeen": "2026-10-21T13:13:33.122Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54581,7 +54581,7 @@
       "cekfemboy": 1792587318427,
       "pin": 1788353518587,
       "me": 1788354216245,
-      "marry": 1789135949843,
+      "marry": 1792588413636,
       "bank": 1792588386700,
       "profil": 1789119243016,
       "deposit": 1789119722960,
@@ -54623,8 +54623,8 @@
       "health": 120,
       "mana": 110,
       "bank": 50000,
-      "spouse": null,
-      "marriedAt": null,
+      "spouse": "6285941901216@s.whatsapp.net",
+      "marriedAt": 1792588413124,
       "luck": 7
     },
     "inventory": {},
@@ -128261,7 +128261,10 @@
   },
   "6285941901216": {
     "jid": "6285941901216",
-    "rpg": {},
+    "rpg": {
+      "spouse": "6283857834910@s.whatsapp.net",
+      "marriedAt": 1792588413124
+    },
     "exp": 45,
     "energi": 99999
   },
