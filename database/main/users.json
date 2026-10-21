@@ -87023,7 +87023,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1410,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130247,14 +130247,14 @@
   "6285849473859": {
     "jid": "6285849473859",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "Ad",
-    "lastSeen": "2026-10-21T11:17:57.731Z",
+    "lastSeen": "2026-10-21T11:18:17.453Z",
     "cooldowns": {
-      "kiss": 1792581459092,
+      "kiss": 1792581498246,
       "sleep": 1792581478927
     },
-    "energi": 23,
+    "energi": 22,
     "lastActiveDate": "21/10/2026",
     "activeDays": 1
   },
