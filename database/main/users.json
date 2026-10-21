@@ -3511,10 +3511,10 @@
     "jid": "6282135848247",
     "name": "Kun??",
     "number": "6282135848247",
-    "energi": 99975,
+    "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 433247,
+    "exp": 433262,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3523,7 +3523,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:28:30.925Z",
+    "lastSeen": "2026-10-21T13:29:13.905Z",
     "cooldowns": {
       "femboy": 1792588306592,
       "profile": 1792158310899,
@@ -3592,7 +3592,7 @@
       "imut": 1790758652050,
       "ganteng": 1790758668448,
       "list": 1790758677447,
-      "ship": 1792589312799
+      "ship": 1792589355758
     },
     "clanId": null,
     "isRegistered": false,
@@ -102826,7 +102826,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25489,
+    "exp": 25504,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122053,7 +122053,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 3120,
+    "exp": 3135,
     "energi": 99989,
     "name": "Garta",
     "lastSeen": "2026-10-21T13:27:15.169Z",
@@ -129840,7 +129840,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4860,
+    "exp": 4875,
     "name": "Ren🔱",
     "lastSeen": "2026-10-21T13:28:08.404Z",
     "cooldowns": {
@@ -130279,14 +130279,15 @@
   },
   "6281316316803": {
     "name": "BpNjt",
-    "lastSeen": "2026-10-21T13:23:44.759Z",
+    "lastSeen": "2026-10-21T13:29:08.295Z",
     "jid": "6281316316803",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "cooldowns": {
       "femboy": 1792580768997,
       "ship": 1792588397055,
-      "love": 1792589025566
+      "love": 1792589025566,
+      "menu": 1792589352016
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 1,
