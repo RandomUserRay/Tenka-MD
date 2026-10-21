@@ -37585,7 +37585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8895,
+    "exp": 8910,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54546,7 +54546,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25521,
+    "exp": 25536,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -96744,7 +96744,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38873,
+    "exp": 38888,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -122042,14 +122042,14 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2745,
+    "exp": 2775,
     "energi": 99999,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:02:57.548Z",
+    "lastSeen": "2026-10-21T13:08:00.778Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
-      "femboy": 1792587780669
+      "femboy": 1792588082950
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2
@@ -129713,15 +129713,16 @@
   "6282310394375": {
     "jid": "6282310394375",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999,
     "name": "~ cijaw",
-    "lastSeen": "2026-10-19T18:53:51.581Z",
+    "lastSeen": "2026-10-21T13:07:42.490Z",
     "cooldowns": {
-      "bdsmvid": 1792436034523
+      "bdsmvid": 1792436034523,
+      "femboy": 1792588067299
     },
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 2
   },
   "6282347767335": {
     "jid": "6282347767335",
@@ -130344,7 +130345,7 @@
   "6281356624226": {
     "jid": "6281356624226",
     "rpg": {},
-    "exp": 240,
+    "exp": 285,
     "name": "Fyra Mikoto",
     "lastSeen": "2026-10-21T13:02:05.140Z",
     "cooldowns": {
@@ -130368,7 +130369,7 @@
   "6283135180881": {
     "jid": "6283135180881",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "name": "b!ecaice",
     "lastSeen": "2026-10-21T13:02:49.596Z",
     "cooldowns": {
