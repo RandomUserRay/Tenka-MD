@@ -96744,7 +96744,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38798,
+    "exp": 38813,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -100998,7 +100998,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7605,
+    "exp": 7620,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130158,7 +130158,11 @@
     "energi": 99997,
     "name": ".",
     "lastSeen": "2026-10-21T13:04:26.036Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "ytmp4": 1792587877020
+    },
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   },
   "628385919172": {
     "jid": "628385919172",
