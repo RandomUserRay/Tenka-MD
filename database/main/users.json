@@ -98918,7 +98918,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12255,
+    "exp": 12270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98928,13 +98928,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T10:56:02.596Z",
+    "lastSeen": "2026-10-21T10:56:17.086Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1792446851178,
       "menucat": 1792446961081,
       "cekfemboy": 1792359895796,
-      "femboy": 1792579949069,
+      "femboy": 1792580180693,
       "s": 1792285557408,
       "cekganteng": 1792523499419,
       "cekcantik": 1792431427087,
@@ -130187,8 +130187,11 @@
   "6285181624890": {
     "jid": "6285181624890",
     "rpg": {},
-    "exp": 120,
-    "energi": 99999
+    "exp": 135,
+    "energi": 99999,
+    "name": "𝗦𝗹𝗮𝘆𝗲𝗿 𝗔𝗻𝗱𝗿𝗮𝘀",
+    "lastSeen": "2026-10-21T10:56:24.571Z",
+    "cooldowns": {}
   },
   "6285855061664": {
     "jid": "6285855061664",
