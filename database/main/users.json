@@ -96746,7 +96746,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38978,
+    "exp": 38993,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -129539,7 +129539,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637546305,
+    "exp": 937637546380,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-21T13:16:04.162Z",
@@ -130406,5 +130406,17 @@
     "jid": "6285701106957",
     "rpg": {},
     "exp": 45
+  },
+  "6289514871890": {
+    "name": "Christ",
+    "lastSeen": "2026-10-21T13:18:07.914Z",
+    "jid": "6289514871890",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "intro": 1792588687956
+    },
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 1
   }
 }
