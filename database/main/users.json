@@ -96751,7 +96751,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39113,
+    "exp": 39128,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96761,9 +96761,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:31:35.938Z",
+    "lastSeen": "2026-10-21T13:42:06.912Z",
     "cooldowns": {
-      "afk": 1792589497722,
+      "afk": 1792590129228,
       "play": 1792476507218,
       "smeme": 1792478000590,
       "s": 1792556184532,
@@ -130451,6 +130451,6 @@
   "60143833508": {
     "jid": "60143833508",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
