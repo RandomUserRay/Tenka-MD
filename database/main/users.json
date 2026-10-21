@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-21T13:32:58.861Z",
+    "lastSeen": "2026-10-21T13:34:07.550Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000183434,
+    "exp": 1009000183509,
     "level": 1,
     "koin": 91036390,
     "unlockedFeatures": [],
@@ -102828,7 +102828,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25534,
+    "exp": 25549,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122053,18 +122053,20 @@
     "jid": "6285165048021",
     "rpg": {
       "spouse": null,
-      "marriedAt": null
+      "marriedAt": null,
+      "bank": 0
     },
-    "exp": 3225,
+    "exp": 3240,
     "energi": 99983,
     "name": "Garta",
-    "lastSeen": "2026-10-21T13:31:15.663Z",
+    "lastSeen": "2026-10-21T13:34:09.109Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792478218306,
       "femboy": 1792588173814,
       "ship": 1792589477099,
-      "love": 1792589235415
+      "love": 1792589235415,
+      "bank": 1792589649372
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 2
@@ -129844,7 +129846,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 4920,
+    "exp": 4935,
     "name": "Ren🔱",
     "lastSeen": "2026-10-21T13:28:08.404Z",
     "cooldowns": {
@@ -130382,9 +130384,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 390,
+    "exp": 405,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T13:33:32.147Z",
+    "lastSeen": "2026-10-21T13:34:10.260Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -130395,7 +130397,7 @@
       "yandere": 1792587725416,
       "love": 1792588159016,
       "ship": 1792588212971,
-      "bank": 1792589612413
+      "bank": 1792589650511
     },
     "energi": 20,
     "lastActiveDate": "21/10/2026",
