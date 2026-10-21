@@ -35470,10 +35470,10 @@
     "jid": "6282131144804",
     "name": "Salycilic Adit",
     "number": "6282131144804",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1023777,
+    "exp": 1023822,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35482,7 +35482,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:17:05.671Z",
+    "lastSeen": "2026-10-21T11:18:50.561Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35561,7 +35561,7 @@
       "bratvid": 1783789087625,
       "bratvermeil": 1784468267607,
       "riddle": 1791362860642,
-      "menucat": 1791479389082,
+      "menucat": 1792581518434,
       "system": 1784299609834,
       "maling": 1784166618674,
       "afinitasml": 1783822870669,
@@ -35689,7 +35689,8 @@
       "femdom": 1791479475258,
       "ero": 1791479513333,
       "eba": 1791479519006,
-      "resetintro": 1792581353996
+      "resetintro": 1792581353996,
+      "baka": 1792581531597
     },
     "clanId": null,
     "isRegistered": false,
@@ -40551,7 +40552,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71250,
+    "exp": 71265,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -124731,9 +124732,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 18951,
+    "exp": 18981,
     "name": "paduka riyy",
-    "lastSeen": "2026-10-21T11:11:49.885Z",
+    "lastSeen": "2026-10-21T11:19:02.913Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -124749,7 +124750,7 @@
       "lirik": 1789916559755,
       "tebakhewan": 1789916731733,
       "cekfemboy": 1789916822074,
-      "iqc": 1790161455730,
+      "iqc": 1792581520212,
       "love": 1789917053379,
       "terima": 1789917115672,
       "tolak": 1789917117034,
@@ -124767,9 +124768,10 @@
       "hd5": 1790250588421,
       "toblack": 1790250693081,
       "play": 1790251767366,
-      "marry": 1790250742612
+      "marry": 1790250742612,
+      "spotify": 1792581543021
     },
-    "energi": 99999,
+    "energi": 99996,
     "lastActiveDate": "21/10/2026",
     "activeDays": 8,
     "fun": {
@@ -130247,12 +130249,13 @@
   "6285849473859": {
     "jid": "6285849473859",
     "rpg": {},
-    "exp": 60,
+    "exp": 105,
     "name": "Ad",
-    "lastSeen": "2026-10-21T11:18:17.453Z",
+    "lastSeen": "2026-10-21T11:18:40.197Z",
     "cooldowns": {
       "kiss": 1792581498246,
-      "sleep": 1792581478927
+      "sleep": 1792581478927,
+      "bug": 1792581520228
     },
     "energi": 22,
     "lastActiveDate": "21/10/2026",
@@ -130261,6 +130264,6 @@
   "6288994254354": {
     "jid": "6288994254354",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
