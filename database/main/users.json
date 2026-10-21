@@ -35474,7 +35474,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024632,
+    "exp": 1024647,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -129524,7 +129524,7 @@
       "maxStamina": 468818870,
       "bank": 7009000000000
     },
-    "exp": 937637543605,
+    "exp": 937637543830,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-20T14:38:14.271Z",
@@ -129924,7 +129924,8 @@
       "setgoodbye": 1792316201318,
       "afk": 1792381110091,
       "kick": 1792363522756,
-      "hapusabsen": 1792364459467
+      "hapusabsen": 1792364459467,
+      "play": 1792584205428
     },
     "lastActiveDate": "21/10/2026",
     "activeDays": 4,
@@ -130055,7 +130056,7 @@
     "lastSeen": "2026-10-18T11:49:41.795Z",
     "jid": "6281356881573",
     "rpg": {},
-    "exp": 7635,
+    "exp": 7650,
     "cooldowns": {
       "menu": 1792315462935
     },
