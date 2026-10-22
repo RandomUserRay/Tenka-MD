@@ -16145,10 +16145,10 @@
     "jid": "6285753061976",
     "name": "antinous",
     "number": "6285753061976",
-    "energi": 999998,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397877,
+    "exp": 9397892,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16157,7 +16157,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T11:42:10.781Z",
+    "lastSeen": "2026-10-22T12:24:16.071Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16291,7 +16291,7 @@
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1792669332887,
+      "tt": 1792671860533,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -130792,5 +130792,10 @@
     "jid": "6283862411569",
     "rpg": {},
     "exp": 60
+  },
+  "6288704741606": {
+    "jid": "6288704741606",
+    "rpg": {},
+    "exp": 15
   }
 }
