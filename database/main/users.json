@@ -8073,7 +8073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 134558,
+    "exp": 134573,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -37587,7 +37587,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9225,
+    "exp": 9240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129569,7 +129569,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637558305,
+    "exp": 937637558530,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-21T23:36:20.909Z",
@@ -130248,7 +130248,7 @@
   "6285113124636": {
     "jid": "6285113124636",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "6282190415676": {
@@ -130645,6 +130645,11 @@
   },
   "6282291297750": {
     "jid": "6282291297750",
+    "rpg": {},
+    "exp": 15
+  },
+  "628986163983": {
+    "jid": "628986163983",
     "rpg": {},
     "exp": 15
   }
