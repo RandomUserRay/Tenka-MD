@@ -50088,10 +50088,10 @@
     "jid": "6282163530909",
     "name": "Drean Reze",
     "number": "6282163530909",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1740,
+    "exp": 1755,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50100,8 +50100,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T12:35:53.751Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-22T13:10:02.603Z",
+    "cooldowns": {
+      "tts": 1792674608811
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -50110,7 +50112,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 1
   },
   "6281260969274": {
     "jid": "6281260969274",
