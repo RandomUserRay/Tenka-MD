@@ -54548,7 +54548,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26586,
+    "exp": 26601,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -129816,17 +129816,17 @@
   },
   "60103888364": {
     "name": "stranger",
-    "lastSeen": "2026-10-21T08:40:15.048Z",
+    "lastSeen": "2026-10-22T02:44:44.096Z",
     "jid": "60103888364",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "cooldowns": {
-      "pin": 1792195192245,
+      "pin": 1792637094694,
       "ig": 1792572018973
     },
-    "energi": 99999,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 2
+    "energi": 99998,
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 3
   },
   "62881025066060": {
     "jid": "62881025066060",
@@ -130106,7 +130106,7 @@
     "lastSeen": "2026-10-18T11:49:41.795Z",
     "jid": "6281356881573",
     "rpg": {},
-    "exp": 7740,
+    "exp": 7755,
     "cooldowns": {
       "menu": 1792315462935
     },
