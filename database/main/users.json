@@ -96757,7 +96757,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40898,
+    "exp": 40913,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96767,7 +96767,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T12:27:26.757Z",
+    "lastSeen": "2026-10-22T13:17:50.867Z",
     "cooldowns": {
       "afk": 1792590129228,
       "play": 1792596085442,
@@ -96810,7 +96810,8 @@
       "absen": 1792313199844,
       "kick": 1792482296670,
       "warn": 1792494888278,
-      "ship": 1792589383067
+      "ship": 1792589383067,
+      "unmutegc": 1792675072007
     },
     "clanId": null,
     "isRegistered": false,
