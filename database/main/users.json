@@ -54548,7 +54548,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26511,
+    "exp": 26541,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -54557,7 +54557,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T16:09:16.180Z",
+    "lastSeen": "2026-10-22T01:37:01.353Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54568,7 +54568,7 @@
       "warn": 1785311907607,
       "cektsundere": 1790321808984,
       "cekyandere": 1790321839543,
-      "cekcantik": 1792587653457,
+      "cekcantik": 1792633021629,
       "cekganteng": 1792587633633,
       "profile": 1789119195440,
       "gacha": 1785334162624,
@@ -54632,8 +54632,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 16
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 17
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -130398,9 +130398,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 3258,
+    "exp": 3273,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-21T16:10:35.266Z",
+    "lastSeen": "2026-10-22T01:36:54.634Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -130412,11 +130412,12 @@
       "love": 1792588159016,
       "ship": 1792588212971,
       "bank": 1792589650511,
-      "daily": 1792598362288
+      "daily": 1792598362288,
+      "cekcantik": 1792633014886
     },
     "energi": 99999,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 2,
     "koin": 10000000
   },
   "6285716195278": {
