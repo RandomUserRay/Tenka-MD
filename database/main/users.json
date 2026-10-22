@@ -35477,7 +35477,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1025502,
+    "exp": 1025517,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -122247,7 +122247,11 @@
     "energi": 99997,
     "name": "hunter seblak",
     "lastSeen": "2026-10-22T07:43:44.698Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "pin": 1792655044349
+    },
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 1
   },
   "259266288054308": {
     "jid": "259266288054308",
@@ -130559,5 +130563,10 @@
     "jid": "6285172257906",
     "rpg": {},
     "exp": 105
+  },
+  "6288989439193": {
+    "jid": "6288989439193",
+    "rpg": {},
+    "exp": 15
   }
 }
