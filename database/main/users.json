@@ -96760,7 +96760,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41258,
+    "exp": 41273,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96770,7 +96770,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T23:45:12.544Z",
+    "lastSeen": "2026-10-22T23:45:30.785Z",
     "cooldowns": {
       "afk": 1792590129228,
       "play": 1792596085442,
@@ -96790,7 +96790,7 @@
       "bank": 1789119647649,
       "cekyandere": 1792587668025,
       "cekimut": 1792587607217,
-      "d": 1792705616892,
+      "d": 1792712731232,
       "mutegc": 1792668487366,
       "pin": 1792639880216,
       "pat": 1789909412342,
@@ -129850,16 +129850,16 @@
   },
   "60103888364": {
     "name": "stranger",
-    "lastSeen": "2026-10-22T23:28:19.521Z",
+    "lastSeen": "2026-10-22T23:45:34.729Z",
     "jid": "60103888364",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "cooldowns": {
       "pin": 1792645101412,
       "ig": 1792711702631,
       "play": 1792644761355
     },
-    "energi": 99998,
+    "energi": 99996,
     "lastActiveDate": "23/10/2026",
     "activeDays": 4
   },
