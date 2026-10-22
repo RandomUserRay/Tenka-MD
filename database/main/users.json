@@ -20415,7 +20415,7 @@
       "h": 1789469106255,
       "ytmp4": 1790944811156,
       "open": 1789240778139,
-      "pin": 1792476219036,
+      "pin": 1792655664797,
       "rvo": 1789376067321,
       "kick": 1789446781085,
       "top": 1789377210873,
@@ -20449,8 +20449,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 34
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 35
   },
   "6282182476988": {
     "jid": "6282182476988",
@@ -37587,7 +37587,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9030,
+    "exp": 9045,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
