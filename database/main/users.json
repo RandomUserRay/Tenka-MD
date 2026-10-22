@@ -3083,7 +3083,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722921,
+    "exp": 722951,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3092,7 +3092,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T15:01:51.762Z",
+    "lastSeen": "2026-10-22T11:17:11.267Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -96752,7 +96752,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40598,
+    "exp": 40613,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -102830,7 +102830,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25594,
+    "exp": 25624,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129062,8 +129062,10 @@
   "6283167561944": {
     "jid": "6283167561944",
     "rpg": {},
-    "exp": 540,
-    "energi": 99999
+    "exp": 570,
+    "energi": 99999,
+    "name": "Alif",
+    "lastSeen": "2026-10-22T11:17:18.637Z"
   },
   "628217012533": {
     "jid": "628217012533",
