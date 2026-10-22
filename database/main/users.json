@@ -102332,10 +102332,10 @@
     "jid": "6282213550673",
     "name": "𝐀𝐨𝐢|ruu",
     "number": "6282213550673",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 885,
+    "exp": 900,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102345,11 +102345,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T11:01:10.730Z",
+    "lastSeen": "2026-10-22T04:37:15.192Z",
     "cooldowns": {
       "cekcantik": 1790248510656,
       "cekganteng": 1790248531436,
-      "afk": 1792580472577
+      "afk": 1792580472577,
+      "s": 1792643837185
     },
     "clanId": null,
     "isRegistered": false,
@@ -102359,8 +102360,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 9
   },
   "6285705825895": {
     "jid": "6285705825895",
