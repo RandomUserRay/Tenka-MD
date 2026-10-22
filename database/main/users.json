@@ -35472,12 +35472,12 @@
   },
   "6282131144804": {
     "jid": "6282131144804",
-    "name": "Salycilic Adit",
+    "name": "radit maendra",
     "number": "6282131144804",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1026477,
+    "exp": 1026492,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35486,7 +35486,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T07:45:27.654Z",
+    "lastSeen": "2026-10-22T09:13:05.880Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35591,7 +35591,7 @@
       "removebg": 1789824702993,
       "papercutstyle": 1783822756929,
       "buyfitur": 1783823596991,
-      "ht": 1784354068041,
+      "ht": 1792660386977,
       "ngojek": 1788078106184,
       "rob": 1784799938212,
       "fishing": 1783824761153,
@@ -130594,6 +130594,11 @@
   "6282391934985": {
     "jid": "6282391934985",
     "rpg": {},
-    "exp": 15
+    "exp": 45
+  },
+  "6285874001008": {
+    "jid": "6285874001008",
+    "rpg": {},
+    "exp": 30
   }
 }
