@@ -8073,7 +8073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 134603,
+    "exp": 134618,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -37587,7 +37587,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9240,
+    "exp": 9270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130309,21 +130309,21 @@
   },
   "6281316316803": {
     "name": "BpNjt",
-    "lastSeen": "2026-10-22T03:28:16.185Z",
+    "lastSeen": "2026-10-22T10:38:37.492Z",
     "jid": "6281316316803",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "cooldowns": {
       "femboy": 1792595768046,
       "ship": 1792588397055,
       "love": 1792589025566,
       "menu": 1792595732662,
       "play": 1792596346038,
-      "s": 1792639700973
+      "s": 1792665519869
     },
     "lastActiveDate": "22/10/2026",
     "activeDays": 2,
-    "energi": 99998
+    "energi": 99997
   },
   "6281378016888": {
     "jid": "6281378016888",
@@ -130658,6 +130658,6 @@
   "628986163983": {
     "jid": "628986163983",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
