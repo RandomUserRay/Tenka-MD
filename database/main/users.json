@@ -35477,7 +35477,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1027422,
+    "exp": 1027437,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -130557,16 +130557,17 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "name": "sitepugiovan",
-    "lastSeen": "2026-10-22T14:21:42.898Z",
+    "lastSeen": "2026-10-22T14:22:04.734Z",
     "cooldowns": {
       "afk": 1792674743254,
       "menucat": 1792678732407,
       "menu": 1792678662023,
       "asupan": 1792678752280,
       "lesby": 1792678835436,
-      "pro": 1792678903012
+      "pro": 1792678903012,
+      "ganteng": 1792678924866
     },
     "lastActiveDate": "22/10/2026",
     "activeDays": 2,
