@@ -71523,10 +71523,10 @@
     "jid": "6287793883633",
     "name": "nd",
     "number": "6287793883633",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1515,
+    "exp": 1530,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71535,13 +71535,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:38:18.012Z",
+    "lastSeen": "2026-10-22T07:50:11.894Z",
     "cooldowns": {
       "afk": 1792142417075,
       "s": 1792589879331,
       "wm": 1792589898641,
       "swm": 1789036407308,
-      "tt": 1791546113273
+      "tt": 1792655414662
     },
     "clanId": null,
     "isRegistered": false,
@@ -71552,8 +71552,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 7
   },
   "6283180359495": {
     "jid": "6283180359495",
@@ -125666,7 +125666,7 @@
       "femboy": 1790422314907,
       "cektsundere": 1790321854630,
       "cekyandere": 1790321839312,
-      "cekfemboy": 1792655362393,
+      "cekfemboy": 1792655410854,
       "ganteng": 1790234116410,
       "cantik": 1790234133602,
       "imut": 1790234144722,
