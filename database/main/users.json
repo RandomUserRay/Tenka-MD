@@ -35474,10 +35474,10 @@
     "jid": "6282131144804",
     "name": "Salycilic Adit",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1025622,
+    "exp": 1025637,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35486,7 +35486,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T07:38:54.463Z",
+    "lastSeen": "2026-10-22T07:45:27.654Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -129048,7 +129048,7 @@
   "6285767399546": {
     "jid": "6285767399546",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "60173328973": {
@@ -130562,11 +130562,11 @@
   "6285172257906": {
     "jid": "6285172257906",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6288989439193": {
     "jid": "6288989439193",
     "rpg": {},
-    "exp": 30
+    "exp": 75
   }
 }
