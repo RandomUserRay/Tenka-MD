@@ -68336,10 +68336,10 @@
     "jid": "6287890213199",
     "name": "iputt",
     "number": "6287890213199",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6975,
+    "exp": 6990,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -68348,10 +68348,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T06:07:29.651Z",
+    "lastSeen": "2026-10-22T13:22:29.449Z",
     "cooldowns": {
       "femboy": 1792390051105,
-      "cekganteng": 1790684988117
+      "cekganteng": 1790684988117,
+      "s": 1792675349799
     },
     "clanId": null,
     "isRegistered": false,
@@ -68362,8 +68363,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "19/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "22/10/2026",
+    "activeDays": 3
   },
   "628135366629": {
     "name": ".",
@@ -130400,7 +130401,7 @@
   "62881012149927": {
     "jid": "62881012149927",
     "rpg": {},
-    "exp": 660,
+    "exp": 690,
     "energi": 99999
   },
   "62895635752558": {
