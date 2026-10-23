@@ -90427,10 +90427,10 @@
     "jid": "6285147498740",
     "name": "viu",
     "number": "6285147498740",
-    "energi": 99984,
+    "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12780,
+    "exp": 12810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90440,7 +90440,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T03:22:36.891Z",
+    "lastSeen": "2026-10-23T09:41:17.246Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90491,7 +90491,7 @@
       "bratcewek": 1791079696448,
       "pin": 1792070985606,
       "jadibot": 1791389507574,
-      "spotify": 1792725638668
+      "spotify": 1792748467379
     },
     "clanId": null,
     "isRegistered": false,
@@ -130388,7 +130388,7 @@
   "6285881934127": {
     "jid": "6285881934127",
     "rpg": {},
-    "exp": 195,
+    "exp": 210,
     "energi": 99999
   },
   "628980538460": {
