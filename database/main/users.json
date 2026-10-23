@@ -338,7 +338,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55165,
+    "exp": 55180,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129730,7 +129730,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 12180,
+    "exp": 12195,
     "name": "Angga?",
     "lastSeen": "2026-10-22T17:39:44.602Z",
     "energi": 99999,
@@ -130925,6 +130925,11 @@
   },
   "6281959013879": {
     "jid": "6281959013879",
+    "rpg": {},
+    "exp": 15
+  },
+  "62895640811800": {
+    "jid": "62895640811800",
     "rpg": {},
     "exp": 15
   }
