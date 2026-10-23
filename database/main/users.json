@@ -2123,10 +2123,10 @@
     "jid": "6287735607482",
     "name": "shiion",
     "number": "6287735607482",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232331,
+    "exp": 232346,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -2135,7 +2135,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T05:27:48.705Z",
+    "lastSeen": "2026-10-23T23:11:04.647Z",
     "cooldowns": {
       "profile": 1781357667609,
       "afk": 1785561401898,
@@ -2169,7 +2169,7 @@
       "yaoivid": 1792079732402,
       "femboyvid": 1783609882135,
       "pap": 1782642540167,
-      "rfemboyvid": 1792474070561,
+      "rfemboyvid": 1792797072217,
       "menu": 1783005220382,
       "nsfwloli": 1783609934712,
       "yaoi": 1783609951613,
@@ -2223,8 +2223,8 @@
       "levelupNotif": true
     },
     "saldo": 0,
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 7
   },
   "6287768821605": {
     "jid": "6287768821605",
@@ -131088,6 +131088,6 @@
   "6287771425397": {
     "jid": "6287771425397",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
