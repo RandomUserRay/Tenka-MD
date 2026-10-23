@@ -338,7 +338,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55255,
+    "exp": 55270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -347,7 +347,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T14:28:32.597Z",
+    "lastSeen": "2026-10-23T14:30:06.289Z",
     "cooldowns": {
       "afk": 1791109042776,
       "s": 1790071047057,
@@ -397,7 +397,7 @@
       "judi": 1789223203774,
       "cerai": 1789298142670,
       "smeme": 1789654880099,
-      "bdsmvid": 1792765754366,
+      "bdsmvid": 1792765809954,
       "femboyvid": 1792501779045,
       "gayvid": 1792501789059,
       "cuntboyvid": 1792501822475,
@@ -121443,7 +121443,7 @@
   "6283848747103": {
     "jid": "6283848747103",
     "rpg": {},
-    "exp": 585,
+    "exp": 600,
     "energi": 99999
   },
   "6281990054908": {
@@ -130018,7 +130018,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10410,
+    "exp": 10425,
     "name": "Meöwwy",
     "lastSeen": "2026-10-23T12:31:36.336Z",
     "cooldowns": {
@@ -131041,6 +131041,6 @@
   "6285718541419": {
     "jid": "6285718541419",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
