@@ -7297,10 +7297,10 @@
     "jid": "6283196442568",
     "name": "Ciko Wikipedia",
     "number": "6283196442568",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15335,
+    "exp": 15350,
     "level": 1,
     "koin": 1018499,
     "unlockedFeatures": [],
@@ -7309,7 +7309,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T05:16:21.154Z",
+    "lastSeen": "2026-10-23T13:25:46.931Z",
     "cooldowns": {
       "femboy": 1781183141177,
       "gay": 1780158137165,
@@ -7336,7 +7336,7 @@
       "sangean": 1781169239600,
       "topixel": 1782226841956,
       "play": 1783504557946,
-      "ttmp3": 1792646157983,
+      "ttmp3": 1792761951130,
       "ytmp4": 1791878412685,
       "toimg": 1791724882019,
       "beautiful": 1782124630349,
@@ -7373,8 +7373,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 33
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 34
   },
   "6285123878040": {
     "name": "⋆. 𐙚˚࿔ 𝒌𝒆𝒚 𝜗𝜚˚⋆",
@@ -131018,5 +131018,10 @@
     "jid": "6281931273055",
     "rpg": {},
     "exp": 30
+  },
+  "6283182162083": {
+    "jid": "6283182162083",
+    "rpg": {},
+    "exp": 15
   }
 }
