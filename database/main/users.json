@@ -9453,7 +9453,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10920,
+    "exp": 10950,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9462,7 +9462,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T03:12:55.345Z",
+    "lastSeen": "2026-10-23T03:13:44.076Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9480,7 +9480,7 @@
       "afk": 1780892839841,
       "hug": 1780920517657,
       "marry": 1781398929822,
-      "femboy": 1792725178090,
+      "femboy": 1792725206234,
       "cekcantik": 1792075443921,
       "cuntboyvid": 1792375901770,
       "bdsmvid": 1792173844349
@@ -122074,14 +122074,14 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 4020,
+    "exp": 4035,
     "energi": 99999,
     "name": "Garta",
-    "lastSeen": "2026-10-22T11:27:09.594Z",
+    "lastSeen": "2026-10-23T03:13:37.079Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792644352911,
-      "femboy": 1792668431928,
+      "femboy": 1792725218889,
       "ship": 1792668145175,
       "love": 1792589235415,
       "bank": 1792589649372,
@@ -122089,8 +122089,8 @@
       "cekimut": 1792668396957,
       "cekganteng": 1792668385492
     },
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 3,
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 4,
     "koin": 10000000
   },
   "62882005686310": {
@@ -129589,7 +129589,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637566780,
+    "exp": 937637566930,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-22T14:08:11.177Z",
@@ -130919,7 +130919,7 @@
   "6282355130390": {
     "jid": "6282355130390",
     "rpg": {},
-    "exp": 75
+    "exp": 105
   },
   "6281959013879": {
     "jid": "6281959013879",
