@@ -11653,7 +11653,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42484,
+    "exp": 42514,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11662,10 +11662,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-18T04:43:38.800Z",
+    "lastSeen": "2026-10-23T05:18:44.115Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1792246034516,
+      "femboy": 1792732726326,
       "handsome": 1781865174539,
       "afk": 1783054537484,
       "tebaknegara": 1783149555979,
@@ -11733,8 +11733,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "18/10/2026",
-    "activeDays": 15,
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 16,
     "fun": {
       "tembakTarget": "628981194866@s.whatsapp.net",
       "tembakCount": 1
@@ -96761,7 +96761,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41948,
+    "exp": 41963,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -130445,7 +130445,7 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 3738,
+    "exp": 3753,
     "name": "Fyra Mikoto",
     "lastSeen": "2026-10-23T05:18:26.988Z",
     "cooldowns": {
@@ -130926,7 +130926,7 @@
   "6281959013879": {
     "jid": "6281959013879",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "62895640811800": {
     "jid": "62895640811800",
