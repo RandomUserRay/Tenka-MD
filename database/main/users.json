@@ -54553,7 +54553,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29196,
+    "exp": 29211,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -102347,7 +102347,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1185,
+    "exp": 1200,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102357,13 +102357,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T11:23:11.421Z",
+    "lastSeen": "2026-10-23T06:09:31.815Z",
     "cooldowns": {
       "cekcantik": 1790248510656,
       "cekganteng": 1790248531436,
       "afk": 1792580472577,
       "s": 1792643837185,
-      "cekimut": 1792668191681
+      "cekimut": 1792668191681,
+      "femboy": 1792735773969
     },
     "clanId": null,
     "isRegistered": false,
@@ -102373,8 +102374,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 10
   },
   "6285705825895": {
     "jid": "6285705825895",
@@ -130311,7 +130312,7 @@
   "6285181624890": {
     "jid": "6285181624890",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "energi": 99999,
     "name": "𝗦𝗹𝗮𝘆𝗲𝗿 𝗔𝗻𝗱𝗿𝗮𝘀",
     "lastSeen": "2026-10-21T10:58:48.083Z",
