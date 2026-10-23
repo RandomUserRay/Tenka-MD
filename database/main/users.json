@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-23T08:52:21.886Z",
+    "lastSeen": "2026-10-23T08:53:22.879Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000203984,
+    "exp": 1009000204509,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -90886,7 +90886,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53505,
+    "exp": 53640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129962,8 +129962,15 @@
   "6282297197498": {
     "jid": "6282297197498",
     "rpg": {},
-    "exp": 15,
-    "energi": 99999
+    "exp": 45,
+    "energi": 99997,
+    "name": "𝙉𝙞𝙚𝙡『𝗺𝗸𝘆』",
+    "lastSeen": "2026-10-23T08:52:34.598Z",
+    "cooldowns": {
+      "pin": 1792745562287
+    },
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 1
   },
   "6289618058119": {
     "jid": "6289618058119",
@@ -130164,7 +130171,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10035,
+    "exp": 10050,
     "cooldowns": {
       "menu": 1792315462935
     },
