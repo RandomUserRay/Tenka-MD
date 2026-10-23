@@ -3333,7 +3333,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33779,
+    "exp": 33824,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3514,7 +3514,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 434462,
+    "exp": 434492,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -130173,7 +130173,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10185,
+    "exp": 10200,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -131021,6 +131021,11 @@
   },
   "6283182162083": {
     "jid": "6283182162083",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283836746514": {
+    "jid": "6283836746514",
     "rpg": {},
     "exp": 15
   }
