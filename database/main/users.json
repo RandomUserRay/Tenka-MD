@@ -94331,13 +94331,13 @@
   },
   "6285793601511": {
     "name": "A",
-    "lastSeen": "2026-10-23T00:32:35.420Z",
+    "lastSeen": "2026-10-23T09:40:05.888Z",
     "jid": "6285793601511",
     "number": "6285793601511",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19800,
+    "exp": 19830,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94348,9 +94348,9 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "jadibot": 1792715559461,
+      "jadibot": 1792748409441,
       "p": 1790390805878,
-      "stopjadibot": 1792115731712
+      "stopjadibot": 1792748400642
     },
     "clanId": null,
     "isRegistered": false,
