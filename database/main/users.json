@@ -11650,10 +11650,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42934,
+    "exp": 42949,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11662,7 +11662,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T18:27:10.523Z",
+    "lastSeen": "2026-10-23T18:40:55.257Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1792780032720,
@@ -11708,7 +11708,8 @@
       "cekimut": 1790255966615,
       "tsundere": 1790256247797,
       "toimg": 1790685481294,
-      "allmenu": 1791108243922
+      "allmenu": 1791108243922,
+      "smeme": 1792780863984
     },
     "clanId": null,
     "isRegistered": false,
@@ -68347,7 +68348,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7440,
+    "exp": 7455,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129611,10 +129612,10 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637592355,
-    "energi": 99988,
+    "exp": 937637592430,
+    "energi": 99987,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-23T18:40:28.627Z",
+    "lastSeen": "2026-10-23T18:40:57.725Z",
     "cooldowns": {
       "cekganteng": 1792587665483,
       "femboy": 1792780017040,
@@ -129647,7 +129648,7 @@
       "divorce": 1792589207923,
       "transfer": 1792589658663,
       "rpg": 1792589605327,
-      "s": 1792780829853,
+      "s": 1792780858788,
       "meme": 1792780671043,
       "smeme": 1792780700467
     },
@@ -129909,9 +129910,9 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 8325,
+    "exp": 8340,
     "name": "Ren🔱",
-    "lastSeen": "2026-10-23T18:38:56.877Z",
+    "lastSeen": "2026-10-23T18:40:58.956Z",
     "cooldowns": {
       "femboy": 1792232102787,
       "cekganteng": 1792422085621,
@@ -129920,11 +129921,11 @@
       "afk": 1792423052259,
       "ship": 1792589289835,
       "p": 1792734480905,
-      "s": 1792780738459
+      "s": 1792780859975
     },
     "lastActiveDate": "24/10/2026",
     "activeDays": 6,
-    "energi": 99995
+    "energi": 99994
   },
   "6283857708453": {
     "jid": "6283857708453",
