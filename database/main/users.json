@@ -54553,7 +54553,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29151,
+    "exp": 29166,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -54562,7 +54562,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T17:35:30.792Z",
+    "lastSeen": "2026-10-23T05:48:19.376Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54615,7 +54615,8 @@
       "yandere": 1792587391628,
       "rpg": 1792589421643,
       "kerja": 1792589488330,
-      "siapa": 1792668684540
+      "siapa": 1792668684540,
+      "p": 1792734500783
     },
     "clanId": null,
     "isRegistered": false,
