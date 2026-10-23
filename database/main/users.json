@@ -90425,10 +90425,10 @@
     "jid": "6285147498740",
     "name": "viu",
     "number": "6285147498740",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12570,
+    "exp": 12600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90438,7 +90438,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T02:10:52.866Z",
+    "lastSeen": "2026-10-23T00:40:32.876Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -90473,7 +90473,7 @@
       "pixiv": 1791087937918,
       "limit": 1790393643935,
       "p": 1792068953476,
-      "x": 1792116380267,
+      "x": 1792716025233,
       "pp": 1791204603488,
       "h": 1790564070451,
       "hd": 1792079420380,
@@ -90507,8 +90507,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 23
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 24
   },
   "6282229809440": {
     "jid": "6282229809440",
