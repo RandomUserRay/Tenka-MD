@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000200159,
+    "exp": 1009000200234,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9453,7 +9453,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11040,
+    "exp": 11055,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130499,15 +130499,16 @@
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999,
     "name": "καιρoc",
-    "lastSeen": "2026-10-21T23:55:23.339Z",
+    "lastSeen": "2026-10-23T05:33:58.160Z",
     "cooldowns": {
-      "intro": 1792626924305
+      "intro": 1792626924305,
+      "am": 1792733639778
     },
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 2
   },
   "6285701106957": {
     "jid": "6285701106957",
