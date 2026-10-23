@@ -18557,7 +18557,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62670,
+    "exp": 62685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -18566,7 +18566,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-16T00:08:11.509Z",
+    "lastSeen": "2026-10-23T07:51:09.906Z",
     "cooldowns": {
       "tembak": 1782201336727,
       "terima": 1782201866422,
@@ -18584,7 +18584,8 @@
       "brat": 1783820358437,
       "bratimg": 1783871317896,
       "ytmp4": 1790083683646,
-      "open": 1789422684993
+      "open": 1789422684993,
+      "kick": 1792741871918
     },
     "clanId": null,
     "isRegistered": false,
@@ -18607,8 +18608,8 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastActiveDate": "16/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 7
   },
   "6283871114819": {
     "jid": "6283871114819",
@@ -101380,7 +101381,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7500,
+    "exp": 7515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122077,7 +122078,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 5070,
+    "exp": 5085,
     "energi": 99995,
     "name": "Garta",
     "lastSeen": "2026-10-23T03:56:18.170Z",
