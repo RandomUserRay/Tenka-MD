@@ -42479,10 +42479,10 @@
     "jid": "628156548613",
     "name": "~Alya_cat_miaw🌟",
     "number": "628156548613",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236066,
+    "exp": 236081,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -42497,7 +42497,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T10:15:37.316Z",
+    "lastSeen": "2026-10-24T23:17:00.889Z",
     "cooldowns": {
       "tohd": 1786194305662,
       "simi": 1786194393034,
@@ -109423,7 +109423,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1800,
+    "exp": 1740,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124961,7 +124961,7 @@
   "6282275204720": {
     "jid": "6282275204720",
     "rpg": {},
-    "exp": 375,
+    "exp": 300,
     "energi": 99999
   },
   "6288269557550": {
@@ -131295,10 +131295,5 @@
     "energi": 23,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
-  },
-  "6282116533466": {
-    "jid": "6282116533466",
-    "rpg": {},
-    "exp": 15
   }
 }
