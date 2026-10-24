@@ -497,10 +497,10 @@
     "jid": "6282161002671",
     "name": "kyoi ntahlah",
     "number": "6282161002671",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117609978,
+    "exp": 117610023,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -509,7 +509,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:57:12.066Z",
+    "lastSeen": "2026-10-24T15:57:46.566Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
       "femboy": 1792843035749,
@@ -547,13 +547,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 11761,
-      "health": 117700,
-      "maxHealth": 117700,
-      "mana": 58900,
-      "maxMana": 58900,
-      "stamina": 58900,
-      "maxStamina": 58900,
+      "level": 11762,
+      "health": 117710,
+      "maxHealth": 117710,
+      "mana": 58905,
+      "maxMana": 58905,
+      "stamina": 58905,
+      "maxStamina": 58905,
       "bank": 307536245464,
       "pet": {
         "type": "rabbit",
@@ -106457,7 +106457,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109421,7 +109421,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1455,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124959,7 +124959,7 @@
   "6282275204720": {
     "jid": "6282275204720",
     "rpg": {},
-    "exp": 165,
+    "exp": 120,
     "energi": 99999
   },
   "6288269557550": {
@@ -131240,10 +131240,5 @@
     "jid": "6281957060109",
     "rpg": {},
     "exp": 30
-  },
-  "6285285894267": {
-    "jid": "6285285894267",
-    "rpg": {},
-    "exp": 15
   }
 }
