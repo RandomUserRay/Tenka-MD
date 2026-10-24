@@ -20349,10 +20349,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99989,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66768,
+    "exp": 66783,
     "level": 1,
     "koin": 12209,
     "unlockedFeatures": [],
@@ -20361,7 +20361,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:44:15.582Z",
+    "lastSeen": "2026-10-24T12:13:03.560Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20427,7 +20427,7 @@
       "h": 1789469106255,
       "ytmp4": 1790944811156,
       "open": 1789240778139,
-      "pin": 1792842148736,
+      "pin": 1792843991606,
       "rvo": 1789376067321,
       "kick": 1789446781085,
       "top": 1789377210873,
@@ -35494,7 +35494,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1028547,
+    "exp": 1028577,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -130557,7 +130557,7 @@
   "6283135180881": {
     "jid": "6283135180881",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "b!ecaice",
     "lastSeen": "2026-10-21T13:09:44.282Z",
     "cooldowns": {
@@ -131161,6 +131161,6 @@
   "6281400319850": {
     "jid": "6281400319850",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
