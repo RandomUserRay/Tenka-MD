@@ -106517,7 +106517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5700,
+    "exp": 5715,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106527,7 +106527,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T15:28:04.357Z",
+    "lastSeen": "2026-10-24T15:28:58.873Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106537,7 +106537,7 @@
       "antitagsw": 1790255414729,
       "antitoxic": 1790253774380,
       "h": 1789564730690,
-      "antisticker": 1790253767116,
+      "antisticker": 1792855738939,
       "warn": 1789566339974,
       "resetwarn": 1789565347398,
       "antiswgc": 1790253792421,
@@ -131211,13 +131211,14 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-24T15:28:21.446Z",
+    "lastSeen": "2026-10-24T15:29:03.112Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "cooldowns": {
       "antilinkgc": 1792855667765,
-      "antitoxic": 1792855688659
+      "antitoxic": 1792855688659,
+      "setwelcome": 1792855743154
     },
     "lastActiveDate": "24/10/2026",
     "activeDays": 1
