@@ -338,7 +338,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55330,
+    "exp": 55345,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -347,11 +347,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T14:30:06.289Z",
+    "lastSeen": "2026-10-24T10:48:49.256Z",
     "cooldowns": {
       "afk": 1791109042776,
       "s": 1790071047057,
-      "femboy": 1792223334202,
+      "femboy": 1792838936453,
       "daily": 1780385975656,
       "profile": 1789213791553,
       "ww": 1780234166014,
@@ -430,8 +430,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 17
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 18
   },
   "6285366861793": {
     "jid": "6285366861793",
