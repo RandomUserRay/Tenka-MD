@@ -106517,7 +106517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5775,
+    "exp": 5790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131222,5 +131222,10 @@
     },
     "lastActiveDate": "24/10/2026",
     "activeDays": 1
+  },
+  "62881011835206": {
+    "jid": "62881011835206",
+    "rpg": {},
+    "exp": 15
   }
 }
