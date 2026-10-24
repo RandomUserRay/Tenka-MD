@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-24T15:03:55.192Z",
+    "lastSeen": "2026-10-24T15:04:11.411Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000234809,
+    "exp": 1009000234959,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -142,7 +142,14 @@
     "lastActiveDate": "24/10/2026",
     "activeDays": 51,
     "customRole": "",
-    "customRoles": [],
+    "customRoles": [
+      {
+        "name": "Femboy Akut",
+        "color": "#FFD1DC",
+        "emoji": "🌸",
+        "description": "Femboy bgt sayang~"
+      }
+    ],
     "customRoleColor": "",
     "bgUrl": "https://kappa.lol/eUVtLr",
     "profileColor": "#B3EBF2",
@@ -99799,7 +99806,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8745,
+    "exp": 8760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129119,7 +129126,7 @@
   "6285767399546": {
     "jid": "6285767399546",
     "rpg": {},
-    "exp": 2085,
+    "exp": 2100,
     "energi": 99999
   },
   "60173328973": {
@@ -129169,7 +129176,7 @@
   "6285722693315": {
     "jid": "6285722693315",
     "rpg": {},
-    "exp": 480,
+    "exp": 510,
     "energi": 99999
   },
   "6283179211339": {
