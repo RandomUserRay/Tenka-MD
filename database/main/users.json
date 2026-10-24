@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-24T13:21:35.419Z",
+    "lastSeen": "2026-10-24T13:22:14.016Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000222509,
+    "exp": 1009000222659,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -141,7 +141,8 @@
     },
     "lastActiveDate": "24/10/2026",
     "activeDays": 51,
-    "customRole": "Femboy Akut"
+    "customRole": "Femboy Akut",
+    "customRoles": []
   },
   "639757724313": {
     "jid": "639757724313",
