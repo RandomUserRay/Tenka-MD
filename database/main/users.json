@@ -105877,7 +105877,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52650,
+    "exp": 52710,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106522,12 +106522,12 @@
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792855953498,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T15:32:33.497Z",
+    "lastSeen": "2026-10-24T15:28:58.873Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106555,17 +106555,14 @@
       "bratvid": 1790599561871,
       "bratvid2": 1791727222701,
       "pin": 1792672679268,
-      "antilinkgc": 1792855671710,
-      "me": 1792855954972
+      "antilinkgc": 1792855671710
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "level": 1
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "lastActiveDate": "24/10/2026",
@@ -131217,7 +131214,7 @@
     "lastSeen": "2026-10-24T15:29:47.401Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 195,
+    "exp": 240,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -131228,6 +131225,11 @@
   },
   "62881011835206": {
     "jid": "62881011835206",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283849156803": {
+    "jid": "6283849156803",
     "rpg": {},
     "exp": 15
   }
