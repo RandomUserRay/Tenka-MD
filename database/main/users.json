@@ -71461,12 +71461,12 @@
   },
   "6287811930699": {
     "jid": "6287811930699",
-    "name": "FATHIR",
+    "name": "M",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73846,
+    "exp": 73861,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71475,7 +71475,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-21T13:10:50.636Z",
+    "lastSeen": "2026-10-24T23:34:28.568Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71540,7 +71540,7 @@
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
       "ai": 1790779136102,
-      "pin": 1792258230464,
+      "pin": 1792884876025,
       "top5": 1792588251851
     },
     "clanId": null,
@@ -71565,8 +71565,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 26,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 27,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -95463,10 +95463,10 @@
     "jid": "6281252385893",
     "name": "Dandy",
     "number": "6281252385893",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 360,
+    "exp": 375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95476,12 +95476,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T23:33:55.459Z",
+    "lastSeen": "2026-10-24T23:34:43.227Z",
     "cooldowns": {
       "ammagic": 1786929870096,
       "amprem": 1786930551753,
       "top5": 1792589171907,
-      "pin": 1792884844572
+      "pin": 1792884890304
     },
     "clanId": null,
     "isRegistered": false,
