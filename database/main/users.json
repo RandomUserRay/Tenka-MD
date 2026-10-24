@@ -71549,7 +71549,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1845,
+    "exp": 1860,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71558,13 +71558,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T01:33:26.210Z",
+    "lastSeen": "2026-10-24T03:00:30.192Z",
     "cooldowns": {
       "afk": 1792805607969,
       "s": 1792746728819,
       "wm": 1792746734778,
       "swm": 1789036407308,
-      "tt": 1792777662945
+      "tt": 1792777662945,
+      "menu": 1792810833971
     },
     "clanId": null,
     "isRegistered": false,
