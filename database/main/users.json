@@ -816,7 +816,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70173,
+    "exp": 70188,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3083,7 +3083,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 723821,
+    "exp": 723851,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -126164,16 +126164,16 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21255,
+    "exp": 21315,
     "energi": 99999,
     "name": "Sins keren",
-    "lastSeen": "2026-10-22T22:43:37.495Z",
+    "lastSeen": "2026-10-24T11:06:37.732Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1792051063432,
       "cekganteng": 1792362253187,
       "cekcantik": 1792050822127,
-      "femboy": 1792362024201,
+      "femboy": 1792839999173,
       "cantik": 1790248464010,
       "afk": 1790265270455,
       "cekjodoh": 1790321487229,
@@ -126187,8 +126187,8 @@
       "s": 1792709011129,
       "d": 1792709017947
     },
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 12
   },
   "6281945913443": {
     "jid": "6281945913443",
@@ -129630,7 +129630,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637604505,
+    "exp": 937637604730,
     "energi": 99976,
     "name": "Devvarajha",
     "lastSeen": "2026-10-24T11:05:42.802Z",
