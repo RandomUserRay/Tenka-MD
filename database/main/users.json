@@ -52906,7 +52906,8 @@
       "judi": 1786165227971,
       "live": 1785029053695,
       "mancing": 1785037052145,
-      "amprem": 1786854309188
+      "amprem": 1786854309188,
+      "ytmp4": 1792821314079
     },
     "clanId": null,
     "isRegistered": false,
@@ -52928,7 +52929,9 @@
     },
     "access": [],
     "fun": {},
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 1
   },
   "6285716607835": {
     "jid": "6285716607835",
