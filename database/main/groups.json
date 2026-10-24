@@ -43986,7 +43986,10 @@
     "antitoxic": true,
     "welcome": true,
     "welcomeMsg": "HALO SELAMAT BERGABUNG {user} SEMOGA BETAH😁",
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "toxicWarns": {
+      "6285717515172@s.whatsapp.net": 1
+    }
   },
   "120363429774996974@g.us": {
     "chatStats": {
