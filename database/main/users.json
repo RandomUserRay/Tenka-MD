@@ -500,7 +500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117609978,
+    "exp": 117609963,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -16166,10 +16166,10 @@
     "jid": "6285753061976",
     "name": "antinous",
     "number": "6285753061976",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398072,
+    "exp": 9398057,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16178,11 +16178,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T15:18:24.020Z",
+    "lastSeen": "2026-10-24T15:15:03.000Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1792855120634,
+      "play": 1792854917543,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1791106575382,
@@ -131195,5 +131195,17 @@
     "jid": "6285785435035",
     "rpg": {},
     "exp": 15
+  },
+  "6285708794062": {
+    "name": "Belle",
+    "lastSeen": "2026-10-24T15:18:57.041Z",
+    "jid": "6285708794062",
+    "rpg": {
+      "level": 1
+    },
+    "exp": 150,
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 1,
+    "registeredAt": 1792855137054
   }
 }
