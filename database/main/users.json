@@ -487,7 +487,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117609318,
+    "exp": 117609363,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -496,7 +496,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:15:44.025Z",
+    "lastSeen": "2026-10-24T11:20:05.576Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
       "femboy": 1792840546248,
@@ -525,7 +525,8 @@
       "d": 1782823575996,
       "tebaknegara": 1783164611876,
       "money": 1785682485659,
-      "ytmp4": 1786717025940
+      "ytmp4": 1786717025940,
+      "cekimut": 1792840805850
     },
     "clanId": null,
     "isRegistered": false,
@@ -35492,7 +35493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1028157,
+    "exp": 1028187,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -96785,10 +96786,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44618,
+    "exp": 44633,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96798,12 +96799,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:19:18.553Z",
+    "lastSeen": "2026-10-24T11:19:47.924Z",
     "cooldowns": {
       "afk": 1792735134943,
       "play": 1792596085442,
       "smeme": 1792478000590,
-      "s": 1792840759661,
+      "s": 1792840789240,
       "menu": 1792288560777,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -129630,14 +129631,14 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637606755,
+    "exp": 937637607055,
     "energi": 99975,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-24T11:18:37.883Z",
+    "lastSeen": "2026-10-24T11:20:01.803Z",
     "cooldowns": {
       "cekganteng": 1792839671604,
       "femboy": 1792840230406,
-      "top": 1792360280415,
+      "top": 1792840802284,
       "cekcantik": 1792840718148,
       "status": 1792059081248,
       "yurivid": 1792077675304,
@@ -130720,13 +130721,15 @@
   "6285136390371": {
     "jid": "6285136390371",
     "rpg": {},
-    "exp": 225,
-    "energi": 99999
+    "exp": 270,
+    "energi": 99999,
+    "name": "secc",
+    "lastSeen": "2026-10-24T11:20:17.118Z"
   },
   "6282391934985": {
     "jid": "6282391934985",
     "rpg": {},
-    "exp": 720,
+    "exp": 750,
     "energi": 99999
   },
   "6285874001008": {
