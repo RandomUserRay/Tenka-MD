@@ -1208,7 +1208,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2475,
+    "exp": 2490,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3514,7 +3514,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 434837,
+    "exp": 434867,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -3523,9 +3523,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T10:58:33.328Z",
+    "lastSeen": "2026-10-24T10:58:50.918Z",
     "cooldowns": {
-      "femboy": 1792839219853,
+      "femboy": 1792839533395,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -67367,7 +67367,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177096,
+    "exp": 177111,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67382,7 +67382,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T15:10:10.889Z",
+    "lastSeen": "2026-10-24T10:58:50.303Z",
     "cooldowns": {
       "afk": 1792677085758,
       "s": 1792765177409,
@@ -67391,7 +67391,7 @@
       "profil": 1792168686217,
       "rob": 1787849540817,
       "menu": 1785405080799,
-      "femboy": 1790758540673,
+      "femboy": 1792839533163,
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
@@ -67519,8 +67519,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 36
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 37
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -122100,7 +122100,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 6375,
+    "exp": 6390,
     "energi": 99999,
     "name": "Garta",
     "lastSeen": "2026-10-23T03:56:18.170Z",
@@ -129627,7 +129627,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637603380,
+    "exp": 937637603455,
     "energi": 99976,
     "name": "Devvarajha",
     "lastSeen": "2026-10-24T10:58:14.168Z",
