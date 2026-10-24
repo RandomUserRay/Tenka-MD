@@ -28786,7 +28786,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298631,
+    "exp": 298676,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28797,7 +28797,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T22:48:00.189Z",
+    "lastSeen": "2026-10-24T22:52:24.598Z",
     "cooldowns": {
       "menu": 1792881973364,
       "allmenu": 1792881984003,
@@ -28964,7 +28964,8 @@
       "bratvid2": 1791033389039,
       "tovid": 1791033422165,
       "stiker": 1790924697960,
-      "stickerpack": 1792206801146
+      "stickerpack": 1792206801146,
+      "play2": 1792882349279
     },
     "clanId": null,
     "isRegistered": false,
@@ -131280,5 +131281,10 @@
     "jid": "62882000120355",
     "rpg": {},
     "exp": 30
+  },
+  "6283878459520": {
+    "jid": "6283878459520",
+    "rpg": {},
+    "exp": 15
   }
 }
