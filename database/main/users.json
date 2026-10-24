@@ -95480,7 +95480,8 @@
     "cooldowns": {
       "ammagic": 1786929870096,
       "amprem": 1786930551753,
-      "top5": 1792589171907
+      "top5": 1792589171907,
+      "pin": 1792884844572
     },
     "clanId": null,
     "isRegistered": false,
@@ -95490,8 +95491,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 2
   },
   "60178804369": {
     "jid": "60178804369",
