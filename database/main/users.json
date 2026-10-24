@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-24T15:20:24.936Z",
+    "lastSeen": "2026-10-24T15:27:45.093Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000235559,
+    "exp": 1009000235709,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -105877,7 +105877,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52500,
+    "exp": 52515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105887,7 +105887,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T14:30:13.515Z",
+    "lastSeen": "2026-10-24T15:27:34.907Z",
     "cooldowns": {
       "menu": 1790254988823,
       "owner": 1788775980116,
@@ -106517,7 +106517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5625,
+    "exp": 5655,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106527,7 +106527,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T15:27:31.479Z",
+    "lastSeen": "2026-10-24T15:27:51.651Z",
     "cooldowns": {
       "allmenu": 1789179589330,
       "owner": 1789563015526,
@@ -106554,7 +106554,8 @@
       "fakeff": 1790594100378,
       "bratvid": 1790599561871,
       "bratvid2": 1791727222701,
-      "pin": 1792672679268
+      "pin": 1792672679268,
+      "antilinkgc": 1792855671710
     },
     "clanId": null,
     "isRegistered": false,
@@ -131210,9 +131211,14 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-24T15:27:19.924Z",
+    "lastSeen": "2026-10-24T15:27:47.710Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 45
+    "exp": 60,
+    "cooldowns": {
+      "antilinkgc": 1792855667765
+    },
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 1
   }
 }
