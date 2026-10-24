@@ -28786,7 +28786,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298691,
+    "exp": 298721,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -131285,6 +131285,14 @@
   "6283878459520": {
     "jid": "6283878459520",
     "rpg": {},
-    "exp": 15
+    "exp": 45,
+    "name": "Ga",
+    "lastSeen": "2026-10-24T22:53:06.985Z",
+    "cooldowns": {
+      "ytmp4": 1792882397369
+    },
+    "energi": 23,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   }
 }
