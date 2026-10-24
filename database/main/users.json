@@ -105877,7 +105877,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52485,
+    "exp": 52500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106517,7 +106517,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5595,
+    "exp": 5610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131207,5 +131207,12 @@
     "lastActiveDate": "24/10/2026",
     "activeDays": 1,
     "registeredAt": 1792855137054
+  },
+  "6288230518945": {
+    "name": "wan dos santos junior",
+    "lastSeen": "2026-10-24T15:27:19.924Z",
+    "jid": "6288230518945",
+    "rpg": {},
+    "exp": 45
   }
 }
