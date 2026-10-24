@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "getDatabase is not defined",
+      "at": 1792829486174
+    },
+    {
+      "cmd": "unknown",
+      "err": "getDatabase is not defined",
+      "at": 1792829480616
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791702399873
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789814200741
-    },
-    {
-      "cmd": "unknown",
-      "err": "ENOSPC: no space left on device, write",
-      "at": 1789730536234
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of undefined (reading 'toUpperCase')",
-      "at": 1789659942403
     }
   ],
   "jpmBlacklist": [],
