@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000219659,
+    "exp": 1009000219734,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -35492,7 +35492,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1027842,
+    "exp": 1027857,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -126164,7 +126164,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21315,
+    "exp": 21330,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-24T11:06:37.732Z",
@@ -130725,7 +130725,7 @@
   "6282391934985": {
     "jid": "6282391934985",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "energi": 99999
   },
   "6285874001008": {
@@ -131137,5 +131137,10 @@
     "jid": "6285798542820",
     "rpg": {},
     "exp": 30
+  },
+  "6285862045950": {
+    "jid": "6285862045950",
+    "rpg": {},
+    "exp": 15
   }
 }
