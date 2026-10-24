@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 139250,
+  "commandsExecuted": 139251,
   "command_totalchat": 26,
   "command_menu": 2369,
   "command_fb": 21,
@@ -1441,5 +1441,6 @@
   "command_futavid": 8,
   "command_resetintro": 1,
   "command_spack": 7,
-  "command_nekopoi": 6
+  "command_nekopoi": 6,
+  "command_komik": 1
 }
