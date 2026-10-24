@@ -20349,10 +20349,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99985,
+    "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66798,
+    "exp": 66813,
     "level": 1,
     "koin": 12209,
     "unlockedFeatures": [],
@@ -20361,7 +20361,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T12:16:04.051Z",
+    "lastSeen": "2026-10-24T12:16:40.357Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20397,7 +20397,7 @@
       "ttmp3": 1791440411509,
       "rest": 1784381733654,
       "jadibot": 1792671363838,
-      "hytamkan": 1784272025393,
+      "hytamkan": 1792844220145,
       "robloxstalk": 1784215676238,
       "igstalk": 1784215812763,
       "judi": 1784269221380,
@@ -35494,7 +35494,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1028637,
+    "exp": 1028667,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -131136,7 +131136,7 @@
   "6281573761657": {
     "jid": "6281573761657",
     "rpg": {},
-    "exp": 90
+    "exp": 120
   },
   "6285798542820": {
     "jid": "6285798542820",
@@ -131161,6 +131161,6 @@
   "6281400319850": {
     "jid": "6281400319850",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   }
 }
