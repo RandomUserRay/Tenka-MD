@@ -90912,7 +90912,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57510,
+    "exp": 57540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90922,11 +90922,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:27:55.689Z",
+    "lastSeen": "2026-10-24T11:28:48.907Z",
     "cooldowns": {
       "play": 1792745823576,
       "toimg": 1790829435907,
-      "hitamkan": 1792841294818,
+      "hitamkan": 1792841350979,
       "benefitpremium": 1786929820395,
       "s": 1792745709949,
       "getpp": 1792841001726,
@@ -96786,10 +96786,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99987,
+    "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44738,
+    "exp": 44753,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96799,12 +96799,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:27:29.239Z",
+    "lastSeen": "2026-10-24T11:28:57.576Z",
     "cooldowns": {
       "afk": 1792735134943,
       "play": 1792596085442,
       "smeme": 1792478000590,
-      "s": 1792841250380,
+      "s": 1792841339106,
       "menu": 1792288560777,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -102374,7 +102374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122104,7 +122104,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 6675,
+    "exp": 6690,
     "energi": 99995,
     "name": "Garta",
     "lastSeen": "2026-10-24T11:24:44.908Z",
@@ -129631,7 +129631,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 937637607355,
+    "exp": 937637607430,
     "energi": 99975,
     "name": "Devvarajha",
     "lastSeen": "2026-10-24T11:20:01.803Z",
@@ -131146,5 +131146,10 @@
     "jid": "6285862045950",
     "rpg": {},
     "exp": 75
+  },
+  "6285191447424": {
+    "jid": "6285191447424",
+    "rpg": {},
+    "exp": 45
   }
 }
