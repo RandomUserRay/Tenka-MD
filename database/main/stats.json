@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 139492,
+  "commandsExecuted": 139493,
   "command_totalchat": 26,
   "command_menu": 2369,
   "command_fb": 21,
@@ -1447,5 +1447,6 @@
   "command_setrole": 4,
   "command_customrole": 4,
   "command_setbg": 3,
-  "command_setcolor": 1
+  "command_setcolor": 1,
+  "command_profilesetting": 1
 }
