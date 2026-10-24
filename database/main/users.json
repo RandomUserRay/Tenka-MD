@@ -3514,7 +3514,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 434702,
+    "exp": 434732,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -126323,16 +126323,17 @@
   "62882008180637": {
     "jid": "62882008180637",
     "rpg": {},
-    "exp": 840,
+    "exp": 855,
     "energi": 99999,
-    "name": "ヨガ",
-    "lastSeen": "2026-10-18T02:44:50.013Z",
+    "name": "白ひげ x ヨガ",
+    "lastSeen": "2026-10-24T02:44:56.140Z",
     "cooldowns": {
       "s": 1792289939056,
-      "menucat": 1792291490282
+      "menucat": 1792291490282,
+      "femboy": 1792809898517
     },
-    "lastActiveDate": "18/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 2
   },
   "601121766723": {
     "jid": "601121766723",
