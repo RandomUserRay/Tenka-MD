@@ -102375,7 +102375,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1365,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102385,11 +102385,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T06:14:33.640Z",
+    "lastSeen": "2026-10-24T13:00:58.201Z",
     "cooldowns": {
       "cekcantik": 1790248510656,
       "cekganteng": 1790248531436,
-      "afk": 1792736075375,
+      "afk": 1792846860921,
       "s": 1792643837185,
       "cekimut": 1792668191681,
       "femboy": 1792735773969
@@ -102402,8 +102402,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 11
   },
   "6285705825895": {
     "jid": "6285705825895",
@@ -129684,7 +129684,7 @@
     "lastSeen": "2026-10-21T12:58:52.189Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 2010,
+    "exp": 2025,
     "cooldowns": {
       "play": 1791898047216,
       "femboy": 1792587533832,
