@@ -3079,12 +3079,12 @@
   },
   "6285240302212": {
     "jid": "6285240302212",
-    "name": "arkana",
+    "name": "ㅤ",
     "number": "6285240302212",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 723926,
+    "exp": 723941,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3093,7 +3093,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-22T11:19:49.609Z",
+    "lastSeen": "2026-10-24T11:49:22.442Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3189,7 +3189,8 @@
       "gay": 1790421886610,
       "terima": 1790422607894,
       "tembak": 1790422620349,
-      "imut": 1792300822474
+      "imut": 1792300822474,
+      "intro": 1792842563192
     },
     "clanId": null,
     "isRegistered": false,
@@ -3234,8 +3235,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 31,
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 32,
     "fun": {
       "pasangan": "628981194866@s.whatsapp.net"
     }
