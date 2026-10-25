@@ -99467,7 +99467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15975,
+    "exp": 15990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99477,10 +99477,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:32:20.609Z",
+    "lastSeen": "2026-10-25T23:40:37.098Z",
     "cooldowns": {
       "play": 1792786906328,
-      "menu": 1792446851178,
+      "menu": 1792971648749,
       "menucat": 1792446961081,
       "cekfemboy": 1792359895796,
       "femboy": 1792909942671,
@@ -99511,8 +99511,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 17
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 18
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -132179,7 +132179,7 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T23:40:12.219Z",
+    "lastSeen": "2026-10-25T23:40:31.799Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 105,
@@ -132192,7 +132192,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 10152,
+    "exp": 10167,
     "cooldowns": {
       "gacha": 1792906049304,
       "judi": 1792906074331,
@@ -132201,7 +132201,7 @@
       "bank": 1792900832042,
       "casino": 1792906100968,
       "training": 1792906259210,
-      "cekfemboy": 1792939043106,
+      "cekfemboy": 1792971636640,
       "gay": 1792971614359
     },
     "energi": 99999,
