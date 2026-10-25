@@ -114669,7 +114669,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15945,
+    "exp": 15960,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133328,12 +133328,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {},
-    "exp": 2043,
+    "exp": 2073,
     "name": "Fиз",
-    "lastSeen": "2026-10-25T16:37:01.883Z",
+    "lastSeen": "2026-10-25T16:38:03.122Z",
     "cooldowns": {
       "menu": 1792945653621,
-      "menucat": 1792945691906
+      "menucat": 1792945691906,
+      "cekfemboy": 1792946286159
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -133345,7 +133346,7 @@
     "lastSeen": "2026-10-25T16:37:31.569Z",
     "jid": "6281221110247",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "cooldowns": {
       "gay": 1792946183021,
       "cekfemboy": 1792946255705
