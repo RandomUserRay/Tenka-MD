@@ -3098,16 +3098,16 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724436,
+    "exp": 724421,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
-    "registeredAt": 1792898393712,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T03:19:53.712Z",
+    "lastSeen": "2026-10-25T02:02:09.854Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3144,7 +3144,7 @@
       "adventure": 1780401640145,
       "smeme": 1791686502654,
       "transfer": 1788080585092,
-      "me": 1792898395734,
+      "me": 1790225330507,
       "tarik": 1780903358064,
       "cool": 1782441353961,
       "villain": 1782353884077,
@@ -127933,17 +127933,17 @@
       "maxStamina": 130,
       "health": 135,
       "mana": 130,
-      "stamina": 86,
+      "stamina": 66,
       "luck": 7,
       "guildId": "guild_1791568221406",
       "attack": 39,
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63131,
-    "energi": 99999,
+    "exp": 63161,
+    "energi": 99998,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T09:57:34.097Z",
+    "lastSeen": "2026-10-25T03:19:57.001Z",
     "cooldowns": {
       "top": 1791700601689,
       "ship": 1791594897315,
@@ -127961,7 +127961,7 @@
       "janda": 1791524688060,
       "perawan": 1791606863236,
       "carifitur": 1791524908712,
-      "tembak": 1791691307356,
+      "tembak": 1792898397079,
       "hitamkan": 1791544730824,
       "cekpintar": 1791597592365,
       "cantik": 1791688222807,
@@ -127984,7 +127984,7 @@
       "sleep": 1791692853454,
       "heal": 1791700552614,
       "dungeon": 1791696685315,
-      "live": 1791712531060,
+      "live": 1792898374132,
       "bank": 1791712635867,
       "donate": 1791627874589,
       "topchat": 1791700581776,
@@ -128007,8 +128007,8 @@
       "saldo": 1791700667452,
       "mining": 1791708725021
     },
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 3,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 4,
     "koin": 0,
     "inventory": {
       "iron": 19,
@@ -128017,11 +128017,11 @@
       "diamond": 1,
       "potion": 3
     },
-    "lastStreamer": 1791700757985,
+    "lastStreamer": 1792898674063,
     "fun": {
-      "tembakCount": 10,
+      "tembakCount": 11,
       "ditolakCount": 4,
-      "tembakTarget": "6285837219145@s.whatsapp.net",
+      "tembakTarget": "6285704381228@s.whatsapp.net",
       "jadiPacar": 1791691543505
     }
   },
@@ -128435,10 +128435,10 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287406,
+    "exp": 287481,
     "energi": 99999,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-25T03:18:37.937Z",
+    "lastSeen": "2026-10-25T03:20:08.283Z",
     "cooldowns": {
       "menu": 1792898197067,
       "menucat": 1792898266428,
@@ -128459,7 +128459,7 @@
       "top": 1791702060493,
       "cekkhodam": 1791552620933,
       "femboy": 1791533440802,
-      "afk": 1792898169890,
+      "afk": 1792898368754,
       "cekkepribadian": 1791565086303,
       "level": 1791619321713,
       "inventory": 1791625530773,
@@ -128506,7 +128506,7 @@
       "enchant": 1791709150601,
       "buyfitur": 1791614231385,
       "upgrade": 1791614414014,
-      "cool": 1791614568717,
+      "cool": 1792898340395,
       "transfer": 1791627405182,
       "mancing": 1791708778770,
       "treasure": 1791619078130,
@@ -128544,7 +128544,9 @@
       "undian": 1791708862950,
       "merchant": 1791709215258,
       "newbie": 1792898289856,
-      "cantik": 1792898317987
+      "cantik": 1792898317987,
+      "puqi": 1792898353024,
+      "terima": 1792898408332
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 4,
@@ -128606,7 +128608,8 @@
       "downloader",
       "sticker"
     ],
-    "lastStreamer": 1791706362214
+    "lastStreamer": 1791706362214,
+    "fun": {}
   },
   "628137819779": {
     "jid": "628137819779",
@@ -128756,7 +128759,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 4005,
+    "exp": 4035,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -131242,7 +131245,8 @@
     "lastActiveDate": "24/10/2026",
     "activeDays": 1,
     "registeredAt": 1792855137054,
-    "energi": 99999
+    "energi": 99999,
+    "fun": {}
   },
   "6288230518945": {
     "name": "wan dos santos junior",
@@ -131395,7 +131399,7 @@
   "6288994319081": {
     "jid": "6288994319081",
     "rpg": {},
-    "exp": 390
+    "exp": 435
   },
   "6287899872465": {
     "jid": "6287899872465",
