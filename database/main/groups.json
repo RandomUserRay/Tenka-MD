@@ -48607,8 +48607,8 @@
   "120363411803532547@g.us": {
     "chatStats": {
       "6285717515172@s.whatsapp.net": {
-        "count": 13,
-        "lastChat": 1792887396310,
+        "count": 14,
+        "lastChat": 1792887405763,
         "name": "Thiryzty X Wanzty"
       },
       "6285773870018@s.whatsapp.net": {
@@ -48637,6 +48637,7 @@
     "welcomeMsg": "selamat bergabung di JB¹/GB¹ Thiryzty {user} semoga begah dan jangan langsung keluar yaa.. hargain admin yang susah payah push member 😇",
     "welcome": true,
     "antilinkgc": "on",
-    "antispam": "on"
+    "antispam": "on",
+    "antitoxic": true
   }
 }
