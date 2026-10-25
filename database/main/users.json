@@ -102889,7 +102889,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35121,
+    "exp": 35136,
     "level": 1,
     "koin": 4086956,
     "saldo": 0,
@@ -131487,14 +131487,14 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:59:10.740Z",
+    "lastSeen": "2026-10-25T03:59:44.367Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
       "stamina": 21,
       "luck": 9
     },
-    "exp": 2961,
+    "exp": 2976,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131508,7 +131508,8 @@
       "menucat": 1792900294634,
       "clanleaderboard": 1792900605242,
       "claninfo": 1792900374096,
-      "clanjoin": 1792900573619
+      "clanjoin": 1792900573619,
+      "guild": 1792900784435
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131519,22 +131520,22 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T03:59:19.757Z",
+    "lastSeen": "2026-10-25T03:59:43.819Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 60
+      "stamina": 50
     },
-    "exp": 6610,
+    "exp": 7412,
     "cooldowns": {
       "gacha": 1792899650978,
       "judi": 1792899937016,
-      "work": 1792900047959,
+      "work": 1792900787312,
       "gojek": 1792900762982
     },
     "energi": 21,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "koin": 89828
+    "koin": 97701
   },
   "6289510621268": {
     "name": ".",
