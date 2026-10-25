@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T13:37:51.426Z",
+    "lastSeen": "2026-10-25T13:27:12.192Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000254384,
+    "exp": 1009000254084,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59985,
+    "exp": 59970,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -11691,7 +11691,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43504,
+    "exp": 43489,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -35937,7 +35937,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036112,
+    "exp": 1036127,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -55032,7 +55032,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30456,
+    "exp": 30441,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -97250,7 +97250,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46043,
+    "exp": 46028,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97260,7 +97260,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:38:15.230Z",
+    "lastSeen": "2026-10-25T08:44:28.172Z",
     "cooldowns": {
       "afk": 1792917870803,
       "play": 1792596085442,
@@ -97275,7 +97275,7 @@
       "tolol": 1788075743705,
       "top": 1792840849379,
       "pintar": 1788075965074,
-      "femboy": 1792935497621,
+      "femboy": 1792893213645,
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1792587668025,
@@ -103339,7 +103339,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39241,
+    "exp": 39271,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112807,7 +112807,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 239297,
+    "exp": 239312,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125335,7 +125335,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19716,
+    "exp": 19776,
     "name": "paduka riyy",
     "lastSeen": "2026-10-25T11:22:41.335Z",
     "cooldowns": {
@@ -125756,7 +125756,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 5340,
+    "exp": 5385,
     "energi": 99999,
     "name": "lulaa",
     "lastSeen": "2026-10-25T11:28:47.515Z",
@@ -130204,13 +130204,13 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400744905,
+    "exp": 19400744530,
     "energi": 99991,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-25T13:38:37.352Z",
+    "lastSeen": "2026-10-25T13:34:20.854Z",
     "cooldowns": {
       "cekganteng": 1792918264715,
-      "femboy": 1792935519342,
+      "femboy": 1792918232825,
       "top": 1792918116887,
       "cekcantik": 1792918293716,
       "status": 1792059081248,
@@ -131537,7 +131537,7 @@
   "6282323419393": {
     "jid": "6282323419393",
     "rpg": {},
-    "exp": 615,
+    "exp": 600,
     "energi": 99999
   },
   "62881038065467": {
@@ -132396,7 +132396,7 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {},
-    "exp": 135
+    "exp": 165
   },
   "6282186912468": {
     "jid": "6282186912468",
@@ -132458,11 +132458,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 45
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132477,6 +132472,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132944,7 +132944,7 @@
   "6282195960556": {
     "jid": "6282195960556",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6285750053634": {
     "jid": "6285750053634",
@@ -132955,18 +132955,6 @@
     "jid": "6285129851206",
     "rpg": {},
     "exp": 15
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
   },
   "6282154166191": {
     "jid": "6282154166191",
@@ -132992,6 +132980,18 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
