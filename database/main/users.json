@@ -105880,7 +105880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52845,
+    "exp": 52860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:02:34.354Z",
+    "lastSeen": "2026-10-25T00:14:39.610Z",
     "cooldowns": {
       "menu": 1792886560657,
       "owner": 1792855774491,
@@ -105933,7 +105933,7 @@
       "groupinfo": 1788688504289,
       "intro": 1788859266642,
       "setintro": 1788690291991,
-      "setwelcome": 1790136124494,
+      "setwelcome": 1792887280911,
       "notifmakan": 1789483541525,
       "tagall": 1789484908974,
       "bass": 1788694545758,
@@ -131325,6 +131325,6 @@
   "6285856095290": {
     "jid": "6285856095290",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
