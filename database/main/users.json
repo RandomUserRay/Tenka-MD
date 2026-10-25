@@ -99467,7 +99467,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16005,
+    "exp": 16020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130018,19 +130018,20 @@
       "level": 1,
       "bank": 0
     },
-    "exp": 3945,
+    "exp": 3960,
     "energi": 99999,
     "name": "EQUINOX",
-    "lastSeen": "2026-10-25T11:03:34.108Z",
+    "lastSeen": "2026-10-25T23:41:44.375Z",
     "cooldowns": {
       "play": 1792906241860,
       "afk": 1792924976243,
       "me": 1792926215152,
       "daily": 1792909069929,
-      "bank": 1792909120002
+      "bank": 1792909120002,
+      "cekfemboy": 1792971710722
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2,
     "registeredAt": 1792908636958
   },
   "6289677741067": {
