@@ -102886,7 +102886,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37051,
+    "exp": 37066,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105883,7 +105883,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54720,
+    "exp": 54780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131526,7 +131526,7 @@
       "mana": 53,
       "bank": 46108
     },
-    "exp": 7706,
+    "exp": 7736,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131610,14 +131610,14 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 1920,
+    "exp": 1950,
     "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T05:57:52.599Z",
+    "lastSeen": "2026-10-25T06:00:21.591Z",
     "cooldowns": {
       "brat": 1792907863918,
       "menu": 1792904072495,
       "owner": 1792906606382,
-      "antispam": 1792904509788,
+      "antispam": 1792908021715,
       "antitoxic": 1792905535863,
       "bratanime": 1792907874386
     },
