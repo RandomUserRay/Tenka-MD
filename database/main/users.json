@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000252359,
+    "exp": 1009000252584,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59790,
+    "exp": 59835,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -27149,7 +27149,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177771,
+    "exp": 177816,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -97250,7 +97250,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46013,
+    "exp": 46028,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -121396,10 +121396,10 @@
     "jid": "6282254416963",
     "name": "ken",
     "number": "6282254416963",
-    "energi": 99993,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3120,
+    "exp": 3105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121409,9 +121409,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:15:23.512Z",
+    "lastSeen": "2026-10-25T11:35:37.399Z",
     "cooldowns": {
-      "bratimg": 1792934126080,
+      "bratimg": 1792928139594,
       "menu": 1790427504693,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
@@ -125335,7 +125335,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19521,
+    "exp": 19506,
     "name": "paduka riyy",
     "lastSeen": "2026-10-25T11:22:41.335Z",
     "cooldowns": {
@@ -129886,7 +129886,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 2010,
+    "exp": 1980,
     "energi": 99999
   },
   "6282190237811": {
@@ -131931,7 +131931,7 @@
   "6281274396980": {
     "jid": "6281274396980",
     "rpg": {},
-    "exp": 300,
+    "exp": 330,
     "name": "Sticknesian",
     "lastSeen": "2026-10-25T06:11:02.909Z",
     "cooldowns": {
@@ -132027,7 +132027,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 12850,
+    "exp": 12820,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
@@ -132079,7 +132079,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11785,
+    "exp": 11770,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -132115,14 +132115,14 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T13:14:45.777Z",
+    "lastSeen": "2026-10-25T13:05:40.151Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 3,
       "bank": 0,
       "luck": 7
     },
-    "exp": 9117,
+    "exp": 9027,
     "cooldowns": {
       "gacha": 1792906049304,
       "judi": 1792906074331,
@@ -132131,7 +132131,7 @@
       "bank": 1792900832042,
       "casino": 1792906100968,
       "training": 1792906259210,
-      "cekfemboy": 1792934090474
+      "cekfemboy": 1792933547046
     },
     "energi": 15,
     "lastActiveDate": "25/10/2026",
@@ -132456,6 +132456,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132470,11 +132475,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132954,6 +132954,18 @@
     "rpg": {},
     "exp": 15
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132978,18 +132990,6 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
