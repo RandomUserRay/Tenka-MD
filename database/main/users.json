@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:46:08.014Z",
+    "lastSeen": "2026-10-25T07:46:57.950Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000243584,
+    "exp": 1009000243659,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -148,6 +148,12 @@
         "color": "#FFD1DC",
         "emoji": "🌸",
         "description": "Femboy bgt sayang~"
+      },
+      {
+        "name": "Cowo Kool",
+        "color": "#99FFFF",
+        "emoji": "🥶",
+        "description": "Kool banget gw orang nya jirr"
       }
     ],
     "customRoleColor": "",
@@ -35516,7 +35522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1029192,
+    "exp": 1029162,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -96811,7 +96817,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45698,
+    "exp": 45683,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -102886,13 +102892,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T07:34:16.664Z",
+    "lastSeen": "2026-10-25T07:46:48.758Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99990,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37216,
+    "exp": 37261,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102904,9 +102910,9 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792912913293,
-      "d": 1792913656835,
+      "d": 1792914406222,
       "mutegc": 1788165687980,
-      "ytmp4": 1792913588717,
+      "ytmp4": 1792914383357,
       "me": 1789226230570,
       "kerja": 1788529582360,
       "gojek": 1792899349892,
@@ -122143,7 +122149,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 8550,
+    "exp": 8520,
     "energi": 99986,
     "name": "Garta",
     "lastSeen": "2026-10-25T07:05:34.518Z",
@@ -125416,7 +125422,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1470,
+    "exp": 1455,
     "energi": 99995,
     "name": "yeas",
     "lastSeen": "2026-10-25T06:36:52.007Z",
@@ -127544,7 +127550,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2880,
+    "exp": 2895,
     "energi": 99998,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T06:22:26.940Z",
@@ -129987,18 +129993,18 @@
   },
   "60103888364": {
     "name": "stranger",
-    "lastSeen": "2026-10-25T07:47:04.781Z",
+    "lastSeen": "2026-10-24T10:55:50.113Z",
     "jid": "60103888364",
     "rpg": {},
-    "exp": 495,
+    "exp": 480,
     "cooldowns": {
       "pin": 1792839357914,
-      "ig": 1792914428106,
+      "ig": 1792742979379,
       "play": 1792644761355
     },
-    "energi": 99998,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 6
+    "energi": 99999,
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 5
   },
   "62881025066060": {
     "jid": "62881025066060",
@@ -130296,7 +130302,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11895,
+    "exp": 11880,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -131649,7 +131655,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4770,
+    "exp": 4785,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -131932,11 +131938,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131950,7 +131951,12 @@
   "6285180006356": {
     "jid": "6285180006356",
     "rpg": {},
-    "exp": 435
+    "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
