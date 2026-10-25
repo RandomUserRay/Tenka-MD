@@ -20366,7 +20366,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66903,
+    "exp": 66888,
     "level": 1,
     "koin": 12209,
     "unlockedFeatures": [],
@@ -26722,7 +26722,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177756,
+    "exp": 177726,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -127623,7 +127623,7 @@
       },
       "expeditions": []
     },
-    "exp": 196257,
+    "exp": 196272,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1792888576051,
@@ -128075,7 +128075,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6634,
+    "exp": 6649,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129394,13 +129394,14 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 975,
-    "energi": 99999,
+    "exp": 1005,
+    "energi": 99998,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-10-25T04:25:47.458Z",
+    "lastSeen": "2026-10-25T04:45:01.608Z",
     "cooldowns": {
       "tebakkata": 1792899441603,
-      "d": 1792902348426
+      "d": 1792902348426,
+      "rvo": 1792903503007
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131461,7 +131462,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5890,
+    "exp": 5920,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:26:32.607Z",
     "cooldowns": {
