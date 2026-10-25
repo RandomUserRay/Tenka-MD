@@ -102889,9 +102889,9 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33569,
+    "exp": 34556,
     "level": 1,
-    "koin": 15191,
+    "koin": 34938,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102907,7 +102907,7 @@
       "me": 1789226230570,
       "kerja": 1788529582360,
       "gojek": 1792899349892,
-      "kurir": 1792899356614,
+      "kurir": 1792900005044,
       "ngemis": 1792899370710,
       "bank": 1792899577603,
       "maling": 1789472940562,
@@ -131471,14 +131471,14 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:46:04.471Z",
+    "lastSeen": "2026-10-25T03:46:45.654Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 58,
+      "stamina": 43,
       "luck": 7
     },
-    "exp": 1109,
+    "exp": 2561,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131486,13 +131486,14 @@
       "gacha": 1792899641954,
       "tt": 1792899725524,
       "judi": 1792899861365,
-      "training": 1792899836833
+      "training": 1792899836833,
+      "gojek": 1792900008831
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 4787,
-    "energi": 19
+    "koin": 33246,
+    "energi": 18
   },
   "62895321723163": {
     "name": "andika",
