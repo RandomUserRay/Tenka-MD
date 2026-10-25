@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:35:48.719Z",
+    "lastSeen": "2026-10-25T08:36:06.140Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000246509,
+    "exp": 1009000246734,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -97221,7 +97221,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45713,
+    "exp": 45728,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126639,10 +126639,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23415,
+    "exp": 23430,
     "energi": 99999,
     "name": "Sins keren",
-    "lastSeen": "2026-10-25T02:02:51.912Z",
+    "lastSeen": "2026-10-25T08:36:15.777Z",
     "cooldowns": {
       "menu": 1790233888538,
       "cekfemboy": 1792051063432,
@@ -126660,10 +126660,12 @@
       "play": 1792051746620,
       "top": 1791871105636,
       "s": 1792844575735,
-      "d": 1792893772325
+      "d": 1792893772325,
+      "me": 1792917377165
     },
     "lastActiveDate": "25/10/2026",
-    "activeDays": 13
+    "activeDays": 13,
+    "registeredAt": 1792917376002
   },
   "6281945913443": {
     "jid": "6281945913443",
@@ -130145,7 +130147,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400738680,
+    "exp": 19400738830,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:27:49.931Z",
