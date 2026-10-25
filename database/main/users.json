@@ -3539,7 +3539,7 @@
     "energi": 99953,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436883,
+    "exp": 436868,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -29202,7 +29202,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299246,
+    "exp": 299261,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14136,
+    "exp": 14181,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45818,
+    "exp": 45773,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -103313,7 +103313,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38026,
+    "exp": 38071,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125870,7 +125870,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1500,
+    "exp": 1485,
     "energi": 99995,
     "name": "yeas",
     "lastSeen": "2026-10-25T06:36:52.007Z",
@@ -125900,13 +125900,13 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 10156,
+    "exp": 10126,
     "name": "Why'Zeyn💫",
-    "lastSeen": "2026-10-25T10:47:34.202Z",
+    "lastSeen": "2026-10-23T09:56:00.530Z",
     "energi": 99999,
     "cooldowns": {
       "s": 1792749346894,
-      "afk": 1792925256639,
+      "afk": 1792199767904,
       "play": 1790512357012,
       "level": 1790470121928,
       "me": 1792747008643,
@@ -125924,8 +125924,8 @@
       "cekfemboy": 1792208826507,
       "smeme": 1792749368624
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 12
+    "lastActiveDate": "23/10/2026",
+    "activeDays": 11
   },
   "6285814571034": {
     "jid": "6285814571034",
@@ -128411,7 +128411,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65756,
+    "exp": 65771,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128541,7 +128541,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 9139,
+    "exp": 9154,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129952,7 +129952,7 @@
       "level": 1,
       "bank": 0
     },
-    "exp": 3675,
+    "exp": 3735,
     "energi": 99998,
     "name": "EQUINOX",
     "lastSeen": "2026-10-25T10:42:52.831Z",
@@ -131899,7 +131899,7 @@
   "6281274396980": {
     "jid": "6281274396980",
     "rpg": {},
-    "exp": 195,
+    "exp": 210,
     "name": "Sticknesian",
     "lastSeen": "2026-10-25T06:11:02.909Z",
     "cooldowns": {
@@ -131973,7 +131973,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 270,
+    "exp": 285,
     "name": "Haafiz",
     "lastSeen": "2026-10-25T10:37:59.761Z",
     "cooldowns": {
@@ -132423,11 +132423,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132442,6 +132437,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
