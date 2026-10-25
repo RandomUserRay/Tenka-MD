@@ -3220,8 +3220,8 @@
       "stamina": 460,
       "maxStamina": 460,
       "bank": 3681411,
-      "spouse": "628981194866@s.whatsapp.net",
-      "marriedAt": 1788533040955
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "botol": 13,
@@ -102883,15 +102883,15 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:39:04.837Z",
+    "lastSeen": "2026-10-25T03:39:10.517Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 100001,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31743,
+    "exp": 31773,
     "level": 1,
-    "koin": 4126754,
+    "koin": 4101754,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102909,7 +102909,7 @@
       "gojek": 1792899349892,
       "kurir": 1792899356614,
       "ngemis": 1792899370710,
-      "bank": 1792899386680,
+      "bank": 1792899547082,
       "maling": 1789472940562,
       "menu": 1792899024720,
       "menucat": 1790422535408,
@@ -102967,7 +102967,8 @@
       "p": 1792898823086,
       "tt": 1790862716539,
       "lirik": 1791029789229,
-      "cekganteng": 1792300837617
+      "cekganteng": 1792300837617,
+      "cerai": 1792899550628
     },
     "clanId": null,
     "isRegistered": false,
@@ -102984,8 +102985,8 @@
       "maxMana": 115,
       "maxStamina": 115,
       "luck": 20,
-      "spouse": "6285240302212@s.whatsapp.net",
-      "marriedAt": 1788533040955
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "botol": 23,
