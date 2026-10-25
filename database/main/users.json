@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725426,
+    "exp": 725441,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45758,
+    "exp": 45773,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -106323,10 +106323,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99990,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56130,
+    "exp": 56085,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,7 +106336,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:48:54.017Z",
+    "lastSeen": "2026-10-25T09:48:21.300Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792855774491,
@@ -106360,7 +106360,7 @@
       "sticker": 1788678158238,
       "antispam": 1792887396360,
       "admin": 1788766651427,
-      "play": 1792921745085,
+      "play": 1792920906372,
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64931,
+    "exp": 64901,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128498,7 +128498,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17475,
+    "exp": 17460,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -130771,7 +130771,7 @@
   "62887435100255": {
     "jid": "62887435100255",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "energi": 99999,
     "name": "Kayy",
     "lastSeen": "2026-10-19T11:12:32.432Z",
@@ -132119,7 +132119,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5490,
+    "exp": 5460,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T09:43:43.851Z",
     "cooldowns": {
@@ -132404,6 +132404,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132418,11 +132423,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
