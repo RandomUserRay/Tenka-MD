@@ -102889,7 +102889,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26179,
+    "exp": 26194,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127532,7 +127532,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1500,
+    "exp": 1515,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -131453,10 +131453,13 @@
     "name": "RafzanXD �",
     "lastSeen": "2026-10-25T03:34:11.717Z",
     "jid": "6282245345914",
-    "rpg": {},
+    "rpg": {
+      "level": 1
+    },
     "exp": 30,
     "cooldowns": {
-      "menu": 1792899179011
+      "menu": 1792899179011,
+      "me": 1792899253078
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
