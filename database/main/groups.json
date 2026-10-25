@@ -48607,8 +48607,8 @@
   "120363411803532547@g.us": {
     "chatStats": {
       "6285717515172@s.whatsapp.net": {
-        "count": 11,
-        "lastChat": 1792887279610,
+        "count": 13,
+        "lastChat": 1792887396310,
         "name": "Thiryzty X Wanzty"
       },
       "6285773870018@s.whatsapp.net": {
@@ -48635,6 +48635,8 @@
     "jid": "120363411803532547@g.us",
     "name": "JB¹ ALL GAME FUSE/MABAR THIR",
     "welcomeMsg": "selamat bergabung di JB¹/GB¹ Thiryzty {user} semoga begah dan jangan langsung keluar yaa.. hargain admin yang susah payah push member 😇",
-    "welcome": true
+    "welcome": true,
+    "antilinkgc": "on",
+    "antispam": "on"
   }
 }
