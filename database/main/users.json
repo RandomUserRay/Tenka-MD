@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13041,
+    "exp": 12966,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -91342,10 +91342,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57705,
+    "exp": 57765,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91355,7 +91355,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:32:50.000Z",
+    "lastSeen": "2026-10-25T09:37:48.282Z",
     "cooldowns": {
       "play": 1792745823576,
       "toimg": 1790829435907,
@@ -91373,7 +91373,7 @@
       "smeme": 1790437299175,
       "cekfemboy": 1786970914865,
       "putihkan": 1792239757130,
-      "rvo": 1791787886739,
+      "rvo": 1792921070380,
       "mutegc": 1789870916192,
       "unmute": 1791293291336,
       "ytmp4": 1792745856002,
@@ -91412,8 +91412,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 31
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 32
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -100234,7 +100234,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8760,
+    "exp": 8775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106323,10 +106323,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99991,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55875,
+    "exp": 55770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,7 +106336,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:37:30.715Z",
+    "lastSeen": "2026-10-25T09:34:51.987Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -106394,7 +106394,7 @@
       "del": 1789450099759,
       "info": 1788878300051,
       "toxic": 1789005285317,
-      "asupan": 1792921034304,
+      "asupan": 1789041764910,
       "level": 1789532990381,
       "cektsundere": 1789289725833,
       "asahotak": 1790092632526,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64586,
+    "exp": 64541,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -131749,10 +131749,10 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-25T09:37:51.049Z",
+    "lastSeen": "2026-10-25T09:31:56.808Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 1185,
+    "exp": 1035,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -131761,8 +131761,7 @@
       "h": 1792909304963,
       "asupan": 1792920587587,
       "ukhty": 1792920633804,
-      "asupantiktok": 1792920704421,
-      "del": 1792921072030
+      "asupantiktok": 1792920704421
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
@@ -132111,9 +132110,9 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5160,
+    "exp": 5085,
     "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T09:38:49.994Z",
+    "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
       "brat": 1792907863918,
       "menu": 1792912511382,
@@ -132126,8 +132125,7 @@
       "asahotak": 1792912628071,
       "antijudol": 1792912807125,
       "antibot": 1792912826027,
-      "delantilink": 1792912868818,
-      "setgoodbye": 1792921131236
+      "delantilink": 1792912868818
     },
     "energi": 21,
     "lastActiveDate": "25/10/2026",
@@ -132225,7 +132223,7 @@
   "6283830710046": {
     "jid": "6283830710046",
     "rpg": {},
-    "exp": 180,
+    "exp": 165,
     "name": "panggil aj tio",
     "lastSeen": "2026-10-25T05:01:19.567Z",
     "cooldowns": {
@@ -132395,6 +132393,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132409,11 +132412,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
