@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000254834,
+    "exp": 1009000254909,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -506,7 +506,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117613473,
+    "exp": 117613503,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3539,7 +3539,7 @@
     "energi": 99945,
     "isPremium": false,
     "isBanned": false,
-    "exp": 437018,
+    "exp": 437033,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -3548,7 +3548,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:56:00.302Z",
+    "lastSeen": "2026-10-25T13:56:41.048Z",
     "cooldowns": {
       "femboy": 1792918768850,
       "profile": 1792158310899,
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60090,
+    "exp": 60105,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -55034,16 +55034,16 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30576,
+    "exp": 30893,
     "level": 1,
-    "koin": 1005797753,
+    "koin": 1005800632,
     "unlockedFeatures": [],
     "registeredAt": 1792936348044,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:56:17.884Z",
+    "lastSeen": "2026-10-25T13:56:38.318Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55095,7 +55095,7 @@
       "antibot": 1792809874865,
       "yandere": 1792587391628,
       "rpg": 1792936434970,
-      "kerja": 1792589488330,
+      "kerja": 1792936590354,
       "siapa": 1792668684540,
       "p": 1792734500783,
       "tagall": 1792936472424
@@ -55106,7 +55106,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 115,
+      "stamina": 105,
       "level": 4,
       "maxHealth": 130,
       "maxMana": 115,
@@ -129573,9 +129573,9 @@
   "6287892819825": {
     "jid": "6287892819825",
     "rpg": {},
-    "exp": 2220,
+    "exp": 2235,
     "name": "hell?",
-    "lastSeen": "2026-10-25T13:54:49.201Z",
+    "lastSeen": "2026-10-25T13:56:43.711Z",
     "cooldowns": {
       "play": 1792735982886,
       "ytmp4": 1791538540149,
@@ -130209,12 +130209,17 @@
       "maxStamina": 9700470,
       "bank": 7009000000000,
       "spouse": "6281310184404@s.whatsapp.net",
-      "marriedAt": 1792936469123
+      "marriedAt": 1792936469123,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792936602083
+      }
     },
-    "exp": 19400745130,
-    "energi": 99991,
+    "exp": 19400745280,
+    "energi": 99989,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-25T13:54:29.121Z",
+    "lastSeen": "2026-10-25T13:56:42.081Z",
     "cooldowns": {
       "cekganteng": 1792918264715,
       "femboy": 1792918232825,
@@ -130242,7 +130247,7 @@
       "money": 1792589543694,
       "mutegc": 1792932298546,
       "unmutegc": 1792936271086,
-      "ship": 1792909887921,
+      "ship": 1792936584899,
       "marry": 1792936469656,
       "divorce": 1792589207923,
       "transfer": 1792589658663,
@@ -130252,7 +130257,8 @@
       "smeme": 1792781593050,
       "rvo": 1792781075071,
       "slot": 1792840187398,
-      "profile": 1792916872188
+      "profile": 1792916872188,
+      "dungeon": 1792936602352
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 11,
@@ -130266,7 +130272,8 @@
         "emoji": "🥰",
         "description": "Mommy nya khusus zay seorang"
       }
-    ]
+    ],
+    "inventory": {}
   },
   "6285168650186": {
     "name": "pratama 🐜",
