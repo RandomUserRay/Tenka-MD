@@ -506,7 +506,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612408,
+    "exp": 117612378,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -515,10 +515,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:49:31.658Z",
+    "lastSeen": "2026-10-25T07:04:30.540Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
-      "femboy": 1792918174163,
+      "femboy": 1792911871677,
       "cektsundere": 1783059729109,
       "profile": 1782621811613,
       "rob": 1782622086614,
@@ -3106,16 +3106,16 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725051,
+    "exp": 725021,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
-    "registeredAt": 1792918194659,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:49:54.365Z",
+    "lastSeen": "2026-10-25T08:48:24.620Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3128,7 +3128,7 @@
       "daily": 1782555185906,
       "profil": 1780487704267,
       "work": 1788080921273,
-      "femboy": 1792918186486,
+      "femboy": 1792843125990,
       "afk": 1790424202263,
       "warn": 1786250798434,
       "sleep": 1780313933427,
@@ -3152,7 +3152,7 @@
       "adventure": 1780401640145,
       "smeme": 1791686502654,
       "transfer": 1788080585092,
-      "me": 1792918195755,
+      "me": 1790225330507,
       "tarik": 1780903358064,
       "cool": 1782441353961,
       "villain": 1782353884077,
@@ -3539,7 +3539,7 @@
     "energi": 99961,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436385,
+    "exp": 436355,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
@@ -3548,9 +3548,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:49:51.402Z",
+    "lastSeen": "2026-10-25T08:47:32.397Z",
     "cooldowns": {
-      "femboy": 1792918192558,
+      "femboy": 1792909946219,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -55006,7 +55006,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30216,
+    "exp": 30201,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -71533,10 +71533,10 @@
     "jid": "6282135836023",
     "name": "Adolf",
     "number": "6282135836023",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1200,
+    "exp": 1185,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71545,7 +71545,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:49:03.899Z",
+    "lastSeen": "2026-10-25T08:48:30.954Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -71556,8 +71556,7 @@
       "femboy": 1792147863239,
       "cektsundere": 1790685022546,
       "gay": 1792918111447,
-      "gacha": 1792839713475,
-      "ship": 1792918146063
+      "gacha": 1792839713475
     },
     "clanId": null,
     "isRegistered": false,
@@ -129217,7 +129216,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 4830,
+    "exp": 4845,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -130157,13 +130156,13 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400739355,
+    "exp": 19400739205,
     "energi": 99993,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-25T08:50:03.503Z",
+    "lastSeen": "2026-10-25T08:48:36.362Z",
     "cooldowns": {
       "cekganteng": 1792839671604,
-      "femboy": 1792918204930,
+      "femboy": 1792840230406,
       "top": 1792918116887,
       "cekcantik": 1792840718148,
       "status": 1792059081248,
@@ -132103,7 +132102,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5010,
+    "exp": 5025,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132386,11 +132385,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132405,6 +132399,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
