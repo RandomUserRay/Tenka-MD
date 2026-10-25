@@ -586,9 +586,11 @@
       "sender": "6285717515172@s.whatsapp.net",
       "chatJid": "120363411803532547@g.us",
       "jadwal": [
-        "07:00"
+        "07:00",
+        "12:00",
+        "19:00"
       ],
-      "menu": "12.00, 19.00 Makan Apa Kek",
+      "menu": "Makan Apa Kek",
       "enabled": true,
       "lastSent": {},
       "createdAt": 1792887577223
