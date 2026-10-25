@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:31:39.771Z",
+    "lastSeen": "2026-10-25T08:28:45.413Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000246734,
+    "exp": 1009000246359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -97221,17 +97221,17 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45743,
+    "exp": 45713,
     "level": 1,
     "koin": 552,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792917095646,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:31:35.307Z",
+    "lastSeen": "2026-10-25T07:44:32.932Z",
     "cooldowns": {
       "afk": 1792909469096,
       "play": 1792596085442,
@@ -97275,8 +97275,7 @@
       "kick": 1792482296670,
       "warn": 1792494888278,
       "ship": 1792589383067,
-      "unmutegc": 1792675072007,
-      "me": 1792917097524
+      "unmutegc": 1792675072007
     },
     "clanId": null,
     "isRegistered": false,
@@ -128387,7 +128386,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63896,
+    "exp": 63911,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -128483,7 +128482,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17340,
+    "exp": 17370,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -131891,7 +131890,7 @@
   "628218185382": {
     "jid": "628218185382",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "🤍nisaa🤍",
     "lastSeen": "2026-10-25T08:09:26.623Z",
     "cooldowns": {
@@ -132092,7 +132091,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4965,
+    "exp": 4980,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132375,11 +132374,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132394,6 +132388,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132698,6 +132697,11 @@
   },
   "6285727806329": {
     "jid": "6285727806329",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285717577844": {
+    "jid": "6285717577844",
     "rpg": {},
     "exp": 15
   }
