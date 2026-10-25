@@ -90929,7 +90929,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57690,
+    "exp": 57675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105880,7 +105880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53190,
+    "exp": 53205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:24:11.899Z",
+    "lastSeen": "2026-10-25T00:34:30.134Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105899,7 +105899,7 @@
       "close": 1790135938828,
       "open": 1790092181384,
       "bratbahlil": 1788623947058,
-      "mutegc": 1790255046156,
+      "mutegc": 1792888470191,
       "game": 1789007890139,
       "unmutegc": 1789008035956,
       "tidur": 1789234036852,
@@ -127587,7 +127587,7 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-10-11T08:12:27.552Z",
+    "lastSeen": "2026-10-25T00:34:16.430Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
@@ -127617,10 +127617,10 @@
       },
       "expeditions": []
     },
-    "exp": 195237,
+    "exp": 195252,
     "cooldowns": {
       "menucat": 1791623250903,
-      "menu": 1791622665080,
+      "menu": 1792888459896,
       "allmenu": 1791648284672,
       "love": 1791691485151,
       "tebaknegara": 1791526896154,
@@ -127815,8 +127815,8 @@
       "tembak": 1791691607678,
       "pacar": 1791691648492
     },
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 4,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 5,
     "energi": 99999,
     "koin": 0,
     "inventory": {
@@ -129940,18 +129940,18 @@
   },
   "60103888364": {
     "name": "stranger",
-    "lastSeen": "2026-10-25T00:34:17.672Z",
+    "lastSeen": "2026-10-24T10:55:50.113Z",
     "jid": "60103888364",
     "rpg": {},
-    "exp": 495,
+    "exp": 480,
     "cooldowns": {
-      "pin": 1792888466226,
+      "pin": 1792839357914,
       "ig": 1792742979379,
       "play": 1792644761355
     },
-    "energi": 99997,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 6
+    "energi": 99999,
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 5
   },
   "62881025066060": {
     "jid": "62881025066060",
@@ -130249,7 +130249,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11415,
+    "exp": 11400,
     "cooldowns": {
       "menu": 1792315462935
     },
