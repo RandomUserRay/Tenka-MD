@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 140634,
+  "commandsExecuted": 140635,
   "command_totalchat": 26,
   "command_menu": 2398,
   "command_fb": 22,
@@ -108,7 +108,7 @@
   "command_getpp": 76,
   "command_makeplugin": 11,
   "command_sapa": 1,
-  "command_delplugin": 67,
+  "command_delplugin": 68,
   "command_makepluginsave": 5,
   "command_cumatest": 1,
   "command_get": 3,
@@ -1454,5 +1454,6 @@
   "command_clanjoin": 4,
   "command_pay": 1,
   "command_addrole": 26,
-  "command_delrole": 14
+  "command_delrole": 14,
+  "command_supermario": 1
 }
