@@ -48881,8 +48881,8 @@
   "120363429068992091@g.us": {
     "chatStats": {
       "6289675477260@s.whatsapp.net": {
-        "count": 241,
-        "lastChat": 1792914604329,
+        "count": 242,
+        "lastChat": 1792915074106,
         "name": "Seller Soviet (ayx)"
       },
       "6281374953937@s.whatsapp.net": {
@@ -49303,6 +49303,9 @@
     },
     "antijudol": "on",
     "antibot": true,
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "goodbyeMsg": "kenapa harus keluar sih gua dah cape cape nyari member",
+    "goodbye": true,
+    "leave": true
   }
 }
