@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:31:12.899Z",
+    "lastSeen": "2026-10-25T07:30:07.586Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000242384,
+    "exp": 1009000242009,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -148,6 +148,12 @@
         "color": "#FFD1DC",
         "emoji": "🌸",
         "description": "Femboy bgt sayang~"
+      },
+      {
+        "name": "Cowo Kool",
+        "color": "#99FFFF",
+        "emoji": "🥶",
+        "description": "Kool banget gw orang nya jirr"
       }
     ],
     "customRoleColor": "",
@@ -98999,7 +99005,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15795,
+    "exp": 15825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122143,7 +122149,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 8445,
+    "exp": 8475,
     "energi": 99986,
     "name": "Garta",
     "lastSeen": "2026-10-25T07:05:34.518Z",
@@ -131548,7 +131554,7 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T07:31:28.351Z",
+    "lastSeen": "2026-10-25T06:21:51.858Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 2,
@@ -131561,7 +131567,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11290,
+    "exp": 11245,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131932,6 +131938,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131946,11 +131957,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 435
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
