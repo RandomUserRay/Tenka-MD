@@ -127940,10 +127940,10 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63146,
-    "energi": 99999,
+    "exp": 63161,
+    "energi": 99998,
     "name": "Virberzo",
-    "lastSeen": "2026-10-25T03:19:30.485Z",
+    "lastSeen": "2026-10-25T03:19:57.001Z",
     "cooldowns": {
       "top": 1791700601689,
       "ship": 1791594897315,
@@ -127961,7 +127961,7 @@
       "janda": 1791524688060,
       "perawan": 1791606863236,
       "carifitur": 1791524908712,
-      "tembak": 1791691307356,
+      "tembak": 1792898397079,
       "hitamkan": 1791544730824,
       "cekpintar": 1791597592365,
       "cantik": 1791688222807,
@@ -128019,9 +128019,9 @@
     },
     "lastStreamer": 1792898674063,
     "fun": {
-      "tembakCount": 10,
+      "tembakCount": 11,
       "ditolakCount": 4,
-      "tembakTarget": "6285837219145@s.whatsapp.net",
+      "tembakTarget": "6285704381228@s.whatsapp.net",
       "jadiPacar": 1791691543505
     }
   },
@@ -128607,7 +128607,8 @@
       "downloader",
       "sticker"
     ],
-    "lastStreamer": 1791706362214
+    "lastStreamer": 1791706362214,
+    "fun": {}
   },
   "628137819779": {
     "jid": "628137819779",
