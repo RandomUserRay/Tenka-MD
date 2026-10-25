@@ -19386,10 +19386,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91339,
+    "exp": 91354,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19398,7 +19398,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:20:04.523Z",
+    "lastSeen": "2026-10-25T11:20:29.496Z",
     "cooldowns": {
       "bratvid": 1792927207408,
       "setan": 1782040946136,
@@ -19420,7 +19420,8 @@
       "transfer": 1783935619820,
       "me": 1783942298349,
       "job": 1784456789391,
-      "brat": 1792927053488
+      "brat": 1792927053488,
+      "stiker": 1792927229543
     },
     "clanId": null,
     "isRegistered": false,
@@ -35928,7 +35929,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1029267,
+    "exp": 1029282,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35937,7 +35938,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:20:17.104Z",
+    "lastSeen": "2026-10-25T11:20:41.255Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36147,7 +36148,8 @@
       "resetintro": 1792581353996,
       "baka": 1792581531597,
       "d": 1792678771479,
-      "bug": 1792582414271
+      "bug": 1792582414271,
+      "bego": 1792927241977
     },
     "clanId": null,
     "isRegistered": false,
@@ -45582,7 +45584,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14511,
+    "exp": 14526,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -103317,7 +103319,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38641,
+    "exp": 38656,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125734,7 +125736,7 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 4800,
+    "exp": 4830,
     "energi": 99999,
     "name": "lulaa",
     "lastSeen": "2026-10-25T11:20:09.875Z",
@@ -128415,7 +128417,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 66191,
+    "exp": 66206,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:09:16.647Z",
@@ -128547,7 +128549,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10099,
+    "exp": 10144,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129236,7 +129238,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 5565,
+    "exp": 5580,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -132825,7 +132827,7 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 930
+    "exp": 945
   },
   "6285691372035": {
     "jid": "6285691372035",
