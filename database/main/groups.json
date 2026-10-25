@@ -32271,8 +32271,8 @@
         "name": "XYFizz"
       },
       "6282161002671@s.whatsapp.net": {
-        "count": 1018,
-        "lastChat": 1792892743113,
+        "count": 1009,
+        "lastChat": 1792892596615,
         "name": "kyoi ntahlah"
       },
       "6289529899190@s.whatsapp.net": {
@@ -32351,8 +32351,8 @@
         "name": "Yoshiki_|| ひかるちゃん"
       },
       "6285817456389@s.whatsapp.net": {
-        "count": 918,
-        "lastChat": 1792892733001,
+        "count": 915,
+        "lastChat": 1792892619745,
         "name": "kitsune meru"
       },
       "6283139500330@s.whatsapp.net": {
@@ -32741,8 +32741,8 @@
         "name": "clara"
       },
       "6289528303342@s.whatsapp.net": {
-        "count": 2430,
-        "lastChat": 1792892738057,
+        "count": 2423,
+        "lastChat": 1792892614753,
         "name": "Sins keren"
       },
       "6285151164722@s.whatsapp.net": {
@@ -32971,8 +32971,8 @@
         "name": "Akbar"
       },
       "6285284891404@s.whatsapp.net": {
-        "count": 2005,
-        "lastChat": 1792892713946,
+        "count": 1997,
+        "lastChat": 1792892614397,
         "name": "Devvarajha"
       },
       "628981225271@s.whatsapp.net": {
@@ -48632,8 +48632,8 @@
   "120363411803532547@g.us": {
     "chatStats": {
       "6285717515172@s.whatsapp.net": {
-        "count": 45,
-        "lastChat": 1792892518430,
+        "count": 52,
+        "lastChat": 1792892753781,
         "name": "Thiryzty X Wanzty"
       },
       "6285773870018@s.whatsapp.net": {
@@ -48698,6 +48698,16 @@
     "leave": true,
     "goodbyeMsg": "anjir lah gua dah cape ngepush lu malah keluar bangsat",
     "antiphising": "on",
-    "mutegc": true
+    "mutegc": true,
+    "spamAction": "kick",
+    "warnings": {
+      "6287879810269@s.whatsapp.net": [
+        {
+          "reason": "Tidak ada alasan",
+          "by": "6285717515172@s.whatsapp.net",
+          "time": 1792892682798
+        }
+      ]
+    }
   }
 }
