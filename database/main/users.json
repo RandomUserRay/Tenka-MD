@@ -133339,5 +133339,17 @@
     "activeDays": 1,
     "energi": 29,
     "koin": 700
+  },
+  "6281221110247": {
+    "name": "seven",
+    "lastSeen": "2026-10-25T16:36:22.783Z",
+    "jid": "6281221110247",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "gay": 1792946183021
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   }
 }
