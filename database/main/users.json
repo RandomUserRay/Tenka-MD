@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:56:09.586Z",
+    "lastSeen": "2026-10-25T08:55:14.757Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000248459,
+    "exp": 1009000248384,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -157,7 +157,7 @@
       }
     ],
     "customRoleColor": "",
-    "bgUrl": "https://kappa.lol/pzqJXG",
+    "bgUrl": "https://kappa.lol/TDqjle",
     "profileColor": "#B3EBF2",
     "customBio": "Pria Sigma"
   },
@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70338,
+    "exp": 70323,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725306,
+    "exp": 725291,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3539,7 +3539,7 @@
     "energi": 99955,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436535,
+    "exp": 436520,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
@@ -3548,7 +3548,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:56:35.193Z",
+    "lastSeen": "2026-10-25T08:55:55.061Z",
     "cooldowns": {
       "femboy": 1792918474929,
       "profile": 1792158310899,
@@ -128400,7 +128400,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63911,
+    "exp": 63926,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -132231,7 +132231,7 @@
   "6287831807604": {
     "jid": "6287831807604",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   },
   "6283870354453": {
     "jid": "6283870354453",
@@ -132388,11 +132388,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132407,6 +132402,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
