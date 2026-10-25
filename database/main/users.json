@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T09:05:56.423Z",
+    "lastSeen": "2026-10-25T09:42:36.482Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000249284,
+    "exp": 1009000249359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13101,
+    "exp": 13116,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -106326,7 +106326,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55905,
+    "exp": 55965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128402,10 +128402,10 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64631,
+    "exp": 64661,
     "energi": 99998,
     "name": "Virberzo",
-    "lastSeen": "2026-10-25T07:53:03.304Z",
+    "lastSeen": "2026-10-25T09:42:07.786Z",
     "cooldowns": {
       "top": 1792914785079,
       "ship": 1791594897315,
@@ -128532,7 +128532,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 7624,
+    "exp": 7699,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128769,7 +128769,7 @@
     "lastSeen": "2026-10-10T04:32:21.322Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 4611,
+    "exp": 4626,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791469490100,
@@ -131752,7 +131752,7 @@
     "lastSeen": "2026-10-25T09:37:51.049Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 1245,
+    "exp": 1260,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -132780,6 +132780,11 @@
   },
   "6281578067685": {
     "jid": "6281578067685",
+    "rpg": {},
+    "exp": 15
+  },
+  "6287749881529": {
+    "jid": "6287749881529",
     "rpg": {},
     "exp": 15
   }
