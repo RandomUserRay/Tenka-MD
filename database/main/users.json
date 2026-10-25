@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T09:51:42.146Z",
+    "lastSeen": "2026-10-25T10:31:15.019Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000249809,
+    "exp": 1009000250034,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -26,13 +26,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 100900025,
-      "health": 1009000340,
-      "maxHealth": 1009000340,
-      "mana": 504500220,
-      "maxMana": 504500220,
-      "stamina": 504500220,
-      "maxStamina": 504500220,
+      "level": 100900026,
+      "health": 1009000350,
+      "maxHealth": 1009000350,
+      "mana": 504500225,
+      "maxMana": 504500225,
+      "stamina": 504500225,
+      "maxStamina": 504500225,
       "bank": 1000016136013563,
       "luck": 12,
       "spouse": "628565071625@s.whatsapp.net",
@@ -357,7 +357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55480,
+    "exp": 55465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36570,7 +36570,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 990,
+    "exp": 1005,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45773,
+    "exp": 45758,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -103313,7 +103313,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37861,
+    "exp": 37891,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129853,7 +129853,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 570,
+    "exp": 600,
     "energi": 99999
   },
   "6282190237811": {
@@ -129951,7 +129951,7 @@
       "level": 1,
       "bank": 0
     },
-    "exp": 3585,
+    "exp": 3600,
     "energi": 99998,
     "name": "EQUINOX",
     "lastSeen": "2026-10-25T06:18:39.136Z",
@@ -132415,11 +132415,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132434,6 +132429,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132850,6 +132850,11 @@
   },
   "6285199119865": {
     "jid": "6285199119865",
+    "rpg": {},
+    "exp": 15
+  },
+  "62887437554201": {
+    "jid": "62887437554201",
     "rpg": {},
     "exp": 15
   }
