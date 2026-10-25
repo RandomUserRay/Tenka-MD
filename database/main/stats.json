@@ -42,7 +42,7 @@
   "command_stopdandeletejadibot": 3,
   "command_buat": 6,
   "command_bot": 15,
-  "command_allmenu": 1233,
+  "command_allmenu": 1234,
   "command_eval": 17,
   "command_getplugin": 352,
   "command_tourl": 37,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 6,
+  "command_addrole": 5,
   "command_delrole": 4
 }
