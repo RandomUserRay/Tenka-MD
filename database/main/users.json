@@ -105881,7 +105881,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53415,
+    "exp": 53400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129941,18 +129941,18 @@
   },
   "60103888364": {
     "name": "stranger",
-    "lastSeen": "2026-10-24T10:55:50.113Z",
+    "lastSeen": "2026-10-25T03:05:10.376Z",
     "jid": "60103888364",
     "rpg": {},
-    "exp": 480,
+    "exp": 495,
     "cooldowns": {
       "pin": 1792839357914,
-      "ig": 1792742979379,
+      "ig": 1792897514087,
       "play": 1792644761355
     },
-    "energi": 99999,
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 5
+    "energi": 99998,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 6
   },
   "62881025066060": {
     "jid": "62881025066060",
@@ -130250,7 +130250,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11835,
+    "exp": 11850,
     "cooldowns": {
       "menu": 1792315462935
     },
