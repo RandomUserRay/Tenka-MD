@@ -102883,15 +102883,15 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:44:20.158Z",
+    "lastSeen": "2026-10-25T03:45:58.641Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32098,
+    "exp": 33539,
     "level": 1,
-    "koin": 1223,
+    "koin": 15191,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102922,7 +102922,7 @@
       "steal": 1788530372913,
       "marry": 1792899526721,
       "tidur": 1788530379882,
-      "work": 1792899335508,
+      "work": 1792899961822,
       "streamer": 1789472872641,
       "nambalban": 1789472863152,
       "ngamen": 1792899379141,
@@ -102976,7 +102976,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 93,
+      "stamina": 83,
       "bank": 4101754,
       "health": 130,
       "maxHealth": 130,
@@ -131447,15 +131447,18 @@
   },
   "6283188010317": {
     "jid": "6283188010317",
-    "rpg": {},
-    "exp": 45,
+    "rpg": {
+      "stamina": 85
+    },
+    "exp": 690,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:44:51.045Z",
+    "lastSeen": "2026-10-25T03:46:01.220Z",
     "cooldowns": {
-      "gacha": 1792899891167
+      "gacha": 1792899891167,
+      "kurir": 1792899964325
     },
     "energi": 24,
-    "koin": 1398,
+    "koin": 14002,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
@@ -131466,18 +131469,18 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:44:18.652Z",
+    "lastSeen": "2026-10-25T03:46:04.471Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 68,
+      "stamina": 58,
       "luck": 7
     },
-    "exp": 607,
+    "exp": 1094,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
-      "work": 1792899374732,
+      "work": 1792899967585,
       "gacha": 1792899641954,
       "tt": 1792899725524,
       "judi": 1792899861365,
@@ -131486,19 +131489,20 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 367,
+    "koin": 4787,
     "energi": 19
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T03:45:15.645Z",
+    "lastSeen": "2026-10-25T03:45:36.945Z",
     "jid": "62895321723163",
     "rpg": {},
-    "exp": 1466,
+    "exp": 1526,
     "cooldowns": {
-      "gacha": 1792899650978
+      "gacha": 1792899650978,
+      "judi": 1792899937016
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   }
