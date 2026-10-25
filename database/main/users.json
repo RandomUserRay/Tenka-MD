@@ -102883,13 +102883,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T04:02:27.074Z",
+    "lastSeen": "2026-10-25T04:10:00.236Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35451,
+    "exp": 35481,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102928,7 +102928,7 @@
       "ngamen": 1792899379141,
       "training": 1792900161188,
       "pin": 1788767373047,
-      "istirahat": 1789472895928,
+      "istirahat": 1792901403512,
       "tebaknegara": 1788782133940,
       "top": 1790432831317,
       "slot": 1792899688617,
@@ -102980,11 +102980,11 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 46,
+      "stamina": 87,
       "bank": 4086956,
-      "health": 130,
+      "health": 105,
       "maxHealth": 130,
-      "mana": 115,
+      "mana": 53,
       "level": 4,
       "maxMana": 115,
       "maxStamina": 115,
@@ -131453,14 +131453,16 @@
   "6283188010317": {
     "jid": "6283188010317",
     "rpg": {
-      "stamina": 13,
+      "stamina": 70,
       "bank": 37262,
       "level": 1,
-      "luck": 7
+      "luck": 7,
+      "health": 105,
+      "mana": 53
     },
-    "exp": 5365,
+    "exp": 5380,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T04:09:26.379Z",
+    "lastSeen": "2026-10-25T04:10:06.471Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792901367225,
@@ -131473,7 +131475,8 @@
       "training": 1792900188338,
       "judi": 1792900252088,
       "menu": 1792900326882,
-      "clanjoin": 1792900584991
+      "clanjoin": 1792900584991,
+      "istirahat": 1792901409734
     },
     "energi": 20,
     "koin": 27337,
