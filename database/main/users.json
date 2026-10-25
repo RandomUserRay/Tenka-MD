@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000246734,
+    "exp": 1009000246809,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -71530,21 +71530,21 @@
   },
   "6282135836023": {
     "jid": "6282135836023",
-    "name": "Shin🪻",
+    "name": "Adolf",
     "number": "6282135836023",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1140,
+    "exp": 1155,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1792917505133,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:01:53.253Z",
+    "lastSeen": "2026-10-25T08:38:24.764Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -71555,14 +71555,17 @@
       "femboy": 1792147863239,
       "cektsundere": 1790685022546,
       "gay": 1790758603763,
-      "gacha": 1792839713475
+      "gacha": 1792839713475,
+      "me": 1792917507281
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 1
+    },
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -71570,8 +71573,8 @@
       "pasangan": "6282135848247@s.whatsapp.net",
       "jadiPacar": 1790509221141
     },
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 7
   },
   "6285753958897": {
     "jid": "6285753958897",
