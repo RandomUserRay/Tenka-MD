@@ -506,7 +506,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612828,
+    "exp": 117612768,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -515,10 +515,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:00:33.103Z",
+    "lastSeen": "2026-10-25T08:58:48.471Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
-      "femboy": 1792918836947,
+      "femboy": 1792918730260,
       "cektsundere": 1783059729109,
       "profile": 1782621811613,
       "rob": 1782622086614,
@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70518,
+    "exp": 70503,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -846,7 +846,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:01:09.783Z",
+    "lastSeen": "2026-10-25T08:58:20.860Z",
     "cooldowns": {
       "cekfemboy": 1790085613826,
       "femboy": 1792918703217,
@@ -871,7 +871,7 @@
       "cekyandere": 1783059915802,
       "me": 1790084613291,
       "gacha": 1783060299392,
-      "cekganteng": 1792918870013,
+      "cekganteng": 1790085854934,
       "tsundere": 1790171696984,
       "cekcantik": 1790171839581,
       "cekimut": 1790171822867
@@ -3539,7 +3539,7 @@
     "energi": 99953,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436898,
+    "exp": 436838,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -3548,9 +3548,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:01:08.740Z",
+    "lastSeen": "2026-10-25T08:59:43.813Z",
     "cooldowns": {
-      "femboy": 1792918849242,
+      "femboy": 1792918768850,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -3570,7 +3570,7 @@
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1792918869219,
+      "gay": 1792918731763,
       "gacha": 1792918625152,
       "vote": 1781354632085,
       "sleep": 1782792781563,
@@ -3610,7 +3610,7 @@
       "hytamkan": 1783508218400,
       "cekfemboy": 1790248808185,
       "top": 1792910044074,
-      "cekcantik": 1792918861540,
+      "cekcantik": 1792918285734,
       "tembak": 1790509148699,
       "judi": 1790422669748,
       "ytmp4": 1792407488047,
@@ -124130,17 +124130,17 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-25T09:00:33.587Z",
+    "lastSeen": "2026-10-25T01:20:07.598Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 6840,
+    "exp": 6825,
     "cooldowns": {
       "play": 1792891221614,
       "limit": 1792801851019,
-      "pin": 1792918844728,
+      "pin": 1792853864095,
       "jkt48": 1792730429824
     },
-    "energi": 99983,
+    "energi": 99985,
     "lastActiveDate": "25/10/2026",
     "activeDays": 11
   },
@@ -128400,7 +128400,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63911,
+    "exp": 63926,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -128530,7 +128530,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6649,
+    "exp": 6664,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -130752,7 +130752,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11895,
+    "exp": 11880,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -132388,11 +132388,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132407,6 +132402,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
