@@ -506,7 +506,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117613233,
+    "exp": 117613278,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71118,
+    "exp": 71133,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725846,
+    "exp": 725861,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -29213,7 +29213,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299306,
+    "exp": 299291,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -97249,7 +97249,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45983,
+    "exp": 45998,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99445,7 +99445,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15960,
+    "exp": 15975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132455,6 +132455,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132469,11 +132474,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132953,6 +132953,18 @@
     "rpg": {},
     "exp": 15
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132978,18 +132990,6 @@
     "rpg": {},
     "exp": 45
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
-  },
   "6289691337115": {
     "jid": "6289691337115",
     "rpg": {},
@@ -132999,10 +132999,5 @@
     "jid": "6283115442995",
     "rpg": {},
     "exp": 45
-  },
-  "6285113259048": {
-    "jid": "6285113259048",
-    "rpg": {},
-    "exp": 15
   }
 }
