@@ -19389,7 +19389,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91429,
+    "exp": 91444,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19398,7 +19398,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:24:34.675Z",
+    "lastSeen": "2026-10-25T11:28:45.165Z",
     "cooldowns": {
       "bratvid": 1792927207408,
       "setan": 1782040946136,
@@ -19422,7 +19422,8 @@
       "job": 1784456789391,
       "brat": 1792927053488,
       "stiker": 1792927229543,
-      "s": 1792927474713
+      "s": 1792927474713,
+      "menu": 1792927731880
     },
     "clanId": null,
     "isRegistered": false,
@@ -35930,7 +35931,7 @@
     "energi": 100007,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035347,
+    "exp": 1035377,
     "level": 1,
     "koin": 11591090,
     "unlockedFeatures": [],
@@ -51187,7 +51188,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 831905,
+    "exp": 831920,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51196,7 +51197,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:27:07.343Z",
+    "lastSeen": "2026-10-25T11:28:50.082Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -51308,7 +51309,7 @@
       "gombal": 1790001603488,
       "truth": 1790002125965,
       "play": 1790251460735,
-      "menu": 1791467284860
+      "menu": 1792927731901
     },
     "clanId": null,
     "isRegistered": false,
@@ -51400,12 +51401,12 @@
     "jid": "6288901803249",
     "name": "rayywxrld",
     "number": "6288901803249",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 607757,
+    "exp": 607982,
     "level": 1,
-    "koin": 2591722,
+    "koin": 2586722,
     "unlockedFeatures": [
       "game"
     ],
@@ -51414,7 +51415,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:28:25.737Z",
+    "lastSeen": "2026-10-25T11:28:58.652Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -51587,8 +51588,8 @@
       "deer": 1,
       "carrot": 5,
       "meat": 14,
-      "iron": 18,
-      "wood": 48,
+      "iron": 30,
+      "wood": 55,
       "fish": 1,
       "diamond": 0,
       "trash": 5,
@@ -51603,7 +51604,8 @@
       "daging_kelinci": 12,
       "bulu_rubah": 2,
       "daging_babi": 10,
-      "wortel": 2
+      "wortel": 2,
+      "mysterybox": 1
     },
     "access": [],
     "fun": {
@@ -125744,10 +125746,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 5040,
+    "exp": 5055,
     "energi": 99999,
     "name": "lulaa",
-    "lastSeen": "2026-10-25T11:27:09.164Z",
+    "lastSeen": "2026-10-25T11:28:47.515Z",
     "cooldowns": {
       "s": 1790065871832,
       "anj": 1789916189343,
@@ -125777,7 +125779,8 @@
       "play": 1790251123455,
       "cupu": 1792927350389,
       "tebakgambar": 1792927407395,
-      "riddle": 1792927574181
+      "riddle": 1792927574181,
+      "pantek": 1792927727593
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 5
@@ -128560,7 +128563,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10609,
+    "exp": 10624,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
