@@ -16167,10 +16167,10 @@
     "jid": "6285753061976",
     "name": "antinous",
     "number": "6285753061976",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398162,
+    "exp": 9398177,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16179,7 +16179,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:22:39.962Z",
+    "lastSeen": "2026-10-25T05:08:22.009Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -102883,13 +102883,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T05:00:40.598Z",
+    "lastSeen": "2026-10-25T05:07:54.629Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35856,
+    "exp": 35901,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102901,7 +102901,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792806419535,
-      "d": 1792904440761,
+      "d": 1792904874878,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -105886,7 +105886,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53775,
+    "exp": 53790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131590,7 +131590,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 870,
+    "exp": 900,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T05:02:19.352Z",
     "cooldowns": {
@@ -131605,15 +131605,17 @@
   },
   "6281374953937": {
     "name": "Qisthi",
-    "lastSeen": "2026-10-25T05:06:25.149Z",
+    "lastSeen": "2026-10-25T05:08:18.255Z",
     "jid": "6281374953937",
     "rpg": {},
-    "exp": 420,
+    "exp": 465,
     "cooldowns": {
       "play": 1792904793963,
-      "ytmp4": 1792904795561
+      "ytmp4": 1792904795561,
+      "bratvid": 1792904879052,
+      "brat": 1792904898436
     },
-    "energi": 8,
+    "energi": 6,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
@@ -131622,7 +131624,7 @@
     "lastSeen": "2026-10-25T05:07:19.531Z",
     "jid": "628138102226",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "cooldowns": {
       "menu": 1792904253310,
       "brat": 1792904799237,
@@ -131640,15 +131642,15 @@
   },
   "6283125843766": {
     "name": "𝙖𝙡𝙯𝙯★",
-    "lastSeen": "2026-10-25T05:06:34.121Z",
+    "lastSeen": "2026-10-25T05:07:37.013Z",
     "jid": "6283125843766",
     "rpg": {},
-    "exp": 150,
+    "exp": 180,
     "cooldowns": {
       "play": 1792904807748,
-      "brat": 1792904199733
+      "brat": 1792904857109
     },
-    "energi": 17,
+    "energi": 16,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
@@ -131712,6 +131714,6 @@
   "6281332960098": {
     "jid": "6281332960098",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
