@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14421,
+    "exp": 14436,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -103313,7 +103313,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38146,
+    "exp": 38161,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128541,7 +128541,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 9709,
+    "exp": 9739,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128747,7 +128747,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17745,
+    "exp": 17775,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -132874,6 +132874,6 @@
   "6287780569400": {
     "jid": "6287780569400",
     "rpg": {},
-    "exp": 315
+    "exp": 330
   }
 }
