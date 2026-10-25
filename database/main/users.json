@@ -2149,7 +2149,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232376,
+    "exp": 232361,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -106326,7 +106326,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55455,
+    "exp": 55470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106971,7 +106971,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5925,
+    "exp": 5985,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131748,21 +131748,22 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-25T09:29:43.839Z",
+    "lastSeen": "2026-10-25T09:30:30.740Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 720,
+    "exp": 825,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
       "setwelcome": 1792855787538,
       "tebakbendera": 1792907108563,
       "h": 1792909304963,
-      "asupan": 1792920587587
+      "asupan": 1792920587587,
+      "ukhty": 1792920633804
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
-    "energi": 99998
+    "energi": 99997
   },
   "62881011835206": {
     "jid": "62881011835206",
@@ -132390,11 +132391,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132409,6 +132405,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132674,7 +132675,14 @@
   "6282327805620": {
     "jid": "6282327805620",
     "rpg": {},
-    "exp": 300
+    "exp": 315,
+    "name": "fitrahtama3",
+    "lastSeen": "2026-10-25T09:30:44.155Z",
+    "cooldowns": {
+      "menu": 1792920646085
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6285783897137": {
     "jid": "6285783897137",
