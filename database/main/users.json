@@ -357,7 +357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55465,
+    "exp": 55495,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3539,7 +3539,7 @@
     "energi": 99953,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436838,
+    "exp": 436853,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -3548,7 +3548,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:59:43.813Z",
+    "lastSeen": "2026-10-25T10:07:06.320Z",
     "cooldowns": {
       "femboy": 1792918768850,
       "profile": 1792158310899,
@@ -3585,7 +3585,7 @@
       "deposit": 1782910240452,
       "heal": 1781600051647,
       "shop": 1781575673255,
-      "love": 1792918011244,
+      "love": 1792922826877,
       "steal": 1781702377297,
       "topexp": 1782792908312,
       "topenergi": 1781702355640,
@@ -5224,7 +5224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129597336,
+    "exp": 129597366,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13716,
+    "exp": 13701,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45758,
+    "exp": 45773,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -106326,7 +106326,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56235,
+    "exp": 56220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65381,
+    "exp": 65336,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128738,7 +128738,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17520,
+    "exp": 17490,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -131918,7 +131918,7 @@
   "628218185382": {
     "jid": "628218185382",
     "rpg": {},
-    "exp": 855,
+    "exp": 840,
     "name": "🤍nisaa🤍",
     "lastSeen": "2026-10-25T08:09:26.623Z",
     "cooldowns": {
@@ -132119,7 +132119,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 6045,
+    "exp": 5985,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T10:04:27.434Z",
     "cooldowns": {
@@ -132407,6 +132407,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132421,11 +132426,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132803,7 +132803,7 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 480
+    "exp": 420
   },
   "6285691372035": {
     "jid": "6285691372035",
