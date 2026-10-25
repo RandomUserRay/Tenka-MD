@@ -105886,7 +105886,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53535,
+    "exp": 53550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131463,7 +131463,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5995,
+    "exp": 6010,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:48:53.610Z",
     "cooldowns": {
@@ -131588,7 +131588,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 60,
+    "exp": 105,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T04:48:38.245Z",
     "cooldowns": {
@@ -131600,31 +131600,33 @@
   },
   "6281374953937": {
     "name": "Qisthi",
-    "lastSeen": "2026-10-25T04:48:45.119Z",
+    "lastSeen": "2026-10-25T04:50:45.398Z",
     "jid": "6281374953937",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "cooldowns": {
       "play": 1792903748499
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
   "628138102226": {
     "name": "-17mirzy'★",
-    "lastSeen": "2026-10-25T04:50:10.557Z",
+    "lastSeen": "2026-10-25T04:50:32.498Z",
     "jid": "628138102226",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "cooldowns": {
       "menu": 1792903729648,
       "brat": 1792903730838,
-      "bratvid": 1792903781708
+      "bratvid": 1792903781708,
+      "ytmp4": 1792903823674,
+      "play": 1792903850265
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "energi": 20
+    "energi": 19
   },
   "6283125843766": {
     "name": "𝙖𝙡𝙯𝙯★",
@@ -131641,15 +131643,24 @@
   },
   "6283110950390": {
     "name": "yiro store",
-    "lastSeen": "2026-10-25T04:50:15.661Z",
+    "lastSeen": "2026-10-25T04:50:52.782Z",
     "jid": "6283110950390",
     "rpg": {},
-    "exp": 15,
+    "exp": 45,
     "cooldowns": {
       "bratgreen": 1792903816394
     },
-    "energi": 24,
+    "energi": 22,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6281248444142": {
+    "name": "𝚊𝚣𝚔𝚊𝚊́",
+    "lastSeen": "2026-10-25T04:50:44.494Z",
+    "jid": "6281248444142",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {},
+    "energi": 23
   }
 }
