@@ -106375,7 +106375,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58155,
+    "exp": 58170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132618,16 +132618,17 @@
   "6282261381629": {
     "jid": "6282261381629",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "name": "fathir teajus",
-    "lastSeen": "2026-10-25T23:56:48.533Z",
+    "lastSeen": "2026-10-25T23:57:02.564Z",
     "cooldowns": {
       "menu": 1792972613874,
       "brat": 1792972142138,
       "bratvid": 1792972153768,
       "menucat": 1792937042749,
       "sendbug": 1792937052806,
-      "allmenu": 1792937573461
+      "allmenu": 1792937573461,
+      "owner": 1792972623516
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
