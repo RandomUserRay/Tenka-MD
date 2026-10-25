@@ -500,7 +500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117611598,
+    "exp": 117611658,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -98995,7 +98995,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15165,
+    "exp": 15180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99005,13 +99005,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T01:43:39.745Z",
+    "lastSeen": "2026-10-25T01:44:52.282Z",
     "cooldowns": {
       "play": 1792786906328,
       "menu": 1792446851178,
       "menucat": 1792446961081,
       "cekfemboy": 1792359895796,
-      "femboy": 1792892621410,
+      "femboy": 1792892694364,
       "s": 1792873304936,
       "cekganteng": 1792523499419,
       "cekcantik": 1792431427087,
@@ -105880,7 +105880,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53355,
+    "exp": 53310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T01:44:42.796Z",
+    "lastSeen": "2026-10-25T00:47:49.377Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105912,7 +105912,7 @@
       "brat": 1792888507606,
       "bratimg": 1792888523642,
       "sticker": 1788678158238,
-      "antispam": 1792892674589,
+      "antispam": 1792887396360,
       "admin": 1788766651427,
       "play": 1789534462030,
       "ytmp4": 1788627231962,
@@ -105943,7 +105943,7 @@
       "acc": 1788714898071,
       "tebaknegara": 1788769628236,
       "bego": 1788769651108,
-      "warn": 1792892682842,
+      "warn": 1790255129259,
       "h": 1792889270458,
       "del": 1789450099759,
       "info": 1788878300051,
@@ -126194,7 +126194,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22350,
+    "exp": 22425,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-24T12:22:53.540Z",
@@ -129665,7 +129665,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400734255,
+    "exp": 19400734705,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T01:01:53.787Z",
@@ -131361,16 +131361,6 @@
   },
   "6281274396980": {
     "jid": "6281274396980",
-    "rpg": {},
-    "exp": 15
-  },
-  "6281460396907": {
-    "jid": "6281460396907",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282188949123": {
-    "jid": "6282188949123",
     "rpg": {},
     "exp": 15
   }
