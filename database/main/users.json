@@ -4009,7 +4009,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28330,
+    "exp": 28405,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -35952,19 +35952,19 @@
     "jid": "6282131144804",
     "name": "raditt maendraa",
     "number": "6282131144804",
-    "energi": 100005,
+    "energi": 100004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036127,
+    "exp": 1036157,
     "level": 1,
-    "koin": 0,
+    "koin": 1000000,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:40:56.938Z",
+    "lastSeen": "2026-10-25T14:53:54.183Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36051,7 +36051,7 @@
       "casino": 1789917400909,
       "berburu": 1784246918065,
       "hunt": 1783781334100,
-      "bank": 1792928371316,
+      "bank": 1792940036803,
       "ngemis": 1784335021442,
       "saldo": 1789917366301,
       "work": 1788077073124,
@@ -36113,7 +36113,7 @@
       "buyenergi": 1783863034585,
       "tiktok": 1783892558073,
       "paket": 1784335086502,
-      "slot": 1789547819799,
+      "slot": 1792940018313,
       "tambal": 1788076806027,
       "game": 1784097955280,
       "rpg": 1784125732721,
@@ -36192,7 +36192,7 @@
       "health": 1130,
       "mana": 615,
       "stamina": 615,
-      "bank": 11591090,
+      "bank": 10591090,
       "pet": {
         "type": "bird",
         "name": "manuk dadali",
@@ -97269,7 +97269,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46088,
+    "exp": 46043,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -132058,7 +132058,7 @@
       "maxStamina": 105,
       "attack": 10
     },
-    "exp": 14785,
+    "exp": 14860,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T14:50:20.107Z",
     "cooldowns": {
@@ -132115,7 +132115,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 12295,
+    "exp": 12400,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -132509,11 +132509,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132528,6 +132523,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 630
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132976,7 +132976,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 990,
+    "exp": 1110,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-25T14:39:50.246Z",
     "cooldowns": {
@@ -133053,18 +133053,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133089,6 +133077,18 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
@@ -133256,11 +133256,6 @@
     "jid": "6285651060267",
     "rpg": {},
     "exp": 15
-  },
-  "6283138281728": {
-    "jid": "6283138281728",
-    "rpg": {},
-    "exp": 30
   },
   "6289514408551": {
     "jid": "6289514408551",
