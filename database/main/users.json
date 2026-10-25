@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725441,
+    "exp": 725426,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45773,
+    "exp": 45758,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -106323,10 +106323,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99991,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56085,
+    "exp": 56160,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,10 +106336,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:48:21.300Z",
+    "lastSeen": "2026-10-25T09:49:26.224Z",
     "cooldowns": {
       "menu": 1792921706806,
-      "owner": 1792855774491,
+      "owner": 1792921767529,
       "menucat": 1792920565598,
       "tebakgambar": 1788623686903,
       "close": 1792905157167,
@@ -106360,7 +106360,7 @@
       "sticker": 1788678158238,
       "antispam": 1792887396360,
       "admin": 1788766651427,
-      "play": 1792920906372,
+      "play": 1792921745085,
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64901,
+    "exp": 64931,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128498,7 +128498,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17460,
+    "exp": 17475,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -128532,7 +128532,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 7909,
+    "exp": 7924,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -130771,7 +130771,7 @@
   "62887435100255": {
     "jid": "62887435100255",
     "rpg": {},
-    "exp": 450,
+    "exp": 435,
     "energi": 99999,
     "name": "Kayy",
     "lastSeen": "2026-10-19T11:12:32.432Z",
@@ -132119,7 +132119,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5460,
+    "exp": 5505,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T09:43:43.851Z",
     "cooldowns": {
@@ -132404,11 +132404,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132423,6 +132418,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
