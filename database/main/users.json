@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:35:41.033Z",
+    "lastSeen": "2026-10-25T07:36:08.142Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000242534,
+    "exp": 1009000242609,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -148,6 +148,12 @@
         "color": "#FFD1DC",
         "emoji": "🌸",
         "description": "Femboy bgt sayang~"
+      },
+      {
+        "name": "Cowo Kool",
+        "color": "#99FFFF",
+        "emoji": "🥶",
+        "description": "Kool banget gw orang nya jirr"
       }
     ],
     "customRoleColor": "",
@@ -105889,7 +105895,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55245,
+    "exp": 55260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105899,7 +105905,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T07:21:28.215Z",
+    "lastSeen": "2026-10-25T07:36:07.674Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105963,7 +105969,7 @@
       "asahotak": 1790092632526,
       "blockblast": 1789534178168,
       "resetwelcome": 1790136104729,
-      "goodbye": 1792887766167,
+      "goodbye": 1792913767676,
       "setgoodbye": 1792887789891,
       "antiphising": 1792887832938,
       "benefitpremium": 1792907230105
@@ -131932,11 +131938,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131951,6 +131952,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 435
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
