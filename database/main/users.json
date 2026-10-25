@@ -105886,7 +105886,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53820,
+    "exp": 53835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105896,13 +105896,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:47:49.377Z",
+    "lastSeen": "2026-10-25T05:12:36.395Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
       "menucat": 1792887464749,
       "tebakgambar": 1788623686903,
-      "close": 1790135938828,
+      "close": 1792905157167,
       "open": 1790092181384,
       "bratbahlil": 1788623947058,
       "mutegc": 1792888470191,
@@ -129394,7 +129394,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1560,
     "energi": 99994,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T05:09:31.889Z",
@@ -131742,5 +131742,10 @@
     "energi": 23,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6289672791553": {
+    "jid": "6289672791553",
+    "rpg": {},
+    "exp": 15
   }
 }
