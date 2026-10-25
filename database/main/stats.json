@@ -168,7 +168,7 @@
   "command_listprem": 31,
   "command_addprem": 43,
   "command_delprem": 14,
-  "command_ig": 47,
+  "command_ig": 46,
   "command_pindl": 10,
   "command_gantiourin": 1,
   "command_remini": 22,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 13,
+  "command_addrole": 14,
   "command_delrole": 11
 }
