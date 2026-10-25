@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T05:34:10.176Z",
+    "lastSeen": "2026-10-25T05:48:50.887Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000238409,
+    "exp": 1009000238634,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -45164,7 +45164,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12666,
+    "exp": 12651,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -102886,7 +102886,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36751,
+    "exp": 36691,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105883,7 +105883,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54285,
+    "exp": 54270,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127943,7 +127943,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63341,
+    "exp": 63326,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T03:19:57.001Z",
@@ -129392,7 +129392,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 1935,
+    "exp": 1890,
     "energi": 99992,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T05:23:23.599Z",
@@ -130546,7 +130546,7 @@
     "lastSeen": "2026-10-21T11:20:59.269Z",
     "jid": "6288271435378",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "energi": 99999
   },
   "62881012149927": {
@@ -131479,7 +131479,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 6610,
+    "exp": 6595,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T05:27:31.608Z",
     "cooldowns": {
@@ -131525,7 +131525,7 @@
       "mana": 53,
       "bank": 46108
     },
-    "exp": 7646,
+    "exp": 7601,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131784,7 +131784,7 @@
   "6285181526642": {
     "jid": "6285181526642",
     "rpg": {},
-    "exp": 75
+    "exp": 60
   },
   "6289691978119": {
     "jid": "6289691978119",
@@ -131845,15 +131845,15 @@
   },
   "62895402687399": {
     "name": "pa",
-    "lastSeen": "2026-10-25T05:48:02.865Z",
+    "lastSeen": "2026-10-25T05:36:02.627Z",
     "jid": "62895402687399",
     "rpg": {},
-    "exp": 75,
+    "exp": 60,
     "cooldowns": {
       "brat": 1792906469410,
-      "play": 1792907297369
+      "play": 1792906574853
     },
-    "energi": 20,
+    "energi": 21,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
@@ -131880,5 +131880,10 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   }
 }
