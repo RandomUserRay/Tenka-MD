@@ -3536,10 +3536,10 @@
     "jid": "6282135848247",
     "name": "CursedSixsixsix",
     "number": "6282135848247",
-    "energi": 99945,
+    "energi": 99943,
     "isPremium": false,
     "isBanned": false,
-    "exp": 437063,
+    "exp": 437078,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -3548,7 +3548,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:57:00.681Z",
+    "lastSeen": "2026-10-25T13:57:12.882Z",
     "cooldowns": {
       "femboy": 1792918768850,
       "profile": 1792158310899,
@@ -3617,7 +3617,7 @@
       "imut": 1790758652050,
       "ganteng": 1790758668448,
       "list": 1790758677447,
-      "ship": 1792936561765,
+      "ship": 1792936634308,
       "pasangan": 1792839640688,
       "lucky": 1792918609905,
       "cekganteng": 1792918449764,
@@ -11698,7 +11698,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43564,
+    "exp": 43594,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11707,7 +11707,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:55:32.321Z",
+    "lastSeen": "2026-10-25T13:57:14.453Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1792780032720,
@@ -11756,7 +11756,8 @@
       "allmenu": 1791108243922,
       "smeme": 1792781418152,
       "me": 1792936372942,
-      "addrole": 1792936532885
+      "addrole": 1792936532885,
+      "dungeon": 1792936634762
     },
     "clanId": null,
     "isRegistered": false,
@@ -11769,12 +11770,25 @@
       "maxHealth": 140,
       "mana": 120,
       "maxMana": 120,
-      "stamina": 120,
+      "stamina": 90,
       "maxStamina": 120,
       "bank": 150000,
       "spouse": "6282116747451@s.whatsapp.net",
       "marriedAt": 1790240349017,
-      "luck": 7
+      "luck": 7,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 10,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792936640093
+      }
     },
     "inventory": {
       "iron": 2
