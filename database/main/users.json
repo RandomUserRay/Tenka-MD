@@ -28784,10 +28784,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299096,
+    "exp": 299111,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28798,7 +28798,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:24:22.943Z",
+    "lastSeen": "2026-10-25T04:26:02.879Z",
     "cooldowns": {
       "menu": 1792882811418,
       "allmenu": 1792881984003,
@@ -54589,7 +54589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30126,
+    "exp": 30111,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -127537,7 +127537,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1680,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129394,12 +129394,13 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 855,
+    "exp": 900,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-10-25T03:37:21.186Z",
+    "lastSeen": "2026-10-25T04:25:47.458Z",
     "cooldowns": {
-      "tebakkata": 1792899441603
+      "tebakkata": 1792899441603,
+      "d": 1792902348426
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131460,7 +131461,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5680,
+    "exp": 5710,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:15:00.224Z",
     "cooldowns": {
