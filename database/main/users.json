@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725426,
+    "exp": 725441,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13281,
+    "exp": 13191,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -97224,7 +97224,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45758,
+    "exp": 45788,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -106326,7 +106326,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56070,
+    "exp": 55965,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,7 +106336,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:48:21.300Z",
+    "lastSeen": "2026-10-25T09:37:30.715Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64886,
+    "exp": 64841,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -130161,7 +130161,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400740705,
+    "exp": 19400740780,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:51:33.482Z",
@@ -132119,7 +132119,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5460,
+    "exp": 5370,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T09:43:43.851Z",
     "cooldowns": {
@@ -132332,7 +132332,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 240
+    "exp": 210
   },
   "6285395891752": {
     "jid": "6285395891752",
@@ -132404,6 +132404,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132418,11 +132423,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
