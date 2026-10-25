@@ -103488,17 +103488,17 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 214325,
+    "exp": 214250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792915631550,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:07:11.191Z",
+    "lastSeen": "2026-09-26T04:31:44.305Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1790396932884,
@@ -103520,8 +103520,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "26/9/2026",
+    "activeDays": 10
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
@@ -128386,7 +128386,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63821,
+    "exp": 63836,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -128722,7 +128722,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17205,
+    "exp": 17235,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -129205,7 +129205,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 4635,
+    "exp": 4650,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -129835,7 +129835,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 2115,
+    "exp": 2130,
     "energi": 99992,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T05:53:59.324Z",
@@ -131881,7 +131881,7 @@
   "628218185382": {
     "jid": "628218185382",
     "rpg": {},
-    "exp": 690,
+    "exp": 705,
     "name": "🤍nisaa🤍",
     "lastSeen": "2026-10-25T03:21:21.635Z",
     "cooldowns": {
@@ -132082,7 +132082,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4890,
+    "exp": 4920,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132365,11 +132365,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132384,6 +132379,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132659,7 +132659,7 @@
   "6282148841533": {
     "jid": "6282148841533",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6281374314757": {
     "jid": "6281374314757",
