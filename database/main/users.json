@@ -55051,7 +55051,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32132,
+    "exp": 32147,
     "level": 1,
     "koin": 1005818118,
     "unlockedFeatures": [],
@@ -55138,11 +55138,7 @@
       "spouse": "6285941901216@s.whatsapp.net",
       "marriedAt": 1792588413124,
       "luck": 7,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792936646586
-      }
+      "attack": 10
     },
     "inventory": {},
     "access": [],
@@ -130236,21 +130232,9 @@
       "bank": 7009000000000,
       "spouse": "6281310184404@s.whatsapp.net",
       "marriedAt": 1792936469123,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 22,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792936996031
-      }
+      "attack": 10
     },
-    "exp": 19400745580,
+    "exp": 19400746090,
     "energi": 99989,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T14:03:04.867Z",
@@ -130297,7 +130281,7 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 11,
     "isPremium": true,
-    "koin": 1989979953461,
+    "koin": 1989979953734,
     "registeredAt": 1792852797984,
     "customRoles": [
       {
@@ -130307,7 +130291,10 @@
         "description": "Mommy nya khusus zay seorang"
       }
     ],
-    "inventory": {}
+    "inventory": {
+      "gold": 3,
+      "herb": 5
+    }
   },
   "6285168650186": {
     "name": "pratama 🐜",
