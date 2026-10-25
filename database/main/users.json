@@ -3104,7 +3104,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724856,
+    "exp": 724871,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -6439,7 +6439,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37441,
+    "exp": 37456,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126828,10 +126828,10 @@
   },
   "6281348491234": {
     "name": "Khivcha",
-    "lastSeen": "2026-10-25T07:33:26.107Z",
+    "lastSeen": "2026-10-25T07:33:47.233Z",
     "jid": "6281348491234",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "cooldowns": {
       "menu": 1790928798872,
       "menucat": 1790928799755,
@@ -126843,7 +126843,7 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 6,
-    "energi": 99998
+    "energi": 99997
   },
   "6285188774905": {
     "jid": "6285188774905",
@@ -130309,7 +130309,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11865,
+    "exp": 11880,
     "cooldowns": {
       "menu": 1792315462935
     },
