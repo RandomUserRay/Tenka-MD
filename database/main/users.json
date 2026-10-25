@@ -1223,7 +1223,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2505,
+    "exp": 2520,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101426,7 +101426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8820,
+    "exp": 8850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102883,36 +102883,36 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:34:51.781Z",
+    "lastSeen": "2026-10-25T03:30:20.113Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26209,
+    "exp": 26104,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792899219679,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792806419535,
-      "d": 1792899229519,
+      "d": 1792898941800,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
-      "me": 1792899220897,
+      "me": 1789226230570,
       "kerja": 1788529582360,
       "gojek": 1789472850901,
       "kurir": 1789472845108,
       "ngemis": 1789472959954,
-      "bank": 1792899291826,
+      "bank": 1792589738608,
       "maling": 1789472940562,
       "menu": 1792899024720,
-      "menucat": 1792899149701,
+      "menucat": 1790422535408,
       "daily": 1788529510566,
       "crime": 1789472948170,
       "jualan": 1789472857483,
@@ -105881,7 +105881,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53460,
+    "exp": 53445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105891,9 +105891,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T03:34:52.767Z",
+    "lastSeen": "2026-10-25T00:47:49.377Z",
     "cooldowns": {
-      "menu": 1792899295518,
+      "menu": 1792887454557,
       "owner": 1792855774491,
       "menucat": 1792887464749,
       "tebakgambar": 1788623686903,
@@ -127532,7 +127532,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1530,
+    "exp": 1485,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129388,19 +129388,9 @@
   },
   "6282190237811": {
     "jid": "6282190237811",
-    "rpg": {
-      "level": 1
-    },
-    "exp": 645,
-    "energi": 99999,
-    "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-10-25T03:34:29.480Z",
-    "cooldowns": {
-      "me": 1792899270604
-    },
-    "registeredAt": 1792899269480,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "rpg": {},
+    "exp": 540,
+    "energi": 99999
   },
   "6282191896920": {
     "jid": "6282191896920",
@@ -130265,7 +130255,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11835,
+    "exp": 11850,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -131172,17 +131162,17 @@
     "energi": 99999
   },
   "6281233924832": {
-    "name": "ᥒіһᥲ mᥕᥙ ᥒᥲsg᥆r𓃱",
-    "lastSeen": "2026-10-24T01:14:00.960Z",
+    "name": "kira mawu nasgor",
+    "lastSeen": "2026-10-25T03:33:58.755Z",
     "jid": "6281233924832",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "cooldowns": {
-      "hd": 1792804443772
+      "hd": 1792899242677
     },
-    "energi": 99999,
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 1
+    "energi": 99998,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 2
   },
   "6281223726042": {
     "jid": "6281223726042",
@@ -131456,21 +131446,5 @@
     "jid": "6282371000808",
     "rpg": {},
     "exp": 15
-  },
-  "6282245345914": {
-    "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:34:11.717Z",
-    "jid": "6282245345914",
-    "rpg": {
-      "level": 1
-    },
-    "exp": 30,
-    "cooldowns": {
-      "menu": 1792899179011,
-      "me": 1792899253078
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "registeredAt": 1792899251718
   }
 }
