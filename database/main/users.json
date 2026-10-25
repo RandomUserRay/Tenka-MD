@@ -6431,7 +6431,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36841,
+    "exp": 36751,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43295,7 +43295,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5880,
+    "exp": 6000,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -98995,7 +98995,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14985,
+    "exp": 14940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105877,10 +105877,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53310,
+    "exp": 53340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:47:49.377Z",
+    "lastSeen": "2026-10-25T01:20:38.400Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105909,7 +105909,7 @@
       "welcome": 1790136001941,
       "antisticker": 1790259624815,
       "bratcewek": 1788661413142,
-      "brat": 1792888507606,
+      "brat": 1792891228365,
       "bratimg": 1792888523642,
       "sticker": 1788678158238,
       "antispam": 1792887396360,
@@ -105956,7 +105956,8 @@
       "resetwelcome": 1790136104729,
       "goodbye": 1792887766167,
       "setgoodbye": 1792887789891,
-      "antiphising": 1792887832938
+      "antiphising": 1792887832938,
+      "brathd": 1792891240273
     },
     "clanId": null,
     "isRegistered": false,
@@ -123676,17 +123677,17 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-25T01:20:07.598Z",
+    "lastSeen": "2026-10-25T01:15:46.810Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 6825,
+    "exp": 6765,
     "cooldowns": {
-      "play": 1792891221614,
+      "play": 1792890914610,
       "limit": 1792801851019,
       "pin": 1792853864095,
       "jkt48": 1792730429824
     },
-    "energi": 99985,
+    "energi": 99987,
     "lastActiveDate": "25/10/2026",
     "activeDays": 11
   },
@@ -127939,12 +127940,12 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 62921,
+    "exp": 62981,
     "energi": 99999,
     "name": "Virberzo",
-    "lastSeen": "2026-10-11T09:57:34.097Z",
+    "lastSeen": "2026-10-25T01:20:39.985Z",
     "cooldowns": {
-      "top": 1791700601689,
+      "top": 1792891210092,
       "ship": 1791594897315,
       "love": 1791691488069,
       "femboy": 1791518260309,
@@ -128006,8 +128007,8 @@
       "saldo": 1791700667452,
       "mining": 1791708725021
     },
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 3,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 4,
     "koin": 0,
     "inventory": {
       "iron": 19,
@@ -128069,9 +128070,9 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6439,
-    "name": "npc",
-    "lastSeen": "2026-10-09T04:14:49.880Z",
+    "exp": 6679,
+    "name": "Oktafirst?",
+    "lastSeen": "2026-10-25T01:20:18.001Z",
     "cooldowns": {
       "hd": 1791467824460,
       "love": 1791468136677,
@@ -129665,7 +129666,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400732680,
+    "exp": 19400732455,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T01:01:53.787Z",
@@ -130249,7 +130250,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11820,
+    "exp": 11760,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -131361,6 +131362,11 @@
   },
   "6281274396980": {
     "jid": "6281274396980",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281460396907": {
+    "jid": "6281460396907",
     "rpg": {},
     "exp": 15
   }
