@@ -131460,9 +131460,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5425,
+    "exp": 5440,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T04:10:52.907Z",
+    "lastSeen": "2026-10-25T04:11:12.315Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792901367225,
@@ -131476,7 +131476,8 @@
       "judi": 1792900252088,
       "menu": 1792900326882,
       "clanjoin": 1792900584991,
-      "istirahat": 1792901409734
+      "istirahat": 1792901409734,
+      "m": 1792901474589
     },
     "energi": 20,
     "koin": 27337,
@@ -131516,7 +131517,8 @@
       "clanleaderboard": 1792900605242,
       "claninfo": 1792900374096,
       "clanjoin": 1792900573619,
-      "guild": 1792900784435
+      "guild": 1792900784435,
+      "istirahat": 1792901465017
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
