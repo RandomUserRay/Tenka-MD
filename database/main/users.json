@@ -131793,7 +131793,14 @@
   "6281999036604": {
     "jid": "6281999036604",
     "rpg": {},
-    "exp": 165
+    "exp": 180,
+    "name": "ִֶjihan sayang sunlion",
+    "lastSeen": "2026-10-25T05:40:49.728Z",
+    "cooldowns": {
+      "tebaknegara": 1792906849790
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6285607032153": {
     "jid": "6285607032153",
@@ -131856,13 +131863,13 @@
   },
   "6288242508192": {
     "name": "Rasya",
-    "lastSeen": "2026-10-25T05:40:19.267Z",
+    "lastSeen": "2026-10-25T05:40:54.760Z",
     "jid": "6288242508192",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "cooldowns": {
       "menu": 1792906731308,
-      "tebaknegara": 1792906759827
+      "tebaknegara": 1792906854839
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
