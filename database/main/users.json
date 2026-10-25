@@ -1491,25 +1491,25 @@
   },
   "6281316971617": {
     "jid": "6281316971617",
-    "name": "Iki di panggil nengok",
+    "name": "??",
     "number": "6281316971617",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7191,
+    "exp": 7206,
     "level": 1,
     "koin": 2326,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1792915374324,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-09T02:22:49.470Z",
+    "lastSeen": "2026-10-25T08:02:53.952Z",
     "cooldowns": {
       "femboy": 1780188724156,
       "ganteng": 1780188686867,
-      "me": 1782910560204,
+      "me": 1792915376235,
       "work": 1780205178682,
       "coinflip": 1780204898342,
       "play": 1781848915709,
@@ -1531,7 +1531,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6285695487864": {
     "jid": "6285695487864",
@@ -132080,7 +132082,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4890,
+    "exp": 4875,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132363,6 +132365,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132377,11 +132384,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132658,5 +132660,10 @@
     "jid": "6282148841533",
     "rpg": {},
     "exp": 30
+  },
+  "6281374314757": {
+    "jid": "6281374314757",
+    "rpg": {},
+    "exp": 15
   }
 }
