@@ -2141,7 +2141,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232376,
+    "exp": 232361,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -102889,7 +102889,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29484,
+    "exp": 29514,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127532,7 +127532,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1485,
+    "exp": 1500,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129389,8 +129389,15 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 555,
-    "energi": 99999
+    "exp": 600,
+    "energi": 99999,
+    "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
+    "lastSeen": "2026-10-25T03:37:21.186Z",
+    "cooldowns": {
+      "tebakkata": 1792899441603
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6282191896920": {
     "jid": "6282191896920",
@@ -131455,7 +131462,7 @@
       "level": 1,
       "stamina": 90
     },
-    "exp": 402,
+    "exp": 417,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
