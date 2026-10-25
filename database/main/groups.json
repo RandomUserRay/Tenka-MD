@@ -33547,8 +33547,8 @@
   "120363428909650338@g.us": {
     "chatStats": {
       "6285755379245@s.whatsapp.net": {
-        "count": 607,
-        "lastChat": 1792915081044,
+        "count": 606,
+        "lastChat": 1792708241375,
         "name": "Zay"
       }
     },
@@ -46992,8 +46992,8 @@
   "120363429696148357@g.us": {
     "chatStats": {
       "6285746122997@s.whatsapp.net": {
-        "count": 170,
-        "lastChat": 1792914956300,
+        "count": 172,
+        "lastChat": 1792915091129,
         "name": "Virberzo"
       },
       "6289679569897@s.whatsapp.net": {
@@ -47057,8 +47057,8 @@
         "name": ">⁠.⁠<ハイランニサ>⁠.⁠<"
       },
       "6288808783933@s.whatsapp.net": {
-        "count": 115,
-        "lastChat": 1792914995829,
+        "count": 118,
+        "lastChat": 1792915088360,
         "name": "저는 주훈이의 여자친구예요. 주훈이의 여자친구"
       },
       "628137819779@s.whatsapp.net": {
@@ -47368,8 +47368,8 @@
         "name": "Central Cee"
       },
       "6285162814773@s.whatsapp.net": {
-        "count": 23,
-        "lastChat": 1792915056543,
+        "count": 22,
+        "lastChat": 1792914179892,
         "name": "𝐱𝐥𝐯"
       },
       "62895320161311@s.whatsapp.net": {
@@ -48337,8 +48337,8 @@
         "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>"
       },
       "6282190237811@s.whatsapp.net": {
-        "count": 34,
-        "lastChat": 1792914858137,
+        "count": 35,
+        "lastChat": 1792915060900,
         "name": "💜🩵[THE FURSUIT & KITTY]🩵💜"
       },
       "6285123323287@s.whatsapp.net": {
@@ -48881,8 +48881,8 @@
   "120363429068992091@g.us": {
     "chatStats": {
       "6289675477260@s.whatsapp.net": {
-        "count": 241,
-        "lastChat": 1792914604329,
+        "count": 243,
+        "lastChat": 1792915077275,
         "name": "Seller Soviet (ayx)"
       },
       "6281374953937@s.whatsapp.net": {
@@ -49274,6 +49274,11 @@
         "count": 3,
         "lastChat": 1792914924090,
         "name": "~aldiansyah"
+      },
+      "6282148841533@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1792915044576,
+        "name": "aku terbaik orang di duni"
       }
     },
     "jid": "120363429068992091@g.us",
@@ -49298,6 +49303,9 @@
     },
     "antijudol": "on",
     "antibot": true,
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "goodbyeMsg": "kenapa harus keluar sih gua dah cape cape nyari member",
+    "goodbye": true,
+    "leave": true
   }
 }
