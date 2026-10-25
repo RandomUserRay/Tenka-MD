@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 140656,
+  "commandsExecuted": 140657,
   "command_totalchat": 26,
   "command_menu": 2398,
   "command_fb": 22,
@@ -1455,5 +1455,6 @@
   "command_pay": 1,
   "command_addrole": 26,
   "command_delrole": 14,
-  "command_supermario": 1
+  "command_supermario": 1,
+  "command_mario": 2
 }
