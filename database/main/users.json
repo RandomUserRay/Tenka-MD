@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:10:48.072Z",
+    "lastSeen": "2026-10-25T07:12:30.150Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000240584,
+    "exp": 1009000240659,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -142,7 +142,14 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 52,
     "customRole": "",
-    "customRoles": [],
+    "customRoles": [
+      {
+        "name": "Femboy Akut",
+        "color": "#FFD1DC",
+        "emoji": "🌸",
+        "description": "Femboy bgt sayang~"
+      }
+    ],
     "customRoleColor": "",
     "bgUrl": "https://kappa.lol/eUVtLr",
     "profileColor": "#B3EBF2",
@@ -131642,7 +131649,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4065,
+    "exp": 4080,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T06:20:57.899Z",
     "cooldowns": {
