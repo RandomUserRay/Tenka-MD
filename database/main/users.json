@@ -31073,10 +31073,10 @@
     "jid": "6283188364167",
     "name": "arinn",
     "number": "6283188364167",
-    "energi": 99993,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52719,
+    "exp": 52734,
     "level": 1,
     "koin": 24209,
     "unlockedFeatures": [],
@@ -31085,7 +31085,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T05:58:51.764Z",
+    "lastSeen": "2026-10-25T06:15:41.025Z",
     "cooldowns": {
       "bratimg": 1789183043939,
       "tt": 1792907935428,
@@ -131495,9 +131495,9 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11515,
+    "exp": 11530,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T06:15:13.988Z",
+    "lastSeen": "2026-10-25T06:15:35.278Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792908917395,
@@ -131532,17 +131532,17 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T06:15:14.842Z",
+    "lastSeen": "2026-10-25T06:15:35.831Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 44,
+      "stamina": 29,
       "luck": 11,
       "health": 105,
       "mana": 53,
       "bank": 82219
     },
-    "exp": 9444,
+    "exp": 9989,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131565,12 +131565,13 @@
       "smeme": 1792903762148,
       "pin": 1792905915338,
       "afk": 1792908343734,
-      "deposit": 1792908824517
+      "deposit": 1792908824517,
+      "kurir": 1792908939191
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 26893,
+    "koin": 37496,
     "energi": 0,
     "clanId": "Kit Community"
   },
