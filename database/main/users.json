@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T13:54:06.422Z",
+    "lastSeen": "2026-10-25T14:05:48.661Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000254534,
+    "exp": 1009000254684,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27535,
+    "exp": 27565,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60060,
+    "exp": 60045,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -55033,7 +55033,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30546,
+    "exp": 30501,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -55042,7 +55042,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:05:55.456Z",
+    "lastSeen": "2026-10-25T13:53:54.739Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55072,7 +55072,7 @@
       "deposit": 1789119722960,
       "love": 1792917940708,
       "cerai": 1790240223130,
-      "close": 1792937156233,
+      "close": 1789137262323,
       "open": 1789137420963,
       "rob": 1789213633812,
       "istirahat": 1789213735157,
@@ -97251,7 +97251,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46058,
+    "exp": 46043,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -132012,7 +132012,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 765,
+    "exp": 780,
     "name": "Haafiz",
     "lastSeen": "2026-10-25T10:37:59.761Z",
     "cooldowns": {
@@ -132034,7 +132034,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 13630,
+    "exp": 13660,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
@@ -132465,11 +132465,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132484,6 +132479,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132988,18 +132988,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133024,6 +133012,18 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
@@ -133092,7 +133092,7 @@
   "6285337890808": {
     "jid": "6285337890808",
     "rpg": {},
-    "exp": 90
+    "exp": 120
   },
   "6283114316811": {
     "jid": "6283114316811",
