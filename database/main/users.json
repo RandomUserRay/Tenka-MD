@@ -102889,7 +102889,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34971,
+    "exp": 34986,
     "level": 1,
     "koin": 4086956,
     "saldo": 0,
@@ -131455,9 +131455,9 @@
       "level": 1,
       "luck": 7
     },
-    "exp": 2929,
+    "exp": 2944,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:52:04.311Z",
+    "lastSeen": "2026-10-25T03:56:24.862Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792899964325,
@@ -131469,13 +131469,15 @@
       "me": 1792900112886,
       "training": 1792900188338,
       "judi": 1792900252088,
-      "menu": 1792900326882
+      "menu": 1792900326882,
+      "clanjoin": 1792900584991
     },
     "energi": 21,
     "koin": 0,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "registeredAt": 1792900111702
+    "registeredAt": 1792900111702,
+    "clanId": "Kit Community"
   },
   "6282371000808": {
     "jid": "6282371000808",
@@ -131484,14 +131486,14 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:52:54.038Z",
+    "lastSeen": "2026-10-25T03:56:13.518Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
       "stamina": 21,
       "luck": 9
     },
-    "exp": 2886,
+    "exp": 2901,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131504,13 +131506,15 @@
       "topkoin": 1792900040941,
       "menucat": 1792900294634,
       "clanleaderboard": 1792900328414,
-      "claninfo": 1792900374096
+      "claninfo": 1792900374096,
+      "clanjoin": 1792900573619
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
     "koin": 33554,
-    "energi": 16
+    "energi": 16,
+    "clanId": "Kit Community"
   },
   "62895321723163": {
     "name": "andika",
