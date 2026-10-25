@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
+      "at": 1792939016328
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
       "at": 1792939005498
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789820223342
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789820218659
     }
   ],
   "jpmBlacklist": [],
