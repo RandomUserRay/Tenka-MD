@@ -6431,7 +6431,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36751,
+    "exp": 36811,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43295,7 +43295,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5955,
+    "exp": 5880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -98995,7 +98995,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14940,
+    "exp": 14970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -123676,17 +123676,17 @@
   },
   "6282298458753": {
     "name": ".",
-    "lastSeen": "2026-10-25T01:15:46.810Z",
+    "lastSeen": "2026-10-25T01:18:28.495Z",
     "jid": "6282298458753",
     "rpg": {},
-    "exp": 6765,
+    "exp": 6810,
     "cooldowns": {
-      "play": 1792890914610,
+      "play": 1792891125108,
       "limit": 1792801851019,
       "pin": 1792853864095,
       "jkt48": 1792730429824
     },
-    "energi": 99987,
+    "energi": 99986,
     "lastActiveDate": "25/10/2026",
     "activeDays": 11
   },
@@ -127939,12 +127939,12 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 62951,
+    "exp": 62921,
     "energi": 99999,
     "name": "Virberzo",
-    "lastSeen": "2026-10-25T01:18:36.120Z",
+    "lastSeen": "2026-10-11T09:57:34.097Z",
     "cooldowns": {
-      "top": 1792891117046,
+      "top": 1791700601689,
       "ship": 1791594897315,
       "love": 1791691488069,
       "femboy": 1791518260309,
@@ -128006,8 +128006,8 @@
       "saldo": 1791700667452,
       "mining": 1791708725021
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 4,
+    "lastActiveDate": "11/10/2026",
+    "activeDays": 3,
     "koin": 0,
     "inventory": {
       "iron": 19,
@@ -128069,7 +128069,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6499,
+    "exp": 6439,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129665,7 +129665,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400732455,
+    "exp": 19400732605,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T01:01:53.787Z",
@@ -130249,7 +130249,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11760,
+    "exp": 11805,
     "cooldowns": {
       "menu": 1792315462935
     },
