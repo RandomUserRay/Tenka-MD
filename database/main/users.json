@@ -133354,5 +133354,17 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6285926115743": {
+    "name": "RAM",
+    "lastSeen": "2026-10-25T16:40:35.065Z",
+    "jid": "6285926115743",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "top": 1792946435129
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   }
 }
