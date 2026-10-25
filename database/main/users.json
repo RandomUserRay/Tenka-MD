@@ -2138,10 +2138,10 @@
     "jid": "6287735607482",
     "name": "shiion",
     "number": "6287735607482",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232361,
+    "exp": 232376,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -2150,7 +2150,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T14:42:47.561Z",
+    "lastSeen": "2026-10-25T04:59:46.959Z",
     "cooldowns": {
       "profile": 1781357667609,
       "afk": 1785561401898,
@@ -129394,7 +129394,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 1335,
+    "exp": 1305,
     "energi": 99994,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T04:51:34.129Z",
@@ -131465,7 +131465,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 6145,
+    "exp": 6130,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:48:53.610Z",
     "cooldowns": {
@@ -131510,7 +131510,7 @@
       "mana": 53,
       "bank": 46108
     },
-    "exp": 4046,
+    "exp": 4016,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131608,7 +131608,7 @@
     "lastSeen": "2026-10-25T04:55:02.492Z",
     "jid": "6281374953937",
     "rpg": {},
-    "exp": 240,
+    "exp": 225,
     "cooldowns": {
       "play": 1792904068957,
       "ytmp4": 1792904112775
@@ -131619,23 +131619,22 @@
   },
   "628138102226": {
     "name": "-17mirzy'★",
-    "lastSeen": "2026-10-25T04:59:22.820Z",
+    "lastSeen": "2026-10-25T04:58:04.852Z",
     "jid": "628138102226",
     "rpg": {},
-    "exp": 315,
+    "exp": 285,
     "cooldowns": {
       "menu": 1792904253310,
-      "brat": 1792904355218,
+      "brat": 1792903730838,
       "bratvid": 1792903781708,
       "ytmp4": 1792903823674,
       "play": 1792904218013,
       "menucat": 1792904271322,
-      "owner": 1792904286121,
-      "bratimg": 1792904365561
+      "owner": 1792904286121
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "energi": 13
+    "energi": 15
   },
   "6283125843766": {
     "name": "𝙖𝙡𝙯𝙯★",
@@ -131688,7 +131687,7 @@
   "6283830710046": {
     "jid": "6283830710046",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   },
   "6287831807604": {
     "jid": "6287831807604",
