@@ -252,7 +252,7 @@
   "command_hourly": 39,
   "command_mining": 332,
   "command_dungeon": 314,
-  "command_me": 2150,
+  "command_me": 2151,
   "command_rest": 514,
   "command_qwa": 32,
   "command_lyrics": 5,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 18,
+  "command_addrole": 17,
   "command_delrole": 11
 }
