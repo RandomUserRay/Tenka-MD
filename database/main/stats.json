@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 140233,
+  "commandsExecuted": 140234,
   "command_totalchat": 26,
   "command_menu": 2392,
   "command_fb": 21,
@@ -53,7 +53,7 @@
   "command_tqto": 5,
   "command_s": 5601,
   "command_test5": 9,
-  "command_swgc": 180,
+  "command_swgc": 181,
   "command_crm": 45,
   "command_run": 39,
   "command_setreply": 44,
@@ -598,7 +598,7 @@
   "command_delcode": 3,
   "command_toimg": 168,
   "command_music": 22,
-  "command_istirahat": 202,
+  "command_istirahat": 203,
   "command_lesby": 126,
   "command_ht2": 1,
   "command_fuckmylife": 14,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 6,
+  "command_addrole": 5,
   "command_delrole": 4
 }
