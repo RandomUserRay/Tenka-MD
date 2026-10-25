@@ -105880,7 +105880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53115,
+    "exp": 53130,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:22:46.126Z",
+    "lastSeen": "2026-10-25T00:23:09.839Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105954,7 +105954,8 @@
       "asahotak": 1790092632526,
       "blockblast": 1789534178168,
       "resetwelcome": 1790136104729,
-      "goodbye": 1792887766167
+      "goodbye": 1792887766167,
+      "setgoodbye": 1792887789891
     },
     "clanId": null,
     "isRegistered": false,
@@ -131337,5 +131338,10 @@
     "jid": "6282274025673",
     "rpg": {},
     "exp": 15
+  },
+  "6283141292869": {
+    "jid": "6283141292869",
+    "rpg": {},
+    "exp": 30
   }
 }
