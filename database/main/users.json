@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:18:53.076Z",
+    "lastSeen": "2026-10-25T07:22:15.170Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000240809,
+    "exp": 1009000240884,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -148,6 +148,12 @@
         "color": "#FFD1DC",
         "emoji": "🌸",
         "description": "Femboy bgt sayang~"
+      },
+      {
+        "name": "Cowo Kool",
+        "color": "#99FFFF",
+        "emoji": "🥶",
+        "description": "Kool banget gw orang nya jirr"
       }
     ],
     "customRoleColor": "",
@@ -351,7 +357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55420,
+    "exp": 55435,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105889,7 +105895,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55260,
+    "exp": 55245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105899,7 +105905,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T07:22:10.782Z",
+    "lastSeen": "2026-10-25T07:21:28.215Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105916,7 +105922,7 @@
       "afk": 1788697027702,
       "antitagsw": 1790255100512,
       "welcome": 1790136001941,
-      "antisticker": 1792912931832,
+      "antisticker": 1790259624815,
       "bratcewek": 1788661413142,
       "brat": 1792888507606,
       "bratimg": 1792888523642,
@@ -125416,7 +125422,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1275,
+    "exp": 1290,
     "energi": 99995,
     "name": "yeas",
     "lastSeen": "2026-10-25T06:36:52.007Z",
@@ -127544,7 +127550,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2865,
+    "exp": 2850,
     "energi": 99998,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T06:22:26.940Z",
@@ -129712,7 +129718,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400737330,
+    "exp": 19400737405,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T06:33:19.811Z",
@@ -131548,7 +131554,7 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T07:22:47.974Z",
+    "lastSeen": "2026-10-25T06:21:51.858Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 2,
@@ -131561,7 +131567,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11275,
+    "exp": 11245,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131577,7 +131583,7 @@
       "claninfo": 1792900374096,
       "clanjoin": 1792900573619,
       "guild": 1792900784435,
-      "istirahat": 1792912947166,
+      "istirahat": 1792908761838,
       "nabung": 1792901626320,
       "bank": 1792909130813,
       "s": 1792903709837,
@@ -131649,9 +131655,9 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4800,
+    "exp": 4770,
     "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T07:23:01.894Z",
+    "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
       "brat": 1792907863918,
       "menu": 1792912511382,
@@ -131664,8 +131670,7 @@
       "asahotak": 1792912628071,
       "antijudol": 1792912807125,
       "antibot": 1792912826027,
-      "delantilink": 1792912868818,
-      "swgc": 1792912942607
+      "delantilink": 1792912868818
     },
     "energi": 21,
     "lastActiveDate": "25/10/2026",
@@ -131933,6 +131938,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131947,11 +131957,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 435
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
