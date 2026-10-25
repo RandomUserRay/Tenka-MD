@@ -51,7 +51,7 @@
   "command_setpp": 7,
   "command_stats": 57,
   "command_tqto": 5,
-  "command_s": 5609,
+  "command_s": 5610,
   "command_test5": 9,
   "command_swgc": 181,
   "command_crm": 45,
@@ -1455,6 +1455,5 @@
   "command_pay": 1,
   "command_addrole": 26,
   "command_delrole": 14,
-  "command_supermario": 1,
-  "command_mario": 2
+  "command_supermario": 1
 }
