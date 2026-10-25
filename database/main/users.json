@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27565,
+    "exp": 27580,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -112809,7 +112809,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 239552,
+    "exp": 239567,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114648,7 +114648,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15735,
+    "exp": 15810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132012,7 +132012,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "Haafiz",
     "lastSeen": "2026-10-25T10:37:59.761Z",
     "cooldowns": {
@@ -132034,7 +132034,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 13690,
+    "exp": 13705,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
@@ -132580,19 +132580,20 @@
   "6282236278393": {
     "jid": "6282236278393",
     "rpg": {},
-    "exp": 135,
+    "exp": 165,
     "name": "Mĩkz",
-    "lastSeen": "2026-10-25T14:08:42.504Z",
+    "lastSeen": "2026-10-25T14:09:57.084Z",
     "cooldowns": {
       "menu": 1792936868821,
       "allmenu": 1792936885781,
       "bratvid": 1792937049379,
-      "qc": 1792937322560,
-      "attp": 1792937256240
+      "qc": 1792937351114,
+      "attp": 1792937256240,
+      "bratgreen": 1792937397152
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "energi": 20
+    "energi": 18
   },
   "6285218322261": {
     "jid": "6285218322261",
@@ -132922,7 +132923,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 195
+    "exp": 210
   },
   "6285199119865": {
     "jid": "6285199119865",
