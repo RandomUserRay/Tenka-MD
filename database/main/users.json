@@ -1841,7 +1841,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 698709,
+    "exp": 698634,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -62400,10 +62400,10 @@
     "jid": "6281999293718",
     "name": "ndak tau",
     "number": "6281999293718",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 153159,
+    "exp": 153099,
     "level": 1,
     "koin": 84117,
     "unlockedFeatures": [],
@@ -62412,10 +62412,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:47:51.350Z",
+    "lastSeen": "2026-10-24T14:42:31.673Z",
     "cooldowns": {
       "afk": 1792852953239,
-      "play": 1792903686533,
+      "play": 1792317596139,
       "mancing": 1784643047902,
       "susun": 1788241788337,
       "ytmp4": 1787933041178,
@@ -62444,8 +62444,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 30
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 29
   },
   "6281232577957": {
     "jid": "6281232577957",
@@ -127537,7 +127537,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1710,
+    "exp": 1725,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129394,14 +129394,15 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 1020,
-    "energi": 99998,
+    "exp": 1065,
+    "energi": 99996,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-10-25T04:45:01.608Z",
+    "lastSeen": "2026-10-25T04:48:53.565Z",
     "cooldowns": {
       "tebakkata": 1792899441603,
-      "d": 1792902348426,
-      "rvo": 1792903503007
+      "d": 1792903734498,
+      "rvo": 1792903723384,
+      "hd": 1792903711707
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131256,7 +131257,7 @@
     "rpg": {
       "level": 1
     },
-    "exp": 375,
+    "exp": 525,
     "lastActiveDate": "24/10/2026",
     "activeDays": 1,
     "registeredAt": 1792855137054,
@@ -131416,7 +131417,7 @@
   "6288213862856": {
     "jid": "6288213862856",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6288994319081": {
     "jid": "6288994319081",
@@ -131462,9 +131463,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5935,
+    "exp": 5980,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T04:26:32.607Z",
+    "lastSeen": "2026-10-25T04:48:53.610Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792901367225,
@@ -131480,9 +131481,10 @@
       "clanjoin": 1792900584991,
       "istirahat": 1792901409734,
       "m": 1792901474589,
-      "pin": 1792901704181
+      "pin": 1792901704181,
+      "s": 1792903735374
     },
-    "energi": 18,
+    "energi": 16,
     "koin": 27337,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131496,7 +131498,7 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T04:43:51.464Z",
+    "lastSeen": "2026-10-25T04:48:28.661Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
@@ -131506,7 +131508,7 @@
       "mana": 53,
       "bank": 46108
     },
-    "exp": 3791,
+    "exp": 3821,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131524,13 +131526,14 @@
       "guild": 1792900784435,
       "istirahat": 1792901465017,
       "nabung": 1792901626320,
-      "bank": 1792901646928
+      "bank": 1792901646928,
+      "s": 1792903709837
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
     "koin": 0,
-    "energi": 13,
+    "energi": 11,
     "clanId": "Kit Community"
   },
   "62895321723163": {
@@ -131580,5 +131583,41 @@
     "jid": "6285752730105",
     "rpg": {},
     "exp": 15
+  },
+  "6289675477260": {
+    "jid": "6289675477260",
+    "rpg": {},
+    "exp": 60,
+    "name": "Seller Soviet (ayx)",
+    "lastSeen": "2026-10-25T04:48:38.245Z",
+    "cooldowns": {
+      "brat": 1792903720711
+    },
+    "energi": 24,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
+  "6281374953937": {
+    "name": "Qisthi",
+    "lastSeen": "2026-10-25T04:48:45.119Z",
+    "jid": "6281374953937",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {},
+    "energi": 24
+  },
+  "628138102226": {
+    "name": "-17mirzy'★",
+    "lastSeen": "2026-10-25T04:48:50.788Z",
+    "jid": "628138102226",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "menu": 1792903729648,
+      "brat": 1792903730838
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
+    "energi": 24
   }
 }
