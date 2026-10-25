@@ -2146,10 +2146,10 @@
     "jid": "6287735607482",
     "name": "shiion",
     "number": "6287735607482",
-    "energi": 999998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 232376,
+    "exp": 232361,
     "level": 1,
     "koin": 57822,
     "unlockedFeatures": [],
@@ -2158,7 +2158,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T12:20:57.521Z",
+    "lastSeen": "2026-10-24T14:42:47.561Z",
     "cooldowns": {
       "profile": 1781357667609,
       "afk": 1785561401898,
@@ -51410,7 +51410,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609493,
+    "exp": 609508,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -125334,7 +125334,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19416,
+    "exp": 19431,
     "name": "paduka riyy",
     "lastSeen": "2026-10-25T11:22:41.335Z",
     "cooldowns": {
@@ -131877,7 +131877,7 @@
   "6283872045313": {
     "jid": "6283872045313",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "name": "Itayo2",
     "lastSeen": "2026-10-25T05:45:19.693Z",
     "cooldowns": {
@@ -131975,7 +131975,7 @@
   "6288994319081": {
     "jid": "6288994319081",
     "rpg": {},
-    "exp": 870,
+    "exp": 885,
     "name": "🙇‍♂🙆‍♂",
     "lastSeen": "2026-10-25T03:21:44.027Z",
     "cooldowns": {
@@ -132078,7 +132078,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11680,
+    "exp": 11695,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -132455,11 +132455,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132474,6 +132469,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132953,18 +132953,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132989,5 +132977,17 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   }
 }
