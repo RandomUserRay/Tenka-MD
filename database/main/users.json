@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13356,
+    "exp": 13371,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65036,
+    "exp": 65051,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128532,7 +128532,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 8224,
+    "exp": 8239,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128769,7 +128769,7 @@
     "lastSeen": "2026-10-10T04:32:21.322Z",
     "jid": "6282280529984",
     "rpg": {},
-    "exp": 4746,
+    "exp": 4761,
     "cooldowns": {
       "owner": 1791467985211,
       "allmenu": 1791469490100,
@@ -132800,6 +132800,6 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 180
+    "exp": 210
   }
 }
