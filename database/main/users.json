@@ -55029,10 +55029,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30366,
+    "exp": 30381,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -55041,7 +55041,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:22:34.841Z",
+    "lastSeen": "2026-10-25T13:24:57.191Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55096,7 +55096,7 @@
       "kerja": 1792589488330,
       "siapa": 1792668684540,
       "p": 1792734500783,
-      "rvo": 1792934555891
+      "rvo": 1792934697924
     },
     "clanId": null,
     "isRegistered": false,
@@ -131536,7 +131536,7 @@
   "6282323419393": {
     "jid": "6282323419393",
     "rpg": {},
-    "exp": 930,
+    "exp": 945,
     "energi": 99999
   },
   "62881038065467": {
