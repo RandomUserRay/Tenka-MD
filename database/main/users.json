@@ -106326,7 +106326,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56355,
+    "exp": 56370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -116588,7 +116588,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1065,
+    "exp": 1080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128409,7 +128409,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65456,
+    "exp": 65471,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -132835,6 +132835,6 @@
   "6285743195803": {
     "jid": "6285743195803",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
