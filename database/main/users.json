@@ -102883,15 +102883,15 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:35:53.536Z",
+    "lastSeen": "2026-10-25T03:36:07.629Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28920,
+    "exp": 29193,
     "level": 1,
-    "koin": 42593,
+    "koin": 45175,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102908,7 +102908,7 @@
       "kerja": 1788529582360,
       "gojek": 1792899349892,
       "kurir": 1792899356614,
-      "ngemis": 1789472959954,
+      "ngemis": 1792899370710,
       "bank": 1792589738608,
       "maling": 1789472940562,
       "menu": 1792899024720,
@@ -102975,7 +102975,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 70,
+      "stamina": 65,
       "bank": 4074859,
       "health": 120,
       "maxHealth": 120,
@@ -131449,18 +131449,20 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:34:11.717Z",
+    "lastSeen": "2026-10-25T03:36:11.590Z",
     "jid": "6282245345914",
     "rpg": {
-      "level": 1
+      "level": 1,
+      "stamina": 90
     },
-    "exp": 45,
+    "exp": 402,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "registeredAt": 1792899251718
+    "registeredAt": 1792899251718,
+    "koin": 3423
   }
 }
