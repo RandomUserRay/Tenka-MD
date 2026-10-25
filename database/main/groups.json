@@ -43863,8 +43863,8 @@
   "120363431274732946@g.us": {
     "chatStats": {
       "6283121900324@s.whatsapp.net": {
-        "count": 53,
-        "lastChat": 1792924252246,
+        "count": 54,
+        "lastChat": 1792926378044,
         "name": "yantzy"
       },
       "6285757147472@s.whatsapp.net": {
@@ -44214,7 +44214,8 @@
     "antilinkgc": "on",
     "toxicWarns": {
       "6285717515172@s.whatsapp.net": 2
-    }
+    },
+    "mutegc": true
   },
   "120363429774996974@g.us": {
     "chatStats": {
