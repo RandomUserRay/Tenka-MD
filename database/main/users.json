@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70548,
+    "exp": 70593,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725516,
+    "exp": 725561,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27445,
+    "exp": 27430,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -7556,7 +7556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29275,
+    "exp": 29290,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -35936,7 +35936,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035872,
+    "exp": 1035932,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -87560,7 +87560,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97249,7 +97249,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45908,
+    "exp": 45923,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -128572,7 +128572,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10969,
+    "exp": 10939,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -130201,7 +130201,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400741305,
+    "exp": 19400741380,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:51:33.482Z",
@@ -131160,7 +131160,7 @@
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
-    "exp": 810,
+    "exp": 825,
     "energi": 99999,
     "name": "καιρoc",
     "lastSeen": "2026-10-23T05:33:58.160Z",
@@ -132114,16 +132114,16 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T12:13:42.276Z",
+    "lastSeen": "2026-10-25T11:53:36.355Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 3,
       "bank": 0,
       "luck": 7
     },
-    "exp": 8982,
+    "exp": 8967,
     "cooldowns": {
-      "gacha": 1792930422673,
+      "gacha": 1792906049304,
       "judi": 1792906074331,
       "work": 1792906238908,
       "gojek": 1792906284855,
@@ -132132,10 +132132,10 @@
       "training": 1792906259210,
       "cekfemboy": 1792929218397
     },
-    "energi": 14,
+    "energi": 15,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "koin": 114019
+    "koin": 112596
   },
   "6289510621268": {
     "name": ".",
@@ -132455,6 +132455,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132469,11 +132474,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132851,7 +132851,7 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 1140
+    "exp": 1125
   },
   "6285691372035": {
     "jid": "6285691372035",
@@ -132953,6 +132953,18 @@
     "rpg": {},
     "exp": 15
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132972,22 +132984,5 @@
     "jid": "6285121387713",
     "rpg": {},
     "exp": 15
-  },
-  "6287848386982": {
-    "jid": "6287848386982",
-    "rpg": {},
-    "exp": 45
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
   }
 }
