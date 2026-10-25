@@ -106972,7 +106972,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5985,
+    "exp": 6000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132676,11 +132676,12 @@
   "6282327805620": {
     "jid": "6282327805620",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "name": "fitrahtama3",
-    "lastSeen": "2026-10-25T09:30:44.155Z",
+    "lastSeen": "2026-10-25T09:31:23.910Z",
     "cooldowns": {
-      "menu": 1792920646085
+      "menu": 1792920646085,
+      "owner": 1792920685178
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
