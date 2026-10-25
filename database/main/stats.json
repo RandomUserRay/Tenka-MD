@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 140655,
+  "commandsExecuted": 140656,
   "command_totalchat": 26,
   "command_menu": 2398,
   "command_fb": 22,
@@ -217,7 +217,7 @@
   "command_stopbcgc": 7,
   "command_anticulik": 2,
   "command_mutegc": 289,
-  "command_unmutegc": 261,
+  "command_unmutegc": 262,
   "command_antilinkall": 12,
   "command_lottie": 5,
   "command_autoread": 6,
@@ -308,7 +308,7 @@
   "command_info": 13,
   "command_profile": 705,
   "command_afk": 4593,
-  "command_iqc": 295,
+  "command_iqc": 294,
   "command_femboy": 3028,
   "command_anj": 45,
   "command_gay": 820,
@@ -1455,5 +1455,6 @@
   "command_pay": 1,
   "command_addrole": 26,
   "command_delrole": 14,
-  "command_supermario": 1
+  "command_supermario": 1,
+  "command_mario": 1
 }
