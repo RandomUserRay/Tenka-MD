@@ -34214,8 +34214,8 @@
         "name": "Sins keren"
       },
       "6287794785404@s.whatsapp.net": {
-        "count": 166,
-        "lastChat": 1792905716358,
+        "count": 167,
+        "lastChat": 1792905759978,
         "name": "Озорной свет"
       },
       "6287794785386@s.whatsapp.net": {
@@ -48823,8 +48823,8 @@
   "120363429068992091@g.us": {
     "chatStats": {
       "6289675477260@s.whatsapp.net": {
-        "count": 63,
-        "lastChat": 1792905753574,
+        "count": 65,
+        "lastChat": 1792905767145,
         "name": "Seller Soviet (ayx)"
       },
       "6281374953937@s.whatsapp.net": {
@@ -48893,8 +48893,8 @@
         "name": "￶\n‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍"
       },
       "6281299717504@s.whatsapp.net": {
-        "count": 2,
-        "lastChat": 1792905748674,
+        "count": 4,
+        "lastChat": 1792905764634,
         "name": "~dn"
       },
       "628213146085@s.whatsapp.net": {
@@ -48921,6 +48921,11 @@
         "count": 1,
         "lastChat": 1792905737122,
         "name": "Rizky store"
+      },
+      "6289524141585@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1792905761149,
+        "name": "Zaky"
       }
     },
     "jid": "120363429068992091@g.us",
@@ -48936,6 +48941,9 @@
       ]
     },
     "antitoxic": true,
-    "toxicMaxWarn": 5
+    "toxicMaxWarn": 5,
+    "toxicWarns": {
+      "6289691978119@s.whatsapp.net": 1
+    }
   }
 }
