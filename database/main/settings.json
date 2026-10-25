@@ -29506,6 +29506,16 @@
         "21:00_2026-10-24": true
       },
       "createdAt": 1791642015980
+    },
+    "6285717515172@s.whatsapp.net_120363411803532547@g.us": {
+      "sender": "6285717515172@s.whatsapp.net",
+      "chatJid": "120363411803532547@g.us",
+      "jadwal": [
+        "22:00"
+      ],
+      "enabled": true,
+      "lastSent": {},
+      "createdAt": 1792887851900
     }
   },
   "jedaBcgc": 10000,
