@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725471,
+    "exp": 725426,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27415,
+    "exp": 27430,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -106326,7 +106326,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55245,
+    "exp": 55260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,14 +106336,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T07:21:28.215Z",
+    "lastSeen": "2026-10-25T09:12:59.020Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
       "menucat": 1792887464749,
       "tebakgambar": 1788623686903,
       "close": 1792905157167,
-      "open": 1790092181384,
+      "open": 1792919579724,
       "bratbahlil": 1788623947058,
       "mutegc": 1792888470191,
       "game": 1789007890139,
@@ -128400,7 +128400,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64061,
+    "exp": 64136,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -128530,7 +128530,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6829,
+    "exp": 6979,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -130159,7 +130159,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400740930,
+    "exp": 19400740705,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:51:33.482Z",
@@ -132105,7 +132105,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5010,
+    "exp": 5025,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132388,11 +132388,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132407,6 +132402,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132620,7 +132620,7 @@
   "6282171984134": {
     "jid": "6282171984134",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "628137877605": {
     "jid": "628137877605",
