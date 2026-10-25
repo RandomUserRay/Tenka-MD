@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70518,
+    "exp": 70548,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725471,
+    "exp": 725516,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -16183,10 +16183,10 @@
     "jid": "6285753061976",
     "name": "antinous",
     "number": "6285753061976",
-    "energi": 99985,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398567,
+    "exp": 9398582,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16195,11 +16195,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T10:17:06.713Z",
+    "lastSeen": "2026-10-25T12:11:30.820Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1792920917211,
+      "play": 1792930304744,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1791106575382,
@@ -35936,7 +35936,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035827,
+    "exp": 1035872,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -87560,7 +87560,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97249,7 +97249,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45878,
+    "exp": 45908,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -113196,7 +113196,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26475,
+    "exp": 26460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130201,7 +130201,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400741230,
+    "exp": 19400741305,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:51:33.482Z",
@@ -131160,7 +131160,7 @@
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
-    "exp": 765,
+    "exp": 810,
     "energi": 99999,
     "name": "καιρoc",
     "lastSeen": "2026-10-23T05:33:58.160Z",
@@ -131318,7 +131318,7 @@
   "6282391934985": {
     "jid": "6282391934985",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "energi": 99999
   },
   "6285874001008": {
@@ -132455,10 +132455,15 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
-    "exp": 75
+    "exp": 60
   },
   "6285861173971": {
     "jid": "6285861173971",
@@ -132469,11 +132474,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132953,6 +132953,18 @@
     "rpg": {},
     "exp": 15
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132972,22 +132984,5 @@
     "jid": "6285121387713",
     "rpg": {},
     "exp": 15
-  },
-  "6287848386982": {
-    "jid": "6287848386982",
-    "rpg": {},
-    "exp": 45
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
   }
 }
