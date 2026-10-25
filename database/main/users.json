@@ -106353,7 +106353,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57405,
+    "exp": 57435,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132030,7 +132030,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 13270,
+    "exp": 13285,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
@@ -133027,10 +133027,17 @@
   "6282273884550": {
     "jid": "6282273884550",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "62895402337876": {
     "jid": "62895402337876",
+    "rpg": {},
+    "exp": 60,
+    "name": "dikaa",
+    "lastSeen": "2026-10-25T13:48:20.958Z"
+  },
+  "62895393567340": {
+    "jid": "62895393567340",
     "rpg": {},
     "exp": 15
   }
