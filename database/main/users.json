@@ -69206,7 +69206,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14287,
+    "exp": 14302,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -69294,11 +69294,7 @@
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791460796698
-      }
+      "attack": 10
     },
     "inventory": {
       "rock": 11,
@@ -102890,7 +102886,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36676,
+    "exp": 36691,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131613,7 +131609,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1560,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T05:36:44.777Z",
     "cooldowns": {
