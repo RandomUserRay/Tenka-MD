@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:53:38.341Z",
+    "lastSeen": "2026-10-25T08:54:26.670Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000248009,
+    "exp": 1009000248159,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -837,7 +837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 70218,
+    "exp": 70263,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -846,10 +846,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T11:01:29.161Z",
+    "lastSeen": "2026-10-25T08:54:12.676Z",
     "cooldowns": {
       "cekfemboy": 1790085613826,
-      "femboy": 1792839690720,
+      "femboy": 1792918455021,
       "cektsundere": 1789202276293,
       "profile": 1782894163242,
       "mulung": 1780122328854,
@@ -901,8 +901,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 5
   },
   "6287742675049": {
     "jid": "6287742675049",
@@ -3106,7 +3106,7 @@
     "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725216,
+    "exp": 725231,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3539,7 +3539,7 @@
     "energi": 99957,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436460,
+    "exp": 436505,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
@@ -3548,9 +3548,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:52:29.761Z",
+    "lastSeen": "2026-10-25T08:54:33.196Z",
     "cooldowns": {
-      "femboy": 1792918244089,
+      "femboy": 1792918474929,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -3570,7 +3570,7 @@
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1792918052952,
+      "gay": 1792918434280,
       "gacha": 1792909679123,
       "vote": 1781354632085,
       "sleep": 1782792781563,
@@ -3619,7 +3619,8 @@
       "list": 1790758677447,
       "ship": 1792918351440,
       "pasangan": 1792839640688,
-      "lucky": 1792909680853
+      "lucky": 1792909680853,
+      "cekganteng": 1792918449764
     },
     "clanId": null,
     "isRegistered": false,
@@ -4524,7 +4525,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235580,
+    "exp": 235595,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -4533,12 +4534,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-23T18:56:20.808Z",
+    "lastSeen": "2026-10-25T08:54:20.901Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1783059978077,
       "wink": 1780907705515,
-      "femboy": 1792690451954,
+      "femboy": 1792918462753,
       "luck": 1782892514957,
       "profile": 1782894145671,
       "cektsundere": 1785417747008,
@@ -4579,8 +4580,8 @@
     "access": [],
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 13
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 14
   },
   "6287860834638": {
     "jid": "6287860834638",
@@ -131870,7 +131871,7 @@
   "6289531532253": {
     "jid": "6289531532253",
     "rpg": {},
-    "exp": 105
+    "exp": 90
   },
   "6281274396980": {
     "jid": "6281274396980",
@@ -132387,6 +132388,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132401,11 +132407,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
