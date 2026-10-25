@@ -3539,7 +3539,7 @@
     "energi": 99953,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436898,
+    "exp": 436883,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -35927,19 +35927,19 @@
     "jid": "6282131144804",
     "name": "raditt maendraa",
     "number": "6282131144804",
-    "energi": 100005,
+    "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1032172,
+    "exp": 1035182,
     "level": 1,
-    "koin": 5794876,
+    "koin": 5795545,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:24:45.447Z",
+    "lastSeen": "2026-10-25T11:27:23.371Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36017,7 +36017,7 @@
       "tebaklirik": 1783780020469,
       "bratvid": 1783789087625,
       "bratvermeil": 1784468267607,
-      "riddle": 1792927487014,
+      "riddle": 1792927524777,
       "menucat": 1792678811539,
       "system": 1784299609834,
       "maling": 1784166618674,
@@ -36026,7 +36026,7 @@
       "casino": 1789917400909,
       "berburu": 1784246918065,
       "hunt": 1783781334100,
-      "bank": 1790250755224,
+      "bank": 1792927601379,
       "ngemis": 1784335021442,
       "saldo": 1789917366301,
       "work": 1788077073124,
@@ -36084,7 +36084,7 @@
       "gojek": 1783845876898,
       "koin": 1783846668890,
       "mulung": 1784018640780,
-      "withdraw": 1783854925943,
+      "withdraw": 1792927614069,
       "buyenergi": 1783863034585,
       "tiktok": 1783892558073,
       "paket": 1784335086502,
@@ -36150,7 +36150,8 @@
       "baka": 1792581531597,
       "d": 1792678771479,
       "bug": 1792582414271,
-      "bego": 1792927241977
+      "bego": 1792927241977,
+      "judi": 1792927635319
     },
     "clanId": null,
     "isRegistered": false,
@@ -45585,7 +45586,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14646,
+    "exp": 14721,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -51072,12 +51073,12 @@
   },
   "62895339459494": {
     "jid": "62895339459494",
-    "name": ".",
+    "name": "🌱",
     "number": "62895339459494",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 169827,
+    "exp": 169872,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51086,7 +51087,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-05T13:59:46.660Z",
+    "lastSeen": "2026-10-25T11:27:02.935Z",
     "cooldowns": {
       "setwelcome": 1783697645757,
       "allmenu": 1783755546861,
@@ -51139,7 +51140,9 @@
       "slot": 1784333955696,
       "luck": 1784216296697,
       "rest": 1784334613191,
-      "training": 1784334400561
+      "training": 1784334400561,
+      "bodoh": 1792927587888,
+      "bego": 1792927623054
     },
     "clanId": null,
     "isRegistered": false,
@@ -51171,16 +51174,18 @@
     },
     "access": [],
     "lastStreamer": 1784335037153,
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289670776767": {
     "jid": "6289670776767",
     "name": "_;",
     "number": "6289670776767",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 831815,
+    "exp": 831860,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51189,7 +51194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-08T13:49:08.125Z",
+    "lastSeen": "2026-10-25T11:27:07.343Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -51258,7 +51263,7 @@
       "freelance": 1784469868370,
       "woodcut": 1783838981845,
       "heal": 1783856053446,
-      "rob": 1784467942723,
+      "rob": 1792927630096,
       "boss": 1783811455748,
       "berladang": 1784459128128,
       "deposit": 1783816355386,
@@ -51313,7 +51318,7 @@
       "maxHealth": 930,
       "maxMana": 515,
       "maxStamina": 515,
-      "health": 930,
+      "health": 905,
       "mana": 515,
       "stamina": 515,
       "bank": 0,
@@ -51386,8 +51391,8 @@
     "lastStreamer": 1784468050524,
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 4
   },
   "6288901803249": {
     "jid": "6288901803249",
@@ -51396,7 +51401,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 607682,
+    "exp": 607727,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -51407,7 +51412,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:21:16.248Z",
+    "lastSeen": "2026-10-25T11:26:50.550Z",
     "cooldowns": {
       "cekganteng": 1783765319127,
       "cekpintar": 1783765326047,
@@ -51450,7 +51455,7 @@
       "pakustad": 1783779975151,
       "pins": 1783765858375,
       "artinama": 1783766279576,
-      "riddle": 1785492704014,
+      "riddle": 1792927574414,
       "siapakahaku": 1783766601493,
       "level": 1784173253362,
       "tebaktebakan": 1785492660678,
@@ -51459,7 +51464,7 @@
       "maling": 1784159721978,
       "casino": 1789917375918,
       "berburu": 1784259960220,
-      "bank": 1784205637221,
+      "bank": 1792927610648,
       "hunt": 1783787759527,
       "ngemis": 1784207325499,
       "work": 1784467767599,
@@ -97231,7 +97236,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45818,
+    "exp": 45788,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -103320,7 +103325,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38716,
+    "exp": 38731,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125737,10 +125742,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 4950,
+    "exp": 5010,
     "energi": 99999,
     "name": "lulaa",
-    "lastSeen": "2026-10-25T11:23:25.729Z",
+    "lastSeen": "2026-10-25T11:27:09.164Z",
     "cooldowns": {
       "s": 1790065871832,
       "anj": 1789916189343,
@@ -125756,7 +125761,7 @@
       "puki": 1789916609794,
       "asahotak": 1789916659241,
       "babi": 1789916722497,
-      "ganteng": 1789916735633,
+      "ganteng": 1792927629231,
       "cantik": 1789917220947,
       "keren": 1792927209909,
       "bego": 1789916845489,
@@ -125769,7 +125774,8 @@
       "tanyaustad": 1789917459578,
       "play": 1790251123455,
       "cupu": 1792927350389,
-      "tebakgambar": 1792927407395
+      "tebakgambar": 1792927407395,
+      "riddle": 1792927574181
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 5
@@ -128552,7 +128558,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10339,
+    "exp": 10564,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129241,7 +129247,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 5655,
+    "exp": 5685,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -129865,7 +129871,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 1590,
+    "exp": 1635,
     "energi": 99999
   },
   "6282190237811": {
@@ -131905,7 +131911,7 @@
   "6289531532253": {
     "jid": "6289531532253",
     "rpg": {},
-    "exp": 375
+    "exp": 435
   },
   "6281274396980": {
     "jid": "6281274396980",
@@ -132058,7 +132064,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11560,
+    "exp": 11575,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -132434,11 +132440,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132453,6 +132454,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132830,7 +132836,7 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 1005
+    "exp": 1035
   },
   "6285691372035": {
     "jid": "6285691372035",
