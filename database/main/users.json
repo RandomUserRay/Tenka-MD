@@ -16183,10 +16183,10 @@
     "jid": "6285753061976",
     "name": "antinous",
     "number": "6285753061976",
-    "energi": 99987,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398312,
+    "exp": 9398282,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16195,7 +16195,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:35:07.218Z",
+    "lastSeen": "2026-10-25T09:34:30.138Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -36766,7 +36766,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 230645,
+    "exp": 230630,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -36775,7 +36775,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:35:04.618Z",
+    "lastSeen": "2026-09-30T07:18:16.676Z",
     "cooldowns": {
       "femboy": 1784282624511,
       "d": 1784202630407,
@@ -106360,7 +106360,7 @@
       "sticker": 1788678158238,
       "antispam": 1792887396360,
       "admin": 1788766651427,
-      "play": 1792920906372,
+      "play": 1792920852208,
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
@@ -106972,7 +106972,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6150,
+    "exp": 6165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128532,7 +128532,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 7429,
+    "exp": 7414,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -132393,6 +132393,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132407,11 +132412,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
