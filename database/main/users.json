@@ -106326,7 +106326,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55815,
+    "exp": 55830,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,7 +106336,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:37:10.917Z",
+    "lastSeen": "2026-10-25T09:37:30.715Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 64571,
+    "exp": 64586,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T07:53:03.304Z",
@@ -131749,10 +131749,10 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-25T09:31:56.808Z",
+    "lastSeen": "2026-10-25T09:37:39.536Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 1080,
+    "exp": 1110,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -131761,7 +131761,8 @@
       "h": 1792909304963,
       "asupan": 1792920587587,
       "ukhty": 1792920633804,
-      "asupantiktok": 1792920704421
+      "asupantiktok": 1792920704421,
+      "del": 1792921059687
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
