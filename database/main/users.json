@@ -106323,10 +106323,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55440,
+    "exp": 55455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106336,7 +106336,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:29:25.507Z",
+    "lastSeen": "2026-10-25T09:29:47.300Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -106403,7 +106403,8 @@
       "goodbye": 1792887766167,
       "setgoodbye": 1792887789891,
       "antiphising": 1792887832938,
-      "benefitpremium": 1792907230105
+      "benefitpremium": 1792907230105,
+      "bocil": 1792920589999
     },
     "clanId": null,
     "isRegistered": false,
@@ -131747,20 +131748,21 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-25T09:28:58.630Z",
+    "lastSeen": "2026-10-25T09:29:43.839Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 705,
+    "exp": 720,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
       "setwelcome": 1792855787538,
       "tebakbendera": 1792907108563,
-      "h": 1792909304963
+      "h": 1792909304963,
+      "asupan": 1792920587587
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
-    "energi": 99999
+    "energi": 99998
   },
   "62881011835206": {
     "jid": "62881011835206",
