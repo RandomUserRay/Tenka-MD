@@ -102883,13 +102883,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:36:07.629Z",
+    "lastSeen": "2026-10-25T03:36:16.059Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29193,
+    "exp": 29208,
     "level": 1,
     "koin": 45175,
     "saldo": 0,
@@ -102975,7 +102975,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 65,
+      "stamina": 55,
       "bank": 4074859,
       "health": 120,
       "maxHealth": 120,
@@ -131458,7 +131458,8 @@
     "exp": 402,
     "cooldowns": {
       "menu": 1792899179011,
-      "me": 1792899253078
+      "me": 1792899253078,
+      "work": 1792899374732
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
