@@ -306,7 +306,7 @@
   "command_antispam": 352,
   "command_randomtrap": 58,
   "command_info": 13,
-  "command_profile": 703,
+  "command_profile": 704,
   "command_afk": 4579,
   "command_iqc": 292,
   "command_femboy": 2986,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 24,
+  "command_addrole": 23,
   "command_delrole": 11
 }
