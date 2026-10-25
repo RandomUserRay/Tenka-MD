@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T07:33:25.878Z",
+    "lastSeen": "2026-10-25T07:30:07.586Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000242159,
+    "exp": 1009000242009,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -148,6 +148,12 @@
         "color": "#FFD1DC",
         "emoji": "🌸",
         "description": "Femboy bgt sayang~"
+      },
+      {
+        "name": "Cowo Kool",
+        "color": "#99FFFF",
+        "emoji": "🥶",
+        "description": "Kool banget gw orang nya jirr"
       }
     ],
     "customRoleColor": "",
@@ -6433,7 +6439,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37396,
+    "exp": 37441,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -98999,7 +99005,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15840,
+    "exp": 15855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102886,13 +102892,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T07:32:54.713Z",
+    "lastSeen": "2026-10-25T07:21:52.090Z",
     "jid": "628981194866",
     "number": "628981194866",
-    "energi": 99990,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37186,
+    "exp": 37156,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102906,7 +102912,7 @@
       "afk": 1792912913293,
       "d": 1792905230951,
       "mutegc": 1788165687980,
-      "ytmp4": 1792913588717,
+      "ytmp4": 1791286295831,
       "me": 1789226230570,
       "kerja": 1788529582360,
       "gojek": 1792899349892,
@@ -126821,23 +126827,23 @@
     "activeDays": 1
   },
   "6281348491234": {
-    "name": "kvicha",
-    "lastSeen": "2026-10-24T04:40:10.537Z",
+    "name": "Khivcha",
+    "lastSeen": "2026-10-25T07:33:26.107Z",
     "jid": "6281348491234",
     "rpg": {},
-    "exp": 345,
+    "exp": 375,
     "cooldowns": {
       "menu": 1790928798872,
       "menucat": 1790928799755,
-      "play": 1792816821456,
+      "play": 1792913594201,
       "tt": 1792480415494,
       "ttmp3": 1792480425068,
       "s": 1792494017841,
       "smeme": 1792494031591
     },
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 5,
-    "energi": 99999
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 6,
+    "energi": 99998
   },
   "6285188774905": {
     "jid": "6285188774905",
@@ -130112,8 +130118,15 @@
   "6282374575939": {
     "jid": "6282374575939",
     "rpg": {},
-    "exp": 180,
-    "energi": 99999
+    "exp": 195,
+    "energi": 99997,
+    "name": "Felicia Aurelia",
+    "lastSeen": "2026-10-25T07:33:15.673Z",
+    "cooldowns": {
+      "ytmp4": 1792913609434
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6282372443470": {
     "name": "~ 𝑫𝒊𝒏𝒅𝒖𝒕'𝒔",
@@ -130296,7 +130309,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11850,
+    "exp": 11865,
     "cooldowns": {
       "menu": 1792315462935
     },
@@ -131932,6 +131945,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131946,11 +131964,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 435
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
