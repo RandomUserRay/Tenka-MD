@@ -29217,10 +29217,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99986,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299531,
+    "exp": 299546,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29231,7 +29231,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:34:38.107Z",
+    "lastSeen": "2026-10-25T14:35:08.372Z",
     "cooldowns": {
       "menu": 1792882811418,
       "allmenu": 1792881984003,
@@ -29245,7 +29245,7 @@
       "bratanime": 1782808622034,
       "wm": 1791512866776,
       "autoreply": 1785061310347,
-      "tembak": 1782838951748,
+      "tembak": 1792938908437,
       "h": 1792900996342,
       "susunkata": 1782842179124,
       "tebakkata": 1782820849961,
@@ -29429,9 +29429,10 @@
     },
     "access": [],
     "fun": {
-      "tembakCount": 2,
+      "tembakCount": 3,
       "jadiPacar": 1782822063008,
-      "terimaCount": 1
+      "terimaCount": 1,
+      "tembakTarget": "6282142632981@s.whatsapp.net"
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
@@ -48575,7 +48576,8 @@
     "saldo": 0,
     "lastActiveDate": "25/10/2026",
     "activeDays": 35,
-    "birthday": "31-03"
+    "birthday": "31-03",
+    "fun": {}
   },
   "6287732757354": {
     "jid": "6287732757354",
@@ -132039,7 +132041,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 14380,
+    "exp": 14395,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T14:24:33.843Z",
     "cooldowns": {
