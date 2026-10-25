@@ -506,7 +506,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612798,
+    "exp": 117612768,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -515,10 +515,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T09:00:07.695Z",
+    "lastSeen": "2026-10-25T08:58:48.471Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
-      "femboy": 1792918809643,
+      "femboy": 1792918730260,
       "cektsundere": 1783059729109,
       "profile": 1782621811613,
       "rob": 1782622086614,
@@ -128530,7 +128530,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 6649,
+    "exp": 6664,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -132388,11 +132388,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132407,6 +132402,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
