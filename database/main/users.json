@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000246809,
+    "exp": 1009000246734,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -29200,7 +29200,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299216,
+    "exp": 299246,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -71530,21 +71530,21 @@
   },
   "6282135836023": {
     "jid": "6282135836023",
-    "name": "Adolf",
+    "name": "Shin🪻",
     "number": "6282135836023",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1140,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792917505133,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:38:24.764Z",
+    "lastSeen": "2026-10-24T11:01:53.253Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -71555,17 +71555,14 @@
       "femboy": 1792147863239,
       "cektsundere": 1790685022546,
       "gay": 1790758603763,
-      "gacha": 1792839713475,
-      "me": 1792917507281
+      "gacha": 1792839713475
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {
-      "level": 1
-    },
+    "rpg": {},
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -71573,8 +71570,8 @@
       "pasangan": "6282135848247@s.whatsapp.net",
       "jadiPacar": 1790509221141
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 7
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 6
   },
   "6285753958897": {
     "jid": "6285753958897",
@@ -97224,7 +97221,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45758,
+    "exp": 45728,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -130150,7 +130147,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400738905,
+    "exp": 19400738830,
     "energi": 99993,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T08:27:49.931Z",
@@ -132242,7 +132239,7 @@
   "6281299717504": {
     "jid": "6281299717504",
     "rpg": {},
-    "exp": 240
+    "exp": 270
   },
   "628213146085": {
     "name": ".",
@@ -132379,11 +132376,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132398,6 +132390,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132673,7 +132670,7 @@
   "6282148841533": {
     "jid": "6282148841533",
     "rpg": {},
-    "exp": 135,
+    "exp": 195,
     "name": "aku terbaik orang di duni",
     "lastSeen": "2026-10-25T08:33:47.319Z"
   },
@@ -132710,6 +132707,6 @@
   "6285717577844": {
     "jid": "6285717577844",
     "rpg": {},
-    "exp": 15
+    "exp": 75
   }
 }
