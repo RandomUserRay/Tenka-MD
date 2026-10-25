@@ -49,16 +49,6 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
-      "at": 1792939016328
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1792939005498
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
       "at": 1792938990421
     },
     {
@@ -295,6 +285,16 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789820223342
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
+      "at": 1789820218659
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.updateKoin is not a function",
+      "at": 1789819103269
     }
   ],
   "jpmBlacklist": [],
@@ -30158,6 +30158,10 @@
     "6285651060267@s.whatsapp.net": {
       "jid": "6285651060267@s.whatsapp.net",
       "name": "Raihan"
+    },
+    "6283138281728@s.whatsapp.net": {
+      "jid": "6283138281728@s.whatsapp.net",
+      "name": "zaka"
     }
   },
   "antiCall": false,
