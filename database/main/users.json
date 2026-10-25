@@ -110676,12 +110676,12 @@
   },
   "6282264323205": {
     "jid": "6282264323205",
-    "name": "Unknown",
+    "name": "xno",
     "number": "6282264323205",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60,
+    "exp": 75,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110691,8 +110691,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-07T13:23:31.632Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-25T00:32:18.041Z",
+    "cooldowns": {
+      "afk": 1792888340131
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -110700,7 +110702,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6285725270491": {
     "jid": "6285725270491",
