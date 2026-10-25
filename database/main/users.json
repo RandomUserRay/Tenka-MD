@@ -127619,7 +127619,7 @@
       },
       "expeditions": []
     },
-    "exp": 196167,
+    "exp": 196182,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1792888576051,
@@ -131475,5 +131475,18 @@
     "registeredAt": 1792899251718,
     "koin": 4367,
     "energi": 24
+  },
+  "62895321723163": {
+    "name": "andika",
+    "lastSeen": "2026-10-25T03:40:50.889Z",
+    "jid": "62895321723163",
+    "rpg": {},
+    "exp": 1226,
+    "cooldowns": {
+      "gacha": 1792899650978
+    },
+    "energi": 24,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   }
 }
