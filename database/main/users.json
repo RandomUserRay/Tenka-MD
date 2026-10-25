@@ -102889,7 +102889,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36261,
+    "exp": 36276,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127537,7 +127537,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2190,
+    "exp": 2205,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129483,11 +129483,15 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "energi": 99998,
     "name": "EQUINOX",
     "lastSeen": "2026-10-25T05:30:25.606Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1792906241860
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289677741067": {
     "jid": "6289677741067",
@@ -131504,21 +131508,21 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T05:25:07.698Z",
+    "lastSeen": "2026-10-25T05:30:45.152Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 63,
+      "stamina": 53,
       "luck": 9,
       "health": 105,
       "mana": 53,
       "bank": 46108
     },
-    "exp": 4466,
+    "exp": 6575,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
-      "work": 1792899967585,
+      "work": 1792906248564,
       "gacha": 1792904965736,
       "tt": 1792899725524,
       "judi": 1792904974308,
@@ -131540,7 +131544,7 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 549,
+    "koin": 21489,
     "energi": 4,
     "clanId": "Kit Community"
   },
