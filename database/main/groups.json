@@ -48607,8 +48607,8 @@
   "120363411803532547@g.us": {
     "chatStats": {
       "6285717515172@s.whatsapp.net": {
-        "count": 30,
-        "lastChat": 1792887766126,
+        "count": 31,
+        "lastChat": 1792887789838,
         "name": "Thiryzty X Wanzty"
       },
       "6285773870018@s.whatsapp.net": {
@@ -48655,6 +48655,7 @@
     "antispam": "on",
     "antitoxic": true,
     "goodbye": true,
-    "leave": true
+    "leave": true,
+    "goodbyeMsg": "anjir lah gua dah cape ngepush lu malah keluar bangsat"
   }
 }
