@@ -131460,9 +131460,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5410,
+    "exp": 5425,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T04:10:37.986Z",
+    "lastSeen": "2026-10-25T04:10:52.907Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792901367225,
@@ -131492,14 +131492,16 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T04:01:27.637Z",
+    "lastSeen": "2026-10-25T04:11:01.701Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 6,
-      "luck": 9
+      "stamina": 63,
+      "luck": 9,
+      "health": 105,
+      "mana": 53
     },
-    "exp": 3641,
+    "exp": 3671,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131508,7 +131510,7 @@
       "tt": 1792899725524,
       "judi": 1792899861365,
       "training": 1792900175273,
-      "gojek": 1792900890830,
+      "gojek": 1792901448451,
       "topkoin": 1792900040941,
       "menucat": 1792900294634,
       "clanleaderboard": 1792900605242,
@@ -131520,7 +131522,7 @@
     "activeDays": 1,
     "registeredAt": 1792899251718,
     "koin": 45661,
-    "energi": 15,
+    "energi": 14,
     "clanId": "Kit Community"
   },
   "62895321723163": {
