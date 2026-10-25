@@ -28787,7 +28787,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299171,
+    "exp": 299201,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -105883,7 +105883,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54840,
+    "exp": 54855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -112334,7 +112334,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 239132,
+    "exp": 239147,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127535,7 +127535,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2355,
+    "exp": 2385,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -131434,7 +131434,7 @@
   "6288213862856": {
     "jid": "6288213862856",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6288994319081": {
     "jid": "6288994319081",
@@ -131480,7 +131480,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 6745,
+    "exp": 6760,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T05:27:31.608Z",
     "cooldowns": {
@@ -131892,5 +131892,10 @@
     "jid": "6285861173971",
     "rpg": {},
     "exp": 90
+  },
+  "6285180006356": {
+    "jid": "6285180006356",
+    "rpg": {},
+    "exp": 75
   }
 }
