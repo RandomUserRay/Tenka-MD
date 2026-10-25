@@ -1223,7 +1223,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2535,
+    "exp": 2520,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3220,8 +3220,8 @@
       "stamina": 460,
       "maxStamina": 460,
       "bank": 3681411,
-      "spouse": "628981194866@s.whatsapp.net",
-      "marriedAt": 1788533040955
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "botol": 13,
@@ -102883,15 +102883,15 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:36:24.316Z",
+    "lastSeen": "2026-10-25T03:39:34.962Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 100001,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31653,
+    "exp": 31818,
     "level": 1,
-    "koin": 1800,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102901,7 +102901,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792806419535,
-      "d": 1792898941800,
+      "d": 1792899511870,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -102909,7 +102909,7 @@
       "gojek": 1792899349892,
       "kurir": 1792899356614,
       "ngemis": 1792899370710,
-      "bank": 1792899386680,
+      "bank": 1792899577603,
       "maling": 1789472940562,
       "menu": 1792899024720,
       "menucat": 1790422535408,
@@ -102920,7 +102920,7 @@
       "cook": 1788529637356,
       "mulung": 1789472965005,
       "steal": 1788530372913,
-      "marry": 1788529760015,
+      "marry": 1792899526721,
       "tidur": 1788530379882,
       "work": 1792899335508,
       "streamer": 1789472872641,
@@ -102967,7 +102967,8 @@
       "p": 1792898823086,
       "tt": 1790862716539,
       "lirik": 1791029789229,
-      "cekganteng": 1792300837617
+      "cekganteng": 1792300837617,
+      "cerai": 1792899550628
     },
     "clanId": null,
     "isRegistered": false,
@@ -102976,7 +102977,7 @@
     "regGender": null,
     "rpg": {
       "stamina": 115,
-      "bank": 4124954,
+      "bank": 4101754,
       "health": 130,
       "maxHealth": 130,
       "mana": 115,
@@ -102984,8 +102985,8 @@
       "maxMana": 115,
       "maxStamina": 115,
       "luck": 20,
-      "spouse": "6285240302212@s.whatsapp.net",
-      "marriedAt": 1788533040955
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {
       "botol": 23,
