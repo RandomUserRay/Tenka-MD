@@ -1612,10 +1612,10 @@
     "jid": "6285811674575",
     "name": "kirafkasuw",
     "number": "6285811674575",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314202,
+    "exp": 314172,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1624,7 +1624,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:01:15.483Z",
+    "lastSeen": "2026-10-21T06:09:48.511Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -1727,14 +1727,14 @@
       "bratcewek": 1783611750541,
       "toimage": 1783611754526,
       "lirik": 1783615422365,
-      "croptop": 1792900893756,
+      "croptop": 1784467687912,
       "tofigure": 1784360578492,
       "tonaked": 1784360774096,
       "naked": 1792562992013,
       "croptopbikini": 1784469702320,
       "cekfemboy": 1791849449857,
       "cekganteng": 1791848858635,
-      "bikini": 1792900845868
+      "bikini": 1792562892836
     },
     "clanId": null,
     "isRegistered": false,
@@ -1831,8 +1831,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "21/10/2026",
+    "activeDays": 9
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -102883,15 +102883,15 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:58:51.172Z",
+    "lastSeen": "2026-10-25T04:01:15.001Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35106,
+    "exp": 35271,
     "level": 1,
-    "koin": 4086956,
+    "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -102909,7 +102909,7 @@
       "gojek": 1792899349892,
       "kurir": 1792900005044,
       "ngemis": 1792899370710,
-      "bank": 1792900402755,
+      "bank": 1792900876795,
       "maling": 1789472940562,
       "menu": 1792900267477,
       "menucat": 1790422535408,
@@ -102971,7 +102971,8 @@
       "cerai": 1792899550628,
       "clancreate": 1792900491006,
       "clanjoin": 1792900731236,
-      "clan": 1792900703048
+      "clan": 1792900796014,
+      "claninvite": 1792900822386
     },
     "clanId": "KIT",
     "isRegistered": false,
@@ -102980,7 +102981,7 @@
     "regGender": null,
     "rpg": {
       "stamina": 46,
-      "bank": 0,
+      "bank": 4086956,
       "health": 130,
       "maxHealth": 130,
       "mana": 115,
@@ -127536,7 +127537,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1605,
+    "exp": 1620,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129204,7 +129205,7 @@
   "6285722693315": {
     "jid": "6285722693315",
     "rpg": {},
-    "exp": 555,
+    "exp": 540,
     "energi": 99999
   },
   "6283179211339": {
@@ -129393,7 +129394,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 675,
+    "exp": 720,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T03:37:21.186Z",
@@ -129401,7 +129402,8 @@
       "tebakkata": 1792899441603
     },
     "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "clanId": "KIT"
   },
   "6282191896920": {
     "jid": "6282191896920",
@@ -130534,7 +130536,7 @@
     "lastSeen": "2026-10-21T11:20:59.269Z",
     "jid": "6288271435378",
     "rpg": {},
-    "exp": 270,
+    "exp": 225,
     "energi": 99999
   },
   "62881012149927": {
@@ -131103,7 +131105,7 @@
   "6285742958321": {
     "jid": "6285742958321",
     "rpg": {},
-    "exp": 150,
+    "exp": 135,
     "energi": 99999
   },
   "6289530235726": {
@@ -131451,19 +131453,19 @@
   "6283188010317": {
     "jid": "6283188010317",
     "rpg": {
-      "stamina": 38,
+      "stamina": 13,
       "bank": 37262,
       "level": 1,
       "luck": 7
     },
-    "exp": 2974,
+    "exp": 5245,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:56:24.862Z",
+    "lastSeen": "2026-10-25T04:01:28.107Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792899964325,
-      "gojek": 1792899986241,
-      "work": 1792900001983,
+      "gojek": 1792900795022,
+      "work": 1792900891258,
       "bank": 1792900105129,
       "topkoin": 1792900043142,
       "topexp": 1792900051126,
@@ -131473,8 +131475,8 @@
       "menu": 1792900326882,
       "clanjoin": 1792900584991
     },
-    "energi": 21,
-    "koin": 0,
+    "energi": 20,
+    "koin": 27337,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792900111702,
@@ -131487,14 +131489,14 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:56:45.147Z",
+    "lastSeen": "2026-10-25T04:01:27.637Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
-      "stamina": 21,
+      "stamina": 6,
       "luck": 9
     },
-    "exp": 2946,
+    "exp": 3611,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131503,38 +131505,41 @@
       "tt": 1792899725524,
       "judi": 1792899861365,
       "training": 1792900175273,
-      "gojek": 1792900008831,
+      "gojek": 1792900890830,
       "topkoin": 1792900040941,
       "menucat": 1792900294634,
       "clanleaderboard": 1792900605242,
       "claninfo": 1792900374096,
-      "clanjoin": 1792900573619
+      "clanjoin": 1792900573619,
+      "guild": 1792900784435
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 33554,
-    "energi": 16,
+    "koin": 45661,
+    "energi": 15,
     "clanId": "Kit Community"
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T03:48:06.383Z",
+    "lastSeen": "2026-10-25T04:00:31.981Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 75
+      "stamina": 50,
+      "bank": 0
     },
-    "exp": 5094,
+    "exp": 7457,
     "cooldowns": {
       "gacha": 1792899650978,
       "judi": 1792899937016,
-      "work": 1792900047959,
-      "gojek": 1792900089573
+      "work": 1792900787312,
+      "gojek": 1792900762982,
+      "bank": 1792900832042
     },
-    "energi": 22,
+    "energi": 21,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "koin": 59791
+    "koin": 97701
   },
   "6289510621268": {
     "name": ".",
