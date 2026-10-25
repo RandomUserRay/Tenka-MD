@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:40:24.198Z",
+    "lastSeen": "2026-10-25T08:42:39.117Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000246959,
+    "exp": 1009000247109,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3539,16 +3539,16 @@
     "energi": 99971,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436175,
+    "exp": 436190,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1792917767719,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T07:27:35.165Z",
+    "lastSeen": "2026-10-25T08:42:47.438Z",
     "cooldowns": {
       "femboy": 1792909946219,
       "profile": 1792158310899,
@@ -3557,7 +3557,7 @@
       "profil": 1780487725718,
       "afk": 1792847745349,
       "rob": 1790499488685,
-      "me": 1790085329309,
+      "me": 1792917768748,
       "work": 1783060174370,
       "topixel": 1781183602489,
       "play": 1792851966100,
@@ -97295,7 +97295,21 @@
     "inventory": {},
     "access": [],
     "lastActiveDate": "25/10/2026",
-    "activeDays": 45
+    "activeDays": 45,
+    "customRoles": [
+      {
+        "name": "Cream",
+        "color": "#FFFAFA",
+        "emoji": "👑",
+        "description": "Ice Cream Hunter"
+      },
+      {
+        "name": "Ice Cream",
+        "color": "#FFFAFA",
+        "emoji": "🍦",
+        "description": "Ice Cream Hunter"
+      }
+    ]
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -132239,7 +132253,7 @@
   "6281299717504": {
     "jid": "6281299717504",
     "rpg": {},
-    "exp": 330
+    "exp": 315
   },
   "628213146085": {
     "name": ".",
@@ -132376,6 +132390,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132390,11 +132409,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132707,15 +132721,10 @@
   "6285717577844": {
     "jid": "6285717577844",
     "rpg": {},
-    "exp": 135
+    "exp": 105
   },
   "6285545251461": {
     "jid": "6285545251461",
-    "rpg": {},
-    "exp": 30
-  },
-  "6288704044037": {
-    "jid": "6288704044037",
     "rpg": {},
     "exp": 15
   }
