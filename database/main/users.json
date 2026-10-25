@@ -31073,10 +31073,10 @@
     "jid": "6283188364167",
     "name": "arinn",
     "number": "6283188364167",
-    "energi": 99995,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52704,
+    "exp": 52719,
     "level": 1,
     "koin": 24209,
     "unlockedFeatures": [],
@@ -31085,7 +31085,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T05:57:20.894Z",
+    "lastSeen": "2026-10-25T05:58:51.764Z",
     "cooldowns": {
       "bratimg": 1789183043939,
       "tt": 1792907843457,
@@ -102886,7 +102886,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37006,
+    "exp": 37021,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131882,5 +131882,10 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6282381293756": {
+    "jid": "6282381293756",
+    "rpg": {},
+    "exp": 15
   }
 }
