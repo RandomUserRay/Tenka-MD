@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T06:36:12.129Z",
+    "lastSeen": "2026-10-25T06:29:21.339Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000238784,
+    "exp": 1009000239084,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3095,10 +3095,10 @@
     "jid": "6285240302212",
     "name": "ㅤ",
     "number": "6285240302212",
-    "energi": 99998,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724421,
+    "exp": 724526,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3107,7 +3107,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T02:02:09.854Z",
+    "lastSeen": "2026-10-25T06:36:36.841Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3204,7 +3204,8 @@
       "terima": 1790422607894,
       "tembak": 1790422620349,
       "imut": 1792300822474,
-      "intro": 1792842563192
+      "intro": 1792842563192,
+      "ship": 1792910198543
     },
     "clanId": null,
     "isRegistered": false,
@@ -3527,10 +3528,10 @@
     "jid": "6282135848247",
     "name": "Cursed",
     "number": "6282135848247",
-    "energi": 99999,
+    "energi": 99978,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435182,
+    "exp": 436100,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
@@ -3539,9 +3540,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T14:25:46.385Z",
+    "lastSeen": "2026-10-25T06:37:03.281Z",
     "cooldowns": {
-      "femboy": 1792839769541,
+      "femboy": 1792909946219,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -3556,13 +3557,13 @@
       "slap": 1782457591965,
       "level": 1792839801511,
       "exp": 1781530053122,
-      "s": 1792785683420,
+      "s": 1792910011012,
       "ww": 1782477803290,
       "fishing": 1781599522855,
       "mining": 1782910236160,
       "training": 1781271134378,
-      "gay": 1792839513807,
-      "gacha": 1792839688491,
+      "gay": 1792909934611,
+      "gacha": 1792909679123,
       "vote": 1781354632085,
       "sleep": 1782792781563,
       "stamina": 1781530113920,
@@ -3600,7 +3601,7 @@
       "cantik": 1792839741177,
       "hytamkan": 1783508218400,
       "cekfemboy": 1790248808185,
-      "top": 1792668249075,
+      "top": 1792910044074,
       "cekcantik": 1790422485278,
       "tembak": 1790509148699,
       "judi": 1790422669748,
@@ -3608,9 +3609,9 @@
       "imut": 1790758652050,
       "ganteng": 1790758668448,
       "list": 1790758677447,
-      "ship": 1792839612853,
+      "ship": 1792910224514,
       "pasangan": 1792839640688,
-      "lucky": 1792839724269
+      "lucky": 1792909680853
     },
     "clanId": null,
     "isRegistered": false,
@@ -3642,8 +3643,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 19,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 20,
     "fun": {
       "tembakCount": 3,
       "ditolakCount": 1,
@@ -6427,12 +6428,12 @@
   },
   "6282289240908": {
     "jid": "6282289240908",
-    "name": "raivan",
+    "name": "repan",
     "number": "6282289240908",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37036,
+    "exp": 37381,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -6441,7 +6442,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-02T22:27:30.551Z",
+    "lastSeen": "2026-10-25T06:32:29.763Z",
     "cooldowns": {
       "work": 1780412137339,
       "profile": 1780401221131,
@@ -6460,7 +6461,7 @@
       "ww": 1780828838916,
       "gacha": 1780227400453,
       "bank": 1781701988875,
-      "femboy": 1781689602680,
+      "femboy": 1792909852200,
       "cekmesum": 1780229113342,
       "cekganteng": 1780229193793,
       "ceksisaumur": 1780229319361,
@@ -6477,7 +6478,8 @@
       "dare": 1781689837279,
       "steal": 1781702390716,
       "play": 1781702779460,
-      "villain": 1781951877246
+      "villain": 1781951877246,
+      "gay": 1792909950190
     },
     "clanId": null,
     "isRegistered": false,
@@ -6509,7 +6511,9 @@
       "pasangan": "6285374902276@s.whatsapp.net",
       "jadiPacar": 1780401358945,
       "terimaCount": 1
-    }
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6287870015210": {
     "jid": "6287870015210",
@@ -9471,10 +9475,10 @@
     "jid": "6283119584578",
     "name": "🍏🍏《《Изиэль 》》🍏🍏",
     "number": "6283119584578",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11280,
+    "exp": 11340,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9483,7 +9487,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-24T10:00:34.556Z",
+    "lastSeen": "2026-10-25T06:36:41.902Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9504,7 +9508,9 @@
       "femboy": 1792725206234,
       "cekcantik": 1792075443921,
       "cuntboyvid": 1792375901770,
-      "bdsmvid": 1792173844349
+      "bdsmvid": 1792173844349,
+      "top": 1792909995738,
+      "ship": 1792910203091
     },
     "clanId": null,
     "isRegistered": false,
@@ -9524,8 +9530,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 7
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 8
   },
   "6283164294513": {
     "jid": "6283164294513",
@@ -14046,7 +14052,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9271,
+    "exp": 9286,
     "level": 1,
     "koin": 5200,
     "unlockedFeatures": [],
@@ -22419,7 +22425,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29902,
+    "exp": 29932,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -31073,10 +31079,10 @@
     "jid": "6283188364167",
     "name": "arinn",
     "number": "6283188364167",
-    "energi": 99990,
+    "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52749,
+    "exp": 52734,
     "level": 1,
     "koin": 24209,
     "unlockedFeatures": [],
@@ -31085,10 +31091,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:35:06.779Z",
+    "lastSeen": "2026-10-25T06:15:41.025Z",
     "cooldowns": {
       "bratimg": 1789183043939,
-      "tt": 1792910114119,
+      "tt": 1792907935428,
       "ttmp3": 1792908945752,
       "tupai": 1788586937417,
       "play": 1788755784954,
@@ -33295,10 +33301,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99989,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 556309,
+    "exp": 556249,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33307,7 +33313,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:30:07.809Z",
+    "lastSeen": "2026-10-25T05:01:04.130Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33394,7 +33400,7 @@
       "mutegc": 1784802691539,
       "unmutegc": 1786147239263,
       "ai-chat": 1784384523181,
-      "p": 1792909438467,
+      "p": 1789889329552,
       "carifitur": 1784446282302,
       "donasi": 1784446294840,
       "leaderboard": 1784446337535,
@@ -33540,7 +33546,7 @@
       "list": 1788511747947,
       "swgc": 1791201505147,
       "play2": 1788777624419,
-      "pin": 1792909817305,
+      "pin": 1792904472587,
       "ganteng": 1789263677434,
       "cektsundere": 1789307169467,
       "tagall": 1789458983492,
@@ -45164,7 +45170,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12921,
+    "exp": 12801,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -77101,13 +77107,13 @@
   },
   "6282347918190": {
     "name": "pulz",
-    "lastSeen": "2026-10-23T14:11:05.838Z",
+    "lastSeen": "2026-10-25T06:31:24.222Z",
     "jid": "6282347918190",
     "number": "6282347918190",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6697,
+    "exp": 6727,
     "level": 1,
     "koin": 2494,
     "unlockedFeatures": [],
@@ -77144,7 +77150,7 @@
       "stiker": 1789563751026,
       "pin": 1789561407285,
       "swm": 1789563738987,
-      "yaoivid": 1792254324104,
+      "yaoivid": 1792909887056,
       "benefitpremium": 1792172344976,
       "cringevid": 1792166056744,
       "femboyvid": 1792172236860,
@@ -77162,8 +77168,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 11
   },
   "6285738067580": {
     "jid": "6285738067580",
@@ -96805,7 +96811,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45608,
+    "exp": 45623,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -96815,9 +96821,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:18:56.386Z",
+    "lastSeen": "2026-10-25T06:24:26.384Z",
     "cooldowns": {
-      "afk": 1792735134943,
+      "afk": 1792909469096,
       "play": 1792596085442,
       "smeme": 1792853066335,
       "s": 1792901938325,
@@ -98993,7 +98999,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15450,
+    "exp": 15645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99003,13 +99009,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T01:49:43.945Z",
+    "lastSeen": "2026-10-25T06:32:20.609Z",
     "cooldowns": {
       "play": 1792786906328,
       "menu": 1792446851178,
       "menucat": 1792446961081,
       "cekfemboy": 1792359895796,
-      "femboy": 1792892986533,
+      "femboy": 1792909942671,
       "s": 1792873304936,
       "cekganteng": 1792523499419,
       "cekcantik": 1792431427087,
@@ -102358,7 +102364,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1335,
+    "exp": 1350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105883,7 +105889,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55140,
+    "exp": 55050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105893,13 +105899,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:37:04.138Z",
+    "lastSeen": "2026-10-25T06:23:41.972Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
       "menucat": 1792887464749,
       "tebakgambar": 1788623686903,
-      "close": 1792910226144,
+      "close": 1792905157167,
       "open": 1790092181384,
       "bratbahlil": 1788623947058,
       "mutegc": 1792888470191,
@@ -122137,23 +122143,24 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 7785,
-    "energi": 99999,
+    "exp": 8160,
+    "energi": 99991,
     "name": "Garta",
-    "lastSeen": "2026-10-24T11:24:44.908Z",
+    "lastSeen": "2026-10-25T06:36:57.080Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792841085983,
-      "femboy": 1792839622878,
-      "ship": 1792668145175,
+      "femboy": 1792909870325,
+      "ship": 1792910218382,
       "love": 1792589235415,
       "bank": 1792589649372,
       "transfer": 1792589691151,
       "cekimut": 1792839680465,
-      "cekganteng": 1792668385492
+      "cekganteng": 1792668385492,
+      "top": 1792910110396
     },
-    "lastActiveDate": "24/10/2026",
-    "activeDays": 5,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 6,
     "koin": 10000000
   },
   "62882005686310": {
@@ -125409,10 +125416,10 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1170,
-    "energi": 99999,
-    "name": "save arnold",
-    "lastSeen": "2026-10-23T15:44:15.191Z",
+    "exp": 1275,
+    "energi": 99995,
+    "name": "yeas",
+    "lastSeen": "2026-10-25T06:36:52.007Z",
     "cooldowns": {
       "s": 1790081340356,
       "cekganteng": 1790509392925,
@@ -125421,10 +125428,12 @@
       "cekyandere": 1790215798603,
       "cekfemboy": 1790248315084,
       "cekcantik": 1790509404244,
-      "cekimut": 1790248360776
+      "cekimut": 1790248360776,
+      "top": 1792910048467,
+      "ship": 1792910186114
     },
-    "lastActiveDate": "23/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 6
   },
   "6285213335379": {
     "jid": "6285213335379",
@@ -127535,7 +127544,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2775,
+    "exp": 2730,
     "energi": 99998,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T06:22:26.940Z",
@@ -127944,7 +127953,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63641,
+    "exp": 63536,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T03:19:57.001Z",
@@ -128280,7 +128289,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17205,
+    "exp": 17190,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -128763,7 +128772,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 4350,
+    "exp": 4320,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -128898,7 +128907,7 @@
   "6283874532450": {
     "jid": "6283874532450",
     "rpg": {},
-    "exp": 645,
+    "exp": 630,
     "energi": 99999
   },
   "6285784825794": {
@@ -129393,7 +129402,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 2070,
+    "exp": 2055,
     "energi": 99992,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T05:53:59.324Z",
@@ -129703,14 +129712,14 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400735830,
-    "energi": 99999,
+    "exp": 19400737030,
+    "energi": 99993,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-25T01:01:53.787Z",
+    "lastSeen": "2026-10-25T06:33:19.811Z",
     "cooldowns": {
       "cekganteng": 1792839671604,
       "femboy": 1792840230406,
-      "top": 1792840802284,
+      "top": 1792910000278,
       "cekcantik": 1792840718148,
       "status": 1792059081248,
       "yurivid": 1792077675304,
@@ -129734,7 +129743,7 @@
       "money": 1792589543694,
       "mutegc": 1792588564426,
       "unmutegc": 1792588722934,
-      "ship": 1792727152172,
+      "ship": 1792909887921,
       "marry": 1792589195050,
       "divorce": 1792589207923,
       "transfer": 1792589658663,
@@ -130013,7 +130022,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 8595,
+    "exp": 8610,
     "name": "Ren🔱",
     "lastSeen": "2026-10-23T19:03:20.617Z",
     "cooldowns": {
@@ -131282,16 +131291,16 @@
   },
   "6288230518945": {
     "name": "wan dos santos junior",
-    "lastSeen": "2026-10-25T06:24:50.321Z",
+    "lastSeen": "2026-10-25T06:21:44.863Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 570,
+    "exp": 540,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
       "setwelcome": 1792855787538,
       "tebakbendera": 1792907108563,
-      "h": 1792909490424
+      "h": 1792909304963
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
@@ -131411,7 +131420,7 @@
   "6281274396980": {
     "jid": "6281274396980",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "name": "Sticknesian",
     "lastSeen": "2026-10-25T06:11:02.909Z",
     "cooldowns": {
@@ -131439,7 +131448,7 @@
   "628218185382": {
     "jid": "628218185382",
     "rpg": {},
-    "exp": 510,
+    "exp": 450,
     "name": "🤍nisaa🤍",
     "lastSeen": "2026-10-25T03:21:21.635Z",
     "cooldowns": {
@@ -131500,7 +131509,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 12910,
+    "exp": 12805,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
@@ -131552,7 +131561,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11260,
+    "exp": 11230,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131640,9 +131649,9 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 3270,
+    "exp": 2910,
     "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T06:24:54.382Z",
+    "lastSeen": "2026-10-25T06:20:57.899Z",
     "cooldowns": {
       "brat": 1792907863918,
       "menu": 1792908774802,
@@ -131731,7 +131740,7 @@
     "lastSeen": "2026-10-25T04:50:44.494Z",
     "jid": "6281248444142",
     "rpg": {},
-    "exp": 240,
+    "exp": 90,
     "cooldowns": {
       "ytmp4": 1792903853981
     },
@@ -131780,7 +131789,7 @@
   "6281299717504": {
     "jid": "6281299717504",
     "rpg": {},
-    "exp": 180
+    "exp": 135
   },
   "628213146085": {
     "name": ".",
@@ -131813,7 +131822,7 @@
   "62881011229731": {
     "jid": "62881011229731",
     "rpg": {},
-    "exp": 195
+    "exp": 180
   },
   "6285181526642": {
     "jid": "6285181526642",
@@ -131845,7 +131854,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 105
+    "exp": 45
   },
   "6285395891752": {
     "jid": "6285395891752",
@@ -131899,7 +131908,7 @@
   "6285526285214": {
     "jid": "6285526285214",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   },
   "6288242508192": {
     "name": "Rasya",
@@ -131914,6 +131923,11 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6282381293756": {
     "jid": "6282381293756",
@@ -131930,11 +131944,6 @@
     "rpg": {},
     "exp": 405
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6287894267928": {
     "jid": "6287894267928",
     "rpg": {},
@@ -131943,7 +131952,7 @@
   "6288214238966": {
     "jid": "6288214238966",
     "rpg": {},
-    "exp": 270
+    "exp": 135
   },
   "6282261381629": {
     "jid": "6282261381629",
@@ -131978,7 +131987,7 @@
   "628211376647": {
     "jid": "628211376647",
     "rpg": {},
-    "exp": 195
+    "exp": 180
   },
   "628214835012": {
     "jid": "628214835012",
@@ -131988,12 +131997,12 @@
   "6289673785321": {
     "jid": "6289673785321",
     "rpg": {},
-    "exp": 465
+    "exp": 390
   },
   "62895414487199": {
     "jid": "62895414487199",
     "rpg": {},
-    "exp": 135
+    "exp": 120
   },
   "6289635543766": {
     "jid": "6289635543766",
@@ -132028,77 +132037,10 @@
   "62895429296606": {
     "jid": "62895429296606",
     "rpg": {},
-    "exp": 45
+    "exp": 15
   },
   "6285791728864": {
     "jid": "6285791728864",
-    "rpg": {},
-    "exp": 135,
-    "name": "Hapiz",
-    "lastSeen": "2026-10-25T06:24:33.928Z"
-  },
-  "6282143483406": {
-    "jid": "6282143483406",
-    "rpg": {},
-    "exp": 90
-  },
-  "6283827880317": {
-    "jid": "6283827880317",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285137536714": {
-    "jid": "6285137536714",
-    "rpg": {},
-    "exp": 30
-  },
-  "6285693631138": {
-    "jid": "6285693631138",
-    "rpg": {},
-    "exp": 15
-  },
-  "628139422773": {
-    "jid": "628139422773",
-    "rpg": {},
-    "exp": 120
-  },
-  "6282371412324": {
-    "jid": "6282371412324",
-    "rpg": {},
-    "exp": 45
-  },
-  "6287722643911": {
-    "jid": "6287722643911",
-    "rpg": {},
-    "exp": 30
-  },
-  "62895421599995": {
-    "jid": "62895421599995",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285784225677": {
-    "jid": "6285784225677",
-    "rpg": {},
-    "exp": 90
-  },
-  "6283110893004": {
-    "jid": "6283110893004",
-    "rpg": {},
-    "exp": 15
-  },
-  "6288704502034": {
-    "jid": "6288704502034",
-    "rpg": {},
-    "exp": 15
-  },
-  "6283138512118": {
-    "jid": "6283138512118",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285890024239": {
-    "jid": "6285890024239",
     "rpg": {},
     "exp": 15
   }
