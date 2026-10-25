@@ -35930,7 +35930,7 @@
     "energi": 100005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1032172,
+    "exp": 1032232,
     "level": 1,
     "koin": 5794876,
     "unlockedFeatures": [],
@@ -35939,7 +35939,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:24:45.447Z",
+    "lastSeen": "2026-10-25T11:25:24.684Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36017,7 +36017,7 @@
       "tebaklirik": 1783780020469,
       "bratvid": 1783789087625,
       "bratvermeil": 1784468267607,
-      "riddle": 1792927487014,
+      "riddle": 1792927524777,
       "menucat": 1792678811539,
       "system": 1784299609834,
       "maling": 1784166618674,
@@ -45585,7 +45585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14646,
+    "exp": 14661,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -51180,7 +51180,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 831815,
+    "exp": 831830,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51396,7 +51396,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 607682,
+    "exp": 607697,
     "level": 1,
     "koin": 2591722,
     "unlockedFeatures": [
@@ -125737,10 +125737,10 @@
   "6288983458826": {
     "jid": "6288983458826",
     "rpg": {},
-    "exp": 4950,
+    "exp": 4965,
     "energi": 99999,
     "name": "lulaa",
-    "lastSeen": "2026-10-25T11:23:25.729Z",
+    "lastSeen": "2026-10-25T11:25:30.301Z",
     "cooldowns": {
       "s": 1790065871832,
       "anj": 1789916189343,
@@ -125769,7 +125769,8 @@
       "tanyaustad": 1789917459578,
       "play": 1790251123455,
       "cupu": 1792927350389,
-      "tebakgambar": 1792927407395
+      "tebakgambar": 1792927407395,
+      "riddle": 1792927530334
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 5
@@ -128552,7 +128553,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10339,
+    "exp": 10399,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129865,7 +129866,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 1590,
+    "exp": 1605,
     "energi": 99999
   },
   "6282190237811": {
@@ -131905,7 +131906,7 @@
   "6289531532253": {
     "jid": "6289531532253",
     "rpg": {},
-    "exp": 375
+    "exp": 405
   },
   "6281274396980": {
     "jid": "6281274396980",
@@ -132058,7 +132059,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11560,
+    "exp": 11575,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
