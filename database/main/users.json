@@ -4006,10 +4006,10 @@
     "jid": "6282113593058",
     "name": "-manusiadiPerbudak-",
     "number": "6282113593058",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27805,
+    "exp": 27820,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -4018,7 +4018,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:29:37.248Z",
+    "lastSeen": "2026-10-25T14:33:27.068Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -29219,7 +29219,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299426,
+    "exp": 299441,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -55034,10 +55034,10 @@
     "jid": "6283857834910",
     "name": "AoiMizu",
     "number": "6283857834910",
-    "energi": 99996,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30531,
+    "exp": 30501,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -55046,7 +55046,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:33:13.453Z",
+    "lastSeen": "2026-10-25T13:53:54.739Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55088,7 +55088,7 @@
       "femboy": 1791860647786,
       "ganteng": 1792587436541,
       "cekimut": 1792587376999,
-      "s": 1792938794737,
+      "s": 1792764274602,
       "promote": 1791894633467,
       "benefitprem": 1792077323680,
       "rank": 1792081816537,
@@ -106359,7 +106359,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57900,
+    "exp": 57930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128041,7 +128041,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 3675,
+    "exp": 3690,
     "energi": 99998,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T06:22:26.940Z",
@@ -128582,7 +128582,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 11044,
+    "exp": 11059,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128663,7 +128663,7 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 5025,
+    "exp": 5040,
     "name": "*",
     "lastSeen": "2026-10-10T11:40:08.664Z",
     "cooldowns": {
@@ -131858,7 +131858,7 @@
   "6283878459520": {
     "jid": "6283878459520",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "name": "Ga",
     "lastSeen": "2026-10-24T22:58:02.545Z",
     "cooldowns": {
@@ -132038,7 +132038,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 14305,
+    "exp": 14365,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T14:24:33.843Z",
     "cooldowns": {
@@ -132128,14 +132128,14 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T14:30:15.119Z",
+    "lastSeen": "2026-10-25T14:33:01.801Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 3,
       "bank": 0,
       "luck": 7
     },
-    "exp": 9957,
+    "exp": 9972,
     "cooldowns": {
       "gacha": 1792906049304,
       "judi": 1792906074331,
@@ -132144,7 +132144,7 @@
       "bank": 1792900832042,
       "casino": 1792906100968,
       "training": 1792906259210,
-      "cekfemboy": 1792938604671
+      "cekfemboy": 1792938785905
     },
     "energi": 15,
     "lastActiveDate": "25/10/2026",
@@ -132471,11 +132471,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132490,6 +132485,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 525
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132603,7 +132603,8 @@
       "tiktokstalk": 1792937866904,
       "swm": 1792937897653,
       "stickerpack": 1792937934000,
-      "brathd": 1792938117336
+      "brathd": 1792938117336,
+      "ai": 1792938758283
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -132937,7 +132938,14 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 585
+    "exp": 630,
+    "name": "<✨🌙 CATNAP/ZUL🌙✨>",
+    "lastSeen": "2026-10-25T14:33:22.563Z",
+    "cooldowns": {
+      "cekfemboy": 1792938805595
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6285199119865": {
     "jid": "6285199119865",
@@ -133004,18 +133012,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133040,6 +133036,18 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
@@ -133079,7 +133087,7 @@
   "62895402337876": {
     "jid": "62895402337876",
     "rpg": {},
-    "exp": 240,
+    "exp": 270,
     "name": "dikaa",
     "lastSeen": "2026-10-25T14:32:22.358Z"
   },
@@ -133178,20 +133186,20 @@
   "6282149487590": {
     "jid": "6282149487590",
     "rpg": {},
-    "exp": 135,
+    "exp": 165,
     "name": "rezky aditia",
-    "lastSeen": "2026-10-25T14:31:54.772Z",
+    "lastSeen": "2026-10-25T14:32:35.283Z",
     "cooldowns": {
       "menu": 1792938639810,
       "owner": 1792938580544,
-      "brat": 1792938673470,
+      "brat": 1792938755321,
       "bratimg": 1792938686348,
       "brathd": 1792938701250,
       "bratbahlil": 1792938716409
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "energi": 21
+    "energi": 20
   },
   "6285810113854": {
     "jid": "6285810113854",
