@@ -19386,10 +19386,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99990,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 92048,
+    "exp": 92063,
     "level": 1,
     "koin": 5147,
     "unlockedFeatures": [],
@@ -19398,7 +19398,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:32:12.933Z",
+    "lastSeen": "2026-10-25T11:32:34.712Z",
     "cooldowns": {
       "bratvid": 1792927207408,
       "setan": 1782040946136,
@@ -19425,7 +19425,8 @@
       "s": 1792927474713,
       "menu": 1792927799095,
       "menucat": 1792927769488,
-      "sticker": 1792927898927
+      "sticker": 1792927898927,
+      "iqc": 1792927957810
     },
     "clanId": null,
     "isRegistered": false,
@@ -35933,7 +35934,7 @@
     "energi": 100007,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035512,
+    "exp": 1035527,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35942,7 +35943,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:29:44.972Z",
+    "lastSeen": "2026-10-25T11:32:39.276Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -45590,7 +45591,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14856,
+    "exp": 14886,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -51188,19 +51189,19 @@
     "jid": "6289670776767",
     "name": "_;",
     "number": "6289670776767",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 833448,
+    "exp": 835057,
     "level": 1,
-    "koin": 37507,
+    "koin": 45825,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:32:11.979Z",
+    "lastSeen": "2026-10-25T11:32:39.126Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -51234,7 +51235,7 @@
       "hunt": 1783838721601,
       "bank": 1792927784360,
       "ngemis": 1784459000723,
-      "work": 1784468163614,
+      "work": 1792927962356,
       "saldo": 1792927778985,
       "streamer": 1792927871208,
       "rest": 1783856037291,
@@ -51281,7 +51282,7 @@
       "blacksmith": 1783828094711,
       "cook": 1783812010712,
       "cooking": 1783812026441,
-      "crime": 1783854350279,
+      "crime": 1792927943262,
       "berburu": 1784467728414,
       "jualan": 1784467773486,
       "leveluprpg": 1783812207146,
@@ -51324,9 +51325,9 @@
       "maxHealth": 930,
       "maxMana": 515,
       "maxStamina": 515,
-      "health": 905,
+      "health": 890,
       "mana": 515,
-      "stamina": 481,
+      "stamina": 471,
       "bank": 0,
       "guildId": "guild_1783784240613",
       "pet": {
@@ -106347,7 +106348,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56820,
+    "exp": 56850,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106357,7 +106358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T10:53:32.340Z",
+    "lastSeen": "2026-10-25T11:32:27.379Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106410,7 +106411,7 @@
       "acc": 1788714898071,
       "tebaknegara": 1788769628236,
       "bego": 1788769651108,
-      "warn": 1792925043532,
+      "warn": 1792927947547,
       "h": 1792925612482,
       "del": 1789450099759,
       "info": 1788878300051,
@@ -113191,7 +113192,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26280,
+    "exp": 26295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128567,7 +128568,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10804,
+    "exp": 10849,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129880,7 +129881,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1800,
     "energi": 99999
   },
   "6282190237811": {
@@ -131920,7 +131921,7 @@
   "6289531532253": {
     "jid": "6289531532253",
     "rpg": {},
-    "exp": 465
+    "exp": 510
   },
   "6281274396980": {
     "jid": "6281274396980",
@@ -132377,7 +132378,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 465
+    "exp": 495
   },
   "6285395891752": {
     "jid": "6285395891752",
