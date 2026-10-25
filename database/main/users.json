@@ -97270,7 +97270,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46118,
+    "exp": 46133,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97280,9 +97280,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:53:06.118Z",
+    "lastSeen": "2026-10-25T23:00:25.514Z",
     "cooldowns": {
-      "afk": 1792917870803,
+      "afk": 1792969228133,
       "play": 1792596085442,
       "smeme": 1792853066335,
       "s": 1792901938325,
@@ -97344,8 +97344,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 45,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 46,
     "customRoles": [
       {
         "name": "Ice Cream",
