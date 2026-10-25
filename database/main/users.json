@@ -28784,10 +28784,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99989,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299096,
+    "exp": 299126,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -28798,7 +28798,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T04:24:22.943Z",
+    "lastSeen": "2026-10-25T04:26:23.103Z",
     "cooldowns": {
       "menu": 1792882811418,
       "allmenu": 1792881984003,
@@ -28880,11 +28880,11 @@
       "superfast": 1784810212139,
       "smooth": 1788659972313,
       "listwarn": 1783345023146,
-      "tts": 1788688580056,
+      "tts": 1792902370755,
       "tupai": 1788660065951,
       "slow": 1788688679149,
       "superslow": 1784810158643,
-      "blown": 1792902264146,
+      "blown": 1792902384563,
       "hytamkan": 1788092426947,
       "tohd": 1784724080206,
       "jodoh": 1783561982666,
@@ -54589,7 +54589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30126,
+    "exp": 30111,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -127537,7 +127537,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1695,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129382,7 +129382,7 @@
   "62895602789802": {
     "jid": "62895602789802",
     "rpg": {},
-    "exp": 885,
+    "exp": 810,
     "energi": 99999
   },
   "6285821433928": {
@@ -129394,12 +129394,13 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 855,
+    "exp": 900,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-10-25T03:37:21.186Z",
+    "lastSeen": "2026-10-25T04:25:47.458Z",
     "cooldowns": {
-      "tebakkata": 1792899441603
+      "tebakkata": 1792899441603,
+      "d": 1792902348426
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
@@ -131460,9 +131461,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5680,
+    "exp": 5740,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T04:15:00.224Z",
+    "lastSeen": "2026-10-25T04:26:32.607Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792901367225,
