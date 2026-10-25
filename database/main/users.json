@@ -132450,15 +132450,17 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "name": "Thur rawring",
-    "lastSeen": "2026-10-25T16:18:37.370Z",
+    "lastSeen": "2026-10-25T16:18:50.845Z",
     "cooldowns": {
       "menu": 1792944962980,
-      "menucat": 1792945117438
+      "menucat": 1792945117438,
+      "cekkhodam": 1792945130859
     },
     "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   },
   "6282186912468": {
     "jid": "6282186912468",
