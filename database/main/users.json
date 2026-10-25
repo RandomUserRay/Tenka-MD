@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T10:51:51.388Z",
+    "lastSeen": "2026-10-25T10:55:01.482Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000250709,
+    "exp": 1009000251009,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3539,7 +3539,7 @@
     "energi": 99953,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436883,
+    "exp": 436898,
     "level": 1,
     "koin": 8407,
     "unlockedFeatures": [],
@@ -3548,9 +3548,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:59:43.813Z",
+    "lastSeen": "2026-10-25T10:54:14.277Z",
     "cooldowns": {
-      "femboy": 1792918768850,
+      "femboy": 1792925657227,
       "profile": 1792158310899,
       "menu": 1781530072258,
       "bank": 1783150240217,
@@ -11690,7 +11690,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43399,
+    "exp": 43429,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11699,17 +11699,17 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T07:06:38.725Z",
+    "lastSeen": "2026-10-25T10:54:36.967Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1792780032720,
+      "femboy": 1792925668337,
       "handsome": 1781865174539,
       "afk": 1783054537484,
       "tebaknegara": 1783149555979,
       "gacha": 1783150783852,
       "p": 1783150506493,
       "profile": 1790234795504,
-      "cekganteng": 1791851091744,
+      "cekganteng": 1792925677471,
       "work": 1788080778528,
       "saldo": 1785649056171,
       "menu": 1791108222289,
@@ -45579,7 +45579,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14271,
+    "exp": 14241,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -114619,7 +114619,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15540,
+    "exp": 15510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122590,10 +122590,10 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 8595,
+    "exp": 8625,
     "energi": 99986,
     "name": "Garta",
-    "lastSeen": "2026-10-25T07:05:34.518Z",
+    "lastSeen": "2026-10-25T10:54:45.803Z",
     "cooldowns": {
       "smeme": 1792478178706,
       "s": 1792911935717,
@@ -122603,7 +122603,7 @@
       "bank": 1792589649372,
       "transfer": 1792589691151,
       "cekimut": 1792839680465,
-      "cekganteng": 1792668385492,
+      "cekganteng": 1792925686080,
       "top": 1792911869891
     },
     "lastActiveDate": "25/10/2026",
@@ -128411,7 +128411,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65831,
+    "exp": 65816,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -128541,7 +128541,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 9319,
+    "exp": 9259,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128698,7 +128698,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 1330,
+    "exp": 1315,
     "name": "AJO GS ☠️",
     "lastSeen": "2026-10-08T14:45:04.710Z",
     "cooldowns": {
@@ -129230,7 +129230,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 5310,
+    "exp": 5295,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -132423,6 +132423,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132437,11 +132442,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132874,6 +132874,6 @@
   "6287780569400": {
     "jid": "6287780569400",
     "rpg": {},
-    "exp": 60
+    "exp": 30
   }
 }
