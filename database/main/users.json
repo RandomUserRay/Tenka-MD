@@ -3097,7 +3097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724226,
+    "exp": 724211,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -105877,10 +105877,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53205,
+    "exp": 53280,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105890,7 +105890,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T00:34:30.134Z",
+    "lastSeen": "2026-10-25T00:35:20.485Z",
     "cooldowns": {
       "menu": 1792887454557,
       "owner": 1792855774491,
@@ -105909,8 +105909,8 @@
       "welcome": 1790136001941,
       "antisticker": 1790259624815,
       "bratcewek": 1788661413142,
-      "brat": 1788628248906,
-      "bratimg": 1789992974676,
+      "brat": 1792888507606,
+      "bratimg": 1792888523642,
       "sticker": 1788678158238,
       "antispam": 1792887396360,
       "admin": 1788766651427,
@@ -127617,7 +127617,7 @@
       },
       "expeditions": []
     },
-    "exp": 195252,
+    "exp": 195267,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1792888459896,
@@ -128069,7 +128069,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 4924,
+    "exp": 4969,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -130249,7 +130249,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11415,
+    "exp": 11400,
     "cooldowns": {
       "menu": 1792315462935
     },
