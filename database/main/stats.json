@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 139843,
+  "commandsExecuted": 139844,
   "command_totalchat": 26,
   "command_menu": 2387,
   "command_fb": 21,
@@ -1451,5 +1451,6 @@
   "command_profilesetting": 2,
   "command_clanleaderboard": 3,
   "command_claninfo": 1,
-  "command_clanjoin": 4
+  "command_clanjoin": 4,
+  "command_pay": 1
 }
