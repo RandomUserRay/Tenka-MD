@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T08:44:16.626Z",
+    "lastSeen": "2026-10-25T08:44:22.046Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000247484,
+    "exp": 1009000247259,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3103,10 +3103,10 @@
     "jid": "6285240302212",
     "name": "ㅤ",
     "number": "6285240302212",
-    "energi": 99989,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724931,
+    "exp": 724916,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3115,7 +3115,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:44:27.947Z",
+    "lastSeen": "2026-10-25T07:23:40.092Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3536,10 +3536,10 @@
     "jid": "6282135848247",
     "name": "Cursed",
     "number": "6282135848247",
-    "energi": 99967,
+    "energi": 99971,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436220,
+    "exp": 436190,
     "level": 1,
     "koin": 8196,
     "unlockedFeatures": [],
@@ -3548,7 +3548,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:44:19.059Z",
+    "lastSeen": "2026-10-25T08:42:47.438Z",
     "cooldowns": {
       "femboy": 1792909946219,
       "profile": 1792158310899,
@@ -3617,7 +3617,7 @@
       "imut": 1790758652050,
       "ganteng": 1790758668448,
       "list": 1790758677447,
-      "ship": 1792917860492,
+      "ship": 1792913257960,
       "pasangan": 1792839640688,
       "lucky": 1792909680853
     },
@@ -6441,7 +6441,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37471,
+    "exp": 37456,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97221,17 +97221,17 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45758,
+    "exp": 45728,
     "level": 1,
     "koin": 552,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": 1792917835849,
+    "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T08:44:28.172Z",
+    "lastSeen": "2026-10-25T07:44:32.932Z",
     "cooldowns": {
       "afk": 1792909469096,
       "play": 1792596085442,
@@ -131746,7 +131746,7 @@
     "lastSeen": "2026-10-25T06:21:44.863Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 540,
+    "exp": 630,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -132384,11 +132384,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132403,6 +132398,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132715,16 +132715,16 @@
   "6285717577844": {
     "jid": "6285717577844",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   },
   "6285545251461": {
     "jid": "6285545251461",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6288704044037": {
     "jid": "6288704044037",
     "rpg": {},
-    "exp": 15
+    "exp": 75
   }
 }
