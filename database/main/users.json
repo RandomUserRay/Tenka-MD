@@ -357,7 +357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55525,
+    "exp": 55555,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -5224,7 +5224,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129597441,
+    "exp": 129597456,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -126825,15 +126825,16 @@
   "62882008180637": {
     "jid": "62882008180637",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1125,
     "energi": 99999,
     "name": "白ひげ x ヨガ",
-    "lastSeen": "2026-10-25T08:51:22.759Z",
+    "lastSeen": "2026-10-25T10:08:51.386Z",
     "cooldowns": {
       "s": 1792289939056,
       "menucat": 1792291490282,
       "femboy": 1792809898517,
-      "cekganteng": 1792918282993
+      "cekganteng": 1792918282993,
+      "afk": 1792922933779
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 3
@@ -130480,7 +130481,7 @@
   "6285230568463": {
     "jid": "6285230568463",
     "rpg": {},
-    "exp": 8625,
+    "exp": 8640,
     "name": "Ren🔱",
     "lastSeen": "2026-10-23T19:03:20.617Z",
     "cooldowns": {
@@ -130754,7 +130755,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11880,
+    "exp": 11895,
     "cooldowns": {
       "menu": 1792315462935
     },
