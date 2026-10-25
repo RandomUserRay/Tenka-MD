@@ -1223,7 +1223,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2520,
+    "exp": 2550,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -131451,15 +131451,15 @@
       "stamina": 60,
       "bank": 0
     },
-    "exp": 2739,
+    "exp": 2724,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:47:50.106Z",
+    "lastSeen": "2026-10-25T03:47:31.052Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792899964325,
       "gojek": 1792899986241,
       "work": 1792900001983,
-      "bank": 1792900070156,
+      "bank": 1792900041061,
       "topkoin": 1792900043142,
       "topexp": 1792900051126
     },
@@ -131482,7 +131482,7 @@
       "stamina": 43,
       "luck": 7
     },
-    "exp": 2591,
+    "exp": 2576,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
@@ -131502,21 +131502,20 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T03:48:06.383Z",
+    "lastSeen": "2026-10-25T03:47:24.850Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 75
+      "stamina": 90
     },
-    "exp": 5094,
+    "exp": 2610,
     "cooldowns": {
       "gacha": 1792899650978,
       "judi": 1792899937016,
-      "work": 1792900047959,
-      "gojek": 1792900089573
+      "work": 1792900047959
     },
-    "energi": 22,
+    "energi": 23,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
-    "koin": 59791
+    "koin": 10697
   }
 }
