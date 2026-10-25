@@ -4009,7 +4009,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28180,
+    "exp": 28195,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -4060,11 +4060,7 @@
       "mana": 105,
       "stamina": 20,
       "bank": 0,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792939105167
-      }
+      "attack": 10
     },
     "inventory": {
       "trash": 1,
