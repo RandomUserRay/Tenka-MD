@@ -102889,7 +102889,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35916,
+    "exp": 35931,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131465,7 +131465,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 6220,
+    "exp": 6235,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:48:53.610Z",
     "cooldowns": {
@@ -131547,7 +131547,7 @@
       "stamina": 50,
       "bank": 0
     },
-    "exp": 7528,
+    "exp": 7543,
     "cooldowns": {
       "gacha": 1792904920313,
       "judi": 1792899937016,
@@ -131642,15 +131642,16 @@
   },
   "6283125843766": {
     "name": "𝙖𝙡𝙯𝙯★",
-    "lastSeen": "2026-10-25T05:07:37.013Z",
+    "lastSeen": "2026-10-25T05:08:41.372Z",
     "jid": "6283125843766",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "cooldowns": {
       "play": 1792904807748,
-      "brat": 1792904857109
+      "brat": 1792904857109,
+      "bratvid": 1792904924354
     },
-    "energi": 16,
+    "energi": 15,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
