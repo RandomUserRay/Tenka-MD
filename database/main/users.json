@@ -48405,7 +48405,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 563018,
+    "exp": 563033,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -71903,10 +71903,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99984,
+    "energi": 99982,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73966,
+    "exp": 73981,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71915,7 +71915,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:53:43.437Z",
+    "lastSeen": "2026-10-25T11:55:15.178Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -126690,7 +126690,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23460,
+    "exp": 23445,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-25T08:36:15.777Z",
@@ -131930,7 +131930,7 @@
   "6281274396980": {
     "jid": "6281274396980",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "name": "Sticknesian",
     "lastSeen": "2026-10-25T06:11:02.909Z",
     "cooldowns": {
@@ -132455,11 +132455,6 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132474,6 +132469,11 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
