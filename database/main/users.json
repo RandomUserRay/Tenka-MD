@@ -102889,7 +102889,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34586,
+    "exp": 34601,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127533,7 +127533,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1560,
+    "exp": 1575,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -131451,16 +131451,17 @@
       "stamina": 60,
       "bank": 0
     },
-    "exp": 2709,
+    "exp": 2724,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:47:23.074Z",
+    "lastSeen": "2026-10-25T03:47:31.052Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792899964325,
       "gojek": 1792899986241,
       "work": 1792900001983,
       "bank": 1792900041061,
-      "topkoin": 1792900043142
+      "topkoin": 1792900043142,
+      "topexp": 1792900051126
     },
     "energi": 23,
     "koin": 37262,
