@@ -1198,7 +1198,7 @@
   "command_nod": 1,
   "command_topactive": 9,
   "command_bocil": 16,
-  "command_antisticker": 79,
+  "command_antisticker": 78,
   "command_bratgojovid": 14,
   "command_bratvermeilvid": 11,
   "command_stickerlysearch": 34,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 21,
+  "command_addrole": 22,
   "command_delrole": 11
 }
