@@ -103488,17 +103488,17 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 214250,
+    "exp": 214325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1792915631550,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:31:44.305Z",
+    "lastSeen": "2026-10-25T08:07:11.191Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1790396932884,
@@ -103520,8 +103520,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 11
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
@@ -128722,7 +128722,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17220,
+    "exp": 17205,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -129835,7 +129835,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 2130,
+    "exp": 2115,
     "energi": 99992,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T05:53:59.324Z",
@@ -132082,7 +132082,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 4905,
+    "exp": 4890,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T07:21:15.971Z",
     "cooldowns": {
@@ -132365,6 +132365,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132379,11 +132384,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
