@@ -357,7 +357,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55450,
+    "exp": 55465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 724721,
+    "exp": 724736,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -99005,7 +99005,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15720,
+    "exp": 15735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105895,7 +105895,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55260,
+    "exp": 55245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122149,7 +122149,7 @@
       "marriedAt": null,
       "bank": 0
     },
-    "exp": 8340,
+    "exp": 8370,
     "energi": 99986,
     "name": "Garta",
     "lastSeen": "2026-10-25T07:05:34.518Z",
@@ -131938,6 +131938,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -131952,11 +131957,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 435
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
