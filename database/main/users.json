@@ -102883,13 +102883,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:45:58.641Z",
+    "lastSeen": "2026-10-25T03:46:41.917Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33539,
+    "exp": 33569,
     "level": 1,
     "koin": 15191,
     "saldo": 0,
@@ -102976,7 +102976,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 83,
+      "stamina": 68,
       "bank": 4101754,
       "health": 130,
       "maxHealth": 130,
@@ -131448,18 +131448,19 @@
   "6283188010317": {
     "jid": "6283188010317",
     "rpg": {
-      "stamina": 70
+      "stamina": 60
     },
-    "exp": 1071,
+    "exp": 2679,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T03:46:23.088Z",
+    "lastSeen": "2026-10-25T03:46:38.787Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792899964325,
-      "gojek": 1792899986241
+      "gojek": 1792899986241,
+      "work": 1792900001983
     },
     "energi": 23,
-    "koin": 21329,
+    "koin": 37262,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
