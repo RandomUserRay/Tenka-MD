@@ -2370,7 +2370,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7860,
+    "exp": 7845,
     "level": 1,
     "koin": 100000000,
     "unlockedFeatures": [],
@@ -28787,7 +28787,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298991,
+    "exp": 299006,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -102883,13 +102883,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T04:10:00.236Z",
+    "lastSeen": "2026-10-25T04:13:45.200Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35541,
+    "exp": 35601,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102901,7 +102901,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792806419535,
-      "d": 1792900268415,
+      "d": 1792901625315,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -129394,7 +129394,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T03:37:21.186Z",
@@ -131460,7 +131460,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5485,
+    "exp": 5560,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T04:11:49.682Z",
     "cooldowns": {
@@ -131493,21 +131493,22 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T04:11:01.701Z",
+    "lastSeen": "2026-10-25T04:14:05.334Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 1,
       "stamina": 63,
       "luck": 9,
       "health": 105,
-      "mana": 53
+      "mana": 53,
+      "bank": 46108
     },
-    "exp": 3671,
+    "exp": 3716,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792899253078,
       "work": 1792899967585,
-      "gacha": 1792900142501,
+      "gacha": 1792901589218,
       "tt": 1792899725524,
       "judi": 1792899861365,
       "training": 1792900175273,
@@ -131518,13 +131519,15 @@
       "claninfo": 1792900374096,
       "clanjoin": 1792900573619,
       "guild": 1792900784435,
-      "istirahat": 1792901465017
+      "istirahat": 1792901465017,
+      "nabung": 1792901626320,
+      "bank": 1792901646928
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792899251718,
-    "koin": 45661,
-    "energi": 14,
+    "koin": 0,
+    "energi": 13,
     "clanId": "Kit Community"
   },
   "62895321723163": {
