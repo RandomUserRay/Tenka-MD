@@ -48405,7 +48405,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 563033,
+    "exp": 563018,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -67830,7 +67830,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177186,
+    "exp": 177201,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -71903,10 +71903,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99980,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74011,
+    "exp": 73966,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71915,7 +71915,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:55:56.825Z",
+    "lastSeen": "2026-10-25T11:53:43.437Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71980,7 +71980,7 @@
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
       "ai": 1790779136102,
-      "pin": 1792929349601,
+      "pin": 1792929234022,
       "top5": 1792588251851,
       "playvideo": 1792926896805
     },
@@ -99445,7 +99445,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15870,
+    "exp": 15915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -107263,7 +107263,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1560,
+    "exp": 1545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126690,7 +126690,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23445,
+    "exp": 23460,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-25T08:36:15.777Z",
@@ -131930,7 +131930,7 @@
   "6281274396980": {
     "jid": "6281274396980",
     "rpg": {},
-    "exp": 240,
+    "exp": 225,
     "name": "Sticknesian",
     "lastSeen": "2026-10-25T06:11:02.909Z",
     "cooldowns": {
@@ -132455,6 +132455,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132469,11 +132474,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132921,7 +132921,7 @@
   "6285185166815": {
     "jid": "6285185166815",
     "rpg": {},
-    "exp": 45
+    "exp": 30
   },
   "62882007042940": {
     "jid": "62882007042940",
@@ -132942,10 +132942,5 @@
     "jid": "6282195960556",
     "rpg": {},
     "exp": 15
-  },
-  "6285750053634": {
-    "jid": "6285750053634",
-    "rpg": {},
-    "exp": 30
   }
 }
