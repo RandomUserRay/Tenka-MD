@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-25T05:34:10.176Z",
+    "lastSeen": "2026-10-25T05:57:24.268Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000238409,
+    "exp": 1009000238484,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -31073,10 +31073,10 @@
     "jid": "6283188364167",
     "name": "arinn",
     "number": "6283188364167",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52674,
+    "exp": 52659,
     "level": 1,
     "koin": 24209,
     "unlockedFeatures": [],
@@ -31085,10 +31085,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T05:56:57.143Z",
+    "lastSeen": "2026-09-12T03:17:20.329Z",
     "cooldowns": {
       "bratimg": 1789183043939,
-      "tt": 1792907821595,
+      "tt": 1788633629407,
       "ttmp3": 1783344274939,
       "tupai": 1788586937417,
       "play": 1788755784954,
@@ -31127,8 +31127,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "12/9/2026",
+    "activeDays": 9
   },
   "62881026921796": {
     "jid": "62881026921796",
@@ -102886,7 +102886,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36946,
+    "exp": 36916,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105883,7 +105883,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54645,
+    "exp": 54615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129481,7 +129481,7 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 300,
+    "exp": 285,
     "energi": 99998,
     "name": "EQUINOX",
     "lastSeen": "2026-10-25T05:30:25.606Z",
@@ -131880,5 +131880,10 @@
     },
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
   }
 }
