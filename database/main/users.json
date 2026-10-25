@@ -4006,10 +4006,10 @@
     "jid": "6282113593058",
     "name": "-manusiadiPerbudak-",
     "number": "6282113593058",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28090,
+    "exp": 28120,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -4018,7 +4018,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:39:02.212Z",
+    "lastSeen": "2026-10-25T14:39:38.015Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -4042,7 +4042,8 @@
       "sange": 1792939002986,
       "horny": 1792939035462,
       "dungeon": 1792939105392,
-      "topglobal": 1792939142352
+      "topglobal": 1792939142352,
+      "gay": 1792939178266
     },
     "clanId": null,
     "isRegistered": false,
@@ -128057,7 +128058,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 3900,
+    "exp": 3915,
     "energi": 99998,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T14:39:25.826Z",
@@ -132046,22 +132047,18 @@
   "6283188010317": {
     "jid": "6283188010317",
     "rpg": {
-      "stamina": 80,
+      "stamina": 50,
       "bank": 92099,
       "level": 2,
       "luck": 7,
-      "health": 110,
+      "health": 70,
       "mana": 105,
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792939166227
-      }
+      "attack": 10
     },
-    "exp": 14500,
+    "exp": 14530,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T14:39:26.226Z",
     "cooldowns": {
@@ -132086,10 +132083,11 @@
       "level": 1792909018475,
       "daily": 1792909043485,
       "cekfemboy": 1792937881807,
-      "pakustad": 1792939075408
+      "pakustad": 1792939075408,
+      "dungeon": 1792939166423
     },
     "energi": 8,
-    "koin": 29202,
+    "koin": 24822,
     "lastActiveDate": "25/10/2026",
     "activeDays": 1,
     "registeredAt": 1792900111702,
@@ -132414,7 +132412,7 @@
   "6289691978119": {
     "jid": "6289691978119",
     "rpg": {},
-    "exp": 150
+    "exp": 165
   },
   "6289524141585": {
     "jid": "6289524141585",
@@ -132687,7 +132685,7 @@
   "628139422773": {
     "jid": "628139422773",
     "rpg": {},
-    "exp": 195
+    "exp": 240
   },
   "6282371412324": {
     "jid": "6282371412324",
