@@ -103313,7 +103313,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37396,
+    "exp": 37426,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128402,7 +128402,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 65276,
+    "exp": 65291,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T09:42:07.786Z",
@@ -131752,7 +131752,7 @@
     "lastSeen": "2026-10-25T09:37:51.049Z",
     "jid": "6288230518945",
     "rpg": {},
-    "exp": 1260,
+    "exp": 1275,
     "cooldowns": {
       "antilinkgc": 1792855667765,
       "antitoxic": 1792855688659,
@@ -132119,9 +132119,9 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 5940,
+    "exp": 5955,
     "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T10:03:35.263Z",
+    "lastSeen": "2026-10-25T10:04:27.434Z",
     "cooldowns": {
       "brat": 1792922426267,
       "menu": 1792912511382,
@@ -132138,7 +132138,8 @@
       "setgoodbye": 1792921196806,
       "bratimg": 1792921420821,
       "kick": 1792922565992,
-      "absen": 1792922615451
+      "absen": 1792922615451,
+      "mulaiabsen": 1792922667910
     },
     "energi": 17,
     "lastActiveDate": "25/10/2026",
