@@ -35932,7 +35932,7 @@
     "energi": 100007,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035452,
+    "exp": 1035482,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51190,16 +51190,16 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 832025,
+    "exp": 832572,
     "level": 1,
-    "koin": 0,
+    "koin": 15974,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:30:22.173Z",
+    "lastSeen": "2026-10-25T11:31:07.522Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
@@ -51235,7 +51235,7 @@
       "ngemis": 1784459000723,
       "work": 1784468163614,
       "saldo": 1792927778985,
-      "streamer": 1784469833860,
+      "streamer": 1792927871208,
       "rest": 1783856037291,
       "ngamen": 1784467597789,
       "mining": 1783854314232,
@@ -51325,7 +51325,7 @@
       "maxStamina": 515,
       "health": 905,
       "mana": 515,
-      "stamina": 515,
+      "stamina": 495,
       "bank": 0,
       "guildId": "guild_1783784240613",
       "pet": {
@@ -103331,7 +103331,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38731,
+    "exp": 38746,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128433,7 +128433,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 66416,
+    "exp": 66431,
     "energi": 99998,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128565,7 +128565,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 10669,
+    "exp": 10714,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128646,7 +128646,7 @@
   "628895546832": {
     "jid": "628895546832",
     "rpg": {},
-    "exp": 4905,
+    "exp": 4920,
     "name": "*",
     "lastSeen": "2026-10-10T11:40:08.664Z",
     "cooldowns": {
@@ -129254,7 +129254,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 5715,
+    "exp": 5730,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -131918,7 +131918,7 @@
   "6289531532253": {
     "jid": "6289531532253",
     "rpg": {},
-    "exp": 435
+    "exp": 450
   },
   "6281274396980": {
     "jid": "6281274396980",
@@ -132375,7 +132375,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 420
+    "exp": 435
   },
   "6285395891752": {
     "jid": "6285395891752",
