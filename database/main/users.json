@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000252209,
+    "exp": 1009000252359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59655,
+    "exp": 59760,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -27149,7 +27149,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177726,
+    "exp": 177756,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -55032,7 +55032,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30276,
+    "exp": 30291,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -103339,7 +103339,7 @@
     "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39046,
+    "exp": 38911,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129886,7 +129886,7 @@
   "6285821433928": {
     "jid": "6285821433928",
     "rpg": {},
-    "exp": 2085,
+    "exp": 1980,
     "energi": 99999
   },
   "6282190237811": {
@@ -130202,7 +130202,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400743180,
+    "exp": 19400743255,
     "energi": 99992,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T13:02:11.900Z",
@@ -132027,9 +132027,9 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 12880,
+    "exp": 12820,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T13:09:34.515Z",
+    "lastSeen": "2026-10-25T06:17:23.484Z",
     "cooldowns": {
       "gacha": 1792899891167,
       "kurir": 1792908917395,
@@ -132050,8 +132050,7 @@
       "afk": 1792908398410,
       "job": 1792908763439,
       "level": 1792909018475,
-      "daily": 1792909043485,
-      "cekfemboy": 1792933778853
+      "daily": 1792909043485
     },
     "energi": 12,
     "koin": 29202,
@@ -132080,7 +132079,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 11800,
+    "exp": 11770,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -132457,6 +132456,11 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 1
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132471,11 +132475,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 510
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -132955,6 +132954,18 @@
     "rpg": {},
     "exp": 15
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -132979,18 +132990,6 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 45
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
   },
   "6289691337115": {
     "jid": "6289691337115",
