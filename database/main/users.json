@@ -8108,7 +8108,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135428,
+    "exp": 135443,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60045,
+    "exp": 60075,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -9943,8 +9943,8 @@
       "stamina": 130,
       "maxStamina": 130,
       "bank": 3061203963,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6285284891404@s.whatsapp.net",
+      "marriedAt": 1792936469123
     },
     "inventory": {},
     "access": [],
@@ -55033,7 +55033,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30501,
+    "exp": 30531,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -55042,7 +55042,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:53:54.739Z",
+    "lastSeen": "2026-10-25T13:54:32.158Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55096,7 +55096,8 @@
       "rpg": 1792936434970,
       "kerja": 1792589488330,
       "siapa": 1792668684540,
-      "p": 1792734500783
+      "p": 1792734500783,
+      "tagall": 1792936472424
     },
     "clanId": null,
     "isRegistered": false,
@@ -103341,7 +103342,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39376,
+    "exp": 39391,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130206,13 +130207,13 @@
       "stamina": 9700470,
       "maxStamina": 9700470,
       "bank": 7009000000000,
-      "spouse": null,
-      "marriedAt": null
+      "spouse": "6281310184404@s.whatsapp.net",
+      "marriedAt": 1792936469123
     },
-    "exp": 19400744980,
+    "exp": 19400745055,
     "energi": 99991,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-25T13:52:44.049Z",
+    "lastSeen": "2026-10-25T13:54:29.121Z",
     "cooldowns": {
       "cekganteng": 1792918264715,
       "femboy": 1792918232825,
@@ -130241,7 +130242,7 @@
       "mutegc": 1792932298546,
       "unmutegc": 1792936271086,
       "ship": 1792909887921,
-      "marry": 1792589195050,
+      "marry": 1792936469656,
       "divorce": 1792589207923,
       "transfer": 1792589658663,
       "rpg": 1792589605327,
@@ -130255,7 +130256,7 @@
     "lastActiveDate": "25/10/2026",
     "activeDays": 11,
     "isPremium": true,
-    "koin": 1989980003461,
+    "koin": 1989979953461,
     "registeredAt": 1792852797984,
     "customRoles": [
       {
