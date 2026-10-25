@@ -7,7 +7,7 @@
   "command_brat": 1417,
   "command_antidocument": 2,
   "command_antimedia": 11,
-  "command_play": 5594,
+  "command_play": 5596,
   "command_setmenu": 22,
   "command_botmode": 21,
   "command_listproduk": 26,
@@ -252,7 +252,7 @@
   "command_hourly": 39,
   "command_mining": 332,
   "command_dungeon": 314,
-  "command_me": 2141,
+  "command_me": 2140,
   "command_rest": 514,
   "command_qwa": 32,
   "command_lyrics": 5,
@@ -1454,5 +1454,5 @@
   "command_clanjoin": 4,
   "command_pay": 1,
   "command_addrole": 10,
-  "command_delrole": 6
+  "command_delrole": 5
 }
