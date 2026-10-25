@@ -138,7 +138,7 @@
   "command_schedule": 17,
   "scheduledMessagesSent": 1,
   "command_hd2": 18,
-  "command_antijudol": 38,
+  "command_antijudol": 39,
   "command_open": 395,
   "command_antiswgc": 49,
   "command_anticustom": 16,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 6,
+  "command_addrole": 5,
   "command_delrole": 4
 }
