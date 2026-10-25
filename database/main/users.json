@@ -102889,7 +102889,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32083,
+    "exp": 32098,
     "level": 1,
     "koin": 1223,
     "saldo": 0,
@@ -131448,7 +131448,16 @@
   "6283188010317": {
     "jid": "6283188010317",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "Fathir Abidzar Adhitama",
+    "lastSeen": "2026-10-25T03:44:51.045Z",
+    "cooldowns": {
+      "gacha": 1792899891167
+    },
+    "energi": 24,
+    "koin": 1398,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1
   },
   "6282371000808": {
     "jid": "6282371000808",
@@ -131482,10 +131491,10 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T03:42:18.084Z",
+    "lastSeen": "2026-10-25T03:44:42.329Z",
     "jid": "62895321723163",
     "rpg": {},
-    "exp": 1406,
+    "exp": 1421,
     "cooldowns": {
       "gacha": 1792899650978
     },
