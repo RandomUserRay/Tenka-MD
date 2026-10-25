@@ -29220,7 +29220,7 @@
     "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299501,
+    "exp": 299531,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -132130,14 +132130,20 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-25T14:33:01.801Z",
+    "lastSeen": "2026-10-25T14:34:50.170Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 3,
+      "stamina": 105,
       "bank": 0,
-      "luck": 7
+      "luck": 7,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105
     },
-    "exp": 9972,
+    "exp": 10017,
     "cooldowns": {
       "gacha": 1792906049304,
       "judi": 1792906074331,
@@ -132146,7 +132152,7 @@
       "bank": 1792900832042,
       "casino": 1792906100968,
       "training": 1792906259210,
-      "cekfemboy": 1792938785905
+      "cekfemboy": 1792938892006
     },
     "energi": 15,
     "lastActiveDate": "25/10/2026",
@@ -132947,7 +132953,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 645,
+    "exp": 660,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-25T14:34:35.070Z",
     "cooldowns": {
