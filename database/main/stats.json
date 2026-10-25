@@ -1,6 +1,6 @@
 {
   "commandErrors": 665,
-  "commandsExecuted": 140242,
+  "commandsExecuted": 140241,
   "command_totalchat": 26,
   "command_menu": 2392,
   "command_fb": 21,
@@ -252,7 +252,7 @@
   "command_hourly": 39,
   "command_mining": 332,
   "command_dungeon": 314,
-  "command_me": 2137,
+  "command_me": 2136,
   "command_rest": 514,
   "command_qwa": 32,
   "command_lyrics": 5,
@@ -298,7 +298,7 @@
   "command_listjadibot": 96,
   "command_randomfemboy": 9,
   "command_disableplugin": 46,
-  "command_setwelcome": 178,
+  "command_setwelcome": 179,
   "command_jadwalgroup": 50,
   "command_antiphising": 12,
   "command_restart": 159,
@@ -1454,5 +1454,5 @@
   "command_clanjoin": 4,
   "command_pay": 1,
   "command_addrole": 7,
-  "command_delrole": 5
+  "command_delrole": 4
 }
