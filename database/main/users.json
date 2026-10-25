@@ -500,7 +500,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612243,
+    "exp": 117612288,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -5214,7 +5214,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129597336,
+    "exp": 129597381,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -14046,7 +14046,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9271,
+    "exp": 9286,
     "level": 1,
     "koin": 5200,
     "unlockedFeatures": [],
@@ -105881,7 +105881,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53340,
+    "exp": 53325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127940,7 +127940,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63041,
+    "exp": 62936,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T09:57:34.097Z",
@@ -128276,7 +128276,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17130,
+    "exp": 17010,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -128435,7 +128435,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287121,
+    "exp": 287046,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-11T09:58:51.552Z",
@@ -131378,6 +131378,6 @@
   "6285194641740": {
     "jid": "6285194641740",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   }
 }
