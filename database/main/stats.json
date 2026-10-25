@@ -7,7 +7,7 @@
   "command_brat": 1417,
   "command_antidocument": 2,
   "command_antimedia": 11,
-  "command_play": 5595,
+  "command_play": 5594,
   "command_setmenu": 22,
   "command_botmode": 21,
   "command_listproduk": 26,
@@ -1453,6 +1453,6 @@
   "command_claninfo": 1,
   "command_clanjoin": 4,
   "command_pay": 1,
-  "command_addrole": 12,
+  "command_addrole": 13,
   "command_delrole": 11
 }
