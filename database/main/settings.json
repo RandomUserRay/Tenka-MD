@@ -592,7 +592,9 @@
       ],
       "menu": "Makan Apa Kek",
       "enabled": true,
-      "lastSent": {},
+      "lastSent": {
+        "12:00_2026-10-25": true
+      },
       "createdAt": 1792887577223
     }
   },
