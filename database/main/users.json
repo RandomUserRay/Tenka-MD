@@ -102883,28 +102883,28 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T03:32:29.295Z",
+    "lastSeen": "2026-10-25T03:33:49.492Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26149,
+    "exp": 26179,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1792899219679,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792806419535,
-      "d": 1792898941800,
+      "d": 1792899229519,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
-      "me": 1789226230570,
+      "me": 1792899220897,
       "kerja": 1788529582360,
       "gojek": 1789472850901,
       "kurir": 1789472845108,
@@ -127532,7 +127532,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1485,
+    "exp": 1500,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129389,7 +129389,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 600,
+    "exp": 615,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-25T03:33:36.497Z"
@@ -131451,14 +131451,15 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-25T03:32:57.318Z",
+    "lastSeen": "2026-10-25T03:34:11.717Z",
     "jid": "6282245345914",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
       "menu": 1792899179011
     },
     "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "registeredAt": 1792899251718
   }
 }
