@@ -4009,7 +4009,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28030,
+    "exp": 28045,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -4018,7 +4018,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T14:38:03.705Z",
+    "lastSeen": "2026-10-25T14:38:25.166Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -4040,7 +4040,8 @@
       "bucin": 1792938962610,
       "cekpacar": 1792938966765,
       "sange": 1792939002986,
-      "horny": 1792939035462
+      "horny": 1792939035462,
+      "dungeon": 1792939105392
     },
     "clanId": null,
     "isRegistered": false,
@@ -4055,7 +4056,12 @@
       "health": 110,
       "mana": 105,
       "stamina": 20,
-      "bank": 0
+      "bank": 0,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792939105167
+      }
     },
     "inventory": {
       "trash": 1,
@@ -128050,10 +128056,10 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 3780,
+    "exp": 3810,
     "energi": 99998,
     "name": "Озорной свет",
-    "lastSeen": "2026-10-25T14:37:05.091Z",
+    "lastSeen": "2026-10-25T14:38:28.118Z",
     "cooldowns": {
       "lyrics": 1791710194705,
       "getpp": 1791712079519,
@@ -132047,7 +132053,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 14455,
+    "exp": 14470,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-25T14:37:54.730Z",
     "cooldowns": {
