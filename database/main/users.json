@@ -133556,8 +133556,16 @@
   },
   "6283863082338": {
     "jid": "6283863082338",
-    "rpg": {},
-    "exp": 318919,
+    "rpg": {
+      "level": 33,
+      "maxHealth": 420,
+      "maxMana": 260,
+      "maxStamina": 260,
+      "health": 420,
+      "mana": 260,
+      "stamina": 260
+    },
+    "exp": 320298,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:38:18.575Z",
     "cooldowns": {
@@ -133573,8 +133581,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100297,
-    "koin": 0,
+    "energi": 100302,
+    "koin": 993,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133698,9 +133706,9 @@
       "maxMana": 100,
       "maxStamina": 100
     },
-    "exp": 319711,
+    "exp": 319726,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:38:34.296Z",
+    "lastSeen": "2026-10-26T03:38:38.087Z",
     "cooldowns": {
       "menu": 1792985735135,
       "casino": 1792985104734,
@@ -133858,9 +133866,9 @@
   "62895355330990": {
     "jid": "62895355330990",
     "rpg": {},
-    "exp": 900,
+    "exp": 915,
     "name": "Dαb.",
-    "lastSeen": "2026-10-26T03:20:41.620Z",
+    "lastSeen": "2026-10-26T03:38:41.809Z",
     "cooldowns": {
       "cekfemboy": 1792984845396
     },
@@ -133909,7 +133917,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 2277,
+    "exp": 2292,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T03:38:10.684Z",
     "cooldowns": {
