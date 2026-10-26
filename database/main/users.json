@@ -129952,7 +129952,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 2895,
+    "exp": 2910,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-26T06:10:56.472Z",
@@ -133609,12 +133609,24 @@
       "maxStamina": 355,
       "health": 610,
       "mana": 355,
-      "stamina": 310,
-      "attack": 10
+      "stamina": 280,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 28,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792998887427
+      }
     },
-    "exp": 515496,
+    "exp": 515526,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:14:14.094Z",
+    "lastSeen": "2026-10-26T07:14:42.691Z",
     "cooldowns": {
       "menu": 1792998638073,
       "menucat": 1792998645550,
@@ -133626,7 +133638,7 @@
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
       "levelup": 1792987303038,
-      "dungeon": 1792986625476,
+      "dungeon": 1792998882947,
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792992116482,
@@ -133804,9 +133816,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 373566,
+    "exp": 373581,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:14:18.562Z",
+    "lastSeen": "2026-10-26T07:14:29.739Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990611228,
@@ -133832,7 +133844,8 @@
       "maling": 1792987994443,
       "dungeon": 1792990217414,
       "nikah": 1792990325359,
-      "me": 1792998194636
+      "me": 1792998194636,
+      "inv": 1792998869904
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134055,11 +134068,14 @@
     "rpg": {
       "stamina": 59,
       "health": 105,
-      "mana": 53
+      "mana": 53,
+      "maxHealth": 100,
+      "maxMana": 100,
+      "maxStamina": 100
     },
-    "exp": 28773,
+    "exp": 28803,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:13:58.074Z",
+    "lastSeen": "2026-10-26T07:14:38.539Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134076,7 +134092,9 @@
       "mancing": 1792998845921,
       "prabowo-ai": 1792987674459,
       "ngentod": 1792988004038,
-      "absen": 1792988103531
+      "absen": 1792988103531,
+      "inv": 1792998863372,
+      "use": 1792998878742
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134385,12 +134403,12 @@
   },
   "6285166428620": {
     "name": "𝐕Ø𝐈𝐃𝐍Ø𝐗⁴⁰⁴",
-    "lastSeen": "2026-10-26T07:12:11.903Z",
+    "lastSeen": "2026-10-26T07:14:45.339Z",
     "jid": "6285166428620",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "cooldowns": {
-      "afk": 1792998732972,
+      "afk": 1792998886567,
       "menu": 1792998715899
     },
     "lastActiveDate": "26/10/2026",
