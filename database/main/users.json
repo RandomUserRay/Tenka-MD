@@ -94948,7 +94948,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 825,
+    "exp": 840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130409,7 +130409,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15045,
+    "exp": 15060,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -133748,18 +133748,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 210,
-      "health": 450,
-      "mana": 275,
-      "maxHealth": 450,
-      "maxMana": 275,
-      "maxStamina": 275,
-      "level": 36,
+      "stamina": 280,
+      "health": 460,
+      "mana": 280,
+      "maxHealth": 460,
+      "maxMana": 280,
+      "maxStamina": 280,
+      "level": 37,
       "attack": 10
     },
-    "exp": 359322,
+    "exp": 361063,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:50:11.123Z",
+    "lastSeen": "2026-10-26T04:50:29.584Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990140498,
@@ -133775,19 +133775,19 @@
       "burung": 1792985824005,
       "job": 1792990206888,
       "susunkata": 1792985996374,
-      "quiz": 1792987559434,
+      "quiz": 1792990229792,
       "inventory": 1792989867237,
       "mancing": 1792987374100,
-      "adventure": 1792989821143,
+      "adventure": 1792990213919,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021,
       "maling": 1792987994443,
-      "dungeon": 1792989843089
+      "dungeon": 1792990217414
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 367,
+    "energi": 372,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133797,11 +133797,13 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 160123,
+    "koin": 161358,
     "inventory": {
       "trash": 2,
       "prawn": 1,
-      "iron": 1
+      "iron": 1,
+      "herb": 2,
+      "leather": 4
     }
   },
   "6285750087063": {
@@ -134072,6 +134074,6 @@
   "6283184530258": {
     "jid": "6283184530258",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
