@@ -133542,17 +133542,18 @@
   "6281355820001": {
     "jid": "6281355820001",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "name": "[Ark]",
-    "lastSeen": "2026-10-26T03:32:46.088Z",
+    "lastSeen": "2026-10-26T03:42:29.412Z",
     "cooldowns": {
       "ganteng": 1792945282839,
       "tebakhewan": 1792945781556,
-      "top": 1792985566217
+      "top": 1792985566217,
+      "casino": 1792986149539
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 99999
+    "energi": 99998
   },
   "6283863082338": {
     "jid": "6283863082338",
@@ -133566,9 +133567,9 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 320433,
+    "exp": 320448,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:40:52.332Z",
+    "lastSeen": "2026-10-26T03:42:25.847Z",
     "cooldowns": {
       "menu": 1792985714505,
       "menucat": 1792985891950,
@@ -133581,7 +133582,8 @@
       "susunkata": 1792985898856,
       "levelup": 1792985936606,
       "dungeon": 1792985997721,
-      "catur": 1792986052915
+      "catur": 1792986052915,
+      "quiz": 1792986146125
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133713,9 +133715,9 @@
       "maxStamina": 260,
       "level": 33
     },
-    "exp": 321159,
+    "exp": 321174,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:42:15.060Z",
+    "lastSeen": "2026-10-26T03:42:27.659Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792986125968,
@@ -133734,7 +133736,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 325,
+    "energi": 324,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133744,7 +133746,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 3677,
+    "koin": 7177,
     "inventory": {}
   },
   "6285750087063": {
@@ -133844,7 +133846,7 @@
   "628211881106": {
     "jid": "628211881106",
     "rpg": {},
-    "exp": 330
+    "exp": 345
   },
   "6288220007426": {
     "jid": "6288220007426",
