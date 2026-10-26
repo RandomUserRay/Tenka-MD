@@ -133566,7 +133566,7 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 320403,
+    "exp": 320418,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:40:52.332Z",
     "cooldowns": {
@@ -133713,12 +133713,12 @@
       "maxStamina": 260,
       "level": 33
     },
-    "exp": 321039,
+    "exp": 321069,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:39:56.232Z",
+    "lastSeen": "2026-10-26T03:41:18.985Z",
     "cooldowns": {
-      "menu": 1792985735135,
-      "casino": 1792985104734,
+      "menu": 1792986072697,
+      "casino": 1792986081828,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133734,7 +133734,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 329,
+    "energi": 328,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133744,7 +133744,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 4177,
+    "koin": 2177,
     "inventory": {}
   },
   "6285750087063": {
@@ -133928,7 +133928,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 2307,
+    "exp": 2322,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T03:38:10.684Z",
     "cooldowns": {
@@ -133961,6 +133961,6 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
