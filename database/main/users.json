@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28675,
+    "exp": 28690,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -4018,7 +4018,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T15:03:36.423Z",
+    "lastSeen": "2026-10-26T00:16:13.853Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -4033,7 +4033,7 @@
       "mining": 1780204215373,
       "level": 1780205014465,
       "mine": 1780291765178,
-      "cekfemboy": 1792938864825,
+      "cekfemboy": 1792973778041,
       "menu": 1792938922600,
       "play": 1792938819122,
       "menucat": 1792939389579,
@@ -4073,8 +4073,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2
   },
   "6287766635415": {
     "jid": "6287766635415",
@@ -114670,7 +114670,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16320,
+    "exp": 16335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
