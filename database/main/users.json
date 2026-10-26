@@ -99480,10 +99480,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17955,
+    "exp": 17970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99493,7 +99493,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T01:42:41.814Z",
+    "lastSeen": "2026-10-26T19:27:01.406Z",
     "cooldowns": {
       "play": 1792786906328,
       "menu": 1792978939745,
@@ -125128,7 +125128,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "energi": 99999
   },
   "6285881075054": {
