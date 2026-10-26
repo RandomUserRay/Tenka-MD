@@ -133871,7 +133871,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 325,
+      "stamina": 315,
       "health": 550,
       "mana": 325,
       "maxHealth": 550,
@@ -133880,9 +133880,9 @@
       "level": 46,
       "attack": 10
     },
-    "exp": 455275,
+    "exp": 457438,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:53:32.490Z",
+    "lastSeen": "2026-10-26T10:53:51.311Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793011519958,
@@ -133896,7 +133896,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793011484922,
+      "job": 1793012035466,
       "susunkata": 1792985996374,
       "quiz": 1793012012994,
       "inventory": 1792992573520,
@@ -133909,7 +133909,7 @@
       "dungeon": 1793011503124,
       "nikah": 1792990325359,
       "me": 1792998194636,
-      "inv": 1793000453516
+      "inv": 1793012025839
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 33838,
+    "koin": 55173,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134131,7 +134131,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 90,
+      "stamina": 75,
       "health": 75,
       "mana": 53,
       "maxHealth": 150,
@@ -134140,9 +134140,9 @@
       "attack": 10,
       "level": 6
     },
-    "exp": 56007,
+    "exp": 56096,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:53:38.938Z",
+    "lastSeen": "2026-10-26T10:53:50.299Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134182,7 +134182,7 @@
       "meme": 1793010082423,
       "quotesimage": 1793010093245,
       "nyapu": 1793010158769,
-      "mulung": 1793010240376,
+      "mulung": 1793012034584,
       "ngamen": 1793010248026,
       "ngemis": 1793010254169,
       "stamina": 1793010308022,
@@ -134205,14 +134205,14 @@
       "potion": 2,
       "deer": 0,
       "octopus": 0,
-      "botol": 10,
-      "kaleng": 4,
-      "kardus": 2,
-      "sampah": 11,
-      "koran": 1
+      "botol": 18,
+      "kaleng": 5,
+      "kardus": 3,
+      "sampah": 26,
+      "koran": 2
     },
-    "koin": 120741,
-    "energi": 36
+    "koin": 121820,
+    "energi": 35
   },
   "62895327376940": {
     "name": "Ezic",
