@@ -35965,7 +35965,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036322,
+    "exp": 1036337,
     "level": 1,
     "koin": 1005000,
     "unlockedFeatures": [],
@@ -51440,7 +51440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609628,
+    "exp": 609643,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -52404,7 +52404,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064095,
+    "exp": 1064110,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -114736,7 +114736,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50020,
+    "exp": 50035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130441,7 +130441,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15450,
+    "exp": 15465,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -133873,7 +133873,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 240,
+      "stamina": 230,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133883,9 +133883,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 467538,
+    "exp": 468909,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:06:04.434Z",
+    "lastSeen": "2026-10-26T11:06:32.173Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133899,7 +133899,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793012474989,
+      "job": 1793012796614,
       "susunkata": 1792985996374,
       "quiz": 1793012547719,
       "inventory": 1792992573520,
@@ -134155,7 +134155,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 135,
+      "stamina": 120,
       "health": 170,
       "mana": 135,
       "maxHealth": 170,
@@ -134169,9 +134169,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 70216,
+    "exp": 71212,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T11:06:10.387Z",
+    "lastSeen": "2026-10-26T11:06:32.274Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134227,7 +134227,8 @@
       "gacha": 1793012469737,
       "work": 1793012629370,
       "cooking": 1793012740937,
-      "cook": 1793012746244
+      "cook": 1793012746244,
+      "ngojek": 1793012797313
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134252,8 +134253,8 @@
       "koran": 2,
       "stick": 0
     },
-    "koin": 318039,
-    "energi": 25,
+    "koin": 337367,
+    "energi": 24,
     "quest": {
       "work10": {
         "progress": 0,
@@ -134304,7 +134305,7 @@
   "6285183144501": {
     "jid": "6285183144501",
     "rpg": {},
-    "exp": 930
+    "exp": 945
   },
   "6283184530258": {
     "jid": "6283184530258",
