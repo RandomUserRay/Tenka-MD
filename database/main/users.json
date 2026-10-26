@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12045,
+    "exp": 12030,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91397,7 +91397,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57750,
+    "exp": 57870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95999,7 +95999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 375,
+    "exp": 360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106391,7 +106391,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58500,
+    "exp": 58470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130256,7 +130256,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400749030,
+    "exp": 19400748805,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -132609,6 +132609,12 @@
     "activeDays": 1,
     "energi": 99999
   },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132625,12 +132631,6 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 735,
-    "energi": 99999
-  },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "6287894267928": {
@@ -132957,7 +132957,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 3808,
+    "exp": 3778,
     "energi": 99995,
     "koin": 1250,
     "name": "kck",
@@ -133263,6 +133263,19 @@
     "exp": 15,
     "energi": 99999
   },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
+    "energi": 99999
+  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133291,19 +133304,6 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 75,
-    "energi": 99999
-  },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
     "energi": 99999
   },
   "6289691337115": {
@@ -133500,6 +133500,12 @@
     "exp": 15,
     "energi": 99999
   },
+  "6283138281728": {
+    "jid": "6283138281728",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
   "6289514408551": {
     "jid": "6289514408551",
     "rpg": {},
@@ -133514,12 +133520,6 @@
   },
   "6289604380857": {
     "jid": "6289604380857",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
-  "6283138281728": {
-    "jid": "6283138281728",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -133577,14 +133577,14 @@
       "maxHealth": 450,
       "maxMana": 275,
       "maxStamina": 275,
-      "health": 381,
+      "health": 450,
       "mana": 275,
-      "stamina": 160,
+      "stamina": 220,
       "attack": 10
     },
-    "exp": 358197,
+    "exp": 357762,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:12:18.098Z",
+    "lastSeen": "2026-10-26T04:09:07.279Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133596,7 +133596,7 @@
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
       "levelup": 1792987303038,
-      "dungeon": 1792987832312,
+      "dungeon": 1792986625476,
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792986206937,
@@ -133610,14 +133610,12 @@
       "tebakepep": 1792987335851,
       "mancing": 1792987596044,
       "sell": 1792987623906,
-      "shop": 1792987656642,
-      "rest": 1792987814049,
-      "adventure": 1792987941832
+      "shop": 1792987656642
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100387,
-    "koin": 214,
+    "energi": 100388,
+    "koin": 0,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133631,10 +133629,7 @@
     "inventory": {
       "trash": 2,
       "fish": 1,
-      "prawn": 1,
-      "gold": 1,
-      "herb": 4,
-      "leather": 4
+      "prawn": 1
     }
   },
   "6281221110247": {
@@ -133743,21 +133738,20 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 220,
-      "health": 424,
+      "stamina": 260,
+      "health": 450,
       "mana": 275,
       "maxHealth": 450,
       "maxMana": 275,
       "maxStamina": 275,
-      "level": 36,
-      "attack": 10
+      "level": 36
     },
-    "exp": 356210,
+    "exp": 353086,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:12:21.130Z",
+    "lastSeen": "2026-10-26T04:08:14.619Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792987943841,
+      "casino": 1792987697308,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133768,20 +133762,19 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1792987775526,
+      "job": 1792987348682,
       "susunkata": 1792985996374,
-      "quiz": 1792987836939,
+      "quiz": 1792987559434,
       "inventory": 1792987579584,
       "mancing": 1792987374100,
-      "adventure": 1792987761985,
+      "adventure": 1792987353187,
       "xp": 1792987337602,
       "shop": 1792987447094,
-      "sell": 1792987418021,
-      "dungeon": 1792987783627
+      "sell": 1792987418021
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 376,
+    "energi": 375,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133791,11 +133784,10 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 93183,
+    "koin": 76433,
     "inventory": {
       "trash": 2,
-      "prawn": 1,
-      "iron": 4
+      "prawn": 1
     }
   },
   "6285750087063": {
@@ -133984,20 +133976,13 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 71,
+      "stamina": 25,
       "health": 105,
-      "mana": 53,
-      "attack": 10,
-      "maxHealth": 100,
-      "maxStamina": 100,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792987792656
-      }
+      "mana": 53
     },
-    "exp": 28307,
+    "exp": 28202,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T04:11:17.828Z",
+    "lastSeen": "2026-10-26T04:07:54.356Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134006,14 +133991,13 @@
       "info": 1792985553581,
       "inventory": 1792986604159,
       "job": 1792987600467,
-      "tidur": 1792987814279,
+      "tidur": 1792985893994,
       "weekly": 1792986213911,
-      "allmenu": 1792987881366,
+      "allmenu": 1792987662214,
       "tolol": 1792986385069,
       "level": 1792986538822,
       "mancing": 1792987591885,
-      "prabowo-ai": 1792987674459,
-      "dungeon": 1792987792782
+      "prabowo-ai": 1792987674459
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
