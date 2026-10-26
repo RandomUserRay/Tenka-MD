@@ -128177,7 +128177,7 @@
       },
       "expeditions": []
     },
-    "exp": 196602,
+    "exp": 196662,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1792888576051,
@@ -128631,7 +128631,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 11104,
+    "exp": 11149,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -132987,7 +132987,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 4033,
+    "exp": 4048,
     "energi": 99988,
     "koin": 1250,
     "name": "kck",
@@ -133807,9 +133807,9 @@
       "level": 39,
       "attack": 10
     },
-    "exp": 381318,
+    "exp": 385542,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:26:15.160Z",
+    "lastSeen": "2026-10-26T07:26:58.352Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999502389,
@@ -133825,7 +133825,7 @@
       "burung": 1792985824005,
       "job": 1792999524700,
       "susunkata": 1792985996374,
-      "quiz": 1792999575855,
+      "quiz": 1792999610948,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1792999547836,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 390,
+    "energi": 401,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133850,7 +133850,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 7399,
+    "koin": 10508,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134475,6 +134475,11 @@
   },
   "62881011292603": {
     "jid": "62881011292603",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285893071585": {
+    "jid": "6285893071585",
     "rpg": {},
     "exp": 15
   }
