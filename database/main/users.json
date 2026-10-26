@@ -132222,7 +132222,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11675,
+    "exp": 11690,
     "cooldowns": {
       "gacha": 1792998847589,
       "judi": 1792906074331,
@@ -132460,7 +132460,7 @@
   "6289672791553": {
     "jid": "6289672791553",
     "rpg": {},
-    "exp": 270,
+    "exp": 285,
     "energi": 99999
   },
   "6285199694620": {
@@ -133608,14 +133608,22 @@
       "maxHealth": 660,
       "maxMana": 380,
       "maxStamina": 380,
-      "health": 627,
+      "health": 598,
       "mana": 380,
       "stamina": 240,
-      "attack": 10
+      "attack": 10,
+      "pet": {
+        "type": "cat",
+        "name": "Kucing",
+        "level": 1,
+        "exp": 0,
+        "hunger": 80,
+        "stats": null
+      }
     },
-    "exp": 566205,
+    "exp": 566235,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:43:38.042Z",
+    "lastSeen": "2026-10-26T07:44:12.519Z",
     "cooldowns": {
       "menu": 1793000367070,
       "menucat": 1793000387324,
@@ -133669,12 +133677,12 @@
       "mulung": 1793000586298,
       "ngamen": 1793000589069,
       "ngemis": 1793000590497,
-      "petshop": 1793000618327
+      "petshop": 1793000641435
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100845,
-    "koin": 171638,
+    "energi": 100844,
+    "koin": 166638,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
