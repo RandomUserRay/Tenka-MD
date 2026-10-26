@@ -132171,7 +132171,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 14896,
+    "exp": 14911,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -133201,7 +133201,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 2370,
+    "exp": 2385,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T01:27:27.854Z",
     "cooldowns": {
@@ -133655,7 +133655,8 @@
       "topexp": 1792995319502,
       "use": 1792995855493,
       "topkoin": 1792998585184,
-      "tebakmakanan": 1792998753959
+      "tebakmakanan": 1792998753959,
+      "help": 1792998977631
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133805,7 +133806,7 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 373626,
+    "exp": 376285,
     "name": "mıss",
     "lastSeen": "2026-10-26T07:15:40.199Z",
     "cooldowns": {
@@ -133838,7 +133839,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 388,
+    "energi": 391,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133848,7 +133849,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 195890,
+    "koin": 197040,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134055,7 +134056,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 29,
+      "stamina": 9,
       "health": 105,
       "mana": 53,
       "maxHealth": 100,
@@ -134063,9 +134064,9 @@
       "maxStamina": 100,
       "attack": 10
     },
-    "exp": 29170,
+    "exp": 29501,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:16:09.076Z",
+    "lastSeen": "2026-10-26T07:16:56.934Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134086,7 +134087,8 @@
       "inv": 1792998863372,
       "use": 1792998923514,
       "dungeon": 1792998934430,
-      "tebakfilm": 1792998970540
+      "tebakfilm": 1792998970540,
+      "tambang": 1792999021287
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134096,10 +134098,13 @@
       "fish": 1,
       "prawn": 1,
       "herb": 5,
-      "leather": 2
+      "leather": 2,
+      "rock": 3,
+      "iron": 1,
+      "diamond": 1
     },
     "koin": 28261,
-    "energi": 19
+    "energi": 18
   },
   "62895327376940": {
     "name": "Ezic",
