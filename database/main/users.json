@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 68636,
+    "exp": 68696,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128845,7 +128845,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18585,
+    "exp": 18600,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287961,
+    "exp": 287991,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -132111,7 +132111,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1920,
+    "exp": 1935,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -133231,7 +133231,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8754,
+    "exp": 8769,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133871,18 +133871,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 315,
-      "health": 530,
-      "mana": 315,
-      "maxHealth": 530,
-      "maxMana": 315,
-      "maxStamina": 315,
-      "level": 44,
+      "stamina": 320,
+      "health": 540,
+      "mana": 320,
+      "maxHealth": 540,
+      "maxMana": 320,
+      "maxStamina": 320,
+      "level": 45,
       "attack": 10
     },
-    "exp": 437951,
+    "exp": 446381,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:50:56.776Z",
+    "lastSeen": "2026-10-26T10:52:20.999Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793011519958,
@@ -133898,7 +133898,7 @@
       "burung": 1792985824005,
       "job": 1793011484922,
       "susunkata": 1792985996374,
-      "quiz": 1793011857398,
+      "quiz": 1793011941596,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1793011495758,
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 459,
+    "energi": 480,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 25125,
+    "koin": 30062,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134131,18 +134131,18 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 62,
-      "health": 135,
-      "mana": 125,
+      "stamina": 100,
+      "health": 105,
+      "mana": 53,
       "maxHealth": 150,
       "maxMana": 125,
       "maxStamina": 125,
       "attack": 10,
       "level": 6
     },
-    "exp": 52238,
+    "exp": 52253,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:26:51.716Z",
+    "lastSeen": "2026-10-26T10:52:25.421Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134152,7 +134152,7 @@
       "info": 1793009278269,
       "inventory": 1793009140244,
       "job": 1793009854968,
-      "tidur": 1793009862440,
+      "tidur": 1793011950177,
       "weekly": 1792986213911,
       "allmenu": 1793009390130,
       "tolol": 1792986385069,
@@ -134239,7 +134239,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 525,
+    "exp": 555,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
