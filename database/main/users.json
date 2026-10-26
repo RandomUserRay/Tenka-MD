@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20714,
+    "exp": 20759,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 465,
+    "exp": 480,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -38078,7 +38078,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9345,
+    "exp": 9300,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96061,7 +96061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 525,
+    "exp": 555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114692,7 +114692,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16395,
+    "exp": 16410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125395,9 +125395,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19911,
+    "exp": 19836,
     "name": "paduka riyy",
-    "lastSeen": "2026-10-26T10:30:41.743Z",
+    "lastSeen": "2026-10-25T11:22:41.335Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125433,12 +125433,11 @@
       "play": 1790251767366,
       "marry": 1790250742612,
       "spotify": 1792581543021,
-      "afk": 1792820225325,
-      "intro": 1793010641971
+      "afk": 1792820225325
     },
     "energi": 99999,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 11,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 10,
     "fun": {
       "jadiPacar": 1789917115599
     },
@@ -126752,7 +126751,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23820,
+    "exp": 23835,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-10-25T08:36:15.777Z",
@@ -131293,7 +131292,7 @@
   "6285162814773": {
     "jid": "6285162814773",
     "rpg": {},
-    "exp": 345,
+    "exp": 330,
     "energi": 99999
   },
   "62895320161311": {
@@ -132111,7 +132110,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1830,
+    "exp": 1845,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -132194,7 +132193,7 @@
       "maxMana": 105,
       "maxStamina": 105
     },
-    "exp": 18064,
+    "exp": 18094,
     "cooldowns": {
       "menu": 1792899179011,
       "me": 1792926235225,
@@ -133231,7 +133230,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8619,
+    "exp": 8649,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133638,13 +133637,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 59,
-      "maxHealth": 680,
-      "maxMana": 390,
-      "maxStamina": 390,
-      "health": 665,
-      "mana": 390,
-      "stamina": 297,
+      "level": 61,
+      "maxHealth": 700,
+      "maxMana": 400,
+      "maxStamina": 400,
+      "health": 700,
+      "mana": 400,
+      "stamina": 400,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133655,9 +133654,9 @@
         "stats": null
       }
     },
-    "exp": 589465,
+    "exp": 609988,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T10:26:48.785Z",
+    "lastSeen": "2026-10-26T10:30:51.659Z",
     "cooldowns": {
       "menu": 1793010003858,
       "menucat": 1793010334821,
@@ -133673,7 +133672,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793010208570,
+      "tebaknegara": 1793010652078,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133684,7 +133683,7 @@
       "mancing": 1793010411636,
       "sell": 1792987623906,
       "shop": 1793000517562,
-      "maling": 1792991118078,
+      "maling": 1793010425165,
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793010275706,
@@ -133693,7 +133692,7 @@
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
       "family100": 1792992039272,
-      "adventure": 1793009822570,
+      "adventure": 1793010451976,
       "lb": 1792998580540,
       "topexp": 1792995319502,
       "use": 1792995855493,
@@ -133723,8 +133722,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100888,
-    "koin": 235998,
+    "energi": 100952,
+    "koin": 271533,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133966,7 +133965,7 @@
   "6289656002609": {
     "jid": "6289656002609",
     "rpg": {},
-    "exp": 135,
+    "exp": 165,
     "name": "karii",
     "lastSeen": "2026-10-26T03:59:24.949Z",
     "cooldowns": {
@@ -134131,7 +134130,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 62,
+      "stamina": 42,
       "health": 135,
       "mana": 125,
       "maxHealth": 150,
@@ -134140,9 +134139,9 @@
       "attack": 10,
       "level": 6
     },
-    "exp": 52238,
+    "exp": 52788,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:26:51.716Z",
+    "lastSeen": "2026-10-26T10:27:51.050Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134165,11 +134164,11 @@
       "use": 1793009133283,
       "dungeon": 1793009167691,
       "tebakfilm": 1792998970540,
-      "tambang": 1793010011203,
+      "tambang": 1793010433728,
       "pap": 1792999398457,
       "adventure": 1793009249693,
       "mywaifu": 1792999798476,
-      "sellall": 1793010017915,
+      "sellall": 1793010447685,
       "shop": 1793009302320,
       "money": 1793010029453,
       "energy": 1793009333504,
@@ -134187,7 +134186,8 @@
       "ngemis": 1793010254169,
       "stamina": 1793010308022,
       "crime": 1793010358469,
-      "jualan": 1793010380154
+      "jualan": 1793010380154,
+      "afk": 1793010473434
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134211,8 +134211,8 @@
       "sampah": 11,
       "koran": 1
     },
-    "koin": 120247,
-    "energi": 31
+    "koin": 120307,
+    "energi": 30
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134720,7 +134720,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 330
+    "exp": 360
   },
   "6285842889332": {
     "name": "arsaputra",
@@ -134739,11 +134739,11 @@
   "6285640501387": {
     "jid": "6285640501387",
     "rpg": {},
-    "exp": 375
+    "exp": 435
   },
   "6281382738806": {
     "jid": "6281382738806",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
