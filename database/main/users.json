@@ -4541,7 +4541,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235715,
+    "exp": 235745,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12075,
+    "exp": 12090,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106391,7 +106391,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58590,
+    "exp": 58605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106401,7 +106401,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T04:59:22.561Z",
+    "lastSeen": "2026-10-26T05:02:03.724Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106445,7 +106445,7 @@
       "intro": 1788859266642,
       "setintro": 1788690291991,
       "setwelcome": 1792887280911,
-      "notifmakan": 1792887675530,
+      "notifmakan": 1792990926663,
       "tagall": 1792972821744,
       "bass": 1788694545758,
       "blown": 1788694698473,
@@ -130409,7 +130409,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15360,
+    "exp": 15375,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -133249,7 +133249,7 @@
   "6282283579323": {
     "jid": "6282283579323",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6282195960556": {
