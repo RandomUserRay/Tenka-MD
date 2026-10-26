@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1793014796281
+    },
+    {
+      "cmd": "unknown",
       "err": "AIRich is not a constructor",
       "at": 1792999530138
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789820223342
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789820218659
     }
   ],
   "jpmBlacklist": [],
@@ -380,8 +380,7 @@
         "18:40_2026-10-21": true,
         "18:40_2026-10-22": true,
         "18:40_2026-10-23": true,
-        "18:40_2026-10-24": true,
-        "18:40_2026-10-26": true
+        "18:40_2026-10-24": true
       },
       "createdAt": 1784197426979
     },
@@ -30985,6 +30984,18 @@
     "6285793008605@s.whatsapp.net": {
       "jid": "6285793008605@s.whatsapp.net",
       "name": "yanti"
+    },
+    "6285849536942@s.whatsapp.net": {
+      "jid": "6285849536942@s.whatsapp.net",
+      "name": "kml"
+    },
+    "6283854366548@s.whatsapp.net": {
+      "jid": "6283854366548@s.whatsapp.net",
+      "name": "M. アリフィン"
+    },
+    "6282367316067@s.whatsapp.net": {
+      "jid": "6282367316067@s.whatsapp.net",
+      "name": "″°_°\"🫵🏻"
     }
   },
   "antiCall": false,
