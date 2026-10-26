@@ -55061,7 +55061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30771,
+    "exp": 30786,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -132209,7 +132209,7 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-26T01:38:34.867Z",
+    "lastSeen": "2026-10-26T07:14:06.337Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 95,
@@ -132222,9 +132222,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11465,
+    "exp": 11480,
     "cooldowns": {
-      "gacha": 1792972530896,
+      "gacha": 1792998847589,
       "judi": 1792906074331,
       "work": 1792972545390,
       "gojek": 1792906284855,
@@ -132234,7 +132234,7 @@
       "cekfemboy": 1792978720117,
       "gay": 1792978661975
     },
-    "energi": 99998,
+    "energi": 99997,
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "koin": 119081
@@ -132688,7 +132688,7 @@
       "bratpatrick": 1792994158498,
       "bratbahlil": 1792994202808,
       "bratgojovid": 1792994306221,
-      "bratvermeilvid": 1792994370931
+      "bratvermeilvid": 1792998831297
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133612,7 +133612,7 @@
       "stamina": 310,
       "attack": 10
     },
-    "exp": 515466,
+    "exp": 515481,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:12:32.469Z",
     "cooldowns": {
@@ -134053,13 +134053,13 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 74,
+      "stamina": 59,
       "health": 105,
       "mana": 53
     },
-    "exp": 28608,
+    "exp": 28773,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:13:31.137Z",
+    "lastSeen": "2026-10-26T07:13:58.074Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134073,7 +134073,7 @@
       "allmenu": 1792988182967,
       "tolol": 1792986385069,
       "level": 1792986538822,
-      "mancing": 1792987591885,
+      "mancing": 1792998845921,
       "prabowo-ai": 1792987674459,
       "ngentod": 1792988004038,
       "absen": 1792988103531
@@ -134083,10 +134083,11 @@
     "inventory": {
       "uncommon": 1,
       "trash": 2,
-      "fish": 1
+      "fish": 1,
+      "prawn": 1
     },
     "koin": 28043,
-    "energi": 20
+    "energi": 19
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134254,7 +134255,7 @@
       "bug": 1792994172899,
       "owner": 1792994186037,
       "bratimg": 1792994367057,
-      "bratvid2": 1792998793870
+      "bratvid2": 1792998832073
     },
     "energi": 13,
     "lastActiveDate": "26/10/2026",
