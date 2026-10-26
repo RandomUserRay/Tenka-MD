@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 68771,
+    "exp": 68816,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-26T10:55:15.219Z",
@@ -128603,7 +128603,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17880,
+    "exp": 17895,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -128845,7 +128845,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18645,
+    "exp": 18675,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -132286,7 +132286,7 @@
   "6287710342157": {
     "jid": "6287710342157",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "name": "‎",
     "lastSeen": "2026-10-25T14:34:07.650Z",
     "cooldowns": {
@@ -133880,12 +133880,12 @@
       "level": 46,
       "attack": 10
     },
-    "exp": 459628,
+    "exp": 459688,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:55:38.496Z",
+    "lastSeen": "2026-10-26T10:56:38.360Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793012128015,
+      "casino": 1793012201863,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 499,
+    "energi": 497,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 67320,
+    "koin": 47320,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -134132,22 +134132,22 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 115,
-      "health": 75,
-      "mana": 53,
-      "maxHealth": 150,
-      "maxMana": 125,
-      "maxStamina": 125,
+      "stamina": 130,
+      "health": 160,
+      "mana": 130,
+      "maxHealth": 160,
+      "maxMana": 130,
+      "maxStamina": 130,
       "attack": 10,
-      "level": 6,
+      "level": 7,
       "garden": {
         "plots": [],
         "maxPlots": 3
       }
     },
-    "exp": 57202,
+    "exp": 61697,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:55:58.315Z",
+    "lastSeen": "2026-10-26T10:56:18.686Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134193,7 +134193,8 @@
       "stamina": 1793012106321,
       "crime": 1793010358469,
       "jualan": 1793012051154,
-      "garden": 1793012146949
+      "garden": 1793012146949,
+      "streamer": 1793012185206
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134217,7 +134218,7 @@
       "sampah": 26,
       "koran": 2
     },
-    "koin": 117488,
+    "koin": 251015,
     "energi": 34
   },
   "62895327376940": {
