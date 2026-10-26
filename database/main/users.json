@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71934,10 +71934,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73966,
+    "exp": 73996,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71946,7 +71946,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:53:43.437Z",
+    "lastSeen": "2026-10-26T11:22:20.126Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -72013,7 +72013,8 @@
       "ai": 1790779136102,
       "pin": 1792929234022,
       "top5": 1792588251851,
-      "playvideo": 1792926896805
+      "playvideo": 1792926896805,
+      "s": 1793013738816
     },
     "clanId": null,
     "isRegistered": false,
@@ -72037,8 +72038,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 27,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 28,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -103380,7 +103381,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40246,
+    "exp": 40186,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113245,7 +113246,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26625,
+    "exp": 26580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125396,7 +125397,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20346,
+    "exp": 20391,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -129005,7 +129006,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 319930,
+    "exp": 319870,
     "energi": 99991,
     "name": "MaLa ?",
     "lastSeen": "2026-10-26T11:18:57.643Z",
@@ -130292,7 +130293,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400749405,
+    "exp": 19400749780,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -132317,7 +132318,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 7065,
+    "exp": 7035,
     "name": "Seller Soviet (AYX)",
     "lastSeen": "2026-10-26T06:23:14.333Z",
     "cooldowns": {
@@ -133027,7 +133028,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 4498,
+    "exp": 4483,
     "energi": 99983,
     "koin": 1250,
     "name": "kck",
@@ -134304,7 +134305,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 675,
+    "exp": 630,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134609,7 +134610,7 @@
   "628999883773": {
     "jid": "628999883773",
     "rpg": {},
-    "exp": 60
+    "exp": 45
   },
   "6289524326679": {
     "jid": "6289524326679",
@@ -134785,14 +134786,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 510,
-    "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-26T11:21:51.370Z",
-    "cooldowns": {
-      "afk": 1793013713559
-    },
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 1
+    "exp": 465
   },
   "6285842889332": {
     "name": "arsaputra",
@@ -134828,7 +134822,7 @@
   "6282113514307": {
     "jid": "6282113514307",
     "rpg": {},
-    "exp": 90
+    "exp": 60
   },
   "6282345651078": {
     "jid": "6282345651078",
@@ -134837,6 +134831,11 @@
   },
   "6285248334834": {
     "jid": "6285248334834",
+    "rpg": {},
+    "exp": 15
+  },
+  "6289635727410": {
+    "jid": "6289635727410",
     "rpg": {},
     "exp": 15
   },
