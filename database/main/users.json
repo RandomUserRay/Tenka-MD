@@ -132222,7 +132222,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11495,
+    "exp": 11510,
     "cooldowns": {
       "gacha": 1792998847589,
       "judi": 1792906074331,
@@ -133613,12 +133613,12 @@
       "stamina": 335,
       "attack": 10
     },
-    "exp": 561767,
+    "exp": 561812,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:39:19.327Z",
+    "lastSeen": "2026-10-26T07:39:57.804Z",
     "cooldowns": {
       "menu": 1793000367070,
-      "menucat": 1792999156923,
+      "menucat": 1793000387324,
       "cekfemboy": 1792988111680,
       "top": 1792987677229,
       "register": 1792985217246,
@@ -133658,11 +133658,13 @@
       "topkoin": 1792998585184,
       "tebakmakanan": 1792998753959,
       "help": 1792998977631,
-      "sellall": 1792999916885
+      "sellall": 1792999916885,
+      "cook": 1793000396632,
+      "boss": 1793000398196
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100854,
+    "energi": 100851,
     "koin": 181638,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133809,7 +133811,7 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 394300,
+    "exp": 394315,
     "name": "mıss",
     "lastSeen": "2026-10-26T07:39:35.143Z",
     "cooldowns": {
