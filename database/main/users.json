@@ -51440,7 +51440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609598,
+    "exp": 609613,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -125395,7 +125395,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20046,
+    "exp": 20061,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -133233,7 +133233,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8784,
+    "exp": 8799,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133880,11 +133880,12 @@
       "maxMana": 330,
       "maxStamina": 330,
       "level": 47,
-      "attack": 10
+      "attack": 10,
+      "lastHourly": 1793012751892
     },
-    "exp": 467293,
+    "exp": 467508,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:05:24.735Z",
+    "lastSeen": "2026-10-26T11:05:51.891Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133933,7 +133934,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 57829,
+    "koin": 58829,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134168,9 +134169,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 70186,
+    "exp": 70201,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T11:05:40.585Z",
+    "lastSeen": "2026-10-26T11:05:45.717Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134225,7 +134226,8 @@
       "craft": 1793012458337,
       "gacha": 1793012469737,
       "work": 1793012629370,
-      "cooking": 1793012740937
+      "cooking": 1793012740937,
+      "cook": 1793012746244
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
