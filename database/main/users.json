@@ -94948,7 +94948,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 840,
+    "exp": 855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95999,7 +95999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 390,
+    "exp": 405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130409,7 +130409,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15120,
+    "exp": 15150,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -132517,7 +132517,7 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8057,
+    "exp": 8072,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T04:45:21.130Z",
     "cooldowns": {
@@ -133019,7 +133019,7 @@
   "6285783897137": {
     "jid": "6285783897137",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999
   },
   "6282148841533": {
@@ -133760,12 +133760,12 @@
       "level": 37,
       "attack": 10
     },
-    "exp": 362593,
+    "exp": 362608,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:52:05.273Z",
+    "lastSeen": "2026-10-26T04:53:01.906Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792990140498,
+      "casino": 1792990382025,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133791,7 +133791,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 375,
+    "energi": 374,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
