@@ -128507,10 +128507,10 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 68816,
+    "exp": 68846,
     "energi": 99999,
     "name": "Virberzo",
-    "lastSeen": "2026-10-26T10:55:15.219Z",
+    "lastSeen": "2026-10-26T10:57:26.761Z",
     "cooldowns": {
       "top": 1793012115285,
       "ship": 1791594897315,
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 288126,
+    "exp": 288171,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -133871,18 +133871,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 270,
-      "health": 530,
-      "mana": 325,
-      "maxHealth": 550,
-      "maxMana": 325,
-      "maxStamina": 325,
-      "level": 46,
+      "stamina": 330,
+      "health": 560,
+      "mana": 330,
+      "maxHealth": 560,
+      "maxMana": 330,
+      "maxStamina": 330,
+      "level": 47,
       "attack": 10
     },
-    "exp": 459718,
+    "exp": 460081,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:56:53.372Z",
+    "lastSeen": "2026-10-26T10:57:24.768Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012216956,
@@ -133909,7 +133909,8 @@
       "dungeon": 1793012063444,
       "nikah": 1792990325359,
       "me": 1792998194636,
-      "inv": 1793012097588
+      "inv": 1793012097588,
+      "streamer": 1793012235327
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133923,7 +133924,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 7320,
+    "koin": 10357,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -133932,7 +133933,8 @@
       "leather": 6,
       "potion": 4,
       "diamond": 1
-    }
+    },
+    "lastStreamer": 1793012533662
   },
   "6285750087063": {
     "jid": "6285750087063",
