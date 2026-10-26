@@ -133609,12 +133609,12 @@
       "maxStamina": 355,
       "health": 610,
       "mana": 355,
-      "stamina": 280,
+      "stamina": 260,
       "attack": 10
     },
-    "exp": 517403,
+    "exp": 517632,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:15:29.342Z",
+    "lastSeen": "2026-10-26T07:15:38.196Z",
     "cooldowns": {
       "menu": 1792998638073,
       "menucat": 1792998645550,
@@ -133645,7 +133645,7 @@
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1792998908395,
-      "tambang": 1792998570963,
+      "tambang": 1792998941853,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133659,7 +133659,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100765,
+    "energi": 100764,
     "koin": 146445,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133675,7 +133675,7 @@
       "trash": 5,
       "fish": 3,
       "prawn": 2,
-      "rock": 21,
+      "rock": 26,
       "coal": 9,
       "gold": 1,
       "octopus": 1,
@@ -133803,11 +133803,15 @@
       "maxMana": 285,
       "maxStamina": 285,
       "level": 38,
-      "attack": 10
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792998940200
+      }
     },
-    "exp": 373581,
+    "exp": 373596,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:14:29.739Z",
+    "lastSeen": "2026-10-26T07:15:40.199Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990611228,
@@ -133831,7 +133835,7 @@
       "shop": 1792987447094,
       "sell": 1792987418021,
       "maling": 1792987994443,
-      "dungeon": 1792990217414,
+      "dungeon": 1792998940615,
       "nikah": 1792990325359,
       "me": 1792998194636,
       "inv": 1792998869904
@@ -134055,7 +134059,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 59,
+      "stamina": 29,
       "health": 105,
       "mana": 53,
       "maxHealth": 100,
@@ -134063,11 +134067,19 @@
       "maxStamina": 100,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792998934170
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 19,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792998939967
       }
     },
-    "exp": 28863,
+    "exp": 28878,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T07:15:34.170Z",
     "cooldowns": {
@@ -134088,7 +134100,8 @@
       "ngentod": 1792988004038,
       "absen": 1792988103531,
       "inv": 1792998863372,
-      "use": 1792998923514
+      "use": 1792998923514,
+      "dungeon": 1792998934430
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
