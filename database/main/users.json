@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20699,
+    "exp": 20714,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -133612,7 +133612,7 @@
       "stamina": 310,
       "attack": 10
     },
-    "exp": 515391,
+    "exp": 515421,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:12:32.469Z",
     "cooldowns": {
@@ -134057,7 +134057,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 28337,
+    "exp": 28352,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T04:18:12.862Z",
     "cooldowns": {
@@ -134244,19 +134244,19 @@
   },
   "6283839400613": {
     "name": "-",
-    "lastSeen": "2026-10-26T07:11:10.851Z",
+    "lastSeen": "2026-10-26T07:13:04.195Z",
     "jid": "6283839400613",
     "rpg": {},
-    "exp": 165,
+    "exp": 195,
     "cooldowns": {
-      "brat": 1792998665189,
+      "brat": 1792998775345,
       "bratcewek": 1792994152068,
       "bug": 1792994172899,
       "owner": 1792994186037,
       "bratimg": 1792994367057,
       "bratvid2": 1792998680987
     },
-    "energi": 17,
+    "energi": 15,
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
   },
