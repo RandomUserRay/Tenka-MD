@@ -5333,10 +5333,10 @@
     "jid": "62895614036100",
     "name": "ley",
     "number": "62895614036100",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16495,
+    "exp": 16510,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -5345,7 +5345,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T03:54:30.308Z",
+    "lastSeen": "2026-10-26T03:55:40.792Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
@@ -5353,7 +5353,8 @@
       "ww": 1782474469936,
       "menu": 1792974060994,
       "allmenu": 1792974128199,
-      "s": 1792986871950
+      "s": 1792986871950,
+      "smeme": 1792986940843
     },
     "clanId": null,
     "isRegistered": false,
@@ -133733,12 +133734,12 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 332604,
+    "exp": 332634,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:55:26.743Z",
+    "lastSeen": "2026-10-26T03:55:38.166Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792986926848,
+      "casino": 1792986941043,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133757,7 +133758,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 352,
+    "energi": 351,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133767,7 +133768,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 22620,
+    "koin": 17620,
     "inventory": {
       "trash": 1
     }
