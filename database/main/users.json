@@ -5336,7 +5336,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16465,
+    "exp": 16495,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -133733,7 +133733,7 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 332514,
+    "exp": 332544,
     "name": "mıss",
     "lastSeen": "2026-10-26T03:52:49.160Z",
     "cooldowns": {
@@ -134000,6 +134000,11 @@
   },
   "6285775936322": {
     "jid": "6285775936322",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282295686918": {
+    "jid": "6282295686918",
     "rpg": {},
     "exp": 15
   }
