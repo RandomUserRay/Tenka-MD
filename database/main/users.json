@@ -45622,7 +45622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15981,
+    "exp": 15996,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -133880,7 +133880,7 @@
       "level": 46,
       "attack": 10
     },
-    "exp": 457808,
+    "exp": 459613,
     "name": "mıss",
     "lastSeen": "2026-10-26T10:55:38.496Z",
     "cooldowns": {
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 491,
+    "energi": 499,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 65457,
+    "koin": 67320,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -134139,11 +134139,15 @@
       "maxMana": 125,
       "maxStamina": 125,
       "attack": 10,
-      "level": 6
+      "level": 6,
+      "garden": {
+        "plots": [],
+        "maxPlots": 3
+      }
     },
-    "exp": 57157,
+    "exp": 57172,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:55:37.946Z",
+    "lastSeen": "2026-10-26T10:55:46.503Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134188,7 +134192,8 @@
       "ngemis": 1793010254169,
       "stamina": 1793012106321,
       "crime": 1793010358469,
-      "jualan": 1793012051154
+      "jualan": 1793012051154,
+      "garden": 1793012146949
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134725,17 +134730,17 @@
   },
   "6285842889332": {
     "name": "arsaputra",
-    "lastSeen": "2026-10-26T10:55:25.938Z",
+    "lastSeen": "2026-10-26T10:55:45.503Z",
     "jid": "6285842889332",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "cooldowns": {
       "smeme": 1793009424038,
       "s": 1793012078691,
       "bratvid2": 1793012107946,
       "bratvid": 1793012128042
     },
-    "energi": 19,
+    "energi": 18,
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
   },
