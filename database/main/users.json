@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000260609,
+    "exp": 1009000260534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -16213,7 +16213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398597,
+    "exp": 9398612,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036277,
+    "exp": 1036322,
     "level": 1,
     "koin": 1005000,
     "unlockedFeatures": [],
@@ -51440,7 +51440,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609598,
+    "exp": 609628,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -52404,7 +52404,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064080,
+    "exp": 1064095,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -125395,7 +125395,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20031,
+    "exp": 20061,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -127224,10 +127224,10 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-10-26T11:05:42.475Z",
+    "lastSeen": "2026-10-24T17:20:54.270Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 2100,
+    "exp": 2085,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1792802361145,
@@ -127237,7 +127237,7 @@
       "fakeml": 1790594459434,
       "fakeff": 1790634908379,
       "brat": 1792566607474,
-      "pin": 1793012760153,
+      "pin": 1792849132672,
       "bratvid": 1790659880010,
       "jadibot": 1791898855089,
       "play": 1792862475675,
@@ -127252,9 +127252,9 @@
       "wm": 1792848408864,
       "hytamkan": 1792848317462
     },
-    "energi": 99997,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 20
+    "energi": 99999,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 19
   },
   "6285779164177": {
     "name": "Wise",
@@ -132111,7 +132111,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1980,
+    "exp": 1995,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T10:59:17.280Z",
     "cooldowns": {
@@ -132540,7 +132540,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 4226,
+    "exp": 4241,
     "energi": 99999,
     "koin": 1023,
     "name": "Mbonek Ae🤙🐊🙂‍↔️",
@@ -133233,7 +133233,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8769,
+    "exp": 8799,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133880,11 +133880,12 @@
       "maxMana": 330,
       "maxStamina": 330,
       "level": 47,
-      "attack": 10
+      "attack": 10,
+      "lastHourly": 1793012751892
     },
-    "exp": 467218,
+    "exp": 467538,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:05:00.822Z",
+    "lastSeen": "2026-10-26T11:06:04.434Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133918,7 +133919,8 @@
       "freelance": 1793012374505,
       "boss": 1793012396459,
       "duel": 1793012408985,
-      "sellall": 1793012525140
+      "sellall": 1793012525140,
+      "hunt": 1793012704496
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133932,7 +133934,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 57829,
+    "koin": 58829,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134153,22 +134155,23 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 17,
-      "health": 125,
-      "mana": 130,
-      "maxHealth": 160,
-      "maxMana": 130,
-      "maxStamina": 130,
+      "stamina": 135,
+      "health": 170,
+      "mana": 135,
+      "maxHealth": 170,
+      "maxMana": 135,
+      "maxStamina": 135,
       "attack": 10,
-      "level": 7,
+      "level": 8,
       "garden": {
         "plots": [],
         "maxPlots": 3
-      }
+      },
+      "lastHourly": 1793012734004
     },
-    "exp": 69956,
+    "exp": 70216,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T11:04:59.837Z",
+    "lastSeen": "2026-10-26T11:06:10.387Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134222,7 +134225,9 @@
       "duel": 1793012398935,
       "craft": 1793012458337,
       "gacha": 1793012469737,
-      "work": 1793012629370
+      "work": 1793012629370,
+      "cooking": 1793012740937,
+      "cook": 1793012746244
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134247,8 +134252,8 @@
       "koran": 2,
       "stick": 0
     },
-    "koin": 317039,
-    "energi": 26,
+    "koin": 318039,
+    "energi": 25,
     "quest": {
       "work10": {
         "progress": 0,
@@ -134299,7 +134304,7 @@
   "6285183144501": {
     "jid": "6285183144501",
     "rpg": {},
-    "exp": 915
+    "exp": 930
   },
   "6283184530258": {
     "jid": "6283184530258",
@@ -134805,5 +134810,10 @@
     "jid": "6282345651078",
     "rpg": {},
     "exp": 75
+  },
+  "6285248334834": {
+    "jid": "6285248334834",
+    "rpg": {},
+    "exp": 15
   }
 }
