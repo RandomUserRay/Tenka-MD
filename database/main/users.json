@@ -98644,7 +98644,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8040,
+    "exp": 8055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98664,7 +98664,8 @@
       "femboy": 1787812274509,
       "status": 1787825857668,
       "susunkata": 1787825967703,
-      "hitamkan": 1788098757624
+      "hitamkan": 1788098757624,
+      "cekfemboy": 1792978983460
     },
     "clanId": null,
     "isRegistered": false,
@@ -98674,8 +98675,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 3
   },
   "6282144573403": {
     "jid": "6282144573403",
@@ -130396,7 +130397,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 13260,
+    "exp": 13275,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:42:54.994Z",
     "energi": 99999,
@@ -133687,11 +133688,25 @@
   "6287767501862": {
     "jid": "6287767501862",
     "rpg": {},
-    "exp": 75
+    "exp": 90,
+    "name": "〘✠Avra Ritter-von Rialzo〙",
+    "lastSeen": "2026-10-26T01:43:04.085Z",
+    "cooldowns": {
+      "femboy": 1792978988436
+    },
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6285199596205": {
     "jid": "6285199596205",
     "rpg": {},
-    "exp": 45
+    "exp": 60,
+    "name": "y u r r a",
+    "lastSeen": "2026-10-26T01:43:06.051Z",
+    "cooldowns": {
+      "cekfemboy": 1792978989614
+    },
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   }
 }
