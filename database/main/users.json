@@ -133575,24 +133575,12 @@
       "maxHealth": 420,
       "maxMana": 260,
       "maxStamina": 260,
-      "health": 395,
+      "health": 355,
       "mana": 260,
       "stamina": 200,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 38,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792986632052
-      }
+      "attack": 10
     },
-    "exp": 327293,
+    "exp": 327308,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:50:25.242Z",
     "cooldowns": {
@@ -133617,7 +133605,7 @@
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "energi": 100322,
-    "koin": 4822,
+    "koin": 4099,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133744,12 +133732,12 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 331964,
+    "exp": 331979,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:49:58.144Z",
+    "lastSeen": "2026-10-26T03:50:37.279Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792986152770,
+      "casino": 1792986640156,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133767,7 +133755,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 357,
+    "energi": 356,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133777,7 +133765,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 13715,
+    "koin": 8715,
     "inventory": {}
   },
   "6285750087063": {
@@ -133961,9 +133949,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 25860,
+    "exp": 25890,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T03:50:26.597Z",
+    "lastSeen": "2026-10-26T03:50:41.645Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
