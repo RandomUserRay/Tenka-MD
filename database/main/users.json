@@ -51441,7 +51441,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609748,
+    "exp": 609733,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -71934,10 +71934,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73966,
+    "exp": 73996,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71946,11 +71946,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:53:43.437Z",
+    "lastSeen": "2026-10-26T11:19:41.289Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
-      "wm": 1787742891430,
+      "wm": 1793013587473,
       "mining": 1788181295173,
       "mancing": 1784896294757,
       "inv": 1784896247650,
@@ -72037,8 +72037,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 27,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 28,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -103380,7 +103380,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40126,
+    "exp": 40111,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125396,7 +125396,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20271,
+    "exp": 20241,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -128604,7 +128604,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18000,
+    "exp": 17985,
     "energi": 99999,
     "name": "🇦🇱🖕maira😝",
     "lastSeen": "2026-10-26T11:14:45.583Z",
@@ -129005,7 +129005,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 319825,
+    "exp": 319810,
     "energi": 99991,
     "name": "MaLa ?",
     "lastSeen": "2026-10-26T11:18:57.643Z",
@@ -134304,7 +134304,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 600,
+    "exp": 585,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134785,7 +134785,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 435
+    "exp": 420
   },
   "6285842889332": {
     "name": "arsaputra",
@@ -134830,6 +134830,11 @@
   },
   "6285248334834": {
     "jid": "6285248334834",
+    "rpg": {},
+    "exp": 15
+  },
+  "6289635727410": {
+    "jid": "6289635727410",
     "rpg": {},
     "exp": 15
   },
