@@ -106375,7 +106375,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58170,
+    "exp": 58185,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106385,7 +106385,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T15:44:00.440Z",
+    "lastSeen": "2026-10-26T00:00:19.746Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106430,7 +106430,7 @@
       "setintro": 1788690291991,
       "setwelcome": 1792887280911,
       "notifmakan": 1792887675530,
-      "tagall": 1792923735637,
+      "tagall": 1792972821744,
       "bass": 1788694545758,
       "blown": 1788694698473,
       "unadmin": 1788766659211,
@@ -106474,8 +106474,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 18
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 19
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -132251,7 +132251,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 6210,
+    "exp": 6225,
     "name": "Seller Soviet (ayx)",
     "lastSeen": "2026-10-25T10:04:27.434Z",
     "cooldowns": {
