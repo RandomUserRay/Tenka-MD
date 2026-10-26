@@ -1,6 +1,6 @@
 {
   "commandErrors": 668,
-  "commandsExecuted": 141384,
+  "commandsExecuted": 141385,
   "command_totalchat": 26,
   "command_menu": 2437,
   "command_fb": 22,
@@ -1458,5 +1458,6 @@
   "command_supermario": 1,
   "command_mario": 2,
   "command_2048": 1,
-  "command_register": 3
+  "command_register": 3,
+  "command_burung": 1
 }
