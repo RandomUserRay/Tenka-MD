@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11565,
+    "exp": 11580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95997,7 +95997,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 195,
+    "exp": 210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132510,9 +132510,9 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {},
-    "exp": 4383,
+    "exp": 4428,
     "name": "Thur rawring",
-    "lastSeen": "2026-10-26T03:15:06.575Z",
+    "lastSeen": "2026-10-26T03:23:21.098Z",
     "cooldowns": {
       "menu": 1792944962980,
       "menucat": 1792945117438,
@@ -132523,7 +132523,8 @@
       "bego": 1792945338506,
       "cekfemboy": 1792984510481,
       "stiker": 1792946506025,
-      "kaya": 1792946703890
+      "kaya": 1792946703890,
+      "tolol": 1792985001209
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133604,12 +133605,13 @@
   "6283895434061": {
     "jid": "6283895434061",
     "rpg": {},
-    "exp": 1905,
+    "exp": 1935,
     "energi": 99999,
     "name": "u b a y y",
-    "lastSeen": "2026-10-26T03:21:07.356Z",
+    "lastSeen": "2026-10-26T03:23:25.964Z",
     "cooldowns": {
-      "cekfemboy": 1792984870333
+      "cekfemboy": 1792984870333,
+      "owner": 1792985006862
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
@@ -133662,7 +133664,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {},
-    "exp": 318540,
+    "exp": 318555,
     "name": "mıss",
     "lastSeen": "2026-10-26T03:22:50.395Z",
     "cooldowns": {
@@ -133856,6 +133858,6 @@
   "628561922892": {
     "jid": "628561922892",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
