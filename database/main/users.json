@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21119,
+    "exp": 21149,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -5345,7 +5345,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:30:54.938Z",
+    "lastSeen": "2026-10-26T11:33:20.658Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
@@ -5357,7 +5357,8 @@
       "smeme": 1792995388129,
       "tebakkata": 1792998100985,
       "susunkata": 1792998376126,
-      "cekfemboy": 1793014260931
+      "cekfemboy": 1793014260931,
+      "cekganteng": 1793014400821
     },
     "clanId": null,
     "isRegistered": false,
@@ -33753,7 +33754,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 556294,
+    "exp": 556309,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -106395,7 +106396,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59505,
+    "exp": 59520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122689,7 +122690,7 @@
   "62882005686310": {
     "jid": "62882005686310",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "energi": 99999,
     "name": "Fikzz",
     "lastSeen": "2026-10-26T09:07:50.091Z",
@@ -132148,7 +132149,7 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 20628,
+    "exp": 20658,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T09:24:28.388Z",
     "cooldowns": {
@@ -132552,7 +132553,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 4571,
+    "exp": 4586,
     "energi": 99999,
     "koin": 1023,
     "name": "Mbonek Ae🤙🐊🙂‍↔️",
@@ -133027,7 +133028,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 4603,
+    "exp": 4618,
     "energi": 99983,
     "koin": 1250,
     "name": "kck",
@@ -133245,7 +133246,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8979,
+    "exp": 8994,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -134304,9 +134305,14 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1170,
     "name": "sasabanyakuang",
-    "lastSeen": "2026-10-26T03:58:56.335Z"
+    "lastSeen": "2026-10-26T11:33:37.792Z",
+    "cooldowns": {
+      "cekfemboy": 1793014425200
+    },
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6283161398539": {
     "jid": "6283161398539",
@@ -134642,7 +134648,7 @@
   "62881011292603": {
     "jid": "62881011292603",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6285893071585": {
     "jid": "6285893071585",
