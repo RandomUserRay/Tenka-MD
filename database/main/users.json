@@ -5336,7 +5336,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16345,
+    "exp": 16360,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -5345,12 +5345,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-04T07:08:56.235Z",
+    "lastSeen": "2026-10-26T00:20:55.343Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
       "beautiful": 1782017291726,
-      "ww": 1782474469936
+      "ww": 1782474469936,
+      "menu": 1792974060994
     },
     "clanId": null,
     "isRegistered": false,
@@ -5367,7 +5368,9 @@
       "stamina": 105
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6281242521677": {
     "jid": "6281242521677",
@@ -131818,7 +131821,7 @@
     "rpg": {
       "level": 1
     },
-    "exp": 2850,
+    "exp": 2925,
     "lastActiveDate": "25/10/2026",
     "activeDays": 2,
     "registeredAt": 1792855137054,
@@ -133625,5 +133628,10 @@
     "jid": "6285750087063",
     "rpg": {},
     "exp": 15
+  },
+  "6281229713698": {
+    "jid": "6281229713698",
+    "rpg": {},
+    "exp": 30
   }
 }
