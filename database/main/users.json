@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-26T10:43:50.099Z",
+    "lastSeen": "2026-10-26T06:51:24.476Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000260759,
+    "exp": 1009000260534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29170,
+    "exp": 29185,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -38078,7 +38078,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9540,
+    "exp": 9420,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -45622,7 +45622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15396,
+    "exp": 15921,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -96061,7 +96061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 810,
+    "exp": 945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97279,7 +97279,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46823,
+    "exp": 46808,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -113244,7 +113244,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26535,
+    "exp": 26550,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125387,15 +125387,15 @@
     "jid": "6285743196164",
     "rpg": {
       "bank": 0,
-      "stamina": 85,
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105
+      "stamina": 110,
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110
     },
-    "exp": 19941,
+    "exp": 20016,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 67241,
+    "exp": 68366,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128603,7 +128603,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17685,
+    "exp": 17760,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -128639,7 +128639,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 11974,
+    "exp": 12139,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128845,7 +128845,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18120,
+    "exp": 18450,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287736,
+    "exp": 287826,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -129328,7 +129328,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 6165,
+    "exp": 6450,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -130059,7 +130059,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14674,
+    "exp": 14689,
     "energi": 99996,
     "name": "EQUINOX",
     "lastSeen": "2026-10-26T09:33:58.185Z",
@@ -131111,7 +131111,7 @@
   "628980538460": {
     "jid": "628980538460",
     "rpg": {},
-    "exp": 645,
+    "exp": 555,
     "name": "-",
     "lastSeen": "2026-10-22T13:12:09.546Z",
     "cooldowns": {
@@ -132111,7 +132111,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1890,
+    "exp": 1905,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -132557,7 +132557,7 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8237,
+    "exp": 8252,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T05:54:36.037Z",
     "cooldowns": {
@@ -133231,7 +133231,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8739,
+    "exp": 8754,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133655,7 +133655,7 @@
         "stats": null
       }
     },
-    "exp": 589465,
+    "exp": 589480,
     "name": "Fиз",
     "lastSeen": "2026-10-26T10:26:48.785Z",
     "cooldowns": {
@@ -133871,7 +133871,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 275,
+      "stamina": 235,
       "health": 490,
       "mana": 295,
       "maxHealth": 490,
@@ -133880,12 +133880,12 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 394525,
+    "exp": 396695,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:39:10.374Z",
+    "lastSeen": "2026-10-26T10:45:54.881Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793011154170,
+      "casino": 1793011519958,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133896,24 +133896,24 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793000043180,
+      "job": 1793011484922,
       "susunkata": 1792985996374,
-      "quiz": 1792999625497,
+      "quiz": 1793011555424,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
-      "adventure": 1792999884721,
+      "adventure": 1793011495758,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021,
       "maling": 1792987994443,
-      "dungeon": 1792999528313,
+      "dungeon": 1793011503124,
       "nikah": 1792990325359,
       "me": 1792998194636,
       "inv": 1793000453516
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 376,
+    "energi": 370,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,20 +133923,20 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 122984,
+    "koin": 0,
     "inventory": {
       "trash": 2,
       "prawn": 1,
       "iron": 2,
       "herb": 2,
       "leather": 4,
-      "potion": 3
+      "potion": 4
     }
   },
   "6285750087063": {
     "jid": "6285750087063",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   },
   "6281229713698": {
     "jid": "6281229713698",
@@ -133994,12 +133994,12 @@
   "6285173159781": {
     "jid": "6285173159781",
     "rpg": {},
-    "exp": 210
+    "exp": 240
   },
   "6287746331266": {
     "jid": "6287746331266",
     "rpg": {},
-    "exp": 495
+    "exp": 510
   },
   "6281235841775": {
     "jid": "6281235841775",
@@ -134251,12 +134251,12 @@
   "6282132962157": {
     "jid": "6282132962157",
     "rpg": {},
-    "exp": 75
+    "exp": 135
   },
   "6285183144501": {
     "jid": "6285183144501",
     "rpg": {},
-    "exp": 750
+    "exp": 765
   },
   "6283184530258": {
     "jid": "6283184530258",
@@ -134705,7 +134705,7 @@
   "6285828970573": {
     "jid": "6285828970573",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "628216185441": {
     "jid": "628216185441",
@@ -134715,7 +134715,7 @@
   "628211581085": {
     "jid": "628211581085",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   },
   "62882020062234": {
     "jid": "62882020062234",
@@ -134759,6 +134759,6 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
