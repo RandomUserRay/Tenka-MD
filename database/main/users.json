@@ -133880,7 +133880,7 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 461587,
+    "exp": 461832,
     "name": "mıss",
     "lastSeen": "2026-10-26T10:59:16.455Z",
     "cooldowns": {
@@ -133911,7 +133911,8 @@
       "me": 1792998194636,
       "inv": 1793012097588,
       "streamer": 1793012235327,
-      "tebakkata": 1793012297481
+      "tebakkata": 1793012297481,
+      "woodcut": 1793012361148
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133933,7 +133934,9 @@
       "herb": 2,
       "leather": 6,
       "potion": 4,
-      "diamond": 1
+      "diamond": 1,
+      "wood": 5,
+      "apple": 1
     },
     "lastStreamer": 1793012533662
   },
