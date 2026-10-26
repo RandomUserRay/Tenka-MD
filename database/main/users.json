@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11790,
+    "exp": 11805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -132077,15 +132077,16 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1125,
     "name": "Haafiz",
-    "lastSeen": "2026-10-25T10:37:59.761Z",
+    "lastSeen": "2026-10-26T03:45:41.396Z",
     "cooldowns": {
-      "afk": 1792924681435
+      "afk": 1792924681435,
+      "tt": 1792986347795
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "energi": 99999
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2,
+    "energi": 99997
   },
   "6283188010317": {
     "jid": "6283188010317",
@@ -133542,9 +133543,9 @@
   "6281355820001": {
     "jid": "6281355820001",
     "rpg": {},
-    "exp": 33430,
+    "exp": 33445,
     "name": "[Ark]",
-    "lastSeen": "2026-10-26T03:45:22.395Z",
+    "lastSeen": "2026-10-26T03:45:33.835Z",
     "cooldowns": {
       "ganteng": 1792945282839,
       "tebakhewan": 1792945781556,
@@ -133555,7 +133556,7 @@
       "weekly": 1792986202967,
       "info": 1792986268606,
       "commands": 1792986280917,
-      "menucat": 1792986322495,
+      "menucat": 1792986333947,
       "menu": 1792986316602
     },
     "lastActiveDate": "26/10/2026",
@@ -133578,7 +133579,7 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 324779,
+    "exp": 324809,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:45:17.174Z",
     "cooldowns": {
@@ -133728,9 +133729,9 @@
       "maxStamina": 260,
       "level": 33
     },
-    "exp": 322982,
+    "exp": 324777,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:44:12.935Z",
+    "lastSeen": "2026-10-26T03:45:44.419Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792986152770,
@@ -133746,11 +133747,11 @@
       "burung": 1792985824005,
       "job": 1792985907338,
       "susunkata": 1792985996374,
-      "quiz": 1792986253250
+      "quiz": 1792986344514
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 332,
+    "energi": 335,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133760,7 +133761,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 8860,
+    "koin": 9861,
     "inventory": {}
   },
   "6285750087063": {
@@ -133944,9 +133945,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 25715,
+    "exp": 25730,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T03:43:51.801Z",
+    "lastSeen": "2026-10-26T03:45:34.025Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -133956,7 +133957,8 @@
       "inventory": 1792985677251,
       "job": 1792985715391,
       "tidur": 1792985893994,
-      "weekly": 1792986213911
+      "weekly": 1792986213911,
+      "allmenu": 1792986336493
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
