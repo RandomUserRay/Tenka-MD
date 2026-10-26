@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11730,
+    "exp": 11745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133563,11 +133563,16 @@
       "maxStamina": 260,
       "health": 420,
       "mana": 260,
-      "stamina": 260
+      "stamina": 260,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792985997564
+      }
     },
-    "exp": 320313,
+    "exp": 320328,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:38:56.524Z",
+    "lastSeen": "2026-10-26T03:39:57.563Z",
     "cooldowns": {
       "menu": 1792985714505,
       "menucat": 1792985891950,
@@ -133578,7 +133583,8 @@
       "daily": 1792985297432,
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
-      "levelup": 1792985936606
+      "levelup": 1792985936606,
+      "dungeon": 1792985997721
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133593,7 +133599,8 @@
     "registrationCount": 2,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "settings": {}
+    "settings": {},
+    "inventory": {}
   },
   "6281221110247": {
     "name": "seven",
@@ -133708,9 +133715,9 @@
       "maxMana": 100,
       "maxStamina": 100
     },
-    "exp": 319801,
+    "exp": 319861,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:38:57.034Z",
+    "lastSeen": "2026-10-26T03:39:56.232Z",
     "cooldowns": {
       "menu": 1792985735135,
       "casino": 1792985104734,
@@ -133725,7 +133732,7 @@
       "help": 1792985748534,
       "burung": 1792985824005,
       "job": 1792985907338,
-      "susunkata": 1792985937213
+      "susunkata": 1792985996374
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133869,12 +133876,13 @@
   "62895355330990": {
     "jid": "62895355330990",
     "rpg": {},
-    "exp": 915,
+    "exp": 930,
     "name": "Dαb.",
-    "lastSeen": "2026-10-26T03:38:41.809Z",
+    "lastSeen": "2026-10-26T03:39:46.513Z",
     "cooldowns": {
       "cekfemboy": 1792984845396,
-      "menu": 1792985923685
+      "menu": 1792985923685,
+      "menucat": 1792985986633
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
