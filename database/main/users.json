@@ -106394,7 +106394,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59445,
+    "exp": 59460,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122688,8 +122688,15 @@
   "62882005686310": {
     "jid": "62882005686310",
     "rpg": {},
-    "exp": 90,
-    "energi": 99999
+    "exp": 105,
+    "energi": 99999,
+    "name": "Fikzz",
+    "lastSeen": "2026-10-26T09:07:50.091Z",
+    "cooldowns": {
+      "menu": 1793005676523
+    },
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6285716791572": {
     "jid": "6285716791572",
