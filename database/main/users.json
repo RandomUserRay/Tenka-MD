@@ -133613,9 +133613,9 @@
       "stamina": 360,
       "attack": 10
     },
-    "exp": 527893,
+    "exp": 527908,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:30:42.760Z",
+    "lastSeen": "2026-10-26T07:30:58.031Z",
     "cooldowns": {
       "menu": 1792999122237,
       "menucat": 1792999156923,
@@ -133631,7 +133631,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792999078294,
-      "tebaknegara": 1792999843039,
+      "tebaknegara": 1792999858252,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133813,7 +133813,7 @@
     "lastSeen": "2026-10-26T07:30:57.240Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792999842392,
+      "casino": 1792999860536,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133851,7 +133851,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 40739,
+    "koin": 0,
     "inventory": {
       "trash": 2,
       "prawn": 1,
