@@ -29241,7 +29241,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299636,
+    "exp": 299651,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -106394,7 +106394,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59145,
+    "exp": 59175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129952,7 +129952,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 2910,
+    "exp": 2940,
     "energi": 99999,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-26T06:10:56.472Z",
@@ -133202,7 +133202,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 2610,
+    "exp": 2625,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T01:27:27.854Z",
     "cooldowns": {
@@ -133613,9 +133613,9 @@
       "stamina": 240,
       "attack": 10
     },
-    "exp": 566175,
+    "exp": 566205,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:43:09.711Z",
+    "lastSeen": "2026-10-26T07:43:38.042Z",
     "cooldowns": {
       "menu": 1793000367070,
       "menucat": 1793000387324,
@@ -133668,7 +133668,8 @@
       "kurir": 1793000558423,
       "mulung": 1793000586298,
       "ngamen": 1793000589069,
-      "ngemis": 1793000590497
+      "ngemis": 1793000590497,
+      "petshop": 1793000618327
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
