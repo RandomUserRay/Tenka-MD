@@ -45622,7 +45622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15771,
+    "exp": 15801,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 67436,
+    "exp": 67631,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128639,7 +128639,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 12124,
+    "exp": 12139,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287781,
+    "exp": 287811,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -129328,7 +129328,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 6345,
+    "exp": 6360,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -133878,21 +133878,9 @@
       "maxMana": 295,
       "maxStamina": 295,
       "level": 40,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 25,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1793011505214
-      }
+      "attack": 10
     },
-    "exp": 396385,
+    "exp": 396650,
     "name": "mıss",
     "lastSeen": "2026-10-26T10:45:02.447Z",
     "cooldowns": {
@@ -133935,14 +133923,14 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 6479,
+    "koin": 6657,
     "inventory": {
       "trash": 2,
       "prawn": 1,
       "iron": 2,
       "herb": 2,
       "leather": 4,
-      "potion": 3
+      "potion": 4
     }
   },
   "6285750087063": {
