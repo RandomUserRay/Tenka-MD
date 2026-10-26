@@ -133613,7 +133613,7 @@
       "stamina": 360,
       "attack": 10
     },
-    "exp": 523595,
+    "exp": 523610,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:30:13.959Z",
     "cooldowns": {
@@ -133631,7 +133631,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792999078294,
-      "tebaknegara": 1792999806441,
+      "tebaknegara": 1792999814164,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133808,12 +133808,12 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 391299,
+    "exp": 391329,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:30:05.476Z",
+    "lastSeen": "2026-10-26T07:30:18.491Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792999771129,
+      "casino": 1792999821637,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133841,7 +133841,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 408,
+    "energi": 407,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133851,7 +133851,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 40739,
+    "koin": 39739,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134482,6 +134482,11 @@
   },
   "6285893071585": {
     "jid": "6285893071585",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285777563599": {
+    "jid": "6285777563599",
     "rpg": {},
     "exp": 15
   }
