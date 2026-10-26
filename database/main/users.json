@@ -133577,14 +133577,22 @@
       "maxStamina": 260,
       "health": 395,
       "mana": 260,
-      "stamina": 230,
+      "stamina": 200,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792986625243
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 38,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792986632052
       }
     },
-    "exp": 327278,
+    "exp": 327293,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:50:25.242Z",
     "cooldowns": {
@@ -133968,7 +133976,8 @@
       "weekly": 1792986213911,
       "allmenu": 1792986336493,
       "tolol": 1792986385069,
-      "level": 1792986538822
+      "level": 1792986538822,
+      "mancing": 1792986631259
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
