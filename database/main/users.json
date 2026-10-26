@@ -106391,7 +106391,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58470,
+    "exp": 58485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133582,9 +133582,9 @@
       "stamina": 220,
       "attack": 10
     },
-    "exp": 357762,
+    "exp": 357777,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:09:07.279Z",
+    "lastSeen": "2026-10-26T04:12:50.306Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133610,11 +133610,12 @@
       "tebakepep": 1792987335851,
       "mancing": 1792987596044,
       "sell": 1792987623906,
-      "shop": 1792987656642
+      "shop": 1792987656642,
+      "maling": 1792987972903
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100388,
+    "energi": 100387,
     "koin": 0,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133746,7 +133747,7 @@
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 353101,
+    "exp": 353116,
     "name": "mıss",
     "lastSeen": "2026-10-26T04:08:14.619Z",
     "cooldowns": {
