@@ -106391,7 +106391,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58845,
+    "exp": 58860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106401,7 +106401,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T05:25:25.032Z",
+    "lastSeen": "2026-10-26T05:26:05.314Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106474,7 +106474,8 @@
       "mulaiabsen": 1792923648291,
       "brathd": 1792943042629,
       "bratgojo": 1792980217215,
-      "bratwhite": 1792992331424
+      "bratwhite": 1792992331424,
+      "tebakhewan": 1792992365688
     },
     "clanId": null,
     "isRegistered": false,
@@ -132272,9 +132273,9 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 6480,
+    "exp": 6540,
     "name": "Seller Soviet (AYX)",
-    "lastSeen": "2026-10-26T05:25:47.467Z",
+    "lastSeen": "2026-10-26T05:26:13.037Z",
     "cooldowns": {
       "brat": 1792992314363,
       "menu": 1792992349954,
@@ -132292,7 +132293,8 @@
       "bratimg": 1792982365357,
       "kick": 1792922565992,
       "absen": 1792922615451,
-      "mulaiabsen": 1792922667910
+      "mulaiabsen": 1792922667910,
+      "welcome": 1792992373304
     },
     "energi": 99996,
     "lastActiveDate": "26/10/2026",
@@ -133591,7 +133593,7 @@
       "stamina": 320,
       "attack": 10
     },
-    "exp": 446691,
+    "exp": 448911,
     "name": "Fиз",
     "lastSeen": "2026-10-26T05:25:53.014Z",
     "cooldowns": {
@@ -133633,8 +133635,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100612,
-    "koin": 71296,
+    "energi": 100615,
+    "koin": 72193,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134123,5 +134125,10 @@
     "jid": "6285339952540",
     "rpg": {},
     "exp": 45
+  },
+  "6288983933532": {
+    "jid": "6288983933532",
+    "rpg": {},
+    "exp": 15
   }
 }
