@@ -132987,14 +132987,15 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 4003,
-    "energi": 99989,
+    "exp": 4018,
+    "energi": 99988,
     "koin": 1250,
     "name": "kck",
-    "lastSeen": "2026-10-26T07:18:43.144Z",
+    "lastSeen": "2026-10-26T07:20:03.281Z",
     "cooldowns": {
       "brat": 1792999113113,
-      "bratimg": 1792999126530
+      "bratimg": 1792999126530,
+      "bratpatrick": 1792999205696
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
@@ -133806,12 +133807,12 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376330,
+    "exp": 376345,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:19:51.615Z",
+    "lastSeen": "2026-10-26T07:19:56.554Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792999176180,
+      "casino": 1792999199616,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133839,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 390,
+    "energi": 389,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133849,7 +133850,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 196040,
+    "koin": 195040,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -133929,7 +133930,7 @@
   "6281235841775": {
     "jid": "6281235841775",
     "rpg": {},
-    "exp": 195
+    "exp": 210
   },
   "6287767501862": {
     "jid": "6287767501862",
