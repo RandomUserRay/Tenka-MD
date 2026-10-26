@@ -45619,7 +45619,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15096,
+    "exp": 15126,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -133609,9 +133609,9 @@
       "stamina": 335,
       "attack": 10
     },
-    "exp": 475907,
+    "exp": 478262,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T06:34:48.618Z",
+    "lastSeen": "2026-10-26T06:34:58.581Z",
     "cooldowns": {
       "menu": 1792991150470,
       "menucat": 1792991151013,
@@ -133627,7 +133627,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792992116482,
-      "tebaknegara": 1792996477885,
+      "tebaknegara": 1792996498745,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996372872,
@@ -133654,8 +133654,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100663,
-    "koin": 92421,
+    "energi": 100667,
+    "koin": 93532,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134326,12 +134326,12 @@
   "6283846248166": {
     "jid": "6283846248166",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "6285167259883": {
     "jid": "6285167259883",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   },
   "6285185084280": {
     "jid": "6285185084280",
