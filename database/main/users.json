@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20984,
+    "exp": 20999,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 960,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51441,7 +51441,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609778,
+    "exp": 609793,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -79893,7 +79893,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3045,
+    "exp": 3060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132148,7 +132148,7 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 20508,
+    "exp": 20538,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T09:24:28.388Z",
     "cooldowns": {
@@ -134304,7 +134304,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 900,
+    "exp": 915,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134785,7 +134785,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 555,
+    "exp": 570,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-26T11:21:51.370Z",
     "cooldowns": {
@@ -134867,6 +134867,11 @@
   },
   "6288973658238": {
     "jid": "6288973658238",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281259026313": {
+    "jid": "6281259026313",
     "rpg": {},
     "exp": 15
   }
