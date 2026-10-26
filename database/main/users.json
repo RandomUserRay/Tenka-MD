@@ -133613,9 +133613,9 @@
       "stamina": 365,
       "attack": 10
     },
-    "exp": 536791,
+    "exp": 536806,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:31:46.222Z",
+    "lastSeen": "2026-10-26T07:31:56.642Z",
     "cooldowns": {
       "menu": 1792999122237,
       "menucat": 1792999156923,
@@ -133657,12 +133657,13 @@
       "use": 1792995855493,
       "topkoin": 1792998585184,
       "tebakmakanan": 1792998753959,
-      "help": 1792998977631
+      "help": 1792998977631,
+      "sellall": 1792999916885
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "energi": 100798,
-    "koin": 156178,
+    "koin": 165418,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133674,14 +133675,14 @@
     "unregisteredAt": null,
     "settings": {},
     "inventory": {
-      "trash": 7,
-      "fish": 3,
-      "prawn": 2,
-      "rock": 26,
-      "coal": 9,
-      "gold": 2,
-      "octopus": 1,
-      "diamond": 1,
+      "trash": 0,
+      "fish": 0,
+      "prawn": 0,
+      "rock": 0,
+      "coal": 0,
+      "gold": 0,
+      "octopus": 0,
+      "diamond": 0,
       "potion": 3
     }
   },
