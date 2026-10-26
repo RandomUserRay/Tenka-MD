@@ -133807,9 +133807,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376360,
+    "exp": 376375,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:20:17.492Z",
+    "lastSeen": "2026-10-26T07:20:33.968Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999220705,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 388,
+    "energi": 387,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134449,7 +134449,7 @@
     "lastSeen": "2026-10-26T07:20:19.778Z",
     "jid": "6288294335551",
     "rpg": {},
-    "exp": 75,
+    "exp": 1943,
     "cooldowns": {
       "me": 1792999147544,
       "menu": 1792999163282,
@@ -134458,6 +134458,8 @@
     },
     "registeredAt": 1792999142962,
     "lastActiveDate": "26/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 29,
+    "koin": 1079
   }
 }
