@@ -103373,13 +103373,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-25T22:17:20.266Z",
+    "lastSeen": "2026-10-26T11:00:07.220Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40006,
+    "exp": 40021,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103391,7 +103391,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "afk": 1792965806664,
-      "d": 1792966639397,
+      "d": 1793012407624,
       "mutegc": 1788165687980,
       "ytmp4": 1792914383357,
       "me": 1789226230570,
@@ -133880,9 +133880,9 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 462765,
+    "exp": 463280,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:59:56.163Z",
+    "lastSeen": "2026-10-26T11:00:06.273Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012264720,
@@ -133914,11 +133914,12 @@
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
-      "boss": 1793012396459
+      "boss": 1793012396459,
+      "duel": 1793012408985
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 494,
+    "energi": 493,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133928,7 +133929,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 39014,
+    "koin": 40014,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -134141,7 +134142,7 @@
     "jid": "6282126863605",
     "rpg": {
       "stamina": 55,
-      "health": 160,
+      "health": 140,
       "mana": 130,
       "maxHealth": 160,
       "maxMana": 130,
@@ -134231,7 +134232,7 @@
       "koran": 2,
       "stick": 1
     },
-    "koin": 282284,
+    "koin": 281284,
     "energi": 28
   },
   "62895327376940": {
@@ -134276,7 +134277,7 @@
   "6285183144501": {
     "jid": "6285183144501",
     "rpg": {},
-    "exp": 795
+    "exp": 810
   },
   "6283184530258": {
     "jid": "6283184530258",
