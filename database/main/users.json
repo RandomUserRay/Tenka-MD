@@ -133637,13 +133637,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 59,
-      "maxHealth": 680,
-      "maxMana": 390,
-      "maxStamina": 390,
-      "health": 665,
-      "mana": 390,
-      "stamina": 297,
+      "level": 60,
+      "maxHealth": 690,
+      "maxMana": 395,
+      "maxStamina": 395,
+      "health": 690,
+      "mana": 395,
+      "stamina": 395,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133654,9 +133654,9 @@
         "stats": null
       }
     },
-    "exp": 589995,
+    "exp": 590010,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T10:27:02.047Z",
+    "lastSeen": "2026-10-26T10:27:26.598Z",
     "cooldowns": {
       "menu": 1793010003858,
       "menucat": 1793010334821,
@@ -133722,7 +133722,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100887,
+    "energi": 100886,
     "koin": 255998,
     "isRegistered": true,
     "regName": "Faeres",
@@ -134139,9 +134139,9 @@
       "attack": 10,
       "level": 6
     },
-    "exp": 52758,
+    "exp": 52773,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:27:09.000Z",
+    "lastSeen": "2026-10-26T10:27:27.227Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134168,7 +134168,7 @@
       "pap": 1792999398457,
       "adventure": 1793009249693,
       "mywaifu": 1792999798476,
-      "sellall": 1793010017915,
+      "sellall": 1793010447685,
       "shop": 1793009302320,
       "money": 1793010029453,
       "energy": 1793009333504,
@@ -134197,7 +134197,7 @@
       "prawn": 0,
       "herb": 5,
       "leather": 2,
-      "rock": 3,
+      "rock": 0,
       "iron": 0,
       "diamond": 0,
       "coal": 0,
@@ -134210,7 +134210,7 @@
       "sampah": 11,
       "koran": 1
     },
-    "koin": 120247,
+    "koin": 120307,
     "energi": 30
   },
   "62895327376940": {
