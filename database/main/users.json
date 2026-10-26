@@ -132517,9 +132517,9 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8162,
+    "exp": 8177,
     "name": "Thur rawring",
-    "lastSeen": "2026-10-26T05:07:09.298Z",
+    "lastSeen": "2026-10-26T05:17:02.995Z",
     "cooldowns": {
       "menu": 1792991232407,
       "menucat": 1792945117438,
@@ -132534,7 +132534,8 @@
       "tolol": 1792985001209,
       "tts": 1792985135043,
       "masak": 1792985491336,
-      "job": 1792985873727
+      "job": 1792985873727,
+      "tebaknegara": 1792991823225
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133589,9 +133590,9 @@
       "stamina": 310,
       "attack": 10
     },
-    "exp": 422003,
+    "exp": 423201,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T05:16:51.680Z",
+    "lastSeen": "2026-10-26T05:17:05.999Z",
     "cooldowns": {
       "menu": 1792991150470,
       "menucat": 1792991151013,
@@ -133623,13 +133624,13 @@
       "profil": 1792990121026,
       "inv": 1792991723896,
       "tambang": 1792991749484,
-      "tebakhewan": 1792991811887,
+      "tebakhewan": 1792991826176,
       "tebakkimia": 1792991356918
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100559,
-    "koin": 46468,
+    "energi": 100565,
+    "koin": 48136,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
