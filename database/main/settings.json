@@ -966,7 +966,8 @@
   "selfGroups": [
     "447735464487-1307378899@g.us",
     "120363211173061664@g.us",
-    "120363428874863498@g.us"
+    "120363428874863498@g.us",
+    "120363428563992005@g.us"
   ],
   "ownerNames": {},
   "publicGroups": [
@@ -30550,6 +30551,14 @@
     "6288983933532@s.whatsapp.net": {
       "jid": "6288983933532@s.whatsapp.net",
       "name": "Seho"
+    },
+    "249121777955@s.whatsapp.net": {
+      "jid": "249121777955@s.whatsapp.net",
+      "name": "bot"
+    },
+    "6288330123111@s.whatsapp.net": {
+      "jid": "6288330123111@s.whatsapp.net",
+      "name": "Zetsusensei"
     }
   },
   "antiCall": false,
