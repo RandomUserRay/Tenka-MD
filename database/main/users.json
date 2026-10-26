@@ -133566,7 +133566,7 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 320418,
+    "exp": 320433,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:40:52.332Z",
     "cooldowns": {
@@ -133713,12 +133713,12 @@
       "maxStamina": 260,
       "level": 33
     },
-    "exp": 321069,
+    "exp": 321084,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:41:18.985Z",
+    "lastSeen": "2026-10-26T03:41:33.964Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792986081828,
+      "casino": 1792986096722,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133734,7 +133734,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 328,
+    "energi": 327,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133744,7 +133744,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 2177,
+    "koin": 4177,
     "inventory": {}
   },
   "6285750087063": {
@@ -133844,7 +133844,7 @@
   "628211881106": {
     "jid": "628211881106",
     "rpg": {},
-    "exp": 285
+    "exp": 315
   },
   "6288220007426": {
     "jid": "6288220007426",
