@@ -38078,7 +38078,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9420,
+    "exp": 9465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96061,7 +96061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 68531,
+    "exp": 68426,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128603,7 +128603,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17850,
+    "exp": 17790,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -128845,7 +128845,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18570,
+    "exp": 18480,
     "energi": 99999,
     "name": "利斯蒂亚尼",
     "lastSeen": "2026-10-11T08:24:54.595Z",
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287961,
+    "exp": 287916,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -129328,7 +129328,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 6555,
+    "exp": 6480,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -130288,7 +130288,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400749405,
+    "exp": 19400749330,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -131111,7 +131111,7 @@
   "628980538460": {
     "jid": "628980538460",
     "rpg": {},
-    "exp": 555,
+    "exp": 585,
     "name": "-",
     "lastSeen": "2026-10-22T13:12:09.546Z",
     "cooldowns": {
@@ -133871,18 +133871,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 305,
-      "health": 510,
-      "mana": 305,
-      "maxHealth": 510,
-      "maxMana": 305,
-      "maxStamina": 305,
-      "level": 42,
+      "stamina": 300,
+      "health": 500,
+      "mana": 300,
+      "maxHealth": 500,
+      "maxMana": 300,
+      "maxStamina": 300,
+      "level": 41,
       "attack": 10
     },
-    "exp": 418213,
+    "exp": 409068,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:48:28.626Z",
+    "lastSeen": "2026-10-26T10:47:00.658Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793011519958,
@@ -133898,7 +133898,7 @@
       "burung": 1792985824005,
       "job": 1793011484922,
       "susunkata": 1792985996374,
-      "quiz": 1793011709074,
+      "quiz": 1793011621417,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1793011495758,
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 416,
+    "energi": 399,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 11144,
+    "koin": 6415,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -133999,7 +133999,7 @@
   "6287746331266": {
     "jid": "6287746331266",
     "rpg": {},
-    "exp": 555
+    "exp": 510
   },
   "6281235841775": {
     "jid": "6281235841775",
@@ -134444,7 +134444,7 @@
   "6285168761923": {
     "jid": "6285168761923",
     "rpg": {},
-    "exp": 90
+    "exp": 60
   },
   "6285751036305": {
     "jid": "6285751036305",
