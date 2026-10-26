@@ -45622,7 +45622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16056,
+    "exp": 16071,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -128639,7 +128639,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 12169,
+    "exp": 12184,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -128796,7 +128796,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 1510,
+    "exp": 1525,
     "name": "AJO GS ☠️",
     "lastSeen": "2026-10-08T14:45:04.710Z",
     "cooldowns": {
@@ -132116,7 +132116,7 @@
     "lastSeen": "2026-10-26T10:59:17.280Z",
     "cooldowns": {
       "afk": 1792924681435,
-      "tt": 1792995272211
+      "tt": 1793012367848
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133871,7 +133871,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 315,
+      "stamina": 290,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133880,9 +133880,9 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 461832,
+    "exp": 462720,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:59:16.455Z",
+    "lastSeen": "2026-10-26T10:59:35.066Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012264720,
@@ -133912,7 +133912,8 @@
       "inv": 1793012097588,
       "streamer": 1793012235327,
       "tebakkata": 1793012297481,
-      "woodcut": 1793012361148
+      "woodcut": 1793012361148,
+      "freelance": 1793012374505
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133926,7 +133927,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 21846,
+    "koin": 39014,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -134151,7 +134152,7 @@
         "maxPlots": 3
       }
     },
-    "exp": 64518,
+    "exp": 65885,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T10:59:23.911Z",
     "cooldowns": {
@@ -134201,7 +134202,8 @@
       "jualan": 1793012051154,
       "garden": 1793012146949,
       "streamer": 1793012185206,
-      "woodcut": 1793012355313
+      "woodcut": 1793012355313,
+      "freelance": 1793012368982
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134226,7 +134228,7 @@
       "koran": 2,
       "stick": 1
     },
-    "koin": 254926,
+    "koin": 282284,
     "energi": 30
   },
   "62895327376940": {
