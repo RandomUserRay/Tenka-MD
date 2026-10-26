@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12015,
+    "exp": 12030,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133582,9 +133582,9 @@
       "stamina": 220,
       "attack": 10
     },
-    "exp": 357582,
+    "exp": 357612,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:06:45.641Z",
+    "lastSeen": "2026-10-26T04:07:03.819Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987291071,
@@ -133602,13 +133602,14 @@
       "tidur": 1792986206937,
       "tebaknegara": 1792987556916,
       "siapakahaku": 1792986508425,
-      "inventory": 1792986608051,
+      "inventory": 1792987615938,
       "me": 1792986981051,
-      "job": 1792987086754,
+      "job": 1792987608900,
       "level": 1792987308449,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1792987596044
+      "mancing": 1792987596044,
+      "sell": 1792987623906
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133744,12 +133745,12 @@
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 352936,
+    "exp": 352981,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:06:46.135Z",
+    "lastSeen": "2026-10-26T04:07:05.416Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792987593566,
+      "casino": 1792987628271,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133772,7 +133773,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 378,
+    "energi": 377,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133782,7 +133783,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 56433,
+    "koin": 76433,
     "inventory": {
       "trash": 2,
       "prawn": 1
