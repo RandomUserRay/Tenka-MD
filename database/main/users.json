@@ -133611,11 +133611,15 @@
       "health": 584,
       "mana": 355,
       "stamina": 200,
-      "attack": 10
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792999684098
+      }
     },
-    "exp": 519104,
+    "exp": 519119,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:27:48.992Z",
+    "lastSeen": "2026-10-26T07:28:04.097Z",
     "cooldowns": {
       "menu": 1792999122237,
       "menucat": 1792999156923,
