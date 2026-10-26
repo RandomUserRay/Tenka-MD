@@ -134058,7 +134058,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 80,
+      "stamina": 50,
       "health": 130,
       "mana": 115,
       "maxHealth": 130,
@@ -134067,11 +134067,19 @@
       "attack": 10,
       "level": 4,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792999545487
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 28,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792999550744
       }
     },
-    "exp": 31936,
+    "exp": 31951,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T07:25:45.487Z",
     "cooldowns": {
