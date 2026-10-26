@@ -96061,7 +96061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 510,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130051,12 +130051,12 @@
     "rpg": {
       "level": 1,
       "bank": 0,
-      "stamina": 75
+      "stamina": 60
     },
-    "exp": 6207,
+    "exp": 6222,
     "energi": 99997,
     "name": "EQUINOX",
-    "lastSeen": "2026-10-26T09:24:39.459Z",
+    "lastSeen": "2026-10-26T09:24:52.785Z",
     "cooldowns": {
       "play": 1792906241860,
       "afk": 1792924976243,
@@ -132224,7 +132224,7 @@
   },
   "62895321723163": {
     "name": "andika",
-    "lastSeen": "2026-10-26T09:24:38.313Z",
+    "lastSeen": "2026-10-26T09:24:49.973Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 45,
@@ -132237,7 +132237,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14395,
+    "exp": 14410,
     "cooldowns": {
       "gacha": 1793006600164,
       "judi": 1793006678631,
@@ -132251,10 +132251,10 @@
       "job": 1793006651583,
       "kurir": 1793006666220
     },
-    "energi": 99994,
+    "energi": 99993,
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "koin": 159269
+    "koin": 158269
   },
   "6289510621268": {
     "name": ".",
