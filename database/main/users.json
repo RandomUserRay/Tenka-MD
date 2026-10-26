@@ -5333,10 +5333,10 @@
     "jid": "62895614036100",
     "name": "ley",
     "number": "62895614036100",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16510,
+    "exp": 16540,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -5345,7 +5345,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T03:55:40.792Z",
+    "lastSeen": "2026-10-26T03:56:14.544Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
@@ -5353,7 +5353,7 @@
       "ww": 1782474469936,
       "menu": 1792974060994,
       "allmenu": 1792974128199,
-      "s": 1792986871950,
+      "s": 1792986975685,
       "smeme": 1792986940843
     },
     "clanId": null,
@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11850,
+    "exp": 11865,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -132624,7 +132624,7 @@
   "6285180006356": {
     "jid": "6285180006356",
     "rpg": {},
-    "exp": 630,
+    "exp": 660,
     "energi": 99999
   },
   "6283195059959": {
@@ -132933,7 +132933,7 @@
   "628137877605": {
     "jid": "628137877605",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999
   },
   "62895801708070": {
@@ -133582,9 +133582,9 @@
       "stamina": 200,
       "attack": 10
     },
-    "exp": 327368,
+    "exp": 327383,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:52:44.923Z",
+    "lastSeen": "2026-10-26T03:56:19.468Z",
     "cooldowns": {
       "menu": 1792985714505,
       "menucat": 1792985891950,
@@ -133602,7 +133602,8 @@
       "tidur": 1792986206937,
       "tebaknegara": 1792986317441,
       "siapakahaku": 1792986508425,
-      "inventory": 1792986608051
+      "inventory": 1792986608051,
+      "me": 1792986981051
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133612,7 +133613,7 @@
     "regName": "Faeres",
     "regAge": 100,
     "regGender": "Laki-laki",
-    "registeredAt": "2026-10-26T03:27:46.357Z",
+    "registeredAt": 1792986979820,
     "lastRegisteredAt": "2026-10-26T03:27:47.417Z",
     "registrationCount": 2,
     "hasClaimedRegisterReward": true,
@@ -133726,7 +133727,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 240,
+      "stamina": 225,
       "health": 430,
       "mana": 265,
       "maxHealth": 430,
@@ -133734,12 +133735,12 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 332649,
+    "exp": 332829,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:55:47.199Z",
+    "lastSeen": "2026-10-26T03:56:15.143Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792986941043,
+      "casino": 1792986967413,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133754,23 +133755,24 @@
       "susunkata": 1792985996374,
       "quiz": 1792986572315,
       "inventory": 1792986598336,
-      "mancing": 1792986668080
+      "mancing": 1792986979572
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 351,
+    "energi": 349,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
     "regGender": "Perempuan",
-    "registeredAt": "2026-10-26T03:22:42.749Z",
+    "registeredAt": null,
     "lastRegisteredAt": "2026-10-26T03:22:42.749Z",
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 17620,
+    "koin": 22620,
     "inventory": {
-      "trash": 1
+      "trash": 1,
+      "prawn": 1
     }
   },
   "6285750087063": {
@@ -133946,18 +133948,18 @@
   "628561922892": {
     "jid": "628561922892",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 75,
+      "stamina": 60,
       "health": 105,
       "mana": 53
     },
-    "exp": 27365,
+    "exp": 27480,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T03:52:02.895Z",
+    "lastSeen": "2026-10-26T03:56:25.209Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -133977,10 +133979,11 @@
     "activeDays": 1,
     "inventory": {
       "uncommon": 1,
-      "trash": 1
+      "trash": 1,
+      "fish": 1
     },
     "koin": 20299,
-    "energi": 24
+    "energi": 23
   },
   "62895327376940": {
     "name": "Ezic",
