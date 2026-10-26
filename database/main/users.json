@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11805,
+    "exp": 11820,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91395,7 +91395,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57735,
+    "exp": 57720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132607,12 +132607,6 @@
     "activeDays": 1,
     "energi": 99999
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132629,6 +132623,12 @@
     "jid": "6285180006356",
     "rpg": {},
     "exp": 630,
+    "energi": 99999
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "6287894267928": {
@@ -133261,19 +133261,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "energi": 99999
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133302,6 +133289,19 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
     "energi": 99999
   },
   "6289691337115": {
@@ -133498,12 +133498,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6283138281728": {
-    "jid": "6283138281728",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6289514408551": {
     "jid": "6289514408551",
     "rpg": {},
@@ -133518,6 +133512,12 @@
   },
   "6289604380857": {
     "jid": "6289604380857",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6283138281728": {
+    "jid": "6283138281728",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -133580,9 +133580,9 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 324854,
+    "exp": 324869,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:45:17.174Z",
+    "lastSeen": "2026-10-26T03:48:28.064Z",
     "cooldowns": {
       "menu": 1792985714505,
       "menucat": 1792985891950,
@@ -133598,7 +133598,8 @@
       "catur": 1792986052915,
       "quiz": 1792986146125,
       "tidur": 1792986206937,
-      "tebaknegara": 1792986317441
+      "tebaknegara": 1792986317441,
+      "siapakahaku": 1792986508425
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133722,17 +133723,17 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 260,
-      "health": 420,
-      "mana": 260,
-      "maxHealth": 420,
-      "maxMana": 260,
-      "maxStamina": 260,
-      "level": 33
+      "stamina": 265,
+      "health": 430,
+      "mana": 265,
+      "maxHealth": 430,
+      "maxMana": 265,
+      "maxStamina": 265,
+      "level": 34
     },
-    "exp": 326058,
+    "exp": 330503,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:47:57.101Z",
+    "lastSeen": "2026-10-26T03:48:28.166Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792986152770,
@@ -133748,11 +133749,11 @@
       "burung": 1792985824005,
       "job": 1792985907338,
       "susunkata": 1792985996374,
-      "quiz": 1792986478175
+      "quiz": 1792986508613
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 339,
+    "energi": 353,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133762,7 +133763,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 10639,
+    "koin": 12602,
     "inventory": {}
   },
   "6285750087063": {
