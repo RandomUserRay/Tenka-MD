@@ -52405,7 +52405,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064185,
+    "exp": 1064200,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129005,10 +129005,10 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 292167,
+    "exp": 292182,
     "energi": 99998,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-26T11:15:25.733Z",
+    "lastSeen": "2026-10-26T11:15:37.180Z",
     "cooldowns": {
       "menu": 1793013255649,
       "menucat": 1793013267338,
@@ -132148,7 +132148,7 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 20418,
+    "exp": 20433,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T09:24:28.388Z",
     "cooldowns": {
@@ -134780,12 +134780,12 @@
   "628211581085": {
     "jid": "628211581085",
     "rpg": {},
-    "exp": 270
+    "exp": 285
   },
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 345
+    "exp": 360
   },
   "6285842889332": {
     "name": "arsaputra",
