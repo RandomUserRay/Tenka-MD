@@ -133637,13 +133637,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 58,
-      "maxHealth": 670,
-      "maxMana": 385,
-      "maxStamina": 385,
-      "health": 649,
-      "mana": 385,
-      "stamina": 375,
+      "level": 59,
+      "maxHealth": 680,
+      "maxMana": 390,
+      "maxStamina": 390,
+      "health": 680,
+      "mana": 390,
+      "stamina": 390,
       "attack": 10,
       "pet": {
         "type": "cat",
@@ -133654,9 +133654,9 @@
         "stats": null
       }
     },
-    "exp": 579843,
+    "exp": 581868,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T10:23:11.153Z",
+    "lastSeen": "2026-10-26T10:23:21.137Z",
     "cooldowns": {
       "menu": 1793010003858,
       "menucat": 1793009965911,
@@ -133672,7 +133672,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793010191560,
+      "tebaknegara": 1793010201384,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133720,8 +133720,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100875,
-    "koin": 192815,
+    "energi": 100882,
+    "koin": 194468,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134137,9 +134137,9 @@
       "attack": 10,
       "level": 6
     },
-    "exp": 50070,
+    "exp": 50085,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:23:13.483Z",
+    "lastSeen": "2026-10-26T10:23:19.212Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
