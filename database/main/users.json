@@ -125395,7 +125395,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20016,
+    "exp": 20031,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -128639,7 +128639,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 12274,
+    "exp": 12289,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -133873,7 +133873,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 265,
+      "stamina": 240,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133882,9 +133882,9 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 467103,
+    "exp": 467218,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:04:48.006Z",
+    "lastSeen": "2026-10-26T11:05:00.822Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133922,7 +133922,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 495,
+    "energi": 494,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133943,7 +133943,8 @@
       "diamond": 0,
       "wood": 0,
       "apple": 0,
-      "octopus": 0
+      "octopus": 0,
+      "rabbit": 1
     },
     "lastStreamer": 1793012533662,
     "quest": {
@@ -134165,9 +134166,9 @@
         "maxPlots": 3
       }
     },
-    "exp": 69941,
+    "exp": 69956,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T11:04:10.259Z",
+    "lastSeen": "2026-10-26T11:04:59.837Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
