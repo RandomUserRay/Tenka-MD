@@ -5336,7 +5336,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17035,
+    "exp": 17080,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -132110,11 +132110,11 @@
       "maxStamina": 105,
       "attack": 10
     },
-    "exp": 15550,
+    "exp": 16327,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-10-25T15:08:12.241Z",
+    "lastSeen": "2026-10-26T06:30:54.591Z",
     "cooldowns": {
-      "gacha": 1792899891167,
+      "gacha": 1792996255173,
       "kurir": 1792908917395,
       "gojek": 1792908898945,
       "work": 1792900891258,
@@ -132139,10 +132139,10 @@
       "dungeon": 1792939166423,
       "gay": 1792940071419
     },
-    "energi": 99999,
+    "energi": 99998,
     "koin": 24822,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2,
     "registeredAt": 1792900111702,
     "clanId": "Kit Community",
     "inventory": {}
@@ -133221,7 +133221,7 @@
   "62887437554201": {
     "jid": "62887437554201",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "energi": 99999
   },
   "6287734051317": {
@@ -134095,7 +134095,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134347,5 +134347,10 @@
     "jid": "6285882312398",
     "rpg": {},
     "exp": 30
+  },
+  "6283840800040": {
+    "jid": "6283840800040",
+    "rpg": {},
+    "exp": 15
   }
 }
