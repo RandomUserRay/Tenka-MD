@@ -1,6 +1,6 @@
 {
   "commandErrors": 670,
-  "commandsExecuted": 142645,
+  "commandsExecuted": 142647,
   "command_totalchat": 26,
   "command_menu": 2475,
   "command_fb": 22,
@@ -186,7 +186,7 @@
   "command_welcometype": 7,
   "command_tebakkata": 1025,
   "command_tebakhewan": 204,
-  "command_addplugin": 123,
+  "command_addplugin": 124,
   "command_autoreply": 86,
   "command_addcmdsticker": 7,
   "command_ganticode": 763,
@@ -1460,5 +1460,6 @@
   "command_2048": 2,
   "command_register": 3,
   "command_burung": 1,
-  "command_catur": 1
+  "command_catur": 1,
+  "command_comix": 1
 }
