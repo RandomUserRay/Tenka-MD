@@ -133612,11 +133612,11 @@
       "stamina": 245,
       "attack": 10
     },
-    "exp": 517657,
+    "exp": 517672,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:15:44.416Z",
+    "lastSeen": "2026-10-26T07:15:52.709Z",
     "cooldowns": {
-      "menu": 1792998638073,
+      "menu": 1792998955068,
       "menucat": 1792998645550,
       "cekfemboy": 1792988111680,
       "top": 1792987677229,
@@ -134061,21 +134061,9 @@
       "maxHealth": 100,
       "maxMana": 100,
       "maxStamina": 100,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Goblin Liar",
-        "monsterPower": 19,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792998939967
-      }
+      "attack": 10
     },
-    "exp": 28878,
+    "exp": 29155,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T07:15:34.170Z",
     "cooldowns": {
@@ -134105,9 +134093,11 @@
       "uncommon": 1,
       "trash": 2,
       "fish": 1,
-      "prawn": 1
+      "prawn": 1,
+      "herb": 5,
+      "leather": 2
     },
-    "koin": 28043,
+    "koin": 28261,
     "energi": 19
   },
   "62895327376940": {
