@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 68366,
+    "exp": 68381,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287826,
+    "exp": 287841,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -129328,7 +129328,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 6450,
+    "exp": 6465,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -133871,18 +133871,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 235,
-      "health": 490,
-      "mana": 295,
-      "maxHealth": 490,
-      "maxMana": 295,
-      "maxStamina": 295,
-      "level": 40,
+      "stamina": 300,
+      "health": 500,
+      "mana": 300,
+      "maxHealth": 500,
+      "maxMana": 300,
+      "maxStamina": 300,
+      "level": 41,
       "attack": 10
     },
-    "exp": 398793,
+    "exp": 401568,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:45:54.881Z",
+    "lastSeen": "2026-10-26T10:46:22.742Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793011519958,
@@ -133898,7 +133898,7 @@
       "burung": 1792985824005,
       "job": 1793011484922,
       "susunkata": 1792985996374,
-      "quiz": 1793011555424,
+      "quiz": 1793011583238,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1793011495758,
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 375,
+    "energi": 383,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1045,
+    "koin": 1775,
     "inventory": {
       "trash": 2,
       "prawn": 1,
