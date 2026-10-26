@@ -130409,7 +130409,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15195,
+    "exp": 15225,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -132517,7 +132517,7 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8072,
+    "exp": 8087,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T04:45:21.130Z",
     "cooldowns": {
@@ -133019,7 +133019,7 @@
   "6285783897137": {
     "jid": "6285783897137",
     "rpg": {},
-    "exp": 270,
+    "exp": 285,
     "energi": 99999
   },
   "6282148841533": {
@@ -133765,7 +133765,7 @@
     "lastSeen": "2026-10-26T04:53:57.665Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792990425861,
+      "casino": 1792990440622,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133801,7 +133801,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 164485,
+    "koin": 165485,
     "inventory": {
       "trash": 2,
       "prawn": 1,
