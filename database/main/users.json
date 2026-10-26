@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036337,
+    "exp": 1036367,
     "level": 1,
     "koin": 1005000,
     "unlockedFeatures": [],
@@ -52404,7 +52404,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064110,
+    "exp": 1064125,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130441,7 +130441,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15465,
+    "exp": 15495,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -133057,7 +133057,7 @@
   "6282327805620": {
     "jid": "6282327805620",
     "rpg": {},
-    "exp": 420,
+    "exp": 435,
     "name": "fitrahtama3",
     "lastSeen": "2026-10-25T09:31:23.910Z",
     "cooldowns": {
@@ -133233,7 +133233,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8799,
+    "exp": 8814,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133873,7 +133873,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 230,
+      "stamina": 215,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133883,9 +133883,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 468909,
+    "exp": 469289,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:06:32.173Z",
+    "lastSeen": "2026-10-26T11:06:47.539Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133920,11 +133920,12 @@
       "boss": 1793012396459,
       "duel": 1793012408985,
       "sellall": 1793012525140,
-      "hunt": 1793012704496
+      "hunt": 1793012704496,
+      "ngojek": 1793012811658
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 494,
+    "energi": 493,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133934,7 +133935,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 58829,
+    "koin": 66140,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134169,9 +134170,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 71212,
+    "exp": 71257,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T11:06:32.274Z",
+    "lastSeen": "2026-10-26T11:07:05.948Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134228,7 +134229,8 @@
       "work": 1793012629370,
       "cooking": 1793012740937,
       "cook": 1793012746244,
-      "ngojek": 1793012797313
+      "ngojek": 1793012797313,
+      "nulis": 1793012816849
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134254,7 +134256,7 @@
       "stick": 0
     },
     "koin": 337367,
-    "energi": 24,
+    "energi": 23,
     "quest": {
       "work10": {
         "progress": 0,
