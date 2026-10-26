@@ -133610,14 +133610,22 @@
       "maxStamina": 355,
       "health": 584,
       "mana": 355,
-      "stamina": 200,
+      "stamina": 170,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1792999684098
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 23,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792999690985
       }
     },
-    "exp": 519119,
+    "exp": 519134,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:28:04.097Z",
     "cooldowns": {
@@ -133631,7 +133639,7 @@
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
       "levelup": 1792987303038,
-      "dungeon": 1792998882947,
+      "dungeon": 1792999684486,
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792999078294,
@@ -134071,9 +134079,9 @@
       "attack": 10,
       "level": 4
     },
-    "exp": 33273,
+    "exp": 33288,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:27:42.910Z",
+    "lastSeen": "2026-10-26T07:28:07.432Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134092,7 +134100,7 @@
       "prabowo-ai": 1792987674459,
       "ngentod": 1792988004038,
       "absen": 1792988103531,
-      "inv": 1792998863372,
+      "inv": 1792999687751,
       "use": 1792998923514,
       "dungeon": 1792999545694,
       "tebakfilm": 1792998970540,
