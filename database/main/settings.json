@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "AIRich is not a constructor",
+      "at": 1792999530138
+    },
+    {
+      "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
       "at": 1792938990421
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789820218659
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789819103269
     }
   ],
   "jpmBlacklist": [],
@@ -30740,6 +30740,10 @@
     "62881011292603@s.whatsapp.net": {
       "jid": "62881011292603@s.whatsapp.net",
       "name": "starseed"
+    },
+    "6283823313582@s.whatsapp.net": {
+      "jid": "6283823313582@s.whatsapp.net",
+      "name": "アビザール・プトラ"
     }
   },
   "antiCall": false,
