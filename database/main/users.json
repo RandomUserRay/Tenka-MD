@@ -130418,7 +130418,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15435,
+    "exp": 15450,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -133610,23 +133610,11 @@
       "health": 610,
       "mana": 355,
       "stamina": 280,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 28,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792998887427
-      }
+      "attack": 10
     },
-    "exp": 515526,
+    "exp": 517403,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:14:42.691Z",
+    "lastSeen": "2026-10-26T07:15:29.342Z",
     "cooldowns": {
       "menu": 1792998638073,
       "menucat": 1792998645550,
@@ -133656,13 +133644,13 @@
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
-      "inv": 1792998855801,
+      "inv": 1792998908395,
       "tambang": 1792998570963,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
       "family100": 1792992039272,
-      "adventure": 1792992632526,
+      "adventure": 1792998924976,
       "lb": 1792998580540,
       "topexp": 1792995319502,
       "use": 1792995855493,
@@ -133671,8 +133659,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100766,
-    "koin": 136592,
+    "energi": 100765,
+    "koin": 146445,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133690,7 +133678,8 @@
       "rock": 21,
       "coal": 9,
       "gold": 1,
-      "octopus": 1
+      "octopus": 1,
+      "diamond": 1
     }
   },
   "6281221110247": {
@@ -134073,9 +134062,9 @@
       "maxMana": 100,
       "maxStamina": 100
     },
-    "exp": 28803,
+    "exp": 28848,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:14:38.539Z",
+    "lastSeen": "2026-10-26T07:15:29.104Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134094,7 +134083,7 @@
       "ngentod": 1792988004038,
       "absen": 1792988103531,
       "inv": 1792998863372,
-      "use": 1792998878742
+      "use": 1792998923514
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
