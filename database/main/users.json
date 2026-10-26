@@ -94948,7 +94948,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720,
+    "exp": 735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132624,8 +132624,15 @@
   "6285180006356": {
     "jid": "6285180006356",
     "rpg": {},
-    "exp": 960,
-    "energi": 99999
+    "exp": 990,
+    "energi": 99998,
+    "name": "Khalif",
+    "lastSeen": "2026-10-26T04:44:10.198Z",
+    "cooldowns": {
+      "bratimg": 1792989853771
+    },
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6283195059959": {
     "jid": "6283195059959",
@@ -132933,7 +132940,7 @@
   "628137877605": {
     "jid": "628137877605",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "energi": 99999
   },
   "62895801708070": {
@@ -132957,14 +132964,14 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 3883,
-    "energi": 99992,
+    "exp": 3898,
+    "energi": 99991,
     "koin": 1250,
     "name": "kck",
-    "lastSeen": "2026-10-26T04:43:57.038Z",
+    "lastSeen": "2026-10-26T04:44:06.762Z",
     "cooldowns": {
-      "brat": 1792989409368,
-      "bratimg": 1792989427362
+      "brat": 1792989838636,
+      "bratimg": 1792989851307
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
@@ -133740,17 +133747,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 250,
+      "stamina": 220,
       "health": 450,
       "mana": 275,
       "maxHealth": 450,
       "maxMana": 275,
       "maxStamina": 275,
-      "level": 36
+      "level": 36,
+      "attack": 10
     },
-    "exp": 357891,
+    "exp": 358191,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:43:50.835Z",
+    "lastSeen": "2026-10-26T04:44:02.935Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133773,7 +133781,8 @@
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021,
-      "maling": 1792987994443
+      "maling": 1792987994443,
+      "dungeon": 1792989843089
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133787,10 +133796,11 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 103172,
+    "koin": 103456,
     "inventory": {
       "trash": 2,
-      "prawn": 1
+      "prawn": 1,
+      "iron": 1
     }
   },
   "6285750087063": {
@@ -134050,6 +134060,11 @@
   },
   "6282132962157": {
     "jid": "6282132962157",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285183144501": {
+    "jid": "6285183144501",
     "rpg": {},
     "exp": 15
   }
