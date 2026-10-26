@@ -130049,11 +130049,16 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {
-      "level": 1,
+      "level": 2,
       "bank": 50,
-      "stamina": 35
+      "stamina": 105,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105
     },
-    "exp": 9640,
+    "exp": 10702,
     "energi": 99996,
     "name": "EQUINOX",
     "lastSeen": "2026-10-26T09:28:16.909Z",
@@ -130077,7 +130082,7 @@
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "registeredAt": 1792908636958,
-    "koin": 58478
+    "koin": 79723
   },
   "6289677741067": {
     "jid": "6289677741067",
