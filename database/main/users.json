@@ -132957,7 +132957,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 3778,
+    "exp": 3793,
     "energi": 99995,
     "koin": 1250,
     "name": "kck",
@@ -133580,21 +133580,9 @@
       "health": 450,
       "mana": 275,
       "stamina": 190,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 35,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792987760191
-      }
+      "attack": 10
     },
-    "exp": 357792,
+    "exp": 358077,
     "name": "Fиз",
     "lastSeen": "2026-10-26T04:09:14.373Z",
     "cooldowns": {
@@ -133627,7 +133615,7 @@
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "energi": 100388,
-    "koin": 0,
+    "koin": 251,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133641,7 +133629,10 @@
     "inventory": {
       "trash": 2,
       "fish": 1,
-      "prawn": 1
+      "prawn": 1,
+      "gold": 1,
+      "herb": 4,
+      "leather": 4
     }
   },
   "6281221110247": {
@@ -133750,17 +133741,17 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 260,
-      "health": 450,
+      "stamina": 250,
+      "health": 424,
       "mana": 275,
       "maxHealth": 450,
       "maxMana": 275,
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 353101,
+    "exp": 353634,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:09:19.266Z",
+    "lastSeen": "2026-10-26T04:09:32.192Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133774,12 +133765,12 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1792987348682,
+      "job": 1792987775526,
       "susunkata": 1792985996374,
       "quiz": 1792987559434,
       "inventory": 1792987579584,
       "mancing": 1792987374100,
-      "adventure": 1792987353187,
+      "adventure": 1792987761985,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021
@@ -133796,7 +133787,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 76433,
+    "koin": 81618,
     "inventory": {
       "trash": 2,
       "prawn": 1
