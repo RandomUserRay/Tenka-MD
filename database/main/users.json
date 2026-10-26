@@ -133579,12 +133579,24 @@
       "maxStamina": 275,
       "health": 450,
       "mana": 275,
-      "stamina": 220,
-      "attack": 10
+      "stamina": 190,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 35,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1792987760191
+      }
     },
-    "exp": 357762,
+    "exp": 357792,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:09:07.279Z",
+    "lastSeen": "2026-10-26T04:09:14.373Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133596,7 +133608,7 @@
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
       "levelup": 1792987303038,
-      "dungeon": 1792986625476,
+      "dungeon": 1792987754521,
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792986206937,
@@ -133746,9 +133758,9 @@
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 353086,
+    "exp": 353101,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:08:14.619Z",
+    "lastSeen": "2026-10-26T04:09:19.266Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133774,7 +133786,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 375,
+    "energi": 374,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
