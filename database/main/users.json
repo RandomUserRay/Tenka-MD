@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11400,
+    "exp": 11415,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130254,7 +130254,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400747230,
+    "exp": 19400747305,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -132268,11 +132268,11 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 6285,
-    "name": "Seller Soviet (ayx)",
-    "lastSeen": "2026-10-25T10:04:27.434Z",
+    "exp": 6300,
+    "name": "Seller Soviet (AYX)",
+    "lastSeen": "2026-10-26T02:38:55.656Z",
     "cooldowns": {
-      "brat": 1792922426267,
+      "brat": 1792982337402,
       "menu": 1792912511382,
       "owner": 1792912539703,
       "antispam": 1792908021715,
@@ -132290,9 +132290,9 @@
       "absen": 1792922615451,
       "mulaiabsen": 1792922667910
     },
-    "energi": 99999,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1
+    "energi": 99998,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2
   },
   "6281374953937": {
     "name": "Qisthi",
@@ -132510,7 +132510,7 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {},
-    "exp": 3318,
+    "exp": 3333,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T01:28:03.590Z",
     "cooldowns": {
@@ -133779,6 +133779,6 @@
   "62895355330990": {
     "jid": "62895355330990",
     "rpg": {},
-    "exp": 60
+    "exp": 90
   }
 }
