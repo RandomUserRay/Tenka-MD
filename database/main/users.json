@@ -132222,7 +132222,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11510,
+    "exp": 11525,
     "cooldowns": {
       "gacha": 1792998847589,
       "judi": 1792906074331,
@@ -133202,7 +133202,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 2445,
+    "exp": 2475,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T01:27:27.854Z",
     "cooldowns": {
@@ -133610,12 +133610,12 @@
       "maxStamina": 380,
       "health": 627,
       "mana": 380,
-      "stamina": 335,
+      "stamina": 295,
       "attack": 10
     },
-    "exp": 561812,
+    "exp": 562359,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:39:57.804Z",
+    "lastSeen": "2026-10-26T07:40:29.546Z",
     "cooldowns": {
       "menu": 1793000367070,
       "menucat": 1793000387324,
@@ -133660,11 +133660,13 @@
       "help": 1792998977631,
       "sellall": 1792999916885,
       "cook": 1793000396632,
-      "boss": 1793000398196
+      "boss": 1793000398196,
+      "ngojek": 1793000430788,
+      "hunt": 1793000433350
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100851,
+    "energi": 100849,
     "koin": 181638,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133685,7 +133687,8 @@
       "gold": 0,
       "octopus": 0,
       "diamond": 0,
-      "potion": 3
+      "potion": 3,
+      "rabbit": 1
     }
   },
   "6281221110247": {
