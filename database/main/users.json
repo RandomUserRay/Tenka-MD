@@ -125395,7 +125395,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 19806,
+    "exp": 19821,
     "name": "paduka riyy",
     "lastSeen": "2026-10-25T11:22:41.335Z",
     "cooldowns": {
@@ -133637,13 +133637,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 60,
-      "maxHealth": 690,
-      "maxMana": 395,
-      "maxStamina": 395,
-      "health": 665,
-      "mana": 395,
-      "stamina": 395,
+      "level": 61,
+      "maxHealth": 700,
+      "maxMana": 400,
+      "maxStamina": 400,
+      "health": 700,
+      "mana": 400,
+      "stamina": 400,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133654,9 +133654,9 @@
         "stats": null
       }
     },
-    "exp": 599198,
+    "exp": 600918,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T10:28:40.838Z",
+    "lastSeen": "2026-10-26T10:29:12.585Z",
     "cooldowns": {
       "menu": 1793010003858,
       "menucat": 1793010334821,
@@ -133672,7 +133672,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793010521172,
+      "tebaknegara": 1793010552848,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133722,8 +133722,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100910,
-    "koin": 260467,
+    "energi": 100918,
+    "koin": 262362,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
