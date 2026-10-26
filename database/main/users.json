@@ -133807,7 +133807,7 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376465,
+    "exp": 376480,
     "name": "mıss",
     "lastSeen": "2026-10-26T07:21:50.866Z",
     "cooldowns": {
@@ -134057,7 +134057,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 100,
+      "stamina": 80,
       "health": 130,
       "mana": 115,
       "maxHealth": 130,
@@ -134066,9 +134066,9 @@
       "attack": 10,
       "level": 4
     },
-    "exp": 31235,
+    "exp": 31786,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:21:43.920Z",
+    "lastSeen": "2026-10-26T07:21:57.525Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134101,12 +134101,13 @@
       "prawn": 1,
       "herb": 5,
       "leather": 2,
-      "rock": 3,
+      "rock": 6,
       "iron": 1,
-      "diamond": 1
+      "diamond": 1,
+      "coal": 1
     },
     "koin": 45052,
-    "energi": 17
+    "energi": 16
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134447,15 +134448,16 @@
   },
   "6288294335551": {
     "name": "mikel disini",
-    "lastSeen": "2026-10-26T07:20:19.778Z",
+    "lastSeen": "2026-10-26T07:22:00.721Z",
     "jid": "6288294335551",
     "rpg": {},
-    "exp": 1943,
+    "exp": 1958,
     "cooldowns": {
       "me": 1792999147544,
       "menu": 1792999163282,
       "menucat": 1792999179094,
-      "tebakepep": 1792999222067
+      "tebakepep": 1792999222067,
+      "ulartangga": 1792999320755
     },
     "registeredAt": 1792999142962,
     "lastActiveDate": "26/10/2026",
