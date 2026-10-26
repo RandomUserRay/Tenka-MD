@@ -106394,7 +106394,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59085,
+    "exp": 59100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -114736,7 +114736,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50005,
+    "exp": 50020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132522,7 +132522,7 @@
   "6285395891752": {
     "jid": "6285395891752",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "energi": 99999
   },
   "6282296102525": {
@@ -132987,14 +132987,14 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 4063,
-    "energi": 99988,
+    "exp": 4108,
+    "energi": 99986,
     "koin": 1250,
     "name": "kck",
-    "lastSeen": "2026-10-26T07:20:03.281Z",
+    "lastSeen": "2026-10-26T07:42:50.587Z",
     "cooldowns": {
-      "brat": 1792999113113,
-      "bratimg": 1792999126530,
+      "brat": 1793000563588,
+      "bratimg": 1793000573193,
       "bratpatrick": 1792999205696
     },
     "lastActiveDate": "26/10/2026",
@@ -133610,12 +133610,12 @@
       "maxStamina": 380,
       "health": 627,
       "mana": 380,
-      "stamina": 280,
+      "stamina": 255,
       "attack": 10
     },
-    "exp": 563884,
+    "exp": 563983,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:42:37.875Z",
+    "lastSeen": "2026-10-26T07:43:03.741Z",
     "cooldowns": {
       "menu": 1793000367070,
       "menucat": 1793000387324,
@@ -133669,7 +133669,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100846,
+    "energi": 100845,
     "koin": 171638,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133692,7 +133692,12 @@
       "diamond": 0,
       "potion": 3,
       "rabbit": 1,
-      "uncommon": 1
+      "uncommon": 1,
+      "botol": 8,
+      "kaleng": 3,
+      "kardus": 1,
+      "sampah": 7,
+      "koran": 3
     }
   },
   "6281221110247": {
@@ -134509,7 +134514,7 @@
   "6282262828886": {
     "jid": "6282262828886",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6281511635080": {
     "jid": "6281511635080",
