@@ -55056,7 +55056,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30726,
+    "exp": 30741,
     "level": 1,
     "koin": 1005797753,
     "unlockedFeatures": [],
@@ -101540,7 +101540,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9495,
+    "exp": 9510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133720,7 +133720,7 @@
     "lastSeen": "2026-10-26T01:57:03.542Z",
     "jid": "6285656266145",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
       "owner": 1792979825191
     },
@@ -133739,6 +133739,11 @@
   },
   "6287831681915": {
     "jid": "6287831681915",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282180663288": {
+    "jid": "6282180663288",
     "rpg": {},
     "exp": 15
   }
