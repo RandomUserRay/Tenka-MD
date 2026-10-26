@@ -132111,16 +132111,16 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1965,
+    "exp": 1980,
     "name": "Haafiz",
-    "lastSeen": "2026-10-26T06:14:25.459Z",
+    "lastSeen": "2026-10-26T10:59:17.280Z",
     "cooldowns": {
       "afk": 1792924681435,
       "tt": 1792995272211
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 99987
+    "energi": 99985
   },
   "6283188010317": {
     "jid": "6283188010317",
@@ -133871,7 +133871,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 330,
+      "stamina": 315,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133880,9 +133880,9 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 461572,
+    "exp": 461587,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:58:50.128Z",
+    "lastSeen": "2026-10-26T10:59:16.455Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012264720,
@@ -133915,7 +133915,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 498,
+    "energi": 497,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134197,7 +134197,8 @@
       "crime": 1793010358469,
       "jualan": 1793012051154,
       "garden": 1793012146949,
-      "streamer": 1793012185206
+      "streamer": 1793012185206,
+      "woodcut": 1793012355313
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
