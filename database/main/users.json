@@ -133611,21 +133611,9 @@
       "health": 584,
       "mana": 355,
       "stamina": 170,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 23,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792999690985
-      }
+      "attack": 10
     },
-    "exp": 519134,
+    "exp": 519346,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:28:04.097Z",
     "cooldowns": {
@@ -133674,7 +133662,7 @@
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "energi": 100760,
-    "koin": 146445,
+    "koin": 146620,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133693,7 +133681,8 @@
       "coal": 9,
       "gold": 2,
       "octopus": 1,
-      "diamond": 1
+      "diamond": 1,
+      "potion": 3
     }
   },
   "6281221110247": {
@@ -133810,7 +133799,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 295,
+      "stamina": 285,
       "health": 490,
       "mana": 295,
       "maxHealth": 490,
@@ -133819,9 +133808,9 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 390098,
+    "exp": 390113,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:27:41.162Z",
+    "lastSeen": "2026-10-26T07:28:26.908Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999664579,
