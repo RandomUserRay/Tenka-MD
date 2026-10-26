@@ -51225,7 +51225,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 838054,
+    "exp": 838069,
     "level": 1,
     "koin": 32240,
     "unlockedFeatures": [],
@@ -51234,12 +51234,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T11:39:56.499Z",
+    "lastSeen": "2026-10-26T11:16:51.782Z",
     "cooldowns": {
       "cekfemboy": 1783697559575,
       "cekganteng": 1783765347341,
       "cekpintar": 1783697755898,
-      "allmenu": 1792927825578,
+      "allmenu": 1793013414219,
       "cekjodoh": 1783765462804,
       "cekkhodam": 1783698093200,
       "pintar": 1783765688459,
@@ -51431,8 +51431,8 @@
     "lastStreamer": 1784468050524,
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 5
   },
   "6288901803249": {
     "jid": "6288901803249",
@@ -129000,15 +129000,15 @@
       "guildId": "guild_1791568221406",
       "luck": 65,
       "lastHourly": 1793013361613,
-      "bank": 170393,
+      "bank": 209978,
       "enchants": {},
       "expeditions": [],
       "defense": 15
     },
-    "exp": 319525,
+    "exp": 319540,
     "energi": 99997,
     "name": "MaLa ?",
-    "lastSeen": "2026-10-26T11:16:22.837Z",
+    "lastSeen": "2026-10-26T11:16:57.946Z",
     "cooldowns": {
       "menu": 1793013255649,
       "menucat": 1793013267338,
@@ -129121,7 +129121,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 5,
-    "koin": 39585,
+    "koin": 0,
     "inventory": {
       "daging_rusa": 1,
       "bulu_rubah": 1,
