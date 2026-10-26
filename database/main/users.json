@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20924,
+    "exp": 20939,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -16452,7 +16452,7 @@
       "iqc": 1790437109539,
       "netflix": 1790953949607,
       "fakeml": 1790595322571,
-      "pin": 1793014054445,
+      "pin": 1792658717518,
       "stalkml": 1790685762802
     },
     "clanId": null,
@@ -16511,8 +16511,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 50
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 49
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 855,
+    "exp": 900,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -96062,7 +96062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1095,
+    "exp": 1110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -113245,7 +113245,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26640,
+    "exp": 26670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132148,7 +132148,7 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 20463,
+    "exp": 20478,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T09:24:28.388Z",
     "cooldowns": {
@@ -134304,7 +134304,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 810,
+    "exp": 840,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134840,11 +134840,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6289635727410": {
-    "jid": "6289635727410",
-    "rpg": {},
-    "exp": 15
-  },
   "6285759111527": {
     "jid": "6285759111527",
     "rpg": {},
@@ -134862,6 +134857,16 @@
   },
   "6287860530418": {
     "jid": "6287860530418",
+    "rpg": {},
+    "exp": 15
+  },
+  "6289635727410": {
+    "jid": "6289635727410",
+    "rpg": {},
+    "exp": 15
+  },
+  "6288973658238": {
+    "jid": "6288973658238",
     "rpg": {},
     "exp": 15
   }
