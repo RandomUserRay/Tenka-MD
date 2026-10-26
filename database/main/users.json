@@ -133807,9 +133807,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 377280,
+    "exp": 377295,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:25:44.504Z",
+    "lastSeen": "2026-10-26T07:25:58.112Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999502389,
@@ -133825,7 +133825,7 @@
       "burung": 1792985824005,
       "job": 1792999524700,
       "susunkata": 1792985996374,
-      "quiz": 1792996416842,
+      "quiz": 1792999558514,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1792999547836,
@@ -134065,21 +134065,9 @@
       "maxMana": 115,
       "maxStamina": 115,
       "attack": 10,
-      "level": 4,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 28,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792999550744
-      }
+      "level": 4
     },
-    "exp": 31951,
+    "exp": 32090,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T07:25:45.487Z",
     "cooldowns": {
@@ -134119,9 +134107,10 @@
       "rock": 6,
       "iron": 1,
       "diamond": 1,
-      "coal": 1
+      "coal": 1,
+      "potion": 2
     },
-    "koin": 45052,
+    "koin": 45153,
     "energi": 13
   },
   "62895327376940": {
