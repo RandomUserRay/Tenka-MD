@@ -130254,7 +130254,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400747755,
+    "exp": 19400747830,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -133561,24 +133561,12 @@
       "maxHealth": 420,
       "maxMana": 260,
       "maxStamina": 260,
-      "health": 420,
+      "health": 395,
       "mana": 260,
       "stamina": 230,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 38,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1792986016911
-      }
+      "attack": 10
     },
-    "exp": 320358,
+    "exp": 320373,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:39:57.563Z",
     "cooldowns": {
@@ -133701,7 +133689,7 @@
   "628218011412": {
     "jid": "628218011412",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6289523313517": {
     "jid": "6289523313517",
@@ -133716,14 +133704,15 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 90,
-      "health": 105,
-      "mana": 53,
-      "maxHealth": 100,
-      "maxMana": 100,
-      "maxStamina": 100
+      "stamina": 260,
+      "health": 420,
+      "mana": 260,
+      "maxHealth": 420,
+      "maxMana": 260,
+      "maxStamina": 260,
+      "level": 33
     },
-    "exp": 319876,
+    "exp": 321039,
     "name": "mıss",
     "lastSeen": "2026-10-26T03:39:56.232Z",
     "cooldowns": {
@@ -133744,7 +133733,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 322,
+    "energi": 329,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133754,7 +133743,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 3311,
+    "koin": 4177,
     "inventory": {}
   },
   "6285750087063": {
