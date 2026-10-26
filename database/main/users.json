@@ -133604,16 +133604,16 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 53,
-      "maxHealth": 620,
-      "maxMana": 360,
-      "maxStamina": 360,
-      "health": 620,
-      "mana": 360,
-      "stamina": 360,
+      "level": 54,
+      "maxHealth": 630,
+      "maxMana": 365,
+      "maxStamina": 365,
+      "health": 630,
+      "mana": 365,
+      "stamina": 365,
       "attack": 10
     },
-    "exp": 529661,
+    "exp": 532130,
     "name": "Fиз",
     "lastSeen": "2026-10-26T07:31:09.098Z",
     "cooldowns": {
@@ -133661,8 +133661,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100782,
-    "koin": 152939,
+    "energi": 100788,
+    "koin": 154752,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133808,9 +133808,9 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 391404,
+    "exp": 391419,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:30:57.240Z",
+    "lastSeen": "2026-10-26T07:31:14.063Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999860536,
