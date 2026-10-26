@@ -966,13 +966,13 @@
   "selfGroups": [
     "447735464487-1307378899@g.us",
     "120363211173061664@g.us",
-    "120363428874863498@g.us",
-    "120363428563992005@g.us"
+    "120363428874863498@g.us"
   ],
   "ownerNames": {},
   "publicGroups": [
     "120363410980159238@g.us",
-    "120363429143873315@g.us"
+    "120363429143873315@g.us",
+    "120363428563992005@g.us"
   ],
   "autoRead": false,
   "contacts": {
@@ -30563,10 +30563,6 @@
     "6285842889332@s.whatsapp.net": {
       "jid": "6285842889332@s.whatsapp.net",
       "name": "arsaputra"
-    },
-    "6288804506572@s.whatsapp.net": {
-      "jid": "6288804506572@s.whatsapp.net",
-      "name": "la"
     }
   },
   "antiCall": false,
