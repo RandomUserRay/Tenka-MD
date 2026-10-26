@@ -106391,7 +106391,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58725,
+    "exp": 58770,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132271,7 +132271,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 6390,
+    "exp": 6420,
     "name": "Seller Soviet (AYX)",
     "lastSeen": "2026-10-26T05:05:08.283Z",
     "cooldowns": {
@@ -133580,18 +133580,18 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 41,
-      "maxHealth": 500,
-      "maxMana": 300,
-      "maxStamina": 300,
-      "health": 500,
-      "mana": 300,
-      "stamina": 300,
+      "level": 42,
+      "maxHealth": 510,
+      "maxMana": 305,
+      "maxStamina": 305,
+      "health": 510,
+      "mana": 305,
+      "stamina": 305,
       "attack": 10
     },
-    "exp": 406872,
+    "exp": 411392,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T05:13:08.249Z",
+    "lastSeen": "2026-10-26T05:14:02.641Z",
     "cooldowns": {
       "menu": 1792991150470,
       "menucat": 1792991151013,
@@ -133607,7 +133607,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792991046337,
-      "tebaknegara": 1792991588364,
+      "tebaknegara": 1792991643329,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792988174300,
@@ -133628,8 +133628,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100526,
-    "koin": 28748,
+    "energi": 100538,
+    "koin": 33233,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134100,6 +134100,11 @@
   },
   "62881010864178": {
     "jid": "62881010864178",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283870495018": {
+    "jid": "6283870495018",
     "rpg": {},
     "exp": 15
   }
