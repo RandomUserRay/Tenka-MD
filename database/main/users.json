@@ -5336,7 +5336,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16615,
+    "exp": 16630,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -133582,9 +133582,9 @@
       "stamina": 265,
       "attack": 10
     },
-    "exp": 330560,
+    "exp": 332960,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:59:01.290Z",
+    "lastSeen": "2026-10-26T03:59:45.225Z",
     "cooldowns": {
       "menu": 1792987118586,
       "menucat": 1792985891950,
@@ -133598,7 +133598,7 @@
       "levelup": 1792985936606,
       "dungeon": 1792986625476,
       "catur": 1792986052915,
-      "quiz": 1792987141397,
+      "quiz": 1792987185273,
       "tidur": 1792986206937,
       "tebaknegara": 1792986317441,
       "siapakahaku": 1792986508425,
@@ -133608,8 +133608,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100328,
-    "koin": 4606,
+    "energi": 100334,
+    "koin": 6110,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133736,7 +133736,7 @@
       "maxStamina": 270,
       "level": 35
     },
-    "exp": 341960,
+    "exp": 341975,
     "name": "mıss",
     "lastSeen": "2026-10-26T03:59:16.348Z",
     "cooldowns": {
@@ -133821,7 +133821,7 @@
   "6289616750953": {
     "jid": "6289616750953",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285173159781": {
     "jid": "6285173159781",
@@ -134020,7 +134020,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   }
