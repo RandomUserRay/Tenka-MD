@@ -50111,8 +50111,8 @@
         "name": "Yer"
       },
       "6281235841775@s.whatsapp.net": {
-        "count": 11,
-        "lastChat": 1792993581234,
+        "count": 12,
+        "lastChat": 1792994757373,
         "name": "."
       },
       "6285817555018@s.whatsapp.net": {
@@ -50590,8 +50590,8 @@
   "120363413033615832@g.us": {
     "chatStats": {
       "6289675477260@s.whatsapp.net": {
-        "count": 15,
-        "lastChat": 1792994705844,
+        "count": 16,
+        "lastChat": 1792994750350,
         "name": "Seller Soviet (AYX)"
       }
     },
@@ -50600,6 +50600,7 @@
     "toxicWords": [
       "on"
     ],
-    "antiswgc": "on"
+    "antiswgc": "on",
+    "antilinkgc": "on"
   }
 }
