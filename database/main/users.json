@@ -106394,7 +106394,7 @@
     "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58965,
+    "exp": 58980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106404,7 +106404,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T05:26:05.314Z",
+    "lastSeen": "2026-10-26T07:35:27.945Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106457,7 +106457,7 @@
       "acc": 1788714898071,
       "tebaknegara": 1788769628236,
       "bego": 1788769651108,
-      "warn": 1792927947547,
+      "warn": 1793000128616,
       "h": 1792991487546,
       "del": 1792938444997,
       "info": 1788878300051,
@@ -133202,7 +133202,7 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {},
-    "exp": 2400,
+    "exp": 2415,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T01:27:27.854Z",
     "cooldowns": {
@@ -133613,9 +133613,9 @@
       "stamina": 335,
       "attack": 10
     },
-    "exp": 561707,
+    "exp": 561737,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:34:46.619Z",
+    "lastSeen": "2026-10-26T07:35:17.882Z",
     "cooldowns": {
       "menu": 1792999122237,
       "menucat": 1792999156923,
@@ -133641,7 +133641,7 @@
       "tebakepep": 1792987335851,
       "mancing": 1793000082214,
       "sell": 1792987623906,
-      "shop": 1792991086401,
+      "shop": 1793000108286,
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
@@ -133809,12 +133809,12 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 394135,
+    "exp": 394165,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:34:45.335Z",
+    "lastSeen": "2026-10-26T07:35:29.597Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793000088412,
+      "casino": 1793000132785,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133842,7 +133842,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 398,
+    "energi": 396,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133852,7 +133852,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 48984,
+    "koin": 69984,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134405,7 +134405,7 @@
   "6281549501054": {
     "jid": "6281549501054",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6283822257049": {
     "jid": "6283822257049",
