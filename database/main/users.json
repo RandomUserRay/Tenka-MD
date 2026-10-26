@@ -121443,10 +121443,10 @@
     "jid": "6282254416963",
     "name": "ken",
     "number": "6282254416963",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3150,
+    "exp": 3165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121456,9 +121456,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T13:15:49.085Z",
+    "lastSeen": "2026-10-26T08:20:42.065Z",
     "cooldowns": {
-      "bratimg": 1792934152274,
+      "bratimg": 1793002844682,
       "menu": 1790427504693,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
@@ -121493,8 +121493,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 10
   },
   "6281262488900": {
     "jid": "6281262488900",
