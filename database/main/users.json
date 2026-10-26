@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12030,
+    "exp": 12060,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -132957,7 +132957,7 @@
   "62882008334631": {
     "jid": "62882008334631",
     "rpg": {},
-    "exp": 3793,
+    "exp": 3808,
     "energi": 99995,
     "koin": 1250,
     "name": "kck",
@@ -133582,9 +133582,9 @@
       "stamina": 220,
       "attack": 10
     },
-    "exp": 357777,
+    "exp": 357792,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:12:50.306Z",
+    "lastSeen": "2026-10-26T04:13:03.981Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133747,9 +133747,9 @@
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 353116,
+    "exp": 355469,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:08:14.619Z",
+    "lastSeen": "2026-10-26T04:13:11.742Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133768,14 +133768,14 @@
       "quiz": 1792987559434,
       "inventory": 1792987579584,
       "mancing": 1792987374100,
-      "adventure": 1792987353187,
+      "adventure": 1792987981318,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 375,
+    "energi": 373,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133785,7 +133785,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 76433,
+    "koin": 88049,
     "inventory": {
       "trash": 2,
       "prawn": 1
