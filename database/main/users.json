@@ -4541,7 +4541,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235670,
+    "exp": 235685,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -94948,7 +94948,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 900,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95999,7 +95999,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 420,
+    "exp": 435,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97276,7 +97276,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46748,
+    "exp": 46733,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -112847,7 +112847,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 239657,
+    "exp": 239672,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130409,7 +130409,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15300,
+    "exp": 15330,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -132517,7 +132517,7 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8102,
+    "exp": 8132,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T04:45:21.130Z",
     "cooldowns": {
@@ -132609,12 +132609,6 @@
     "activeDays": 1,
     "energi": 99999
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132639,6 +132633,12 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -133270,19 +133270,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "energi": 99999
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133311,6 +133298,19 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
     "energi": 99999
   },
   "6289691337115": {
@@ -133507,12 +133507,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6283138281728": {
-    "jid": "6283138281728",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6289514408551": {
     "jid": "6289514408551",
     "rpg": {},
@@ -133527,6 +133521,12 @@
   },
   "6289604380857": {
     "jid": "6289604380857",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6283138281728": {
+    "jid": "6283138281728",
     "rpg": {},
     "exp": 30,
     "energi": 99999
