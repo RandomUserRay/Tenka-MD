@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11775,
+    "exp": 11790,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133542,9 +133542,9 @@
   "6281355820001": {
     "jid": "6281355820001",
     "rpg": {},
-    "exp": 33385,
+    "exp": 33400,
     "name": "[Ark]",
-    "lastSeen": "2026-10-26T03:44:37.793Z",
+    "lastSeen": "2026-10-26T03:44:59.850Z",
     "cooldowns": {
       "ganteng": 1792945282839,
       "tebakhewan": 1792945781556,
@@ -133554,7 +133554,8 @@
       "daily": 1792986191230,
       "weekly": 1792986202967,
       "info": 1792986268606,
-      "commands": 1792986280917
+      "commands": 1792986280917,
+      "menucat": 1792986301147
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
@@ -133576,7 +133577,7 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 324749,
+    "exp": 324764,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:43:26.760Z",
     "cooldowns": {
