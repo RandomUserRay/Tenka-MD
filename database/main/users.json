@@ -97274,7 +97274,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46553,
+    "exp": 46568,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -101541,7 +101541,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10035,
+    "exp": 10050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130034,7 +130034,7 @@
       "level": 1,
       "bank": 0
     },
-    "exp": 4290,
+    "exp": 4305,
     "energi": 99999,
     "name": "EQUINOX",
     "lastSeen": "2026-10-26T00:15:21.167Z",
@@ -130254,7 +130254,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400747155,
+    "exp": 19400747230,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-25T15:33:58.592Z",
@@ -133779,6 +133779,6 @@
   "62895355330990": {
     "jid": "62895355330990",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
