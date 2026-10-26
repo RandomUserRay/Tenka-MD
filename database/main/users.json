@@ -132510,7 +132510,7 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {},
-    "exp": 4518,
+    "exp": 4533,
     "name": "Thur rawring",
     "lastSeen": "2026-10-26T03:25:34.981Z",
     "cooldowns": {
@@ -133618,7 +133618,7 @@
   "6283895434061": {
     "jid": "6283895434061",
     "rpg": {},
-    "exp": 2280,
+    "exp": 2295,
     "energi": 99999,
     "name": "u b a y y",
     "lastSeen": "2026-10-26T03:30:16.411Z",
@@ -133680,11 +133680,14 @@
     "rpg": {
       "stamina": 100,
       "health": 105,
-      "mana": 53
+      "mana": 53,
+      "maxHealth": 100,
+      "maxMana": 100,
+      "maxStamina": 100
     },
-    "exp": 318915,
+    "exp": 318930,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:30:05.514Z",
+    "lastSeen": "2026-10-26T03:30:33.465Z",
     "cooldowns": {
       "menu": 1792984975681,
       "casino": 1792985104734,
@@ -133693,7 +133696,8 @@
       "register": 1792984923121,
       "cekfemboy": 1792984756030,
       "family100": 1792985351299,
-      "tidur": 1792985409011
+      "tidur": 1792985409011,
+      "makan": 1792985433961
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133707,7 +133711,8 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 0
+    "koin": 0,
+    "inventory": {}
   },
   "6285750087063": {
     "jid": "6285750087063",
@@ -133883,12 +133888,13 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {},
-    "exp": 1423,
+    "exp": 1438,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T03:29:47.393Z",
+    "lastSeen": "2026-10-26T03:30:30.109Z",
     "cooldowns": {
       "daily": 1792985300760,
-      "help": 1792985382862
+      "help": 1792985382862,
+      "menucat": 1792985430285
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
