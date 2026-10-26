@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11715,
+    "exp": 11730,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133691,16 +133691,16 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 100,
+      "stamina": 90,
       "health": 105,
       "mana": 53,
       "maxHealth": 100,
       "maxMana": 100,
       "maxStamina": 100
     },
-    "exp": 319350,
+    "exp": 319696,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:37:03.856Z",
+    "lastSeen": "2026-10-26T03:38:24.173Z",
     "cooldowns": {
       "menu": 1792985735135,
       "casino": 1792985104734,
@@ -133713,7 +133713,8 @@
       "makan": 1792985433961,
       "top": 1792985643382,
       "help": 1792985748534,
-      "burung": 1792985824005
+      "burung": 1792985824005,
+      "job": 1792985907338
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133727,7 +133728,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 0,
+    "koin": 3311,
     "inventory": {}
   },
   "6285750087063": {
@@ -133941,6 +133942,6 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
