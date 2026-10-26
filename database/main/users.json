@@ -133880,7 +133880,7 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 460126,
+    "exp": 461542,
     "name": "mıss",
     "lastSeen": "2026-10-26T10:58:16.698Z",
     "cooldowns": {
@@ -133915,7 +133915,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 495,
+    "energi": 498,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133925,7 +133925,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 20714,
+    "koin": 21846,
     "inventory": {
       "trash": 3,
       "prawn": 1,
@@ -134135,7 +134135,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 110,
+      "stamina": 95,
       "health": 160,
       "mana": 130,
       "maxHealth": 160,
@@ -134148,9 +134148,9 @@
         "maxPlots": 3
       }
     },
-    "exp": 64172,
+    "exp": 64187,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:58:11.894Z",
+    "lastSeen": "2026-10-26T10:58:23.543Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134222,7 +134222,7 @@
       "koran": 2
     },
     "koin": 254926,
-    "energi": 32
+    "energi": 31
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134756,7 +134756,7 @@
   "6281382738806": {
     "jid": "6281382738806",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6283890527468": {
     "jid": "6283890527468",
