@@ -5336,7 +5336,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17140,
+    "exp": 17185,
     "level": 1,
     "koin": 2802,
     "unlockedFeatures": [],
@@ -5345,7 +5345,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T07:01:40.785Z",
+    "lastSeen": "2026-10-26T07:04:02.006Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
@@ -5355,7 +5355,8 @@
       "allmenu": 1792998024943,
       "s": 1792995470369,
       "smeme": 1792995388129,
-      "tebakkata": 1792998100985
+      "tebakkata": 1792998100985,
+      "susunkata": 1792998243109
     },
     "clanId": null,
     "isRegistered": false,
@@ -91395,10 +91396,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57885,
+    "exp": 57870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91408,11 +91409,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T07:03:19.407Z",
+    "lastSeen": "2026-10-24T11:32:50.000Z",
     "cooldowns": {
       "play": 1792745823576,
       "toimg": 1790829435907,
-      "hitamkan": 1792998218052,
+      "hitamkan": 1792841350979,
       "benefitpremium": 1786929820395,
       "s": 1792841574129,
       "getpp": 1792841001726,
@@ -91465,8 +91466,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 32
+    "lastActiveDate": "24/10/2026",
+    "activeDays": 31
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -132623,12 +132624,6 @@
     "activeDays": 1,
     "energi": 99999
   },
-  "6283195059959": {
-    "jid": "6283195059959",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6282381293756": {
     "jid": "6282381293756",
     "rpg": {},
@@ -132653,6 +132648,12 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
+  },
+  "6283195059959": {
+    "jid": "6283195059959",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
   },
   "6287894267928": {
     "jid": "6287894267928",
@@ -133291,19 +133292,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6282313429277": {
-    "jid": "6282313429277",
-    "rpg": {},
-    "exp": 60,
-    "name": "kaizen ジ",
-    "lastSeen": "2026-10-25T12:09:15.768Z",
-    "cooldowns": {
-      "intro": 1792930156152
-    },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "energi": 99999
-  },
   "6282154166191": {
     "jid": "6282154166191",
     "rpg": {},
@@ -133332,6 +133320,19 @@
     "jid": "6287848386982",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6282313429277": {
+    "jid": "6282313429277",
+    "rpg": {},
+    "exp": 60,
+    "name": "kaizen ジ",
+    "lastSeen": "2026-10-25T12:09:15.768Z",
+    "cooldowns": {
+      "intro": 1792930156152
+    },
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
     "energi": 99999
   },
   "6289691337115": {
@@ -133528,12 +133529,6 @@
     "exp": 15,
     "energi": 99999
   },
-  "6283138281728": {
-    "jid": "6283138281728",
-    "rpg": {},
-    "exp": 30,
-    "energi": 99999
-  },
   "6289514408551": {
     "jid": "6289514408551",
     "rpg": {},
@@ -133548,6 +133543,12 @@
   },
   "6289604380857": {
     "jid": "6289604380857",
+    "rpg": {},
+    "exp": 30,
+    "energi": 99999
+  },
+  "6283138281728": {
+    "jid": "6283138281728",
     "rpg": {},
     "exp": 30,
     "energi": 99999
@@ -133800,9 +133801,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 372777,
+    "exp": 372792,
     "name": "mıss",
-    "lastSeen": "2026-10-26T06:37:08.194Z",
+    "lastSeen": "2026-10-26T07:03:10.301Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990611228,
@@ -133827,7 +133828,8 @@
       "sell": 1792987418021,
       "maling": 1792987994443,
       "dungeon": 1792990217414,
-      "nikah": 1792990325359
+      "nikah": 1792990325359,
+      "me": 1792998194636
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133836,7 +133838,7 @@
     "regName": "misss",
     "regAge": 77,
     "regGender": "Perempuan",
-    "registeredAt": null,
+    "registeredAt": 1792998191349,
     "lastRegisteredAt": "2026-10-26T03:22:42.749Z",
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
@@ -133858,17 +133860,19 @@
   "6281229713698": {
     "jid": "6281229713698",
     "rpg": {},
-    "exp": 285,
+    "exp": 4990,
     "name": "kish",
     "lastSeen": "2026-10-26T07:03:07.597Z",
     "cooldowns": {
       "menucat": 1792997904534,
       "owner": 1792974157650,
-      "tts": 1792997912206
+      "tts": 1792997912206,
+      "tebakkata": 1792998187698
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 24
+    "energi": 33,
+    "koin": 2126
   },
   "6289656002609": {
     "jid": "6289656002609",
@@ -134170,11 +134174,6 @@
     "rpg": {},
     "exp": 45
   },
-  "6288804506572": {
-    "jid": "6288804506572",
-    "rpg": {},
-    "exp": 15
-  },
   "6288330123111": {
     "jid": "6288330123111",
     "rpg": {},
@@ -134189,6 +134188,11 @@
     "jid": "6282191028528",
     "rpg": {},
     "exp": 30
+  },
+  "6288804506572": {
+    "jid": "6288804506572",
+    "rpg": {},
+    "exp": 15
   },
   "6285789521369": {
     "name": "Serendipity",
