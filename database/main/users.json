@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29200,
+    "exp": 29215,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21329,
+    "exp": 21344,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -33752,10 +33752,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 556474,
+    "exp": 556504,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33764,7 +33764,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:36:51.687Z",
+    "lastSeen": "2026-10-26T11:38:01.787Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33997,7 +33997,7 @@
       "list": 1788511747947,
       "swgc": 1791201505147,
       "play2": 1788777624419,
-      "pin": 1792904472587,
+      "pin": 1793014687220,
       "ganteng": 1789263677434,
       "cektsundere": 1789307169467,
       "tagall": 1789458983492,
@@ -51444,7 +51444,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609838,
+    "exp": 609868,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -113248,7 +113248,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26685,
+    "exp": 26700,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125399,9 +125399,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20406,
+    "exp": 20421,
     "name": "paduka riyy",
-    "lastSeen": "2026-10-26T11:36:53.929Z",
+    "lastSeen": "2026-10-26T11:37:58.744Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -132126,7 +132126,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 2130,
+    "exp": 2160,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T11:20:01.171Z",
     "cooldowns": {
@@ -133248,7 +133248,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 9009,
+    "exp": 9024,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133433,7 +133433,7 @@
   "62895402337876": {
     "jid": "62895402337876",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "name": "dikaa",
     "lastSeen": "2026-10-26T06:49:31.132Z",
     "cooldowns": {
@@ -134020,12 +134020,13 @@
   "6285187256380": {
     "jid": "6285187256380",
     "rpg": {},
-    "exp": 180,
+    "exp": 225,
     "name": "Nzarrr",
-    "lastSeen": "2026-10-26T11:37:23.765Z",
+    "lastSeen": "2026-10-26T11:38:25.269Z",
     "cooldowns": {
       "cekganteng": 1793014610163,
-      "cekfemboy": 1793014647869
+      "cekfemboy": 1793014647869,
+      "cekcantik": 1793014705425
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
@@ -134175,13 +134176,13 @@
   "628561922892": {
     "jid": "628561922892",
     "rpg": {},
-    "exp": 765,
+    "exp": 795,
     "name": "Vi",
-    "lastSeen": "2026-10-26T11:37:25.313Z",
+    "lastSeen": "2026-10-26T11:38:08.896Z",
     "cooldowns": {
-      "s": 1793014646932
+      "s": 1793014668784
     },
-    "energi": 22,
+    "energi": 21,
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
   },
@@ -134323,7 +134324,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 1380,
+    "exp": 1410,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T11:35:27.322Z",
     "cooldowns": {
@@ -134550,7 +134551,7 @@
   "6281263452943": {
     "jid": "6281263452943",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "name": "Al Dii",
     "lastSeen": "2026-10-26T11:37:35.845Z"
   },
@@ -134620,7 +134621,7 @@
   "6283891009696": {
     "jid": "6283891009696",
     "rpg": {},
-    "exp": 45
+    "exp": 90
   },
   "6289525631049": {
     "jid": "6289525631049",
@@ -134899,13 +134900,13 @@
   "6281259026313": {
     "jid": "6281259026313",
     "rpg": {},
-    "exp": 210,
+    "exp": 240,
     "name": "𝑶𝒎𝒆𝒔𝒔 𝑨𝒓𝒕",
-    "lastSeen": "2026-10-26T11:37:29.678Z",
+    "lastSeen": "2026-10-26T11:38:26.837Z",
     "cooldowns": {
-      "s": 1793014652137
+      "s": 1793014673421
     },
-    "energi": 17,
+    "energi": 15,
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
   },
@@ -134927,6 +134928,6 @@
   "6283184739577": {
     "jid": "6283184739577",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   }
 }
