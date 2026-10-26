@@ -128796,7 +128796,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 1450,
+    "exp": 1465,
     "name": "AJO GS ☠️",
     "lastSeen": "2026-10-08T14:45:04.710Z",
     "cooldowns": {
@@ -129004,7 +129004,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 288036,
+    "exp": 288066,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-10-25T03:21:41.603Z",
@@ -129328,7 +129328,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 6570,
+    "exp": 6585,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
@@ -133871,8 +133871,8 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 315,
-      "health": 550,
+      "stamina": 270,
+      "health": 530,
       "mana": 325,
       "maxHealth": 550,
       "maxMana": 325,
@@ -133880,9 +133880,9 @@
       "level": 46,
       "attack": 10
     },
-    "exp": 457453,
+    "exp": 457733,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:54:01.954Z",
+    "lastSeen": "2026-10-26T10:54:22.794Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793011519958,
@@ -133900,20 +133900,20 @@
       "susunkata": 1792985996374,
       "quiz": 1793012012994,
       "inventory": 1792992573520,
-      "mancing": 1792987374100,
-      "adventure": 1793011495758,
+      "mancing": 1793012064556,
+      "adventure": 1793012045946,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021,
-      "maling": 1792987994443,
-      "dungeon": 1793011503124,
+      "maling": 1793012058339,
+      "dungeon": 1793012063444,
       "nikah": 1792990325359,
       "me": 1792998194636,
       "inv": 1793012025839
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 495,
+    "energi": 493,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,14 +133923,15 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 55173,
+    "koin": 55457,
     "inventory": {
-      "trash": 2,
+      "trash": 3,
       "prawn": 1,
       "iron": 2,
       "herb": 2,
-      "leather": 4,
-      "potion": 4
+      "leather": 6,
+      "potion": 4,
+      "diamond": 1
     }
   },
   "6285750087063": {
@@ -134131,18 +134132,30 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 65,
+      "stamina": 17,
       "health": 75,
       "mana": 53,
       "maxHealth": 150,
       "maxMana": 125,
       "maxStamina": 125,
       "attack": 10,
-      "level": 6
+      "level": 6,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 10,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793012068548
+      }
     },
-    "exp": 56415,
+    "exp": 56460,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:53:56.883Z",
+    "lastSeen": "2026-10-26T10:54:25.799Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134163,7 +134176,7 @@
       "absen": 1792988103531,
       "inv": 1793010286310,
       "use": 1793009133283,
-      "dungeon": 1793009167691,
+      "dungeon": 1793012066161,
       "tebakfilm": 1792998970540,
       "tambang": 1793010011203,
       "pap": 1792999398457,
@@ -134187,7 +134200,7 @@
       "ngemis": 1793010254169,
       "stamina": 1793010308022,
       "crime": 1793010358469,
-      "jualan": 1793010380154
+      "jualan": 1793012051154
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134211,7 +134224,7 @@
       "sampah": 26,
       "koran": 2
     },
-    "koin": 127912,
+    "koin": 113004,
     "energi": 35
   },
   "62895327376940": {
