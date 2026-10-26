@@ -130051,17 +130051,17 @@
     "rpg": {
       "level": 2,
       "bank": 50,
-      "stamina": 105,
+      "stamina": 80,
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
       "health": 110,
       "mana": 105
     },
-    "exp": 10702,
+    "exp": 11217,
     "energi": 99996,
     "name": "EQUINOX",
-    "lastSeen": "2026-10-26T09:28:16.909Z",
+    "lastSeen": "2026-10-26T09:28:48.608Z",
     "cooldowns": {
       "play": 1792906241860,
       "afk": 1792924976243,
@@ -130076,7 +130076,7 @@
       "tebakfilm": 1793003761359,
       "job": 1793006658712,
       "gojek": 1793006902687,
-      "kurir": 1793006696745,
+      "kurir": 1793006932643,
       "work": 1793006813016
     },
     "lastActiveDate": "26/10/2026",
@@ -133230,7 +133230,7 @@
       "stamina": 85,
       "bank": 1
     },
-    "exp": 5328,
+    "exp": 5343,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T09:28:26.343Z",
     "cooldowns": {
