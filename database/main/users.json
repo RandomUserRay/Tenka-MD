@@ -9510,7 +9510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12030,
+    "exp": 12045,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106391,7 +106391,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58485,
+    "exp": 58500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133582,9 +133582,9 @@
       "stamina": 160,
       "attack": 10
     },
-    "exp": 358167,
+    "exp": 358182,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:10:32.087Z",
+    "lastSeen": "2026-10-26T04:10:57.176Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133751,7 +133751,7 @@
       "level": 36,
       "attack": 10
     },
-    "exp": 353921,
+    "exp": 356195,
     "name": "mıss",
     "lastSeen": "2026-10-26T04:10:35.198Z",
     "cooldowns": {
@@ -133780,7 +133780,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 374,
+    "energi": 377,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133790,7 +133790,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 81730,
+    "koin": 83183,
     "inventory": {
       "trash": 2,
       "prawn": 1,
