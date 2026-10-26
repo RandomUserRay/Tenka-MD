@@ -122688,7 +122688,7 @@
   "62882005686310": {
     "jid": "62882005686310",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "energi": 99999
   },
   "6285716791572": {
@@ -133807,12 +133807,12 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376525,
+    "exp": 376585,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:23:06.369Z",
+    "lastSeen": "2026-10-26T07:23:26.516Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792999314072,
+      "casino": 1792999409687,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 381,
+    "energi": 380,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133850,7 +133850,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 95040,
+    "koin": 24040,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134066,9 +134066,9 @@
       "attack": 10,
       "level": 4
     },
-    "exp": 31846,
+    "exp": 31876,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:22:59.421Z",
+    "lastSeen": "2026-10-26T07:23:13.851Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134091,7 +134091,7 @@
       "dungeon": 1792998934430,
       "tebakfilm": 1792998970540,
       "tambang": 1792999321562,
-      "pap": 1792999379649
+      "pap": 1792999398457
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134108,7 +134108,7 @@
       "coal": 1
     },
     "koin": 45052,
-    "energi": 14
+    "energi": 13
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134467,5 +134467,10 @@
     "activeDays": 1,
     "energi": 27,
     "koin": 1079
+  },
+  "62881011292603": {
+    "jid": "62881011292603",
+    "rpg": {},
+    "exp": 15
   }
 }
