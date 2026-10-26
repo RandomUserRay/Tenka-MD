@@ -134128,21 +134128,9 @@
       "maxMana": 115,
       "maxStamina": 115,
       "attack": 10,
-      "level": 4,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Goblin Liar",
-        "monsterPower": 25,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1793009174345
-      }
+      "level": 4
     },
-    "exp": 34792,
+    "exp": 34904,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T10:06:07.393Z",
     "cooldowns": {
@@ -134183,12 +134171,12 @@
       "herb": 5,
       "leather": 2,
       "rock": 4,
-      "iron": 0,
+      "iron": 2,
       "diamond": 1,
       "coal": 0,
       "potion": 2
     },
-    "koin": 63631,
+    "koin": 63856,
     "energi": 6
   },
   "62895327376940": {
