@@ -134121,7 +134121,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 49,
+      "stamina": 19,
       "health": 105,
       "mana": 53,
       "maxHealth": 130,
@@ -134130,11 +134130,19 @@
       "attack": 10,
       "level": 4,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1793009167394
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 25,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793009174345
       }
     },
-    "exp": 34777,
+    "exp": 34792,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T10:06:07.393Z",
     "cooldowns": {
