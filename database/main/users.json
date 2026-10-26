@@ -133800,9 +133800,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 372777,
+    "exp": 372792,
     "name": "mıss",
-    "lastSeen": "2026-10-26T06:37:08.194Z",
+    "lastSeen": "2026-10-26T07:03:10.301Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990611228,
@@ -133827,7 +133827,8 @@
       "sell": 1792987418021,
       "maling": 1792987994443,
       "dungeon": 1792990217414,
-      "nikah": 1792990325359
+      "nikah": 1792990325359,
+      "me": 1792998194636
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133836,7 +133837,7 @@
     "regName": "misss",
     "regAge": 77,
     "regGender": "Perempuan",
-    "registeredAt": null,
+    "registeredAt": 1792998191349,
     "lastRegisteredAt": "2026-10-26T03:22:42.749Z",
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
@@ -133858,17 +133859,19 @@
   "6281229713698": {
     "jid": "6281229713698",
     "rpg": {},
-    "exp": 285,
+    "exp": 2079,
     "name": "kish",
     "lastSeen": "2026-10-26T07:03:07.597Z",
     "cooldowns": {
       "menucat": 1792997904534,
       "owner": 1792974157650,
-      "tts": 1792997912206
+      "tts": 1792997912206,
+      "tebakkata": 1792998187698
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 24
+    "energi": 29,
+    "koin": 1620
   },
   "6289656002609": {
     "jid": "6289656002609",
