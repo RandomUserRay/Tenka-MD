@@ -133580,18 +133580,18 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 36,
-      "maxHealth": 450,
-      "maxMana": 275,
-      "maxStamina": 275,
-      "health": 450,
-      "mana": 275,
-      "stamina": 220,
+      "level": 37,
+      "maxHealth": 460,
+      "maxMana": 280,
+      "maxStamina": 280,
+      "health": 460,
+      "mana": 280,
+      "stamina": 280,
       "attack": 10
     },
-    "exp": 359608,
+    "exp": 361318,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:48:38.635Z",
+    "lastSeen": "2026-10-26T04:52:18.324Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792988227021,
@@ -133611,11 +133611,11 @@
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792988174300,
-      "job": 1792987608900,
+      "job": 1792990339628,
       "level": 1792988240695,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1792987596044,
+      "mancing": 1792990342732,
       "sell": 1792987623906,
       "shop": 1792987656642,
       "maling": 1792987972903,
@@ -133624,7 +133624,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100394,
+    "energi": 100393,
     "koin": 828,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133639,7 +133639,7 @@
     "inventory": {
       "trash": 2,
       "fish": 1,
-      "prawn": 1
+      "prawn": 2
     }
   },
   "6281221110247": {
@@ -133757,9 +133757,9 @@
       "level": 37,
       "attack": 10
     },
-    "exp": 362533,
+    "exp": 362593,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:51:40.439Z",
+    "lastSeen": "2026-10-26T04:52:05.273Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792990140498,
@@ -133783,7 +133783,8 @@
       "shop": 1792987447094,
       "sell": 1792987418021,
       "maling": 1792987994443,
-      "dungeon": 1792990217414
+      "dungeon": 1792990217414,
+      "nikah": 1792990325359
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
