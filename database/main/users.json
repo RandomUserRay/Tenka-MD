@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20999,
+    "exp": 21014,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -19362,7 +19362,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 990,
+    "exp": 1065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036577,
+    "exp": 1036592,
     "level": 1,
     "koin": 1005000,
     "unlockedFeatures": [],
@@ -38520,10 +38520,10 @@
     "jid": "60195075272",
     "name": "pnpcyamgnumpanglewat",
     "number": "60195075272",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38868,
+    "exp": 38883,
     "level": 1,
     "koin": 14536,
     "unlockedFeatures": [],
@@ -38532,9 +38532,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-06T11:07:03.979Z",
+    "lastSeen": "2026-10-26T11:29:54.439Z",
     "cooldowns": {
-      "play": 1791284771513,
+      "play": 1793014203402,
       "qwa": 1783162238880,
       "robloxstalk": 1789900632359,
       "s": 1789731900643,
@@ -38575,8 +38575,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 12
   },
   "6285159963218": {
     "jid": "6285159963218",
@@ -96062,7 +96062,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1170,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132148,7 +132148,7 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 20553,
+    "exp": 20568,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T09:24:28.388Z",
     "cooldowns": {
@@ -134042,7 +134042,7 @@
   "6281235841775": {
     "jid": "6281235841775",
     "rpg": {},
-    "exp": 405
+    "exp": 420
   },
   "6287767501862": {
     "jid": "6287767501862",
@@ -134304,7 +134304,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 945,
+    "exp": 1020,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134609,7 +134609,7 @@
   "628999883773": {
     "jid": "628999883773",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "6289524326679": {
     "jid": "6289524326679",
@@ -134780,12 +134780,12 @@
   "628211581085": {
     "jid": "628211581085",
     "rpg": {},
-    "exp": 345
+    "exp": 375
   },
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 570,
+    "exp": 615,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-26T11:21:51.370Z",
     "cooldowns": {
@@ -134874,5 +134874,10 @@
     "jid": "6281259026313",
     "rpg": {},
     "exp": 30
+  },
+  "6281994934179": {
+    "jid": "6281994934179",
+    "rpg": {},
+    "exp": 15
   }
 }
