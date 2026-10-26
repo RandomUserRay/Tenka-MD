@@ -3106,7 +3106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725966,
+    "exp": 725981,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3115,7 +3115,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T14:20:05.595Z",
+    "lastSeen": "2026-10-26T14:24:51.555Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1792075458996,
@@ -3213,7 +3213,8 @@
       "tembak": 1790422620349,
       "imut": 1792300822474,
       "intro": 1792842563192,
-      "ship": 1792918222093
+      "ship": 1792918222093,
+      "swgc": 1793024692949
     },
     "clanId": null,
     "isRegistered": false,
