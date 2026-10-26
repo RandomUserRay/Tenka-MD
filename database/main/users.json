@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29125,
+    "exp": 29140,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -133654,7 +133654,7 @@
         "stats": null
       }
     },
-    "exp": 573393,
+    "exp": 573408,
     "name": "Fиз",
     "lastSeen": "2026-10-26T10:14:54.329Z",
     "cooldowns": {
@@ -134134,7 +134134,7 @@
       "attack": 10,
       "level": 5
     },
-    "exp": 45000,
+    "exp": 46386,
     "name": "ハフィズ",
     "lastSeen": "2026-10-26T10:15:44.436Z",
     "cooldowns": {
@@ -134185,8 +134185,8 @@
       "coal": 0,
       "potion": 2
     },
-    "koin": 101267,
-    "energi": 29
+    "koin": 102833,
+    "energi": 36
   },
   "62895327376940": {
     "name": "Ezic",
