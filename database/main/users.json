@@ -133733,9 +133733,9 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 332544,
+    "exp": 332559,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:52:49.160Z",
+    "lastSeen": "2026-10-26T03:55:09.814Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792986655866,
@@ -133757,7 +133757,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 354,
+    "energi": 353,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133767,7 +133767,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 17620,
+    "koin": 22620,
     "inventory": {
       "trash": 1
     }
@@ -134006,6 +134006,6 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
