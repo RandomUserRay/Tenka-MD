@@ -132113,7 +132113,7 @@
       "maxStamina": 105,
       "attack": 10
     },
-    "exp": 16327,
+    "exp": 16342,
     "name": "Fathir Abidzar Adhitama",
     "lastSeen": "2026-10-26T06:30:54.591Z",
     "cooldowns": {
@@ -133807,9 +133807,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376510,
+    "exp": 376525,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:21:50.866Z",
+    "lastSeen": "2026-10-26T07:23:06.369Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999314072,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 382,
+    "energi": 381,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134066,9 +134066,9 @@
       "attack": 10,
       "level": 4
     },
-    "exp": 31831,
+    "exp": 31846,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:22:46.177Z",
+    "lastSeen": "2026-10-26T07:22:59.421Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134091,7 +134091,7 @@
       "dungeon": 1792998934430,
       "tebakfilm": 1792998970540,
       "tambang": 1792999321562,
-      "pap": 1792999366989
+      "pap": 1792999379649
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134108,7 +134108,7 @@
       "coal": 1
     },
     "koin": 45052,
-    "energi": 15
+    "energi": 14
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134449,22 +134449,23 @@
   },
   "6288294335551": {
     "name": "mikel disini",
-    "lastSeen": "2026-10-26T07:22:41.819Z",
+    "lastSeen": "2026-10-26T07:22:57.417Z",
     "jid": "6288294335551",
     "rpg": {},
-    "exp": 1988,
+    "exp": 2003,
     "cooldowns": {
       "me": 1792999147544,
       "menu": 1792999163282,
       "menucat": 1792999355157,
       "tebakepep": 1792999222067,
       "ulartangga": 1792999320755,
-      "brat": 1792999361873
+      "brat": 1792999361873,
+      "qc": 1792999377484
     },
     "registeredAt": 1792999142962,
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 28,
+    "energi": 27,
     "koin": 1079
   }
 }
