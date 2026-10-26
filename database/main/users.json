@@ -132624,7 +132624,7 @@
   "6285180006356": {
     "jid": "6285180006356",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "energi": 99999
   },
   "6283195059959": {
@@ -132933,7 +132933,7 @@
   "628137877605": {
     "jid": "628137877605",
     "rpg": {},
-    "exp": 540,
+    "exp": 570,
     "energi": 99999
   },
   "62895801708070": {
@@ -133748,9 +133748,9 @@
       "maxStamina": 275,
       "level": 36
     },
-    "exp": 355469,
+    "exp": 357096,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:13:11.742Z",
+    "lastSeen": "2026-10-26T04:43:36.599Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133777,7 +133777,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 373,
+    "energi": 372,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133787,7 +133787,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 88049,
+    "koin": 95514,
     "inventory": {
       "trash": 2,
       "prawn": 1
