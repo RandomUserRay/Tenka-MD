@@ -50590,8 +50590,8 @@
   "120363413033615832@g.us": {
     "chatStats": {
       "6289675477260@s.whatsapp.net": {
-        "count": 16,
-        "lastChat": 1792994750350,
+        "count": 17,
+        "lastChat": 1792994777993,
         "name": "Seller Soviet (AYX)"
       }
     },
@@ -50601,6 +50601,9 @@
       "on"
     ],
     "antiswgc": "on",
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "goodbyeMsg": "anjir lah gua dah cape push lu , lu malah kluar bangsat",
+    "goodbye": true,
+    "leave": true
   }
 }
