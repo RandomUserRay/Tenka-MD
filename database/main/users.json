@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20789,
+    "exp": 20864,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -51116,7 +51116,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 170052,
+    "exp": 170067,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51441,7 +51441,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 609733,
+    "exp": 609763,
     "level": 1,
     "koin": 39,
     "unlockedFeatures": [
@@ -52405,7 +52405,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064215,
+    "exp": 1064230,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71410,7 +71410,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47094,
+    "exp": 47154,
     "level": 1,
     "koin": 346637,
     "unlockedFeatures": [],
@@ -71934,10 +71934,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74041,
+    "exp": 73966,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71946,11 +71946,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:19:55.828Z",
+    "lastSeen": "2026-10-25T11:53:43.437Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
-      "wm": 1793013631580,
+      "wm": 1787742891430,
       "mining": 1788181295173,
       "mancing": 1784896294757,
       "inv": 1784896247650,
@@ -72037,8 +72037,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 28,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 27,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -103380,7 +103380,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40111,
+    "exp": 40156,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125396,7 +125396,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20241,
+    "exp": 20316,
     "name": "paduka riyy",
     "lastSeen": "2026-10-26T10:30:41.743Z",
     "cooldowns": {
@@ -127225,10 +127225,10 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-10-26T11:20:33.279Z",
+    "lastSeen": "2026-10-24T17:20:54.270Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 2100,
+    "exp": 2085,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1792802361145,
@@ -127248,14 +127248,14 @@
       "tts": 1791007058645,
       "brathd": 1791280956304,
       "tt": 1792674019461,
-      "s": 1793013645099,
+      "s": 1792848391623,
       "top5": 1792587517919,
       "wm": 1792848408864,
       "hytamkan": 1792848317462
     },
-    "energi": 99998,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 20
+    "energi": 99999,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 19
   },
   "6285779164177": {
     "name": "Wise",
@@ -128604,7 +128604,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17985,
+    "exp": 18000,
     "energi": 99999,
     "name": "🇦🇱🖕maira😝",
     "lastSeen": "2026-10-26T11:14:45.583Z",
@@ -129005,7 +129005,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 319810,
+    "exp": 319870,
     "energi": 99991,
     "name": "MaLa ?",
     "lastSeen": "2026-10-26T11:18:57.643Z",
@@ -132123,11 +132123,11 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 2085,
+    "exp": 2100,
     "name": "Haafiz",
-    "lastSeen": "2026-10-26T10:59:17.280Z",
+    "lastSeen": "2026-10-26T11:20:01.171Z",
     "cooldowns": {
-      "afk": 1792924681435,
+      "afk": 1793013602999,
       "tt": 1793012367848
     },
     "lastActiveDate": "26/10/2026",
@@ -134304,7 +134304,7 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 585,
+    "exp": 630,
     "name": "sasabanyakuang",
     "lastSeen": "2026-10-26T03:58:56.335Z"
   },
@@ -134785,7 +134785,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 420
+    "exp": 450
   },
   "6285842889332": {
     "name": "arsaputra",
@@ -134833,11 +134833,6 @@
     "rpg": {},
     "exp": 15
   },
-  "6289635727410": {
-    "jid": "6289635727410",
-    "rpg": {},
-    "exp": 15
-  },
   "6285759111527": {
     "jid": "6285759111527",
     "rpg": {},
@@ -134850,6 +134845,11 @@
   },
   "6282245405771": {
     "jid": "6282245405771",
+    "rpg": {},
+    "exp": 15
+  },
+  "6287860530418": {
+    "jid": "6287860530418",
     "rpg": {},
     "exp": 15
   }
