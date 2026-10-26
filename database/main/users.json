@@ -130051,17 +130051,17 @@
     "rpg": {
       "level": 2,
       "bank": 50,
-      "stamina": 70,
+      "stamina": 60,
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
       "health": 110,
       "mana": 105
     },
-    "exp": 11484,
+    "exp": 14494,
     "energi": 99996,
     "name": "EQUINOX",
-    "lastSeen": "2026-10-26T09:29:57.038Z",
+    "lastSeen": "2026-10-26T09:30:31.217Z",
     "cooldowns": {
       "play": 1792906241860,
       "afk": 1792924976243,
@@ -130082,7 +130082,7 @@
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
     "registeredAt": 1792908636958,
-    "koin": 82100
+    "koin": 112055
   },
   "6289677741067": {
     "jid": "6289677741067",
