@@ -106473,7 +106473,8 @@
       "asupantiktok": 1792920663441,
       "mulaiabsen": 1792923648291,
       "brathd": 1792943042629,
-      "bratgojo": 1792980217215
+      "bratgojo": 1792980217215,
+      "bratwhite": 1792992331424
     },
     "clanId": null,
     "isRegistered": false,
@@ -133590,9 +133591,9 @@
       "stamina": 320,
       "attack": 10
     },
-    "exp": 443756,
+    "exp": 445221,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T05:25:26.414Z",
+    "lastSeen": "2026-10-26T05:25:33.972Z",
     "cooldowns": {
       "menu": 1792991150470,
       "menucat": 1792991151013,
@@ -133608,7 +133609,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792992116482,
-      "tebaknegara": 1792992317486,
+      "tebaknegara": 1792992329159,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792992080418,
@@ -133632,7 +133633,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100595,
+    "energi": 100604,
     "koin": 69430,
     "isRegistered": true,
     "regName": "Faeres",
@@ -134116,7 +134117,7 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 180
+    "exp": 195
   },
   "6285339952540": {
     "jid": "6285339952540",
