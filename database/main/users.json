@@ -132110,7 +132110,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1560,
+    "exp": 1575,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -133185,7 +133185,7 @@
   "6285187358300": {
     "jid": "6285187358300",
     "rpg": {},
-    "exp": 1425,
+    "exp": 1455,
     "energi": 99999
   },
   "6285691372035": {
@@ -133637,13 +133637,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 57,
-      "maxHealth": 660,
-      "maxMana": 380,
-      "maxStamina": 380,
-      "health": 598,
-      "mana": 380,
-      "stamina": 230,
+      "level": 58,
+      "maxHealth": 670,
+      "maxMana": 385,
+      "maxStamina": 385,
+      "health": 670,
+      "mana": 385,
+      "stamina": 385,
       "attack": 10,
       "pet": {
         "type": "cat",
@@ -133654,7 +133654,7 @@
         "stats": null
       }
     },
-    "exp": 568590,
+    "exp": 571291,
     "name": "Fиз",
     "lastSeen": "2026-10-26T10:09:56.075Z",
     "cooldowns": {
@@ -133672,7 +133672,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793000044025,
+      "tebaknegara": 1793009396633,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133717,8 +133717,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100843,
-    "koin": 184346,
+    "energi": 100846,
+    "koin": 185322,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
