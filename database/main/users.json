@@ -128631,7 +128631,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 11239,
+    "exp": 11254,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -133604,18 +133604,18 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 52,
-      "maxHealth": 610,
-      "maxMana": 355,
-      "maxStamina": 355,
-      "health": 584,
-      "mana": 355,
-      "stamina": 170,
+      "level": 53,
+      "maxHealth": 620,
+      "maxMana": 360,
+      "maxStamina": 360,
+      "health": 620,
+      "mana": 360,
+      "stamina": 360,
       "attack": 10
     },
-    "exp": 519361,
+    "exp": 521104,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:28:04.097Z",
+    "lastSeen": "2026-10-26T07:29:22.014Z",
     "cooldowns": {
       "menu": 1792999122237,
       "menucat": 1792999156923,
@@ -133631,7 +133631,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1792999078294,
-      "tebaknegara": 1792996742538,
+      "tebaknegara": 1792999762322,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133661,8 +133661,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100760,
-    "koin": 146620,
+    "energi": 100765,
+    "koin": 147681,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133808,9 +133808,9 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 391239,
+    "exp": 391269,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:29:02.366Z",
+    "lastSeen": "2026-10-26T07:29:14.292Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999745685,
