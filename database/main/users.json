@@ -133612,12 +133612,12 @@
       "stamina": 245,
       "attack": 10
     },
-    "exp": 517792,
+    "exp": 517807,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T07:18:52.263Z",
+    "lastSeen": "2026-10-26T07:19:16.062Z",
     "cooldowns": {
       "menu": 1792999122237,
-      "menucat": 1792999132477,
+      "menucat": 1792999156923,
       "cekfemboy": 1792988111680,
       "top": 1792987677229,
       "register": 1792985217246,
@@ -133806,12 +133806,12 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376285,
+    "exp": 376300,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:15:40.199Z",
+    "lastSeen": "2026-10-26T07:19:33.036Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1792990611228,
+      "casino": 1792999176180,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133839,7 +133839,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 391,
+    "energi": 390,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133849,7 +133849,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 197040,
+    "koin": 196040,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134445,12 +134445,13 @@
   },
   "6288294335551": {
     "name": "mikel disini",
-    "lastSeen": "2026-10-26T07:19:02.600Z",
+    "lastSeen": "2026-10-26T07:19:21.374Z",
     "jid": "6288294335551",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
-      "me": 1792999147544
+      "me": 1792999147544,
+      "menu": 1792999163282
     },
     "registeredAt": 1792999142962,
     "lastActiveDate": "26/10/2026",
