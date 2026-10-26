@@ -71934,10 +71934,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73996,
+    "exp": 74041,
     "level": 1,
     "koin": 8768,
     "unlockedFeatures": [],
@@ -71946,11 +71946,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:19:41.289Z",
+    "lastSeen": "2026-10-26T11:19:55.828Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
-      "wm": 1793013587473,
+      "wm": 1793013631580,
       "mining": 1788181295173,
       "mancing": 1784896294757,
       "inv": 1784896247650,
@@ -127225,10 +127225,10 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-10-24T17:20:54.270Z",
+    "lastSeen": "2026-10-26T11:20:33.279Z",
     "jid": "6287747505289",
     "rpg": {},
-    "exp": 2085,
+    "exp": 2100,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1792802361145,
@@ -127248,14 +127248,14 @@
       "tts": 1791007058645,
       "brathd": 1791280956304,
       "tt": 1792674019461,
-      "s": 1792848391623,
+      "s": 1793013645099,
       "top5": 1792587517919,
       "wm": 1792848408864,
       "hytamkan": 1792848317462
     },
-    "energi": 99999,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 19
+    "energi": 99998,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 20
   },
   "6285779164177": {
     "name": "Wise",
