@@ -133282,7 +133282,7 @@
   "6285121387713": {
     "jid": "6285121387713",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6287848386982": {
@@ -133580,7 +133580,7 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 324869,
+    "exp": 324884,
     "name": "Fиз",
     "lastSeen": "2026-10-26T03:48:28.064Z",
     "cooldowns": {
@@ -133731,9 +133731,9 @@
       "maxStamina": 265,
       "level": 34
     },
-    "exp": 330503,
+    "exp": 331919,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:48:28.166Z",
+    "lastSeen": "2026-10-26T03:49:08.918Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792986152770,
@@ -133749,11 +133749,11 @@
       "burung": 1792985824005,
       "job": 1792985907338,
       "susunkata": 1792985996374,
-      "quiz": 1792986508613
+      "quiz": 1792986549056
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 353,
+    "energi": 357,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133763,7 +133763,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 12602,
+    "koin": 13715,
     "inventory": {}
   },
   "6285750087063": {
