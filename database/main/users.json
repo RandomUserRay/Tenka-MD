@@ -3298,7 +3298,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49408,
+    "exp": 49423,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -128177,7 +128177,7 @@
       },
       "expeditions": []
     },
-    "exp": 196572,
+    "exp": 196587,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1792888576051,
@@ -128631,7 +128631,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 11074,
+    "exp": 11089,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -133798,18 +133798,18 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 205,
-      "health": 403,
-      "mana": 285,
-      "maxHealth": 470,
-      "maxMana": 285,
-      "maxStamina": 285,
-      "level": 38,
+      "stamina": 290,
+      "health": 480,
+      "mana": 290,
+      "maxHealth": 480,
+      "maxMana": 290,
+      "maxStamina": 290,
+      "level": 39,
       "attack": 10
     },
-    "exp": 379537,
+    "exp": 381303,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:25:58.112Z",
+    "lastSeen": "2026-10-26T07:26:15.160Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999502389,
@@ -133825,7 +133825,7 @@
       "burung": 1792985824005,
       "job": 1792999524700,
       "susunkata": 1792985996374,
-      "quiz": 1792999558514,
+      "quiz": 1792999575855,
       "inventory": 1792992573520,
       "mancing": 1792987374100,
       "adventure": 1792999547836,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 385,
+    "energi": 390,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133850,7 +133850,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 6442,
+    "koin": 7399,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134059,7 +134059,7 @@
     "jid": "6282126863605",
     "rpg": {
       "stamina": 50,
-      "health": 130,
+      "health": 91,
       "mana": 115,
       "maxHealth": 130,
       "maxMana": 115,
@@ -134093,7 +134093,8 @@
       "dungeon": 1792999545694,
       "tebakfilm": 1792998970540,
       "tambang": 1792999321562,
-      "pap": 1792999398457
+      "pap": 1792999398457,
+      "adventure": 1792999569952
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
