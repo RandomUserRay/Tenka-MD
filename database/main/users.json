@@ -128639,7 +128639,7 @@
       "level": 2,
       "maxMana": 105
     },
-    "exp": 12259,
+    "exp": 12274,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -133882,9 +133882,9 @@
       "level": 47,
       "attack": 10
     },
-    "exp": 467088,
+    "exp": 467103,
     "name": "mıss",
-    "lastSeen": "2026-10-26T11:04:23.786Z",
+    "lastSeen": "2026-10-26T11:04:48.006Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793012446201,
@@ -133946,7 +133946,13 @@
       "octopus": 0
     },
     "lastStreamer": 1793012533662,
-    "quest": {}
+    "quest": {
+      "hunt5": {
+        "progress": 0,
+        "claimed": false,
+        "takenAt": 1793012688008
+      }
+    }
   },
   "6285750087063": {
     "jid": "6285750087063",
