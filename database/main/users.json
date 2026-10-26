@@ -133807,9 +133807,9 @@
       "level": 38,
       "attack": 10
     },
-    "exp": 376420,
+    "exp": 376450,
     "name": "mıss",
-    "lastSeen": "2026-10-26T07:21:16.697Z",
+    "lastSeen": "2026-10-26T07:21:33.876Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792999279774,
@@ -133840,7 +133840,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 384,
+    "energi": 383,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134057,17 +134057,18 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 50,
-      "health": 105,
-      "mana": 53,
-      "maxHealth": 100,
-      "maxMana": 100,
-      "maxStamina": 100,
-      "attack": 10
+      "stamina": 115,
+      "health": 130,
+      "mana": 115,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "attack": 10,
+      "level": 4
     },
-    "exp": 29516,
+    "exp": 31210,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T07:17:12.789Z",
+    "lastSeen": "2026-10-26T07:21:31.725Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134104,7 +134105,7 @@
       "iron": 1,
       "diamond": 1
     },
-    "koin": 28261,
+    "koin": 45052,
     "energi": 18
   },
   "62895327376940": {
