@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-26T10:18:07.985Z",
+    "lastSeen": "2026-10-26T06:51:24.476Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000260609,
+    "exp": 1009000260534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -1844,12 +1844,12 @@
   },
   "6283174193922": {
     "jid": "6283174193922",
-    "name": "Tenka Izumo",
+    "name": "Channel",
     "number": "6283174193922",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 699009,
+    "exp": 698859,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1858,7 +1858,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T10:17:48.255Z",
+    "lastSeen": "2026-10-16T10:08:10.234Z",
     "cooldowns": {
       "menu": 1784047213442,
       "owner": 1780107827338,
@@ -1910,8 +1910,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 10,
+    "lastActiveDate": "15/10/2026",
+    "activeDays": 9,
     "fun": {}
   },
   "6281268965767": {
@@ -128506,7 +128506,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 66776,
+    "exp": 66791,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -131867,7 +131867,7 @@
     "rpg": {
       "level": 1
     },
-    "exp": 3900,
+    "exp": 3975,
     "lastActiveDate": "26/10/2026",
     "activeDays": 3,
     "registeredAt": 1792855137054,
@@ -132110,7 +132110,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1695,
+    "exp": 1710,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -132484,7 +132484,7 @@
   "6289672791553": {
     "jid": "6289672791553",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "6285199694620": {
@@ -133230,7 +133230,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8529,
+    "exp": 8544,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133641,7 +133641,7 @@
       "maxHealth": 670,
       "maxMana": 385,
       "maxStamina": 385,
-      "health": 670,
+      "health": 649,
       "mana": 385,
       "stamina": 375,
       "attack": 10,
@@ -133654,12 +133654,12 @@
         "stats": null
       }
     },
-    "exp": 573408,
+    "exp": 574926,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T10:14:54.329Z",
+    "lastSeen": "2026-10-26T10:18:50.025Z",
     "cooldowns": {
-      "menu": 1793000367070,
-      "menucat": 1793000387324,
+      "menu": 1793009932449,
+      "menucat": 1793009915520,
       "cekfemboy": 1792988111680,
       "top": 1792987677229,
       "register": 1792985217246,
@@ -133672,7 +133672,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793009396633,
+      "tebaknegara": 1793009872645,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133686,13 +133686,13 @@
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
-      "inv": 1793000811049,
+      "inv": 1793009893036,
       "tambang": 1793000077654,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
       "family100": 1792992039272,
-      "adventure": 1793000656334,
+      "adventure": 1793009822570,
       "lb": 1792998580540,
       "topexp": 1792995319502,
       "use": 1792995855493,
@@ -133717,8 +133717,8 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100854,
-    "koin": 188957,
+    "energi": 100861,
+    "koin": 190444,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134125,7 +134125,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 120,
+      "stamina": 110,
       "health": 140,
       "mana": 120,
       "maxHealth": 140,
@@ -134134,9 +134134,9 @@
       "attack": 10,
       "level": 5
     },
-    "exp": 46416,
+    "exp": 48719,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T10:15:44.436Z",
+    "lastSeen": "2026-10-26T10:18:49.999Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1792985300760,
@@ -134145,8 +134145,8 @@
       "top": 1792986723107,
       "info": 1793009278269,
       "inventory": 1793009140244,
-      "job": 1793009374002,
-      "tidur": 1793009110552,
+      "job": 1793009854968,
+      "tidur": 1793009862440,
       "weekly": 1792986213911,
       "allmenu": 1793009390130,
       "tolol": 1792986385069,
@@ -134168,7 +134168,7 @@
       "money": 1793009313219,
       "energy": 1793009333504,
       "buyenergi": 1793009348992,
-      "tebakbendera": 1793009744862
+      "tebakbendera": 1793009814177
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -134185,8 +134185,8 @@
       "coal": 0,
       "potion": 2
     },
-    "koin": 102833,
-    "energi": 36
+    "koin": 113236,
+    "energi": 39
   },
   "62895327376940": {
     "name": "Ezic",
@@ -134694,7 +134694,7 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 315
+    "exp": 330
   },
   "6285842889332": {
     "name": "arsaputra",
