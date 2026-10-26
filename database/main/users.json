@@ -4009,7 +4009,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29185,
+    "exp": 29200,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -5336,7 +5336,7 @@
     "energi": 100002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21179,
+    "exp": 21209,
     "level": 1,
     "koin": 4657,
     "unlockedFeatures": [],
@@ -5345,7 +5345,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:33:20.658Z",
+    "lastSeen": "2026-10-26T11:34:33.199Z",
     "cooldowns": {
       "femboy": 1782745401410,
       "villain": 1782017077314,
@@ -5358,7 +5358,8 @@
       "tebakkata": 1792998100985,
       "susunkata": 1792998376126,
       "cekfemboy": 1793014260931,
-      "cekganteng": 1793014400821
+      "cekganteng": 1793014400821,
+      "cekcantik": 1793014473256
     },
     "clanId": null,
     "isRegistered": false,
@@ -33754,7 +33755,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 556324,
+    "exp": 556354,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33763,7 +33764,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T05:01:04.130Z",
+    "lastSeen": "2026-10-26T11:34:27.655Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33885,7 +33886,7 @@
       "autoreplysticker": 1784789775827,
       "jadwalgroup": 1785508351879,
       "antiswgc": 1788532832475,
-      "d": 1786630316241,
+      "d": 1793014467712,
       "promote": 1786448602992,
       "topchat": 1784635048141,
       "susunkata": 1785313893053,
@@ -34098,8 +34099,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 39
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 40
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -122690,7 +122691,7 @@
   "62882005686310": {
     "jid": "62882005686310",
     "rpg": {},
-    "exp": 165,
+    "exp": 195,
     "energi": 99999,
     "name": "Fikzz",
     "lastSeen": "2026-10-26T09:07:50.091Z",
@@ -132318,7 +132319,7 @@
   "6289675477260": {
     "jid": "6289675477260",
     "rpg": {},
-    "exp": 7095,
+    "exp": 7140,
     "name": "Seller Soviet (AYX)",
     "lastSeen": "2026-10-26T06:23:14.333Z",
     "cooldowns": {
@@ -132553,7 +132554,7 @@
   "6285607032153": {
     "jid": "6285607032153",
     "rpg": {},
-    "exp": 4601,
+    "exp": 4631,
     "energi": 99999,
     "koin": 1023,
     "name": "Mbonek Ae🤙🐊🙂‍↔️",
@@ -134043,7 +134044,7 @@
   "6281235841775": {
     "jid": "6281235841775",
     "rpg": {},
-    "exp": 420
+    "exp": 435
   },
   "6287767501862": {
     "jid": "6287767501862",
@@ -134305,11 +134306,12 @@
   "6282295686918": {
     "jid": "6282295686918",
     "rpg": {},
-    "exp": 1170,
+    "exp": 1245,
     "name": "sasabanyakuang",
-    "lastSeen": "2026-10-26T11:33:37.792Z",
+    "lastSeen": "2026-10-26T11:34:46.402Z",
     "cooldowns": {
-      "cekfemboy": 1793014425200
+      "cekfemboy": 1793014425200,
+      "cekcantik": 1793014487913
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1
@@ -134530,7 +134532,7 @@
   "6281263452943": {
     "jid": "6281263452943",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": "Al Dii",
     "lastSeen": "2026-10-26T06:26:16.557Z"
   },
@@ -134879,15 +134881,28 @@
   "6281259026313": {
     "jid": "6281259026313",
     "rpg": {},
-    "exp": 60
+    "exp": 105,
+    "name": "𝑶𝒎𝒆𝒔𝒔 𝑨𝒓𝒕",
+    "lastSeen": "2026-10-26T11:34:44.448Z",
+    "cooldowns": {
+      "s": 1793014485535
+    },
+    "energi": 22,
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 1
   },
   "6281994934179": {
     "jid": "6281994934179",
     "rpg": {},
-    "exp": 75
+    "exp": 120
   },
   "6285925819005": {
     "jid": "6285925819005",
+    "rpg": {},
+    "exp": 15
+  },
+  "249121777955": {
+    "jid": "249121777955",
     "rpg": {},
     "exp": 15
   }
