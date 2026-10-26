@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11760,
+    "exp": 11775,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133542,18 +133542,25 @@
   "6281355820001": {
     "jid": "6281355820001",
     "rpg": {},
-    "exp": 585,
+    "exp": 33265,
     "name": "[Ark]",
-    "lastSeen": "2026-10-26T03:42:29.412Z",
+    "lastSeen": "2026-10-26T03:43:30.649Z",
     "cooldowns": {
       "ganteng": 1792945282839,
       "tebakhewan": 1792945781556,
       "top": 1792985566217,
-      "casino": 1792986149539
+      "casino": 1792986149539,
+      "inventory": 1792986185207,
+      "daily": 1792986191230,
+      "weekly": 1792986202967
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 99998
+    "energi": 99998,
+    "inventory": {
+      "potion": 1,
+      "uncommon": 3
+    }
   },
   "6283863082338": {
     "jid": "6283863082338",
@@ -133567,9 +133574,9 @@
       "stamina": 230,
       "attack": 10
     },
-    "exp": 320478,
+    "exp": 322376,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T03:42:25.847Z",
+    "lastSeen": "2026-10-26T03:43:26.760Z",
     "cooldowns": {
       "menu": 1792985714505,
       "menucat": 1792985891950,
@@ -133583,12 +133590,13 @@
       "levelup": 1792985936606,
       "dungeon": 1792985997721,
       "catur": 1792986052915,
-      "quiz": 1792986146125
+      "quiz": 1792986146125,
+      "tidur": 1792986206937
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 2,
-    "energi": 100302,
-    "koin": 993,
+    "energi": 100310,
+    "koin": 1704,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133715,7 +133723,7 @@
       "maxStamina": 260,
       "level": 33
     },
-    "exp": 321174,
+    "exp": 321204,
     "name": "mıss",
     "lastSeen": "2026-10-26T03:42:27.659Z",
     "cooldowns": {
@@ -133930,9 +133938,9 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 2322,
+    "exp": 25670,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T03:38:10.684Z",
+    "lastSeen": "2026-10-26T03:43:33.909Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -133941,11 +133949,14 @@
       "info": 1792985553581,
       "inventory": 1792985677251,
       "job": 1792985715391,
-      "tidur": 1792985893994
+      "tidur": 1792985893994,
+      "weekly": 1792986213911
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "inventory": {},
+    "inventory": {
+      "uncommon": 1
+    },
     "koin": 6147
   },
   "62895327376940": {
