@@ -103572,17 +103572,17 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 214250,
+    "exp": 214325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1793035249318,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-26T04:31:44.305Z",
+    "lastSeen": "2026-10-26T17:20:47.199Z",
     "cooldowns": {
       "redeem": 1789116198474,
       "owner": 1790396932884,
@@ -103604,8 +103604,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/9/2026",
-    "activeDays": 10
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 11
   },
   "6289601611147": {
     "name": "RASUL YUDAS TADEO",
