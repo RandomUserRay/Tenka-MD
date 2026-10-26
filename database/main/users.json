@@ -35965,7 +35965,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1036232,
+    "exp": 1036247,
     "level": 1,
     "koin": 1005000,
     "unlockedFeatures": [],
@@ -45622,7 +45622,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15336,
+    "exp": 15321,
     "level": 1,
     "koin": 3081,
     "unlockedFeatures": [],
@@ -96061,7 +96061,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 600,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128507,7 +128507,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 67016,
+    "exp": 66986,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-25T11:23:52.709Z",
@@ -128603,7 +128603,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17595,
+    "exp": 17580,
     "energi": 99999,
     "name": "🖕maira 🇦🇱😶‍🌫️",
     "lastSeen": "2026-10-11T08:18:08.823Z",
@@ -131622,7 +131622,7 @@
   "6282323419393": {
     "jid": "6282323419393",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "energi": 99999
   },
   "62881038065467": {
@@ -132111,7 +132111,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 1875,
+    "exp": 1845,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T06:14:25.459Z",
     "cooldowns": {
@@ -133231,7 +133231,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 8679,
+    "exp": 8649,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-26T10:07:48.507Z",
     "cooldowns": {
@@ -133880,12 +133880,12 @@
       "level": 40,
       "attack": 10
     },
-    "exp": 394450,
+    "exp": 394390,
     "name": "mıss",
-    "lastSeen": "2026-10-26T10:36:49.267Z",
+    "lastSeen": "2026-10-26T10:36:00.189Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793010996381,
+      "casino": 1793010963879,
       "weekly": 1792982385703,
       "daily": 1792982396146,
       "register": 1792984923121,
@@ -133913,7 +133913,7 @@
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
-    "energi": 381,
+    "energi": 384,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133923,7 +133923,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 123984,
+    "koin": 122984,
     "inventory": {
       "trash": 2,
       "prawn": 1,
@@ -134739,7 +134739,7 @@
   "6285640501387": {
     "jid": "6285640501387",
     "rpg": {},
-    "exp": 405
+    "exp": 390
   },
   "6281382738806": {
     "jid": "6281382738806",
@@ -134748,11 +134748,6 @@
   },
   "6283890527468": {
     "jid": "6283890527468",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282113514307": {
-    "jid": "6282113514307",
     "rpg": {},
     "exp": 15
   }
