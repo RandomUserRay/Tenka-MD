@@ -9508,7 +9508,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11550,
+    "exp": 11565,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -95997,7 +95997,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 165,
+    "exp": 195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133662,11 +133662,11 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {},
-    "exp": 318510,
+    "exp": 318540,
     "name": "mıss",
-    "lastSeen": "2026-10-26T03:22:33.305Z",
+    "lastSeen": "2026-10-26T03:22:50.395Z",
     "cooldowns": {
-      "menu": 1792982504475,
+      "menu": 1792984975681,
       "casino": 1792982373219,
       "weekly": 1792982385703,
       "daily": 1792982396146,
@@ -133856,6 +133856,6 @@
   "628561922892": {
     "jid": "628561922892",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
