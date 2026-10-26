@@ -133582,9 +133582,9 @@
       "stamina": 190,
       "attack": 10
     },
-    "exp": 358077,
+    "exp": 358092,
     "name": "Fиз",
-    "lastSeen": "2026-10-26T04:09:14.373Z",
+    "lastSeen": "2026-10-26T04:09:45.044Z",
     "cooldowns": {
       "menu": 1792987292982,
       "menucat": 1792987669999,
@@ -133747,11 +133747,16 @@
       "maxHealth": 450,
       "maxMana": 275,
       "maxStamina": 275,
-      "level": 36
+      "level": 36,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792987783437
+      }
     },
-    "exp": 353634,
+    "exp": 353664,
     "name": "mıss",
-    "lastSeen": "2026-10-26T04:09:32.192Z",
+    "lastSeen": "2026-10-26T04:09:43.435Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1792987697308,
@@ -133773,7 +133778,8 @@
       "adventure": 1792987761985,
       "xp": 1792987337602,
       "shop": 1792987447094,
-      "sell": 1792987418021
+      "sell": 1792987418021,
+      "dungeon": 1792987783627
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
@@ -133981,11 +133987,18 @@
     "rpg": {
       "stamina": 25,
       "health": 105,
-      "mana": 53
+      "mana": 53,
+      "attack": 10,
+      "maxHealth": 100,
+      "maxStamina": 100,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1792987792656
+      }
     },
-    "exp": 28202,
+    "exp": 28232,
     "name": "ハフィズ",
-    "lastSeen": "2026-10-26T04:07:54.356Z",
+    "lastSeen": "2026-10-26T04:09:52.655Z",
     "cooldowns": {
       "daily": 1792985300760,
       "help": 1792985382862,
@@ -134000,7 +134013,8 @@
       "tolol": 1792986385069,
       "level": 1792986538822,
       "mancing": 1792987591885,
-      "prabowo-ai": 1792987674459
+      "prabowo-ai": 1792987674459,
+      "dungeon": 1792987792782
     },
     "lastActiveDate": "26/10/2026",
     "activeDays": 1,
