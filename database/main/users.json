@@ -135256,12 +135256,18 @@
   "6283146720312": {
     "jid": "6283146720312",
     "rpg": {
-      "stamina": 80
+      "stamina": 105,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105
     },
-    "exp": 7758,
+    "exp": 10152,
     "name": "maryadi",
     "lastSeen": "2026-10-27T12:33:31.378Z",
-    "energi": 1000007,
+    "energi": 1000013,
     "cooldowns": {
       "menu": 1793068330988,
       "allmenu": 1793104190096,
@@ -135282,7 +135288,7 @@
       "coal": 2,
       "diamond": 1
     },
-    "koin": 3355
+    "koin": 4053
   },
   "6285846816230": {
     "jid": "6285846816230",
