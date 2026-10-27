@@ -93168,7 +93168,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1470,
+    "exp": 1500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93178,7 +93178,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T02:34:34.224Z",
+    "lastSeen": "2026-10-27T02:35:03.215Z",
     "cooldowns": {
       "tembak": 1786871592826,
       "s": 1793067084046,
@@ -129980,7 +129980,7 @@
   "62895602789802": {
     "jid": "62895602789802",
     "rpg": {},
-    "exp": 840,
+    "exp": 855,
     "energi": 99999
   },
   "6285821433928": {
@@ -135213,14 +135213,14 @@
   "6283146720312": {
     "jid": "6283146720312",
     "rpg": {},
-    "exp": 420,
+    "exp": 450,
     "name": "maryadi",
-    "lastSeen": "2026-10-27T02:33:43.415Z",
+    "lastSeen": "2026-10-27T02:34:55.114Z",
     "energi": 999999,
     "cooldowns": {
       "menu": 1793068330988,
       "allmenu": 1793068375066,
-      "tebaklirik": 1793068424761
+      "tebaklirik": 1793068495292
     },
     "lastActiveDate": "27/10/2026",
     "activeDays": 1
