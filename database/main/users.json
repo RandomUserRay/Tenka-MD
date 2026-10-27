@@ -97298,7 +97298,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47663,
+    "exp": 47678,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -130324,7 +130324,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400759605,
+    "exp": 19400759680,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-26T17:52:19.052Z",
@@ -135418,5 +135418,10 @@
     },
     "lastActiveDate": "27/10/2026",
     "activeDays": 1
+  },
+  "175501389914315": {
+    "jid": "175501389914315",
+    "rpg": {},
+    "exp": 15
   }
 }
