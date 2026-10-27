@@ -9907,7 +9907,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60645,
+    "exp": 60660,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -101941,7 +101941,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9375,
+    "exp": 9390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135176,7 +135176,11 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 1605
+    "exp": 1620,
+    "name": "𝐋𝐕𝐑|𝐕𝐌𝐑wlue_sky",
+    "lastSeen": "2026-10-27T12:31:12.020Z",
+    "energi": 999998,
+    "cooldowns": {}
   },
   "6282199507449": {
     "jid": "6282199507449",
@@ -135318,7 +135322,11 @@
     "name": "botakgokss",
     "lastSeen": "2026-10-27T12:30:47.019Z",
     "energi": 999998,
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793104270715
+    },
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 1
   },
   "6281380053785": {
     "jid": "6281380053785",
