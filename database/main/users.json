@@ -100320,10 +100320,10 @@
     "jid": "6281521975279",
     "name": "Reyy",
     "number": "6281521975279",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8895,
+    "exp": 8910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100333,13 +100333,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-20T12:28:17.658Z",
+    "lastSeen": "2026-10-27T13:59:41.184Z",
     "cooldowns": {
       "ytmp4": 1792499356913,
       "play": 1792499423245,
       "tembak": 1787893758938,
       "s": 1792247723662,
-      "rvo": 1792330738094,
+      "rvo": 1793109583970,
       "hd": 1792239354688,
       "h": 1790685091038,
       "tiktok": 1791122138435,
@@ -100356,8 +100356,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/10/2026",
-    "activeDays": 24
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 25
   },
   "6285210615596": {
     "jid": "6285210615596",
@@ -133905,7 +133905,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 4935,
+    "exp": 4950,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-27T13:56:09.567Z"
@@ -135254,7 +135254,7 @@
   "6285817308867": {
     "jid": "6285817308867",
     "rpg": {},
-    "exp": 3180,
+    "exp": 3195,
     "name": "val",
     "lastSeen": "2026-10-27T12:37:45.593Z",
     "energi": 999999,
