@@ -9907,7 +9907,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60795,
+    "exp": 60810,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -101571,7 +101571,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10980,
+    "exp": 10995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -134119,7 +134119,7 @@
   "6285199596205": {
     "jid": "6285199596205",
     "rpg": {},
-    "exp": 555,
+    "exp": 570,
     "name": "y u r r a",
     "lastSeen": "2026-10-26T01:43:06.051Z",
     "cooldowns": {
@@ -135200,7 +135200,9 @@
   "6282199507449": {
     "jid": "6282199507449",
     "rpg": {},
-    "exp": 8880
+    "exp": 8895,
+    "name": "!𝔜𝔢𝔰",
+    "lastSeen": "2026-10-27T12:48:43.120Z"
   },
   "62895410214588": {
     "jid": "62895410214588",
@@ -135266,7 +135268,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12273,
+    "exp": 12288,
     "name": "maryadi",
     "lastSeen": "2026-10-27T12:48:20.776Z",
     "energi": 999999,
