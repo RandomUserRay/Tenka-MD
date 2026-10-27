@@ -1620,10 +1620,10 @@
     "jid": "6285811674575",
     "name": "kirafkasuw",
     "number": "6285811674575",
-    "energi": 999999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314337,
+    "exp": 314367,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1632,7 +1632,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T13:54:13.383Z",
+    "lastSeen": "2026-10-27T13:55:59.359Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -1653,7 +1653,7 @@
       "s": 1784475115806,
       "bank": 1790499461443,
       "me": 1793109254195,
-      "menucat": 1793109223317,
+      "menucat": 1793109336890,
       "craft": 1780391866507,
       "ping": 1783486867483,
       "buy": 1780381845790,
@@ -78850,7 +78850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1290,
+    "exp": 1305,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133904,7 +133904,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 4710,
+    "exp": 4725,
     "energi": 99999
   },
   "6285726134533": {
@@ -135274,9 +135274,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12378,
+    "exp": 12408,
     "name": "maryadi",
-    "lastSeen": "2026-10-27T13:55:35.215Z",
+    "lastSeen": "2026-10-27T13:55:50.805Z",
     "energi": 999999,
     "cooldowns": {
       "menu": 1793068330988,
@@ -135321,7 +135321,7 @@
   "6282148168133": {
     "jid": "6282148168133",
     "rpg": {},
-    "exp": 960,
+    "exp": 975,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
     "lastSeen": "2026-10-27T12:54:06.462Z"
   },
@@ -135489,13 +135489,14 @@
   "6283159038284": {
     "jid": "6283159038284",
     "rpg": {},
-    "exp": 420,
+    "exp": 450,
     "name": "Panzz </>",
     "lastSeen": "2026-10-27T13:55:26.855Z",
     "energi": 999998,
     "cooldowns": {
       "menu": 1793109294485,
-      "menucat": 1793109303722
+      "menucat": 1793109303722,
+      "ssweb": 1793109346662
     },
     "lastActiveDate": "27/10/2026",
     "activeDays": 1
@@ -135513,7 +135514,7 @@
   "6288988207202": {
     "jid": "6288988207202",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "Raz",
     "lastSeen": "2026-10-27T13:55:22.614Z",
     "energi": 999999
