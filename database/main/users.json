@@ -101941,7 +101941,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9285,
+    "exp": 9300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135369,6 +135369,14 @@
   "6283867437408": {
     "jid": "6283867437408",
     "rpg": {},
-    "exp": 15
+    "exp": 30,
+    "name": "serrlvy #V7#WAR",
+    "lastSeen": "2026-10-27T12:29:53.060Z",
+    "energi": 999999,
+    "cooldowns": {
+      "menu": 1793104199085
+    },
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 1
   }
 }
