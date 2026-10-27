@@ -93163,12 +93163,12 @@
   },
   "6288270872854": {
     "jid": "6288270872854",
-    "name": "Fuutarou",
+    "name": "ᗜˬᗜ Ohanabatake Hito",
     "number": "6288270872854",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1350,
+    "exp": 1380,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93178,9 +93178,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T00:01:25.864Z",
+    "lastSeen": "2026-10-27T02:11:21.860Z",
     "cooldowns": {
-      "tembak": 1786871592826
+      "tembak": 1786871592826,
+      "s": 1793067084046
     },
     "clanId": null,
     "isRegistered": false,
@@ -93193,7 +93194,9 @@
     "fun": {
       "tembakTarget": "628988030980@s.whatsapp.net",
       "tembakCount": 1
-    }
+    },
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 1
   },
   "6287894463791": {
     "jid": "6287894463791",
