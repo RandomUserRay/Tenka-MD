@@ -3106,7 +3106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 727166,
+    "exp": 727196,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -9907,7 +9907,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60615,
+    "exp": 60645,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -101941,7 +101941,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9330,
+    "exp": 9360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135176,7 +135176,7 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 1590
+    "exp": 1605
   },
   "6282199507449": {
     "jid": "6282199507449",
@@ -135233,10 +135233,10 @@
     "rpg": {
       "stamina": 80
     },
-    "exp": 1355,
+    "exp": 4177,
     "name": "maryadi",
     "lastSeen": "2026-10-27T12:30:16.793Z",
-    "energi": 999999,
+    "energi": 1000005,
     "cooldowns": {
       "menu": 1793068330988,
       "allmenu": 1793104190096,
@@ -135256,7 +135256,8 @@
       "rock": 4,
       "coal": 2,
       "diamond": 1
-    }
+    },
+    "koin": 884
   },
   "6285846816230": {
     "jid": "6285846816230",
@@ -135313,9 +135314,11 @@
   "6289676340345": {
     "jid": "6289676340345",
     "rpg": {},
-    "exp": 2130,
+    "exp": 2145,
     "name": "botakgokss",
-    "lastSeen": "2026-10-27T09:27:35.812Z"
+    "lastSeen": "2026-10-27T12:30:47.019Z",
+    "energi": 999998,
+    "cooldowns": {}
   },
   "6281380053785": {
     "jid": "6281380053785",
@@ -135370,7 +135373,7 @@
   "6283867437408": {
     "jid": "6283867437408",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "name": "serrlvy #V7#WAR",
     "lastSeen": "2026-10-27T12:29:53.060Z",
     "energi": 999999,
