@@ -93628,12 +93628,12 @@
   },
   "6285752217075": {
     "jid": "6285752217075",
-    "name": "Ruby💖",
+    "name": "Ruby💕",
     "number": "6285752217075",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1320,
+    "exp": 1335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93643,9 +93643,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T11:37:20.874Z",
+    "lastSeen": "2026-10-27T02:13:01.862Z",
     "cooldowns": {
-      "cekfemboy": 1786888838706
+      "cekfemboy": 1786888838706,
+      "menu": 1793067187278
     },
     "clanId": null,
     "isRegistered": false,
@@ -93654,7 +93655,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 1
   },
   "6282342552074": {
     "jid": "6282342552074",
