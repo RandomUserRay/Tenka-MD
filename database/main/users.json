@@ -3880,10 +3880,10 @@
     "jid": "6283893466512",
     "name": "silva",
     "number": "6283893466512",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750062,
+    "exp": 125750077,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3892,7 +3892,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T08:07:37.335Z",
+    "lastSeen": "2026-10-27T03:01:52.508Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -134756,7 +134756,7 @@
   "6289524326679": {
     "jid": "6289524326679",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "6288294335551": {
