@@ -33753,10 +33753,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 556549,
+    "exp": 556564,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33765,7 +33765,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-26T11:52:50.080Z",
+    "lastSeen": "2026-10-27T06:34:34.457Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -34017,7 +34017,8 @@
       "pinpack": 1791976365301,
       "top5": 1792586766913,
       "lirik": 1792829850819,
-      "gc": 1793014613835
+      "gc": 1793014613835,
+      "comix": 1793082875613
     },
     "clanId": null,
     "isRegistered": false,
@@ -34101,8 +34102,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 40
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 41
   },
   "6283850963531": {
     "jid": "6283850963531",
