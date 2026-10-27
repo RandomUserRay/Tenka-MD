@@ -9907,7 +9907,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60780,
+    "exp": 60795,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -94970,7 +94970,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1395,
+    "exp": 1410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101571,7 +101571,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10965,
+    "exp": 10980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130479,7 +130479,7 @@
       "stamina": 105,
       "maxStamina": 105
     },
-    "exp": 15510,
+    "exp": 15525,
     "name": "Angga?",
     "lastSeen": "2026-10-26T01:45:19.150Z",
     "energi": 99999,
@@ -135210,7 +135210,7 @@
   "6285775762551": {
     "jid": "6285775762551",
     "rpg": {},
-    "exp": 615
+    "exp": 630
   },
   "628888781231": {
     "jid": "628888781231",
@@ -135266,10 +135266,10 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 12243,
+    "exp": 12258,
     "name": "maryadi",
-    "lastSeen": "2026-10-27T12:44:40.132Z",
-    "energi": 1000007,
+    "lastSeen": "2026-10-27T12:48:20.776Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1793068330988,
       "allmenu": 1793104786470,
@@ -135283,7 +135283,8 @@
       "stalkml": 1793069948927,
       "tebakkata": 1793104217466,
       "kataacak": 1793104808583,
-      "susunkata": 1793105085005
+      "susunkata": 1793105085005,
+      "tebakmakanan": 1793105303140
     },
     "lastActiveDate": "27/10/2026",
     "activeDays": 1,
@@ -135370,7 +135371,7 @@
   "6281380053785": {
     "jid": "6281380053785",
     "rpg": {},
-    "exp": 5008,
+    "exp": 5023,
     "energi": 32,
     "koin": 1475
   },
@@ -135435,7 +135436,7 @@
   "175501389914315": {
     "jid": "175501389914315",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "601128251372": {
     "jid": "601128251372",
