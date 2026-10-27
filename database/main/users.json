@@ -27176,10 +27176,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177891,
+    "exp": 177906,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27188,7 +27188,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-17T12:22:03.737Z",
+    "lastSeen": "2026-10-27T09:03:18.756Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1792239714135,
@@ -27272,7 +27272,7 @@
       "slot": 1785503307296,
       "ytmp4": 1787627100405,
       "heal": 1785667605338,
-      "hd": 1791461413902,
+      "hd": 1793091800691,
       "setwelcome": 1791383289622,
       "warning": 1786619383632,
       "tohd": 1786691297264,
@@ -27319,8 +27319,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 21
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 22
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -135180,7 +135180,7 @@
   "628888781231": {
     "jid": "628888781231",
     "rpg": {},
-    "exp": 210
+    "exp": 225
   },
   "6285713932730": {
     "jid": "6285713932730",
