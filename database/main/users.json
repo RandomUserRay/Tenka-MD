@@ -93165,10 +93165,10 @@
     "jid": "6288270872854",
     "name": "ᗜˬᗜ Ohanabatake Hito",
     "number": "6288270872854",
-    "energi": 999998,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1380,
+    "exp": 1395,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93178,10 +93178,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T02:11:21.860Z",
+    "lastSeen": "2026-10-27T02:28:23.392Z",
     "cooldowns": {
       "tembak": 1786871592826,
-      "s": 1793067084046
+      "s": 1793067084046,
+      "owner": 1793068107189
     },
     "clanId": null,
     "isRegistered": false,
