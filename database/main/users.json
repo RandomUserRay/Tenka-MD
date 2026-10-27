@@ -101571,7 +101571,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10890,
+    "exp": 10905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101583,7 +101583,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-10-27T12:46:33.313Z",
     "cooldowns": {
-      "s": 1792495067241,
+      "s": 1793105200197,
       "cekfemboy": 1790684839602,
       "smeme": 1792586888383,
       "cekganteng": 1792050358805,
@@ -101616,8 +101616,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 10
   },
   "6282229557378": {
     "jid": "6282229557378",
@@ -135343,9 +135343,9 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 105,
+    "exp": 135,
     "name": "Nero Aditya",
-    "lastSeen": "2026-10-27T12:45:00.293Z",
+    "lastSeen": "2026-10-27T12:46:37.884Z",
     "energi": 999998,
     "cooldowns": {
       "play": 1793105101426
