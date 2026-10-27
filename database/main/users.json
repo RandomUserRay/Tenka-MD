@@ -1620,10 +1620,10 @@
     "jid": "6285811674575",
     "name": "kirafkasuw",
     "number": "6285811674575",
-    "energi": 999999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314262,
+    "exp": 314277,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1632,7 +1632,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T07:29:26.821Z",
+    "lastSeen": "2026-10-27T13:23:14.896Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -130325,10 +130325,10 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400759830,
+    "exp": 19400759905,
     "energi": 999997,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-26T17:52:19.052Z",
+    "lastSeen": "2026-10-27T13:23:24.512Z",
     "cooldowns": {
       "cekganteng": 1792918264715,
       "femboy": 1792918232825,
@@ -130367,7 +130367,8 @@
       "rvo": 1792942439444,
       "slot": 1792840187398,
       "profile": 1792916872188,
-      "femboyvid": 1793037144602
+      "femboyvid": 1793037144602,
+      "kick": 1793107405025
     },
     "lastActiveDate": "27/10/2026",
     "activeDays": 13,
@@ -135483,6 +135484,6 @@
   "6283159038284": {
     "jid": "6283159038284",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
