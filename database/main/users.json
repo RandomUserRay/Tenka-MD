@@ -9907,7 +9907,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60705,
+    "exp": 60720,
     "level": 1,
     "koin": 75000,
     "unlockedFeatures": [],
@@ -135176,12 +135176,16 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 3678,
+    "exp": 3693,
     "name": "𝐋𝐕𝐑|𝐕𝐌𝐑wlue_sky",
     "lastSeen": "2026-10-27T12:31:12.020Z",
     "energi": 1000004,
-    "cooldowns": {},
-    "koin": 1175
+    "cooldowns": {
+      "play": 1793104329503
+    },
+    "koin": 1175,
+    "lastActiveDate": "27/10/2026",
+    "activeDays": 1
   },
   "6282199507449": {
     "jid": "6282199507449",
@@ -135238,7 +135242,7 @@
     "rpg": {
       "stamina": 80
     },
-    "exp": 4252,
+    "exp": 4267,
     "name": "maryadi",
     "lastSeen": "2026-10-27T12:31:55.539Z",
     "energi": 999999,
