@@ -13450,10 +13450,10 @@
     "jid": "6283891535005",
     "name": "Yukii",
     "number": "6283891535005",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7200,
+    "exp": 7215,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -13462,9 +13462,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T04:14:42.133Z",
+    "lastSeen": "2026-10-28T09:52:32.702Z",
     "cooldowns": {
-      "s": 1781540271316
+      "s": 1781540271316,
+      "owner": 1793181154508
     },
     "clanId": null,
     "isRegistered": false,
@@ -13474,7 +13475,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 1
   },
   "6281235283279": {
     "jid": "6281235283279",
@@ -133925,7 +133928,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 6990,
+    "exp": 7005,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-27T14:17:50.445Z",
@@ -134501,12 +134504,12 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 7017,
-    "energi": 999998,
+    "exp": 7032,
+    "energi": 999999,
     "name": "baim/ipin",
-    "lastSeen": "2026-10-28T09:50:34.374Z",
+    "lastSeen": "2026-10-28T09:52:27.963Z",
     "cooldowns": {
-      "menu": 1793177489472,
+      "menu": 1793181153507,
       "play": 1793167232583,
       "ytmp4": 1793167233458,
       "s": 1793181036522,
@@ -135281,7 +135284,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11460,
+    "exp": 11475,
     "name": "!𝔜𝔢𝔰",
     "lastSeen": "2026-10-27T12:49:23.518Z",
     "energi": 99999
@@ -135486,7 +135489,7 @@
   "6281380053785": {
     "jid": "6281380053785",
     "rpg": {},
-    "exp": 5263,
+    "exp": 5278,
     "energi": 99999,
     "koin": 1475
   },
