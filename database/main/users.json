@@ -97315,7 +97315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50003,
+    "exp": 49988,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97378,13 +97378,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 6,
-      "health": 150,
-      "maxHealth": 150,
-      "mana": 125,
-      "maxMana": 125,
-      "stamina": 125,
-      "maxStamina": 125,
+      "level": 5,
+      "health": 140,
+      "maxHealth": 140,
+      "mana": 120,
+      "maxMana": 120,
+      "stamina": 120,
+      "maxStamina": 120,
       "bank": 2000000
     },
     "inventory": {},
@@ -122714,13 +122714,13 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11865,
-    "energi": 99991,
+    "exp": 11850,
+    "energi": 99992,
     "name": "Noah",
-    "lastSeen": "2026-10-28T03:50:56.027Z",
+    "lastSeen": "2026-10-28T03:46:42.049Z",
     "cooldowns": {
       "smeme": 1793122432497,
-      "s": 1793159457184,
+      "s": 1793159204183,
       "femboy": 1792911782909,
       "ship": 1792911744895,
       "love": 1792589235415,
@@ -128146,7 +128146,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 5835,
+    "exp": 5850,
     "energi": 99999,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T15:11:53.873Z",
@@ -130344,7 +130344,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400782555,
+    "exp": 19400782480,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -135631,9 +135631,9 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "name": "FURZYX",
-    "lastSeen": "2026-10-28T03:30:00.985Z",
+    "lastSeen": "2026-10-28T03:51:22.378Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793158021482,
@@ -135642,7 +135642,8 @@
       "asu": 1793158111780,
       "iblis": 1793158150126,
       "bucin": 1793158176328,
-      "noob": 1793158201071
+      "noob": 1793158201071,
+      "level": 1793159483278
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1
