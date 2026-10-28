@@ -7,7 +7,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000272684,
+    "exp": 1009000272759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9515,10 +9515,10 @@
     "jid": "6283119584578",
     "name": "🍏🍏《《Изиэль 》》🍏🍏",
     "number": "6283119584578",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12225,
+    "exp": 12240,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9527,7 +9527,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:36:41.902Z",
+    "lastSeen": "2026-10-28T02:35:05.242Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9550,7 +9550,8 @@
       "cuntboyvid": 1792375901770,
       "bdsmvid": 1792173844349,
       "top": 1792909995738,
-      "ship": 1792910203091
+      "ship": 1792910203091,
+      "cuntboy": 1793154907256
     },
     "clanId": null,
     "isRegistered": false,
@@ -9570,8 +9571,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 9
   },
   "6283164294513": {
     "jid": "6283164294513",
@@ -130342,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400773480,
+    "exp": 19400773555,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -135627,8 +135628,6 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 60,
-    "name": "FURZYX",
-    "lastSeen": "2026-10-28T02:34:58.747Z"
+    "exp": 45
   }
 }
