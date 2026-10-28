@@ -67876,12 +67876,12 @@
   },
   "6283135864303": {
     "jid": "6283135864303",
-    "name": "mas sigma",
+    "name": "zio",
     "number": "6283135864303",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177321,
+    "exp": 177336,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67896,9 +67896,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T10:31:32.793Z",
+    "lastSeen": "2026-10-28T09:03:05.922Z",
     "cooldowns": {
-      "afk": 1793098688986,
+      "afk": 1793178188951,
       "s": 1792765177409,
       "play": 1791538499792,
       "inv": 1786434391177,
@@ -68033,8 +68033,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "27/10/2026",
-    "activeDays": 39
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 40
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -134500,16 +134500,16 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 6657,
+    "exp": 6672,
     "energi": 999999,
     "name": "baim/ipin",
-    "lastSeen": "2026-10-28T08:56:32.160Z",
+    "lastSeen": "2026-10-28T09:03:02.957Z",
     "cooldowns": {
       "menu": 1793177489472,
       "play": 1793167232583,
       "ytmp4": 1793167233458,
       "s": 1793167380359,
-      "teka": 1793177793387
+      "teka": 1793178184153
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1,
@@ -135300,7 +135300,7 @@
   "628888781231": {
     "jid": "628888781231",
     "rpg": {},
-    "exp": 3960,
+    "exp": 3975,
     "name": "Noshi or Nala",
     "lastSeen": "2026-10-27T13:56:16.226Z",
     "energi": 99999,
