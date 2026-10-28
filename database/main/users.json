@@ -135047,17 +135047,20 @@
   },
   "62882020062234": {
     "jid": "62882020062234",
-    "rpg": {},
-    "exp": 690,
+    "rpg": {
+      "stamina": 90
+    },
+    "exp": 1304,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-28T13:29:13.262Z",
+    "lastSeen": "2026-10-28T13:31:49.058Z",
     "cooldowns": {
       "afk": 1793013713559,
       "cekfemboy": 1793194162480
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 2,
-    "energi": 99999
+    "energi": 99999,
+    "koin": 5990
   },
   "6285842889332": {
     "name": "arsaputra",
