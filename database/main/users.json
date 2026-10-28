@@ -3881,10 +3881,10 @@
     "jid": "6283893466512",
     "name": "silva",
     "number": "6283893466512",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750077,
+    "exp": 125750092,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3893,7 +3893,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-27T03:01:52.508Z",
+    "lastSeen": "2026-10-28T12:15:29.717Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -3935,7 +3935,8 @@
       "handsome": 1782017495152,
       "cool": 1782292577260,
       "ytmp3": 1787834708481,
-      "tt": 1792224459126
+      "tt": 1792224459126,
+      "fb": 1793189730857
     },
     "clanId": null,
     "isRegistered": false,
@@ -3959,8 +3960,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 6
   },
   "6285338336939": {
     "jid": "6285338336939",
@@ -133930,7 +133931,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 8295,
+    "exp": 8310,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-27T14:17:50.445Z",
@@ -135492,7 +135493,7 @@
   "6281380053785": {
     "jid": "6281380053785",
     "rpg": {},
-    "exp": 6043,
+    "exp": 6058,
     "energi": 99999,
     "koin": 1475
   },
