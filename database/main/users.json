@@ -3884,7 +3884,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750107,
+    "exp": 125750122,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3893,7 +3893,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T12:15:42.546Z",
+    "lastSeen": "2026-10-28T12:16:24.106Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -3936,7 +3936,8 @@
       "cool": 1782292577260,
       "ytmp3": 1787834708481,
       "tt": 1792224459126,
-      "fb": 1793189730857
+      "fb": 1793189730857,
+      "menucat": 1793189784212
     },
     "clanId": null,
     "isRegistered": false,
@@ -135493,7 +135494,7 @@
   "6281380053785": {
     "jid": "6281380053785",
     "rpg": {},
-    "exp": 6118,
+    "exp": 6133,
     "energi": 99999,
     "koin": 1475
   },
