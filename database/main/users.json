@@ -97082,7 +97082,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29708,
+    "exp": 29723,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99264,7 +99264,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6990,
+    "exp": 7005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129820,7 +129820,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32448,
+    "exp": 32463,
     "energi": 100029,
     "koin": 16763,
     "name": "botakgokss",
@@ -129845,11 +129845,15 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 765,
+    "exp": 780,
     "energi": 99998,
     "name": "Savan",
     "lastSeen": "2026-10-28T23:05:37.082Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793228753077
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "60148092084": {
     "jid": "60148092084",
