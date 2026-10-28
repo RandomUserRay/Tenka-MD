@@ -97315,7 +97315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49823,
+    "exp": 49808,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99514,7 +99514,7 @@
     "energi": 9998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24540,
+    "exp": 24510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130343,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400781280,
+    "exp": 19400781130,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -132353,15 +132353,16 @@
   "6287710342157": {
     "jid": "6287710342157",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "name": "‎",
-    "lastSeen": "2026-10-25T14:34:07.650Z",
+    "lastSeen": "2026-10-28T03:37:09.208Z",
     "cooldowns": {
-      "cekfemboy": 1792938852016
+      "cekfemboy": 1792938852016,
+      "s": 1793158631609
     },
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 1,
-    "energi": 99999
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 2,
+    "energi": 99998
   },
   "6285752730105": {
     "jid": "6285752730105",
@@ -135629,7 +135630,7 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "name": "FURZYX",
     "lastSeen": "2026-10-28T03:30:00.985Z",
     "cooldowns": {
