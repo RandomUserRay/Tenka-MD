@@ -98859,7 +98859,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5940,
+    "exp": 5970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121914,8 +121914,15 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 1185,
-    "energi": 99999
+    "exp": 1215,
+    "energi": 99999,
+    "name": "Noah",
+    "lastSeen": "2026-10-28T19:57:09.868Z",
+    "cooldowns": {
+      "femboy": 1793217434034
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "62882005686310": {
     "jid": "62882005686310",
