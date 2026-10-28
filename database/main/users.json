@@ -4109,10 +4109,10 @@
     "jid": "62881023861379",
     "name": "𝐒𝐘𝐍𝐎",
     "number": "62881023861379",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 103080,
+    "exp": 103095,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4121,7 +4121,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-19T14:58:57.237Z",
+    "lastSeen": "2026-10-28T02:29:46.717Z",
     "cooldowns": {
       "cekfemboy": 1792421920176,
       "afk": 1791284553030,
@@ -4198,7 +4198,8 @@
       "play": 1790595070389,
       "hd5": 1786316559073,
       "femboysvid": 1792050316509,
-      "top": 1792146473689
+      "top": 1792146473689,
+      "naked": 1793154587174
     },
     "clanId": null,
     "isRegistered": false,
@@ -4227,8 +4228,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "19/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 11
   },
   "628988810597": {
     "jid": "628988810597",
@@ -130341,7 +130342,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400772805,
+    "exp": 19400772880,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
