@@ -99261,7 +99261,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6540,
+    "exp": 6555,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99271,7 +99271,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T21:55:53.262Z",
+    "lastSeen": "2026-10-28T21:57:25.173Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
@@ -99289,7 +99289,8 @@
       "welcome": 1793224307133,
       "setgoodbye": 1793224382321,
       "goodbye": 1793224485640,
-      "jadwalsholat": 1793224554534
+      "jadwalsholat": 1793224554534,
+      "notifsholat": 1793224645269
     },
     "clanId": null,
     "isRegistered": false,
