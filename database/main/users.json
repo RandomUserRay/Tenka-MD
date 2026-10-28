@@ -7,7 +7,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000272684,
+    "exp": 1009000272759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9515,10 +9515,10 @@
     "jid": "6283119584578",
     "name": "🍏🍏《《Изиэль 》》🍏🍏",
     "number": "6283119584578",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12225,
+    "exp": 12270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9527,7 +9527,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-25T06:36:41.902Z",
+    "lastSeen": "2026-10-28T02:35:43.543Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9550,7 +9550,8 @@
       "cuntboyvid": 1792375901770,
       "bdsmvid": 1792173844349,
       "top": 1792909995738,
-      "ship": 1792910203091
+      "ship": 1792910203091,
+      "cuntboy": 1793154946445
     },
     "clanId": null,
     "isRegistered": false,
@@ -9570,8 +9571,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 9
   },
   "6283164294513": {
     "jid": "6283164294513",
@@ -97311,10 +97312,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49163,
+    "exp": 49178,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97324,12 +97325,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T02:30:54.466Z",
+    "lastSeen": "2026-10-28T02:35:56.339Z",
     "cooldowns": {
       "afk": 1792969228133,
       "play": 1793024556844,
       "smeme": 1793089635654,
-      "s": 1793154656352,
+      "s": 1793154958240,
       "menu": 1792288560777,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -99513,7 +99514,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23730,
+    "exp": 23745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101958,7 +101959,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9795,
+    "exp": 9810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -128144,7 +128145,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 5775,
+    "exp": 5760,
     "energi": 99999,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T15:11:53.873Z",
@@ -130342,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400773480,
+    "exp": 19400773555,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -135627,14 +135628,6 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 75,
-    "name": "FURZYX",
-    "lastSeen": "2026-10-28T02:35:39.078Z",
-    "cooldowns": {
-      "s": 1793154940719
-    },
-    "energi": 24,
-    "lastActiveDate": "28/10/2026",
-    "activeDays": 1
+    "exp": 45
   }
 }
