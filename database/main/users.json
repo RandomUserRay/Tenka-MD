@@ -3107,7 +3107,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 728951,
+    "exp": 728966,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -130357,7 +130357,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400788105,
+    "exp": 19400788180,
     "energi": 999995,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T03:56:05.843Z",
@@ -135047,23 +135047,17 @@
   },
   "62882020062234": {
     "jid": "62882020062234",
-    "rpg": {
-      "stamina": 60,
-      "bank": 0
-    },
-    "exp": 1722,
+    "rpg": {},
+    "exp": 705,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-28T13:34:09.422Z",
+    "lastSeen": "2026-10-28T13:33:53.491Z",
     "cooldowns": {
       "afk": 1793013713559,
-      "cekfemboy": 1793194162480,
-      "gojek": 1793194442640,
-      "paket": 1793194444969,
-      "bank": 1793194449553
+      "cekfemboy": 1793194162480
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 2,
-    "energi": 99998
+    "energi": 99999
   },
   "6285842889332": {
     "name": "arsaputra",
@@ -135506,7 +135500,7 @@
   "6281380053785": {
     "jid": "6281380053785",
     "rpg": {},
-    "exp": 7513,
+    "exp": 7543,
     "energi": 99999,
     "koin": 1475
   },
