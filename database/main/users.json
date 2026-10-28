@@ -99264,7 +99264,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6735,
+    "exp": 6750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133770,7 +133770,11 @@
     "energi": 99998,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-10-28T22:54:10.748Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793228064360
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6285775936322": {
     "jid": "6285775936322",
