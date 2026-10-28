@@ -99261,7 +99261,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6375,
+    "exp": 6390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99271,7 +99271,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T21:43:46.030Z",
+    "lastSeen": "2026-10-28T21:44:16.170Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
@@ -99282,7 +99282,8 @@
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517,
       "open": 1793217474654,
-      "me": 1793223592842
+      "me": 1793223592842,
+      "owner": 1793223857562
     },
     "clanId": null,
     "isRegistered": false,
