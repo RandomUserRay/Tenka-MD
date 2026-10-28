@@ -1850,7 +1850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 702909,
+    "exp": 702984,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -97315,7 +97315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49763,
+    "exp": 49778,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99514,7 +99514,7 @@
     "energi": 9998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24420,
+    "exp": 24435,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122713,7 +122713,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11715,
+    "exp": 11730,
     "energi": 99993,
     "name": "Noah",
     "lastSeen": "2026-10-27T17:33:40.488Z",
@@ -130343,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400780380,
+    "exp": 19400780830,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -132178,7 +132178,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 2175,
+    "exp": 2160,
     "name": "Haafiz",
     "lastSeen": "2026-10-26T11:20:01.171Z",
     "cooldowns": {
@@ -135653,6 +135653,6 @@
   "6285833678556": {
     "jid": "6285833678556",
     "rpg": {},
-    "exp": 150
+    "exp": 75
   }
 }
