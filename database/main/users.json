@@ -99515,7 +99515,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25425,
+    "exp": 25485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103418,13 +103418,13 @@
   },
   "628981194866": {
     "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-28T06:22:18.861Z",
+    "lastSeen": "2026-10-28T06:11:58.216Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40576,
+    "exp": 40531,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103509,8 +103509,7 @@
       "clan": 1792900796014,
       "claninvite": 1792900822386,
       "mutemember": 1792924631670,
-      "setgoodbye": 1792963606603,
-      "unmutegc": 1793168539546
+      "setgoodbye": 1792963606603
     },
     "clanId": "KIT",
     "isRegistered": false,
@@ -130118,7 +130117,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14989,
+    "exp": 14929,
     "energi": 99997,
     "name": "EQUINOX",
     "lastSeen": "2026-10-28T06:07:53.632Z",
@@ -130348,7 +130347,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400783455,
+    "exp": 19400783680,
     "energi": 999995,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T03:56:05.843Z",
@@ -135717,6 +135716,6 @@
   "6281291049902": {
     "jid": "6281291049902",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
