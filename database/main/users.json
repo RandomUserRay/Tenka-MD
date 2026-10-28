@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-28T22:30:34.745Z",
+    "lastSeen": "2026-10-28T22:28:02.402Z",
     "jid": "6285755379245",
     "number": "6285755379245",
-    "energi": 999999,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000168084,
+    "exp": 9000167934,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -1593,7 +1593,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 313992,
+    "exp": 313977,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -97079,7 +97079,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29468,
+    "exp": 29423,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -127654,7 +127654,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1320,
+    "exp": 1365,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129735,7 +129735,7 @@
       "stamina": 105,
       "bank": 0
     },
-    "exp": 14805,
+    "exp": 14430,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T21:31:04.489Z",
@@ -129816,9 +129816,9 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25942,
-    "energi": 100013,
-    "koin": 13146,
+    "exp": 23690,
+    "energi": 100007,
+    "koin": 12331,
     "name": "botakgokss",
     "lastSeen": "2026-10-28T22:28:50.693Z",
     "cooldowns": {
@@ -132664,9 +132664,9 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 9414,
+    "exp": 9474,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
-    "lastSeen": "2026-10-28T21:35:39.031Z",
+    "lastSeen": "2026-10-28T22:30:53.647Z",
     "cooldowns": {
       "cekfemboy": 1793008165251,
       "cekpacar": 1792938986081,
@@ -133760,7 +133760,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 1350,
+    "exp": 1320,
     "energi": 99999
   },
   "6285775936322": {
@@ -134365,16 +134365,18 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {},
-    "exp": 810,
+    "exp": 855,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-28T13:33:53.491Z",
+    "lastSeen": "2026-10-28T22:30:27.704Z",
     "cooldowns": {
       "afk": 1793013713559,
-      "cekfemboy": 1793194162480
+      "cekfemboy": 1793194162480,
+      "profile": 1793226628342
     },
-    "lastActiveDate": "28/10/2026",
-    "activeDays": 2,
-    "energi": 99999
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 3,
+    "energi": 99999,
+    "registeredAt": 1793226627709
   },
   "6285842889332": {
     "name": "arsaputra",
