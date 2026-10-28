@@ -98854,12 +98854,12 @@
   },
   "6285817456389": {
     "jid": "6285817456389",
-    "name": "ra tau",
+    "name": "kitsune meru",
     "number": "6285817456389",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5910,
+    "exp": 5940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -98869,13 +98869,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T16:03:25.854Z",
+    "lastSeen": "2026-10-28T19:56:55.857Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1790198331799,
       "menucat": 1790198386832,
       "cekfemboy": 1791849443945,
-      "femboy": 1790457489676,
+      "femboy": 1793217422030,
       "s": 1791804368738,
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517
@@ -98888,8 +98888,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 7
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 8
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -129279,7 +129279,7 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {},
-    "exp": 7305,
+    "exp": 7455,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T19:54:12.597Z",
