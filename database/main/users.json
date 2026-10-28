@@ -103512,7 +103512,8 @@
       "clan": 1792900796014,
       "claninvite": 1792900822386,
       "mutemember": 1792924631670,
-      "setgoodbye": 1792963606603
+      "setgoodbye": 1792963606603,
+      "setbio": 1793186878416
     },
     "clanId": "KIT",
     "isRegistered": false,
@@ -103550,7 +103551,8 @@
       "tembakTarget": "6285240302212@s.whatsapp.net",
       "tembakCount": 1,
       "pasangan": "6285240302212@s.whatsapp.net"
-    }
+    },
+    "customBio": "I Love Tiger Shark and Gore"
   },
   "6283178717373": {
     "jid": "6283178717373",
@@ -128152,7 +128154,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 6180,
+    "exp": 6195,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T11:21:45.846Z",
