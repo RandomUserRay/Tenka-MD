@@ -130343,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400780155,
+    "exp": 19400780080,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -135629,13 +135629,14 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "name": "FURZYX",
-    "lastSeen": "2026-10-28T03:23:57.385Z",
+    "lastSeen": "2026-10-28T03:24:33.288Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793157813915,
-      "menucat": 1793157838365
+      "menucat": 1793157838365,
+      "kaya": 1793157873374
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1
