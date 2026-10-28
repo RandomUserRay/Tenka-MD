@@ -99261,7 +99261,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6525,
+    "exp": 6540,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99271,7 +99271,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T21:54:45.548Z",
+    "lastSeen": "2026-10-28T21:55:53.262Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
@@ -99288,7 +99288,8 @@
       "setintro": 1793224197412,
       "welcome": 1793224307133,
       "setgoodbye": 1793224382321,
-      "goodbye": 1793224485640
+      "goodbye": 1793224485640,
+      "jadwalsholat": 1793224554534
     },
     "clanId": null,
     "isRegistered": false,
@@ -129728,7 +129729,7 @@
       "stamina": 105,
       "bank": 0
     },
-    "exp": 12930,
+    "exp": 13005,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T21:31:04.489Z",
