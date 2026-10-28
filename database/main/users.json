@@ -1850,7 +1850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703059,
+    "exp": 703134,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -11733,7 +11733,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43804,
+    "exp": 43834,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -16227,10 +16227,10 @@
     "jid": "6285753061976",
     "name": "nice nature",
     "number": "6285753061976",
-    "energi": 99993,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398897,
+    "exp": 9398912,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16239,7 +16239,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T02:54:46.415Z",
+    "lastSeen": "2026-10-28T04:12:13.757Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16373,7 +16373,7 @@
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1793156091479,
+      "tt": 1793160739265,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -97315,7 +97315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50288,
+    "exp": 50348,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99514,7 +99514,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25065,
+    "exp": 25125,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122715,7 +122715,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12015,
+    "exp": 12030,
     "energi": 99990,
     "name": "Noah",
     "lastSeen": "2026-10-28T03:52:06.749Z",
@@ -128147,7 +128147,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 5880,
+    "exp": 5835,
     "energi": 99999,
     "name": "Озорной свет",
     "lastSeen": "2026-10-25T15:11:53.873Z",
@@ -130003,7 +130003,7 @@
   "62895602789802": {
     "jid": "62895602789802",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "energi": 99999
   },
   "6285821433928": {
@@ -135632,9 +135632,9 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 285,
+    "exp": 240,
     "name": "FURZYX",
-    "lastSeen": "2026-10-28T04:11:10.219Z",
+    "lastSeen": "2026-10-28T03:30:00.985Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793158021482,
@@ -135643,12 +135643,10 @@
       "asu": 1793158111780,
       "iblis": 1793158150126,
       "bucin": 1793158176328,
-      "noob": 1793158201071,
-      "hd": 1793160544658
+      "noob": 1793158201071
     },
     "lastActiveDate": "28/10/2026",
-    "activeDays": 1,
-    "energi": 24
+    "activeDays": 1
   },
   "6285803709918": {
     "jid": "6285803709918",
@@ -135658,6 +135656,6 @@
   "6285833678556": {
     "jid": "6285833678556",
     "rpg": {},
-    "exp": 150
+    "exp": 75
   }
 }
