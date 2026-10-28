@@ -3968,7 +3968,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27550,
+    "exp": 27565,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -3977,7 +3977,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T23:31:56.657Z",
+    "lastSeen": "2026-10-28T23:54:51.154Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -127658,7 +127658,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1650,
+    "exp": 1665,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -134442,7 +134442,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 780,
+    "exp": 765,
     "energi": 99999
   },
   "6285248334834": {
@@ -135114,5 +135114,10 @@
     "jid": "6283194962603",
     "rpg": {},
     "exp": 30
+  },
+  "6288231367925": {
+    "jid": "6288231367925",
+    "rpg": {},
+    "exp": 15
   }
 }
