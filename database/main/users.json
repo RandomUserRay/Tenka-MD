@@ -135494,7 +135494,11 @@
     "energi": 999997,
     "name": "{SHAHRIDZ HC X I.H.C.I}",
     "lastSeen": "2026-10-28T05:28:51.879Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "ytmp4": 1793165343012
+    },
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 1
   },
   "6285828600992": {
     "jid": "6285828600992",
