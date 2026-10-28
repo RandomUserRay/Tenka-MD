@@ -7,7 +7,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000273209,
+    "exp": 1009000273284,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -135665,5 +135665,18 @@
     "jid": "6283196885835",
     "rpg": {},
     "exp": 15
+  },
+  "6281330010434": {
+    "name": "青い缶.",
+    "lastSeen": "2026-10-28T05:24:24.034Z",
+    "jid": "6281330010434",
+    "rpg": {},
+    "exp": 15,
+    "energi": 999999,
+    "cooldowns": {
+      "menu": 1793165066705
+    },
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 1
   }
 }
