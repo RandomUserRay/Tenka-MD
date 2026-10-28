@@ -91426,7 +91426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58530,
+    "exp": 58545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135741,7 +135741,8 @@
     "exp": 45,
     "cooldowns": {
       "menu": 1793179541143,
-      "play": 1793179603958
+      "play": 1793179603958,
+      "ytmp4": 1793179608443
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1,
