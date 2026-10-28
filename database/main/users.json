@@ -3881,10 +3881,10 @@
     "jid": "6283893466512",
     "name": "silva",
     "number": "6283893466512",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750122,
+    "exp": 125750137,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3893,7 +3893,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T12:16:24.106Z",
+    "lastSeen": "2026-10-28T12:16:57.101Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -3937,7 +3937,8 @@
       "ytmp3": 1787834708481,
       "tt": 1792224459126,
       "fb": 1793189730857,
-      "menucat": 1793189784212
+      "menucat": 1793189784212,
+      "facebookdl": 1793189817433
     },
     "clanId": null,
     "isRegistered": false,
@@ -131316,7 +131317,7 @@
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
-    "exp": 3435,
+    "exp": 3450,
     "energi": 99999,
     "name": "καιιι",
     "lastSeen": "2026-10-26T13:14:16.735Z",
