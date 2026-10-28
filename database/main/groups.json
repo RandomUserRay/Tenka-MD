@@ -32226,8 +32226,8 @@
         "name": "AoiMizu"
       },
       "6283139380069@s.whatsapp.net": {
-        "count": 6034,
-        "lastChat": 1793153505629,
+        "count": 6033,
+        "lastChat": 1793153281119,
         "name": "shiro >_●"
       },
       "6285240302212@s.whatsapp.net": {
@@ -32396,8 +32396,8 @@
         "name": "Yoshiki_|| ひかるちゃん"
       },
       "6285817456389@s.whatsapp.net": {
-        "count": 1087,
-        "lastChat": 1793153469650,
+        "count": 1085,
+        "lastChat": 1793153413980,
         "name": "kitsune meru"
       },
       "6283139500330@s.whatsapp.net": {
@@ -32786,8 +32786,8 @@
         "name": "clara"
       },
       "6289528303342@s.whatsapp.net": {
-        "count": 2588,
-        "lastChat": 1793153456135,
+        "count": 2586,
+        "lastChat": 1793153423006,
         "name": "Sins keren"
       },
       "6285151164722@s.whatsapp.net": {
@@ -32896,8 +32896,8 @@
         "name": "♪da big J★"
       },
       "6285165048021@s.whatsapp.net": {
-        "count": 1432,
-        "lastChat": 1793153518727,
+        "count": 1430,
+        "lastChat": 1793153201356,
         "name": "Noah"
       },
       "6282260724286@s.whatsapp.net": {
@@ -33016,8 +33016,8 @@
         "name": "Akbar"
       },
       "6285284891404@s.whatsapp.net": {
-        "count": 2435,
-        "lastChat": 1793153515105,
+        "count": 2433,
+        "lastChat": 1793153428626,
         "name": "Devvarajha"
       },
       "628981225271@s.whatsapp.net": {
@@ -48544,9 +48544,9 @@
   "120363429107812975@g.us": {
     "chatStats": {
       "6287794785404@s.whatsapp.net": {
-        "count": 15,
-        "lastChat": 1793009151884,
-        "name": "Озорной свет"
+        "count": 16,
+        "lastChat": 1793153519562,
+        "name": "озорной свет"
       },
       "6285821433928@s.whatsapp.net": {
         "count": 19,
@@ -51479,5 +51479,19 @@
     },
     "jid": "120363430658479734@g.us",
     "name": "P"
+  },
+  "120363427479297643@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363427479297643@g.us",
+    "chatStats": {
+      "6287794785404@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1793153519437,
+        "name": "озорной свет"
+      }
+    },
+    "name": "<[Grup khusus bot]>"
   }
 }
