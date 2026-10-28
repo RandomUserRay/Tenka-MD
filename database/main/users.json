@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-28T01:50:48.668Z",
+    "lastSeen": "2026-10-28T01:50:59.965Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000271934,
+    "exp": 1009000272159,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -97313,7 +97313,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48608,
+    "exp": 48593,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -122711,7 +122711,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11340,
+    "exp": 11280,
     "energi": 99993,
     "name": "Noah",
     "lastSeen": "2026-10-27T17:33:40.488Z",
@@ -130341,7 +130341,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400766805,
+    "exp": 19400766430,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -130623,7 +130623,7 @@
   "6283865412573": {
     "jid": "6283865412573",
     "rpg": {},
-    "exp": 2790,
+    "exp": 2775,
     "energi": 99999
   },
   "60103888364": {
@@ -135621,6 +135621,16 @@
   "6282140105023": {
     "jid": "6282140105023",
     "rpg": {},
-    "exp": 90
+    "exp": 75
+  },
+  "6285833678556": {
+    "name": "Yuzuki Nanase",
+    "lastSeen": "2026-10-28T01:49:06.513Z",
+    "jid": "6285833678556",
+    "rpg": {},
+    "exp": 150,
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 1,
+    "registeredAt": 1793152148588
   }
 }
