@@ -129293,15 +129293,17 @@
       "maxStamina": 105,
       "health": 110,
       "mana": 105,
-      "stamina": 105
+      "stamina": 105,
+      "bank": 0
     },
-    "exp": 10305,
+    "exp": 10455,
     "energi": 99999,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-28T19:54:12.597Z",
+    "lastSeen": "2026-10-28T21:28:57.021Z",
     "cooldowns": {
       "mutegc": 1793217082639,
-      "femboy": 1793217259001
+      "femboy": 1793217259001,
+      "bank": 1793222937102
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 1
