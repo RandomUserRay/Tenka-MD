@@ -129325,7 +129325,7 @@
   "6289676340345": {
     "jid": "6289676340345",
     "rpg": {},
-    "exp": 3532,
+    "exp": 3547,
     "energi": 29,
     "koin": 1281,
     "name": "botakgokss",
@@ -129344,13 +129344,15 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 480,
+    "exp": 1586,
     "name": "Baim/gay",
     "lastSeen": "2026-10-28T16:26:48.371Z",
     "cooldowns": {
       "teka": 1793204808548
     },
     "lastActiveDate": "28/10/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 31,
+    "koin": 1729
   }
 }
