@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 679959,
+    "exp": 680034,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1865,13 +1865,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 68,
-      "health": 770,
-      "maxHealth": 770,
-      "mana": 435,
-      "maxMana": 435,
-      "stamina": 435,
-      "maxStamina": 435
+      "level": 69,
+      "health": 780,
+      "maxHealth": 780,
+      "mana": 440,
+      "maxMana": 440,
+      "stamina": 440,
+      "maxStamina": 440
     },
     "inventory": {
       "potion": 1,
@@ -99261,7 +99261,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6495,
+    "exp": 6510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99271,7 +99271,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T21:53:02.203Z",
+    "lastSeen": "2026-10-28T21:54:17.761Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
@@ -99287,7 +99287,8 @@
       "intro": 1793224212599,
       "setintro": 1793224197412,
       "welcome": 1793224307133,
-      "setgoodbye": 1793224382321
+      "setgoodbye": 1793224382321,
+      "goodbye": 1793224457765
     },
     "clanId": null,
     "isRegistered": false,
@@ -129824,7 +129825,7 @@
   "6285833678556": {
     "jid": "6285833678556",
     "rpg": {},
-    "exp": 225,
+    "exp": 150,
     "energi": 99999
   },
   "6281997507827": {
