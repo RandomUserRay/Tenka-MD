@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-28T22:30:34.745Z",
+    "lastSeen": "2026-10-28T22:49:31.878Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000168084,
+    "exp": 9000168159,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -133765,8 +133765,15 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 1530,
-    "energi": 99999
+    "exp": 1560,
+    "energi": 99998,
+    "name": "Matias Torres Ar-Rasyid",
+    "lastSeen": "2026-10-28T22:49:14.777Z",
+    "cooldowns": {
+      "play": 1793227773551
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6285775936322": {
     "jid": "6285775936322",
@@ -134613,7 +134620,7 @@
   "628888781231": {
     "jid": "628888781231",
     "rpg": {},
-    "exp": 7947,
+    "exp": 7977,
     "name": "Noshi or Nala",
     "lastSeen": "2026-10-27T13:56:16.226Z",
     "energi": 99999,
