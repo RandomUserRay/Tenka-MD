@@ -3968,7 +3968,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27535,
+    "exp": 27520,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -97082,7 +97082,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29678,
+    "exp": 29693,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99261,10 +99261,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6690,
+    "exp": 6780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99274,9 +99274,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T22:12:33.630Z",
+    "lastSeen": "2026-10-28T22:47:30.634Z",
     "cooldowns": {
-      "play": 1790190099214,
+      "play": 1793227663445,
       "menu": 1793223831590,
       "menucat": 1790198386832,
       "cekfemboy": 1791849443945,
@@ -103127,14 +103127,14 @@
     "access": []
   },
   "628981194866": {
-    "name": "<°[✧]°『𝑨𝒖𝒇𝒂☆𝑱𝒖𝒏𝒊𝒐𝒓』°[✿]°>",
-    "lastSeen": "2026-10-28T22:48:31.464Z",
+    "name": "idk...?",
+    "lastSeen": "2026-10-12T12:43:37.839Z",
     "jid": "628981194866",
     "number": "628981194866",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23209,
+    "exp": 23179,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103145,8 +103145,8 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1793227713628,
-      "d": 1793227698384,
+      "afk": 1791809020835,
+      "d": 1791709204036,
       "mutegc": 1788165687980,
       "ytmp4": 1791286295831,
       "me": 1789226230570,
@@ -103243,8 +103243,8 @@
       "iron": 1
     },
     "access": [],
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 36,
+    "lastActiveDate": "12/10/2026",
+    "activeDays": 35,
     "fun": {
       "tembakTarget": "6285240302212@s.whatsapp.net",
       "tembakCount": 1,
@@ -127657,17 +127657,16 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1440,
+    "exp": 1365,
     "energi": 99999,
-    "name": "озорной свет",
-    "lastSeen": "2026-10-28T22:48:46.740Z",
+    "name": "arsa_picture",
+    "lastSeen": "2026-10-11T09:47:58.307Z",
     "cooldowns": {
       "lyrics": 1791710194705,
-      "getpp": 1791712079519,
-      "d": 1793227725715
+      "getpp": 1791712079519
     },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 2
+    "lastActiveDate": "11/10/2026",
+    "activeDays": 1
   },
   "6281392627443": {
     "jid": "6281392627443",
@@ -129739,7 +129738,7 @@
       "stamina": 105,
       "bank": 0
     },
-    "exp": 17130,
+    "exp": 17430,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T21:31:04.489Z",
@@ -129820,17 +129819,17 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31938,
-    "energi": 100030,
+    "exp": 32073,
+    "energi": 100029,
     "koin": 16763,
     "name": "botakgokss",
-    "lastSeen": "2026-10-28T22:43:56.306Z",
+    "lastSeen": "2026-10-28T22:48:52.596Z",
     "cooldowns": {
       "teka": 1793227219706,
       "tebaklirik": 1793205091466,
       "femboy": 1793217572842,
       "tekateki": 1793226531702,
-      "play": 1793227124350,
+      "play": 1793227747203,
       "tebakkata": 1793227265431
     },
     "lastActiveDate": "29/10/2026",
@@ -132670,7 +132669,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 9474,
+    "exp": 9429,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-28T21:35:39.031Z",
     "cooldowns": {
@@ -134614,7 +134613,7 @@
   "628888781231": {
     "jid": "628888781231",
     "rpg": {},
-    "exp": 7932,
+    "exp": 7947,
     "name": "Noshi or Nala",
     "lastSeen": "2026-10-27T13:56:16.226Z",
     "energi": 99999,
@@ -135059,7 +135058,7 @@
   "6285124381870": {
     "jid": "6285124381870",
     "rpg": {},
-    "exp": 180,
+    "exp": 165,
     "name": "✨『▒ΣЯΔ▒』✨",
     "lastSeen": "2026-10-28T14:05:38.578Z",
     "cooldowns": {
