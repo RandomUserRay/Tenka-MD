@@ -97313,7 +97313,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 48908,
+    "exp": 48923,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99512,7 +99512,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23310,
+    "exp": 23325,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122711,7 +122711,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11610,
+    "exp": 11625,
     "energi": 99993,
     "name": "Noah",
     "lastSeen": "2026-10-27T17:33:40.488Z",
@@ -135622,10 +135622,5 @@
     "jid": "6282140105023",
     "rpg": {},
     "exp": 90
-  },
-  "6285974359896": {
-    "jid": "6285974359896",
-    "rpg": {},
-    "exp": 15
   }
 }
