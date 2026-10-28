@@ -99264,7 +99264,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6975,
+    "exp": 6990,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129820,7 +129820,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32433,
+    "exp": 32448,
     "energi": 100029,
     "koin": 16763,
     "name": "botakgokss",
@@ -129845,8 +129845,11 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 750,
-    "energi": 99999
+    "exp": 765,
+    "energi": 99998,
+    "name": "Savan",
+    "lastSeen": "2026-10-28T23:05:37.082Z",
+    "cooldowns": {}
   },
   "60148092084": {
     "jid": "60148092084",
@@ -133766,7 +133769,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1785,
     "energi": 99997,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-10-28T23:04:55.124Z",
