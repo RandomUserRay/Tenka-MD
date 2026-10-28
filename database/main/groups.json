@@ -47327,8 +47327,8 @@
         "name": "Sins keren"
       },
       "6285817456389@s.whatsapp.net": {
-        "count": 55,
-        "lastChat": 1793224675680,
+        "count": 57,
+        "lastChat": 1793224784197,
         "name": "kitsune meru"
       },
       "6285284891404@s.whatsapp.net": {
@@ -47368,6 +47368,7 @@
     "welcome": true,
     "goodbye": true,
     "leave": true,
-    "notifSholat": true
+    "notifSholat": true,
+    "notifOpenGroup": true
   }
 }
