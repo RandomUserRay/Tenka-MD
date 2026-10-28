@@ -134792,14 +134792,15 @@
   "6289524326679": {
     "jid": "6289524326679",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 999999,
     "name": "Sylphiette Greyrat",
-    "lastSeen": "2026-10-28T05:34:57.200Z",
+    "lastSeen": "2026-10-28T05:35:22.154Z",
     "cooldowns": {
       "ytmp4": 1793165637622,
       "menu": 1793165689019,
-      "menucat": 1793165697378
+      "menucat": 1793165697378,
+      "totalfitur": 1793165722697
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1
