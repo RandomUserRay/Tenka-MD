@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-28T09:28:46.619Z",
+    "lastSeen": "2026-10-28T09:27:21.850Z",
     "jid": "6285755379245",
     "number": "6285755379245",
-    "energi": 9999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1009000278909,
+    "exp": 1009000278759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -1850,7 +1850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704109,
+    "exp": 704184,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -135280,7 +135280,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10800,
+    "exp": 10815,
     "name": "!𝔜𝔢𝔰",
     "lastSeen": "2026-10-27T12:49:23.518Z",
     "energi": 99999
@@ -135471,15 +135471,16 @@
   "6289676340345": {
     "jid": "6289676340345",
     "rpg": {},
-    "exp": 3240,
+    "exp": 3270,
     "name": "botakgokss",
     "lastSeen": "2026-10-28T09:28:19.178Z",
     "energi": 999998,
     "cooldowns": {
-      "play": 1793104270715
+      "play": 1793104270715,
+      "smeme": 1793179706380
     },
-    "lastActiveDate": "27/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 2
   },
   "6281380053785": {
     "jid": "6281380053785",
@@ -135731,7 +135732,7 @@
   "6281927083706": {
     "jid": "6281927083706",
     "rpg": {},
-    "exp": 240
+    "exp": 285
   },
   "6283893839600": {
     "name": "I Lost Someone",
