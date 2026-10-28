@@ -135048,14 +135048,18 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {
-      "stamina": 70
+      "stamina": 60,
+      "bank": 0
     },
-    "exp": 1207,
+    "exp": 1722,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-28T13:34:01.414Z",
+    "lastSeen": "2026-10-28T13:34:09.422Z",
     "cooldowns": {
       "afk": 1793013713559,
-      "cekfemboy": 1793194162480
+      "cekfemboy": 1793194162480,
+      "gojek": 1793194442640,
+      "paket": 1793194444969,
+      "bank": 1793194449553
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 2,
