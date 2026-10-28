@@ -1850,7 +1850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 704109,
+    "exp": 704184,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -135476,10 +135476,11 @@
     "lastSeen": "2026-10-28T09:28:19.178Z",
     "energi": 999998,
     "cooldowns": {
-      "play": 1793104270715
+      "play": 1793104270715,
+      "smeme": 1793179706380
     },
-    "lastActiveDate": "27/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 2
   },
   "6281380053785": {
     "jid": "6281380053785",
