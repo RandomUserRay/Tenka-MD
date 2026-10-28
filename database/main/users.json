@@ -129279,8 +129279,15 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {},
-    "exp": 6480,
-    "energi": 99999
+    "exp": 6555,
+    "energi": 99999,
+    "name": "Devvarajha",
+    "lastSeen": "2026-10-28T19:51:21.523Z",
+    "cooldowns": {
+      "mutegc": 1793217082639
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6285168650186": {
     "name": "pratama",
