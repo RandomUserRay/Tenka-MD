@@ -1229,7 +1229,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2595,
+    "exp": 2580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -132262,7 +132262,7 @@
   },
   "6282245345914": {
     "name": "RafzanXD �",
-    "lastSeen": "2026-10-28T13:52:00.404Z",
+    "lastSeen": "2026-10-28T13:52:32.385Z",
     "jid": "6282245345914",
     "rpg": {
       "level": 3,
@@ -132270,19 +132270,19 @@
       "luck": 13,
       "health": 105,
       "mana": 53,
-      "bank": 159638,
+      "bank": 207219,
       "maxHealth": 120,
       "maxMana": 110,
       "maxStamina": 110
     },
-    "exp": 21585,
+    "exp": 21615,
     "cooldowns": {
       "menu": 1793161187356,
       "me": 1793195443835,
       "work": 1793195350640,
       "gacha": 1793195368964,
       "tt": 1792899725524,
-      "judi": 1792904974308,
+      "judi": 1793195534179,
       "training": 1793195399551,
       "gojek": 1793195340433,
       "topkoin": 1792900040941,
@@ -132308,8 +132308,8 @@
     "lastActiveDate": "28/10/2026",
     "activeDays": 3,
     "registeredAt": 1792899251718,
-    "koin": 37581,
-    "energi": 99996,
+    "koin": 0,
+    "energi": 99995,
     "clanId": "Kit Community"
   },
   "62895321723163": {
@@ -133939,7 +133939,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 8685,
+    "exp": 8670,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-27T14:17:50.445Z",
