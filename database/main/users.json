@@ -106435,10 +106435,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59745,
+    "exp": 59760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106448,7 +106448,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T03:51:24.476Z",
+    "lastSeen": "2026-10-28T03:56:46.259Z",
     "cooldowns": {
       "menu": 1792921706806,
       "owner": 1792921767529,
@@ -106522,7 +106522,8 @@
       "brathd": 1792943042629,
       "bratgojo": 1792980217215,
       "bratwhite": 1792992331424,
-      "tebakhewan": 1792992365688
+      "tebakhewan": 1792992365688,
+      "s": 1793159807656
     },
     "clanId": null,
     "isRegistered": false,
