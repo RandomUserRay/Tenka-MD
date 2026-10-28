@@ -129324,10 +129324,18 @@
   },
   "6289676340345": {
     "jid": "6289676340345",
-    "rpg": {},
-    "exp": 9590,
-    "energi": 44,
-    "koin": 4423,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 12268,
+    "energi": 48,
+    "koin": 5570,
     "name": "botakgokss",
     "lastSeen": "2026-10-28T16:31:31.253Z",
     "cooldowns": {
@@ -129345,7 +129353,7 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 1886,
+    "exp": 1916,
     "name": "Baim/gay",
     "lastSeen": "2026-10-28T16:31:37.336Z",
     "cooldowns": {
