@@ -3963,12 +3963,12 @@
   },
   "6282113593058": {
     "jid": "6282113593058",
-    "name": "UnVers-Official",
+    "name": "-manusiadiPerbudak-",
     "number": "6282113593058",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27490,
+    "exp": 27520,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -3977,7 +3977,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-28T11:32:57.499Z",
+    "lastSeen": "2026-10-28T22:45:12.130Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -3991,7 +3991,8 @@
       "status": 1780204455044,
       "mining": 1780204215373,
       "level": 1780205014465,
-      "mine": 1780291765178
+      "mine": 1780291765178,
+      "lyrics": 1793227517342
     },
     "clanId": null,
     "isRegistered": false,
@@ -4017,7 +4018,9 @@
       "coal": 1
     },
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6287766635415": {
     "jid": "6287766635415",
@@ -127654,7 +127657,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 1320,
+    "exp": 1365,
     "energi": 99999,
     "name": "arsa_picture",
     "lastSeen": "2026-10-11T09:47:58.307Z",
@@ -129735,7 +129738,7 @@
       "stamina": 105,
       "bank": 0
     },
-    "exp": 17355,
+    "exp": 17130,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-10-28T21:31:04.489Z",
@@ -129816,18 +129819,18 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 35197,
-    "energi": 100041,
-    "koin": 19672,
+    "exp": 31938,
+    "energi": 100030,
+    "koin": 16763,
     "name": "botakgokss",
-    "lastSeen": "2026-10-28T22:45:28.658Z",
+    "lastSeen": "2026-10-28T22:43:56.306Z",
     "cooldowns": {
       "teka": 1793227219706,
       "tebaklirik": 1793205091466,
       "femboy": 1793217572842,
       "tekateki": 1793226531702,
       "play": 1793227124350,
-      "tebakkata": 1793227528832
+      "tebakkata": 1793227265431
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 2
