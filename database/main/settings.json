@@ -628,10 +628,12 @@
       "sender": "6282245345914@s.whatsapp.net",
       "chatJid": "120363427479297643@g.us",
       "jadwal": [
-        "13:15"
+        "06:00",
+        "13:12",
+        "17:00"
       ],
       "menu": "mangan apa wae sing penting wareg,17.20 iwak tempe",
-      "enabled": false,
+      "enabled": true,
       "lastSent": {},
       "createdAt": 1793161349474
     }
