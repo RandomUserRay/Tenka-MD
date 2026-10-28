@@ -33016,8 +33016,8 @@
         "name": "Akbar"
       },
       "6285284891404@s.whatsapp.net": {
-        "count": 2438,
-        "lastChat": 1793153580960,
+        "count": 2437,
+        "lastChat": 1793153557625,
         "name": "Devvarajha"
       },
       "628981225271@s.whatsapp.net": {
@@ -51479,5 +51479,24 @@
     },
     "jid": "120363430658479734@g.us",
     "name": "P"
+  },
+  "120363427479297643@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363427479297643@g.us",
+    "chatStats": {
+      "6287794785404@s.whatsapp.net": {
+        "count": 4,
+        "lastChat": 1793153555806,
+        "name": "озорной свет"
+      },
+      "6285974359896@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1793153589021,
+        "name": "FURZYX"
+      }
+    },
+    "name": "<[Grup khusus bot]>"
   }
 }
