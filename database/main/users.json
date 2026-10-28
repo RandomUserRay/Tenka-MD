@@ -97315,7 +97315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49733,
+    "exp": 49718,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99514,7 +99514,7 @@
     "energi": 9998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24405,
+    "exp": 24375,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126011,7 +126011,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 2220,
+    "exp": 2205,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-10-25T06:36:52.007Z",
@@ -130114,7 +130114,7 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 14779,
+    "exp": 14824,
     "energi": 99999,
     "name": "EQUINOX",
     "lastSeen": "2026-10-26T11:11:56.460Z",
@@ -130343,7 +130343,7 @@
       "spouse": null,
       "marriedAt": null
     },
-    "exp": 19400780230,
+    "exp": 19400780080,
     "energi": 999997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-27T17:08:38.950Z",
@@ -135629,13 +135629,16 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 105,
+    "exp": 150,
     "name": "FURZYX",
-    "lastSeen": "2026-10-28T03:23:57.385Z",
+    "lastSeen": "2026-10-28T03:25:22.335Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793157813915,
-      "menucat": 1793157838365
+      "menucat": 1793157838365,
+      "kaya": 1793157873374,
+      "miskin": 1793157904995,
+      "sultan": 1793157922447
     },
     "lastActiveDate": "28/10/2026",
     "activeDays": 1
