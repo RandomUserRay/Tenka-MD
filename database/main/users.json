@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-29T01:12:14.663Z",
+    "lastSeen": "2026-10-29T05:18:34.338Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000169359,
+    "exp": 9000169434,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -129749,17 +129749,18 @@
       "stamina": 105,
       "bank": 0
     },
-    "exp": 19155,
+    "exp": 19305,
     "energi": 99998,
     "name": "Devvarajha",
-    "lastSeen": "2026-10-29T04:42:24.498Z",
+    "lastSeen": "2026-10-29T05:18:44.953Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1793217259001,
       "bank": 1793222937102,
       "me": 1793222982922,
       "imut": 1793223065917,
-      "s": 1793248947541
+      "s": 1793248947541,
+      "status": 1793251126892
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 1,
