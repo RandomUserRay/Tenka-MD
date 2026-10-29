@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 680259,
+    "exp": 680334,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -135163,5 +135163,10 @@
     "jid": "6283184784718",
     "rpg": {},
     "exp": 45
+  },
+  "62895414825483": {
+    "jid": "62895414825483",
+    "rpg": {},
+    "exp": 15
   }
 }
