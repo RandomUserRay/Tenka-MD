@@ -7187,7 +7187,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 337460,
+    "exp": 337445,
     "level": 1,
     "koin": 20000,
     "unlockedFeatures": [],
@@ -91217,7 +91217,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49035,
+    "exp": 49020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94763,7 +94763,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 660,
+    "exp": 645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122362,7 +122362,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2880,
+    "exp": 2865,
     "energi": 99994,
     "name": "Noah",
     "lastSeen": "2026-10-29T08:00:42.449Z",
@@ -125578,7 +125578,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1515,
+    "exp": 1455,
     "energi": 99996,
     "name": "yeas",
     "lastSeen": "2026-10-29T11:08:32.971Z",
@@ -132721,7 +132721,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 16105,
+    "exp": 16120,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-29T09:33:24.414Z",
     "cooldowns": {
@@ -135251,6 +135251,11 @@
   },
   "6287767343862": {
     "jid": "6287767343862",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282210240957": {
+    "jid": "6282210240957",
     "rpg": {},
     "exp": 15
   },
