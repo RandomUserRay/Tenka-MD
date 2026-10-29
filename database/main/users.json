@@ -99276,7 +99276,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9030,
+    "exp": 9045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99286,13 +99286,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T17:49:53.623Z",
+    "lastSeen": "2026-10-29T18:38:13.384Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
       "menucat": 1790198386832,
       "cekfemboy": 1791849443945,
-      "femboy": 1793223156744,
+      "femboy": 1793299099062,
       "s": 1791804368738,
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517,
@@ -99323,8 +99323,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 9
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -135598,14 +135598,15 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-10-29T18:35:43.397Z",
+    "lastSeen": "2026-10-29T18:38:22.715Z",
     "cooldowns": {
       "menu": 1793298897656,
       "allmenu": 1793298911907,
-      "menucat": 1793298943687
+      "menucat": 1793298943687,
+      "cekmesum": 1793299103102
     },
     "lastActiveDate": "30/10/2026",
     "activeDays": 1
