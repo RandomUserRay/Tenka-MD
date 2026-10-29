@@ -13025,7 +13025,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25305,
+    "exp": 25320,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129792,7 +129792,7 @@
     "lastSeen": "2026-10-29T17:15:04.619Z",
     "cooldowns": {
       "mutegc": 1793217082639,
-      "femboy": 1793217259001,
+      "femboy": 1793294111668,
       "bank": 1793222937102,
       "me": 1793222982922,
       "imut": 1793223065917,
@@ -129802,8 +129802,8 @@
       "slot": 1793255031666,
       "ship": 1793290920307
     },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 2,
     "registeredAt": 1793222982015,
     "koin": 79733
   },
