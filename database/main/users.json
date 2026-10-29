@@ -9827,7 +9827,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55500,
+    "exp": 55545,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90850,7 +90850,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 900,
+    "exp": 915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97085,7 +97085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31118,
+    "exp": 31148,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -122361,7 +122361,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2565,
+    "exp": 2580,
     "energi": 99994,
     "name": "Noah",
     "lastSeen": "2026-10-29T08:00:42.449Z",
@@ -129827,14 +129827,15 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 1290,
-    "energi": 99982,
+    "exp": 1305,
+    "energi": 99980,
     "name": "Nero Aditya",
-    "lastSeen": "2026-10-29T10:37:53.580Z",
+    "lastSeen": "2026-10-29T11:03:39.539Z",
     "cooldowns": {
       "pin": 1793256510666,
       "menu": 1793256374582,
-      "ai": 1793270282880
+      "ai": 1793270282880,
+      "tt": 1793271828847
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 1
@@ -134439,7 +134440,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 2598,
+    "exp": 2583,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-29T08:59:17.097Z",
     "cooldowns": {
@@ -134510,7 +134511,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 930,
+    "exp": 945,
     "energi": 99999
   },
   "6285248334834": {
@@ -134699,7 +134700,7 @@
   "628888781231": {
     "jid": "628888781231",
     "rpg": {},
-    "exp": 8517,
+    "exp": 8532,
     "name": "Noshi or Nala",
     "lastSeen": "2026-10-27T13:56:16.226Z",
     "energi": 99999,
