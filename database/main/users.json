@@ -90943,7 +90943,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 510,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90953,11 +90953,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T13:02:57.969Z",
+    "lastSeen": "2026-10-29T18:37:25.803Z",
     "cooldowns": {
       "cekfemboy": 1786871220238,
       "terima": 1786871530739,
-      "getpp": 1786875686408
+      "getpp": 1786875686408,
+      "cekmesum": 1793299046056
     },
     "clanId": null,
     "isRegistered": false,
@@ -90970,7 +90971,9 @@
     "fun": {
       "pasangan": "6289677467174@s.whatsapp.net",
       "jadiPacar": 1786871525605
-    }
+    },
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 1
   },
   "6285849062169": {
     "jid": "6285849062169",
