@@ -6403,7 +6403,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 35971,
+    "exp": 36016,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9388,14 +9388,14 @@
     "fun": {}
   },
   "6287840583558": {
-    "name": "Truman",
-    "lastSeen": "2026-09-21T04:18:40.278Z",
+    "name": "kr",
+    "lastSeen": "2026-10-29T08:48:38.826Z",
     "jid": "6287840583558",
     "number": "6287840583558",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 675,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9406,7 +9406,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "s": 1788360258641,
-      "menu": 1783865359774,
+      "menu": 1793263711601,
       "play": 1789964328160,
       "remini": 1780911257118,
       "p": 1782059290275,
@@ -9414,7 +9414,7 @@
       "tovid": 1783421986774,
       "hytamkan": 1783865451239,
       "m": 1784899013437,
-      "tt": 1788362853096
+      "tt": 1793263725788
     },
     "clanId": null,
     "isRegistered": false,
@@ -9433,8 +9433,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 3
   },
   "6283119584578": {
     "jid": "6283119584578",
@@ -135141,7 +135141,7 @@
   "6285124381870": {
     "jid": "6285124381870",
     "rpg": {},
-    "exp": 195,
+    "exp": 180,
     "name": "✨『▒ΣЯΔ▒』✨",
     "lastSeen": "2026-10-28T14:05:38.578Z",
     "cooldowns": {
