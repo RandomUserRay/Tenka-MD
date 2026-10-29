@@ -131680,7 +131680,7 @@
   },
   "62895321723163": {
     "name": "andika Protogen E3",
-    "lastSeen": "2026-10-29T03:08:41.555Z",
+    "lastSeen": "2026-10-29T03:09:02.358Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 110,
@@ -131693,9 +131693,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20265,
+    "exp": 21636,
     "cooldowns": {
-      "gacha": 1793231360278,
+      "gacha": 1793243342508,
       "judi": 1793007061993,
       "work": 1793243306639,
       "gojek": 1793194193180,
@@ -131713,7 +131713,7 @@
       "afk": 1793242616128,
       "level": 1793243321736
     },
-    "energi": 99995,
+    "energi": 99994,
     "lastActiveDate": "29/10/2026",
     "activeDays": 4,
     "koin": 209518,
@@ -134400,19 +134400,21 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 1530,
+    "exp": 1788,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-29T03:08:56.418Z",
     "cooldowns": {
       "afk": 1793242568894,
       "cekfemboy": 1793194162480,
       "ytmp4": 1793240692361,
-      "me": 1793243245319
+      "me": 1793243245319,
+      "work": 1793243339672
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 3,
     "energi": 99997,
-    "registeredAt": 1793243244036
+    "registeredAt": 1793243244036,
+    "koin": 2586
   },
   "6285842889332": {
     "name": "arsaputra",
