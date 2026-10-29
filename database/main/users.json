@@ -134887,7 +134887,11 @@
     "energi": 99998,
     "name": "nyrm",
     "lastSeen": "2026-10-29T06:46:58.753Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793256520760
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6283845883787": {
     "jid": "6283845883787",
