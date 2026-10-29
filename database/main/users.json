@@ -3968,7 +3968,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27580,
+    "exp": 27595,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -131680,24 +131680,24 @@
   },
   "62895321723163": {
     "name": "andika Protogen E3",
-    "lastSeen": "2026-10-29T03:08:01.012Z",
+    "lastSeen": "2026-10-29T03:08:21.422Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 47,
+      "stamina": 110,
       "bank": 0,
       "luck": 7,
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 105,
-      "mana": 53
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110
     },
-    "exp": 19965,
+    "exp": 20250,
     "cooldowns": {
       "gacha": 1793231360278,
       "judi": 1793007061993,
-      "work": 1793231278530,
+      "work": 1793243306639,
       "gojek": 1793194193180,
       "bank": 1793194209431,
       "casino": 1793007079463,
@@ -131715,7 +131715,7 @@
     "energi": 99995,
     "lastActiveDate": "29/10/2026",
     "activeDays": 4,
-    "koin": 206814,
+    "koin": 209518,
     "registeredAt": 1793195477669
   },
   "6289510621268": {
