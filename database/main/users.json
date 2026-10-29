@@ -97085,7 +97085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30443,
+    "exp": 30458,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -127664,7 +127664,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2655,
+    "exp": 2625,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -132710,7 +132710,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 15595,
+    "exp": 15580,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-29T03:18:00.338Z",
     "cooldowns": {
@@ -132883,15 +132883,8 @@
   "6285946202445": {
     "jid": "6285946202445",
     "rpg": {},
-    "exp": 195,
-    "energi": 99997,
-    "name": "Cryztalic",
-    "lastSeen": "2026-10-29T07:20:19.102Z",
-    "cooldowns": {
-      "pin": 1793258429967
-    },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 1
+    "exp": 180,
+    "energi": 99999
   },
   "628973669734": {
     "jid": "628973669734",
@@ -134430,9 +134423,9 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 2148,
+    "exp": 2118,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-29T07:20:36.511Z",
+    "lastSeen": "2026-10-29T07:10:21.837Z",
     "cooldowns": {
       "afk": 1793242568894,
       "cekfemboy": 1793194162480,
@@ -134443,7 +134436,7 @@
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 3,
-    "energi": 99994,
+    "energi": 99996,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
