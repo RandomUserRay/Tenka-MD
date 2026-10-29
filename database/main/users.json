@@ -129471,7 +129471,11 @@
     "energi": 99998,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-29T02:43:08.749Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793241802791
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6282191896920": {
     "jid": "6282191896920",
