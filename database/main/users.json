@@ -4056,10 +4056,10 @@
     "jid": "62881023861379",
     "name": "𝐒𝐘𝐍𝐎",
     "number": "62881023861379",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 100905,
+    "exp": 100920,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4068,7 +4068,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-12T23:50:54.592Z",
+    "lastSeen": "2026-10-29T09:55:34.837Z",
     "cooldowns": {
       "cekfemboy": 1791849057480,
       "afk": 1791284553030,
@@ -4143,7 +4143,8 @@
       "mywaifu": 1785247253231,
       "black": 1785420054956,
       "play": 1790595070389,
-      "hd5": 1786316559073
+      "hd5": 1786316559073,
+      "comix": 1793267775484
     },
     "clanId": null,
     "isRegistered": false,
@@ -4172,8 +4173,8 @@
     "access": [],
     "saldo": 0,
     "fun": {},
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 7
   },
   "628988810597": {
     "jid": "628988810597",
@@ -131638,7 +131639,7 @@
   "6282372510762": {
     "jid": "6282372510762",
     "rpg": {},
-    "exp": 3075,
+    "exp": 3060,
     "name": "Haafiz",
     "lastSeen": "2026-10-29T09:10:53.561Z",
     "cooldowns": {
@@ -134438,7 +134439,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 2583,
+    "exp": 2568,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-29T08:59:17.097Z",
     "cooldowns": {
@@ -135240,10 +135241,5 @@
     "jid": "6282310455878",
     "rpg": {},
     "exp": 135
-  },
-  "6285113257836": {
-    "jid": "6285113257836",
-    "rpg": {},
-    "exp": 15
   }
 }
