@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000173484,
+    "exp": 9000173559,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -135526,8 +135526,10 @@
   "6282323874453": {
     "jid": "6282323874453",
     "rpg": {},
-    "exp": 45,
-    "energi": 99999
+    "exp": 60,
+    "energi": 99999,
+    "name": "Arif",
+    "lastSeen": "2026-10-29T17:17:58.263Z"
   },
   "6282297826771": {
     "jid": "6282297826771",
