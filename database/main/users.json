@@ -67702,10 +67702,10 @@
     "jid": "6283135864303",
     "name": "ZIDAN",
     "number": "6283135864303",
-    "energi": 99991,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175806,
+    "exp": 175821,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67720,7 +67720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T13:06:45.230Z",
+    "lastSeen": "2026-10-29T13:07:23.523Z",
     "cooldowns": {
       "afk": 1791788723539,
       "s": 1793258210095,
@@ -67805,7 +67805,7 @@
       "ut": 1790003919981,
       "cekimut": 1790316883475,
       "tekateki": 1790317056268,
-      "pin": 1793279220102
+      "pin": 1793279252921
     },
     "clanId": null,
     "isRegistered": false,
@@ -127684,7 +127684,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 4545,
+    "exp": 4560,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-29T12:28:26.425Z",
