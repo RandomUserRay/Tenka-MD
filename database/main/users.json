@@ -3968,7 +3968,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27595,
+    "exp": 32075,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -3977,7 +3977,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-28T23:58:12.601Z",
+    "lastSeen": "2026-10-29T03:09:23.432Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -3993,7 +3993,8 @@
       "level": 1780205014465,
       "mine": 1780291765178,
       "lyrics": 1793227517342,
-      "pin": 1793230326001
+      "pin": 1793230326001,
+      "daily": 1793243363435
     },
     "clanId": null,
     "isRegistered": false,
@@ -4016,7 +4017,8 @@
       "iron": 4,
       "octopus": 1,
       "fish": 1,
-      "coal": 1
+      "coal": 1,
+      "potion": 3
     },
     "access": [],
     "saldo": 0,
@@ -127658,7 +127660,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2430,
+    "exp": 2460,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -131680,7 +131682,7 @@
   },
   "62895321723163": {
     "name": "andika Protogen E3",
-    "lastSeen": "2026-10-29T03:09:02.358Z",
+    "lastSeen": "2026-10-29T03:09:19.606Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 110,
@@ -131693,7 +131695,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 21651,
+    "exp": 25374,
     "cooldowns": {
       "gacha": 1793243342508,
       "judi": 1793007061993,
@@ -131711,7 +131713,8 @@
       "pin": 1793230380285,
       "rest": 1793231312668,
       "afk": 1793242616128,
-      "level": 1793243321736
+      "level": 1793243321736,
+      "daily": 1793243359608
     },
     "energi": 99994,
     "lastActiveDate": "29/10/2026",
@@ -134401,7 +134404,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 1788,
+    "exp": 1803,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-29T03:08:56.418Z",
     "cooldowns": {
