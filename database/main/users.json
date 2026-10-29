@@ -13349,7 +13349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7260,
+    "exp": 7290,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129846,7 +129846,11 @@
     "koin": 1493,
     "name": "𝐋𝐕𝐑|𝐕𝐌𝐑wlue_sky",
     "lastSeen": "2026-10-29T16:57:28.902Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1793293056581
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6282245345914": {
     "jid": "6282245345914",
