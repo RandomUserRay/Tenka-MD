@@ -106138,10 +106138,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52470,
+    "exp": 52485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -106151,7 +106151,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-24T14:30:13.515Z",
+    "lastSeen": "2026-10-29T11:08:06.410Z",
     "cooldowns": {
       "menu": 1790254988823,
       "owner": 1788775980116,
@@ -106175,7 +106175,7 @@
       "sticker": 1788678158238,
       "antispam": 1790255150752,
       "admin": 1788766651427,
-      "play": 1789534462030,
+      "play": 1793272103807,
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
@@ -106232,8 +106232,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "24/9/2026",
-    "activeDays": 16
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 17
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -129882,7 +129882,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 2280,
+    "exp": 2295,
     "energi": 99998,
     "name": "Savan",
     "lastSeen": "2026-10-29T00:24:23.302Z",
@@ -134992,7 +134992,7 @@
   "6281315878861": {
     "jid": "6281315878861",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 99999
   },
   "6283159038284": {
