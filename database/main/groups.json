@@ -47577,8 +47577,8 @@
         "name": "Sins keren"
       },
       "6285817456389@s.whatsapp.net": {
-        "count": 167,
-        "lastChat": 1793291012173,
+        "count": 168,
+        "lastChat": 1793291063458,
         "name": "kitsune meru"
       },
       "6285284891404@s.whatsapp.net": {
@@ -47907,8 +47907,8 @@
         "name": "val"
       },
       "6281283179005@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1793291000552,
+        "count": 11,
+        "lastChat": 1793291062908,
         "name": "R.F.K"
       },
       "628137531801@s.whatsapp.net": {
@@ -47925,7 +47925,10 @@
     "leave": true,
     "notifSholat": true,
     "notifOpenGroup": true,
-    "notifCloseGroup": true
+    "notifCloseGroup": true,
+    "mutedMembers": [
+      "628137531801@s.whatsapp.net"
+    ]
   },
   "120363427479297643@g.us": {
     "chatStats": {
