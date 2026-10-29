@@ -67702,10 +67702,10 @@
     "jid": "6283135864303",
     "name": "ZIDAN",
     "number": "6283135864303",
-    "energi": 99993,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175791,
+    "exp": 175806,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67720,7 +67720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T13:05:44.330Z",
+    "lastSeen": "2026-10-29T13:06:45.230Z",
     "cooldowns": {
       "afk": 1791788723539,
       "s": 1793258210095,
@@ -103143,7 +103143,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23599,
+    "exp": 23614,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127684,7 +127684,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 4530,
+    "exp": 4545,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-29T12:28:26.425Z",
@@ -129494,7 +129494,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "energi": 99991,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-29T12:34:39.425Z",
@@ -135086,9 +135086,9 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 720,
+    "exp": 735,
     "name": "FURZYX",
-    "lastSeen": "2026-10-29T13:06:31.276Z",
+    "lastSeen": "2026-10-29T13:06:52.992Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793158021482,
@@ -135405,6 +135405,6 @@
   "6285776260761": {
     "jid": "6285776260761",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   }
 }
