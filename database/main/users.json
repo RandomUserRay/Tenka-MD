@@ -3968,7 +3968,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32195,
+    "exp": 32210,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -127664,7 +127664,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 2655,
+    "exp": 2670,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -129819,14 +129819,14 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 855,
-    "energi": 99986,
+    "exp": 840,
+    "energi": 99987,
     "name": "Nero Aditya",
-    "lastSeen": "2026-10-29T07:21:45.230Z",
+    "lastSeen": "2026-10-29T06:55:58.073Z",
     "cooldowns": {
       "pin": 1793256510666,
       "menu": 1793256374582,
-      "ai": 1793258518566
+      "ai": 1793256962966
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 1
@@ -132710,7 +132710,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 15625,
+    "exp": 15685,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-29T03:18:00.338Z",
     "cooldowns": {
@@ -134430,9 +134430,9 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 2193,
+    "exp": 2238,
     "name": "Marshal Protogen E1",
-    "lastSeen": "2026-10-29T07:20:36.511Z",
+    "lastSeen": "2026-10-29T07:22:18.720Z",
     "cooldowns": {
       "afk": 1793242568894,
       "cekfemboy": 1793194162480,
@@ -134444,7 +134444,7 @@
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 3,
-    "energi": 99994,
+    "energi": 99992,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
