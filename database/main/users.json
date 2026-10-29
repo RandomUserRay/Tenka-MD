@@ -9821,13 +9821,13 @@
   },
   "6281310184404": {
     "name": "Elara-mao",
-    "lastSeen": "2026-10-29T05:35:57.703Z",
+    "lastSeen": "2026-10-29T11:18:03.077Z",
     "jid": "6281310184404",
     "number": "6281310184404",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56025,
+    "exp": 56055,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9866,7 +9866,8 @@
       "cekyandere": 1790251333742,
       "ganteng": 1790327492153,
       "rfemboyvid": 1791287286055,
-      "femboysvid": 1791881622508
+      "femboysvid": 1791881622508,
+      "naked": 1793272706536
     },
     "clanId": null,
     "isRegistered": false,
@@ -9888,8 +9889,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 11
   },
   "6285779062752": {
     "jid": "6285779062752",
@@ -122361,7 +122362,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 2730,
+    "exp": 2760,
     "energi": 99994,
     "name": "Noah",
     "lastSeen": "2026-10-29T08:00:42.449Z",
@@ -132720,7 +132721,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 16120,
+    "exp": 16105,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-29T09:33:24.414Z",
     "cooldowns": {
@@ -135253,8 +135254,8 @@
     "rpg": {},
     "exp": 15
   },
-  "6282210240957": {
-    "jid": "6282210240957",
+  "6285726131403": {
+    "jid": "6285726131403",
     "rpg": {},
     "exp": 15
   }
