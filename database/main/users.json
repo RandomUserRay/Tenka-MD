@@ -134753,8 +134753,16 @@
   },
   "628888781231": {
     "jid": "628888781231",
-    "rpg": {},
-    "exp": 9957,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10002,
     "name": "Noshi or Nala",
     "lastSeen": "2026-10-27T13:56:16.226Z",
     "energi": 99999,
