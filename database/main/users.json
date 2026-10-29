@@ -99273,7 +99273,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8460,
+    "exp": 8475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99283,7 +99283,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T16:18:10.533Z",
+    "lastSeen": "2026-10-29T16:24:23.458Z",
     "cooldowns": {
       "play": 1790190099214,
       "menu": 1793223831590,
@@ -99308,7 +99308,8 @@
       "swgc": 1793224885685,
       "d": 1793224903584,
       "allmenu": 1793225554685,
-      "afk": 1793290694403
+      "afk": 1793290694403,
+      "mutemember": 1793291064756
     },
     "clanId": null,
     "isRegistered": false,
@@ -135517,7 +135518,7 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   },
   "628137531801": {
     "jid": "628137531801",
