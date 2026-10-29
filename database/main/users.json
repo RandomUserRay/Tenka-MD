@@ -67702,10 +67702,10 @@
     "jid": "6283135864303",
     "name": "ZIDAN",
     "number": "6283135864303",
-    "energi": 99989,
+    "energi": 99988,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175821,
+    "exp": 175836,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67720,10 +67720,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T13:07:23.523Z",
+    "lastSeen": "2026-10-29T13:07:39.980Z",
     "cooldowns": {
       "afk": 1791788723539,
-      "s": 1793258210095,
+      "s": 1793279260303,
       "play": 1793278769772,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -135390,7 +135390,7 @@
   "6285751778143": {
     "jid": "6285751778143",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   },
   "6282229908596": {
     "jid": "6282229908596",
