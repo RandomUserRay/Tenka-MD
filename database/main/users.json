@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-29T11:52:12.639Z",
+    "lastSeen": "2026-10-29T12:26:13.267Z",
     "jid": "6285755379245",
     "number": "6285755379245",
-    "energi": 999999,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000173109,
+    "exp": 9000173259,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -27290,7 +27290,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 721188,
+    "exp": 721263,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -27299,7 +27299,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T12:16:50.644Z",
+    "lastSeen": "2026-10-29T12:25:52.662Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -27503,7 +27503,8 @@
       "tovideo": 1788348764568,
       "jadwaltidur": 1789679648300,
       "jadwalmakan": 1789679749064,
-      "putus": 1791648041073
+      "putus": 1791648041073,
+      "p": 1793276754047
     },
     "clanId": null,
     "isRegistered": false,
@@ -102649,7 +102650,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 630,
+    "exp": 660,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103142,7 +103143,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23314,
+    "exp": 23299,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124720,16 +124721,11 @@
   "6281527133187": {
     "jid": "6281527133187",
     "rpg": {},
-    "exp": 135,
+    "exp": 75,
     "energi": 99999,
     "name": "ALG",
-    "lastSeen": "2026-10-29T12:26:16.824Z",
-    "cooldowns": {
-      "apakah": 1793276752291,
-      "bagaimana": 1793276764244
-    },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 1
+    "lastSeen": "2026-10-29T12:07:31.291Z",
+    "cooldowns": {}
   },
   "6281343117661": {
     "jid": "6281343117661",
@@ -127676,7 +127672,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 4095,
+    "exp": 4065,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -129772,7 +129768,7 @@
       "stamina": 115,
       "bank": 0
     },
-    "exp": 36810,
+    "exp": 36960,
     "energi": 99997,
     "name": "Devvarajha",
     "lastSeen": "2026-10-29T06:23:49.026Z",
@@ -132137,17 +132133,17 @@
   },
   "6288242508192": {
     "name": "Rasya",
-    "lastSeen": "2026-10-29T12:26:06.272Z",
+    "lastSeen": "2026-10-25T14:03:49.405Z",
     "jid": "6288242508192",
     "rpg": {},
-    "exp": 1230,
+    "exp": 1215,
     "cooldowns": {
-      "menu": 1793276769978,
+      "menu": 1792936066686,
       "tebaknegara": 1792936844942,
       "tebakbendera": 1792937030117
     },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 2,
+    "lastActiveDate": "25/10/2026",
+    "activeDays": 1,
     "energi": 99999
   },
   "6282381293756": {
@@ -135264,13 +135260,13 @@
     "rpg": {},
     "exp": 15
   },
-  "6282210240957": {
-    "jid": "6282210240957",
+  "6285726131403": {
+    "jid": "6285726131403",
     "rpg": {},
     "exp": 15
   },
-  "6285726131403": {
-    "jid": "6285726131403",
+  "6282210240957": {
+    "jid": "6282210240957",
     "rpg": {},
     "exp": 15
   },
