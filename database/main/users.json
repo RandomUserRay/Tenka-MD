@@ -4056,10 +4056,10 @@
     "jid": "62881023861379",
     "name": "𝐒𝐘𝐍𝐎",
     "number": "62881023861379",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 100905,
+    "exp": 100920,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -4068,7 +4068,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-12T23:50:54.592Z",
+    "lastSeen": "2026-10-29T09:55:34.837Z",
     "cooldowns": {
       "cekfemboy": 1791849057480,
       "afk": 1791284553030,
@@ -135240,10 +135240,5 @@
     "jid": "6282310455878",
     "rpg": {},
     "exp": 135
-  },
-  "6285113257836": {
-    "jid": "6285113257836",
-    "rpg": {},
-    "exp": 15
   }
 }
