@@ -3073,7 +3073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 718946,
+    "exp": 718976,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4488,7 +4488,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233585,
+    "exp": 233600,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -97396,7 +97396,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5685,
+    "exp": 5700,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124767,7 +124767,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 315,
+    "exp": 345,
     "energi": 99999
   },
   "6285881075054": {
@@ -129473,7 +129473,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 585,
+    "exp": 570,
     "energi": 99997,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-10-29T03:02:19.408Z",
@@ -129819,8 +129819,16 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 345,
-    "energi": 99999
+    "exp": 405,
+    "energi": 99995,
+    "name": "Nero Aditya",
+    "lastSeen": "2026-10-29T06:46:29.465Z",
+    "cooldowns": {
+      "pin": 1793256400932,
+      "menu": 1793256374582
+    },
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 1
   },
   "6283865412573": {
     "jid": "6283865412573",
@@ -134414,7 +134422,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 2103,
+    "exp": 2028,
     "name": "Marshal Protogen E1",
     "lastSeen": "2026-10-29T03:08:56.418Z",
     "cooldowns": {
@@ -134875,8 +134883,11 @@
   "6285828600992": {
     "jid": "6285828600992",
     "rpg": {},
-    "exp": 285,
-    "energi": 99999
+    "exp": 300,
+    "energi": 99998,
+    "name": "nyrm",
+    "lastSeen": "2026-10-29T06:46:58.753Z",
+    "cooldowns": {}
   },
   "6283845883787": {
     "jid": "6283845883787",
