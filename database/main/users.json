@@ -1818,7 +1818,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 681684,
+    "exp": 681759,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -27290,7 +27290,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720453,
+    "exp": 720768,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -27299,7 +27299,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-10T16:00:41.003Z",
+    "lastSeen": "2026-10-29T12:15:23.440Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -27355,7 +27355,7 @@
       "family100": 1784458539247,
       "afk": 1788524604573,
       "unmutegc": 1786090528615,
-      "h": 1786955960654,
+      "h": 1793276123495,
       "linkgc": 1786535536316,
       "ulartangga": 1782919769645,
       "ut": 1783048757033,
@@ -27529,8 +27529,8 @@
       "levelupNotif": true
     },
     "saldo": 0,
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 18
+    "lastActiveDate": "29/10/2026",
+    "activeDays": 19
   },
   "6281808207155": {
     "jid": "6281808207155",
@@ -48311,7 +48311,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 562838,
+    "exp": 562853,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -57946,7 +57946,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113230,
+    "exp": 113245,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -71885,7 +71885,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1830,
+    "exp": 2040,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97088,7 +97088,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31358,
+    "exp": 31373,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -102649,7 +102649,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 585,
+    "exp": 600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124720,18 +124720,11 @@
   "6281527133187": {
     "jid": "6281527133187",
     "rpg": {},
-    "exp": 195,
-    "energi": 99996,
+    "exp": 75,
+    "energi": 99999,
     "name": "ALG",
-    "lastSeen": "2026-10-29T12:15:58.847Z",
-    "cooldowns": {
-      "sticker": 1793275896713,
-      "s": 1793276034217,
-      "owner": 1793276160277,
-      "menu": 1793276160790
-    },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 1
+    "lastSeen": "2026-10-29T12:07:31.291Z",
+    "cooldowns": {}
   },
   "6281343117661": {
     "jid": "6281343117661",
@@ -127678,7 +127671,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 4155,
+    "exp": 4065,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-28T22:48:46.740Z",
@@ -129563,13 +129556,12 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 600,
-    "energi": 99992,
+    "exp": 525,
+    "energi": 99998,
     "name": "Pixelation",
-    "lastSeen": "2026-10-29T12:14:48.802Z",
+    "lastSeen": "2026-10-29T08:27:40.282Z",
     "cooldowns": {
-      "play": 1793262421855,
-      "pin": 1793276100361
+      "play": 1793262421855
     },
     "lastActiveDate": "29/10/2026",
     "activeDays": 1
@@ -129829,7 +129821,7 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 345,
+    "exp": 390,
     "energi": 99999
   },
   "6282245345914": {
@@ -129871,7 +129863,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32703,
+    "exp": 32718,
     "energi": 100029,
     "koin": 16763,
     "name": "botakgokss",
@@ -131785,17 +131777,16 @@
   "6287710342157": {
     "jid": "6287710342157",
     "rpg": {},
-    "exp": 855,
+    "exp": 735,
     "name": "‎",
-    "lastSeen": "2026-10-29T12:15:52.472Z",
+    "lastSeen": "2026-10-28T03:37:09.208Z",
     "cooldowns": {
       "cekfemboy": 1792938852016,
-      "s": 1793158631609,
-      "pin": 1793276167174
+      "s": 1793158631609
     },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 3,
-    "energi": 99993
+    "lastActiveDate": "28/10/2026",
+    "activeDays": 2,
+    "energi": 99999
   },
   "6285752730105": {
     "jid": "6285752730105",
@@ -132304,9 +132295,9 @@
   "6282236278393": {
     "jid": "6282236278393",
     "rpg": {},
-    "exp": 945,
+    "exp": 915,
     "name": "Mĩkz",
-    "lastSeen": "2026-10-29T12:11:47.073Z",
+    "lastSeen": "2026-10-26T09:15:13.389Z",
     "cooldowns": {
       "menu": 1792982539753,
       "allmenu": 1792982554026,
@@ -132316,7 +132307,7 @@
       "bratgreen": 1792937421273,
       "iqc": 1792982694313,
       "status2": 1792937735041,
-      "menucat": 1793275874659,
+      "menucat": 1792937887161,
       "tiktokstalk": 1792937866904,
       "swm": 1792937897653,
       "stickerpack": 1792937934000,
@@ -132332,12 +132323,11 @@
       "bandingkan-hp": 1792983809699,
       "bocil": 1792983903969,
       "asupantiktok": 1792984211897,
-      "brat": 1793006085563,
-      "bratcewek": 1793275922159
+      "brat": 1793006085563
     },
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 3,
-    "energi": 99998
+    "lastActiveDate": "26/10/2026",
+    "activeDays": 2,
+    "energi": 99999
   },
   "6285218322261": {
     "jid": "6285218322261",
@@ -135269,18 +135259,13 @@
     "rpg": {},
     "exp": 15
   },
-  "6282210240957": {
-    "jid": "6282210240957",
-    "rpg": {},
-    "exp": 15
-  },
   "6285726131403": {
     "jid": "6285726131403",
     "rpg": {},
     "exp": 15
   },
-  "62895320216570": {
-    "jid": "62895320216570",
+  "6282210240957": {
+    "jid": "6282210240957",
     "rpg": {},
     "exp": 15
   }
