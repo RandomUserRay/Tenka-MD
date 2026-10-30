@@ -133444,17 +133444,17 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 235,
-      "health": 610,
-      "mana": 355,
-      "maxHealth": 610,
-      "maxMana": 355,
-      "maxStamina": 355,
-      "level": 52,
+      "stamina": 360,
+      "health": 620,
+      "mana": 360,
+      "maxHealth": 620,
+      "maxMana": 360,
+      "maxStamina": 360,
+      "level": 53,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 518845,
+    "exp": 520117,
     "name": "mıss",
     "lastSeen": "2026-10-30T12:03:03.788Z",
     "cooldowns": {
@@ -133498,7 +133498,7 @@
     },
     "lastActiveDate": "30/10/2026",
     "activeDays": 3,
-    "energi": 100021,
+    "energi": 100024,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133508,7 +133508,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 824432,
+    "koin": 825749,
     "inventory": {
       "trash": 0,
       "prawn": 0,
