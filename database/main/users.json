@@ -15023,10 +15023,10 @@
     "jid": "6282252970378",
     "name": "Tyler",
     "number": "6282252970378",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 275298,
+    "exp": 275313,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -15037,7 +15037,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T15:01:58.179Z",
+    "lastSeen": "2026-10-30T12:00:33.505Z",
     "cooldowns": {
       "benefitpremium": 1786939378742,
       "redeem": 1783176758219,
@@ -15068,7 +15068,7 @@
       "dimana": 1781503411557,
       "afk": 1782895105829,
       "exp": 1781520657438,
-      "s": 1791027188412,
+      "s": 1793361635616,
       "kick": 1783003110576,
       "mengkane44": 1781510546125,
       "owner": 1782632459704,
@@ -15359,8 +15359,8 @@
     },
     "settings": {},
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 9
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 10
   },
   "6282261512336": {
     "jid": "6282261512336",
@@ -129935,7 +129935,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 5520,
+    "exp": 5535,
     "energi": 99995,
     "name": "Savan",
     "lastSeen": "2026-10-30T09:05:00.063Z",
