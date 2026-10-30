@@ -13361,7 +13361,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7755,
+    "exp": 7770,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54931,7 +54931,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19746,
+    "exp": 19761,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54940,7 +54940,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T14:05:32.731Z",
+    "lastSeen": "2026-10-30T14:06:35.338Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54985,7 +54985,8 @@
       "s": 1790686221341,
       "promote": 1791894633467,
       "unmutegc": 1793365162182,
-      "setbio": 1793369123926
+      "setbio": 1793369123926,
+      "setbg": 1793369198082
     },
     "clanId": null,
     "isRegistered": false,
@@ -102741,7 +102742,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1845,
+    "exp": 1860,
     "level": 1,
     "koin": 500000,
     "saldo": 0,
@@ -135298,7 +135299,7 @@
     "lastSeen": "2026-10-28T14:13:18.318Z",
     "jid": "6285129389507",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999,
     "cooldowns": {
       "s": 1793196800508
