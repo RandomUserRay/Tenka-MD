@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-30T08:58:54.773Z",
+    "lastSeen": "2026-10-30T08:58:11.357Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000177384,
+    "exp": 9000177309,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -129933,7 +129933,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 4695,
+    "exp": 4650,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-29T16:13:12.369Z",
@@ -133430,22 +133430,22 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 290,
-      "health": 600,
-      "mana": 350,
-      "maxHealth": 600,
-      "maxMana": 350,
-      "maxStamina": 350,
-      "level": 51,
+      "stamina": 355,
+      "health": 610,
+      "mana": 355,
+      "maxHealth": 610,
+      "maxMana": 355,
+      "maxStamina": 355,
+      "level": 52,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 507340,
+    "exp": 510629,
     "name": "mıss",
-    "lastSeen": "2026-10-30T08:55:50.637Z",
+    "lastSeen": "2026-10-30T08:59:41.800Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793350553424,
+      "casino": 1793350770422,
       "weekly": 1792982385703,
       "daily": 1793342924962,
       "register": 1792984923121,
@@ -133456,9 +133456,9 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793350470235,
+      "job": 1793350760059,
       "susunkata": 1792985996374,
-      "quiz": 1793344187476,
+      "quiz": 1793350728190,
       "inventory": 1792992573520,
       "mancing": 1793343952628,
       "adventure": 1793350540560,
@@ -133469,8 +133469,8 @@
       "dungeon": 1793343049663,
       "nikah": 1793012484545,
       "me": 1792998194636,
-      "inv": 1793344215755,
-      "streamer": 1793350485464,
+      "inv": 1793350736589,
+      "streamer": 1793350788792,
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
@@ -133484,7 +133484,7 @@
     },
     "lastActiveDate": "30/10/2026",
     "activeDays": 3,
-    "energi": 100030,
+    "energi": 100034,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133494,7 +133494,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 267703,
+    "koin": 306970,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134884,7 +134884,7 @@
   "6282148168133": {
     "jid": "6282148168133",
     "rpg": {},
-    "exp": 2385,
+    "exp": 2355,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
     "lastSeen": "2026-10-30T08:57:48.497Z",
     "energi": 99999
@@ -135380,7 +135380,7 @@
   "6289507752999": {
     "jid": "6289507752999",
     "rpg": {},
-    "exp": 2205,
+    "exp": 2220,
     "energi": 99999
   },
   "6281522634679": {
@@ -135416,7 +135416,7 @@
   "6283148170129": {
     "jid": "6283148170129",
     "rpg": {},
-    "exp": 1995,
+    "exp": 2025,
     "energi": 99999,
     "name": "pragos baik",
     "lastSeen": "2026-10-30T03:41:27.813Z"
