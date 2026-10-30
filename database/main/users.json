@@ -54931,7 +54931,7 @@
     "energi": 9999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 220106,
+    "exp": 220181,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -54940,7 +54940,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T14:09:56.876Z",
+    "lastSeen": "2026-10-30T14:10:27.561Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54987,7 +54987,7 @@
       "unmutegc": 1793365162182,
       "setbio": 1793369123926,
       "setbg": 1793369404656,
-      "setcolor": 1793369272753
+      "setcolor": 1793369433213
     },
     "clanId": null,
     "isRegistered": false,
@@ -55013,7 +55013,8 @@
     "lastActiveDate": "30/10/2026",
     "activeDays": 12,
     "customBio": "tsundere waras, juragan femboy",
-    "bgUrl": "https://files.catbox.moe/m9ljkw.jpg"
+    "bgUrl": "https://files.catbox.moe/m9ljkw.jpg",
+    "profileColor": "blue"
   },
   "6283109376338": {
     "jid": "6283109376338",
