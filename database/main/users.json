@@ -133434,19 +133434,19 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 260,
-      "health": 600,
-      "mana": 350,
-      "maxHealth": 600,
-      "maxMana": 350,
-      "maxStamina": 350,
-      "level": 51,
+      "stamina": 355,
+      "health": 610,
+      "mana": 355,
+      "maxHealth": 610,
+      "maxMana": 355,
+      "maxStamina": 355,
+      "level": 52,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 508587,
+    "exp": 510506,
     "name": "mıss",
-    "lastSeen": "2026-10-30T09:10:01.521Z",
+    "lastSeen": "2026-10-30T09:35:49.278Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793351398371,
@@ -133460,7 +133460,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793351389195,
+      "job": 1793352955575,
       "susunkata": 1792985996374,
       "quiz": 1793344187476,
       "inventory": 1792992573520,
@@ -133498,7 +133498,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 287219,
+    "koin": 306267,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134504,9 +134504,9 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 3453,
+    "exp": 3468,
     "name": "Marshal Protogen EXP 1",
-    "lastSeen": "2026-10-30T09:34:52.300Z",
+    "lastSeen": "2026-10-30T09:35:50.546Z",
     "cooldowns": {
       "afk": 1793351744326,
       "cekfemboy": 1793194162480,
