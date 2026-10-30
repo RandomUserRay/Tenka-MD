@@ -93464,7 +93464,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1680,
+    "exp": 1695,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135802,14 +135802,15 @@
   "6285198037092": {
     "jid": "6285198037092",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "name": "Arven",
-    "lastSeen": "2026-10-30T00:59:50.250Z",
+    "lastSeen": "2026-10-30T17:15:22.002Z",
     "cooldowns": {
-      "menu": 1793318162944
+      "menu": 1793318162944,
+      "afk": 1793380525962
     },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 2,
     "energi": 99999
   },
   "6282319532129": {
