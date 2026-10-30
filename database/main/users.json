@@ -133429,7 +133429,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 315,
+      "stamina": 285,
       "health": 570,
       "mana": 335,
       "maxHealth": 570,
@@ -133439,11 +133439,19 @@
       "attack": 10,
       "lastHourly": 1793012751892,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1793343049477
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 26,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793343055893
       }
     },
-    "exp": 479276,
+    "exp": 479291,
     "name": "mıss",
     "lastSeen": "2026-10-30T06:50:49.473Z",
     "cooldowns": {
@@ -135501,7 +135509,7 @@
   "6285776260761": {
     "jid": "6285776260761",
     "rpg": {},
-    "exp": 870,
+    "exp": 885,
     "energi": 99999
   },
   "6281992698621": {
@@ -135531,7 +135539,7 @@
   "6283147990297": {
     "jid": "6283147990297",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999
   },
   "232281125974092": {
