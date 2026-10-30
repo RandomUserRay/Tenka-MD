@@ -133437,21 +133437,9 @@
       "maxStamina": 335,
       "level": 48,
       "attack": 10,
-      "lastHourly": 1793012751892,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Slime Raksasa",
-        "monsterPower": 26,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1793343055893
-      }
+      "lastHourly": 1793012751892
     },
-    "exp": 479291,
+    "exp": 479432,
     "name": "mıss",
     "lastSeen": "2026-10-30T06:50:49.473Z",
     "cooldowns": {
@@ -133504,11 +133492,11 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 112743,
+    "koin": 113003,
     "inventory": {
       "trash": 0,
       "prawn": 0,
-      "iron": 0,
+      "iron": 1,
       "herb": 2,
       "leather": 6,
       "potion": 5,
@@ -135139,7 +135127,7 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 1035,
+    "exp": 1050,
     "name": "FURZYX",
     "lastSeen": "2026-10-30T06:48:46.283Z",
     "cooldowns": {
