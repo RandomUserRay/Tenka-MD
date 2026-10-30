@@ -9443,7 +9443,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7530,
+    "exp": 7545,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9452,7 +9452,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T09:02:32.589Z",
+    "lastSeen": "2026-10-30T09:02:59.555Z",
     "cooldowns": {
       "bank": 1780832296529,
       "rob": 1780832393366,
@@ -9470,7 +9470,7 @@
       "afk": 1780892839841,
       "hug": 1780920517657,
       "marry": 1781398929822,
-      "femboy": 1791863899288,
+      "femboy": 1793350984455,
       "femboys": 1793350956749
     },
     "clanId": null,
@@ -129934,7 +129934,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 4815,
+    "exp": 4830,
     "energi": 99997,
     "name": "Savan",
     "lastSeen": "2026-10-30T09:02:32.201Z",
@@ -134887,12 +134887,13 @@
   "6282148168133": {
     "jid": "6282148168133",
     "rpg": {},
-    "exp": 2415,
+    "exp": 2430,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
-    "lastSeen": "2026-10-30T09:01:44.899Z",
-    "energi": 99999,
+    "lastSeen": "2026-10-30T09:02:58.646Z",
+    "energi": 99997,
     "cooldowns": {
-      "femboy": 1793350915257
+      "femboy": 1793350915257,
+      "femboys": 1793350982307
     },
     "lastActiveDate": "30/10/2026",
     "activeDays": 1
