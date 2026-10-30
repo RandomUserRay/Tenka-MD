@@ -132098,7 +132098,7 @@
       "maxHealth": 100,
       "stamina": 90
     },
-    "exp": 8387,
+    "exp": 8417,
     "name": "Thur rawring",
     "lastSeen": "2026-10-29T09:56:24.594Z",
     "cooldowns": {
@@ -133429,7 +133429,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 215,
+      "stamina": 205,
       "health": 560,
       "mana": 330,
       "maxHealth": 560,
@@ -133439,9 +133439,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 469664,
+    "exp": 469986,
     "name": "mıss",
-    "lastSeen": "2026-10-30T06:46:58.987Z",
+    "lastSeen": "2026-10-30T06:48:05.055Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793342821697,
@@ -133455,7 +133455,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793012796614,
+      "job": 1793342888254,
       "susunkata": 1792985996374,
       "quiz": 1793012547719,
       "inventory": 1792992573520,
@@ -133492,7 +133492,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 70560,
+    "koin": 73483,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -135790,5 +135790,10 @@
     "jid": "6282254826675",
     "rpg": {},
     "exp": 15
+  },
+  "6285972578544": {
+    "jid": "6285972578544",
+    "rpg": {},
+    "exp": 30
   }
 }
