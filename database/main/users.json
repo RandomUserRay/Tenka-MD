@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-30T13:43:55.982Z",
+    "lastSeen": "2026-10-30T13:43:10.482Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000179409,
+    "exp": 9000179259,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -140,8 +140,7 @@
       "time": 1786853090787
     },
     "lastActiveDate": "30/10/2026",
-    "activeDays": 45,
-    "customBio": "gw pria sigma, dan jago coding"
+    "activeDays": 45
   },
   "639757724313": {
     "jid": "639757724313",
@@ -3969,7 +3968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32360,
+    "exp": 32375,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -3978,7 +3977,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T12:24:47.506Z",
+    "lastSeen": "2026-10-30T13:44:52.786Z",
     "cooldowns": {
       "tebakbendera": 1780197040410,
       "ww": 1780278681521,
@@ -90858,7 +90857,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3195,
+    "exp": 3180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93446,7 +93445,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1350,
+    "exp": 1320,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97096,7 +97095,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32153,
+    "exp": 32138,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99280,7 +99279,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10980,
+    "exp": 10950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99290,7 +99289,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T13:43:50.198Z",
+    "lastSeen": "2026-10-30T00:54:06.304Z",
     "cooldowns": {
       "play": 1793318085157,
       "menu": 1793223831590,
@@ -99301,7 +99300,7 @@
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517,
       "open": 1793217474654,
-      "me": 1793367833257,
+      "me": 1793223592842,
       "owner": 1793223857562,
       "intro": 1793318509113,
       "setintro": 1793224197412,
@@ -129912,7 +129911,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 50428,
+    "exp": 50413,
     "energi": 100033,
     "koin": 26260,
     "name": "botakgokss",
@@ -135821,7 +135820,7 @@
   "6281363786765": {
     "jid": "6281363786765",
     "rpg": {},
-    "exp": 1950
+    "exp": 1980
   },
   "6283169949697": {
     "jid": "6283169949697",
@@ -135943,7 +135942,7 @@
   "6282256914862": {
     "jid": "6282256914862",
     "rpg": {},
-    "exp": 855
+    "exp": 870
   },
   "6289525559746": {
     "jid": "6289525559746",
@@ -135954,11 +135953,6 @@
     "jid": "6283181757521",
     "rpg": {},
     "exp": 1035
-  },
-  "6289697304109": {
-    "jid": "6289697304109",
-    "rpg": {},
-    "exp": 165
   },
   "6281253526700": {
     "jid": "6281253526700",
@@ -135980,11 +135974,6 @@
     "rpg": {},
     "exp": 30
   },
-  "6285163005858": {
-    "jid": "6285163005858",
-    "rpg": {},
-    "exp": 30
-  },
   "628211288212": {
     "jid": "628211288212",
     "rpg": {},
@@ -135995,6 +135984,16 @@
     "rpg": {},
     "exp": 15
   },
+  "6289697304109": {
+    "jid": "6289697304109",
+    "rpg": {},
+    "exp": 165
+  },
+  "6285163005858": {
+    "jid": "6285163005858",
+    "rpg": {},
+    "exp": 30
+  },
   "6281263499083": {
     "jid": "6281263499083",
     "rpg": {},
@@ -136004,21 +136003,6 @@
     "jid": "6281371821451",
     "rpg": {},
     "exp": 15
-  },
-  "6287790992387": {
-    "jid": "6287790992387",
-    "rpg": {},
-    "exp": 75,
-    "registeredAt": 1793367741208,
-    "name": "AKU MAU EROPA",
-    "lastSeen": "2026-10-30T13:43:47.285Z",
-    "cooldowns": {
-      "me": 1793367743595,
-      "play": 1793367844898
-    },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 1,
-    "energi": 24
   },
   "6285822747709": {
     "jid": "6285822747709",
@@ -136040,10 +136024,23 @@
     "rpg": {},
     "exp": 15
   },
+  "6287790992387": {
+    "jid": "6287790992387",
+    "rpg": {},
+    "exp": 60,
+    "registeredAt": 1793367741208,
+    "name": "AKU MAU EROPA",
+    "lastSeen": "2026-10-30T13:42:21.053Z",
+    "cooldowns": {
+      "me": 1793367743595
+    },
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 1
+  },
   "211549067182261": {
     "jid": "211549067182261",
     "rpg": {},
-    "exp": 150,
+    "exp": 135,
     "name": "почему?♪",
     "lastSeen": "2026-10-30T13:33:16.487Z"
   },
