@@ -3073,16 +3073,16 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 719816,
+    "exp": 719831,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1793367741208,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T11:28:37.044Z",
+    "lastSeen": "2026-10-30T13:42:19.481Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -97095,7 +97095,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32123,
+    "exp": 32138,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -136007,7 +136007,15 @@
   "6287790992387": {
     "jid": "6287790992387",
     "rpg": {},
-    "exp": 45
+    "exp": 60,
+    "registeredAt": 1793367741208,
+    "name": "AKU MAU EROPA",
+    "lastSeen": "2026-10-30T13:42:21.053Z",
+    "cooldowns": {
+      "me": 1793367743595
+    },
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 1
   },
   "6285822747709": {
     "jid": "6285822747709",
