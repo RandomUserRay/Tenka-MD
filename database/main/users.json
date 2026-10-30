@@ -133434,7 +133434,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 280,
+      "stamina": 260,
       "health": 600,
       "mana": 350,
       "maxHealth": 600,
@@ -133444,12 +133444,12 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 507922,
+    "exp": 508587,
     "name": "mıss",
-    "lastSeen": "2026-10-30T09:09:55.454Z",
+    "lastSeen": "2026-10-30T09:10:01.521Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793350553424,
+      "casino": 1793351398371,
       "weekly": 1792982385703,
       "daily": 1793342924962,
       "register": 1792984923121,
@@ -133474,7 +133474,7 @@
       "nikah": 1793012484545,
       "me": 1792998194636,
       "inv": 1793344215755,
-      "streamer": 1793350485464,
+      "streamer": 1793351405362,
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
@@ -133498,7 +133498,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 273224,
+    "koin": 287219,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -135426,7 +135426,7 @@
   "6283148170129": {
     "jid": "6283148170129",
     "rpg": {},
-    "exp": 2010,
+    "exp": 2025,
     "energi": 99999,
     "name": "pragos baik",
     "lastSeen": "2026-10-30T03:41:27.813Z"
