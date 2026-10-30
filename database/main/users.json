@@ -7514,7 +7514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28855,
+    "exp": 28870,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -130768,9 +130768,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 3933,
-    "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-25T08:55:12.055Z",
+    "exp": 3948,
+    "name": "Mauru Hairos",
+    "lastSeen": "2026-10-30T12:30:30.296Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -130786,7 +130786,7 @@
       "cekcantik": 1792676907563,
       "afk": 1792717012516
     },
-    "energi": 99999,
+    "energi": 99998,
     "lastActiveDate": "25/10/2026",
     "activeDays": 5,
     "koin": 10000000
@@ -135950,6 +135950,11 @@
     "jid": "6283181757521",
     "rpg": {},
     "exp": 1005
+  },
+  "6289697304109": {
+    "jid": "6289697304109",
+    "rpg": {},
+    "exp": 165
   },
   "6281253526700": {
     "jid": "6281253526700",
