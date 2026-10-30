@@ -3968,7 +3968,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32375,
+    "exp": 32360,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -54921,7 +54921,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19521,
+    "exp": 19536,
     "level": 1,
     "koin": 5895501,
     "unlockedFeatures": [],
@@ -54930,7 +54930,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T12:30:33.019Z",
+    "lastSeen": "2026-10-30T12:59:22.021Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -54973,7 +54973,8 @@
       "ganteng": 1790684950647,
       "cekimut": 1790685001410,
       "s": 1790686221341,
-      "promote": 1791894633467
+      "promote": 1791894633467,
+      "unmutegc": 1793365162182
     },
     "clanId": null,
     "isRegistered": false,
@@ -54996,8 +54997,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 12
   },
   "6283109376338": {
     "jid": "6283109376338",
@@ -67702,12 +67703,12 @@
   },
   "6283135864303": {
     "jid": "6283135864303",
-    "name": "ZIDAN",
+    "name": "king von",
     "number": "6283135864303",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 175896,
+    "exp": 175911,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67722,10 +67723,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T12:23:46.493Z",
+    "lastSeen": "2026-10-30T12:58:26.236Z",
     "cooldowns": {
       "afk": 1791788723539,
-      "s": 1793363026702,
+      "s": 1793365107775,
       "play": 1793278769772,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -127701,7 +127702,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 6450,
+    "exp": 6420,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-29T12:28:26.425Z",
@@ -129910,7 +129911,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 50383,
+    "exp": 50398,
     "energi": 100033,
     "koin": 26260,
     "name": "botakgokss",
@@ -132798,7 +132799,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 17455,
+    "exp": 17410,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-30T09:19:00.042Z",
     "cooldowns": {
@@ -134527,7 +134528,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 4788,
+    "exp": 4743,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-10-30T12:45:14.311Z",
     "cooldowns": {
@@ -135539,7 +135540,7 @@
   "6285649602636": {
     "jid": "6285649602636",
     "rpg": {},
-    "exp": 930,
+    "exp": 855,
     "energi": 99999
   },
   "6285776260761": {
@@ -135575,7 +135576,7 @@
   "6283147990297": {
     "jid": "6283147990297",
     "rpg": {},
-    "exp": 945,
+    "exp": 930,
     "energi": 99999
   },
   "232281125974092": {
@@ -135953,6 +135954,11 @@
     "rpg": {},
     "exp": 1035
   },
+  "6289697304109": {
+    "jid": "6289697304109",
+    "rpg": {},
+    "exp": 165
+  },
   "6281253526700": {
     "jid": "6281253526700",
     "rpg": {},
@@ -135970,6 +135976,11 @@
   },
   "6282381126694": {
     "jid": "6282381126694",
+    "rpg": {},
+    "exp": 30
+  },
+  "6285163005858": {
+    "jid": "6285163005858",
     "rpg": {},
     "exp": 30
   },
