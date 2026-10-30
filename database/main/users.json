@@ -133372,18 +133372,26 @@
     "lastSeen": "2026-10-30T14:28:49.582Z",
     "jid": "6281221110247",
     "rpg": {
-      "stamina": 78,
+      "stamina": 48,
       "health": 90,
       "maxHealth": 100,
       "maxStamina": 100,
       "luck": 7,
       "attack": 10,
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1793370521581
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 32,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793370536929
       }
     },
-    "exp": 1628,
+    "exp": 1643,
     "cooldowns": {
       "gay": 1792946183021,
       "cekfemboy": 1792946255705,
