@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-30T13:43:10.482Z",
+    "lastSeen": "2026-10-30T13:43:42.722Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000179259,
+    "exp": 9000179334,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -140,7 +140,8 @@
       "time": 1786853090787
     },
     "lastActiveDate": "30/10/2026",
-    "activeDays": 45
+    "activeDays": 45,
+    "customBio": "gw pria sigma, dan jago coding"
   },
   "639757724313": {
     "jid": "639757724313",
@@ -129911,7 +129912,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 50413,
+    "exp": 50428,
     "energi": 100033,
     "koin": 26260,
     "name": "botakgokss",
