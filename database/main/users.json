@@ -133434,7 +133434,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 325,
+      "stamina": 305,
       "health": 610,
       "mana": 355,
       "maxHealth": 610,
@@ -133444,9 +133444,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 512291,
+    "exp": 512952,
     "name": "mıss",
-    "lastSeen": "2026-10-30T09:44:12.005Z",
+    "lastSeen": "2026-10-30T09:57:11.938Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793353449073,
@@ -133473,8 +133473,8 @@
       "dungeon": 1793343049663,
       "nikah": 1793012484545,
       "me": 1792998194636,
-      "inv": 1793344215755,
-      "streamer": 1793353455796,
+      "inv": 1793354226486,
+      "streamer": 1793354235908,
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
@@ -133498,7 +133498,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 365253,
+    "koin": 384196,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -134504,7 +134504,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 3753,
+    "exp": 3768,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-10-30T09:43:48.489Z",
     "cooldowns": {
