@@ -6404,7 +6404,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36181,
+    "exp": 36196,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -7514,7 +7514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28855,
+    "exp": 28870,
     "level": 1,
     "koin": 91533740,
     "unlockedFeatures": [],
@@ -97091,10 +97091,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32048,
+    "exp": 32063,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97104,11 +97104,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T23:14:17.075Z",
+    "lastSeen": "2026-10-30T12:33:20.490Z",
     "cooldowns": {
       "afk": 1791845852959,
       "play": 1791555279345,
-      "smeme": 1793315659478,
+      "smeme": 1793363607912,
       "s": 1793270166403,
       "menu": 1791020902791,
       "menucat": 1791020922728,
@@ -131701,7 +131701,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 3525,
+    "exp": 3510,
     "name": "Haafiz",
     "lastSeen": "2026-10-30T12:30:25.123Z",
     "cooldowns": {
@@ -135165,7 +135165,7 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 4186,
+    "exp": 4171,
     "name": "FURZYX",
     "lastSeen": "2026-10-30T12:28:45.707Z",
     "cooldowns": {
@@ -135531,7 +135531,7 @@
   "6282229908596": {
     "jid": "6282229908596",
     "rpg": {},
-    "exp": 1935,
+    "exp": 1890,
     "energi": 99999
   },
   "6285649602636": {
@@ -135585,7 +135585,7 @@
   "60196890903": {
     "jid": "60196890903",
     "rpg": {},
-    "exp": 5265,
+    "exp": 5220,
     "energi": 99999
   },
   "6285880334684": {
@@ -135950,6 +135950,11 @@
     "jid": "6283181757521",
     "rpg": {},
     "exp": 1035
+  },
+  "6289697304109": {
+    "jid": "6289697304109",
+    "rpg": {},
+    "exp": 165
   },
   "6281253526700": {
     "jid": "6281253526700",
