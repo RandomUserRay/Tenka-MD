@@ -133429,7 +133429,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 340,
+      "stamina": 325,
       "health": 580,
       "mana": 340,
       "maxHealth": 580,
@@ -133439,9 +133439,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 481672,
+    "exp": 481787,
     "name": "mıss",
-    "lastSeen": "2026-10-30T06:54:00.198Z",
+    "lastSeen": "2026-10-30T06:54:17.752Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793343099833,
@@ -133483,7 +133483,7 @@
     },
     "lastActiveDate": "30/10/2026",
     "activeDays": 3,
-    "energi": 99996,
+    "energi": 99995,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133505,7 +133505,8 @@
       "wood": 0,
       "apple": 0,
       "octopus": 0,
-      "rabbit": 1
+      "rabbit": 1,
+      "fish": 1
     },
     "lastStreamer": 1793012533662,
     "quest": {
@@ -135534,7 +135535,7 @@
   "232281125974092": {
     "jid": "232281125974092",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "60196890903": {
