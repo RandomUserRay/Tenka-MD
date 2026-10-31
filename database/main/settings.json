@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "sock.sendPreview is not a function",
+      "at": 1793444778294
+    },
+    {
+      "cmd": "unknown",
       "err": "[comix] scraper tidak termuat (Cannot find module '/home/container/src/scraper/comix-scraper.js' imported from /home/container/plugins/anime/comix.js). Salin comix-scraper.js ke src/scraper/ lalu rest",
       "at": 1793208155922
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789819103269
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1789814200741
     }
   ],
   "jpmBlacklist": [],
