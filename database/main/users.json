@@ -93603,12 +93603,12 @@
   },
   "6285814847562": {
     "jid": "6285814847562",
-    "name": "Unknown",
+    "name": "🐱",
     "number": "6285814847562",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2355,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93618,8 +93618,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-30T14:40:59.610Z",
-    "cooldowns": {},
+    "lastSeen": "2026-10-31T05:13:40.494Z",
+    "cooldowns": {
+      "play": 1793423634203
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -93627,7 +93629,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6285142868345": {
     "jid": "6285142868345",
@@ -122406,16 +122410,16 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 4245,
-    "energi": 99993,
+    "exp": 4275,
+    "energi": 99992,
     "name": "Noah",
-    "lastSeen": "2026-10-31T05:11:50.108Z",
+    "lastSeen": "2026-10-31T05:13:32.180Z",
     "cooldowns": {
       "femboy": 1793294131867,
       "s": 1793260845801,
       "me": 1793255056565,
       "cekmesum": 1793388210554,
-      "play": 1793423442774
+      "play": 1793423626569
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 3,
@@ -129938,7 +129942,7 @@
       "mana": 135,
       "stamina": 135
     },
-    "exp": 74337,
+    "exp": 74352,
     "energi": 100020,
     "koin": 38094,
     "name": "botakgokss",
@@ -135962,7 +135966,7 @@
   "6281927359220": {
     "jid": "6281927359220",
     "rpg": {},
-    "exp": 60,
+    "exp": 45,
     "energi": 99999
   },
   "628987627284": {
