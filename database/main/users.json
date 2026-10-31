@@ -136373,15 +136373,16 @@
   "628217706202": {
     "jid": "628217706202",
     "rpg": {},
-    "exp": 450,
+    "exp": 465,
     "name": "Rionchy",
-    "lastSeen": "2026-10-31T04:12:15.281Z",
+    "lastSeen": "2026-10-31T20:53:59.251Z",
     "cooldowns": {
-      "stickerlydl": 1793419951642
+      "stickerlydl": 1793419951642,
+      "s": 1793480043716
     },
-    "energi": 99999,
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 1
+    "energi": 99998,
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 2
   },
   "628975505728": {
     "jid": "628975505728",
