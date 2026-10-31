@@ -93615,7 +93615,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4830,
+    "exp": 4845,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135465,7 +135465,8 @@
     "lastSeen": "2026-10-31T15:29:24.772Z",
     "cooldowns": {
       "femboy": 1793458144150,
-      "stiker": 1793458794824
+      "stiker": 1793458794824,
+      "afk": 1793460571320
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 1
