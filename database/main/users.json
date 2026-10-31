@@ -19339,10 +19339,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91249,
+    "exp": 91264,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19351,7 +19351,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-01T04:17:59.824Z",
+    "lastSeen": "2026-10-31T09:42:04.811Z",
     "cooldowns": {
       "bratvid": 1783402706255,
       "setan": 1782040946136,
@@ -19372,7 +19372,8 @@
       "bank": 1784456618997,
       "transfer": 1783935619820,
       "me": 1783942298349,
-      "job": 1784456789391
+      "job": 1784456789391,
+      "brat": 1793439726140
     },
     "clanId": null,
     "isRegistered": false,
@@ -19391,7 +19392,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6288994432677": {
     "name": "Fadhiel MK",
