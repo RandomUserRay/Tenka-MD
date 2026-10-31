@@ -9688,7 +9688,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 345,
+    "exp": 360,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97118,7 +97118,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33038,
+    "exp": 33053,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97430,7 +97430,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5760,
+    "exp": 5820,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121488,7 +121488,7 @@
       "maxStamina": 105,
       "mana": 105
     },
-    "exp": 16029,
+    "exp": 16044,
     "cooldowns": {
       "s": 1791108125206,
       "smeme": 1789902978833,
@@ -134603,9 +134603,9 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 5178,
+    "exp": 5148,
     "name": "Marshal Protogen EXP 1",
-    "lastSeen": "2026-10-31T09:10:23.246Z",
+    "lastSeen": "2026-10-31T05:22:11.507Z",
     "cooldowns": {
       "afk": 1793424134451,
       "cekfemboy": 1793194162480,
@@ -136155,7 +136155,7 @@
   "6287790992387": {
     "jid": "6287790992387",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "registeredAt": 1793367741208,
     "name": "AKU MAU EROPA",
     "lastSeen": "2026-10-31T03:53:33.421Z",
