@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-10-31T03:46:17.706Z",
+    "lastSeen": "2026-10-31T03:48:59.348Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000183684,
+    "exp": 9000183759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -106178,12 +106178,12 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99999,
-    "isPremium": false,
+    "energi": 99999999,
+    "isPremium": true,
     "isBanned": false,
-    "exp": 52605,
+    "exp": 252605,
     "level": 1,
-    "koin": 0,
+    "koin": 20000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": null,
@@ -129923,7 +129923,7 @@
   "6283865412573": {
     "jid": "6283865412573",
     "rpg": {},
-    "exp": 585,
+    "exp": 600,
     "energi": 99999
   },
   "6289676340345": {
