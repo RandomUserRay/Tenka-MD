@@ -90871,12 +90871,12 @@
   },
   "6282229809440": {
     "jid": "6282229809440",
-    "name": "D9",
+    "name": "Fallen.",
     "number": "6282229809440",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3195,
+    "exp": 3210,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90886,10 +90886,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T02:03:33.018Z",
+    "lastSeen": "2026-10-31T07:12:12.398Z",
     "cooldowns": {
       "cekfemboy": 1786870984950,
-      "menu": 1786871053518
+      "menu": 1786871053518,
+      "afk": 1793430741705
     },
     "clanId": null,
     "isRegistered": false,
@@ -90898,7 +90899,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6283196305024": {
     "jid": "6283196305024",
@@ -133981,7 +133984,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 3870,
+    "exp": 3885,
     "energi": 99997,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-10-31T05:05:50.810Z",
