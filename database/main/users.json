@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000185409,
+    "exp": 9000185484,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -136248,8 +136248,12 @@
     "exp": 315,
     "name": "Rionchy",
     "lastSeen": "2026-10-31T04:10:27.184Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "stickerlydl": 1793419856183
+    },
+    "energi": 23,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "628975505728": {
     "jid": "628975505728",
