@@ -93615,7 +93615,7 @@
     "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5025,
+    "exp": 5040,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125857,7 +125857,7 @@
     "name": "iwak tempik🐡",
     "lastSeen": "2026-10-31T15:45:39.940Z",
     "cooldowns": {
-      "femboy": 1793461545600
+      "femboy": 1793461591204
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 1
@@ -135141,13 +135141,14 @@
   "6285828600992": {
     "jid": "6285828600992",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999,
     "name": "qwertyz",
-    "lastSeen": "2026-10-31T15:36:04.640Z",
+    "lastSeen": "2026-10-31T15:46:31.883Z",
     "cooldowns": {
       "play": 1793256520760,
-      "afk": 1793460971458
+      "afk": 1793460971458,
+      "femboy": 1793461598973
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 2
