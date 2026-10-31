@@ -93620,7 +93620,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-10-31T05:29:34.839Z",
     "cooldowns": {
-      "play": 1793423634203
+      "play": 1793424689108
     },
     "clanId": null,
     "isRegistered": false,
@@ -136206,8 +136206,12 @@
     "name": "Kitsune Niko",
     "lastSeen": "2026-10-31T05:30:46.478Z",
     "exp": 30,
-    "cooldowns": {},
-    "energi": 99997
+    "cooldowns": {
+      "ytmp4": 1793424693402
+    },
+    "energi": 99997,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6281939062025": {
     "jid": "6281939062025",
