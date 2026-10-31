@@ -67731,10 +67731,10 @@
     "jid": "6283135864303",
     "name": "king win",
     "number": "6283135864303",
-    "energi": 99985,
+    "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176346,
+    "exp": 176361,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67749,11 +67749,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T12:33:16.587Z",
+    "lastSeen": "2026-10-31T12:33:31.940Z",
     "cooldowns": {
       "afk": 1793446611597,
       "s": 1793449610734,
-      "play": 1793439532971,
+      "play": 1793450014291,
       "inv": 1786434391177,
       "profil": 1787746507275,
       "rob": 1787849540817,
@@ -93612,10 +93612,10 @@
     "jid": "6285814847562",
     "name": "🐱",
     "number": "6285814847562",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3720,
+    "exp": 3735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93625,7 +93625,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T12:31:38.009Z",
+    "lastSeen": "2026-10-31T12:33:33.134Z",
     "cooldowns": {
       "play": 1793449913215
     },
@@ -135746,7 +135746,11 @@
     "energi": 99997,
     "name": "ティカ💞",
     "lastSeen": "2026-10-31T12:31:54.250Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "ytmp4": 1793450017384
+    },
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6282389185048": {
     "jid": "6282389185048",
