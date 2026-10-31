@@ -3514,7 +3514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431807,
+    "exp": 431897,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -97114,7 +97114,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32468,
+    "exp": 32513,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97426,7 +97426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5745,
+    "exp": 5775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125638,7 +125638,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1515,
+    "exp": 1530,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-10-29T11:08:32.971Z",
@@ -131729,20 +131729,19 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 3705,
+    "exp": 3690,
     "name": "Haafiz",
-    "lastSeen": "2026-10-31T01:05:16.573Z",
+    "lastSeen": "2026-10-30T12:42:03.345Z",
     "cooldowns": {
       "afk": 1793358728409,
       "tt": 1793323156910,
       "rest": 1793363144362,
       "pin": 1793364108757,
-      "s": 1793364123645,
-      "gacha": 1793408717262
+      "s": 1793364123645
     },
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 5,
-    "energi": 99998
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 4,
+    "energi": 99999
   },
   "6283188010317": {
     "jid": "6283188010317",
@@ -131803,7 +131802,7 @@
   },
   "62895321723163": {
     "name": "andika Protogen E3",
-    "lastSeen": "2026-10-31T01:05:40.806Z",
+    "lastSeen": "2026-10-31T01:04:02.355Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 75,
@@ -131816,7 +131815,7 @@
       "health": 130,
       "mana": 115
     },
-    "exp": 33337,
+    "exp": 33322,
     "cooldowns": {
       "gacha": 1793408493739,
       "judi": 1793408578662,
