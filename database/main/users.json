@@ -133573,7 +133573,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 350,
+      "stamina": 330,
       "health": 620,
       "mana": 360,
       "maxHealth": 620,
@@ -133583,9 +133583,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 521110,
+    "exp": 521140,
     "name": "mıss",
-    "lastSeen": "2026-10-31T18:14:51.000Z",
+    "lastSeen": "2026-10-31T18:15:25.027Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793470495587,
@@ -133627,7 +133627,7 @@
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 4,
-    "energi": 99998,
+    "energi": 99997,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
