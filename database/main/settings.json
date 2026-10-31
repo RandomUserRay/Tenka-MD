@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Cannot read properties of null (reading 'access')",
+      "at": 1793448902950
+    },
+    {
+      "cmd": "unknown",
       "err": "sock.sendPreview is not a function",
       "at": 1793444800385
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789820223342
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789820218659
     }
   ],
   "jpmBlacklist": [],
