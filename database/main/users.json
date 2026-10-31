@@ -71280,7 +71280,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47034,
+    "exp": 47049,
     "level": 1,
     "koin": 346637,
     "unlockedFeatures": [],
@@ -71289,7 +71289,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T14:28:01.216Z",
+    "lastSeen": "2026-10-31T14:28:25.693Z",
     "cooldowns": {
       "afk": 1790993804471,
       "smeme": 1789731801068,
@@ -71312,7 +71312,7 @@
       "freelance": 1789739414126,
       "info": 1785477780986,
       "owner": 1785571703435,
-      "menucat": 1791264583893,
+      "menucat": 1793456906131,
       "jadibot": 1785573300804,
       "use": 1785580942662,
       "kerja": 1789625677670,
@@ -134627,7 +134627,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 5928,
+    "exp": 5943,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-10-31T14:12:18.638Z",
     "cooldowns": {
@@ -135537,7 +135537,7 @@
   "6285270575014": {
     "jid": "6285270575014",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1155,
     "energi": 99999
   },
   "6288707548656": {
@@ -136475,6 +136475,6 @@
   "6282339750662": {
     "jid": "6282339750662",
     "rpg": {},
-    "exp": 210
+    "exp": 225
   }
 }
