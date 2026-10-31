@@ -6416,7 +6416,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36571,
+    "exp": 36586,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -29150,10 +29150,10 @@
     "jid": "6285187171485",
     "name": "Ryoo",
     "number": "6285187171485",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298556,
+    "exp": 298616,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29164,11 +29164,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T13:29:11.831Z",
+    "lastSeen": "2026-10-31T13:35:04.502Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
-      "s": 1793453354889,
+      "s": 1793453705559,
       "brat": 1783160134077,
       "brathd": 1782800037546,
       "bratimg": 1790777492945,
@@ -33659,10 +33659,10 @@
     "jid": "6289654944433",
     "name": "ジャスティン.",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555589,
+    "exp": 555634,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33671,7 +33671,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T08:18:35.733Z",
+    "lastSeen": "2026-10-31T13:35:27.057Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -67735,7 +67735,7 @@
     "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176361,
+    "exp": 176391,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -134477,10 +134477,10 @@
   "6285189898164": {
     "jid": "6285189898164",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "energi": 99999,
-    "name": "sigma",
-    "lastSeen": "2026-10-27T11:28:33.088Z",
+    "name": "Ирфан Бруклин",
+    "lastSeen": "2026-10-31T13:35:43.576Z",
     "cooldowns": {
       "wm": 1793100513955
     },
@@ -135625,7 +135625,7 @@
   "6285751778143": {
     "jid": "6285751778143",
     "rpg": {},
-    "exp": 870,
+    "exp": 855,
     "energi": 99999
   },
   "6282229908596": {
@@ -135727,7 +135727,7 @@
   "6282297826771": {
     "jid": "6282297826771",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1455,
     "energi": 99999
   },
   "6283848754628": {
@@ -136419,20 +136419,25 @@
     "rpg": {},
     "exp": 45
   },
-  "6282374158645": {
-    "jid": "6282374158645",
-    "rpg": {},
-    "exp": 75
-  },
   "6285292183153": {
     "jid": "6285292183153",
     "rpg": {},
     "exp": 60
   },
+  "6282374158645": {
+    "jid": "6282374158645",
+    "rpg": {},
+    "exp": 75
+  },
   "6283823313582": {
     "jid": "6283823313582",
     "rpg": {},
     "exp": 15
+  },
+  "6287811931958": {
+    "jid": "6287811931958",
+    "rpg": {},
+    "exp": 75
   },
   "6283876435831": {
     "jid": "6283876435831",
@@ -136445,11 +136450,6 @@
     "jid": "6283850253439",
     "rpg": {},
     "exp": 90
-  },
-  "6287811931958": {
-    "jid": "6287811931958",
-    "rpg": {},
-    "exp": 75
   },
   "628136357052": {
     "name": "ARJUNA🇮🇩",
