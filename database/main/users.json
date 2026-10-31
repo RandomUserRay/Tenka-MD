@@ -4500,7 +4500,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234785,
+    "exp": 234770,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -35866,7 +35866,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1023477,
+    "exp": 1023447,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -103186,7 +103186,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23959,
+    "exp": 23974,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109727,7 +109727,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1755,
+    "exp": 1785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129625,7 +129625,7 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 780,
+    "exp": 810,
     "energi": 99997,
     "name": "oppression",
     "lastSeen": "2026-10-31T05:21:17.969Z",
@@ -129894,19 +129894,18 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 4713,
-    "energi": 99997,
+    "exp": 4668,
+    "energi": 99999,
     "koin": 1493,
     "name": "𝐋𝐕𝐑|𝐕𝐌𝐑wlue_sky",
-    "lastSeen": "2026-10-31T09:49:25.306Z",
+    "lastSeen": "2026-10-30T16:29:43.070Z",
     "cooldowns": {
       "play": 1793377788468,
       "s": 1793293604137,
-      "tekateki": 1793295604168,
-      "ig": 1793440172967
+      "tekateki": 1793295604168
     },
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 3
+    "lastActiveDate": "30/10/2026",
+    "activeDays": 2
   },
   "6282245345914": {
     "jid": "6282245345914",
@@ -129973,7 +129972,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 5505,
+    "exp": 5490,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-30T09:05:00.063Z",
@@ -131828,7 +131827,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 33802,
+    "exp": 33817,
     "cooldowns": {
       "gacha": 1793422560925,
       "judi": 1793408578662,
@@ -134679,7 +134678,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 1500,
+    "exp": 1455,
     "energi": 99999
   },
   "6285248334834": {
