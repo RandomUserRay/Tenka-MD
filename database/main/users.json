@@ -99315,7 +99315,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14250,
+    "exp": 14265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99325,11 +99325,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T21:36:50.267Z",
+    "lastSeen": "2026-10-31T21:44:20.103Z",
     "cooldowns": {
       "play": 1793477283155,
       "menu": 1793223831590,
-      "menucat": 1790198386832,
+      "menucat": 1793483061389,
       "cekfemboy": 1793458029842,
       "femboy": 1793458510896,
       "s": 1793469117701,
@@ -136608,12 +136608,13 @@
   },
   "628876093714": {
     "name": ":)(⁠θ⁠‿⁠θ⁠)🤓||",
-    "lastSeen": "2026-10-31T21:43:49.313Z",
+    "lastSeen": "2026-10-31T21:44:14.315Z",
     "jid": "628876093714",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "cooldowns": {
-      "menucat": 1793483030670
+      "menucat": 1793483030670,
+      "menu": 1793483059690
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 1
