@@ -19339,10 +19339,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91249,
+    "exp": 91294,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19351,9 +19351,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-01T04:17:59.824Z",
+    "lastSeen": "2026-10-31T09:42:46.067Z",
     "cooldowns": {
-      "bratvid": 1783402706255,
+      "bratvid": 1793439768929,
       "setan": 1782040946136,
       "anj": 1782040972707,
       "bratbahlil": 1782041656561,
@@ -19372,7 +19372,8 @@
       "bank": 1784456618997,
       "transfer": 1783935619820,
       "me": 1783942298349,
-      "job": 1784456789391
+      "job": 1784456789391,
+      "brat": 1793439746731
     },
     "clanId": null,
     "isRegistered": false,
@@ -19391,7 +19392,9 @@
     },
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 1
   },
   "6288994432677": {
     "name": "Fadhiel MK",
@@ -129622,7 +129625,7 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 735,
+    "exp": 750,
     "energi": 99997,
     "name": "oppression",
     "lastSeen": "2026-10-31T05:21:17.969Z",
@@ -129969,7 +129972,7 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {},
-    "exp": 5505,
+    "exp": 5490,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-10-30T09:05:00.063Z",
@@ -134675,7 +134678,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 1515,
+    "exp": 1455,
     "energi": 99999
   },
   "6285248334834": {
@@ -136155,10 +136158,10 @@
   "6287790992387": {
     "jid": "6287790992387",
     "rpg": {},
-    "exp": 360,
+    "exp": 345,
     "registeredAt": 1793367741208,
     "name": "AKU MAU EROPA",
-    "lastSeen": "2026-10-31T09:42:15.690Z",
+    "lastSeen": "2026-10-31T09:39:09.619Z",
     "cooldowns": {
       "me": 1793367743595,
       "play": 1793439574307,
@@ -136169,7 +136172,7 @@
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 2,
-    "energi": 99996
+    "energi": 99997
   },
   "6285822747709": {
     "jid": "6285822747709",
