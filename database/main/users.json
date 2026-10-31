@@ -109720,7 +109720,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1410,
+    "exp": 1425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133377,7 +133377,7 @@
   },
   "6281221110247": {
     "name": "seven",
-    "lastSeen": "2026-10-30T14:28:49.582Z",
+    "lastSeen": "2026-10-31T01:13:53.583Z",
     "jid": "6281221110247",
     "rpg": {
       "stamina": 48,
@@ -133387,7 +133387,7 @@
       "luck": 7,
       "attack": 10
     },
-    "exp": 1881,
+    "exp": 1896,
     "cooldowns": {
       "gay": 1792946183021,
       "cekfemboy": 1792946255705,
@@ -133402,10 +133402,11 @@
       "train": 1793370433093,
       "training": 1793370452730,
       "exp": 1793370503288,
-      "dungeon": 1793370521900
+      "dungeon": 1793370521900,
+      "menucat": 1793409234380
     },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 2,
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 3,
     "energi": 99999,
     "koin": 15334,
     "registeredAt": 1793370341370,
@@ -136253,6 +136254,6 @@
   "6285182917896": {
     "jid": "6285182917896",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
