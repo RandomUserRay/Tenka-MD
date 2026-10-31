@@ -349,7 +349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54295,
+    "exp": 54310,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -122410,16 +122410,17 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 4335,
-    "energi": 99992,
+    "exp": 4350,
+    "energi": 99991,
     "name": "Noah",
-    "lastSeen": "2026-10-31T05:13:32.180Z",
+    "lastSeen": "2026-10-31T05:37:35.329Z",
     "cooldowns": {
       "femboy": 1793294131867,
       "s": 1793260845801,
       "me": 1793255056565,
       "cekmesum": 1793388210554,
-      "play": 1793423626569
+      "play": 1793423626569,
+      "smeme": 1793425061108
     },
     "lastActiveDate": "31/10/2026",
     "activeDays": 3,
