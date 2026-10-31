@@ -1604,7 +1604,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314007,
+    "exp": 314022,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T00:00:12.045Z",
+    "lastSeen": "2026-10-31T23:08:57.315Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -1625,7 +1625,7 @@
       "play": 1793232029659,
       "werewolf": 1780194930580,
       "ww": 1782566950447,
-      "femboy": 1790422384065,
+      "femboy": 1793488143293,
       "profile": 1785307535812,
       "tembak": 1780315688745,
       "jodoh": 1780235036441,
@@ -1819,8 +1819,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 8
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 9
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -4500,7 +4500,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234815,
+    "exp": 234830,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
