@@ -3514,7 +3514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 431897,
+    "exp": 431807,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -97114,7 +97114,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32513,
+    "exp": 32468,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97426,7 +97426,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5775,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125638,7 +125638,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 1530,
+    "exp": 1515,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-10-29T11:08:32.971Z",
@@ -131729,19 +131729,20 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 3690,
+    "exp": 3705,
     "name": "Haafiz",
-    "lastSeen": "2026-10-30T12:42:03.345Z",
+    "lastSeen": "2026-10-31T01:05:16.573Z",
     "cooldowns": {
       "afk": 1793358728409,
       "tt": 1793323156910,
       "rest": 1793363144362,
       "pin": 1793364108757,
-      "s": 1793364123645
+      "s": 1793364123645,
+      "gacha": 1793408717262
     },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 4,
-    "energi": 99999
+    "lastActiveDate": "31/10/2026",
+    "activeDays": 5,
+    "energi": 99998
   },
   "6283188010317": {
     "jid": "6283188010317",
@@ -131802,20 +131803,20 @@
   },
   "62895321723163": {
     "name": "andika Protogen E3",
-    "lastSeen": "2026-10-31T01:04:02.355Z",
+    "lastSeen": "2026-10-31T01:06:21.086Z",
     "jid": "62895321723163",
     "rpg": {
-      "stamina": 75,
+      "stamina": 100,
       "bank": 242076,
       "luck": 7,
       "level": 4,
       "maxHealth": 130,
       "maxMana": 115,
       "maxStamina": 115,
-      "health": 130,
-      "mana": 115
+      "health": 105,
+      "mana": 53
     },
-    "exp": 33322,
+    "exp": 33352,
     "cooldowns": {
       "gacha": 1793408493739,
       "judi": 1793408578662,
@@ -131831,7 +131832,7 @@
       "paket": 1793408560031,
       "me": 1793329582319,
       "pin": 1793336172062,
-      "rest": 1793363123817,
+      "rest": 1793408785026,
       "afk": 1793242616128,
       "level": 1793243321736,
       "daily": 1793243359608,
