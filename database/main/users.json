@@ -69549,7 +69549,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14287,
+    "exp": 14302,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -69637,11 +69637,7 @@
       "maxStamina": 105,
       "level": 2,
       "maxMana": 105,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "lobi",
-        "time": 1791460796698
-      }
+      "attack": 10
     },
     "inventory": {
       "rock": 11,
@@ -136479,6 +136475,6 @@
   "6282339750662": {
     "jid": "6282339750662",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   }
 }
