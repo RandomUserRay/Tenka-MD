@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "sock.sendPreview is not a function",
+      "at": 1793469001768
+    },
+    {
+      "cmd": "unknown",
+      "err": "sock.sendPreview is not a function",
       "at": 1793468992080
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789865410515
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1789861771601
     }
   ],
   "jpmBlacklist": [],
