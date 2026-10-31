@@ -3085,7 +3085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 719921,
+    "exp": 720011,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3197,13 +3197,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 72,
-      "health": 810,
-      "maxHealth": 810,
-      "mana": 455,
-      "maxMana": 455,
-      "stamina": 455,
-      "maxStamina": 455,
+      "level": 73,
+      "health": 820,
+      "maxHealth": 820,
+      "mana": 460,
+      "maxMana": 460,
+      "stamina": 460,
+      "maxStamina": 460,
       "bank": 3681411,
       "spouse": "628981194866@s.whatsapp.net",
       "marriedAt": 1788533040955
@@ -4500,7 +4500,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 234665,
+    "exp": 234695,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -97118,7 +97118,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32918,
+    "exp": 32948,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -122410,7 +122410,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 4425,
+    "exp": 4455,
     "energi": 99991,
     "name": "Noah",
     "lastSeen": "2026-10-31T05:37:35.329Z",
@@ -135763,7 +135763,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11475,
+    "exp": 11460,
     "energi": 99999
   },
   "6281283179005": {
@@ -136302,6 +136302,6 @@
   "6287822516072": {
     "jid": "6287822516072",
     "rpg": {},
-    "exp": 60
+    "exp": 45
   }
 }
