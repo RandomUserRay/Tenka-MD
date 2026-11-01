@@ -1,6 +1,6 @@
 {
   "commandErrors": 675,
-  "commandsExecuted": 138208,
+  "commandsExecuted": 138209,
   "command_totalchat": 26,
   "command_menu": 2394,
   "command_fb": 14,
@@ -189,7 +189,7 @@
   "command_addplugin": 101,
   "command_autoreply": 86,
   "command_addcmdsticker": 7,
-  "command_ganticode": 568,
+  "command_ganticode": 569,
   "command_p2": 7,
   "command_delstickercmd": 2,
   "command_ganti-ourin-v9.jpg": 1,
@@ -1466,5 +1466,6 @@
   "command_nh": 6,
   "command_happy": 1,
   "command_twitter": 1,
-  "command_tulis": 1
+  "command_tulis": 1,
+  "command_htpfp": 1
 }
