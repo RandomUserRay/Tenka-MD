@@ -16142,10 +16142,10 @@
     "jid": "6285753061976",
     "name": "nice nature",
     "number": "6285753061976",
-    "energi": 999999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9397982,
+    "exp": 9397997,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16154,7 +16154,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T22:28:48.790Z",
+    "lastSeen": "2026-11-01T22:28:57.234Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16288,7 +16288,7 @@
       "coba": 1783004098559,
       "cuddle": 1783004106118,
       "rcumvid": 1783004166639,
-      "tt": 1793572123770,
+      "tt": 1793572146086,
       "apkmod": 1783004986963,
       "sultan": 1783042772072,
       "smeme": 1783042808990,
@@ -96919,13 +96919,13 @@
   },
   "6285817724197": {
     "name": "fael karbu",
-    "lastSeen": "2026-11-01T22:29:50.032Z",
+    "lastSeen": "2026-10-31T11:36:11.136Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5115,
+    "exp": 5100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -134816,7 +134816,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 5055,
+    "exp": 5085,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T13:05:09.661Z",
@@ -135021,7 +135021,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13977,
+    "exp": 13992,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-01T02:54:24.968Z",
     "energi": 99999,
@@ -137058,6 +137058,6 @@
   "6283192975068": {
     "jid": "6283192975068",
     "rpg": {},
-    "exp": 30
+    "exp": 75
   }
 }
