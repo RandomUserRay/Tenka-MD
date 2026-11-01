@@ -81346,12 +81346,12 @@
   },
   "6285779306833": {
     "jid": "6285779306833",
-    "name": "admin grup mengeluarkan anda",
+    "name": "admin mengeluarkan anda",
     "number": "6285779306833",
-    "energi": 999997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 840,
+    "exp": 825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -81361,11 +81361,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T00:34:27.292Z",
+    "lastSeen": "2026-10-30T14:07:49.162Z",
     "cooldowns": {
       "play": 1787637739862,
       "s": 1787751681463,
-      "naked": 1793493288177
+      "naked": 1793492811371
     },
     "clanId": null,
     "isRegistered": false,
@@ -127819,13 +127819,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-11-01T00:32:30.016Z",
+    "lastSeen": "2026-11-01T00:34:57.995Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 290,
       "maxHealth": 290,
-      "stamina": 94,
+      "stamina": 49,
       "maxStamina": 195,
       "level": 20,
       "maxMana": 195,
@@ -127849,7 +127849,7 @@
       },
       "expeditions": []
     },
-    "exp": 195417,
+    "exp": 196962,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1793492913298,
@@ -127995,9 +127995,9 @@
       "kiss": 1791606931548,
       "hug": 1791606977083,
       "marry": 1791607038729,
-      "mancing": 1791691727778,
+      "mancing": 1793493304191,
       "weekly": 1791621896492,
-      "bank": 1791692704301,
+      "bank": 1793493270060,
       "guild": 1791627445080,
       "training": 1791626128480,
       "daily": 1791622210098,
@@ -128032,7 +128032,7 @@
       "clan": 1791624781507,
       "streamer": 1791625249135,
       "expedition": 1791625515280,
-      "live": 1791692162879,
+      "live": 1793493292129,
       "ngemis": 1791625627129,
       "nulis": 1791625636983,
       "mulung": 1791630096740,
@@ -128045,12 +128045,13 @@
       "ceksexy": 1791648374517,
       "putus": 1791691579284,
       "tembak": 1791691607678,
-      "pacar": 1791691648492
+      "pacar": 1791691648492,
+      "kerja": 1793493299695
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
-    "energi": 99985,
-    "koin": 0,
+    "energi": 99984,
+    "koin": 21556,
     "inventory": {
       "potion": 4,
       "iron": 2,
@@ -128060,7 +128061,7 @@
       "coal": 2,
       "fish": 1,
       "rock": 28,
-      "octopus": 1,
+      "octopus": 2,
       "gold": 1,
       "uncommon": 0,
       "whale": 0,
@@ -134666,7 +134667,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 5913,
+    "exp": 5928,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-10-31T15:59:38.096Z",
     "cooldowns": {
@@ -136516,28 +136517,22 @@
     "exp": 105,
     "energi": 99999
   },
-  "6285292183153": {
-    "jid": "6285292183153",
-    "rpg": {},
-    "exp": 60,
-    "energi": 99999
-  },
   "6282374158645": {
     "jid": "6282374158645",
     "rpg": {},
     "exp": 75,
     "energi": 99999
   },
+  "6285292183153": {
+    "jid": "6285292183153",
+    "rpg": {},
+    "exp": 60,
+    "energi": 99999
+  },
   "6283823313582": {
     "jid": "6283823313582",
     "rpg": {},
     "exp": 75,
-    "energi": 99999
-  },
-  "6287811931958": {
-    "jid": "6287811931958",
-    "rpg": {},
-    "exp": 90,
     "energi": 99999
   },
   "6283876435831": {
@@ -136550,6 +136545,12 @@
   },
   "6283850253439": {
     "jid": "6283850253439",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287811931958": {
+    "jid": "6287811931958",
     "rpg": {},
     "exp": 90,
     "energi": 99999
