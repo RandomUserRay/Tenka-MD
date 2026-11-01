@@ -71813,12 +71813,12 @@
   },
   "6287811930699": {
     "jid": "6287811930699",
-    "name": "FATHIR",
+    "name": "M",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73486,
+    "exp": 73516,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71827,7 +71827,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-07T03:05:14.137Z",
+    "lastSeen": "2026-11-01T12:32:41.178Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71874,7 +71874,7 @@
       "brat": 1787743643132,
       "bratimg": 1787743653577,
       "bratvideo": 1786884921431,
-      "tt": 1791203424903,
+      "tt": 1793536361951,
       "stiker": 1787741309187,
       "menu": 1788179323999,
       "menucat": 1788247404976,
@@ -71915,8 +71915,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 22,
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 23,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -134786,7 +134786,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 4650,
+    "exp": 4665,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T06:10:09.381Z",
