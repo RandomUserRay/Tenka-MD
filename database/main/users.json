@@ -81364,7 +81364,8 @@
     "lastSeen": "2026-10-30T14:07:49.162Z",
     "cooldowns": {
       "play": 1787637739862,
-      "s": 1787751681463
+      "s": 1787751681463,
+      "naked": 1793492811371
     },
     "clanId": null,
     "isRegistered": false,
@@ -81373,7 +81374,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   },
   "62895630205708": {
     "jid": "62895630205708",
