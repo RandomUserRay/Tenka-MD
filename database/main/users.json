@@ -63745,7 +63745,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555,
+    "exp": 570,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -79754,7 +79754,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2655,
+    "exp": 2670,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -119875,7 +119875,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 285,
+    "exp": 300,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127780,7 +127780,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 8310,
+    "exp": 8355,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-10-31T13:11:39.725Z",
@@ -132238,9 +132238,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 47704,
+    "exp": 47734,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T07:31:29.401Z",
+    "lastSeen": "2026-11-01T07:31:52.493Z",
     "cooldowns": {
       "menu": 1792994078789,
       "menucat": 1792945117438,
@@ -132270,11 +132270,12 @@
       "duel": 1793370408789,
       "training": 1793370447827,
       "marry": 1793370511228,
-      "top": 1793506722878
+      "top": 1793506722878,
+      "ytmp3": 1793518313059
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
-    "energi": 99999,
+    "energi": 99997,
     "koin": 48678,
     "inventory": {
       "potion": 3,
@@ -134699,7 +134700,7 @@
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-11-01T07:31:50.666Z",
     "cooldowns": {
-      "afk": 1793455942514,
+      "afk": 1793518314719,
       "cekfemboy": 1793194162480,
       "ytmp4": 1793240692361,
       "me": 1793243245319,
@@ -134708,8 +134709,8 @@
       "pin": 1793452027212,
       "happy": 1793364321587
     },
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 5,
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 6,
     "energi": 99999,
     "registeredAt": 1793243244036,
     "koin": 2586
