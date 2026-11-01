@@ -102186,12 +102186,12 @@
   },
   "6281260770039": {
     "jid": "6281260770039",
-    "name": "Unknown",
+    "name": "sesat",
     "number": "6281260770039",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 960,
+    "exp": 975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102201,8 +102201,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-03T02:14:43.539Z",
-    "cooldowns": {},
+    "lastSeen": "2026-11-01T15:00:08.736Z",
+    "cooldowns": {
+      "femboy": 1793545215487
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -102210,7 +102212,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   },
   "601127792655": {
     "jid": "601127792655",
