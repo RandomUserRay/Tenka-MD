@@ -91267,7 +91267,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49875,
+    "exp": 49905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -134132,7 +134132,7 @@
   "6285183144501": {
     "jid": "6285183144501",
     "rpg": {},
-    "exp": 6690,
+    "exp": 6705,
     "energi": 99999
   },
   "6283184530258": {
@@ -136838,6 +136838,10 @@
     "rpg": {},
     "exp": 15,
     "energi": 999997,
-    "cooldowns": {}
+    "cooldowns": {
+      "pin": 1793530703553
+    },
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   }
 }
