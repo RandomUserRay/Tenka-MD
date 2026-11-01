@@ -130022,7 +130022,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13350,
+    "exp": 13380,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T03:59:31.671Z",
@@ -135060,15 +135060,16 @@
   "6285811081193": {
     "jid": "6285811081193",
     "rpg": {},
-    "exp": 225,
-    "energi": 99999,
+    "exp": 240,
+    "energi": 99997,
     "name": "dennizz",
-    "lastSeen": "2026-10-31T14:46:07.592Z",
+    "lastSeen": "2026-11-01T04:14:52.873Z",
     "cooldowns": {
-      "femboy": 1793457974261
+      "femboy": 1793457974261,
+      "femboys": 1793506499302
     },
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 2
   },
   "6282148168133": {
     "jid": "6282148168133",
