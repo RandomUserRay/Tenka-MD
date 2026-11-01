@@ -1,6 +1,6 @@
 {
   "commandErrors": 675,
-  "commandsExecuted": 138210,
+  "commandsExecuted": 138211,
   "command_totalchat": 26,
   "command_menu": 2394,
   "command_fb": 14,
@@ -1467,5 +1467,6 @@
   "command_happy": 1,
   "command_twitter": 1,
   "command_tulis": 1,
-  "command_htpfp": 1
+  "command_htpfp": 1,
+  "command_htfake": 1
 }
