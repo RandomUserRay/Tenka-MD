@@ -63745,7 +63745,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 990,
+    "exp": 1005,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63754,7 +63754,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T13:10:07.535Z",
+    "lastSeen": "2026-11-01T13:10:53.549Z",
     "cooldowns": {
       "ytmp3": 1793518782227,
       "dl": 1793518700013,
@@ -63762,7 +63762,7 @@
       "owner": 1793518825933,
       "play": 1793518869938,
       "cekfemboy": 1793535518003,
-      "top": 1793538607953
+      "top": 1793538654170
     },
     "clanId": null,
     "isRegistered": false,
@@ -129693,7 +129693,7 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 1755,
+    "exp": 1770,
     "energi": 99999,
     "name": "oppression",
     "lastSeen": "2026-10-31T13:56:33.918Z",
@@ -132262,9 +132262,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49432,
+    "exp": 49447,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T12:56:17.256Z",
+    "lastSeen": "2026-11-01T13:10:54.496Z",
     "cooldowns": {
       "menu": 1792994078789,
       "menucat": 1793535581828,
@@ -132279,7 +132279,7 @@
       "tolol": 1792985001209,
       "tts": 1792985135043,
       "masak": 1792985491336,
-      "job": 1793518682723,
+      "job": 1793538655104,
       "tebaknegara": 1792991823225,
       "casino": 1793518517652,
       "streamer": 1793370550737,
@@ -133501,17 +133501,17 @@
   },
   "6281221110247": {
     "name": "seven",
-    "lastSeen": "2026-11-01T13:08:43.929Z",
+    "lastSeen": "2026-11-01T13:10:57.823Z",
     "jid": "6281221110247",
     "rpg": {
-      "stamina": 48,
+      "stamina": 28,
       "health": 90,
       "maxHealth": 100,
       "maxStamina": 100,
       "luck": 7,
       "attack": 10
     },
-    "exp": 2556,
+    "exp": 2571,
     "cooldowns": {
       "gay": 1792946183021,
       "cekfemboy": 1793534765340,
@@ -133529,7 +133529,8 @@
       "dungeon": 1793370521900,
       "menucat": 1793409234380,
       "sticker": 1793409263518,
-      "top": 1793538524986
+      "top": 1793538524986,
+      "streamer": 1793538662807
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 4,
@@ -133539,7 +133540,8 @@
     "inventory": {
       "diamond": 2,
       "leather": 5
-    }
+    },
+    "lastStreamer": 1793538962196
   },
   "6285926115743": {
     "name": "RAM",
@@ -133643,7 +133645,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 310,
+      "stamina": 290,
       "health": 620,
       "mana": 360,
       "maxHealth": 620,
@@ -133653,9 +133655,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 526044,
+    "exp": 527064,
     "name": "mıss",
-    "lastSeen": "2026-11-01T08:28:00.637Z",
+    "lastSeen": "2026-11-01T13:11:03.268Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793521684683,
@@ -133683,7 +133685,7 @@
       "nikah": 1793012484545,
       "me": 1792998194636,
       "inv": 1793361895312,
-      "streamer": 1793521668581,
+      "streamer": 1793538654502,
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
@@ -133697,7 +133699,7 @@
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 4,
-    "energi": 99990,
+    "energi": 99989,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133707,7 +133709,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1284564,
+    "koin": 1314284,
     "inventory": {
       "trash": 0,
       "prawn": 0,
