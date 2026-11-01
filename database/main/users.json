@@ -3085,7 +3085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 721481,
+    "exp": 721496,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -101407,7 +101407,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4095,
+    "exp": 4110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129896,7 +129896,7 @@
       "stamina": 125,
       "bank": 0
     },
-    "exp": 51210,
+    "exp": 51285,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-11-01T09:54:37.931Z",
@@ -134782,7 +134782,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 4470,
+    "exp": 4485,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T06:10:09.381Z",
@@ -136705,7 +136705,7 @@
   "6281586114613": {
     "jid": "6281586114613",
     "rpg": {},
-    "exp": 2475,
+    "exp": 2490,
     "energi": 99999,
     "name": "lok.",
     "lastSeen": "2026-11-01T09:28:26.435Z",
@@ -136869,6 +136869,6 @@
   "6287779627473": {
     "jid": "6287779627473",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   }
 }
