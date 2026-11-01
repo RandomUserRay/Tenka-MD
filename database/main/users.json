@@ -133390,9 +133390,9 @@
         "stats": null
       }
     },
-    "exp": 589690,
+    "exp": 589705,
     "name": "Fиз",
-    "lastSeen": "2026-11-01T12:22:08.325Z",
+    "lastSeen": "2026-11-01T12:23:10.846Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133457,11 +133457,12 @@
       "jualan": 1793010405453,
       "coba": 1793535662126,
       "kapan": 1793535687623,
-      "sangean": 1793535729623
+      "sangean": 1793535729623,
+      "pakustad": 1793535791346
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 3,
-    "energi": 99999,
+    "energi": 99998,
     "koin": 235998,
     "isRegistered": true,
     "regName": "Faeres",
