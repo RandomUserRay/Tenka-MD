@@ -822,7 +822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69138,
+    "exp": 69108,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -3085,7 +3085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720446,
+    "exp": 720401,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -19346,7 +19346,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91294,
+    "exp": 91324,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -32545,7 +32545,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 464196,
+    "exp": 464211,
     "level": 1,
     "koin": 6150,
     "unlockedFeatures": [],
@@ -67734,10 +67734,10 @@
     "jid": "6283135864303",
     "name": "king win",
     "number": "6283135864303",
-    "energi": 99994,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176601,
+    "exp": 176571,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67752,10 +67752,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T03:26:59.824Z",
+    "lastSeen": "2026-11-01T03:23:44.819Z",
     "cooldowns": {
       "afk": 1793446611597,
-      "s": 1793503588634,
+      "s": 1793503076315,
       "play": 1793503437130,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -102708,7 +102708,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130021,14 +130021,14 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11325,
+    "exp": 11220,
     "energi": 99994,
     "name": "Savan",
-    "lastSeen": "2026-11-01T03:26:53.067Z",
+    "lastSeen": "2026-11-01T03:25:27.733Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
-      "femboy": 1793503618294,
+      "femboy": 1793503531796,
       "femboys": 1793449917130,
       "afk": 1793454139462,
       "intro": 1793464188873,
@@ -136545,28 +136545,22 @@
     "exp": 105,
     "energi": 99999
   },
-  "6285292183153": {
-    "jid": "6285292183153",
-    "rpg": {},
-    "exp": 60,
-    "energi": 99999
-  },
   "6282374158645": {
     "jid": "6282374158645",
     "rpg": {},
     "exp": 75,
     "energi": 99999
   },
+  "6285292183153": {
+    "jid": "6285292183153",
+    "rpg": {},
+    "exp": 60,
+    "energi": 99999
+  },
   "6283823313582": {
     "jid": "6283823313582",
     "rpg": {},
     "exp": 840,
-    "energi": 99999
-  },
-  "6287811931958": {
-    "jid": "6287811931958",
-    "rpg": {},
-    "exp": 90,
     "energi": 99999
   },
   "6283876435831": {
@@ -136579,6 +136573,12 @@
   },
   "6283850253439": {
     "jid": "6283850253439",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
+  "6287811931958": {
+    "jid": "6287811931958",
     "rpg": {},
     "exp": 90,
     "energi": 99999
@@ -136635,15 +136635,11 @@
   "6281586114613": {
     "jid": "6281586114613",
     "rpg": {},
-    "exp": 510,
+    "exp": 435,
     "energi": 99999,
     "name": "moon.",
-    "lastSeen": "2026-11-01T03:27:00.626Z",
-    "cooldowns": {
-      "femboy": 1793503534963
-    },
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 1
+    "lastSeen": "2026-11-01T03:25:28.807Z",
+    "cooldowns": {}
   },
   "6285129196282": {
     "jid": "6285129196282",
