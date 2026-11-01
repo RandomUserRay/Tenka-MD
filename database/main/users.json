@@ -63740,12 +63740,12 @@
   },
   "6281933246414": {
     "jid": "6281933246414",
-    "name": "[JKWI] HazolanGD",
+    "name": "💫⭐ 𝕎𝕙𝕠 ℍ𝕒𝕫𝕠𝕝𝕒𝕟?! ⭐💫",
     "number": "6281933246414",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 570,
+    "exp": 585,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63754,8 +63754,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-19T00:49:54.042Z",
-    "cooldowns": {},
+    "lastSeen": "2026-11-01T07:32:28.490Z",
+    "cooldowns": {
+      "ytmp3": 1793518355591
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -63763,7 +63765,9 @@
     "regGender": null,
     "rpg": {},
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   },
   "628211048145": {
     "jid": "628211048145",
@@ -125000,7 +125004,7 @@
   "6288214087346": {
     "jid": "6288214087346",
     "rpg": {},
-    "exp": 225,
+    "exp": 255,
     "energi": 99999
   },
   "6285828789116": {
@@ -135826,7 +135830,7 @@
   "6285880334684": {
     "jid": "6285880334684",
     "rpg": {},
-    "exp": 750,
+    "exp": 765,
     "energi": 99999
   },
   "62881011389656": {
