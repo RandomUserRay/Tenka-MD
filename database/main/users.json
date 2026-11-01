@@ -3085,7 +3085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722156,
+    "exp": 722171,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -9838,13 +9838,13 @@
   },
   "6281310184404": {
     "name": "Elara-mao",
-    "lastSeen": "2026-11-01T12:49:22.119Z",
+    "lastSeen": "2026-11-01T12:49:41.951Z",
     "jid": "6281310184404",
     "number": "6281310184404",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56655,
+    "exp": 56685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54941,7 +54941,7 @@
     "energi": 99997,
     "isPremium": true,
     "isBanned": false,
-    "exp": 224831,
+    "exp": 224906,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -125690,7 +125690,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 3270,
+    "exp": 3285,
     "energi": 99993,
     "name": "yeas",
     "lastSeen": "2026-11-01T12:49:20.260Z",
@@ -136891,5 +136891,17 @@
     "exp": 120,
     "name": "証JEMBIT",
     "lastSeen": "2026-11-01T12:32:18.953Z"
+  },
+  "6288223882846": {
+    "name": "alunaluna",
+    "lastSeen": "2026-11-01T12:49:27.975Z",
+    "jid": "6288223882846",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "tsundere": 1793537370754
+    },
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   }
 }
