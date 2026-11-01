@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "sock.sendPreview is not a function",
+      "at": 1793537430162
+    },
+    {
+      "cmd": "unknown",
+      "err": "sock.sendPreview is not a function",
       "at": 1793493091815
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1789905279863
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789903249114
     }
   ],
   "jpmBlacklist": [],
