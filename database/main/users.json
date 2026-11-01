@@ -3085,7 +3085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720356,
+    "exp": 720371,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -125670,10 +125670,10 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 2460,
-    "energi": 99997,
+    "exp": 2475,
+    "energi": 99996,
     "name": "yeas",
-    "lastSeen": "2026-11-01T03:11:17.628Z",
+    "lastSeen": "2026-11-01T03:23:30.458Z",
     "cooldowns": {
       "s": 1793502657744,
       "cekganteng": 1790509392925,
@@ -135245,8 +135245,11 @@
   "6282154763551": {
     "jid": "6282154763551",
     "rpg": {},
-    "exp": 345,
-    "energi": 99999
+    "exp": 360,
+    "energi": 99999,
+    "name": "Mas Rusdi",
+    "lastSeen": "2026-11-01T03:23:25.579Z",
+    "cooldowns": {}
   },
   "6282197777517": {
     "jid": "6282197777517",
