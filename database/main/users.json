@@ -67737,7 +67737,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177006,
+    "exp": 177021,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67752,7 +67752,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T06:37:53.470Z",
+    "lastSeen": "2026-11-01T06:38:24.056Z",
     "cooldowns": {
       "afk": 1793510373223,
       "s": 1793514552480,
@@ -67776,7 +67776,7 @@
       "kick": 1786372454790,
       "owner": 1787574324932,
       "allmenu": 1785405109874,
-      "cekfemboy": 1793515079514,
+      "cekfemboy": 1793515109670,
       "cekganteng": 1790316821604,
       "jelek": 1785514695642,
       "cekcantik": 1790316856632,
@@ -136730,12 +136730,13 @@
   "6281110002769": {
     "jid": "6281110002769",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "name": "M",
-    "lastSeen": "2026-11-01T06:37:38.187Z",
+    "lastSeen": "2026-11-01T06:38:25.761Z",
     "cooldowns": {
       "femboy": 1793515065736,
-      "tsundere": 1793515009498
+      "tsundere": 1793515009498,
+      "cekcantik": 1793515107460
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 1
