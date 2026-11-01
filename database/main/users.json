@@ -132269,9 +132269,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49237,
+    "exp": 49252,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T15:22:45.868Z",
+    "lastSeen": "2026-11-01T15:23:21.006Z",
     "cooldowns": {
       "menu": 1793546541776,
       "menucat": 1793546566282,
@@ -132305,11 +132305,12 @@
       "ytmp3": 1793518424592,
       "ytmp4": 1793518399997,
       "dl": 1793518624149,
-      "slowmode": 1793540586121
+      "slowmode": 1793540586121,
+      "wastalk": 1793546603014
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
-    "energi": 99991,
+    "energi": 99989,
     "koin": 64412,
     "inventory": {
       "potion": 3,
