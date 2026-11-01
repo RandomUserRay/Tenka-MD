@@ -132269,9 +132269,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49222,
+    "exp": 49207,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T15:23:59.911Z",
+    "lastSeen": "2026-11-01T13:43:05.630Z",
     "cooldowns": {
       "menu": 1792994078789,
       "menucat": 1793535581828,
@@ -132305,12 +132305,11 @@
       "ytmp3": 1793518424592,
       "ytmp4": 1793518399997,
       "dl": 1793518624149,
-      "slowmode": 1793540586121,
-      "wastalk": 1793546642691
+      "slowmode": 1793540586121
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
-    "energi": 99989,
+    "energi": 99991,
     "koin": 64412,
     "inventory": {
       "potion": 3,
@@ -136896,7 +136895,7 @@
   "6281585250900": {
     "jid": "6281585250900",
     "rpg": {},
-    "exp": 825,
+    "exp": 840,
     "name": "Agus lapar buk",
     "lastSeen": "2026-11-01T14:11:25.555Z",
     "cooldowns": {
