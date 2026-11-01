@@ -478,7 +478,8 @@
         "06:00_2026-10-11": true,
         "14:00_2026-10-11": true,
         "06:00_2026-11-01": true,
-        "14:00_2026-11-01": true
+        "14:00_2026-11-01": true,
+        "19:00_2026-11-01": true
       },
       "createdAt": 1788349424120
     },
@@ -29733,10 +29734,6 @@
     "6287779627473@s.whatsapp.net": {
       "jid": "6287779627473@s.whatsapp.net",
       "name": "Not your problem"
-    },
-    "628813028264@s.whatsapp.net": {
-      "jid": "628813028264@s.whatsapp.net",
-      "name": "say no"
     }
   },
   "antiCall": false,
