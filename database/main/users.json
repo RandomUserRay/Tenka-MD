@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117603423,
+    "exp": 117603438,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -9844,7 +9844,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 56745,
+    "exp": 56760,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130053,7 +130053,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18150,
+    "exp": 18165,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T12:33:58.237Z",
@@ -134096,7 +134096,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 4470,
+    "exp": 4485,
     "energi": 99997,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-01T11:42:35.804Z",
@@ -134794,7 +134794,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 4920,
+    "exp": 4935,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T06:10:09.381Z",
@@ -136935,6 +136935,6 @@
   "6287715473775": {
     "jid": "6287715473775",
     "rpg": {},
-    "exp": 135
+    "exp": 150
   }
 }
