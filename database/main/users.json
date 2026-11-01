@@ -100142,10 +100142,10 @@
     "jid": "6281521975279",
     "name": "Reyy",
     "number": "6281521975279",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7485,
+    "exp": 7500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100155,12 +100155,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T13:25:29.662Z",
+    "lastSeen": "2026-11-01T01:14:42.884Z",
     "cooldowns": {
       "ytmp4": 1791686046470,
       "play": 1791686030831,
       "tembak": 1787893758938,
-      "s": 1790142515211,
+      "s": 1793495688962,
       "rvo": 1793280331250,
       "hd": 1790686194087,
       "h": 1790685091038,
@@ -100175,8 +100175,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 19
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 20
   },
   "6285210615596": {
     "jid": "6285210615596",
