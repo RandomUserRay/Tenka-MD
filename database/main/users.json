@@ -54942,7 +54942,7 @@
     "energi": 99995,
     "isPremium": true,
     "isBanned": false,
-    "exp": 225956,
+    "exp": 226031,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -54951,7 +54951,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T13:06:17.334Z",
+    "lastSeen": "2026-11-01T14:11:58.174Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55000,7 +55000,8 @@
       "setbg": 1793369404656,
       "setcolor": 1793369500735,
       "addrole": 1793369606495,
-      "qc": 1793450075263
+      "qc": 1793450075263,
+      "mutegc": 1793542318467
     },
     "clanId": null,
     "isRegistered": false,
@@ -129906,10 +129907,10 @@
       "stamina": 125,
       "bank": 0
     },
-    "exp": 53010,
-    "energi": 99999,
+    "exp": 53085,
+    "energi": 99997,
     "name": "Devvarajha",
-    "lastSeen": "2026-11-01T09:54:37.931Z",
+    "lastSeen": "2026-11-01T14:11:56.977Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1793526884039,
@@ -129920,7 +129921,7 @@
       "status": 1793251126892,
       "freelance": 1793255015949,
       "slot": 1793255031666,
-      "ship": 1793290920307,
+      "ship": 1793542323692,
       "naked": 1793357652783
     },
     "lastActiveDate": "1/11/2026",
@@ -130053,7 +130054,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18615,
+    "exp": 18630,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T14:10:59.876Z",
