@@ -127819,13 +127819,13 @@
   },
   "6289524280314": {
     "name": "𝔅𝔬𝔯𝔤𝔞𝔯𝔢𝔩𝔫𝔱™♪♪",
-    "lastSeen": "2026-11-01T00:35:07.128Z",
+    "lastSeen": "2026-11-01T00:35:14.027Z",
     "jid": "6289524280314",
     "rpg": {
       "attack": 10,
       "health": 290,
       "maxHealth": 290,
-      "stamina": 24,
+      "stamina": 4,
       "maxStamina": 195,
       "level": 20,
       "maxMana": 195,
@@ -127849,7 +127849,7 @@
       },
       "expeditions": []
     },
-    "exp": 197277,
+    "exp": 197292,
     "cooldowns": {
       "menucat": 1791623250903,
       "menu": 1793492913298,
@@ -127921,7 +127921,7 @@
       "capcutdl": 1791472934746,
       "sendbug": 1791473015016,
       "adventure": 1791627211272,
-      "hunt": 1791631976701,
+      "hunt": 1793493310914,
       "rest": 1791691812278,
       "cooking": 1791565261985,
       "bratcewek": 1791475035889,
@@ -128050,7 +128050,7 @@
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
-    "energi": 99983,
+    "energi": 99982,
     "koin": 21556,
     "inventory": {
       "potion": 4,
