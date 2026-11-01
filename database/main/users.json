@@ -63745,7 +63745,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 720,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63754,7 +63754,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T12:17:04.808Z",
+    "lastSeen": "2026-11-01T07:40:51.366Z",
     "cooldowns": {
       "ytmp3": 1793518782227,
       "dl": 1793518700013,
@@ -67742,10 +67742,10 @@
     "jid": "6283135864303",
     "name": "king win",
     "number": "6283135864303",
-    "energi": 999997,
+    "energi": 999996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177621,
+    "exp": 177636,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67760,7 +67760,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T11:12:25.269Z",
+    "lastSeen": "2026-11-01T12:17:19.025Z",
     "cooldowns": {
       "afk": 1793510373223,
       "s": 1793531301162,
@@ -129997,7 +129997,7 @@
   "6283865412573": {
     "jid": "6283865412573",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1125,
     "energi": 99999
   },
   "6289676340345": {
@@ -130011,7 +130011,7 @@
       "mana": 135,
       "stamina": 135
     },
-    "exp": 75867,
+    "exp": 75882,
     "energi": 99999,
     "koin": 38094,
     "name": "botakgokss",
@@ -130046,7 +130046,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17460,
+    "exp": 17475,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T09:01:36.929Z",
@@ -134751,7 +134751,7 @@
   "6285640501387": {
     "jid": "6285640501387",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1050,
     "energi": 99999,
     "name": "Mark Protogen E2",
     "lastSeen": "2026-10-30T13:36:08.194Z",
@@ -134989,7 +134989,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13722,
+    "exp": 13737,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-01T02:54:24.968Z",
     "energi": 99999,
@@ -136618,22 +136618,28 @@
     "exp": 105,
     "energi": 99999
   },
-  "6282374158645": {
-    "jid": "6282374158645",
-    "rpg": {},
-    "exp": 75,
-    "energi": 99999
-  },
   "6285292183153": {
     "jid": "6285292183153",
     "rpg": {},
     "exp": 60,
     "energi": 99999
   },
+  "6282374158645": {
+    "jid": "6282374158645",
+    "rpg": {},
+    "exp": 75,
+    "energi": 99999
+  },
   "6283823313582": {
     "jid": "6283823313582",
     "rpg": {},
     "exp": 1095,
+    "energi": 99999
+  },
+  "6287811931958": {
+    "jid": "6287811931958",
+    "rpg": {},
+    "exp": 90,
     "energi": 99999
   },
   "6283876435831": {
@@ -136646,12 +136652,6 @@
   },
   "6283850253439": {
     "jid": "6283850253439",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
-  "6287811931958": {
-    "jid": "6287811931958",
     "rpg": {},
     "exp": 90,
     "energi": 99999
