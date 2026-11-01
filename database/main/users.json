@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-01T13:20:43.981Z",
+    "lastSeen": "2026-11-01T13:23:18.881Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000188559,
+    "exp": 9000188859,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -91268,7 +91268,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50250,
+    "exp": 50355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95429,7 +95429,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100164,7 +100164,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7590,
+    "exp": 7605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129985,7 +129985,7 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 4515,
+    "exp": 4575,
     "energi": 99990,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-01T13:17:34.952Z",
@@ -132261,11 +132261,11 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49192,
+    "exp": 49162,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T13:23:50.284Z",
+    "lastSeen": "2026-11-01T12:56:17.256Z",
     "cooldowns": {
-      "menu": 1793539437122,
+      "menu": 1792994078789,
       "menucat": 1793535581828,
       "cekkhodam": 1792945130859,
       "gay": 1793537515293,
@@ -136718,7 +136718,7 @@
   "6281586114613": {
     "jid": "6281586114613",
     "rpg": {},
-    "exp": 3615,
+    "exp": 3630,
     "energi": 99999,
     "name": "kieᤨchh",
     "lastSeen": "2026-11-01T13:19:36.312Z",
@@ -136940,6 +136940,11 @@
   },
   "6285218045914": {
     "jid": "6285218045914",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285181849414": {
+    "jid": "6285181849414",
     "rpg": {},
     "exp": 15
   }
