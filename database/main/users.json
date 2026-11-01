@@ -67743,10 +67743,10 @@
     "jid": "6283135864303",
     "name": "king win",
     "number": "6283135864303",
-    "energi": 999993,
+    "energi": 999992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177726,
+    "exp": 177741,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67761,10 +67761,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T13:02:58.845Z",
+    "lastSeen": "2026-11-01T13:03:18.285Z",
     "cooldowns": {
       "afk": 1793510373223,
-      "s": 1793535831613,
+      "s": 1793538198803,
       "play": 1793503437130,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -67846,7 +67846,7 @@
       "ut": 1790003919981,
       "cekimut": 1793531546619,
       "tekateki": 1790317056268,
-      "pin": 1793511488328,
+      "pin": 1793538191713,
       "naked": 1793526647779,
       "cekyandere": 1793514975207,
       "tsundere": 1793515013428
@@ -121249,10 +121249,10 @@
     "jid": "6282254416963",
     "name": "ken",
     "number": "6282254416963",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3030,
+    "exp": 3045,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121262,9 +121262,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T13:02:18.450Z",
+    "lastSeen": "2026-11-01T13:03:08.387Z",
     "cooldowns": {
-      "bratimg": 1793538141955,
+      "bratimg": 1793538191376,
       "menu": 1790427504693,
       "bratvid": 1789479757442,
       "owner": 1789470286649,
@@ -127799,7 +127799,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 8640,
+    "exp": 8655,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-01T10:31:44.227Z",
@@ -130039,7 +130039,7 @@
   "6285833678556": {
     "jid": "6285833678556",
     "rpg": {},
-    "exp": 1800,
+    "exp": 1875,
     "energi": 99999
   },
   "6281997507827": {
@@ -132261,7 +132261,7 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49147,
+    "exp": 49162,
     "name": "Thur rawring",
     "lastSeen": "2026-11-01T12:56:17.256Z",
     "cooldowns": {
@@ -133379,13 +133379,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 59,
-      "maxHealth": 680,
-      "maxMana": 390,
-      "maxStamina": 390,
-      "health": 665,
-      "mana": 390,
-      "stamina": 297,
+      "level": 60,
+      "maxHealth": 690,
+      "maxMana": 395,
+      "maxStamina": 395,
+      "health": 690,
+      "mana": 395,
+      "stamina": 395,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133396,7 +133396,7 @@
         "stats": null
       }
     },
-    "exp": 589975,
+    "exp": 590005,
     "name": "Fиз",
     "lastSeen": "2026-11-01T13:00:05.645Z",
     "cooldowns": {
