@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-01T13:53:15.634Z",
+    "lastSeen": "2026-11-01T13:53:28.597Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000189384,
+    "exp": 9000189534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3085,7 +3085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722666,
+    "exp": 722681,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3851,7 +3851,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750047,
+    "exp": 125750062,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3860,7 +3860,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T13:52:49.922Z",
+    "lastSeen": "2026-11-01T13:53:28.771Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -93635,7 +93635,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5895,
+    "exp": 5940,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -136887,7 +136887,10 @@
   "6281585250900": {
     "jid": "6281585250900",
     "rpg": {},
-    "exp": 300
+    "exp": 315,
+    "name": "Agus lapar buk",
+    "lastSeen": "2026-11-01T13:53:37.056Z",
+    "cooldowns": {}
   },
   "6287779627473": {
     "jid": "6287779627473",
