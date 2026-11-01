@@ -132269,9 +132269,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 49297,
+    "exp": 49312,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-01T15:27:22.705Z",
+    "lastSeen": "2026-11-01T15:27:50.223Z",
     "cooldowns": {
       "menu": 1792994078789,
       "menucat": 1793546843772,
@@ -132307,7 +132307,8 @@
       "dl": 1793518624149,
       "slowmode": 1793540586121,
       "wastalk": 1793546642691,
-      "mengkane": 1793546795787
+      "mengkane": 1793546795787,
+      "antispam": 1793546870610
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 5,
