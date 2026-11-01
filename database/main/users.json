@@ -97137,7 +97137,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34388,
+    "exp": 34403,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97147,7 +97147,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T07:01:42.666Z",
+    "lastSeen": "2026-11-01T07:08:33.744Z",
     "cooldowns": {
       "afk": 1791845852959,
       "play": 1793514370514,
@@ -97188,7 +97188,8 @@
       "stickerlydl": 1791022958053,
       "unmutegc": 1793253671225,
       "intro": 1793263787686,
-      "qc": 1793505763965
+      "qc": 1793505763965,
+      "close": 1793516916274
     },
     "clanId": null,
     "isRegistered": false,
@@ -130052,7 +130053,7 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 7148,
+    "exp": 7178,
     "name": "Baim/gay",
     "lastSeen": "2026-11-01T07:02:27.798Z",
     "cooldowns": {
@@ -135992,7 +135993,7 @@
   "6285198037092": {
     "jid": "6285198037092",
     "rpg": {},
-    "exp": 450,
+    "exp": 465,
     "name": "Arven",
     "lastSeen": "2026-11-01T07:00:39.642Z",
     "cooldowns": {
