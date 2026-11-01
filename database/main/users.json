@@ -90756,13 +90756,13 @@
   },
   "62882020705446": {
     "name": "ytta",
-    "lastSeen": "2026-09-30T10:05:22.615Z",
+    "lastSeen": "2026-11-01T06:25:24.621Z",
     "jid": "62882020705446",
     "number": "62882020705446",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 544,
+    "exp": 559,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -90775,7 +90775,8 @@
     "cooldowns": {
       "kerja": 1786607227155,
       "casino": 1786607123278,
-      "bratvid2": 1790762727399
+      "bratvid2": 1790762727399,
+      "afk": 1793514328574
     },
     "clanId": null,
     "isRegistered": false,
@@ -90787,8 +90788,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "30/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 2
   },
   "6285147498740": {
     "jid": "6285147498740",
@@ -97130,10 +97131,10 @@
     "jid": "6283139380069",
     "name": "shiro :3",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33893,
+    "exp": 33908,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97143,7 +97144,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T05:43:44.444Z",
+    "lastSeen": "2026-11-01T06:25:31.365Z",
     "cooldowns": {
       "afk": 1791845852959,
       "play": 1793424216974,
@@ -134744,7 +134745,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 3840,
+    "exp": 3855,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T06:10:09.381Z",
