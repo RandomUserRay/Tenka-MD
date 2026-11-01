@@ -48679,8 +48679,8 @@
         "name": "ㅤㅤ𝖣𝖺 ..ㅤ𝖗𝖊𝖆𝖑𝖑ㅤ𝖩𝔞𝗒ㅤ}{ㅤ+𝟦𝟦𝟦ㅤ¡."
       },
       "6282296102525@s.whatsapp.net": {
-        "count": 228,
-        "lastChat": 1793540529385,
+        "count": 229,
+        "lastChat": 1793540565261,
         "name": "Thur rawring"
       },
       "6282128407162@s.whatsapp.net": {
@@ -48716,7 +48716,12 @@
     },
     "jid": "120363432584424724@g.us",
     "name": "4Ω Bot 🤖",
-    "onlynsfw": false
+    "onlynsfw": false,
+    "slowmode": {
+      "enabled": true,
+      "delay": 10,
+      "mode": "onlycommand"
+    }
   },
   "120363411958830932@g.us": {
     "chatStats": {
