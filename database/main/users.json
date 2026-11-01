@@ -3085,7 +3085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722171,
+    "exp": 722186,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3094,7 +3094,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T12:49:20.553Z",
+    "lastSeen": "2026-11-01T12:49:54.501Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -9876,7 +9876,7 @@
       "lick": 1790084812633,
       "kiss": 1790084890599,
       "tsundere": 1793537345396,
-      "femboy": 1790327485014,
+      "femboy": 1793537396218,
       "yandere": 1790327403429,
       "cekcantik": 1790327524181,
       "cekimut": 1790085286129,
@@ -130051,7 +130051,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17880,
+    "exp": 17895,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T12:33:58.237Z",
@@ -136897,9 +136897,21 @@
     "lastSeen": "2026-11-01T12:49:27.975Z",
     "jid": "6288223882846",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
       "tsundere": 1793537370754
+    },
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
+  },
+  "6283833668133": {
+    "name": "kael",
+    "lastSeen": "2026-11-01T12:49:49.125Z",
+    "jid": "6283833668133",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "tsundere": 1793537393509
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 1
