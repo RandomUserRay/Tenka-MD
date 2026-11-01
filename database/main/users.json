@@ -90898,7 +90898,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3345,
+    "exp": 3360,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91267,7 +91267,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49920,
+    "exp": 49935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -136833,13 +136833,14 @@
   },
   "6283879096503": {
     "name": "zai\nzi`",
-    "lastSeen": "2026-11-01T10:58:09.609Z",
+    "lastSeen": "2026-11-01T10:58:45.817Z",
     "jid": "6283879096503",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 999997,
     "cooldowns": {
-      "pin": 1793530703553
+      "pin": 1793530703553,
+      "hentai": 1793530731766
     },
     "lastActiveDate": "1/11/2026",
     "activeDays": 1
