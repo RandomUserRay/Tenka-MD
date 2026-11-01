@@ -3085,7 +3085,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722066,
+    "exp": 722081,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3094,7 +3094,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T11:27:32.359Z",
+    "lastSeen": "2026-11-01T12:48:21.473Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1789202235332,
@@ -3236,9 +3236,7 @@
     "saldo": 0,
     "lastActiveDate": "1/11/2026",
     "activeDays": 27,
-    "fun": {
-      "pasangan": "628981194866@s.whatsapp.net"
-    }
+    "fun": {}
   },
   "6283171708445": {
     "jid": "6283171708445",
@@ -103334,8 +103332,7 @@
     "activeDays": 38,
     "fun": {
       "tembakTarget": "6285240302212@s.whatsapp.net",
-      "tembakCount": 1,
-      "pasangan": "6285240302212@s.whatsapp.net"
+      "tembakCount": 1
     }
   },
   "6283178717373": {
@@ -126940,10 +126937,12 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-11-01T12:46:54.003Z",
+    "lastSeen": "2026-11-01T12:48:18.251Z",
     "jid": "6287747505289",
-    "rpg": {},
-    "exp": 1575,
+    "rpg": {
+      "bank": 0
+    },
+    "exp": 1590,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1793454332218,
@@ -126965,7 +126964,8 @@
       "tt": 1793436828421,
       "s": 1793436235983,
       "hd": 1793347890010,
-      "casino": 1793537214643
+      "casino": 1793537214643,
+      "bank": 1793537298833
     },
     "energi": 99988,
     "lastActiveDate": "1/11/2026",
