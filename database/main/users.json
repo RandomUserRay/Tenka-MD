@@ -67734,10 +67734,10 @@
     "jid": "6283135864303",
     "name": "king win",
     "number": "6283135864303",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 176556,
+    "exp": 176571,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67752,7 +67752,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T03:17:45.433Z",
+    "lastSeen": "2026-11-01T03:23:44.819Z",
     "cooldowns": {
       "afk": 1793446611597,
       "s": 1793503076315,
@@ -135249,7 +135249,11 @@
     "energi": 99999,
     "name": "Mas Rusdi",
     "lastSeen": "2026-11-01T03:23:25.579Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1793503413761
+    },
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   },
   "6282197777517": {
     "jid": "6282197777517",
