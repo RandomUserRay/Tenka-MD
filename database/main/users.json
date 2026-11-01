@@ -130018,7 +130018,7 @@
       "mana": 135,
       "stamina": 135
     },
-    "exp": 76272,
+    "exp": 76287,
     "energi": 99999,
     "koin": 38094,
     "name": "botakgokss",
@@ -130053,7 +130053,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18390,
+    "exp": 18420,
     "energi": 99994,
     "name": "Savan",
     "lastSeen": "2026-11-01T14:08:45.065Z",
@@ -136966,7 +136966,14 @@
   "6281649524961": {
     "jid": "6281649524961",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "Rikka Takanashi",
+    "lastSeen": "2026-11-01T14:08:58.169Z",
+    "cooldowns": {
+      "femboy": 1793542141373
+    },
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 1
   },
   "6285753480279": {
     "jid": "6285753480279",
