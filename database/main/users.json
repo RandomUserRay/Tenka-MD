@@ -9401,13 +9401,13 @@
   },
   "6287840583558": {
     "name": "kr",
-    "lastSeen": "2026-11-01T14:05:36.251Z",
+    "lastSeen": "2026-11-01T22:21:58.104Z",
     "jid": "6287840583558",
     "number": "6287840583558",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 720,
+    "exp": 735,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9419,7 +9419,7 @@
     "cooldowns": {
       "s": 1788360258641,
       "menu": 1793483190711,
-      "play": 1793541936956,
+      "play": 1793571719251,
       "remini": 1780911257118,
       "p": 1782059290275,
       "me": 1783421313153,
@@ -9445,8 +9445,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 5
   },
   "6283119584578": {
     "jid": "6283119584578",
