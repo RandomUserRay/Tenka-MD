@@ -29153,10 +29153,10 @@
     "jid": "6285187171485",
     "name": "Ryuu",
     "number": "6285187171485",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298946,
+    "exp": 298961,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29167,11 +29167,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T06:02:20.314Z",
+    "lastSeen": "2026-11-02T06:02:41.876Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
-      "s": 1793541623913,
+      "s": 1793599343051,
       "brat": 1783160134077,
       "brathd": 1782800037546,
       "bratimg": 1790777492945,
@@ -29179,7 +29179,7 @@
       "open": 1790154851284,
       "bratvid": 1782929796745,
       "bratanime": 1782808622034,
-      "wm": 1791512866776,
+      "wm": 1793599362641,
       "autoreply": 1785061310347,
       "tembak": 1782838951748,
       "h": 1790760264562,
@@ -29369,8 +29369,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 31
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 32
   },
   "6285810482980": {
     "jid": "6285810482980",
@@ -130087,7 +130087,7 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 7643,
+    "exp": 7658,
     "name": "Baim/gay",
     "lastSeen": "2026-11-01T22:27:26.048Z",
     "cooldowns": {
