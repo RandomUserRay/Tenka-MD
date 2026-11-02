@@ -49316,8 +49316,8 @@
         "name": "C"
       },
       "6281527133187@s.whatsapp.net": {
-        "count": 17,
-        "lastChat": 1793578581065,
+        "count": 19,
+        "lastChat": 1793621649190,
         "name": "ALG"
       },
       "6289691510389@s.whatsapp.net": {
@@ -49670,8 +49670,8 @@
         "name": "bungaran85"
       },
       "6282363161583@s.whatsapp.net": {
-        "count": 12,
-        "lastChat": 1793621632007,
+        "count": 13,
+        "lastChat": 1793621654153,
         "name": "Volcano"
       },
       "6283181407349@s.whatsapp.net": {
@@ -49692,5 +49692,16 @@
     },
     "jid": "120363428872250651@g.us",
     "name": "VI C"
+  },
+  "120363431506597658@g.us": {
+    "chatStats": {
+      "6283181407349@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793621648185,
+        "name": "Robben"
+      }
+    },
+    "jid": "120363431506597658@g.us",
+    "name": "VIC"
   }
 }
