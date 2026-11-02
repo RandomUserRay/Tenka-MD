@@ -1829,7 +1829,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 687459,
+    "exp": 687384,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -4499,7 +4499,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235370,
+    "exp": 235310,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -16143,10 +16143,10 @@
     "jid": "6285753061976",
     "name": "nice nature",
     "number": "6285753061976",
-    "energi": 999995,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398057,
+    "exp": 9398042,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16155,7 +16155,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T09:50:51.178Z",
+    "lastSeen": "2026-11-02T07:28:35.475Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -124884,7 +124884,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 2055,
+    "exp": 2040,
     "energi": 99999,
     "name": "Zulfiqar",
     "lastSeen": "2026-10-31T21:58:36.835Z",
@@ -127809,7 +127809,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 9525,
+    "exp": 9570,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-01T14:31:29.736Z",
@@ -130052,7 +130052,7 @@
   "6285833678556": {
     "jid": "6285833678556",
     "rpg": {},
-    "exp": 2100,
+    "exp": 2175,
     "energi": 99999
   },
   "6281997507827": {
@@ -130066,7 +130066,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19020,
+    "exp": 18945,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-01T14:10:59.876Z",
@@ -131849,20 +131849,20 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 3825,
+    "exp": 3855,
     "name": "Haafiz",
-    "lastSeen": "2026-11-01T14:34:21.154Z",
+    "lastSeen": "2026-11-02T09:50:16.638Z",
     "cooldowns": {
       "afk": 1793543664596,
       "tt": 1793431654885,
       "rest": 1793363144362,
-      "pin": 1793364108757,
+      "pin": 1793613031226,
       "s": 1793364123645,
       "gacha": 1793408717262
     },
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 6,
-    "energi": 99999
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 7,
+    "energi": 99997
   },
   "6283188010317": {
     "jid": "6283188010317",
@@ -134746,9 +134746,9 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6633,
+    "exp": 6663,
     "name": "Marshal Protogen EXP 1",
-    "lastSeen": "2026-11-02T00:09:56.541Z",
+    "lastSeen": "2026-11-02T09:49:48.835Z",
     "cooldowns": {
       "afk": 1793518314719,
       "cekfemboy": 1793194162480,
@@ -134756,12 +134756,12 @@
       "me": 1793243245319,
       "work": 1793243339672,
       "smeme": 1793462424748,
-      "pin": 1793578209280,
+      "pin": 1793613000562,
       "happy": 1793364321587
     },
     "lastActiveDate": "2/11/2026",
     "activeDays": 7,
-    "energi": 99993,
+    "energi": 99991,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
@@ -137086,7 +137086,7 @@
   "6281350300737": {
     "jid": "6281350300737",
     "rpg": {},
-    "exp": 510
+    "exp": 420
   },
   "62895351052890": {
     "jid": "62895351052890",
