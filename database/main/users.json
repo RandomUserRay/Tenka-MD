@@ -4499,7 +4499,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235880,
+    "exp": 235850,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -19346,10 +19346,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91309,
+    "exp": 91324,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19358,7 +19358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T09:42:46.067Z",
+    "lastSeen": "2026-11-02T10:21:43.708Z",
     "cooldowns": {
       "bratvid": 1793439768929,
       "setan": 1782040946136,
@@ -19380,7 +19380,8 @@
       "transfer": 1783935619820,
       "me": 1783942298349,
       "job": 1784456789391,
-      "brat": 1793439746731
+      "brat": 1793439746731,
+      "smeme": 1793614904506
     },
     "clanId": null,
     "isRegistered": false,
@@ -19400,8 +19401,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 2
   },
   "6288994432677": {
     "name": "Fadhiel MK",
@@ -54946,7 +54947,7 @@
     "energi": 99994,
     "isPremium": true,
     "isBanned": false,
-    "exp": 228206,
+    "exp": 227906,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -54955,7 +54956,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T10:21:54.146Z",
+    "lastSeen": "2026-11-02T10:19:52.728Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55005,8 +55006,7 @@
       "setcolor": 1793369500735,
       "addrole": 1793369606495,
       "qc": 1793450075263,
-      "mutegc": 1793542318467,
-      "intro": 1793614915645
+      "mutegc": 1793542318467
     },
     "clanId": null,
     "isRegistered": false,
@@ -91124,7 +91124,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19545,
+    "exp": 19470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124885,7 +124885,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 2370,
+    "exp": 2355,
     "energi": 99999,
     "name": "Zulfiqar",
     "lastSeen": "2026-10-31T21:58:36.835Z",
@@ -127810,7 +127810,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 9525,
+    "exp": 9540,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-01T14:31:29.736Z",
@@ -132343,7 +132343,7 @@
   "6285885004518": {
     "jid": "6285885004518",
     "rpg": {},
-    "exp": 615,
+    "exp": 630,
     "energi": 99999
   },
   "6282164576957": {
@@ -132977,7 +132977,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 17770,
+    "exp": 17815,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-30T09:19:00.042Z",
     "cooldowns": {
@@ -134747,7 +134747,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6633,
+    "exp": 6663,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-11-02T00:09:56.541Z",
     "cooldowns": {
@@ -134785,7 +134785,7 @@
   "6285640501387": {
     "jid": "6285640501387",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1065,
     "energi": 99999,
     "name": "Mark Protogen E2",
     "lastSeen": "2026-10-30T13:36:08.194Z",
@@ -134819,7 +134819,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 5895,
+    "exp": 5775,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T23:35:46.917Z",
@@ -135558,7 +135558,7 @@
   "6281296148438": {
     "jid": "6281296148438",
     "rpg": {},
-    "exp": 300,
+    "exp": 195,
     "energi": 99999,
     "name": "アルド",
     "lastSeen": "2026-11-01T08:49:30.609Z",
