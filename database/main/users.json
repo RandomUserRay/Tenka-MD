@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-02T16:51:36.192Z",
+    "lastSeen": "2026-11-02T16:51:48.474Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000195534,
+    "exp": 9000195759,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -129925,7 +129925,7 @@
       "stamina": 130,
       "bank": 0
     },
-    "exp": 61710,
+    "exp": 61935,
     "energi": 99997,
     "name": "Devvarajha",
     "lastSeen": "2026-11-02T12:53:44.456Z",
@@ -137421,7 +137421,15 @@
   "6281280159936": {
     "jid": "6281280159936",
     "rpg": {},
-    "exp": 165
+    "exp": 195,
+    "name": "Xena",
+    "lastSeen": "2026-11-02T16:51:13.051Z",
+    "cooldowns": {
+      "play": 1793638274033
+    },
+    "energi": 24,
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 1
   },
   "6285607324837": {
     "jid": "6285607324837",
