@@ -9848,7 +9848,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57000,
+    "exp": 56985,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -90908,7 +90908,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3705,
+    "exp": 3690,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124888,7 +124888,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 2700,
+    "exp": 2625,
     "energi": 99999,
     "name": "Zulfiqar",
     "lastSeen": "2026-10-31T21:58:36.835Z",
@@ -130070,7 +130070,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19845,
+    "exp": 19830,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-01T14:10:59.876Z",
@@ -133400,13 +133400,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 60,
-      "maxHealth": 690,
-      "maxMana": 395,
-      "maxStamina": 395,
-      "health": 690,
-      "mana": 395,
-      "stamina": 395,
+      "level": 61,
+      "maxHealth": 700,
+      "maxMana": 400,
+      "maxStamina": 400,
+      "health": 700,
+      "mana": 400,
+      "stamina": 400,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133417,9 +133417,9 @@
         "stats": null
       }
     },
-    "exp": 594604,
+    "exp": 601081,
     "name": "Fиз",
-    "lastSeen": "2026-11-02T11:12:49.452Z",
+    "lastSeen": "2026-11-02T11:14:10.147Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133435,7 +133435,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793000825314,
-      "tebaknegara": 1793617970067,
+      "tebaknegara": 1793618050732,
       "siapakahaku": 1792986508425,
       "inventory": 1792987615938,
       "me": 1792996763092,
@@ -133485,8 +133485,8 @@
     },
     "lastActiveDate": "2/11/2026",
     "activeDays": 4,
-    "energi": 100014,
-    "koin": 239376,
+    "energi": 100029,
+    "koin": 243168,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -135033,7 +135033,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14622,
+    "exp": 14607,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-01T02:54:24.968Z",
     "energi": 99999,
@@ -135201,7 +135201,7 @@
   "6289673274638": {
     "jid": "6289673274638",
     "rpg": {},
-    "exp": 690,
+    "exp": 645,
     "name": "Hiura Mihate (Adel)",
     "lastSeen": "2026-10-27T12:29:34.501Z",
     "energi": 99999
