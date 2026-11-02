@@ -29154,10 +29154,10 @@
     "jid": "6285187171485",
     "name": "Ryuu",
     "number": "6285187171485",
-    "energi": 99995,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 298991,
+    "exp": 299006,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29168,7 +29168,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T08:08:07.222Z",
+    "lastSeen": "2026-11-02T08:11:02.692Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -137154,6 +137154,6 @@
   "6285251641938": {
     "jid": "6285251641938",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
