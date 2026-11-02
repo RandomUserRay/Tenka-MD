@@ -4499,7 +4499,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236225,
+    "exp": 236240,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -4508,7 +4508,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T05:12:14.318Z",
+    "lastSeen": "2026-11-02T12:16:20.144Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1783059978077,
@@ -4531,7 +4531,7 @@
       "play": 1791685216190,
       "top": 1790422178358,
       "cekcantik": 1790421820227,
-      "naked": 1793596336106
+      "naked": 1793621781871
     },
     "clanId": null,
     "isRegistered": false,
@@ -27096,7 +27096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177741,
+    "exp": 177696,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -61186,7 +61186,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5610,
+    "exp": 5595,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -127165,7 +127165,7 @@
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 7710,
+    "exp": 7650,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-10T00:50:25.611Z",
@@ -132282,7 +132282,7 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 55425,
+    "exp": 55410,
     "name": "Thur rawring",
     "lastSeen": "2026-11-02T02:10:48.793Z",
     "cooldowns": {
@@ -133677,7 +133677,7 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 529168,
+    "exp": 529153,
     "name": "mıss",
     "lastSeen": "2026-11-02T02:04:26.901Z",
     "cooldowns": {
@@ -133995,9 +133995,9 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 55,
-      "health": 105,
-      "mana": 53,
+      "stamina": 2,
+      "health": 130,
+      "mana": 135,
       "maxHealth": 170,
       "maxMana": 135,
       "maxStamina": 135,
@@ -134009,9 +134009,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 97722,
+    "exp": 97677,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-02T12:16:09.835Z",
+    "lastSeen": "2026-11-02T12:15:50.680Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793621718823,
@@ -134021,7 +134021,7 @@
       "info": 1793009278269,
       "inventory": 1793009140244,
       "job": 1793621579729,
-      "tidur": 1793621774270,
+      "tidur": 1793012949095,
       "weekly": 1793621722593,
       "allmenu": 1793009390130,
       "tolol": 1792986385069,
@@ -134071,8 +134071,7 @@
       "ngojek": 1793012797313,
       "nulis": 1793012843205,
       "afk": 1793013028076,
-      "profile": 1793621614274,
-      "sleep": 1793621755405
+      "profile": 1793621614274
     },
     "lastActiveDate": "2/11/2026",
     "activeDays": 2,
@@ -135732,7 +135731,7 @@
   "6281522634679": {
     "jid": "6281522634679",
     "rpg": {},
-    "exp": 570,
+    "exp": 555,
     "energi": 99999
   },
   "6285270575014": {
@@ -136297,7 +136296,7 @@
   "6281255392540": {
     "jid": "6281255392540",
     "rpg": {},
-    "exp": 435,
+    "exp": 420,
     "energi": 99999
   },
   "6289682514957": {
@@ -137218,6 +137217,11 @@
   },
   "6285607967297": {
     "jid": "6285607967297",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285602980133": {
+    "jid": "6285602980133",
     "rpg": {},
     "exp": 15
   }
