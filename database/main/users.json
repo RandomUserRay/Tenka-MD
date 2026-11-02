@@ -81367,12 +81367,12 @@
   },
   "6285779306833": {
     "jid": "6285779306833",
-    "name": "admin mengeluarkan anda",
+    "name": "admin grup mengeluarkan anda",
     "number": "6285779306833",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 840,
+    "exp": 855,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -81382,7 +81382,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-30T14:07:49.162Z",
+    "lastSeen": "2026-11-02T19:26:25.365Z",
     "cooldowns": {
       "play": 1787637739862,
       "s": 1787751681463,
@@ -135203,7 +135203,7 @@
   "6282226151250": {
     "jid": "6282226151250",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1515,
     "energi": 99999
   },
   "6288271497955": {
@@ -137510,7 +137510,7 @@
   "6285758216422": {
     "jid": "6285758216422",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   },
   "6285733007254": {
     "jid": "6285733007254",
