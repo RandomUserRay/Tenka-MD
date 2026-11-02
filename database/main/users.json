@@ -3696,7 +3696,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22694,
+    "exp": 22709,
     "level": 1,
     "koin": 61461,
     "unlockedFeatures": [],
@@ -3705,7 +3705,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T01:28:52.110Z",
+    "lastSeen": "2026-11-02T01:29:04.360Z",
     "cooldowns": {
       "iqc": 1780117468347,
       "profile": 1783302523790,
@@ -3715,7 +3715,7 @@
       "ww": 1780277037695,
       "cekfemboy": 1780289158876,
       "play": 1782792203017,
-      "menu": 1783302903594,
+      "menu": 1793582938814,
       "allmenu": 1783302906612,
       "asahotak": 1780361971695,
       "ngentod": 1780364012311,
@@ -3746,7 +3746,8 @@
       "s": 1788091056068,
       "d": 1783302764564,
       "bratanime": 1783302803543,
-      "hitamkan": 1784186748538
+      "hitamkan": 1784186748538,
+      "owner": 1793582946021
     },
     "clanId": null,
     "isRegistered": false,
@@ -3781,8 +3782,8 @@
       "ditolakCount": 1
     },
     "saldo": 0,
-    "lastActiveDate": "30/8/2026",
-    "activeDays": 2
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 3
   },
   "6289505054538": {
     "jid": "6289505054538",
