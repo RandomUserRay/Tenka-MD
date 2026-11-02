@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-02T08:57:00.568Z",
+    "lastSeen": "2026-11-02T02:06:22.550Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000192759,
+    "exp": 9000192684,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -6100,7 +6100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31805,
+    "exp": 31835,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -6109,14 +6109,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-03T11:13:06.306Z",
+    "lastSeen": "2026-11-02T08:56:28.022Z",
     "cooldowns": {
       "brat": 1780192562768,
       "femboy": 1782294711569,
       "profil": 1782986853230,
       "my": 1782999540876,
       "rob": 1781670257704,
-      "afk": 1791025988035,
+      "afk": 1793609790934,
       "play": 1790912270084,
       "s": 1782964387583,
       "bank": 1782983231910,
@@ -6166,8 +6166,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/10/2026",
-    "activeDays": 5
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 6
   },
   "62895329308463": {
     "jid": "62895329308463",
@@ -71820,10 +71820,10 @@
     "jid": "6287811930699",
     "name": "M",
     "number": "6287811930699",
-    "energi": 99981,
+    "energi": 99983,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73696,
+    "exp": 73681,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71832,7 +71832,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T08:56:05.235Z",
+    "lastSeen": "2026-11-01T21:02:07.469Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -71879,7 +71879,7 @@
       "brat": 1787743643132,
       "bratimg": 1787743653577,
       "bratvideo": 1786884921431,
-      "tt": 1793609771134,
+      "tt": 1793566935880,
       "stiker": 1787741309187,
       "menu": 1788179323999,
       "menucat": 1788247404976,
@@ -103229,7 +103229,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28262,
+    "exp": 28367,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127809,7 +127809,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 9360,
+    "exp": 9480,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-01T14:31:29.736Z",
@@ -131481,7 +131481,7 @@
   "6281931273055": {
     "jid": "6281931273055",
     "rpg": {},
-    "exp": 60,
+    "exp": 30,
     "energi": 99999
   },
   "6283182162083": {
@@ -136058,7 +136058,7 @@
   "6285272162707": {
     "jid": "6285272162707",
     "rpg": {},
-    "exp": 690,
+    "exp": 675,
     "energi": 99999
   },
   "6283166163417": {
@@ -136070,7 +136070,7 @@
   "6285198037092": {
     "jid": "6285198037092",
     "rpg": {},
-    "exp": 1305,
+    "exp": 1290,
     "name": "Arven",
     "lastSeen": "2026-11-02T08:54:45.490Z",
     "cooldowns": {
@@ -137164,6 +137164,6 @@
   "62882005173080": {
     "jid": "62882005173080",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
