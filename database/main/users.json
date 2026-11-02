@@ -54949,7 +54949,7 @@
     "energi": 99994,
     "isPremium": true,
     "isBanned": false,
-    "exp": 228356,
+    "exp": 228281,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -93645,7 +93645,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8130,
+    "exp": 8115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93655,10 +93655,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T11:38:39.026Z",
+    "lastSeen": "2026-11-02T11:38:07.909Z",
     "cooldowns": {
       "play": 1793461792533,
-      "femboy": 1793619523773,
+      "femboy": 1793619494538,
       "afk": 1793458014996
     },
     "clanId": null,
@@ -94828,13 +94828,13 @@
   },
   "6288747420323": {
     "name": "lee  honi 1.4",
-    "lastSeen": "2026-11-02T11:38:48.527Z",
+    "lastSeen": "2026-10-31T23:19:37.478Z",
     "jid": "6288747420323",
     "number": "6288747420323",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1755,
+    "exp": 1740,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -94846,7 +94846,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "cekfemboy": 1786887773921,
-      "femboy": 1793619531614,
+      "femboy": 1793488787450,
       "pin": 1793454268270
     },
     "clanId": null,
@@ -94857,8 +94857,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 3
+    "lastActiveDate": "1/11/2026",
+    "activeDays": 2
   },
   "6282224234226": {
     "jid": "6282224234226",
@@ -124889,7 +124889,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 2760,
+    "exp": 2745,
     "energi": 99999,
     "name": "Zulfiqar",
     "lastSeen": "2026-10-31T21:58:36.835Z",
