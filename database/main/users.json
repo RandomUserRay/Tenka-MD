@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-02T16:27:33.401Z",
+    "lastSeen": "2026-11-02T16:27:22.348Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000195009,
+    "exp": 9000195084,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -99345,10 +99345,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99993,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18840,
+    "exp": 18810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99358,7 +99358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T16:27:29.346Z",
+    "lastSeen": "2026-11-02T16:26:45.210Z",
     "cooldowns": {
       "play": 1793636778881,
       "menu": 1793223831590,
@@ -137120,15 +137120,14 @@
   "62895351052890": {
     "jid": "62895351052890",
     "rpg": {},
-    "exp": 3660,
+    "exp": 3630,
     "name": "dfj",
-    "lastSeen": "2026-11-02T16:27:17.237Z",
+    "lastSeen": "2026-11-02T13:02:21.153Z",
     "cooldowns": {
-      "play": 1793636842803,
-      "femboy": 1793624547427,
-      "ytmp4": 1793636857172
+      "play": 1793590291743,
+      "femboy": 1793624547427
     },
-    "energi": 20,
+    "energi": 23,
     "lastActiveDate": "2/11/2026",
     "activeDays": 1
   },
@@ -137360,6 +137359,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6281361382175": {
+    "jid": "6281361382175",
+    "rpg": {},
+    "exp": 30
+  },
   "6281998575835": {
     "jid": "6281998575835",
     "rpg": {},
@@ -137387,11 +137391,6 @@
   },
   "6287890132460": {
     "jid": "6287890132460",
-    "rpg": {},
-    "exp": 30
-  },
-  "6281361382175": {
-    "jid": "6281361382175",
     "rpg": {},
     "exp": 30
   },
