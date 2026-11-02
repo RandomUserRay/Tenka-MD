@@ -27096,7 +27096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 177681,
+    "exp": 177576,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -61186,7 +61186,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5595,
+    "exp": 5565,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93646,7 +93646,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8595,
+    "exp": 8625,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93656,7 +93656,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T12:08:37.197Z",
+    "lastSeen": "2026-11-02T12:15:36.426Z",
     "cooldowns": {
       "play": 1793620734655,
       "femboy": 1793619523773,
@@ -110502,7 +110502,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9720,
+    "exp": 9690,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124824,7 +124824,7 @@
   "6281527133187": {
     "jid": "6281527133187",
     "rpg": {},
-    "exp": 735,
+    "exp": 690,
     "energi": 99999,
     "name": "ALG",
     "lastSeen": "2026-11-02T05:39:18.339Z",
@@ -127165,7 +127165,7 @@
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 7635,
+    "exp": 7590,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-10T00:50:25.611Z",
@@ -133995,8 +133995,8 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 2,
-      "health": 130,
+      "stamina": 85,
+      "health": 170,
       "mana": 135,
       "maxHealth": 170,
       "maxMana": 135,
@@ -134009,12 +134009,12 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 97632,
+    "exp": 73729,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-02T12:15:22.591Z",
+    "lastSeen": "2026-11-02T12:13:30.251Z",
     "cooldowns": {
       "2048": 1792999483837,
-      "daily": 1793621718823,
+      "daily": 1792985300760,
       "help": 1792985382862,
       "menucat": 1793621605837,
       "top": 1792986723107,
@@ -134022,21 +134022,21 @@
       "inventory": 1793009140244,
       "job": 1793621579729,
       "tidur": 1793012949095,
-      "weekly": 1793621722593,
+      "weekly": 1792986213911,
       "allmenu": 1793009390130,
       "tolol": 1792986385069,
       "level": 1793009292795,
-      "mancing": 1793621666901,
+      "mancing": 1793013007329,
       "prabowo-ai": 1792987674459,
       "ngentod": 1792988004038,
       "absen": 1792988103531,
       "inv": 1793012277149,
       "use": 1793009133283,
-      "dungeon": 1793621693779,
+      "dungeon": 1793012066161,
       "tebakfilm": 1792998970540,
-      "tambang": 1793621679777,
+      "tambang": 1793012296704,
       "pap": 1792999398457,
-      "adventure": 1793621687943,
+      "adventure": 1793012261037,
       "mywaifu": 1792999798476,
       "sellall": 1793013009958,
       "shop": 1793009302320,
@@ -134056,7 +134056,7 @@
       "ngemis": 1793010254169,
       "stamina": 1793012106321,
       "crime": 1793012553282,
-      "jualan": 1793621652013,
+      "jualan": 1793012537519,
       "garden": 1793012146949,
       "streamer": 1793012185206,
       "woodcut": 1793012355313,
@@ -134076,17 +134076,17 @@
     "lastActiveDate": "2/11/2026",
     "activeDays": 2,
     "inventory": {
-      "uncommon": 3,
-      "trash": 1,
+      "uncommon": 1,
+      "trash": 0,
       "fish": 0,
       "prawn": 0,
       "herb": 7,
       "leather": 2,
-      "rock": 4,
+      "rock": 0,
       "iron": 0,
       "diamond": 0,
       "coal": 0,
-      "potion": 3,
+      "potion": 2,
       "deer": 0,
       "octopus": 0,
       "botol": 18,
@@ -134096,8 +134096,8 @@
       "koran": 2,
       "stick": 0
     },
-    "koin": 334753,
-    "energi": 99996,
+    "koin": 358790,
+    "energi": 99999,
     "quest": {
       "work10": {
         "progress": 0,
@@ -135731,7 +135731,7 @@
   "6281522634679": {
     "jid": "6281522634679",
     "rpg": {},
-    "exp": 540,
+    "exp": 510,
     "energi": 99999
   },
   "6285270575014": {
@@ -136074,12 +136074,12 @@
   "6285272162707": {
     "jid": "6285272162707",
     "rpg": {},
-    "exp": 825,
+    "exp": 870,
     "energi": 99999,
     "name": "katsuki kawaneko",
-    "lastSeen": "2026-11-02T12:08:21.420Z",
+    "lastSeen": "2026-11-02T12:15:27.376Z",
     "cooldowns": {
-      "afk": 1793621304509
+      "afk": 1793621731241
     },
     "lastActiveDate": "2/11/2026",
     "activeDays": 1
@@ -136296,7 +136296,7 @@
   "6281255392540": {
     "jid": "6281255392540",
     "rpg": {},
-    "exp": 420,
+    "exp": 345,
     "energi": 99999
   },
   "6289682514957": {
@@ -137217,6 +137217,11 @@
   },
   "6285607967297": {
     "jid": "6285607967297",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285602980133": {
+    "jid": "6285602980133",
     "rpg": {},
     "exp": 15
   }
