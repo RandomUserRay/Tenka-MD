@@ -91278,7 +91278,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51075,
+    "exp": 51090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91288,7 +91288,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T12:05:03.246Z",
+    "lastSeen": "2026-11-02T12:08:21.768Z",
     "cooldowns": {
       "play": 1793621118236,
       "toimg": 1790829435907,
@@ -93498,7 +93498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2430,
+    "exp": 2445,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93508,10 +93508,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T12:00:52.635Z",
+    "lastSeen": "2026-11-02T12:08:15.321Z",
     "cooldowns": {
       "cekfemboy": 1786888838706,
-      "femboy": 1793534461892
+      "femboy": 1793534461892,
+      "afk": 1793621299916
     },
     "clanId": null,
     "isRegistered": false,
@@ -93521,8 +93522,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 2
   },
   "6282342552074": {
     "jid": "6282342552074",
@@ -93645,7 +93646,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8535,
+    "exp": 8595,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93655,11 +93656,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T12:07:40.995Z",
+    "lastSeen": "2026-11-02T12:08:37.197Z",
     "cooldowns": {
       "play": 1793620734655,
       "femboy": 1793619523773,
-      "afk": 1793621268019
+      "afk": 1793621321070
     },
     "clanId": null,
     "isRegistered": false,
@@ -127164,7 +127165,7 @@
   "6282363161583": {
     "jid": "6282363161583",
     "rpg": {},
-    "exp": 7440,
+    "exp": 7425,
     "energi": 99999,
     "name": "..",
     "lastSeen": "2026-10-10T00:50:25.611Z",
@@ -136071,12 +136072,12 @@
   "6285272162707": {
     "jid": "6285272162707",
     "rpg": {},
-    "exp": 765,
+    "exp": 825,
     "energi": 99999,
     "name": "katsuki kawaneko",
-    "lastSeen": "2026-11-02T12:07:42.283Z",
+    "lastSeen": "2026-11-02T12:08:21.420Z",
     "cooldowns": {
-      "afk": 1793621268638
+      "afk": 1793621304509
     },
     "lastActiveDate": "2/11/2026",
     "activeDays": 1
@@ -136926,7 +136927,7 @@
     "lastSeen": "2026-11-02T04:06:07.004Z",
     "jid": "6283879096503",
     "rpg": {},
-    "exp": 570,
+    "exp": 600,
     "energi": 999998,
     "cooldowns": {
       "pin": 1793530703553,
