@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000195609,
+    "exp": 9000195684,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -137421,7 +137421,15 @@
   "6281280159936": {
     "jid": "6281280159936",
     "rpg": {},
-    "exp": 180
+    "exp": 195,
+    "name": "Xena",
+    "lastSeen": "2026-11-02T16:51:13.051Z",
+    "cooldowns": {
+      "play": 1793638274033
+    },
+    "energi": 24,
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 1
   },
   "6285607324837": {
     "jid": "6285607324837",
