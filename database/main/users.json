@@ -4499,7 +4499,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235865,
+    "exp": 235850,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -19346,10 +19346,10 @@
     "jid": "6283175764519",
     "name": "Rizky Haykal",
     "number": "6283175764519",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91309,
+    "exp": 91324,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -19358,7 +19358,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T09:42:46.067Z",
+    "lastSeen": "2026-11-02T10:21:43.708Z",
     "cooldowns": {
       "bratvid": 1793439768929,
       "setan": 1782040946136,
@@ -19380,7 +19380,8 @@
       "transfer": 1783935619820,
       "me": 1783942298349,
       "job": 1784456789391,
-      "brat": 1793439746731
+      "brat": 1793439746731,
+      "smeme": 1793614904506
     },
     "clanId": null,
     "isRegistered": false,
@@ -19400,8 +19401,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 2
   },
   "6288994432677": {
     "name": "Fadhiel MK",
@@ -54946,7 +54947,7 @@
     "energi": 99994,
     "isPremium": true,
     "isBanned": false,
-    "exp": 227981,
+    "exp": 227906,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -91123,7 +91124,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19485,
+    "exp": 19470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127809,7 +127810,7 @@
   "6287794785404": {
     "jid": "6287794785404",
     "rpg": {},
-    "exp": 9525,
+    "exp": 9540,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-01T14:31:29.736Z",
@@ -132976,7 +132977,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 17770,
+    "exp": 17785,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-30T09:19:00.042Z",
     "cooldowns": {
@@ -134746,7 +134747,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6633,
+    "exp": 6663,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-11-02T00:09:56.541Z",
     "cooldowns": {
@@ -134818,7 +134819,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 5790,
+    "exp": 5775,
     "energi": 99999,
     "name": "npc Yois",
     "lastSeen": "2026-11-01T23:35:46.917Z",
