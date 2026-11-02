@@ -63751,7 +63751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 810,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63760,14 +63760,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-01T12:18:32.379Z",
+    "lastSeen": "2026-11-02T10:57:57.477Z",
     "cooldowns": {
       "ytmp3": 1793518782227,
       "dl": 1793518700013,
       "menu": 1793518798293,
       "owner": 1793518825933,
       "play": 1793518869938,
-      "cekfemboy": 1793535518003
+      "cekfemboy": 1793535518003,
+      "top": 1793617078256
     },
     "clanId": null,
     "isRegistered": false,
@@ -63777,8 +63778,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 2
   },
   "628211048145": {
     "jid": "628211048145",
@@ -93641,7 +93642,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7440,
+    "exp": 7410,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129999,7 +130000,7 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 5160,
+    "exp": 5115,
     "energi": 99991,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-02T09:22:56.494Z",
@@ -132275,7 +132276,7 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 55320,
+    "exp": 55335,
     "name": "Thur rawring",
     "lastSeen": "2026-11-02T02:10:48.793Z",
     "cooldowns": {
@@ -133414,14 +133415,14 @@
         "stats": null
       }
     },
-    "exp": 590005,
+    "exp": 590050,
     "name": "Fиз",
-    "lastSeen": "2026-11-01T13:00:05.645Z",
+    "lastSeen": "2026-11-02T10:58:03.029Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
       "cekfemboy": 1792988111680,
-      "top": 1793538006156,
+      "top": 1793617083913,
       "register": 1792985217246,
       "casino": 1792987723884,
       "daily": 1792985297432,
@@ -133480,8 +133481,8 @@
       "crime": 1793010379640,
       "jualan": 1793010405453
     },
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 3,
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 4,
     "energi": 99999,
     "koin": 235998,
     "isRegistered": true,
