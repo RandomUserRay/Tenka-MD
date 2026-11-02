@@ -6100,7 +6100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31940,
+    "exp": 31970,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -131936,7 +131936,7 @@
       "health": 140,
       "mana": 120
     },
-    "exp": 40811,
+    "exp": 40826,
     "cooldowns": {
       "gacha": 1793604423258,
       "judi": 1793408578662,
@@ -137164,6 +137164,6 @@
   "62882005173080": {
     "jid": "62882005173080",
     "rpg": {},
-    "exp": 240
+    "exp": 255
   }
 }
