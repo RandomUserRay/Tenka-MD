@@ -6100,7 +6100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31910,
+    "exp": 31865,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -103229,7 +103229,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28637,
+    "exp": 28562,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -134387,7 +134387,7 @@
   "6285168761923": {
     "jid": "6285168761923",
     "rpg": {},
-    "exp": 495,
+    "exp": 525,
     "energi": 99999
   },
   "6285751036305": {
@@ -135023,7 +135023,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14082,
+    "exp": 14097,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-01T02:54:24.968Z",
     "energi": 99999,
@@ -137164,6 +137164,6 @@
   "62882005173080": {
     "jid": "62882005173080",
     "rpg": {},
-    "exp": 165
+    "exp": 150
   }
 }
