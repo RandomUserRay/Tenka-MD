@@ -16143,10 +16143,10 @@
     "jid": "6285753061976",
     "name": "nice nature",
     "number": "6285753061976",
-    "energi": 999998,
+    "energi": 999995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398102,
+    "exp": 9398087,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16155,7 +16155,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T11:07:30.645Z",
+    "lastSeen": "2026-11-02T09:50:51.178Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -63751,7 +63751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 900,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -92778,7 +92778,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10920,
+    "exp": 10905,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -109772,7 +109772,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3225,
+    "exp": 3240,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133415,14 +133415,14 @@
         "stats": null
       }
     },
-    "exp": 590335,
+    "exp": 590410,
     "name": "Fиз",
-    "lastSeen": "2026-11-02T11:06:29.588Z",
+    "lastSeen": "2026-11-02T11:07:25.407Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
       "cekfemboy": 1792988111680,
-      "top": 1793617590341,
+      "top": 1793617646980,
       "register": 1792985217246,
       "casino": 1792987723884,
       "daily": 1792985297432,
@@ -135354,7 +135354,7 @@
   "6281315878861": {
     "jid": "6281315878861",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1035,
     "energi": 99999
   },
   "6283159038284": {
@@ -137196,11 +137196,6 @@
   },
   "6282261487465": {
     "jid": "6282261487465",
-    "rpg": {},
-    "exp": 15
-  },
-  "6285607967297": {
-    "jid": "6285607967297",
     "rpg": {},
     "exp": 15
   }
