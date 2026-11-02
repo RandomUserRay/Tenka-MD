@@ -93645,7 +93645,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7920,
+    "exp": 7935,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126954,12 +126954,12 @@
   },
   "6287747505289": {
     "name": "masukan teks...",
-    "lastSeen": "2026-11-01T15:00:33.051Z",
+    "lastSeen": "2026-11-02T11:30:10.711Z",
     "jid": "6287747505289",
     "rpg": {
       "bank": 0
     },
-    "exp": 1665,
+    "exp": 1680,
     "cooldowns": {
       "iqc": 1790686126298,
       "p": 1793454332218,
@@ -126985,7 +126985,7 @@
       "bank": 1793537298833,
       "wm": 1793544201574
     },
-    "energi": 99999,
+    "energi": 99997,
     "lastActiveDate": "1/11/2026",
     "activeDays": 15
   },
