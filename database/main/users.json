@@ -4499,7 +4499,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 235130,
+    "exp": 235115,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -103229,7 +103229,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28907,
+    "exp": 28967,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124884,7 +124884,7 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 1980,
+    "exp": 1950,
     "energi": 99999,
     "name": "Zulfiqar",
     "lastSeen": "2026-10-31T21:58:36.835Z",
@@ -129703,7 +129703,7 @@
   "628984827076": {
     "jid": "628984827076",
     "rpg": {},
-    "exp": 2235,
+    "exp": 2250,
     "energi": 99989,
     "name": "oppression",
     "lastSeen": "2026-11-02T04:09:20.146Z",
@@ -131849,7 +131849,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 3825,
+    "exp": 3840,
     "name": "Haafiz",
     "lastSeen": "2026-11-01T14:34:21.154Z",
     "cooldowns": {
@@ -132976,7 +132976,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 17770,
+    "exp": 17785,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-10-30T09:19:00.042Z",
     "cooldowns": {
@@ -134746,7 +134746,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6633,
+    "exp": 6663,
     "name": "Marshal Protogen EXP 1",
     "lastSeen": "2026-11-02T00:09:56.541Z",
     "cooldowns": {
@@ -136939,7 +136939,7 @@
   "6281585250900": {
     "jid": "6281585250900",
     "rpg": {},
-    "exp": 1575,
+    "exp": 1560,
     "name": "Gibran",
     "lastSeen": "2026-11-02T09:23:32.133Z",
     "cooldowns": {
@@ -137170,10 +137170,5 @@
     "jid": "6287862848810",
     "rpg": {},
     "exp": 45
-  },
-  "6282363484193": {
-    "jid": "6282363484193",
-    "rpg": {},
-    "exp": 30
   }
 }
