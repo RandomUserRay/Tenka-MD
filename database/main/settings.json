@@ -30027,6 +30027,10 @@
     "6281280159936@s.whatsapp.net": {
       "jid": "6281280159936@s.whatsapp.net",
       "name": "Xena"
+    },
+    "6285607324837@s.whatsapp.net": {
+      "jid": "6285607324837@s.whatsapp.net",
+      "name": "Sandra"
     }
   },
   "antiCall": false,
@@ -30429,7 +30433,7 @@
   },
   "antiKudeta": {
     "120363429143873315@g.us": {
-      "enabled": false,
+      "enabled": true,
       "mode": "kick",
       "verified": []
     },
