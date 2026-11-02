@@ -35877,7 +35877,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1024992,
+    "exp": 1025022,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -137543,6 +137543,8 @@
   "6285727211276": {
     "jid": "6285727211276",
     "rpg": {},
-    "exp": 60
+    "exp": 75,
+    "name": "iyan",
+    "lastSeen": "2026-11-02T22:53:08.804Z"
   }
 }
