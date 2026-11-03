@@ -93498,7 +93498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2460,
+    "exp": 2520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125906,7 +125906,7 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {},
-    "exp": 9465,
+    "exp": 9480,
     "energi": 99992,
     "name": "iwak tempik🐡",
     "lastSeen": "2026-11-03T06:16:26.441Z",
@@ -131669,7 +131669,7 @@
   "62882000120355": {
     "jid": "62882000120355",
     "rpg": {},
-    "exp": 75,
+    "exp": 60,
     "energi": 99999
   },
   "6283878459520": {
@@ -133145,7 +133145,7 @@
   "6283115442995": {
     "jid": "6283115442995",
     "rpg": {},
-    "exp": 390,
+    "exp": 375,
     "energi": 99999
   },
   "6285113259048": {
@@ -133684,14 +133684,14 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 543507,
+    "exp": 529288,
     "name": "mıss",
-    "lastSeen": "2026-11-03T08:11:46.029Z",
+    "lastSeen": "2026-11-02T02:04:26.901Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793693495214,
-      "weekly": 1793693506034,
-      "daily": 1793693483567,
+      "casino": 1793521684683,
+      "weekly": 1792982385703,
+      "daily": 1793585063729,
       "register": 1792984923121,
       "cekfemboy": 1792996633513,
       "family100": 1792990278829,
@@ -133726,9 +133726,9 @@
       "nulis": 1793012949751,
       "exp": 1793343069889
     },
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 6,
-    "energi": 99998,
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 5,
+    "energi": 99999,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133738,22 +133738,21 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1294320,
+    "koin": 1284564,
     "inventory": {
       "trash": 0,
       "prawn": 0,
       "iron": 1,
       "herb": 2,
       "leather": 6,
-      "potion": 8,
+      "potion": 6,
       "diamond": 0,
       "wood": 0,
       "apple": 0,
       "octopus": 0,
       "rabbit": 1,
       "fish": 1,
-      "whale": 1,
-      "uncommon": 1
+      "whale": 1
     },
     "lastStreamer": 1793362017741,
     "quest": {
@@ -137592,15 +137591,15 @@
     "rpg": {},
     "exp": 150
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 120
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15
   },
   "62895429599867": {
     "jid": "62895429599867",
@@ -137635,6 +137634,6 @@
   "628561324328": {
     "jid": "628561324328",
     "rpg": {},
-    "exp": 45
+    "exp": 150
   }
 }
