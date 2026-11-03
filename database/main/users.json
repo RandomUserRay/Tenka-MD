@@ -93501,7 +93501,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3060,
+    "exp": 3075,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93511,11 +93511,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T13:04:11.415Z",
+    "lastSeen": "2026-11-03T13:04:55.229Z",
     "cooldowns": {
       "cekfemboy": 1786888838706,
       "femboy": 1793711065442,
-      "afk": 1793621299916
+      "afk": 1793621299916,
+      "imut": 1793711096013
     },
     "clanId": null,
     "isRegistered": false,
@@ -129462,7 +129463,7 @@
   "6289654046550": {
     "jid": "6289654046550",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999
   },
   "6285890674364": {
