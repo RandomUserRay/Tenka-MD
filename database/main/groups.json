@@ -34174,8 +34174,8 @@
         "name": "Batu bara"
       },
       "6289668602814@s.whatsapp.net": {
-        "count": 69,
-        "lastChat": 1793705562854,
+        "count": 70,
+        "lastChat": 1793706285933,
         "name": "RickGDBot"
       },
       "6281335565893@s.whatsapp.net": {
@@ -34194,8 +34194,8 @@
         "name": "dexter Morgan"
       },
       "6283135864303@s.whatsapp.net": {
-        "count": 237,
-        "lastChat": 1793705561886,
+        "count": 238,
+        "lastChat": 1793706293209,
         "name": "king win"
       },
       "6289529899190@s.whatsapp.net": {
@@ -50285,5 +50285,11 @@
     },
     "jid": "120363431506597658@g.us",
     "name": "VIC"
+  },
+  "120363430134373402@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363430134373402@g.us"
   }
 }
