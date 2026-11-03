@@ -1829,7 +1829,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 689934,
+    "exp": 690009,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1876,13 +1876,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 69,
-      "health": 780,
-      "maxHealth": 780,
-      "mana": 440,
-      "maxMana": 440,
-      "stamina": 440,
-      "maxStamina": 440
+      "level": 70,
+      "health": 790,
+      "maxHealth": 790,
+      "mana": 445,
+      "maxMana": 445,
+      "stamina": 445,
+      "maxStamina": 445
     },
     "inventory": {
       "potion": 1,
@@ -137692,18 +137692,18 @@
     "exp": 150,
     "energi": 99999
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
+    "energi": 99999
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
