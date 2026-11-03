@@ -6100,7 +6100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31940,
+    "exp": 31955,
     "level": 1,
     "koin": 100,
     "unlockedFeatures": [],
@@ -71826,12 +71826,12 @@
   },
   "6287811930699": {
     "jid": "6287811930699",
-    "name": "yaudah",
+    "name": "M",
     "number": "6287811930699",
-    "energi": 99989,
+    "energi": 99991,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73786,
+    "exp": 73771,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71840,7 +71840,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T13:10:00.354Z",
+    "lastSeen": "2026-11-03T06:15:36.909Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -99353,7 +99353,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22035,
+    "exp": 22020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130035,13 +130035,13 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 7845,
+    "exp": 7800,
     "energi": 99983,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-03T13:09:51.721Z",
+    "lastSeen": "2026-11-03T13:08:20.994Z",
     "cooldowns": {
       "pin": 1793548081272,
-      "menu": 1793711384734,
+      "menu": 1793256374582,
       "ai": 1793710175142,
       "tt": 1793711327086,
       "cekmesum": 1793301924656,
@@ -130049,8 +130049,7 @@
       "afk": 1793458028328,
       "play": 1793622375378,
       "s": 1793662873144,
-      "level": 1793703999316,
-      "allmenu": 1793711394408
+      "level": 1793703999316
     },
     "lastActiveDate": "3/11/2026",
     "activeDays": 6
@@ -137676,15 +137675,15 @@
     "rpg": {},
     "exp": 150
   },
-  "6288298454389": {
-    "jid": "6288298454389",
-    "rpg": {},
-    "exp": 1650
-  },
   "6285180751575": {
     "jid": "6285180751575",
     "rpg": {},
     "exp": 15
+  },
+  "6288298454389": {
+    "jid": "6288298454389",
+    "rpg": {},
+    "exp": 1650
   },
   "62895429599867": {
     "jid": "62895429599867",
