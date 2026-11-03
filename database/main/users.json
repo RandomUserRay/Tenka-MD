@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-03T08:26:36.262Z",
+    "lastSeen": "2026-11-03T08:29:31.360Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000202209,
+    "exp": 9000202359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -131937,7 +131937,7 @@
   },
   "62895321723163": {
     "name": "Andika protogen E3",
-    "lastSeen": "2026-11-03T08:29:20.998Z",
+    "lastSeen": "2026-11-03T08:28:51.711Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 60,
@@ -131950,7 +131950,7 @@
       "health": 140,
       "mana": 120
     },
-    "exp": 43563,
+    "exp": 43548,
     "cooldowns": {
       "gacha": 1793659452419,
       "judi": 1793408578662,
@@ -133677,19 +133677,19 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 365,
-      "health": 630,
-      "mana": 365,
-      "maxHealth": 630,
-      "maxMana": 365,
-      "maxStamina": 365,
-      "level": 54,
+      "stamina": 310,
+      "health": 620,
+      "mana": 360,
+      "maxHealth": 620,
+      "maxMana": 360,
+      "maxStamina": 360,
+      "level": 53,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 531066,
+    "exp": 529303,
     "name": "mıss",
-    "lastSeen": "2026-11-03T08:29:29.624Z",
+    "lastSeen": "2026-11-02T02:04:26.901Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793521684683,
@@ -133703,7 +133703,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793694564816,
+      "job": 1793470466692,
       "susunkata": 1792985996374,
       "quiz": 1793361784336,
       "inventory": 1792992573520,
@@ -133729,9 +133729,9 @@
       "nulis": 1793012949751,
       "exp": 1793343069889
     },
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 6,
-    "energi": 99998,
+    "lastActiveDate": "2/11/2026",
+    "activeDays": 5,
+    "energi": 99999,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -133741,7 +133741,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1301897,
+    "koin": 1284564,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -137594,15 +137594,15 @@
     "rpg": {},
     "exp": 150
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 270
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15
   },
   "62895429599867": {
     "jid": "62895429599867",
