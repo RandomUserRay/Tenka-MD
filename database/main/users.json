@@ -3085,7 +3085,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722786,
+    "exp": 722801,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -129950,7 +129950,7 @@
       "stamina": 130,
       "bank": 0
     },
-    "exp": 67935,
+    "exp": 68010,
     "energi": 99999,
     "name": "Devvarajha",
     "lastSeen": "2026-11-03T12:51:14.447Z",
@@ -137801,7 +137801,9 @@
   "6282177728614": {
     "jid": "6282177728614",
     "rpg": {},
-    "exp": 75
+    "exp": 90,
+    "name": "Manusia",
+    "lastSeen": "2026-11-03T13:01:52.366Z"
   },
   "6285893955975": {
     "jid": "6285893955975",
