@@ -56299,7 +56299,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 795,
+    "exp": 780,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71828,10 +71828,10 @@
     "jid": "6287811930699",
     "name": "yaudah",
     "number": "6287811930699",
-    "energi": 99987,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73801,
+    "exp": 73816,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71840,7 +71840,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T13:21:02.322Z",
+    "lastSeen": "2026-11-03T13:43:23.348Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -136599,7 +136599,7 @@
   "6281939062025": {
     "jid": "6281939062025",
     "rpg": {},
-    "exp": 3600,
+    "exp": 3615,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-02T05:07:00.165Z",
@@ -137676,15 +137676,15 @@
     "rpg": {},
     "exp": 150
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1650
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15
   },
   "62895429599867": {
     "jid": "62895429599867",
