@@ -56300,7 +56300,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 825,
+    "exp": 810,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61190,7 +61190,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5895,
+    "exp": 5865,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -137621,12 +137621,13 @@
   "6285181045411": {
     "jid": "6285181045411",
     "rpg": {},
-    "exp": 45,
-    "energi": 999999,
+    "exp": 75,
+    "energi": 999998,
     "name": "Suki liar",
-    "lastSeen": "2026-11-03T22:21:11.145Z",
+    "lastSeen": "2026-11-03T22:30:26.979Z",
     "cooldowns": {
-      "femboy": 1793744476885
+      "femboy": 1793744476885,
+      "stiker": 1793745028969
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 1
@@ -137700,18 +137701,18 @@
     "exp": 150,
     "energi": 99999
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
+    "energi": 99999
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
