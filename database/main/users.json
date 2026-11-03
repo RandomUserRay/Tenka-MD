@@ -93643,10 +93643,10 @@
     "jid": "6285814847562",
     "name": "🐱",
     "number": "6285814847562",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9135,
+    "exp": 9150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93656,11 +93656,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T01:02:31.260Z",
+    "lastSeen": "2026-11-03T01:02:41.522Z",
     "cooldowns": {
       "play": 1793664855209,
       "femboy": 1793619523773,
-      "afk": 1793664772465
+      "afk": 1793664772465,
+      "sticker": 1793667764187
     },
     "clanId": null,
     "isRegistered": false,
@@ -125905,7 +125906,7 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {},
-    "exp": 6795,
+    "exp": 6810,
     "energi": 99999,
     "name": "iwak tempik🐡",
     "lastSeen": "2026-11-02T13:20:51.611Z",
