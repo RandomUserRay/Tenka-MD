@@ -97163,10 +97163,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38378,
+    "exp": 38393,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97176,12 +97176,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T12:02:44.621Z",
+    "lastSeen": "2026-11-03T21:53:42.449Z",
     "cooldowns": {
       "afk": 1791845852959,
       "play": 1793514370514,
       "smeme": 1793424983213,
-      "s": 1793601137313,
+      "s": 1793742825245,
       "menu": 1791020902791,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -97238,8 +97238,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 39
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 40
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -137692,18 +137692,18 @@
     "exp": 150,
     "energi": 99999
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
+    "energi": 99999
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
