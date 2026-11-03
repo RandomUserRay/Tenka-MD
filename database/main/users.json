@@ -133440,7 +133440,7 @@
         "stats": null
       }
     },
-    "exp": 610634,
+    "exp": 610774,
     "name": "Fиз",
     "lastSeen": "2026-11-03T10:19:06.467Z",
     "cooldowns": {
@@ -133473,7 +133473,7 @@
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793010275706,
-      "tambang": 1793000077654,
+      "tambang": 1793701151356,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133526,7 +133526,7 @@
       "fish": 0,
       "prawn": 1,
       "rock": 4,
-      "coal": 0,
+      "coal": 2,
       "gold": 0,
       "octopus": 0,
       "diamond": 0,
@@ -133537,7 +133537,8 @@
       "kaleng": 7,
       "kardus": 6,
       "sampah": 10,
-      "koran": 3
+      "koran": 3,
+      "emerald": 1
     },
     "unlockedFeatures": [
       "game"
