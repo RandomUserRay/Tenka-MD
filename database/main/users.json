@@ -3979,7 +3979,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32540,
+    "exp": 32555,
     "level": 1,
     "koin": 35649,
     "unlockedFeatures": [],
@@ -131934,9 +131934,9 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 21243,
+    "exp": 21258,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-11-03T14:20:17.080Z",
+    "lastSeen": "2026-11-03T22:57:12.073Z",
     "cooldowns": {
       "gacha": 1792996255173,
       "kurir": 1793006661103,
@@ -131961,12 +131961,13 @@
       "cekfemboy": 1793006459106,
       "pakustad": 1792939075408,
       "dungeon": 1792939166423,
-      "gay": 1792940071419
+      "gay": 1792940071419,
+      "ping": 1793746635327
     },
     "energi": 99999,
     "koin": 78230,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 5,
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 6,
     "registeredAt": 1792900111702,
     "clanId": "Kit Community",
     "inventory": {}
@@ -137700,18 +137701,18 @@
     "exp": 150,
     "energi": 99999
   },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
-    "energi": 99999
-  },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
