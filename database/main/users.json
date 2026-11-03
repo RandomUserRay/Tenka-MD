@@ -131937,7 +131937,7 @@
   },
   "62895321723163": {
     "name": "Andika protogen E3",
-    "lastSeen": "2026-11-03T08:28:51.711Z",
+    "lastSeen": "2026-11-03T08:29:20.998Z",
     "jid": "62895321723163",
     "rpg": {
       "stamina": 60,
@@ -131950,7 +131950,7 @@
       "health": 140,
       "mana": 120
     },
-    "exp": 43548,
+    "exp": 43563,
     "cooldowns": {
       "gacha": 1793659452419,
       "judi": 1793408578662,
@@ -133677,19 +133677,19 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 310,
-      "health": 620,
-      "mana": 360,
-      "maxHealth": 620,
-      "maxMana": 360,
-      "maxStamina": 360,
-      "level": 53,
+      "stamina": 365,
+      "health": 630,
+      "mana": 365,
+      "maxHealth": 630,
+      "maxMana": 365,
+      "maxStamina": 365,
+      "level": 54,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 529303,
+    "exp": 531051,
     "name": "mıss",
-    "lastSeen": "2026-11-02T02:04:26.901Z",
+    "lastSeen": "2026-11-03T08:29:17.963Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793521684683,
@@ -133703,7 +133703,7 @@
       "top": 1792985643382,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1793470466692,
+      "job": 1793694564816,
       "susunkata": 1792985996374,
       "quiz": 1793361784336,
       "inventory": 1792992573520,
@@ -133729,8 +133729,8 @@
       "nulis": 1793012949751,
       "exp": 1793343069889
     },
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 5,
+    "lastActiveDate": "3/11/2026",
+    "activeDays": 6,
     "energi": 99999,
     "isRegistered": true,
     "regName": "misss",
@@ -133741,7 +133741,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1284564,
+    "koin": 1301897,
     "inventory": {
       "trash": 0,
       "prawn": 0,
