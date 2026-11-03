@@ -35877,7 +35877,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1030302,
+    "exp": 1030212,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35886,7 +35886,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T11:36:59.156Z",
+    "lastSeen": "2026-11-03T11:24:45.991Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36094,7 +36094,7 @@
       "ero": 1791479513333,
       "eba": 1791479519006,
       "topchat": 1793704436040,
-      "reactch": 1793705828215
+      "reactch": 1793704847133
     },
     "clanId": null,
     "isRegistered": false,
@@ -48647,7 +48647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17936,
+    "exp": 17966,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -67758,7 +67758,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178191,
+    "exp": 178206,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -79775,7 +79775,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2700,
+    "exp": 2745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95888,7 +95888,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -103238,7 +103238,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29132,
+    "exp": 29177,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131136,7 +131136,7 @@
   "6288989439193": {
     "jid": "6288989439193",
     "rpg": {},
-    "exp": 1575,
+    "exp": 1560,
     "energi": 99999
   },
   "6285367993638": {
@@ -132320,7 +132320,7 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 55740,
+    "exp": 55755,
     "name": "Thur rawring",
     "lastSeen": "2026-11-03T08:10:17.267Z",
     "cooldowns": {
@@ -135245,7 +135245,7 @@
   "6282148168133": {
     "jid": "6282148168133",
     "rpg": {},
-    "exp": 4980,
+    "exp": 4950,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
     "lastSeen": "2026-11-03T11:31:39.923Z",
     "energi": 99994,
@@ -137658,15 +137658,15 @@
     "rpg": {},
     "exp": 150
   },
-  "6288298454389": {
-    "jid": "6288298454389",
-    "rpg": {},
-    "exp": 1305
-  },
   "6285180751575": {
     "jid": "6285180751575",
     "rpg": {},
     "exp": 15
+  },
+  "6288298454389": {
+    "jid": "6288298454389",
+    "rpg": {},
+    "exp": 1305
   },
   "62895429599867": {
     "jid": "62895429599867",
@@ -137703,7 +137703,7 @@
   "628561324328": {
     "jid": "628561324328",
     "rpg": {},
-    "exp": 255
+    "exp": 225
   },
   "62882010032045": {
     "jid": "62882010032045",
@@ -137728,7 +137728,7 @@
   "6281385778277": {
     "jid": "6281385778277",
     "rpg": {},
-    "exp": 90
+    "exp": 45
   },
   "6285659483216": {
     "jid": "6285659483216",
@@ -137771,11 +137771,6 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 270
-  },
-  "6285381607022": {
-    "jid": "6285381607022",
-    "rpg": {},
-    "exp": 45
+    "exp": 255
   }
 }
