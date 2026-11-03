@@ -93646,7 +93646,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9690,
+    "exp": 9720,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97162,7 +97162,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37523,
+    "exp": 37538,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -136542,7 +136542,7 @@
   "6281939062025": {
     "jid": "6281939062025",
     "rpg": {},
-    "exp": 2970,
+    "exp": 2985,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-02T05:07:00.165Z"
@@ -137073,8 +137073,15 @@
   "6287715473775": {
     "jid": "6287715473775",
     "rpg": {},
-    "exp": 615,
-    "energi": 99999
+    "exp": 630,
+    "energi": 99999,
+    "name": "rotua",
+    "lastSeen": "2026-11-03T04:49:09.683Z",
+    "cooldowns": {
+      "owner": 1793681352544
+    },
+    "lastActiveDate": "3/11/2026",
+    "activeDays": 1
   },
   "6285218045914": {
     "jid": "6285218045914",
