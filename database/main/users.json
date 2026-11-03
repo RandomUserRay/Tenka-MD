@@ -93501,7 +93501,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3045,
+    "exp": 3060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93514,7 +93514,7 @@
     "lastSeen": "2026-11-03T13:04:11.415Z",
     "cooldowns": {
       "cekfemboy": 1786888838706,
-      "femboy": 1793534461892,
+      "femboy": 1793711065442,
       "afk": 1793621299916
     },
     "clanId": null,
@@ -93525,8 +93525,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "3/11/2026",
+    "activeDays": 3
   },
   "6282342552074": {
     "jid": "6282342552074",
@@ -134236,7 +134236,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10485,
+    "exp": 10500,
     "energi": 99999,
     "name": "FMZA",
     "lastSeen": "2026-11-01T19:31:20.684Z",
