@@ -1601,10 +1601,10 @@
     "jid": "6285811674575",
     "name": "kirafkasuw",
     "number": "6285811674575",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314022,
+    "exp": 314037,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T23:08:57.315Z",
+    "lastSeen": "2026-11-03T22:11:14.309Z",
     "cooldowns": {
       "menu": 1784360389960,
       "allmenu": 1783610367532,
@@ -137692,18 +137692,18 @@
     "exp": 150,
     "energi": 99999
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
+    "energi": 99999
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
