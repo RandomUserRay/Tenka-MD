@@ -133698,7 +133698,7 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 290,
+      "stamina": 280,
       "health": 620,
       "mana": 360,
       "maxHealth": 620,
@@ -133708,9 +133708,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 529453,
+    "exp": 529785,
     "name": "mıss",
-    "lastSeen": "2026-11-03T11:13:48.371Z",
+    "lastSeen": "2026-11-03T11:13:59.789Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1793521684683,
@@ -133762,7 +133762,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 1284564,
+    "koin": 1287743,
     "inventory": {
       "trash": 0,
       "prawn": 0,
