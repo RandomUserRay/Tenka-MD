@@ -71826,12 +71826,12 @@
   },
   "6287811930699": {
     "jid": "6287811930699",
-    "name": "M",
+    "name": "yaudah",
     "number": "6287811930699",
-    "energi": 99991,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73771,
+    "exp": 73786,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -71840,7 +71840,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T06:15:36.909Z",
+    "lastSeen": "2026-11-03T13:10:00.354Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -130049,7 +130049,8 @@
       "afk": 1793458028328,
       "play": 1793622375378,
       "s": 1793662873144,
-      "level": 1793703999316
+      "level": 1793703999316,
+      "allmenu": 1793711394408
     },
     "lastActiveDate": "3/11/2026",
     "activeDays": 6
