@@ -99349,7 +99349,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21555,
+    "exp": 21570,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129943,10 +129943,11 @@
       "slot": 1793255031666,
       "ship": 1793542323692,
       "naked": 1793357652783,
-      "rvo": 1793624026091
+      "rvo": 1793624026091,
+      "afk": 1793694609624
     },
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 5,
+    "lastActiveDate": "3/11/2026",
+    "activeDays": 6,
     "registeredAt": 1793222982015,
     "koin": 79733
   },
