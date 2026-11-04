@@ -50756,8 +50756,8 @@
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 19,
-        "lastChat": 1793772321985,
+        "count": 20,
+        "lastChat": 1793791474264,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
@@ -50853,7 +50853,8 @@
         }
       ]
     },
-    "antiphising": "on"
+    "antiphising": "on",
+    "goodbyeMsg": "*BYE {user} 👋🏻 SAMPAI JUMPA LAGI*"
   },
   "120363430778187817@g.us": {
     "welcome": false,
@@ -50867,6 +50868,11 @@
         "count": 1,
         "lastChat": 1793791467451,
         "name": "Haafiz"
+      },
+      "6283187511816@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793791472941,
+        "name": "andika"
       }
     },
     "jid": "120363403588365067@g.us",
