@@ -133516,9 +133516,9 @@
         "stats": null
       }
     },
-    "exp": 620646,
+    "exp": 620661,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:14:01.708Z",
+    "lastSeen": "2026-11-04T12:14:24.026Z",
     "cooldowns": {
       "menu": 1793794406149,
       "menucat": 1793794441846,
@@ -133581,11 +133581,12 @@
       "wibu": 1793010128423,
       "crime": 1793010379640,
       "jualan": 1793010405453,
-      "kerja": 1793701115288
+      "kerja": 1793701115288,
+      "dice": 1793794464919
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99999,
+    "energi": 99998,
     "koin": 280059,
     "isRegistered": true,
     "regName": "Faeres",
