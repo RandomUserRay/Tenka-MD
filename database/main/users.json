@@ -133504,7 +133504,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 350,
+      "stamina": 340,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133523,9 +133523,9 @@
         }
       ]
     },
-    "exp": 620872,
+    "exp": 623572,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:20:39.357Z",
+    "lastSeen": "2026-11-04T12:20:49.237Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133590,12 +133590,13 @@
       "jualan": 1793010405453,
       "kerja": 1793701115288,
       "enchant": 1793794769494,
-      "expedition": 1793794797486
+      "expedition": 1793794797486,
+      "freelance": 1793794843618
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
     "energi": 99995,
-    "koin": 280752,
+    "koin": 334467,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
