@@ -133757,7 +133757,7 @@
     "lastSeen": "2026-11-04T04:00:27.750Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1793750537249,
+      "casino": 1793764831885,
       "weekly": 1793714130056,
       "daily": 1793750036287,
       "register": 1792984923121,
@@ -133806,7 +133806,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 19721,
+    "koin": 0,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 705,
+    "exp": 735,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:58:52.510Z",
     "cooldowns": {
