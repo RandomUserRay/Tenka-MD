@@ -35878,7 +35878,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1034547,
+    "exp": 1034532,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35887,7 +35887,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T13:33:00.798Z",
+    "lastSeen": "2026-11-04T13:32:30.310Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36097,8 +36097,7 @@
       "topchat": 1793794402532,
       "reactch": 1793782677725,
       "del": 1793794462540,
-      "antiphising": 1793799150460,
-      "antikudeta": 1793799181334
+      "antiphising": 1793799150460
     },
     "clanId": null,
     "isRegistered": false,
@@ -56303,7 +56302,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 870,
+    "exp": 885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -87450,12 +87449,12 @@
   },
   "6289671886267": {
     "jid": "6289671886267",
-    "name": "Lintar Tempest",
+    "name": "Unknown",
     "number": "6289671886267",
-    "energi": 999999,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1665,
+    "exp": 1650,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87465,7 +87464,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T13:33:14.995Z",
+    "lastSeen": "2026-08-02T14:40:45.796Z",
     "cooldowns": {},
     "clanId": null,
     "isRegistered": false,
@@ -138384,6 +138383,11 @@
     "rpg": {},
     "exp": 45
   },
+  "6283187511816": {
+    "jid": "6283187511816",
+    "rpg": {},
+    "exp": 30
+  },
   "60138126449": {
     "jid": "60138126449",
     "rpg": {},
@@ -138399,35 +138403,20 @@
     "rpg": {},
     "exp": 585
   },
-  "6285151108192": {
-    "jid": "6285151108192",
-    "rpg": {},
-    "exp": 30
-  },
-  "6283187511816": {
-    "jid": "6283187511816",
-    "rpg": {},
-    "exp": 30
-  },
   "6285668800233": {
     "jid": "6285668800233",
     "rpg": {},
     "exp": 45
   },
+  "6285151108192": {
+    "jid": "6285151108192",
+    "rpg": {},
+    "exp": 30
+  },
   "6283837931506": {
     "jid": "6283837931506",
     "rpg": {},
     "exp": 270
-  },
-  "6282131321591": {
-    "jid": "6282131321591",
-    "rpg": {},
-    "exp": 15
-  },
-  "6281533875869": {
-    "jid": "6281533875869",
-    "rpg": {},
-    "exp": 45
   },
   "6285274249664": {
     "jid": "6285274249664",
@@ -138443,6 +138432,16 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 1
+  },
+  "6282131321591": {
+    "jid": "6282131321591",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281533875869": {
+    "jid": "6281533875869",
+    "rpg": {},
+    "exp": 45
   },
   "6287842211665": {
     "jid": "6287842211665",
@@ -138460,5 +138459,10 @@
     "jid": "6285607883115",
     "rpg": {},
     "exp": 90
+  },
+  "6285181202938": {
+    "jid": "6285181202938",
+    "rpg": {},
+    "exp": 15
   }
 }
