@@ -50539,19 +50539,19 @@
     "mutegc": true
   },
   "120363430642358530@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1793764380985,
+        "count": 11,
+        "lastChat": 1793764453886,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 14,
-        "lastChat": 1793764420549,
+        "count": 15,
+        "lastChat": 1793764464902,
         "name": "Thiryzty X Wanzty"
       },
       "6281247988976@s.whatsapp.net": {
@@ -50568,6 +50568,7 @@
     "name": "JB ALL GAMES BY R.FALY",
     "antitoxic": true,
     "antilinkgc": "on",
-    "antijudol": "on"
+    "antijudol": "on",
+    "welcomeMsg": "Selamat Bergabung {@},Di Grub JB R.Raly 😘"
   }
 }
