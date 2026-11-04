@@ -1829,7 +1829,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 690534,
+    "exp": 690609,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -9849,7 +9849,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57090,
+    "exp": 57120,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54953,7 +54953,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 232181,
+    "exp": 232256,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -54962,7 +54962,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T16:30:04.844Z",
+    "lastSeen": "2026-11-04T11:02:17.699Z",
     "cooldowns": {
       "afk": 1791302016736,
       "bot": 1785306210435,
@@ -55013,7 +55013,8 @@
       "addrole": 1793369606495,
       "qc": 1793450075263,
       "mutegc": 1793542318467,
-      "intro": 1793614915645
+      "intro": 1793614915645,
+      "p": 1793790140526
     },
     "clanId": null,
     "isRegistered": false,
@@ -55036,8 +55037,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 16,
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 17,
     "customBio": "tsundere waras, juragan femboy",
     "bgUrl": "https://files.catbox.moe/m9ljkw.jpg",
     "profileColor": "blue"
@@ -106930,7 +106931,8 @@
       "setwelcome": 1790255746594,
       "fakeff": 1790594100378,
       "bratvid": 1790599561871,
-      "bratvid2": 1791727222701
+      "bratvid2": 1791727222701,
+      "tt": 1793790137666
     },
     "clanId": null,
     "isRegistered": false,
@@ -106940,8 +106942,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 12
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 13
   },
   "6283829647574": {
     "jid": "6283829647574",
@@ -126826,10 +126828,10 @@
   },
   "62895348807500": {
     "name": "ziyann?",
-    "lastSeen": "2026-11-04T10:02:31.980Z",
+    "lastSeen": "2026-11-04T11:02:18.205Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 2970,
+    "exp": 3015,
     "cooldowns": {
       "iqc": 1790681486930,
       "brat": 1790686850312,
@@ -126858,10 +126860,10 @@
       "ffstalk": 1790684853285,
       "menu": 1790740592411,
       "ttmp3": 1790827155446,
-      "tt": 1793786559023,
+      "tt": 1793790145498,
       "s": 1791297266416
     },
-    "energi": 99997,
+    "energi": 99995,
     "lastActiveDate": "4/11/2026",
     "activeDays": 16
   },
@@ -137036,7 +137038,7 @@
   "6281110002769": {
     "jid": "6281110002769",
     "rpg": {},
-    "exp": 1080,
+    "exp": 1140,
     "name": "M",
     "lastSeen": "2026-11-01T12:10:46.872Z",
     "cooldowns": {
@@ -137719,11 +137721,11 @@
     "name": "dika mantap gemink",
     "lastSeen": "2026-11-03T15:27:42.006Z",
     "cooldowns": {
-      "femboys": 1793703705543
+      "femboys": 1793790143001
     },
     "energi": 99999,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 2
   },
   "6285727211276": {
     "jid": "6285727211276",
@@ -137891,7 +137893,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 1650,
+    "exp": 1665,
     "energi": 99999,
     "name": "ikzir",
     "lastSeen": "2026-11-03T22:54:21.057Z"
@@ -138288,7 +138290,7 @@
   "6283833096795": {
     "jid": "6283833096795",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "6287769926363": {
     "jid": "6287769926363",
@@ -138313,11 +138315,26 @@
   "6285142113930": {
     "jid": "6285142113930",
     "rpg": {},
-    "exp": 90
+    "exp": 120
   },
   "6287789454549": {
     "jid": "6287789454549",
     "rpg": {},
     "exp": 30
+  },
+  "628979319099": {
+    "jid": "628979319099",
+    "rpg": {},
+    "exp": 90
+  },
+  "6282281241875": {
+    "jid": "6282281241875",
+    "rpg": {},
+    "exp": 45
+  },
+  "6285835955975": {
+    "jid": "6285835955975",
+    "rpg": {},
+    "exp": 15
   }
 }
