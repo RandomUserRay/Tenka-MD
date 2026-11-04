@@ -132355,9 +132355,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 56310,
+    "exp": 56325,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-04T04:25:05.532Z",
+    "lastSeen": "2026-11-04T04:25:40.456Z",
     "cooldowns": {
       "menu": 1793677162562,
       "menucat": 1793546843772,
@@ -132398,7 +132398,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 8,
-    "energi": 99996,
+    "energi": 99994,
     "koin": 74412,
     "inventory": {
       "potion": 6,
@@ -138054,22 +138054,24 @@
   "6283184833648": {
     "jid": "6283184833648",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "yoooomakelar",
-    "lastSeen": "2026-11-04T04:25:07.297Z",
+    "lastSeen": "2026-11-04T04:25:32.396Z",
     "cooldowns": {
       "menu": 1793766292453,
-      "menucat": 1793766307848
+      "menucat": 1793766307848,
+      "brat": 1793766332580
     },
     "lastActiveDate": "4/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   },
   "6281578120050": {
     "jid": "6281578120050",
     "rpg": {},
     "name": "Kiel",
     "lastSeen": "2026-11-04T04:25:14.997Z",
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
       "menu": 1793766321191
     },
