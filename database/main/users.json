@@ -5198,7 +5198,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129596796,
+    "exp": 129596841,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -30935,7 +30935,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1695,
+    "exp": 1710,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35875,10 +35875,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1034637,
+    "exp": 1034712,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35887,7 +35887,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T13:34:46.450Z",
+    "lastSeen": "2026-11-04T13:35:01.628Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36052,7 +36052,7 @@
       "ytmp4": 1785568027462,
       "hapusbg": 1785326283970,
       "cecanchina": 1785492217171,
-      "cuddle": 1785492617931,
+      "cuddle": 1793799304666,
       "stickerpack": 1785642951975,
       "job": 1786978075644,
       "pin": 1789282096230,
@@ -54955,7 +54955,7 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 235181,
+    "exp": 235256,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -56303,7 +56303,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 885,
+    "exp": 870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67769,7 +67769,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178716,
+    "exp": 178731,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -87455,7 +87455,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1710,
+    "exp": 1740,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101804,7 +101804,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7410,
+    "exp": 7425,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125209,7 +125209,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20646,
+    "exp": 20661,
     "name": "paduka riyy",
     "lastSeen": "2026-11-04T08:54:56.116Z",
     "cooldowns": {
@@ -138076,7 +138076,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 2010,
+    "exp": 2055,
     "name": "ndra",
     "lastSeen": "2026-11-04T13:34:18.281Z",
     "energi": 999998,
@@ -138397,11 +138397,6 @@
     "rpg": {},
     "exp": 45
   },
-  "6283187511816": {
-    "jid": "6283187511816",
-    "rpg": {},
-    "exp": 30
-  },
   "60138126449": {
     "jid": "60138126449",
     "rpg": {},
@@ -138417,20 +138412,35 @@
     "rpg": {},
     "exp": 585
   },
-  "6285668800233": {
-    "jid": "6285668800233",
-    "rpg": {},
-    "exp": 45
-  },
   "6285151108192": {
     "jid": "6285151108192",
     "rpg": {},
     "exp": 30
   },
+  "6283187511816": {
+    "jid": "6283187511816",
+    "rpg": {},
+    "exp": 30
+  },
+  "6285668800233": {
+    "jid": "6285668800233",
+    "rpg": {},
+    "exp": 45
+  },
   "6283837931506": {
     "jid": "6283837931506",
     "rpg": {},
     "exp": 270
+  },
+  "6282131321591": {
+    "jid": "6282131321591",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281533875869": {
+    "jid": "6281533875869",
+    "rpg": {},
+    "exp": 45
   },
   "6285274249664": {
     "jid": "6285274249664",
@@ -138446,16 +138456,6 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 1
-  },
-  "6282131321591": {
-    "jid": "6282131321591",
-    "rpg": {},
-    "exp": 15
-  },
-  "6281533875869": {
-    "jid": "6281533875869",
-    "rpg": {},
-    "exp": 45
   },
   "6287842211665": {
     "jid": "6287842211665",
@@ -138473,10 +138473,5 @@
     "jid": "6285607883115",
     "rpg": {},
     "exp": 105
-  },
-  "6285181202938": {
-    "jid": "6285181202938",
-    "rpg": {},
-    "exp": 15
   }
 }
