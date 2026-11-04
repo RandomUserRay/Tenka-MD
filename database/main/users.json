@@ -105607,7 +105607,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3315,
+    "exp": 3330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133504,7 +133504,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 390,
+      "stamina": 375,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133523,9 +133523,9 @@
         }
       ]
     },
-    "exp": 620766,
+    "exp": 620781,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:20:09.426Z",
+    "lastSeen": "2026-11-04T12:20:30.323Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133594,7 +133594,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99996,
+    "energi": 99995,
     "koin": 280059,
     "isRegistered": true,
     "regName": "Faeres",
