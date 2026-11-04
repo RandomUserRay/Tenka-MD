@@ -106247,7 +106247,7 @@
     "energi": 99997,
     "isPremium": true,
     "isBanned": false,
-    "exp": 260180,
+    "exp": 260255,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T04:01:43.573Z",
+    "lastSeen": "2026-11-04T04:01:57.923Z",
     "cooldowns": {
       "menu": 1793764668355,
       "owner": 1788775980116,
@@ -106316,7 +106316,7 @@
       "info": 1788878300051,
       "toxic": 1789005285317,
       "asupan": 1789041764910,
-      "level": 1793764903672,
+      "level": 1793764918693,
       "cektsundere": 1789289725833,
       "asahotak": 1790092632526,
       "blockblast": 1789534178168,
@@ -138049,5 +138049,9 @@
     "jid": "6283184833648",
     "rpg": {},
     "exp": 15
+  },
+  "6281578120050": {
+    "jid": "6281578120050",
+    "rpg": {}
   }
 }
