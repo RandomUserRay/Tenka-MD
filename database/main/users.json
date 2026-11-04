@@ -133505,7 +133505,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 325,
+      "stamina": 310,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133516,9 +133516,9 @@
         "stats": null
       }
     },
-    "exp": 624914,
+    "exp": 624929,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T11:55:12.724Z",
+    "lastSeen": "2026-11-04T11:55:43.997Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133589,7 +133589,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99995,
+    "energi": 99994,
     "koin": 300346,
     "isRegistered": true,
     "regName": "Faeres",
@@ -134901,7 +134901,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6783,
+    "exp": 6798,
     "name": "Puro Changed Indonesia",
     "lastSeen": "2026-11-04T04:43:45.754Z",
     "cooldowns": {
