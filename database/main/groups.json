@@ -48589,8 +48589,8 @@
         "name": "Rehan suka bikin batagor"
       },
       "6282226151250@s.whatsapp.net": {
-        "count": 49,
-        "lastChat": 1793701619293,
+        "count": 50,
+        "lastChat": 1793764487703,
         "name": "zaki anggara"
       },
       "62881027554092@s.whatsapp.net": {
@@ -50539,19 +50539,19 @@
     "mutegc": true
   },
   "120363430642358530@g.us": {
-    "welcome": true,
+    "welcome": false,
     "goodbye": false,
     "leave": false,
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 11,
-        "lastChat": 1793764453886,
+        "count": 10,
+        "lastChat": 1793764380985,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 17,
-        "lastChat": 1793764479656,
+        "count": 14,
+        "lastChat": 1793764420549,
         "name": "Thiryzty X Wanzty"
       },
       "6281247988976@s.whatsapp.net": {
@@ -50568,8 +50568,6 @@
     "name": "JB ALL GAMES BY R.FALY",
     "antitoxic": true,
     "antilinkgc": "on",
-    "antijudol": "on",
-    "welcomeMsg": "Selamat Bergabung {@},Di Grub JB R.Raly 😘",
-    "mutegc": true
+    "antijudol": "on"
   }
 }
