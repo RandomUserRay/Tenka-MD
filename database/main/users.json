@@ -9689,10 +9689,10 @@
     "jid": "6282125157549",
     "name": "Akbar",
     "number": "6282125157549",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 495,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9701,7 +9701,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-31T11:08:08.265Z",
+    "lastSeen": "2026-11-04T12:01:43.383Z",
     "cooldowns": {
       "s": 1793444893191
     },
@@ -125939,7 +125939,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11460,
+    "exp": 11475,
     "energi": 99996,
     "name": "Onde Mande",
     "lastSeen": "2026-11-04T11:59:06.952Z",
