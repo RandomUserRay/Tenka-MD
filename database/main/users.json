@@ -822,7 +822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69378,
+    "exp": 69348,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -48652,7 +48652,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18281,
+    "exp": 18311,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -50957,7 +50957,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13905,
+    "exp": 13920,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -102767,7 +102767,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035,
+    "exp": 1050,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125212,7 +125212,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 21006,
+    "exp": 20991,
     "name": "paduka riyy",
     "lastSeen": "2026-11-04T13:42:33.048Z",
     "cooldowns": {
@@ -126567,7 +126567,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14655,
+    "exp": 14640,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-01T06:43:23.802Z",
@@ -134321,7 +134321,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10830,
+    "exp": 10815,
     "energi": 99999,
     "name": "FMZA",
     "lastSeen": "2026-11-01T19:31:20.684Z",
@@ -137071,7 +137071,7 @@
   "6281110002769": {
     "jid": "6281110002769",
     "rpg": {},
-    "exp": 1680,
+    "exp": 1665,
     "name": "M",
     "lastSeen": "2026-11-04T12:11:04.397Z",
     "cooldowns": {
@@ -138485,6 +138485,11 @@
   },
   "628977010887": {
     "jid": "628977010887",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285181202938": {
+    "jid": "6285181202938",
     "rpg": {},
     "exp": 15
   }
