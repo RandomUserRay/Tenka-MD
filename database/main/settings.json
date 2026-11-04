@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "AIRich is not a constructor",
+      "at": 1793799604878
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1793615212340
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1789948234202
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1789920535547
     }
   ],
   "jpmBlacklist": [],
@@ -30783,22 +30783,6 @@
     "6285385605582@s.whatsapp.net": {
       "jid": "6285385605582@s.whatsapp.net",
       "name": "Nadhif basmalah"
-    },
-    "6285142684648@s.whatsapp.net": {
-      "jid": "6285142684648@s.whatsapp.net",
-      "name": "\"mbgnyaenak\""
-    },
-    "6282337628465@s.whatsapp.net": {
-      "jid": "6282337628465@s.whatsapp.net",
-      "name": "Defran aja"
-    },
-    "60135935537@s.whatsapp.net": {
-      "jid": "60135935537@s.whatsapp.net",
-      "name": "dam4you"
-    },
-    "6285369379655@s.whatsapp.net": {
-      "jid": "6285369379655@s.whatsapp.net",
-      "name": "Sega Aruni"
     }
   },
   "antiCall": false,
