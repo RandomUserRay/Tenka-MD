@@ -30935,7 +30935,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1710,
+    "exp": 1725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35878,7 +35878,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1034727,
+    "exp": 1034742,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -36098,7 +36098,8 @@
       "reactch": 1793782677725,
       "del": 1793794462540,
       "antiphising": 1793799150460,
-      "antikudeta": 1793799206751
+      "antikudeta": 1793799206751,
+      "pat": 1793799377674
     },
     "clanId": null,
     "isRegistered": false,
@@ -125209,9 +125210,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20661,
+    "exp": 20691,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-04T08:54:56.116Z",
+    "lastSeen": "2026-11-04T13:36:25.455Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125246,7 +125247,8 @@
       "toblack": 1790250693081,
       "play": 1790251767366,
       "marry": 1790250742612,
-      "antiswgc": 1793782496238
+      "antiswgc": 1793782496238,
+      "del": 1793799385688
     },
     "energi": 999999,
     "lastActiveDate": "4/11/2026",
