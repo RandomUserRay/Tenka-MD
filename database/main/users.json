@@ -106250,7 +106250,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272105,
+    "exp": 272180,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -133521,7 +133521,7 @@
         "maxPlots": 3
       }
     },
-    "exp": 621253,
+    "exp": 622900,
     "name": "Fиз",
     "lastSeen": "2026-11-04T12:11:50.416Z",
     "cooldowns": {
@@ -133591,12 +133591,13 @@
       "cekgabut": 1793794208516,
       "parkir": 1793794218809,
       "cooking": 1793794233403,
-      "garden": 1793794304270
+      "garden": 1793794304270,
+      "freelance": 1793794314779
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
     "energi": 99995,
-    "koin": 286225,
+    "koin": 319173,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
