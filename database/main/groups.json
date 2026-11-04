@@ -50581,8 +50581,8 @@
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 82,
-        "lastChat": 1793768898966,
+        "count": 83,
+        "lastChat": 1793768916629,
         "name": "Thiryzty X Wanzty"
       },
       "6281247988976@s.whatsapp.net": {
@@ -50638,6 +50638,15 @@
     },
     "antispam": "on",
     "spamAction": "warn",
-    "groupRules": "NO TOXIC"
+    "groupRules": "NO TOXIC",
+    "warnings": {
+      "6281578120050@s.whatsapp.net": [
+        {
+          "reason": "maksa jadi admin!",
+          "by": "6285717515172@s.whatsapp.net",
+          "time": 1793768916632
+        }
+      ]
+    }
   }
 }
