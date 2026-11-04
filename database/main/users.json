@@ -133517,9 +133517,9 @@
         "stats": null
       }
     },
-    "exp": 623106,
+    "exp": 623662,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:42:21.062Z",
+    "lastSeen": "2026-11-04T12:42:23.282Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133550,7 +133550,7 @@
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793796122025,
-      "tambang": 1793701151356,
+      "tambang": 1793796144759,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133588,7 +133588,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99998,
+    "energi": 99997,
     "koin": 325960,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133604,8 +133604,8 @@
       "trash": 2,
       "fish": 0,
       "prawn": 1,
-      "rock": 4,
-      "coal": 2,
+      "rock": 6,
+      "coal": 4,
       "gold": 0,
       "octopus": 0,
       "diamond": 0,
@@ -133617,7 +133617,8 @@
       "kardus": 6,
       "sampah": 10,
       "koran": 3,
-      "emerald": 1
+      "emerald": 1,
+      "iron": 2
     },
     "unlockedFeatures": [
       "game"
