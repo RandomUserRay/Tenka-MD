@@ -27094,10 +27094,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178521,
+    "exp": 178536,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27106,7 +27106,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:48:09.297Z",
+    "lastSeen": "2026-11-04T03:48:35.339Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -27117,7 +27117,7 @@
       "jodoh": 1783582075118,
       "bratimg": 1790165011861,
       "sticker": 1783167183924,
-      "s": 1793764092756,
+      "s": 1793764121443,
       "d": 1791625868246,
       "cekhoki": 1783269818738,
       "menu": 1790150372108,
@@ -50954,7 +50954,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13605,
+    "exp": 13620,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50965,7 +50965,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-11-04T03:48:24.873Z",
     "cooldowns": {
-      "s": 1789462056749,
+      "s": 1793764106661,
       "d": 1783741421008,
       "gay": 1783738460576,
       "jelek": 1783738651828,
@@ -51008,8 +51008,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 11
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 12
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 256055,
+    "exp": 256130,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:42:31.367Z",
     "cooldowns": {
