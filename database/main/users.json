@@ -106248,7 +106248,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272330,
+    "exp": 272405,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106258,7 +106258,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T11:48:35.520Z",
+    "lastSeen": "2026-11-04T11:48:40.557Z",
     "cooldowns": {
       "menu": 1793771618229,
       "owner": 1793769454839,
@@ -133515,7 +133515,7 @@
         "stats": null
       }
     },
-    "exp": 621097,
+    "exp": 621627,
     "name": "Fиз",
     "lastSeen": "2026-11-04T11:48:36.904Z",
     "cooldowns": {
@@ -133582,12 +133582,13 @@
       "jualan": 1793010405453,
       "kerja": 1793701115288,
       "tf": 1793792841030,
-      "transfer": 1793792885426
+      "transfer": 1793792885426,
+      "streamer": 1793792920533
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
     "energi": 99999,
-    "koin": 282274,
+    "koin": 298203,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -138067,7 +138068,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1155,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T11:44:32.601Z",
     "cooldowns": {
