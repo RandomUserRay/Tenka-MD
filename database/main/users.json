@@ -35878,7 +35878,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1033737,
+    "exp": 1033752,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -135412,16 +135412,17 @@
   "6285828600992": {
     "jid": "6285828600992",
     "rpg": {},
-    "exp": 1080,
-    "energi": 99997,
+    "exp": 1095,
+    "energi": 99995,
     "name": "qwertyz",
-    "lastSeen": "2026-11-04T09:41:10.477Z",
+    "lastSeen": "2026-11-04T09:57:11.506Z",
     "cooldowns": {
       "play": 1793256520760,
       "afk": 1793462196589,
       "femboy": 1793542028042,
       "s": 1793462080856,
-      "femboys": 1793785279635
+      "femboys": 1793785279635,
+      "yuri": 1793786236691
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 4
