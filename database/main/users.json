@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-04T12:01:37.585Z",
+    "lastSeen": "2026-11-04T12:01:51.331Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000208284,
+    "exp": 9000208359,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -9703,7 +9703,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-11-04T12:01:43.383Z",
     "cooldowns": {
-      "s": 1793444893191
+      "s": 1793793705722
     },
     "clanId": null,
     "isRegistered": false,
@@ -9714,8 +9714,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "31/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 2
   },
   "6288269674073": {
     "jid": "6288269674073",
@@ -130145,7 +130145,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24180,
+    "exp": 24195,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-02T13:02:30.117Z",
@@ -134235,7 +134235,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 6375,
+    "exp": 6390,
     "energi": 99999,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-03T12:50:05.046Z",
