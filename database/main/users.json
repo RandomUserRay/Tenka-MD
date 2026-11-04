@@ -133231,7 +133231,7 @@
   "6283115442995": {
     "jid": "6283115442995",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "energi": 99999
   },
   "6285113259048": {
@@ -133506,7 +133506,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 260,
+      "stamina": 245,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133517,9 +133517,9 @@
         "stats": null
       }
     },
-    "exp": 626291,
+    "exp": 626316,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:44:44.968Z",
+    "lastSeen": "2026-11-04T12:44:51.270Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133589,7 +133589,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99993,
+    "energi": 99992,
     "koin": 351065,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133602,7 +133602,7 @@
     "unregisteredAt": null,
     "settings": {},
     "inventory": {
-      "trash": 3,
+      "trash": 4,
       "fish": 0,
       "prawn": 2,
       "rock": 11,
@@ -134902,7 +134902,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 7158,
+    "exp": 7173,
     "name": "Puro Changed Indonesia",
     "lastSeen": "2026-11-04T04:43:45.754Z",
     "cooldowns": {
