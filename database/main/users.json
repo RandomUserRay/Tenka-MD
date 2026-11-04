@@ -137725,16 +137725,17 @@
   "6285181045411": {
     "jid": "6285181045411",
     "rpg": {},
-    "exp": 150,
-    "energi": 99999,
+    "exp": 165,
+    "energi": 999998,
     "name": "Suki liar",
-    "lastSeen": "2026-11-04T09:58:07.636Z",
+    "lastSeen": "2026-11-04T17:53:09.327Z",
     "cooldowns": {
       "femboy": 1793785810857,
-      "femboys": 1793786294120
+      "femboys": 1793786294120,
+      "stiker": 1793814791548
     },
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 2
   },
   "6285758216422": {
     "jid": "6285758216422",
