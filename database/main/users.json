@@ -822,7 +822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69288,
+    "exp": 69318,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -125212,7 +125212,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20871,
+    "exp": 20886,
     "name": "paduka riyy",
     "lastSeen": "2026-11-04T13:40:45.921Z",
     "cooldowns": {
@@ -138083,12 +138083,13 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 2160,
+    "exp": 2175,
     "name": "ndra",
-    "lastSeen": "2026-11-04T13:39:18.944Z",
+    "lastSeen": "2026-11-04T13:41:06.210Z",
     "energi": 999998,
     "cooldowns": {
-      "play": 1793799576161
+      "play": 1793799576161,
+      "kiss": 1793799668601
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 1
