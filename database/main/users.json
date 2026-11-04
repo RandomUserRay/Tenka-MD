@@ -822,7 +822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69228,
+    "exp": 69243,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -5198,7 +5198,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129597081,
+    "exp": 129597111,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -57992,10 +57992,10 @@
     "jid": "6285935360380",
     "name": "Anda.",
     "number": "6285935360380",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 113530,
+    "exp": 113545,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -58004,7 +58004,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-21T04:10:48.118Z",
+    "lastSeen": "2026-11-04T13:39:03.994Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -58052,7 +58052,8 @@
       "stamina": 1784099655027,
       "slot": 1784258636627,
       "training": 1784334696189,
-      "truth": 1789963848256
+      "truth": 1789963848256,
+      "ytmp4": 1793799546671
     },
     "clanId": null,
     "isRegistered": false,
@@ -58084,8 +58085,8 @@
     },
     "access": [],
     "lastStreamer": 1784166392345,
-    "lastActiveDate": "21/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 2
   },
   "6281260046909": {
     "jid": "6281260046909",
@@ -87469,7 +87470,8 @@
     "lastSeen": "2026-11-04T13:38:54.811Z",
     "cooldowns": {
       "menu": 1793799196728,
-      "kiss": 1793799262627
+      "kiss": 1793799262627,
+      "play": 1793799545866
     },
     "clanId": null,
     "isRegistered": false,
@@ -97182,7 +97184,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 38963,
+    "exp": 38978,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -125210,7 +125212,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 20721,
+    "exp": 20736,
     "name": "paduka riyy",
     "lastSeen": "2026-11-04T13:36:25.455Z",
     "cooldowns": {
