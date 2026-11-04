@@ -63759,7 +63759,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 915,
+    "exp": 930,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63768,15 +63768,16 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T12:10:05.868Z",
+    "lastSeen": "2026-11-04T12:10:25.684Z",
     "cooldowns": {
       "ytmp3": 1793518782227,
       "dl": 1793518700013,
       "menu": 1793518798293,
       "owner": 1793518825933,
-      "play": 1793518869938,
+      "play": 1793794226659,
       "cekfemboy": 1793535518003,
-      "top": 1793617226475
+      "top": 1793617226475,
+      "cekgabut": 1793794225788
     },
     "clanId": null,
     "isRegistered": false,
@@ -63786,8 +63787,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 3
   },
   "628211048145": {
     "jid": "628211048145",
