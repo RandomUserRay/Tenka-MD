@@ -133097,10 +133097,16 @@
   "628875719296": {
     "jid": "628875719296",
     "rpg": {
-      "stamina": 60,
-      "bank": 1
+      "stamina": 110,
+      "bank": 1,
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110
     },
-    "exp": 19986,
+    "exp": 20001,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-11-04T22:29:33.605Z",
     "cooldowns": {
