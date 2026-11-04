@@ -133504,7 +133504,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 395,
+      "stamina": 380,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133515,9 +133515,9 @@
         "stats": null
       }
     },
-    "exp": 620631,
+    "exp": 622873,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:23:10.554Z",
+    "lastSeen": "2026-11-04T12:23:12.284Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133567,7 +133567,7 @@
       "hunt": 1793000433350,
       "treasure": 1793000523124,
       "gacha": 1793000558173,
-      "kurir": 1793000558423,
+      "kurir": 1793794995636,
       "mulung": 1793010413157,
       "ngamen": 1793000589069,
       "ngemis": 1793000590497,
@@ -133580,10 +133580,11 @@
       "wibu": 1793010128423,
       "crime": 1793010379640,
       "jualan": 1793010405453,
-      "kerja": 1793701115288
+      "kerja": 1793701115288,
+      "gojek": 1793794993851
     },
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 5,
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 6,
     "energi": 99998,
     "koin": 280059,
     "isRegistered": true,
