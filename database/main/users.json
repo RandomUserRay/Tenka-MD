@@ -133504,7 +133504,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 340,
+      "stamina": 325,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133515,9 +133515,9 @@
         "stats": null
       }
     },
-    "exp": 621680,
+    "exp": 621695,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:04:38.489Z",
+    "lastSeen": "2026-11-04T12:04:45.921Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133548,7 +133548,7 @@
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793010275706,
-      "tambang": 1793793756753,
+      "tambang": 1793793882661,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133585,7 +133585,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99995,
+    "energi": 99994,
     "koin": 280832,
     "isRegistered": true,
     "regName": "Faeres",
