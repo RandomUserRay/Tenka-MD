@@ -63776,7 +63776,8 @@
       "owner": 1793518825933,
       "play": 1793518869938,
       "cekfemboy": 1793535518003,
-      "top": 1793617226475
+      "top": 1793617226475,
+      "afk": 1793795188531
     },
     "clanId": null,
     "isRegistered": false,
@@ -63786,8 +63787,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 3
   },
   "628211048145": {
     "jid": "628211048145",
@@ -133515,7 +133516,7 @@
         "stats": null
       }
     },
-    "exp": 620631,
+    "exp": 620661,
     "name": "Fиз",
     "lastSeen": "2026-11-04T12:24:44.122Z",
     "cooldowns": {
