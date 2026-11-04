@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 258530,
+    "exp": 258830,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,9 +106257,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:57:33.519Z",
+    "lastSeen": "2026-11-04T03:57:42.623Z",
     "cooldowns": {
-      "menu": 1793764202533,
+      "menu": 1793764668355,
       "owner": 1788775980116,
       "menucat": 1793764321951,
       "tebakgambar": 1788623686903,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 645,
+    "exp": 675,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:56:02.933Z",
     "cooldowns": {
