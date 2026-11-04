@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 255530,
+    "exp": 255605,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:40:50.931Z",
+    "lastSeen": "2026-11-04T03:46:13.112Z",
     "cooldowns": {
       "menu": 1793763532621,
       "owner": 1788775980116,
@@ -106266,7 +106266,7 @@
       "close": 1790135938828,
       "open": 1790092181384,
       "bratbahlil": 1788623947058,
-      "mutegc": 1790255046156,
+      "mutegc": 1793763973749,
       "game": 1789007890139,
       "unmutegc": 1789008035956,
       "tidur": 1789234036852,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 240,
+    "exp": 285,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:42:31.367Z",
     "cooldowns": {
