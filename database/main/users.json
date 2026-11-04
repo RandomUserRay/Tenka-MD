@@ -133506,7 +133506,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 398,
+      "stamina": 373,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133521,9 +133521,9 @@
         "maxPlots": 3
       }
     },
-    "exp": 621238,
+    "exp": 621253,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:11:44.176Z",
+    "lastSeen": "2026-11-04T12:11:50.416Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
