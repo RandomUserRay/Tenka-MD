@@ -5198,7 +5198,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 129596466,
+    "exp": 129596481,
     "level": 1,
     "koin": 5000000,
     "unlockedFeatures": [],
@@ -54953,7 +54953,7 @@
     "energi": 99998,
     "isPremium": true,
     "isBanned": false,
-    "exp": 232406,
+    "exp": 232481,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -138452,5 +138452,10 @@
     "exp": 240,
     "name": "DeRil",
     "lastSeen": "2026-11-04T12:51:37.283Z"
+  },
+  "6285607883115": {
+    "jid": "6285607883115",
+    "rpg": {},
+    "exp": 15
   }
 }
