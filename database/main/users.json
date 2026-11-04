@@ -133073,7 +133073,7 @@
       "stamina": 60,
       "bank": 1
     },
-    "exp": 18265,
+    "exp": 18280,
     "name": "<✨🌙 CATNAP/ZUL🌙✨>",
     "lastSeen": "2026-11-04T06:43:46.429Z",
     "cooldowns": {
@@ -133505,7 +133505,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 290,
+      "stamina": 255,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133516,9 +133516,9 @@
         "stats": null
       }
     },
-    "exp": 626357,
+    "exp": 626387,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T11:56:09.327Z",
+    "lastSeen": "2026-11-04T11:57:09.572Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133589,7 +133589,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99993,
+    "energi": 99991,
     "koin": 300346,
     "isRegistered": true,
     "regName": "Faeres",
