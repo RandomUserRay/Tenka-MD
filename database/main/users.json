@@ -132728,7 +132728,7 @@
   "6282371412324": {
     "jid": "6282371412324",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "energi": 99999
   },
   "6287722643911": {
@@ -133506,7 +133506,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 410,
+      "stamina": 385,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133517,9 +133517,9 @@
         "stats": null
       }
     },
-    "exp": 620751,
+    "exp": 623061,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:41:26.588Z",
+    "lastSeen": "2026-11-04T12:41:33.518Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133583,12 +133583,13 @@
       "crime": 1793010379640,
       "jualan": 1793010405453,
       "kerja": 1793701115288,
-      "owner": 1793796020253
+      "owner": 1793796020253,
+      "freelance": 1793796097919
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
     "energi": 99999,
-    "koin": 280059,
+    "koin": 325960,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
