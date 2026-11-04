@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 253430,
+    "exp": 253505,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,9 +106257,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T11:08:06.410Z",
+    "lastSeen": "2026-11-04T03:38:45.800Z",
     "cooldowns": {
-      "menu": 1790254988823,
+      "menu": 1793763532621,
       "owner": 1788775980116,
       "menucat": 1788759892265,
       "tebakgambar": 1788623686903,
@@ -106338,8 +106338,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 17
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 18
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -124456,7 +124456,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 5700,
+    "exp": 5715,
     "energi": 99999,
     "name": "TIPIS TIPIS🤏💥💫",
     "lastSeen": "2026-10-11T08:23:07.943Z",
@@ -138015,6 +138015,6 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
