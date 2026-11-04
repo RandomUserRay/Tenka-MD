@@ -61205,7 +61205,7 @@
       "play": 1791550262883,
       "absen": 1791000077044,
       "s": 1791442654992,
-      "smeme": 1791598060225
+      "smeme": 1793764653964
     },
     "clanId": null,
     "isRegistered": false,
@@ -61216,8 +61216,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "10/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 7
   },
   "628133123394": {
     "jid": "628133123394",
@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 258455,
+    "exp": 258530,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:54:39.656Z",
+    "lastSeen": "2026-11-04T03:57:33.519Z",
     "cooldowns": {
       "menu": 1793764202533,
       "owner": 1788775980116,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 615,
+    "exp": 645,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:56:02.933Z",
     "cooldowns": {
