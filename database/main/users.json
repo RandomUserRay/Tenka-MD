@@ -50954,7 +50954,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13710,
+    "exp": 13725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -138083,7 +138083,14 @@
   "6285817755682": {
     "jid": "6285817755682",
     "rpg": {},
-    "exp": 15
+    "exp": 30,
+    "name": "tristan",
+    "lastSeen": "2026-11-04T04:29:53.496Z",
+    "cooldowns": {
+      "owner": 1793766594839
+    },
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 1
   },
   "6281517614237": {
     "name": "wn",
