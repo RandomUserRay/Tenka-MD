@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 257105,
+    "exp": 257180,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:52:01.847Z",
+    "lastSeen": "2026-11-04T03:52:17.948Z",
     "cooldowns": {
       "menu": 1793764202533,
       "owner": 1788775980116,
@@ -106296,7 +106296,7 @@
       "autosticker": 1788678928404,
       "cekabsen": 1788678950767,
       "harilibur": 1788688367619,
-      "antijudol": 1788688406676,
+      "antijudol": 1793764338042,
       "groupinfo": 1788688504289,
       "intro": 1788859266642,
       "setintro": 1788690291991,
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:42:31.367Z",
     "cooldowns": {
