@@ -133505,7 +133505,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 340,
+      "stamina": 325,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133514,11 +133514,12 @@
         "exp": 0,
         "hunger": 80,
         "stats": null
-      }
+      },
+      "expeditions": []
     },
-    "exp": 623370,
+    "exp": 626903,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:15:45.472Z",
+    "lastSeen": "2026-11-04T12:15:48.696Z",
     "cooldowns": {
       "menu": 1793794406149,
       "menucat": 1793794441846,
@@ -133568,7 +133569,7 @@
       "hunt": 1793000433350,
       "treasure": 1793000523124,
       "gacha": 1793000558173,
-      "kurir": 1793000558423,
+      "kurir": 1793794551493,
       "mulung": 1793010413157,
       "ngamen": 1793000589069,
       "ngemis": 1793000590497,
@@ -133585,7 +133586,9 @@
       "dice": 1793794464919,
       "mining": 1793794477813,
       "gojek": 1793794480808,
-      "nyapu": 1793794533434
+      "nyapu": 1793794533434,
+      "expedition": 1793794548795,
+      "freelance": 1793794549686
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
@@ -133622,7 +133625,8 @@
     },
     "unlockedFeatures": [
       "game"
-    ]
+    ],
+    "quest": {}
   },
   "6281221110247": {
     "name": "seven",
