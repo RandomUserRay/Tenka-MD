@@ -35875,10 +35875,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1031547,
+    "exp": 1031562,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35887,7 +35887,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T12:51:51.815Z",
+    "lastSeen": "2026-11-04T00:05:27.342Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36095,7 +36095,7 @@
       "ero": 1791479513333,
       "eba": 1791479519006,
       "topchat": 1793710311961,
-      "reactch": 1793704847133,
+      "reactch": 1793750736195,
       "del": 1793710017357
     },
     "clanId": null,
@@ -36165,8 +36165,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 21
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 22
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -137709,18 +137709,18 @@
     "exp": 150,
     "energi": 99999
   },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
-    "energi": 99999
-  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1815,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
+    "energi": 99999
+  },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
