@@ -137676,12 +137676,13 @@
   "6285181045411": {
     "jid": "6285181045411",
     "rpg": {},
-    "exp": 105,
-    "energi": 9999,
+    "exp": 120,
+    "energi": 9997,
     "name": "Suki liar",
-    "lastSeen": "2026-11-04T09:50:04.030Z",
+    "lastSeen": "2026-11-04T09:56:55.750Z",
     "cooldowns": {
-      "femboy": 1793785810857
+      "femboy": 1793785810857,
+      "femboys": 1793786221440
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 1
