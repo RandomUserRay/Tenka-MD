@@ -50518,14 +50518,15 @@
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 7,
-        "lastChat": 1793763644023,
+        "count": 8,
+        "lastChat": 1793763650931,
         "name": "Thiryzty X Wanzty"
       }
     },
     "jid": "120363412818328462@g.us",
     "name": "Tes",
     "antitoxic": true,
-    "antilinkgc": "on"
+    "antilinkgc": "on",
+    "antispam": "on"
   }
 }
