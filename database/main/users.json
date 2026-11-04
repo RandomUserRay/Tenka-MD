@@ -27094,10 +27094,10 @@
     "jid": "6283181407349",
     "name": "Robben",
     "number": "6283181407349",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178506,
+    "exp": 178521,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27106,7 +27106,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-03T08:53:47.850Z",
+    "lastSeen": "2026-11-04T03:48:09.297Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -27117,7 +27117,7 @@
       "jodoh": 1783582075118,
       "bratimg": 1790165011861,
       "sticker": 1783167183924,
-      "s": 1791545410344,
+      "s": 1793764092756,
       "d": 1791625868246,
       "cekhoki": 1783269818738,
       "menu": 1790150372108,
@@ -27236,8 +27236,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 20
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 21
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -50954,7 +50954,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13575,
+    "exp": 13590,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 255605,
+    "exp": 256055,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:46:13.112Z",
+    "lastSeen": "2026-11-04T03:48:09.451Z",
     "cooldowns": {
       "menu": 1793763532621,
       "owner": 1788775980116,
@@ -106285,7 +106285,7 @@
       "ytmp4": 1788627231962,
       "allmenu": 1788627345699,
       "mutemember": 1788627494400,
-      "antilinkgc": 1793763644124,
+      "antilinkgc": 1793764090636,
       "unmute": 1788628530685,
       "antiswgc": 1788773582823,
       "notifsholat": 1788754466142,
@@ -136627,7 +136627,7 @@
   "6281939062025": {
     "jid": "6281939062025",
     "rpg": {},
-    "exp": 3840,
+    "exp": 3825,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-02T05:07:00.165Z",
@@ -137721,18 +137721,18 @@
     "exp": 150,
     "energi": 99999
   },
+  "6285180751575": {
+    "jid": "6285180751575",
+    "rpg": {},
+    "exp": 15,
+    "energi": 99999
+  },
   "6288298454389": {
     "jid": "6288298454389",
     "rpg": {},
     "exp": 1965,
     "name": "nx'lesture",
     "lastSeen": "2026-11-03T13:50:07.388Z",
-    "energi": 99999
-  },
-  "6285180751575": {
-    "jid": "6285180751575",
-    "rpg": {},
-    "exp": 15,
     "energi": 99999
   },
   "62895429599867": {
@@ -138016,7 +138016,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 285,
+    "exp": 375,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T03:42:31.367Z",
     "cooldowns": {
