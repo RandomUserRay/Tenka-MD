@@ -106247,7 +106247,7 @@
     "energi": 99997,
     "isPremium": true,
     "isBanned": false,
-    "exp": 262805,
+    "exp": 262880,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T04:19:19.966Z",
+    "lastSeen": "2026-11-04T04:19:58.638Z",
     "cooldowns": {
       "menu": 1793765019703,
       "owner": 1788775980116,
@@ -106322,7 +106322,8 @@
       "blockblast": 1789534178168,
       "resetwelcome": 1790136104729,
       "rulesgrup": 1793765664383,
-      "setrulesgrup": 1793765846008
+      "setrulesgrup": 1793765846008,
+      "limit": 1793765999453
     },
     "clanId": null,
     "isRegistered": false,
