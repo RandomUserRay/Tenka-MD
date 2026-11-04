@@ -133504,7 +133504,7 @@
       "maxStamina": 410,
       "health": 720,
       "mana": 410,
-      "stamina": 265,
+      "stamina": 250,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133523,9 +133523,9 @@
         }
       ]
     },
-    "exp": 625917,
+    "exp": 626436,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:22:21.388Z",
+    "lastSeen": "2026-11-04T12:22:34.506Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133549,14 +133549,14 @@
       "level": 1792992563283,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1793794864619,
+      "mancing": 1793794949818,
       "sell": 1792987623906,
       "shop": 1793000517562,
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793010275706,
-      "tambang": 1793794813290,
+      "tambang": 1793794945023,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133597,7 +133597,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
-    "energi": 99992,
+    "energi": 99991,
     "koin": 357593,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133612,9 +133612,9 @@
     "inventory": {
       "trash": 3,
       "fish": 0,
-      "prawn": 1,
-      "rock": 7,
-      "coal": 2,
+      "prawn": 2,
+      "rock": 11,
+      "coal": 4,
       "gold": 1,
       "octopus": 0,
       "diamond": 0,
@@ -133626,7 +133626,8 @@
       "kardus": 10,
       "sampah": 21,
       "koran": 5,
-      "emerald": 1
+      "emerald": 1,
+      "iron": 2
     },
     "unlockedFeatures": [
       "game"
