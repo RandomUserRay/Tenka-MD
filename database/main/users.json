@@ -132355,9 +132355,9 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 56280,
+    "exp": 56295,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-04T03:28:53.972Z",
+    "lastSeen": "2026-11-04T04:24:53.124Z",
     "cooldowns": {
       "menu": 1793677162562,
       "menucat": 1793546843772,
@@ -132398,7 +132398,7 @@
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 8,
-    "energi": 99998,
+    "energi": 99996,
     "koin": 74412,
     "inventory": {
       "potion": 6,
@@ -138057,7 +138057,11 @@
     "exp": 30,
     "name": "yoooomakelar",
     "lastSeen": "2026-11-04T04:24:46.179Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1793766292453
+    },
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 1
   },
   "6281578120050": {
     "jid": "6281578120050",
