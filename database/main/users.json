@@ -127885,7 +127885,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11460,
+    "exp": 11490,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-03T20:42:45.789Z",
@@ -131995,9 +131995,9 @@
       "maxStamina": 110,
       "attack": 10
     },
-    "exp": 21925,
+    "exp": 26978,
     "name": "Fathir Abidzar Adhitama",
-    "lastSeen": "2026-11-04T08:27:38.020Z",
+    "lastSeen": "2026-11-04T22:40:01.768Z",
     "cooldowns": {
       "gacha": 1792996255173,
       "kurir": 1793006661103,
@@ -132018,7 +132018,7 @@
       "afk": 1793747258618,
       "job": 1793006644518,
       "level": 1792909018475,
-      "daily": 1792909043485,
+      "daily": 1793832001770,
       "cekfemboy": 1793006459106,
       "pakustad": 1792939075408,
       "dungeon": 1792939166423,
@@ -132028,11 +132028,13 @@
     },
     "energi": 99999,
     "koin": 90376,
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 6,
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 7,
     "registeredAt": 1792900111702,
     "clanId": "Kit Community",
-    "inventory": {}
+    "inventory": {
+      "potion": 3
+    }
   },
   "6282371000808": {
     "jid": "6282371000808",
@@ -134981,18 +134983,19 @@
   "6285640501387": {
     "jid": "6285640501387",
     "rpg": {},
-    "exp": 1650,
+    "exp": 4972,
     "energi": 99999,
     "name": "Mark Protogen E2",
-    "lastSeen": "2026-10-30T13:36:08.194Z",
+    "lastSeen": "2026-11-04T22:40:10.964Z",
     "cooldowns": {
       "me": 1793264844505,
       "smeme": 1793286377744,
-      "afk": 1793265099493
+      "afk": 1793265099493,
+      "daily": 1793832010966
     },
     "registeredAt": 1793264843324,
-    "lastActiveDate": "29/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 2
   },
   "6281382738806": {
     "jid": "6281382738806",
