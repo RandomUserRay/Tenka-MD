@@ -106248,7 +106248,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 272105,
+    "exp": 272180,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -133514,11 +133514,18 @@
         "hunger": 80,
         "stats": null
       },
-      "enchants": {}
+      "enchants": {},
+      "expeditions": [
+        {
+          "type": "forest",
+          "startedAt": 1793794797342,
+          "duration": 1800000
+        }
+      ]
     },
-    "exp": 620631,
+    "exp": 620646,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T12:19:29.058Z",
+    "lastSeen": "2026-11-04T12:19:57.340Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133582,7 +133589,8 @@
       "crime": 1793010379640,
       "jualan": 1793010405453,
       "kerja": 1793701115288,
-      "enchant": 1793794769494
+      "enchant": 1793794769494,
+      "expedition": 1793794797486
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
@@ -134898,7 +134906,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 6798,
+    "exp": 6813,
     "name": "Puro Changed Indonesia",
     "lastSeen": "2026-11-04T04:43:45.754Z",
     "cooldowns": {
