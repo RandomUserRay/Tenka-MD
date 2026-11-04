@@ -48589,8 +48589,8 @@
         "name": "Rehan suka bikin batagor"
       },
       "6282226151250@s.whatsapp.net": {
-        "count": 50,
-        "lastChat": 1793764487703,
+        "count": 49,
+        "lastChat": 1793701619293,
         "name": "zaki anggara"
       },
       "62881027554092@s.whatsapp.net": {
@@ -48979,8 +48979,8 @@
         "name": "Unknown"
       },
       "6281939062025@s.whatsapp.net": {
-        "count": 602,
-        "lastChat": 1793764552273,
+        "count": 598,
+        "lastChat": 1793764070346,
         "name": "Nathan❄️"
       },
       "6283867242353@s.whatsapp.net": {
@@ -50518,8 +50518,8 @@
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 39,
-        "lastChat": 1793764169039,
+        "count": 40,
+        "lastChat": 1793764496364,
         "name": "Thiryzty X Wanzty"
       },
       "6285213218958@s.whatsapp.net": {
@@ -50539,19 +50539,19 @@
     "mutegc": true
   },
   "120363430642358530@g.us": {
-    "welcome": false,
+    "welcome": true,
     "goodbye": false,
     "leave": false,
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1793764380985,
+        "count": 12,
+        "lastChat": 1793764562933,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
-        "count": 14,
-        "lastChat": 1793764420549,
+        "count": 22,
+        "lastChat": 1793764592689,
         "name": "Thiryzty X Wanzty"
       },
       "6281247988976@s.whatsapp.net": {
@@ -50568,6 +50568,12 @@
     "name": "JB ALL GAMES BY R.FALY",
     "antitoxic": true,
     "antilinkgc": "on",
-    "antijudol": "on"
+    "antijudol": "on",
+    "welcomeMsg": "*SELAMAT BERGABUNG {@} DI JB ALL GAMES BY R.FALY 🫡*",
+    "mutegc": true,
+    "toxicWarns": {
+      "6283184833648@s.whatsapp.net": 1,
+      "6281578120050@s.whatsapp.net": 1
+    }
   }
 }
