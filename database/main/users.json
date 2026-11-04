@@ -134094,7 +134094,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 100,
+      "stamina": 70,
       "health": 105,
       "mana": 53,
       "maxHealth": 170,
@@ -134106,11 +134106,23 @@
         "plots": [],
         "maxPlots": 3
       },
-      "lastHourly": 1793012734004
+      "lastHourly": 1793012734004,
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 23,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793780882688
+      }
     },
-    "exp": 105391,
+    "exp": 105421,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-04T08:27:48.263Z",
+    "lastSeen": "2026-11-04T08:27:58.458Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134131,7 +134143,7 @@
       "absen": 1792988103531,
       "inv": 1793780805109,
       "use": 1793009133283,
-      "dungeon": 1793621693779,
+      "dungeon": 1793780879300,
       "tebakfilm": 1792998970540,
       "tambang": 1793780866726,
       "pap": 1792999398457,
