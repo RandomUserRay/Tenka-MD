@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 256430,
+    "exp": 256505,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106257,7 +106257,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T03:48:09.451Z",
+    "lastSeen": "2026-11-04T03:49:48.790Z",
     "cooldowns": {
       "menu": 1793763532621,
       "owner": 1788775980116,
@@ -138030,5 +138030,13 @@
     "jid": "6285213218958",
     "rpg": {},
     "exp": 90
+  },
+  "6281247988976": {
+    "name": "kaa14",
+    "lastSeen": "2026-11-04T03:49:55.141Z",
+    "jid": "6281247988976",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {}
   }
 }
