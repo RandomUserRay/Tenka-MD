@@ -106247,7 +106247,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 254030,
+    "exp": 254180,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -138015,11 +138015,18 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 75
+    "exp": 90,
+    "name": "R.FALY",
+    "lastSeen": "2026-11-04T03:42:14.142Z",
+    "cooldowns": {
+      "close": 1793763735255
+    },
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 1
   },
   "6285213218958": {
     "jid": "6285213218958",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
