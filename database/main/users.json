@@ -132916,7 +132916,7 @@
   "6282148841533": {
     "jid": "6282148841533",
     "rpg": {},
-    "exp": 765,
+    "exp": 780,
     "name": "aku terbaik orang di duni",
     "lastSeen": "2026-10-25T08:33:47.319Z",
     "energi": 99999
@@ -133515,9 +133515,9 @@
         "stats": null
       }
     },
-    "exp": 620631,
+    "exp": 620646,
     "name": "Fиз",
-    "lastSeen": "2026-11-04T11:47:20.945Z",
+    "lastSeen": "2026-11-04T11:48:05.307Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133581,12 +133581,13 @@
       "crime": 1793010379640,
       "jualan": 1793010405453,
       "kerja": 1793701115288,
-      "tf": 1793792841030
+      "tf": 1793792841030,
+      "transfer": 1793792885426
     },
     "lastActiveDate": "4/11/2026",
     "activeDays": 6,
     "energi": 99999,
-    "koin": 280059,
+    "koin": 278059,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133833,7 +133834,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 0,
+    "koin": 2000,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -138066,7 +138067,7 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 1095,
+    "exp": 1110,
     "name": "R.FALY",
     "lastSeen": "2026-11-04T11:44:32.601Z",
     "cooldowns": {
