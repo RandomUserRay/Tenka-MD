@@ -106277,7 +106277,7 @@
     "energi": 99997,
     "isPremium": true,
     "isBanned": false,
-    "exp": 275105,
+    "exp": 275180,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -138664,5 +138664,17 @@
     "jid": "6287711021997",
     "rpg": {},
     "exp": 30
+  },
+  "6285711703365": {
+    "name": "pria misterius",
+    "lastSeen": "2026-11-05T05:53:40.529Z",
+    "jid": "6285711703365",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "absen": 1793858020719
+    },
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 1
   }
 }
