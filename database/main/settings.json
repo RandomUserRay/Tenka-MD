@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "AIRich is not a constructor",
+      "at": 1793886724944
+    },
+    {
+      "cmd": "unknown",
+      "err": "AIRich is not a constructor",
       "at": 1793883781767
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.updateKoin is not a function",
       "at": 1790003959053
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.updateKoin is not a function",
-      "at": 1790003952085
     }
   ],
   "jpmBlacklist": [],
