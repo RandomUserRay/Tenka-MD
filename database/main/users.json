@@ -133575,7 +133575,7 @@
       "maxStamina": 430,
       "health": 760,
       "mana": 430,
-      "stamina": 257,
+      "stamina": 227,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133586,11 +133586,19 @@
         "stats": null
       },
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1793877558891
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Slime Raksasa",
+        "monsterPower": 27,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793877566243
       }
     },
-    "exp": 667087,
+    "exp": 667102,
     "name": "Fиз",
     "lastSeen": "2026-11-05T11:19:18.889Z",
     "cooldowns": {
