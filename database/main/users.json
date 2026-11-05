@@ -35887,7 +35887,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1039467,
+    "exp": 1039482,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35896,7 +35896,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T14:41:41.136Z",
+    "lastSeen": "2026-11-05T14:42:16.127Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36121,7 +36121,8 @@
       "kiss": 1793839251204,
       "demote": 1793875506698,
       "welcome": 1793875935007,
-      "sleep": 1793889705341
+      "sleep": 1793889705341,
+      "fistbump": 1793889741204
     },
     "clanId": null,
     "isRegistered": false,
@@ -122540,7 +122541,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 7755,
+    "exp": 7770,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-03T23:06:36.308Z",
@@ -125798,7 +125799,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 4920,
+    "exp": 4935,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-11-01T12:50:32.088Z",
@@ -139789,6 +139790,6 @@
   "6285801008340": {
     "jid": "6285801008340",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
