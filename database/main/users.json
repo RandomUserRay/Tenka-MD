@@ -61215,7 +61215,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6000,
+    "exp": 6015,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -139314,9 +139314,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10178,
+    "exp": 10193,
     "name": "Kiliän Nátch.",
-    "lastSeen": "2026-11-05T13:29:03.555Z",
+    "lastSeen": "2026-11-05T13:29:07.225Z",
     "cooldowns": {
       "menu": 1793879889534,
       "s": 1793880023181,
@@ -139334,7 +139334,8 @@
       "kiss": 1793882168757,
       "love": 1793882289342,
       "tembak": 1793882310658,
-      "welcome": 1793882874833
+      "welcome": 1793882874833,
+      "tebakgambar": 1793885350138
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
