@@ -50967,7 +50967,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14160,
+    "exp": 14175,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -132413,15 +132413,15 @@
   "6282296102525": {
     "jid": "6282296102525",
     "rpg": {
-      "health": 75,
+      "health": 105,
       "maxHealth": 100,
-      "stamina": 9,
+      "stamina": 64,
       "mana": 53,
       "attack": 11
     },
-    "exp": 56760,
+    "exp": 56775,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-05T08:31:58.318Z",
+    "lastSeen": "2026-11-05T08:32:05.895Z",
     "cooldowns": {
       "menu": 1793859007078,
       "menucat": 1793859222723,
@@ -132446,7 +132446,7 @@
       "me": 1793370269520,
       "onlynsfw": 1793369863033,
       "maling": 1793867271929,
-      "tidur": 1793370338722,
+      "tidur": 1793867529818,
       "makan": 1793370349646,
       "duel": 1793370408789,
       "training": 1793370447827,
