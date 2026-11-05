@@ -134960,7 +134960,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 9858,
+    "exp": 9873,
     "name": "Furry Friends Official",
     "lastSeen": "2026-11-05T00:05:32.139Z",
     "cooldowns": {
@@ -138744,6 +138744,18 @@
     "cooldowns": {
       "absen": 1793858601836,
       "cekabsen": 1793858716606
+    },
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 1
+  },
+  "6289677886630": {
+    "name": "𖣂",
+    "lastSeen": "2026-11-05T06:08:10.995Z",
+    "jid": "6289677886630",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "absen": 1793858891198
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1
