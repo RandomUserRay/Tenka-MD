@@ -127925,7 +127925,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13035,
+    "exp": 13050,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-05T08:31:27.932Z",
@@ -135044,9 +135044,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11208,
+    "exp": 11223,
     "name": "Furry Friends Official",
-    "lastSeen": "2026-11-05T12:22:10.427Z",
+    "lastSeen": "2026-11-05T13:59:05.051Z",
     "cooldowns": {
       "afk": 1793834598064,
       "cekfemboy": 1793194162480,
@@ -135062,7 +135062,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 9,
-    "energi": 99967,
+    "energi": 99966,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
@@ -139631,16 +139631,17 @@
   "6282363999420": {
     "jid": "6282363999420",
     "rpg": {},
-    "exp": 5515,
+    "exp": 5530,
     "name": "Someone Jo",
-    "lastSeen": "2026-11-05T13:58:09.554Z",
+    "lastSeen": "2026-11-05T13:58:58.080Z",
     "energi": 34,
     "koin": 1727,
     "cooldowns": {
       "tebakmakanan": 1793885993647,
       "tebakgambar": 1793886899464,
       "tebaknegara": 1793886387394,
-      "tebakkata": 1793887090166
+      "tebakkata": 1793887090166,
+      "afk": 1793887141596
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1
