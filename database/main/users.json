@@ -106294,7 +106294,7 @@
     "energi": 99993,
     "isPremium": true,
     "isBanned": false,
-    "exp": 276830,
+    "exp": 276905,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -116576,7 +116576,8 @@
       "p": 1789222645362,
       "ping": 1789222668498,
       "menu": 1789222674623,
-      "antisticker": 1789474781879
+      "antisticker": 1789474781879,
+      "asupan": 1793888904550
     },
     "clanId": null,
     "isRegistered": false,
@@ -116586,8 +116587,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/9/2026",
-    "activeDays": 2
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 3
   },
   "62838676449790": {
     "jid": "62838676449790",
@@ -138338,7 +138339,7 @@
   "6285817755682": {
     "jid": "6285817755682",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "name": "tristan",
     "lastSeen": "2026-11-04T04:29:53.496Z",
     "cooldowns": {
