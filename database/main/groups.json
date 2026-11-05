@@ -43733,8 +43733,8 @@
         "name": "zarzxyure🕸️"
       },
       "6288214087346@s.whatsapp.net": {
-        "count": 31,
-        "lastChat": 1793860433785,
+        "count": 33,
+        "lastChat": 1793861355368,
         "name": "Hafiz"
       },
       "6281335565893@s.whatsapp.net": {
@@ -48744,8 +48744,8 @@
         "name": "Nero Aditya"
       },
       "6283865412573@s.whatsapp.net": {
-        "count": 530,
-        "lastChat": 1793861308933,
+        "count": 529,
+        "lastChat": 1793856827618,
         "name": "k|k∅"
       },
       "6289676340345@s.whatsapp.net": {
@@ -49289,8 +49289,8 @@
         "name": "Unknown"
       },
       "6281939062025@s.whatsapp.net": {
-        "count": 742,
-        "lastChat": 1793861354006,
+        "count": 740,
+        "lastChat": 1793856716133,
         "name": "Kiyo🕸️"
       },
       "6283867242353@s.whatsapp.net": {
@@ -50897,8 +50897,8 @@
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 108,
-        "lastChat": 1793860719594,
+        "count": 112,
+        "lastChat": 1793861359726,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
@@ -51057,9 +51057,14 @@
         "name": "ONE_MORE"
       },
       "6285797927523@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1793861160116,
+        "count": 3,
+        "lastChat": 1793861359425,
         "name": "aji"
+      },
+      "6283827071497@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793861351584,
+        "name": "."
       }
     },
     "name": "JB ALL GAMES BY R.FALY",
@@ -51096,7 +51101,8 @@
       ]
     },
     "antiphising": "on",
-    "antisticker": false
+    "antisticker": false,
+    "autoreply": true
   },
   "120363430778187817@g.us": {
     "welcome": false,
