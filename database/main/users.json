@@ -105648,7 +105648,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3765,
+    "exp": 3780,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139211,7 +139211,7 @@
   "6281288345056": {
     "jid": "6281288345056",
     "rpg": {},
-    "exp": 7079,
+    "exp": 7094,
     "name": "chppllrn",
     "lastSeen": "2026-11-05T12:20:44.723Z",
     "cooldowns": {
@@ -139242,7 +139242,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11767,
+    "exp": 11782,
     "name": "machiavellianism",
     "lastSeen": "2026-11-05T12:20:50.318Z",
     "cooldowns": {
@@ -139298,9 +139298,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10170,
+    "exp": 10200,
     "name": "M.r Prince",
-    "lastSeen": "2026-11-05T12:18:25.407Z",
+    "lastSeen": "2026-11-05T12:20:58.490Z",
     "cooldowns": {
       "menu": 1793880448150,
       "menucat": 1793880935086,
@@ -139311,7 +139311,8 @@
       "cekkhodam": 1793880979349,
       "tebakanime": 1793881059606,
       "exp": 1793881093846,
-      "me": 1793881106129
+      "me": 1793881106129,
+      "miskin": 1793881258661
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
@@ -139386,6 +139387,10 @@
     "exp": 45,
     "name": "subaru",
     "lastSeen": "2026-11-05T12:20:54.002Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "allmenu": 1793881255833
+    },
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 1
   }
 }
