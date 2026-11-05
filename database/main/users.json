@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000210234,
+    "exp": 9000210309,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -139305,7 +139305,7 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 3953,
+    "exp": 3998,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:47:54.830Z",
     "cooldowns": {
@@ -139521,11 +139521,12 @@
   "6281386390736": {
     "jid": "6281386390736",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "name": "H..... or N....?",
-    "lastSeen": "2026-11-05T12:59:35.239Z",
+    "lastSeen": "2026-11-05T13:00:09.722Z",
     "cooldowns": {
-      "menu": 1793883577490
+      "menu": 1793883577490,
+      "menucat": 1793883609903
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1
