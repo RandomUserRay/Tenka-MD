@@ -1604,7 +1604,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314427,
+    "exp": 314442,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T11:56:47.524Z",
+    "lastSeen": "2026-11-05T12:17:17.379Z",
     "cooldowns": {
       "menu": 1793879810836,
       "allmenu": 1793877494778,
@@ -1723,7 +1723,8 @@
       "croptopbikini": 1784469702320,
       "cekfemboy": 1791849449857,
       "cekganteng": 1791848858635,
-      "welcome": 1793879433395
+      "welcome": 1793879433395,
+      "setwelcome": 1793881037553
     },
     "clanId": null,
     "isRegistered": false,
