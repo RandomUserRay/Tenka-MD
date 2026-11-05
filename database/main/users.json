@@ -133557,13 +133557,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 64,
-      "maxHealth": 730,
-      "maxMana": 415,
-      "maxStamina": 415,
-      "health": 730,
-      "mana": 415,
-      "stamina": 320,
+      "level": 65,
+      "maxHealth": 740,
+      "maxMana": 420,
+      "maxStamina": 420,
+      "health": 740,
+      "mana": 420,
+      "stamina": 405,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133574,9 +133574,9 @@
         "stats": null
       }
     },
-    "exp": 635150,
+    "exp": 640319,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:19:31.636Z",
+    "lastSeen": "2026-11-05T08:19:41.949Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133600,7 +133600,7 @@
       "level": 1792992563283,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1793863775683,
+      "mancing": 1793866781577,
       "sell": 1792987623906,
       "shop": 1793000517562,
       "maling": 1792991118078,
@@ -133647,7 +133647,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99995,
+    "energi": 99994,
     "koin": 479070,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133663,8 +133663,8 @@
       "trash": 4,
       "fish": 0,
       "prawn": 2,
-      "rock": 17,
-      "coal": 6,
+      "rock": 22,
+      "coal": 9,
       "gold": 0,
       "octopus": 1,
       "diamond": 0,
@@ -133677,7 +133677,7 @@
       "sampah": 19,
       "koran": 5,
       "emerald": 1,
-      "iron": 3,
+      "iron": 4,
       "whale": 1
     },
     "unlockedFeatures": [
