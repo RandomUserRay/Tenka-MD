@@ -51372,12 +51372,13 @@
   "120363380935427013@g.us": {
     "chatStats": {
       "6282142632981@s.whatsapp.net": {
-        "count": 2,
-        "lastChat": 1793868448042,
+        "count": 3,
+        "lastChat": 1793868455124,
         "name": "𝑦𝑢𝑚𝑛𝑎𝑤𝑤"
       }
     },
     "jid": "120363380935427013@g.us",
-    "name": "Pesanan"
+    "name": "Pesanan",
+    "notifSholat": true
   }
 }
