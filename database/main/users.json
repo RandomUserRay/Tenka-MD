@@ -1604,7 +1604,7 @@
     "energi": 9996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314667,
+    "exp": 314682,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T12:35:51.997Z",
+    "lastSeen": "2026-11-05T12:37:34.822Z",
     "cooldowns": {
       "menu": 1793879810836,
       "allmenu": 1793877494778,
@@ -139263,7 +139263,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12562,
+    "exp": 12577,
     "name": "machiavellianism",
     "lastSeen": "2026-11-05T12:37:21.920Z",
     "cooldowns": {
@@ -139297,7 +139297,7 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 3383,
+    "exp": 3398,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:37:20.381Z",
     "cooldowns": {
@@ -139339,7 +139339,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10800,
+    "exp": 10815,
     "name": "M.r Prince",
     "lastSeen": "2026-11-05T12:37:24.450Z",
     "cooldowns": {
@@ -139486,6 +139486,6 @@
   "6282253374619": {
     "jid": "6282253374619",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
