@@ -1,6 +1,6 @@
 {
   "commandErrors": 679,
-  "commandsExecuted": 140197,
+  "commandsExecuted": 140198,
   "command_totalchat": 26,
   "command_menu": 2471,
   "command_fb": 14,
@@ -1473,5 +1473,6 @@
   "command_whatmusic": 1,
   "command_tendang": 1,
   "command_phisingataubukan": 2,
-  "command_listantilink": 1
+  "command_listantilink": 1,
+  "command_spin": 1
 }
