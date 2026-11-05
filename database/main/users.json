@@ -133559,13 +133559,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 66,
-      "maxHealth": 750,
-      "maxMana": 425,
-      "maxStamina": 425,
-      "health": 750,
-      "mana": 425,
-      "stamina": 312,
+      "level": 67,
+      "maxHealth": 760,
+      "maxMana": 430,
+      "maxStamina": 430,
+      "health": 760,
+      "mana": 430,
+      "stamina": 430,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133576,7 +133576,7 @@
         "stats": null
       }
     },
-    "exp": 654757,
+    "exp": 660090,
     "name": "Fиз",
     "lastSeen": "2026-11-05T08:29:41.363Z",
     "cooldowns": {
@@ -133643,7 +133643,7 @@
       "jualan": 1793867225685,
       "kerja": 1793701115288,
       "owner": 1793796020253,
-      "freelance": 1793867088813,
+      "freelance": 1793867388846,
       "gojek": 1793867150188,
       "streamer": 1793796347419,
       "nyapu": 1793867221115,
@@ -133653,7 +133653,7 @@
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
     "energi": 99987,
-    "koin": 576432,
+    "koin": 736432,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134242,7 +134242,7 @@
       "ngamen": 1793012041458,
       "ngemis": 1793010254169,
       "stamina": 1793780842040,
-      "crime": 1793012553282,
+      "crime": 1793867383463,
       "jualan": 1793867058035,
       "garden": 1793012146949,
       "streamer": 1793867178939,
