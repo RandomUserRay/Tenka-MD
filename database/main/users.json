@@ -133564,7 +133564,7 @@
       "maxStamina": 420,
       "health": 740,
       "mana": 420,
-      "stamina": 300,
+      "stamina": 275,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133575,9 +133575,9 @@
         "stats": null
       }
     },
-    "exp": 647973,
+    "exp": 647988,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:23:56.491Z",
+    "lastSeen": "2026-11-05T08:24:44.054Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -134193,7 +134193,7 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 113036,
+    "exp": 113254,
     "name": "ハフィズ",
     "lastSeen": "2026-11-05T08:24:40.692Z",
     "cooldowns": {
@@ -134235,7 +134235,7 @@
       "meme": 1793010082423,
       "quotesimage": 1793010093245,
       "nyapu": 1793012129219,
-      "mulung": 1793780872977,
+      "mulung": 1793867084792,
       "ngamen": 1793012041458,
       "ngemis": 1793010254169,
       "stamina": 1793780842040,
@@ -134279,15 +134279,15 @@
       "potion": 6,
       "deer": 0,
       "octopus": 0,
-      "botol": 24,
-      "kaleng": 11,
-      "kardus": 7,
-      "sampah": 36,
-      "koran": 3,
+      "botol": 30,
+      "kaleng": 15,
+      "kardus": 11,
+      "sampah": 37,
+      "koran": 6,
       "stick": 0,
       "gold": 0
     },
-    "koin": 548672,
+    "koin": 549181,
     "energi": 99992,
     "quest": {
       "work10": {
