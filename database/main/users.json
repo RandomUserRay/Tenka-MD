@@ -1812,9 +1812,9 @@
     "access": [],
     "fun": {
       "tembakCount": 2,
-      "jadiPacar": 1780234670111,
-      "terimaCount": 1,
-      "tembakTarget": "6285871738223@s.whatsapp.net"
+      "jadiPacar": 1793882388817,
+      "terimaCount": 2,
+      "pasangan": "6285871738223@s.whatsapp.net"
     },
     "quest": {
       "work10": {
@@ -22213,7 +22213,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 80655,
+    "exp": 80670,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -139265,9 +139265,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12652,
+    "exp": 12682,
     "name": "machiavellianism",
-    "lastSeen": "2026-11-05T12:38:24.858Z",
+    "lastSeen": "2026-11-05T12:39:48.815Z",
     "cooldowns": {
       "menu": 1793879849243,
       "s": 1793880332477,
@@ -139289,19 +139289,22 @@
       "puqi": 1793881426602,
       "hug": 1793882177952,
       "cuddle": 1793882289473,
-      "terima": 1793882305100
+      "terima": 1793882389208
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
     "energi": 50,
     "koin": 5990,
     "registeredAt": 1793881327581,
-    "fun": {}
+    "fun": {
+      "pasangan": "6285811674575@s.whatsapp.net",
+      "jadiPacar": 1793882388817
+    }
   },
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 3503,
+    "exp": 3518,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:38:30.329Z",
     "cooldowns": {
@@ -139350,7 +139353,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10905,
+    "exp": 10920,
     "name": "M.r Prince",
     "lastSeen": "2026-11-05T12:39:37.737Z",
     "cooldowns": {
@@ -139455,7 +139458,7 @@
   "6288971403705": {
     "jid": "6288971403705",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "name": "subaru",
     "lastSeen": "2026-11-05T12:38:49.223Z",
     "cooldowns": {
