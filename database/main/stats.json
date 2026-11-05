@@ -399,7 +399,7 @@
   "command_ryaoi": 3,
   "command_bratvid2": 180,
   "command_vote": 41,
-  "command_coinflip": 937,
+  "command_coinflip": 936,
   "command_read": 1,
   "command_berburu": 125,
   "command_money": 343,
@@ -1474,5 +1474,6 @@
   "command_tendang": 1,
   "command_phisingataubukan": 2,
   "command_listantilink": 1,
-  "command_spin": 1
+  "command_spin": 1,
+  "command_makanan": 1
 }
