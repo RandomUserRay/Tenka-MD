@@ -139799,13 +139799,13 @@
       "maxStamina": 110,
       "health": 120,
       "mana": 110,
-      "stamina": 110
+      "stamina": 105
     },
-    "exp": 29221,
+    "exp": 29523,
     "name": "Someone Jo",
-    "lastSeen": "2026-11-05T22:56:04.014Z",
+    "lastSeen": "2026-11-05T22:56:12.233Z",
     "energi": 99999,
-    "koin": 14731,
+    "koin": 17602,
     "cooldowns": {
       "tebakmakanan": 1793885993647,
       "tebakgambar": 1793888509671,
@@ -139814,7 +139814,8 @@
       "afk": 1793887187903,
       "me": 1793888552174,
       "miskin": 1793919335397,
-      "kaya": 1793919353516
+      "kaya": 1793919353516,
+      "gembel": 1793919376224
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 2,
