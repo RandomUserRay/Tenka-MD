@@ -127900,7 +127900,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12690,
+    "exp": 12705,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-05T08:31:27.932Z",
@@ -133565,7 +133565,7 @@
       "maxStamina": 430,
       "health": 760,
       "mana": 430,
-      "stamina": 327,
+      "stamina": 282,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133576,9 +133576,9 @@
         "stats": null
       }
     },
-    "exp": 663812,
+    "exp": 666036,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:38:46.351Z",
+    "lastSeen": "2026-11-05T08:44:44.251Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133643,7 +133643,7 @@
       "jualan": 1793867468185,
       "kerja": 1793701115288,
       "owner": 1793796020253,
-      "freelance": 1793867388846,
+      "freelance": 1793868285148,
       "gojek": 1793867409682,
       "streamer": 1793867502416,
       "nyapu": 1793867469777,
@@ -133652,7 +133652,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99986,
+    "energi": 99985,
     "koin": 794781,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133668,8 +133668,8 @@
       "trash": 7,
       "fish": 0,
       "prawn": 2,
-      "rock": 33,
-      "coal": 11,
+      "rock": 36,
+      "coal": 14,
       "gold": 1,
       "octopus": 1,
       "diamond": 0,
