@@ -1604,7 +1604,7 @@
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 314352,
+    "exp": 314367,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -135004,9 +135004,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 10653,
+    "exp": 10668,
     "name": "Furry Friends Official",
-    "lastSeen": "2026-11-05T11:54:39.418Z",
+    "lastSeen": "2026-11-05T11:57:06.891Z",
     "cooldowns": {
       "afk": 1793834598064,
       "cekfemboy": 1793194162480,
@@ -135021,7 +135021,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 9,
-    "energi": 99978,
+    "energi": 99977,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
@@ -139210,11 +139210,11 @@
   "6281288345056": {
     "jid": "6281288345056",
     "rpg": {},
-    "exp": 45
+    "exp": 75
   },
   "6285871738223": {
     "jid": "6285871738223",
     "rpg": {},
-    "exp": 60
+    "exp": 105
   }
 }
