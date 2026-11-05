@@ -134177,21 +134177,21 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 35,
-      "health": 86,
-      "mana": 53,
-      "maxHealth": 170,
-      "maxMana": 135,
-      "maxStamina": 135,
+      "stamina": 155,
+      "health": 210,
+      "mana": 155,
+      "maxHealth": 210,
+      "maxMana": 155,
+      "maxStamina": 155,
       "attack": 10,
-      "level": 8,
+      "level": 12,
       "garden": {
         "plots": [],
         "maxPlots": 3
       },
       "lastHourly": 1793012734004
     },
-    "exp": 108050,
+    "exp": 110293,
     "name": "ハフィズ",
     "lastSeen": "2026-11-05T08:20:24.934Z",
     "cooldowns": {
@@ -134281,7 +134281,7 @@
       "koran": 3,
       "stick": 0
     },
-    "koin": 356009,
+    "koin": 400875,
     "energi": 99997,
     "quest": {
       "work10": {
