@@ -133608,7 +133608,8 @@
           "startedAt": 1793886123442,
           "duration": 1800000
         }
-      ]
+      ],
+      "defense": 15
     },
     "exp": 683676,
     "name": "Fиз",
@@ -133682,7 +133683,7 @@
       "streamer": 1793886175643,
       "nyapu": 1793886341789,
       "create": 1793867257530,
-      "craft": 1793867274060,
+      "craft": 1793886407857,
       "smeme": 1793872498846,
       "nambalban": 1793885983426,
       "expedition": 1793886124082
@@ -133706,7 +133707,7 @@
       "fish": 1,
       "prawn": 3,
       "rock": 44,
-      "coal": 18,
+      "coal": 13,
       "gold": 2,
       "octopus": 3,
       "diamond": 0,
@@ -133719,8 +133720,9 @@
       "sampah": 19,
       "koran": 5,
       "emerald": 1,
-      "iron": 10,
-      "whale": 1
+      "iron": 0,
+      "whale": 1,
+      "armor": 1
     },
     "unlockedFeatures": [
       "game"
