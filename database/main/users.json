@@ -103290,7 +103290,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29792,
+    "exp": 29807,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139544,12 +139544,12 @@
   "6282180270274": {
     "jid": "6282180270274",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "name": "jaa",
-    "lastSeen": "2026-11-05T14:21:29.811Z",
+    "lastSeen": "2026-11-05T14:21:48.777Z",
     "cooldowns": {
       "menu": 1793887956918,
-      "brat": 1793888483234,
+      "brat": 1793888508874,
       "bratvid": 1793888156129,
       "play": 1793888252411,
       "bratwhite": 1793888336600,
@@ -139558,7 +139558,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
-    "energi": 11
+    "energi": 10
   },
   "628218128794": {
     "jid": "628218128794",
@@ -139668,9 +139668,9 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26730,
+    "exp": 26745,
     "name": "Someone Jo",
-    "lastSeen": "2026-11-05T14:20:25.913Z",
+    "lastSeen": "2026-11-05T14:21:48.156Z",
     "energi": 86,
     "koin": 13144,
     "cooldowns": {
