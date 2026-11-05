@@ -97213,10 +97213,10 @@
     "jid": "6283139380069",
     "name": "shiro >_●",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39728,
+    "exp": 39743,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97226,7 +97226,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T13:13:40.642Z",
+    "lastSeen": "2026-11-05T17:03:22.728Z",
     "cooldowns": {
       "afk": 1793790750144,
       "play": 1793514370514,
@@ -97261,7 +97261,7 @@
       "swgc": 1790670948129,
       "allmenu": 1790671077166,
       "stickerpack": 1791022109686,
-      "tt": 1793615337928,
+      "tt": 1793898208724,
       "imut": 1790758638087,
       "ganteng": 1790758652749,
       "stickerlydl": 1791022958053,
@@ -97288,8 +97288,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 40
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 41
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -134388,7 +134388,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 6525,
+    "exp": 6540,
     "energi": 99999,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-03T12:50:05.046Z",
