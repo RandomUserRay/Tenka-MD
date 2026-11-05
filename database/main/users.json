@@ -139210,7 +139210,7 @@
   "6281288345056": {
     "jid": "6281288345056",
     "rpg": {},
-    "exp": 6779,
+    "exp": 6809,
     "name": "chppllrn",
     "lastSeen": "2026-11-05T12:16:25.259Z",
     "cooldowns": {
@@ -139232,7 +139232,7 @@
   "6285871738223": {
     "jid": "6285871738223",
     "rpg": {},
-    "exp": 7243,
+    "exp": 7258,
     "name": "machiavellianism",
     "lastSeen": "2026-11-05T12:16:25.587Z",
     "cooldowns": {
@@ -139276,8 +139276,16 @@
   },
   "6281222448244": {
     "jid": "6281222448244",
-    "rpg": {},
-    "exp": 9990,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10005,
     "name": "M.r Prince",
     "lastSeen": "2026-11-05T12:16:19.322Z",
     "cooldowns": {
