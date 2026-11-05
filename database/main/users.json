@@ -133592,7 +133592,7 @@
       "maxStamina": 435,
       "health": 770,
       "mana": 435,
-      "stamina": 286,
+      "stamina": 256,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133603,9 +133603,9 @@
         "stats": null
       }
     },
-    "exp": 677034,
+    "exp": 677418,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T13:40:03.059Z",
+    "lastSeen": "2026-11-05T13:40:08.399Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133673,7 +133673,7 @@
       "freelance": 1793885987330,
       "gojek": 1793884129718,
       "streamer": 1793884154375,
-      "nyapu": 1793884131525,
+      "nyapu": 1793886007155,
       "create": 1793867257530,
       "craft": 1793867274060,
       "smeme": 1793872498846,
@@ -133681,7 +133681,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99980,
+    "energi": 99979,
     "koin": 872567,
     "isRegistered": true,
     "regName": "Faeres",
