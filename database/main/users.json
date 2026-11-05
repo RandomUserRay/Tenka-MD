@@ -63773,7 +63773,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1015,
+    "exp": 1165,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -63788,11 +63788,11 @@
       "dl": 1793518700013,
       "menu": 1793518798293,
       "owner": 1793518825933,
-      "play": 1793518869938,
+      "play": 1793872635166,
       "cekfemboy": 1793535518003,
       "top": 1793617226475,
       "afk": 1793795188531,
-      "mancing": 1793796421436,
+      "mancing": 1793872633163,
       "s": 1793871730141
     },
     "clanId": null,
@@ -63804,7 +63804,8 @@
       "stamina": 70
     },
     "inventory": {
-      "trash": 1
+      "trash": 1,
+      "prawn": 1
     },
     "access": [],
     "lastActiveDate": "5/11/2026",
