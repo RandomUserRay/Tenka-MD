@@ -127900,7 +127900,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12630,
+    "exp": 12645,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-04T23:17:54.692Z",
@@ -132419,7 +132419,7 @@
       "mana": 53,
       "attack": 11
     },
-    "exp": 56700,
+    "exp": 56715,
     "name": "Thur rawring",
     "lastSeen": "2026-11-05T08:27:49.090Z",
     "cooldowns": {
@@ -133564,7 +133564,7 @@
       "maxStamina": 425,
       "health": 750,
       "mana": 425,
-      "stamina": 372,
+      "stamina": 337,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133575,9 +133575,9 @@
         "stats": null
       }
     },
-    "exp": 654577,
+    "exp": 654742,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:28:19.269Z",
+    "lastSeen": "2026-11-05T08:29:09.048Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133601,14 +133601,14 @@
       "level": 1792992563283,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1793867041520,
+      "mancing": 1793867353946,
       "sell": 1792987623906,
       "shop": 1793000517562,
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793867236992,
-      "tambang": 1793867037670,
+      "tambang": 1793867349868,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133651,7 +133651,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99989,
+    "energi": 99987,
     "koin": 576432,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133664,12 +133664,12 @@
     "unregisteredAt": null,
     "settings": {},
     "inventory": {
-      "trash": 6,
+      "trash": 7,
       "fish": 0,
       "prawn": 2,
-      "rock": 30,
+      "rock": 33,
       "coal": 11,
-      "gold": 0,
+      "gold": 1,
       "octopus": 1,
       "diamond": 0,
       "potion": 6,
@@ -134195,7 +134195,7 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 114816,
+    "exp": 114831,
     "name": "ハフィズ",
     "lastSeen": "2026-11-05T08:28:46.283Z",
     "cooldowns": {
