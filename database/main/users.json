@@ -50967,7 +50967,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14040,
+    "exp": 14055,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -133563,7 +133563,7 @@
       "maxStamina": 420,
       "health": 740,
       "mana": 420,
-      "stamina": 380,
+      "stamina": 345,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133574,9 +133574,9 @@
         "stats": null
       }
     },
-    "exp": 641864,
+    "exp": 642048,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:20:57.219Z",
+    "lastSeen": "2026-11-05T08:21:19.379Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133600,14 +133600,14 @@
       "level": 1792992563283,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1793866781577,
+      "mancing": 1793866884894,
       "sell": 1792987623906,
       "shop": 1793000517562,
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793866810942,
-      "tambang": 1793866785011,
+      "tambang": 1793866883809,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133648,7 +133648,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99994,
+    "energi": 99992,
     "koin": 494831,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133661,11 +133661,11 @@
     "unregisteredAt": null,
     "settings": {},
     "inventory": {
-      "trash": 4,
+      "trash": 5,
       "fish": 0,
       "prawn": 2,
-      "rock": 22,
-      "coal": 9,
+      "rock": 27,
+      "coal": 11,
       "gold": 0,
       "octopus": 1,
       "diamond": 0,
@@ -133678,7 +133678,7 @@
       "sampah": 19,
       "koran": 5,
       "emerald": 1,
-      "iron": 4,
+      "iron": 6,
       "whale": 1
     },
     "unlockedFeatures": [
@@ -134192,9 +134192,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 110473,
+    "exp": 110757,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-05T08:21:06.356Z",
+    "lastSeen": "2026-11-05T08:21:30.630Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134217,11 +134217,11 @@
       "use": 1793009133283,
       "dungeon": 1793780879300,
       "tebakfilm": 1792998970540,
-      "tambang": 1793780866726,
+      "tambang": 1793866870091,
       "pap": 1792999398457,
       "adventure": 1793780900186,
       "mywaifu": 1792999798476,
-      "sellall": 1793780815700,
+      "sellall": 1793866875211,
       "shop": 1793009302320,
       "money": 1793010029453,
       "energy": 1793009333504,
@@ -134265,13 +134265,13 @@
       "uncommon": 3,
       "trash": 0,
       "fish": 0,
-      "prawn": 1,
+      "prawn": 0,
       "herb": 7,
       "leather": 5,
       "rock": 0,
       "iron": 0,
       "diamond": 0,
-      "coal": 2,
+      "coal": 0,
       "potion": 6,
       "deer": 0,
       "octopus": 0,
@@ -134280,9 +134280,10 @@
       "kardus": 7,
       "sampah": 36,
       "koran": 3,
-      "stick": 0
+      "stick": 0,
+      "gold": 0
     },
-    "koin": 400875,
+    "koin": 407275,
     "energi": 99995,
     "quest": {
       "work10": {
@@ -138954,7 +138955,7 @@
   "6285217155230": {
     "jid": "6285217155230",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   },
   "6285829131432": {
     "jid": "6285829131432",
