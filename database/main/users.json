@@ -91028,12 +91028,12 @@
   },
   "6287862595969": {
     "jid": "6287862595969",
-    "name": "Zeon",
+    "name": "ㅤ",
     "number": "6287862595969",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91043,12 +91043,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T18:37:25.803Z",
+    "lastSeen": "2026-11-05T10:23:59.536Z",
     "cooldowns": {
       "cekfemboy": 1786871220238,
       "terima": 1786871530739,
       "getpp": 1786875686408,
-      "cekmesum": 1793299046056
+      "cekmesum": 1793299046056,
+      "femboys": 1793874243227
     },
     "clanId": null,
     "isRegistered": false,
@@ -91062,8 +91063,8 @@
       "pasangan": "6289677467174@s.whatsapp.net",
       "jadiPacar": 1786871525605
     },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 1
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 2
   },
   "6285849062169": {
     "jid": "6285849062169",
@@ -99387,7 +99388,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 22995,
+    "exp": 23010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125979,7 +125980,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13755,
+    "exp": 13770,
     "energi": 99999,
     "name": "Onde Mande",
     "lastSeen": "2026-11-04T12:08:03.129Z",
@@ -136182,7 +136183,7 @@
   "6282323874453": {
     "jid": "6282323874453",
     "rpg": {},
-    "exp": 1095,
+    "exp": 1110,
     "energi": 99997,
     "name": "Arif",
     "lastSeen": "2026-11-05T10:23:19.719Z",
