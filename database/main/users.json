@@ -139222,19 +139222,21 @@
   "6285871738223": {
     "jid": "6285871738223",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "machiavellianism",
-    "lastSeen": "2026-11-05T11:57:26.545Z",
+    "lastSeen": "2026-11-05T11:59:09.129Z",
     "cooldowns": {
-      "menu": 1793879849243
+      "menu": 1793879849243,
+      "s": 1793879950436
     },
     "lastActiveDate": "5/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   },
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T11:58:07.731Z",
     "cooldowns": {
