@@ -47224,8 +47224,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 954,
-        "lastChat": 1793839014469,
+        "count": 956,
+        "lastChat": 1793839026876,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47852,7 +47852,8 @@
         "image": null,
         "createdAt": 1793839014471
       }
-    ]
+    ],
+    "autoreply": true
   },
   "120363426735184360@g.us": {
     "welcome": true,
