@@ -27097,7 +27097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179061,
+    "exp": 179076,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -133563,7 +133563,7 @@
       "maxStamina": 420,
       "health": 740,
       "mana": 420,
-      "stamina": 390,
+      "stamina": 380,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133574,9 +133574,9 @@
         "stats": null
       }
     },
-    "exp": 641350,
+    "exp": 641864,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T08:20:01.368Z",
+    "lastSeen": "2026-11-05T08:20:57.219Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133643,12 +133643,13 @@
       "owner": 1793796020253,
       "freelance": 1793866785121,
       "gojek": 1793866794552,
-      "streamer": 1793796347419
+      "streamer": 1793796347419,
+      "nyapu": 1793866860990
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
     "energi": 99994,
-    "koin": 484832,
+    "koin": 494831,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -134177,7 +134178,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 155,
+      "stamina": 120,
       "health": 210,
       "mana": 155,
       "maxHealth": 210,
@@ -134191,9 +134192,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 110293,
+    "exp": 110473,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-05T08:20:24.934Z",
+    "lastSeen": "2026-11-05T08:21:06.356Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134208,7 +134209,7 @@
       "allmenu": 1793780991911,
       "tolol": 1792986385069,
       "level": 1793009292795,
-      "mancing": 1793621666901,
+      "mancing": 1793866861155,
       "prabowo-ai": 1792987674459,
       "ngentod": 1792988004038,
       "absen": 1792988103531,
@@ -134264,7 +134265,7 @@
       "uncommon": 3,
       "trash": 0,
       "fish": 0,
-      "prawn": 0,
+      "prawn": 1,
       "herb": 7,
       "leather": 5,
       "rock": 0,
@@ -134282,7 +134283,7 @@
       "stick": 0
     },
     "koin": 400875,
-    "energi": 99997,
+    "energi": 99995,
     "quest": {
       "work10": {
         "progress": 0,
@@ -138913,7 +138914,7 @@
   "628131596457": {
     "jid": "628131596457",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6283190615772": {
     "jid": "6283190615772",
