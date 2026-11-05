@@ -27100,7 +27100,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179361,
+    "exp": 179376,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -139224,7 +139224,7 @@
   "6285871738223": {
     "jid": "6285871738223",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "name": "machiavellianism",
     "lastSeen": "2026-11-05T11:59:09.129Z",
     "cooldowns": {
@@ -139238,14 +139238,16 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 150,
+    "exp": 195,
     "name": "Kiliän Nátch.",
-    "lastSeen": "2026-11-05T11:58:07.731Z",
+    "lastSeen": "2026-11-05T12:00:22.679Z",
     "cooldowns": {
-      "menu": 1793879889534
+      "menu": 1793879889534,
+      "s": 1793880023181
     },
     "lastActiveDate": "5/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   },
   "6283169812878": {
     "jid": "6283169812878",
