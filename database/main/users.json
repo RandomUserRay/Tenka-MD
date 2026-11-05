@@ -50973,7 +50973,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14205,
+    "exp": 14220,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -110559,12 +110559,12 @@
   },
   "6282274280240": {
     "jid": "6282274280240",
-    "name": "⚡ Thunder ⚡",
+    "name": "smbln",
     "number": "6282274280240",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10050,
+    "exp": 10065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110574,14 +110574,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-11T08:24:17.113Z",
+    "lastSeen": "2026-11-05T12:29:04.389Z",
     "cooldowns": {
       "absen": 1790993067728,
       "warn": 1791707057328,
       "cekabsen": 1791000106650,
       "play": 1791594004854,
       "ytmp4": 1791594001481,
-      "smeme": 1791616251491
+      "smeme": 1791616251491,
+      "level": 1793881744477
     },
     "clanId": null,
     "isRegistered": false,
@@ -110599,8 +110600,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "11/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 7
   },
   "6285645047395": {
     "jid": "6285645047395",
@@ -139228,7 +139229,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10622,
+    "exp": 10652,
     "name": "chppllrn",
     "lastSeen": "2026-11-05T12:28:51.565Z",
     "cooldowns": {
@@ -139292,7 +139293,7 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 2738,
+    "exp": 2768,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:22:51.050Z",
     "cooldowns": {
