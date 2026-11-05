@@ -132444,11 +132444,12 @@
       "maxHealth": 100,
       "stamina": 9,
       "mana": 53,
-      "attack": 11
+      "attack": 11,
+      "guildId": "guild_1793887888393"
     },
-    "exp": 56835,
+    "exp": 56850,
     "name": "Thur rawring",
-    "lastSeen": "2026-11-05T14:10:18.683Z",
+    "lastSeen": "2026-11-05T14:11:28.390Z",
     "cooldowns": {
       "menu": 1793859007078,
       "menucat": 1793859222723,
@@ -132493,12 +132494,12 @@
       "lesbian": 1793866980687,
       "gacha": 1793867375905,
       "sellall": 1793885876280,
-      "guild": 1793887820184
+      "guild": 1793887888994
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 9,
     "energi": 99985,
-    "koin": 58928,
+    "koin": 48928,
     "inventory": {
       "potion": 6,
       "fish": 0,
