@@ -134957,7 +134957,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 9708,
+    "exp": 9738,
     "name": "Furry Friends Official",
     "lastSeen": "2026-11-05T00:05:32.139Z",
     "cooldowns": {
@@ -138149,9 +138149,9 @@
   "6285891564682": {
     "jid": "6285891564682",
     "rpg": {},
-    "exp": 1980,
+    "exp": 1995,
     "name": "R.FALY",
-    "lastSeen": "2026-11-05T01:52:48.546Z",
+    "lastSeen": "2026-11-05T04:09:23.344Z",
     "cooldowns": {
       "close": 1793763735255,
       "open": 1793763752032,
@@ -138161,7 +138161,8 @@
       "buatgiveaway": 1793765111374,
       "autoai": 1793792590951,
       "setgoodbye": 1793792672667,
-      "delete": 1793843568715
+      "delete": 1793843568715,
+      "h": 1793851764701
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 2,
