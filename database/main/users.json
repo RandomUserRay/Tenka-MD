@@ -133592,7 +133592,7 @@
       "maxStamina": 440,
       "health": 780,
       "mana": 440,
-      "stamina": 440,
+      "stamina": 405,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133610,9 +133610,9 @@
         }
       ]
     },
-    "exp": 681586,
+    "exp": 682068,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T13:42:17.292Z",
+    "lastSeen": "2026-11-05T13:42:27.352Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133643,7 +133643,7 @@
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793886063371,
-      "tambang": 1793886049946,
+      "tambang": 1793886146118,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133674,7 +133674,7 @@
       "gay": 1793010096691,
       "wibu": 1793010128423,
       "crime": 1793010379640,
-      "jualan": 1793867468185,
+      "jualan": 1793886144640,
       "kerja": 1793701115288,
       "owner": 1793796020253,
       "freelance": 1793885987330,
@@ -133689,7 +133689,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99977,
+    "energi": 99975,
     "koin": 872567,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133706,8 +133706,8 @@
       "fish": 0,
       "prawn": 2,
       "rock": 40,
-      "coal": 16,
-      "gold": 1,
+      "coal": 18,
+      "gold": 2,
       "octopus": 3,
       "diamond": 0,
       "potion": 6,
@@ -133719,7 +133719,7 @@
       "sampah": 19,
       "koran": 5,
       "emerald": 1,
-      "iron": 9,
+      "iron": 10,
       "whale": 1
     },
     "unlockedFeatures": [
@@ -139625,7 +139625,7 @@
   "6282363999420": {
     "jid": "6282363999420",
     "rpg": {},
-    "exp": 3461,
+    "exp": 3476,
     "name": "Someone Jo",
     "lastSeen": "2026-11-05T13:42:15.174Z",
     "energi": 28,
