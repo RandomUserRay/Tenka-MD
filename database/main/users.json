@@ -35887,7 +35887,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1040082,
+    "exp": 1040112,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35896,7 +35896,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T14:45:20.657Z",
+    "lastSeen": "2026-11-05T14:49:49.673Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35951,7 +35951,7 @@
       "bratcewek": 1784899166678,
       "pantex": 1783765285741,
       "benefitpremium": 1783765497677,
-      "tolak": 1783765555671,
+      "tolak": 1793890190126,
       "waifu": 1783847481882,
       "husbu": 1783765610860,
       "asupan": 1791479227746,
@@ -131710,16 +131710,21 @@
   "6285862045950": {
     "jid": "6285862045950",
     "rpg": {},
-    "exp": 1020,
-    "energi": 99999,
+    "exp": 1035,
+    "energi": 999998,
     "name": "vanzzseliter",
-    "lastSeen": "2026-11-04T13:32:54.738Z",
+    "lastSeen": "2026-11-05T14:49:36.425Z",
     "cooldowns": {
       "s": 1793698909137,
-      "wink": 1793799175020
+      "wink": 1793799175020,
+      "tembak": 1793890177055
     },
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 3,
+    "fun": {
+      "tembakTarget": "6282131144804@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6285191447424": {
     "jid": "6285191447424",
@@ -138227,7 +138232,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 3030,
+    "exp": 3045,
     "name": "ndra",
     "lastSeen": "2026-11-05T14:49:10.158Z",
     "energi": 999998,
@@ -139187,7 +139192,7 @@
   "628981541757": {
     "jid": "628981541757",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "fun": {}
   },
   "6281528517966": {
