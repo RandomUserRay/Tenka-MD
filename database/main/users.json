@@ -134210,21 +134210,21 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 135,
-      "health": 210,
-      "mana": 155,
-      "maxHealth": 210,
-      "maxMana": 155,
-      "maxStamina": 155,
+      "stamina": 160,
+      "health": 220,
+      "mana": 160,
+      "maxHealth": 220,
+      "maxMana": 160,
+      "maxStamina": 160,
       "attack": 10,
-      "level": 12,
+      "level": 13,
       "garden": {
         "plots": [],
         "maxPlots": 3
       },
       "lastHourly": 1793012734004
     },
-    "exp": 119059,
+    "exp": 120046,
     "name": "ハフィズ",
     "lastSeen": "2026-11-05T13:35:31.483Z",
     "cooldowns": {
@@ -134322,7 +134322,7 @@
       "stick": 0,
       "gold": 0
     },
-    "koin": 596134,
+    "koin": 625771,
     "energi": 99981,
     "quest": {
       "work10": {
@@ -139605,7 +139605,7 @@
   "6282363999420": {
     "jid": "6282363999420",
     "rpg": {},
-    "exp": 2996,
+    "exp": 3011,
     "name": "Someone Jo",
     "lastSeen": "2026-11-05T13:34:50.005Z",
     "energi": 28,
