@@ -27103,7 +27103,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179631,
+    "exp": 179646,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -110566,7 +110566,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10320,
+    "exp": 10335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139231,7 +139231,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10832,
+    "exp": 10847,
     "name": "chppllrn",
     "lastSeen": "2026-11-05T12:29:38.914Z",
     "cooldowns": {
@@ -139263,7 +139263,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12427,
+    "exp": 12442,
     "name": "machiavellianism",
     "lastSeen": "2026-11-05T12:23:46.057Z",
     "cooldowns": {
@@ -139295,9 +139295,9 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 3143,
+    "exp": 3158,
     "name": "Kiliän Nátch.",
-    "lastSeen": "2026-11-05T12:34:25.481Z",
+    "lastSeen": "2026-11-05T12:34:57.024Z",
     "cooldowns": {
       "menu": 1793879889534,
       "s": 1793880023181,
@@ -139430,13 +139430,14 @@
   "6288971403705": {
     "jid": "6288971403705",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "name": "subaru",
-    "lastSeen": "2026-11-05T12:23:04.197Z",
+    "lastSeen": "2026-11-05T12:34:57.721Z",
     "cooldowns": {
       "allmenu": 1793881255833,
       "me": 1793881355974,
-      "kaya": 1793881384404
+      "kaya": 1793881384404,
+      "imut": 1793882097840
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
