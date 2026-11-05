@@ -27101,7 +27101,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179436,
+    "exp": 179451,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -139220,7 +139220,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10322,
+    "exp": 10337,
     "name": "chppllrn",
     "lastSeen": "2026-11-05T12:21:46.879Z",
     "cooldowns": {
@@ -139252,9 +139252,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11932,
+    "exp": 11947,
     "name": "machiavellianism",
-    "lastSeen": "2026-11-05T12:23:25.742Z",
+    "lastSeen": "2026-11-05T12:23:38.696Z",
     "cooldowns": {
       "menu": 1793879849243,
       "s": 1793880332477,
@@ -139271,7 +139271,8 @@
       "sangean": 1793881349175,
       "pintar": 1793881373956,
       "ganteng": 1793881396473,
-      "cantik": 1793881406017
+      "cantik": 1793881406017,
+      "wibu": 1793881418895
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
@@ -139282,7 +139283,7 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 2498,
+    "exp": 2513,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:22:51.050Z",
     "cooldowns": {
@@ -139320,9 +139321,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10305,
+    "exp": 10350,
     "name": "M.r Prince",
-    "lastSeen": "2026-11-05T12:22:40.162Z",
+    "lastSeen": "2026-11-05T12:23:43.559Z",
     "cooldowns": {
       "menu": 1793880448150,
       "menucat": 1793881329568,
@@ -139337,7 +139338,9 @@
       "miskin": 1793881258661,
       "allmenu": 1793881324156,
       "pintar": 1793881351345,
-      "bodoh": 1793881362663
+      "bodoh": 1793881362663,
+      "horny": 1793881411801,
+      "sange": 1793881418071
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
@@ -139431,6 +139434,6 @@
     "lastSeen": "2026-11-05T12:21:21.478Z",
     "jid": "6289514348015",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
