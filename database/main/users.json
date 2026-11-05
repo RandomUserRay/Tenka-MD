@@ -139347,7 +139347,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25102,
+    "exp": 25117,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T13:52:29.960Z",
     "cooldowns": {
@@ -139635,18 +139635,20 @@
   "6282363999420": {
     "jid": "6282363999420",
     "rpg": {},
-    "exp": 4181,
+    "exp": 4196,
     "name": "Someone Jo",
-    "lastSeen": "2026-11-05T13:51:56.054Z",
+    "lastSeen": "2026-11-05T13:52:45.073Z",
     "energi": 28,
     "koin": 809,
     "cooldowns": {
       "tebakmakanan": 1793885993647,
       "tebakgambar": 1793886717619,
-      "tebaknegara": 1793886387394
+      "tebaknegara": 1793886387394,
+      "me": 1793886767797
     },
     "lastActiveDate": "5/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "registeredAt": 1793886765074
   },
   "628818277047": {
     "jid": "628818277047",
