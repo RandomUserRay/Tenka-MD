@@ -87467,7 +87467,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1845,
+    "exp": 1860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87477,12 +87477,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T01:26:26.133Z",
+    "lastSeen": "2026-11-05T01:26:54.459Z",
     "cooldowns": {
       "menu": 1793799196728,
       "kiss": 1793841990016,
       "play": 1793799545866,
-      "neko-hentai": 1793841858412
+      "neko-hentai": 1793841858412,
+      "s": 1793842016665
     },
     "clanId": null,
     "isRegistered": false,
