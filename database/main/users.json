@@ -1604,7 +1604,7 @@
     "energi": 9995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315177,
+    "exp": 315192,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -94644,7 +94644,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 90,
+    "exp": 105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -133591,7 +133591,7 @@
       "maxStamina": 430,
       "health": 760,
       "mana": 430,
-      "stamina": 257,
+      "stamina": 197,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133602,9 +133602,9 @@
         "stats": null
       }
     },
-    "exp": 667087,
+    "exp": 669955,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T13:06:33.467Z",
+    "lastSeen": "2026-11-05T13:07:02.192Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133628,14 +133628,14 @@
       "level": 1792992563283,
       "xp": 1792987310981,
       "tebakepep": 1792987335851,
-      "mancing": 1793872558136,
+      "mancing": 1793884027834,
       "sell": 1792987623906,
       "shop": 1793000517562,
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
       "inv": 1793883994760,
-      "tambang": 1793872532436,
+      "tambang": 1793884021662,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
       "tebaklagu": 1792992033723,
@@ -133669,7 +133669,7 @@
       "jualan": 1793867468185,
       "kerja": 1793701115288,
       "owner": 1793796020253,
-      "freelance": 1793872545070,
+      "freelance": 1793884012480,
       "gojek": 1793867409682,
       "streamer": 1793867502416,
       "nyapu": 1793867469777,
@@ -133679,8 +133679,8 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 7,
-    "energi": 99983,
-    "koin": 831550,
+    "energi": 99981,
+    "koin": 872467,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -133695,10 +133695,10 @@
       "trash": 7,
       "fish": 0,
       "prawn": 2,
-      "rock": 36,
+      "rock": 40,
       "coal": 14,
       "gold": 1,
-      "octopus": 2,
+      "octopus": 3,
       "diamond": 0,
       "potion": 6,
       "rabbit": 1,
@@ -139180,7 +139180,7 @@
     "lastSeen": "2026-11-05T11:46:08.048Z",
     "jid": "6281343106223",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6285697761398": {
     "jid": "6285697761398",
@@ -139588,5 +139588,15 @@
     "jid": "6283190128588",
     "rpg": {},
     "exp": 60
+  },
+  "6282363999420": {
+    "jid": "6282363999420",
+    "rpg": {},
+    "exp": 45
+  },
+  "628818277047": {
+    "jid": "628818277047",
+    "rpg": {},
+    "exp": 15
   }
 }
