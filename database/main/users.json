@@ -27097,7 +27097,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179136,
+    "exp": 179151,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -134179,7 +134179,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 87,
+      "stamina": 72,
       "health": 210,
       "mana": 155,
       "maxHealth": 210,
@@ -134193,9 +134193,9 @@
       },
       "lastHourly": 1793012734004
     },
-    "exp": 113021,
+    "exp": 113036,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-05T08:24:25.195Z",
+    "lastSeen": "2026-11-05T08:24:40.692Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134288,7 +134288,7 @@
       "gold": 0
     },
     "koin": 548672,
-    "energi": 99993,
+    "energi": 99992,
     "quest": {
       "work10": {
         "progress": 0,
