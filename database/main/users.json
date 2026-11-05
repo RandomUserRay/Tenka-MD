@@ -35875,10 +35875,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1035822,
+    "exp": 1035837,
     "level": 1,
     "koin": 5793550,
     "unlockedFeatures": [],
@@ -35887,7 +35887,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T00:39:57.158Z",
+    "lastSeen": "2026-11-05T00:40:16.774Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36107,7 +36107,8 @@
       "notifpromote": 1793838359778,
       "notifdemote": 1793838371664,
       "promote": 1793838405446,
-      "autoreply": 1793839083972
+      "autoreply": 1793839083972,
+      "hug": 1793839220202
     },
     "clanId": null,
     "isRegistered": false,
