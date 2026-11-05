@@ -50897,8 +50897,8 @@
     "jid": "120363430642358530@g.us",
     "chatStats": {
       "6285891564682@s.whatsapp.net": {
-        "count": 120,
-        "lastChat": 1793861682469,
+        "count": 121,
+        "lastChat": 1793861813546,
         "name": "R.FALY"
       },
       "6285717515172@s.whatsapp.net": {
@@ -51065,6 +51065,11 @@
         "count": 4,
         "lastChat": 1793861457237,
         "name": "."
+      },
+      "6283178175501@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793861816150,
+        "name": "~fzl"
       }
     },
     "name": "JB ALL GAMES BY R.FALY",
@@ -51103,7 +51108,10 @@
     },
     "antiphising": "on",
     "antisticker": false,
-    "autoreply": false
+    "autoreply": false,
+    "toxicWords": [
+      "<ajg> <kntl> <bgst> <mmk>"
+    ]
   },
   "120363430778187817@g.us": {
     "welcome": false,
