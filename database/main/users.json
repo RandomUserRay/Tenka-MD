@@ -127899,7 +127899,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12330,
+    "exp": 12345,
     "energi": 99999,
     "name": "озорной свет",
     "lastSeen": "2026-11-04T23:17:54.692Z",
@@ -134962,11 +134962,17 @@
   "62882020062234": {
     "jid": "62882020062234",
     "rpg": {
-      "stamina": 90
+      "stamina": 105,
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105
     },
-    "exp": 9993,
+    "exp": 10008,
     "name": "Furry Friends Official",
-    "lastSeen": "2026-11-05T06:17:04.436Z",
+    "lastSeen": "2026-11-05T06:20:09.567Z",
     "cooldowns": {
       "afk": 1793834598064,
       "cekfemboy": 1793194162480,
@@ -134981,7 +134987,7 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 9,
-    "energi": 99996,
+    "energi": 99995,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
@@ -138101,7 +138107,7 @@
   "6282229467610": {
     "jid": "6282229467610",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6282246004702": {
