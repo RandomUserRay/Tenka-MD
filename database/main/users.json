@@ -133585,13 +133585,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 67,
-      "maxHealth": 760,
-      "maxMana": 430,
-      "maxStamina": 430,
-      "health": 760,
-      "mana": 430,
-      "stamina": 197,
+      "level": 68,
+      "maxHealth": 770,
+      "maxMana": 435,
+      "maxStamina": 435,
+      "health": 770,
+      "mana": 435,
+      "stamina": 405,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133600,11 +133600,23 @@
         "exp": 0,
         "hunger": 80,
         "stats": null
+      },
+      "dungeon_session": {
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Serigala Malam",
+        "monsterPower": 12,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793884096764
       }
     },
-    "exp": 669970,
+    "exp": 670000,
     "name": "Fиз",
-    "lastSeen": "2026-11-05T13:07:24.687Z",
+    "lastSeen": "2026-11-05T13:08:07.557Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133616,7 +133628,7 @@
       "weekly": 1792985655133,
       "susunkata": 1792985898856,
       "levelup": 1793010224203,
-      "dungeon": 1792999684486,
+      "dungeon": 1793884088122,
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793796296618,
@@ -139305,7 +139317,7 @@
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 4088,
+    "exp": 4103,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:47:54.830Z",
     "cooldowns": {
@@ -139516,7 +139528,7 @@
   "6282253374619": {
     "jid": "6282253374619",
     "rpg": {},
-    "exp": 255
+    "exp": 270
   },
   "6281386390736": {
     "jid": "6281386390736",
@@ -139592,7 +139604,7 @@
   "6282363999420": {
     "jid": "6282363999420",
     "rpg": {},
-    "exp": 75
+    "exp": 120
   },
   "628818277047": {
     "jid": "628818277047",
