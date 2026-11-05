@@ -47224,8 +47224,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 953,
-        "lastChat": 1793838902536,
+        "count": 954,
+        "lastChat": 1793839014469,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47844,7 +47844,15 @@
     "goodbyeMsg": "noo member😢🥀",
     "onlynsfw": false,
     "notifPromote": true,
-    "notifDemote": true
+    "notifDemote": true,
+    "customReplies": [
+      {
+        "trigger": "linkgb",
+        "reply": "https://chat.whatsapp.com/FmZX6VvIA3OInFcmWypDx4?s=cl&p=a&mlu=4&ilr=4",
+        "image": null,
+        "createdAt": 1793839014471
+      }
+    ]
   },
   "120363426735184360@g.us": {
     "welcome": true,
