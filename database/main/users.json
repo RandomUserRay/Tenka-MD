@@ -138348,8 +138348,15 @@
   "6287889334045": {
     "jid": "6287889334045",
     "rpg": {},
-    "exp": 45,
-    "energi": 99999
+    "exp": 60,
+    "energi": 99999,
+    "name": "keyndratama12",
+    "lastSeen": "2026-11-05T06:03:31.914Z",
+    "cooldowns": {
+      "absen": 1793858612092
+    },
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 1
   },
   "6285147497769": {
     "jid": "6285147497769",
@@ -138722,6 +138729,18 @@
     "exp": 15,
     "cooldowns": {
       "absen": 1793858525396
+    },
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 1
+  },
+  "6289503196932": {
+    "name": "We i wi l d an Wildan",
+    "lastSeen": "2026-11-05T06:03:20.776Z",
+    "jid": "6289503196932",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "absen": 1793858601836
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1
