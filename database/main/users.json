@@ -139304,8 +139304,16 @@
   },
   "6285798168890": {
     "jid": "6285798168890",
-    "rpg": {},
-    "exp": 8710,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10148,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T13:28:19.234Z",
     "cooldowns": {
@@ -139329,9 +139337,9 @@
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
-    "energi": 28,
+    "energi": 34,
     "registeredAt": 1793881341341,
-    "koin": 2806,
+    "koin": 4227,
     "fun": {
       "tembakCount": 1,
       "pasangan": "6281222448244@s.whatsapp.net",
