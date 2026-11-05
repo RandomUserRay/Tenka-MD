@@ -1604,7 +1604,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 315417,
+    "exp": 315432,
     "level": 1,
     "koin": 38569,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T13:46:50.729Z",
+    "lastSeen": "2026-11-05T23:00:43.991Z",
     "cooldowns": {
       "menu": 1793883515415,
       "allmenu": 1793877494778,
@@ -1728,7 +1728,8 @@
       "slap": 1793882006093,
       "punch": 1793882083421,
       "h": 1793886396267,
-      "ht": 1793886411385
+      "ht": 1793886411385,
+      "money": 1793919644997
     },
     "clanId": null,
     "isRegistered": false,
@@ -1826,8 +1827,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 11
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 12
   },
   "6283174193922": {
     "jid": "6283174193922",
