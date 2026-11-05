@@ -67784,10 +67784,10 @@
     "jid": "6283135864303",
     "name": "king killer 🏳️‍🌈",
     "number": "6283135864303",
-    "energi": 999995,
+    "energi": 999993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 178866,
+    "exp": 178881,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67802,11 +67802,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T12:02:04.244Z",
+    "lastSeen": "2026-11-05T12:02:19.261Z",
     "cooldowns": {
       "afk": 1793873165326,
       "s": 1793868999527,
-      "play": 1793869966263,
+      "play": 1793880141829,
       "inv": 1786434391177,
       "profil": 1787746507275,
       "rob": 1787849540817,
@@ -67862,7 +67862,7 @@
       "tebaknegara": 1785673932013,
       "money": 1786709306285,
       "d": 1786784931385,
-      "ytmp4": 1793450030215,
+      "ytmp4": 1793880152312,
       "me": 1793367679945,
       "level": 1790317753465,
       "stiker": 1786282952251,
@@ -139210,13 +139210,14 @@
   "6281288345056": {
     "jid": "6281288345056",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "name": "chppllrn",
-    "lastSeen": "2026-11-05T12:00:44.640Z",
+    "lastSeen": "2026-11-05T12:02:29.597Z",
     "cooldowns": {
       "totalchat": 1793879921060,
       "allmenu": 1793879960611,
-      "h": 1793880014762
+      "h": 1793880014762,
+      "allgame": 1793880149880
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1
@@ -139224,21 +139225,21 @@
   "6285871738223": {
     "jid": "6285871738223",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "name": "machiavellianism",
-    "lastSeen": "2026-11-05T12:01:15.455Z",
+    "lastSeen": "2026-11-05T12:02:26.047Z",
     "cooldowns": {
       "menu": 1793879849243,
-      "s": 1793880076383
+      "s": 1793880147097
     },
     "lastActiveDate": "5/11/2026",
     "activeDays": 1,
-    "energi": 23
+    "energi": 22
   },
   "6285798168890": {
     "jid": "6285798168890",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-05T12:02:07.429Z",
     "cooldowns": {
