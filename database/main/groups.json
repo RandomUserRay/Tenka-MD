@@ -47244,8 +47244,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 1143,
-        "lastChat": 1793876926086,
+        "count": 1144,
+        "lastChat": 1793877264500,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47714,8 +47714,8 @@
         "name": "erling"
       },
       "6285126320318@s.whatsapp.net": {
-        "count": 115,
-        "lastChat": 1793877238140,
+        "count": 117,
+        "lastChat": 1793877264706,
         "name": "so asik lu"
       },
       "6285167481227@s.whatsapp.net": {
@@ -48032,7 +48032,8 @@
         "createdAt": 1793873050166
       }
     ],
-    "autoreply": true
+    "autoreply": true,
+    "notifSholat": true
   },
   "120363426735184360@g.us": {
     "welcome": true,
