@@ -27106,7 +27106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181011,
+    "exp": 181026,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -50980,7 +50980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15270,
+    "exp": 15285,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105610,7 +105610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8235,
+    "exp": 8250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139229,7 +139229,7 @@
   "6285849243818": {
     "jid": "6285849243818",
     "rpg": {},
-    "exp": 420,
+    "exp": 405,
     "energi": 99999
   },
   "6282361248407": {
@@ -139587,7 +139587,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 41391,
+    "exp": 41436,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T10:27:16.790Z",
     "cooldowns": {
@@ -140465,11 +140465,6 @@
     "lastActiveDate": "6/11/2026",
     "activeDays": 1
   },
-  "628135366019": {
-    "jid": "628135366019",
-    "rpg": {},
-    "exp": 30
-  },
   "62895382943939": {
     "jid": "62895382943939",
     "rpg": {},
@@ -140492,6 +140487,11 @@
   },
   "6285148451632": {
     "jid": "6285148451632",
+    "rpg": {},
+    "exp": 30
+  },
+  "628135366019": {
+    "jid": "628135366019",
     "rpg": {},
     "exp": 30
   }
