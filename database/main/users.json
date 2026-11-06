@@ -44358,7 +44358,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1935,
+    "exp": 1950,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -110572,7 +110572,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10500,
+    "exp": 10515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -138907,7 +138907,7 @@
   "6285284369141": {
     "jid": "6285284369141",
     "rpg": {},
-    "exp": 330,
+    "exp": 345,
     "energi": 99999
   },
   "6289675610939": {
@@ -139533,7 +139533,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 48443,
+    "exp": 48458,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -140455,7 +140455,11 @@
     "exp": 60,
     "name": "ZIKK",
     "lastSeen": "2026-11-06T10:13:28.470Z",
-    "cooldowns": {},
-    "energi": 24
+    "cooldowns": {
+      "bratvid": 1793960012239
+    },
+    "energi": 24,
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 1
   }
 }
