@@ -93704,7 +93704,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9900,
+    "exp": 9915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135396,16 +135396,17 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17952,
+    "exp": 17982,
     "name": "Noshi or Nala",
-    "lastSeen": "2026-11-06T23:25:30.676Z",
-    "energi": 99998,
+    "lastSeen": "2026-11-06T23:25:46.866Z",
+    "energi": 99996,
     "cooldowns": {
       "menucat": 1793109374985,
       "femboy": 1793697265723,
       "daftar": 1793697274762,
       "menu": 1794007448067,
-      "allmenu": 1794007454395
+      "allmenu": 1794007454395,
+      "ytmp4": 1794007549554
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 4,
