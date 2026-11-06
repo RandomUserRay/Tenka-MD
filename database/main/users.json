@@ -134240,7 +134240,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 130,
+      "stamina": 100,
       "health": 300,
       "mana": 200,
       "maxHealth": 300,
@@ -134256,11 +134256,19 @@
       "guildId": "guild_1793925831024",
       "expeditions": [],
       "dungeon_session": {
-        "stage": "lobi",
-        "time": 1793928268931
+        "stage": "encounter",
+        "dungeonId": 1,
+        "dungeonName": "🌲 Hutan Gelap",
+        "levelReq": 1,
+        "monster": "Goblin Liar",
+        "monsterPower": 29,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1793928273488
       }
     },
-    "exp": 202452,
+    "exp": 202686,
     "name": "ハフィズ",
     "lastSeen": "2026-11-06T01:24:28.928Z",
     "cooldowns": {
@@ -134362,7 +134370,7 @@
       "fish": 1,
       "prawn": 0,
       "herb": 7,
-      "leather": 5,
+      "leather": 7,
       "rock": 5,
       "iron": 4,
       "diamond": 0,
@@ -134379,7 +134387,7 @@
       "gold": 0,
       "wood": 0
     },
-    "koin": 1702217,
+    "koin": 1702404,
     "energi": 99972,
     "quest": {
       "work10": {
