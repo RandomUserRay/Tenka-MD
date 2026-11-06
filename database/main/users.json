@@ -35009,12 +35009,12 @@
   },
   "6282154644088": {
     "jid": "6282154644088",
-    "name": "ꖦ𝕰𝖇𝖆𝖞𝖆𝖓🏴🗡️",
+    "name": "Xello van Winterfels",
     "number": "6282154644088",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33024,
+    "exp": 32979,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -35023,7 +35023,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T10:54:17.382Z",
+    "lastSeen": "2026-09-30T01:49:02.616Z",
     "cooldowns": {
       "bank": 1784722369572,
       "job": 1783043909231,
@@ -35056,8 +35056,7 @@
       "benefitpremium": 1784264840662,
       "aio": 1785225964419,
       "inv": 1785495131451,
-      "h": 1786970900256,
-      "sticker": 1793962457528
+      "h": 1786970900256
     },
     "clanId": null,
     "isRegistered": false,
@@ -35079,8 +35078,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 5
+    "lastActiveDate": "30/9/2026",
+    "activeDays": 4
   },
   "6283853256069": {
     "jid": "6283853256069",
@@ -61219,7 +61218,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6330,
+    "exp": 6285,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -99405,7 +99404,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 23595,
+    "exp": 23610,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100430,7 +100429,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 450,
+    "exp": 465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105611,7 +105610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8520,
+    "exp": 8475,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105657,7 +105656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4530,
+    "exp": 4485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124527,7 +124526,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 7275,
+    "exp": 7260,
     "energi": 99999,
     "name": "TIPIS TIPIS🤏💥💫",
     "lastSeen": "2026-10-11T08:23:07.943Z",
@@ -139534,7 +139533,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 49703,
+    "exp": 49673,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -139588,7 +139587,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 41466,
+    "exp": 41451,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T10:27:16.790Z",
     "cooldowns": {
@@ -140466,6 +140465,11 @@
     "lastActiveDate": "6/11/2026",
     "activeDays": 1
   },
+  "628135366019": {
+    "jid": "628135366019",
+    "rpg": {},
+    "exp": 30
+  },
   "62895382943939": {
     "jid": "62895382943939",
     "rpg": {},
@@ -140484,16 +140488,16 @@
   "6285261499341": {
     "jid": "6285261499341",
     "rpg": {},
-    "exp": 405
+    "exp": 345
   },
   "6285148451632": {
     "jid": "6285148451632",
     "rpg": {},
     "exp": 30
   },
-  "628135366019": {
-    "jid": "628135366019",
+  "10836806520992": {
+    "jid": "10836806520992",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
