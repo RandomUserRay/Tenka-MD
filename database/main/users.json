@@ -134242,7 +134242,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 185,
+      "stamina": 170,
       "health": 105,
       "mana": 53,
       "maxHealth": 300,
@@ -134264,9 +134264,9 @@
         }
       ]
     },
-    "exp": 206869,
+    "exp": 206894,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:29:21.657Z",
+    "lastSeen": "2026-11-06T01:29:31.599Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134356,13 +134356,13 @@
       "buykoin": 1793926027331,
       "training": 1793927799511,
       "mining": 1793928533877,
-      "fishing": 1793928265028
+      "fishing": 1793928578753
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 6,
     "inventory": {
       "uncommon": 0,
-      "trash": 1,
+      "trash": 2,
       "fish": 1,
       "prawn": 0,
       "herb": 7,
@@ -134386,7 +134386,7 @@
       "rabbit": 1
     },
     "koin": 1738314,
-    "energi": 99966,
+    "energi": 99965,
     "quest": {
       "work10": {
         "progress": 0,
