@@ -110572,7 +110572,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10560,
+    "exp": 10575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -137295,7 +137295,7 @@
   "6282234651844": {
     "jid": "6282234651844",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "energi": 99999
   },
   "6283879096503": {
@@ -138907,7 +138907,7 @@
   "6285284369141": {
     "jid": "6285284369141",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "energi": 99999
   },
   "6289675610939": {
@@ -139579,15 +139579,15 @@
   "6281222448244": {
     "jid": "6281222448244",
     "rpg": {
-      "level": 4,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "health": 130,
-      "mana": 115,
-      "stamina": 115
+      "level": 5,
+      "maxHealth": 140,
+      "maxMana": 120,
+      "maxStamina": 120,
+      "health": 140,
+      "mana": 120,
+      "stamina": 120
     },
-    "exp": 39996,
+    "exp": 40011,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T10:08:08.982Z",
     "cooldowns": {
