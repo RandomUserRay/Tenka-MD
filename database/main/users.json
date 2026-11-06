@@ -4258,7 +4258,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12940,
+    "exp": 12955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -4267,10 +4267,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T09:29:13.378Z",
+    "lastSeen": "2026-11-06T14:44:31.910Z",
     "cooldowns": {
       "add": 1780188185320,
-      "afk": 1793870956942,
+      "afk": 1793976273910,
       "brathd": 1783767785836,
       "tebakbendera": 1780197149583,
       "allmenu": 1783915442481,
@@ -4324,8 +4324,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 3
   },
   "60149424655": {
     "jid": "60149424655",
@@ -9697,10 +9697,10 @@
     "jid": "6282125157549",
     "name": "Akbar",
     "number": "6282125157549",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 540,
+    "exp": 555,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9709,9 +9709,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T14:34:57.934Z",
+    "lastSeen": "2026-11-06T14:44:28.843Z",
     "cooldowns": {
-      "s": 1793975698952
+      "s": 1793976270974
     },
     "clanId": null,
     "isRegistered": false,
