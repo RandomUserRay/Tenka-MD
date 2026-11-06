@@ -134256,7 +134256,7 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 202337,
+    "exp": 202437,
     "name": "ハフィズ",
     "lastSeen": "2026-11-06T01:24:18.370Z",
     "cooldowns": {
@@ -134347,14 +134347,15 @@
       "alchemy": 1793926012129,
       "buykoin": 1793926027331,
       "training": 1793927799511,
-      "mining": 1793928246087
+      "mining": 1793928246087,
+      "fishing": 1793928265028
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 6,
     "inventory": {
       "uncommon": 0,
       "trash": 0,
-      "fish": 0,
+      "fish": 1,
       "prawn": 0,
       "herb": 7,
       "leather": 5,
