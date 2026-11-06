@@ -103296,7 +103296,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31007,
+    "exp": 31022,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129767,7 +129767,7 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 6810,
+    "exp": 6825,
     "energi": 99995,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
     "lastSeen": "2026-11-06T12:36:53.598Z",
@@ -138517,7 +138517,8 @@
       "smeme": 1793968417944,
       "bratsquidward": 1793968483010,
       "brat": 1793968586626,
-      "bratgojovid": 1793968614127
+      "bratgojovid": 1793968614127,
+      "bratimg": 1793968628083
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 1
@@ -140651,5 +140652,10 @@
     "lastActiveDate": "6/11/2026",
     "activeDays": 1,
     "energi": 19
+  },
+  "6285352637808": {
+    "jid": "6285352637808",
+    "rpg": {},
+    "exp": 15
   }
 }
