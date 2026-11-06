@@ -140375,7 +140375,7 @@
   "62895704299123": {
     "jid": "62895704299123",
     "rpg": {},
-    "exp": 180,
+    "exp": 2285,
     "name": "Chicken noodles",
     "lastSeen": "2026-11-06T09:48:57.645Z",
     "cooldowns": {
@@ -140383,7 +140383,9 @@
       "tebakgambar": 1793958539232
     },
     "lastActiveDate": "6/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 32,
+    "koin": 1870
   },
   "6283159444839": {
     "jid": "6283159444839",
