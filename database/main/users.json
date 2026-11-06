@@ -6828,7 +6828,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62840,
+    "exp": 62855,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -13380,7 +13380,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8910,
+    "exp": 8955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67797,7 +67797,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179046,
+    "exp": 179061,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -134497,7 +134497,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11415,
+    "exp": 11430,
     "energi": 99999,
     "name": "FMZA",
     "lastSeen": "2026-11-01T19:31:20.684Z",
@@ -136405,7 +136405,7 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1155,
+    "exp": 1170,
     "energi": 99986,
     "name": "R.F.K",
     "lastSeen": "2026-11-06T16:21:04.829Z",
@@ -140127,7 +140127,7 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 1200,
+    "exp": 1215,
     "energi": 99999,
     "name": "Laufey",
     "lastSeen": "2026-11-06T16:21:41.406Z"
@@ -140799,6 +140799,6 @@
   "6288215399103": {
     "jid": "6288215399103",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
