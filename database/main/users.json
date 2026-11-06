@@ -50980,7 +50980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14700,
+    "exp": 14715,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -139533,7 +139533,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 48263,
+    "exp": 48278,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -139587,7 +139587,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 39756,
+    "exp": 39801,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T10:08:08.982Z",
     "cooldowns": {
@@ -139906,7 +139906,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30005,
+    "exp": 30020,
     "name": "Someone Jo",
     "lastSeen": "2026-11-05T22:58:00.771Z",
     "energi": 99999,
@@ -140446,6 +140446,11 @@
   },
   "6285285718785": {
     "jid": "6285285718785",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282121238563": {
+    "jid": "6282121238563",
     "rpg": {},
     "exp": 15
   }
