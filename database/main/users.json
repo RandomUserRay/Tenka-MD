@@ -134240,14 +134240,14 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 155,
-      "health": 230,
-      "mana": 165,
-      "maxHealth": 230,
-      "maxMana": 165,
-      "maxStamina": 165,
+      "stamina": 170,
+      "health": 240,
+      "mana": 170,
+      "maxHealth": 240,
+      "maxMana": 170,
+      "maxStamina": 170,
       "attack": 10,
-      "level": 14,
+      "level": 15,
       "garden": {
         "plots": [],
         "maxPlots": 3
@@ -134256,9 +134256,9 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 138724,
+    "exp": 140254,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T00:47:31.866Z",
+    "lastSeen": "2026-11-06T00:47:41.707Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134307,7 +134307,7 @@
       "garden": 1793012146949,
       "streamer": 1793925871728,
       "woodcut": 1793885849281,
-      "freelance": 1793925744846,
+      "freelance": 1793926068594,
       "treasure": 1793012382622,
       "duel": 1793012398935,
       "craft": 1793012458337,
@@ -134372,7 +134372,7 @@
       "gold": 0,
       "wood": 0
     },
-    "koin": 914790,
+    "koin": 945097,
     "energi": 99994,
     "quest": {
       "work10": {
