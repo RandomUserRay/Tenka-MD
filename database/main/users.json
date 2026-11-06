@@ -6828,7 +6828,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62600,
+    "exp": 62615,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126007,7 +126007,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14475,
+    "exp": 14490,
     "energi": 99999,
     "name": "Iwak mbg",
     "lastSeen": "2026-11-05T15:14:52.882Z",
@@ -140464,6 +140464,11 @@
     "energi": 24,
     "lastActiveDate": "6/11/2026",
     "activeDays": 1
+  },
+  "628135366019": {
+    "jid": "628135366019",
+    "rpg": {},
+    "exp": 30
   },
   "62895382943939": {
     "jid": "62895382943939",
