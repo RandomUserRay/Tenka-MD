@@ -6828,7 +6828,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62600,
+    "exp": 62615,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -16154,10 +16154,10 @@
     "jid": "6285753061976",
     "name": "bct",
     "number": "6285753061976",
-    "energi": 99996,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398552,
+    "exp": 9398492,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16166,11 +16166,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T10:29:19.588Z",
+    "lastSeen": "2026-11-04T22:23:56.262Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1793960967708,
+      "play": 1793569953506,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1791106575382,
@@ -16351,7 +16351,7 @@
       "aio": 1785225799069,
       "menucat": 1791106600562,
       "yeet": 1785423765207,
-      "ytmp4": 1793960972273,
+      "ytmp4": 1793569959342,
       "stickerpack": 1791106666335,
       "pat": 1786689196146,
       "promote": 1786699360499,
@@ -16455,8 +16455,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 45
+    "lastActiveDate": "3/11/2026",
+    "activeDays": 44
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -36744,7 +36744,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231020,
+    "exp": 231005,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -50980,7 +50980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14850,
+    "exp": 14805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105656,7 +105656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4095,
+    "exp": 4080,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126007,7 +126007,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14475,
+    "exp": 14535,
     "energi": 99999,
     "name": "Iwak mbg",
     "lastSeen": "2026-11-05T15:14:52.882Z",
@@ -133240,7 +133240,7 @@
   "60142190268": {
     "jid": "60142190268",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "energi": 99999
   },
   "6285151633433": {
@@ -137324,7 +137324,7 @@
   "6283835510563": {
     "jid": "6283835510563",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "energi": 99999
   },
   "62895325791900": {
@@ -139471,7 +139471,7 @@
       "mana": 130,
       "stamina": 130
     },
-    "exp": 64160,
+    "exp": 63980,
     "name": "machiavellianism",
     "lastSeen": "2026-11-06T09:40:03.689Z",
     "cooldowns": {
@@ -139533,7 +139533,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 48983,
+    "exp": 48893,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -139587,9 +139587,9 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 40881,
+    "exp": 40596,
     "name": "M.r Prince",
-    "lastSeen": "2026-11-06T10:27:16.790Z",
+    "lastSeen": "2026-11-06T10:08:08.982Z",
     "cooldowns": {
       "menu": 1793943962925,
       "menucat": 1793943969369,
@@ -139790,18 +139790,18 @@
   "6282287967445": {
     "jid": "6282287967445",
     "rpg": {},
-    "exp": 405,
+    "exp": 390,
     "name": "Anak ayam panggang",
-    "lastSeen": "2026-11-06T10:27:02.425Z",
+    "lastSeen": "2026-11-06T10:24:58.272Z",
     "cooldowns": {
       "menu": 1793888003149,
       "owner": 1793888015282,
-      "bratvid": 1793960825116,
+      "bratvid": 1793960702528,
       "play": 1793960525417
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 2,
-    "energi": 99991
+    "energi": 99992
   },
   "6282253374619": {
     "jid": "6282253374619",
@@ -140173,7 +140173,7 @@
   "6285151651734": {
     "jid": "6285151651734",
     "rpg": {},
-    "exp": 195
+    "exp": 210
   },
   "6285739752671": {
     "jid": "6285739752671",
@@ -140222,7 +140222,7 @@
   "62882015211195": {
     "jid": "62882015211195",
     "rpg": {},
-    "exp": 225
+    "exp": 255
   },
   "6285946758250": {
     "jid": "6285946758250",
@@ -140390,7 +140390,7 @@
   "6283159444839": {
     "jid": "6283159444839",
     "rpg": {},
-    "exp": 300,
+    "exp": 285,
     "name": "~¶μ§∆¥~",
     "lastSeen": "2026-11-06T10:25:50.997Z",
     "cooldowns": {
@@ -140465,10 +140465,15 @@
     "lastActiveDate": "6/11/2026",
     "activeDays": 1
   },
+  "628135366019": {
+    "jid": "628135366019",
+    "rpg": {},
+    "exp": 30
+  },
   "62895382943939": {
     "jid": "62895382943939",
     "rpg": {},
-    "exp": 225
+    "exp": 180
   },
   "62882022742028": {
     "jid": "62882022742028",
