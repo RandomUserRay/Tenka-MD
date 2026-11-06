@@ -135113,9 +135113,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11463,
+    "exp": 11478,
     "name": "Furry Friends Official",
-    "lastSeen": "2026-11-06T22:31:00.317Z",
+    "lastSeen": "2026-11-06T22:47:53.013Z",
     "cooldowns": {
       "afk": 1793891070195,
       "cekfemboy": 1793194162480,
@@ -135127,7 +135127,8 @@
       "happy": 1793364321587,
       "menu": 1793767437059,
       "play": 1794004277334,
-      "s": 1793881317022
+      "s": 1793881317022,
+      "menucat": 1794005273217
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 10,
@@ -140954,6 +140955,10 @@
     "jid": "628214146195",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {}
+    "cooldowns": {
+      "menucat": 1794005258712
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   }
 }
