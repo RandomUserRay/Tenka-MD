@@ -134256,9 +134256,9 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 189050,
+    "exp": 189080,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:16:30.963Z",
+    "lastSeen": "2026-11-06T01:16:38.701Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134345,7 +134345,8 @@
       "kerja": 1793927773883,
       "expedition": 1793925996895,
       "alchemy": 1793926012129,
-      "buykoin": 1793926027331
+      "buykoin": 1793926027331,
+      "training": 1793927799511
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 6,
@@ -134373,7 +134374,7 @@
       "wood": 0
     },
     "koin": 1524224,
-    "energi": 99980,
+    "energi": 99979,
     "quest": {
       "work10": {
         "progress": 0,
@@ -139419,7 +139420,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18200,
+    "exp": 18215,
     "name": "machiavellianism",
     "lastSeen": "2026-11-06T01:15:49.538Z",
     "cooldowns": {
