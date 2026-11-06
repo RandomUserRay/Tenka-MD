@@ -100236,7 +100236,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8010,
+    "exp": 8025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126787,8 +126787,15 @@
   "62882008180637": {
     "jid": "62882008180637",
     "rpg": {},
-    "exp": 240,
-    "energi": 99999
+    "exp": 255,
+    "energi": 99999,
+    "name": "白ひげ x ヨガ",
+    "lastSeen": "2026-11-06T13:05:31.502Z",
+    "cooldowns": {
+      "afk": 1793970333299
+    },
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 1
   },
   "601121766723": {
     "jid": "601121766723",
