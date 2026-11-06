@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-06T10:12:31.405Z",
+    "lastSeen": "2026-11-06T09:52:06.269Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000213159,
+    "exp": 9000213084,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -349,7 +349,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54370,
+    "exp": 54355,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -27106,7 +27106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180156,
+    "exp": 180231,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -44358,7 +44358,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1815,
+    "exp": 1890,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50980,7 +50980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14715,
+    "exp": 14730,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105656,7 +105656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4005,
+    "exp": 4065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124526,7 +124526,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 6735,
+    "exp": 6765,
     "energi": 99999,
     "name": "TIPIS TIPIS🤏💥💫",
     "lastSeen": "2026-10-11T08:23:07.943Z",
@@ -125791,7 +125791,7 @@
   "628819563096": {
     "jid": "628819563096",
     "rpg": {},
-    "exp": 45,
+    "exp": 30,
     "energi": 99999
   },
   "6282116747451": {
@@ -138907,7 +138907,7 @@
   "6285284369141": {
     "jid": "6285284369141",
     "rpg": {},
-    "exp": 120,
+    "exp": 255,
     "energi": 99999
   },
   "6289675610939": {
@@ -139533,7 +139533,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 48278,
+    "exp": 48398,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -139587,7 +139587,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 39801,
+    "exp": 39921,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T10:08:08.982Z",
     "cooldowns": {
@@ -139790,18 +139790,18 @@
   "6282287967445": {
     "jid": "6282287967445",
     "rpg": {},
-    "exp": 270,
+    "exp": 300,
     "name": "Anak ayam panggang",
-    "lastSeen": "2026-11-05T14:27:43.266Z",
+    "lastSeen": "2026-11-06T10:12:34.592Z",
     "cooldowns": {
       "menu": 1793888003149,
       "owner": 1793888015282,
-      "bratvid": 1793888866456,
+      "bratvid": 1793959965515,
       "play": 1793888766363
     },
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 1,
-    "energi": 99999
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 2,
+    "energi": 99998
   },
   "6282253374619": {
     "jid": "6282253374619",
@@ -139906,7 +139906,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30020,
+    "exp": 30035,
     "name": "Someone Jo",
     "lastSeen": "2026-11-05T22:58:00.771Z",
     "energi": 99999,
@@ -140452,6 +140452,6 @@
   "6282121238563": {
     "jid": "6282121238563",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   }
 }
