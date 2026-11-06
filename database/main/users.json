@@ -103298,7 +103298,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31787,
+    "exp": 31802,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135113,9 +135113,9 @@
       "health": 110,
       "mana": 105
     },
-    "exp": 11448,
+    "exp": 11463,
     "name": "Furry Friends Official",
-    "lastSeen": "2026-11-06T22:30:09.254Z",
+    "lastSeen": "2026-11-06T22:31:00.317Z",
     "cooldowns": {
       "afk": 1793891070195,
       "cekfemboy": 1793194162480,
@@ -135131,7 +135131,7 @@
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 10,
-    "energi": 99998,
+    "energi": 99997,
     "registeredAt": 1793243244036,
     "koin": 2586
   },
@@ -139765,7 +139765,8 @@
       "tinggi": 1793919492024,
       "pacar": 1793919535109,
       "money": 1793919576505,
-      "ngemis": 1793919607248
+      "ngemis": 1793919607248,
+      "afk": 1794004243518
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 3,
