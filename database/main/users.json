@@ -1836,7 +1836,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 693009,
+    "exp": 693084,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -135404,7 +135404,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18177,
+    "exp": 18192,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:27:29.785Z",
     "energi": 99995,
@@ -140144,10 +140144,11 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 2520,
-    "energi": 99999,
+    "exp": 2535,
+    "energi": 99998,
     "name": "Laufey",
-    "lastSeen": "2026-11-06T16:21:41.406Z"
+    "lastSeen": "2026-11-06T23:29:24.680Z",
+    "cooldowns": {}
   },
   "6285740119981": {
     "name": "zz",
