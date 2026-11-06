@@ -1604,7 +1604,7 @@
     "energi": 100010,
     "isPremium": false,
     "isBanned": false,
-    "exp": 320713,
+    "exp": 320728,
     "level": 1,
     "koin": 40452,
     "unlockedFeatures": [],
@@ -134242,8 +134242,8 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 20,
-      "health": 87,
+      "stamina": 62,
+      "health": 105,
       "mana": 53,
       "maxHealth": 300,
       "maxMana": 200,
@@ -134262,23 +134262,11 @@
           "startedAt": 1793928461633,
           "duration": 1800000
         }
-      ],
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Serigala Malam",
-        "monsterPower": 26,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1793928506390
-      }
+      ]
     },
-    "exp": 205848,
+    "exp": 205990,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:28:20.602Z",
+    "lastSeen": "2026-11-06T01:28:37.268Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134380,7 +134368,7 @@
       "herb": 7,
       "leather": 7,
       "rock": 5,
-      "iron": 4,
+      "iron": 7,
       "diamond": 0,
       "coal": 2,
       "potion": 6,
@@ -134392,12 +134380,12 @@
       "sampah": 37,
       "koran": 6,
       "stick": 0,
-      "gold": 0,
+      "gold": 2,
       "wood": 0,
       "lion": 1,
       "rabbit": 1
     },
-    "koin": 1743145,
+    "koin": 1743314,
     "energi": 99969,
     "quest": {
       "work10": {
