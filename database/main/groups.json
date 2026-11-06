@@ -51233,8 +51233,8 @@
         "name": "En"
       },
       "6285713932730@s.whatsapp.net": {
-        "count": 42,
-        "lastChat": 1793977551266,
+        "count": 41,
+        "lastChat": 1793891587768,
         "name": "haru"
       },
       "6285855639041@s.whatsapp.net": {
@@ -52525,8 +52525,8 @@
         "name": "eii"
       },
       "6285183144501@s.whatsapp.net": {
-        "count": 26,
-        "lastChat": 1793977541295,
+        "count": 25,
+        "lastChat": 1793977474495,
         "name": "FMZA"
       },
       "6285737693032@s.whatsapp.net": {
@@ -52659,5 +52659,21 @@
     "goodbye": false,
     "leave": false,
     "jid": "120363410631545916@g.us"
+  },
+  "120363409414229249@g.us": {
+    "chatStats": {
+      "6283849073030@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793977548856,
+        "name": "𝙠𝙞𝙮𝙤𝙤!ありがとう"
+      },
+      "6287894504759@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1793977552519,
+        "name": "Guntor,,"
+      }
+    },
+    "jid": "120363409414229249@g.us",
+    "name": "SEWA BOT NOTIF SPAWN"
   }
 }
