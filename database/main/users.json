@@ -133617,12 +133617,18 @@
         "hunger": 80,
         "stats": null
       },
-      "expeditions": [],
+      "expeditions": [
+        {
+          "type": "forest",
+          "startedAt": 1793928371530,
+          "duration": 1800000
+        }
+      ],
       "defense": 15
     },
-    "exp": 689320,
+    "exp": 689350,
     "name": "Fиз",
-    "lastSeen": "2026-11-06T01:25:57.591Z",
+    "lastSeen": "2026-11-06T01:26:17.450Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133652,7 +133658,7 @@
       "maling": 1792991118078,
       "koin": 1792988238072,
       "profil": 1792990121026,
-      "inv": 1793926520817,
+      "inv": 1793928378144,
       "tambang": 1793886430019,
       "tebakhewan": 1792992536392,
       "tebakkimia": 1792991966437,
@@ -133695,7 +133701,7 @@
       "craft": 1793886407857,
       "smeme": 1793872498846,
       "nambalban": 1793885983426,
-      "expedition": 1793928358167
+      "expedition": 1793928372309
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 8,
