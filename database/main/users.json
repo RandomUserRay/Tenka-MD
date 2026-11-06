@@ -103296,7 +103296,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30842,
+    "exp": 30857,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -129766,10 +129766,10 @@
   "6282190237811": {
     "jid": "6282190237811",
     "rpg": {},
-    "exp": 6645,
+    "exp": 6660,
     "energi": 99995,
     "name": "💜🩵[THE FURSUIT & KITTY]🩵💜",
-    "lastSeen": "2026-11-06T12:32:24.963Z",
+    "lastSeen": "2026-11-06T12:32:47.872Z",
     "cooldowns": {
       "play": 1793948034727,
       "pin": 1793946339393,
@@ -129784,7 +129784,8 @@
       "rvo": 1793837061016,
       "jadibot": 1793837303766,
       "mutemember": 1793966133759,
-      "unmutemember": 1793966176903
+      "unmutemember": 1793966176903,
+      "owner": 1793968369396
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 8
