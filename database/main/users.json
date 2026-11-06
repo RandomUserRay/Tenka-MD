@@ -27106,7 +27106,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179856,
+    "exp": 179901,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -50980,7 +50980,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14520,
+    "exp": 14565,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61218,7 +61218,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6090,
+    "exp": 6135,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105656,7 +105656,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3795,
+    "exp": 3810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132233,17 +132233,17 @@
   },
   "6281374953937": {
     "name": "Qisthi",
-    "lastSeen": "2026-11-06T06:54:41.630Z",
+    "lastSeen": "2026-11-06T06:55:02.908Z",
     "jid": "6281374953937",
     "rpg": {},
-    "exp": 3645,
+    "exp": 3675,
     "cooldowns": {
       "play": 1793888292258,
       "ytmp4": 1792904795561,
       "bratvid": 1793888963495,
-      "brat": 1793888859214,
-      "bratimg": 1793888865785,
-      "menu": 1793887945989,
+      "brat": 1793948093441,
+      "bratimg": 1793948105455,
+      "menu": 1793948094710,
       "menucat": 1793446100854,
       "owner": 1793434520074,
       "delete": 1793434643848,
@@ -132254,9 +132254,9 @@
       "emojitoanimasi": 1793446520421,
       "tulis": 1793888609170
     },
-    "energi": 99999,
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 4
+    "energi": 99997,
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 5
   },
   "628138102226": {
     "name": "-17mirzy'★",
@@ -139507,7 +139507,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 43010,
+    "exp": 43025,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T06:07:40.646Z",
     "cooldowns": {
@@ -139560,7 +139560,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 37881,
+    "exp": 37911,
     "name": "M.r Prince",
     "lastSeen": "2026-11-06T06:54:16.478Z",
     "cooldowns": {
@@ -140289,5 +140289,10 @@
     "jid": "6285196007841",
     "rpg": {},
     "exp": 450
+  },
+  "6283198669202": {
+    "jid": "6283198669202",
+    "rpg": {},
+    "exp": 15
   }
 }
