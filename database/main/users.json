@@ -134240,7 +134240,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 180,
+      "stamina": 160,
       "health": 300,
       "mana": 200,
       "maxHealth": 300,
@@ -134256,9 +134256,9 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 201714,
+    "exp": 202007,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:23:45.960Z",
+    "lastSeen": "2026-11-06T01:23:59.393Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134357,10 +134357,10 @@
       "prawn": 0,
       "herb": 7,
       "leather": 5,
-      "rock": 3,
-      "iron": 2,
+      "rock": 5,
+      "iron": 4,
       "diamond": 0,
-      "coal": 0,
+      "coal": 2,
       "potion": 6,
       "deer": 0,
       "octopus": 0,
@@ -134374,7 +134374,7 @@
       "wood": 0
     },
     "koin": 1702217,
-    "energi": 99975,
+    "energi": 99974,
     "quest": {
       "work10": {
         "progress": 0,
@@ -139420,7 +139420,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18275,
+    "exp": 18290,
     "name": "machiavellianism",
     "lastSeen": "2026-11-06T01:15:49.538Z",
     "cooldowns": {
