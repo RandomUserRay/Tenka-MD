@@ -93704,7 +93704,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10050,
+    "exp": 10065,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -140148,7 +140148,11 @@
     "energi": 99998,
     "name": "Laufey",
     "lastSeen": "2026-11-06T23:29:24.680Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1794007788751
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "6285740119981": {
     "name": "zz",
