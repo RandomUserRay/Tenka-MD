@@ -134242,7 +134242,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 42,
+      "stamina": 22,
       "health": 105,
       "mana": 53,
       "maxHealth": 300,
@@ -134264,9 +134264,9 @@
         }
       ]
     },
-    "exp": 206005,
+    "exp": 206829,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:28:48.054Z",
+    "lastSeen": "2026-11-06T01:29:05.209Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134289,7 +134289,7 @@
       "use": 1793927148961,
       "dungeon": 1793928501542,
       "tebakfilm": 1792998970540,
-      "tambang": 1793928231790,
+      "tambang": 1793928550986,
       "pap": 1792999398457,
       "adventure": 1793928486784,
       "mywaifu": 1792999798476,
@@ -134355,7 +134355,7 @@
       "alchemy": 1793926012129,
       "buykoin": 1793926027331,
       "training": 1793927799511,
-      "mining": 1793928246087,
+      "mining": 1793928533877,
       "fishing": 1793928265028
     },
     "lastActiveDate": "6/11/2026",
@@ -134367,10 +134367,10 @@
       "prawn": 0,
       "herb": 7,
       "leather": 7,
-      "rock": 5,
-      "iron": 7,
+      "rock": 10,
+      "iron": 10,
       "diamond": 0,
-      "coal": 2,
+      "coal": 5,
       "potion": 6,
       "deer": 0,
       "octopus": 1,
@@ -134380,13 +134380,13 @@
       "sampah": 37,
       "koran": 6,
       "stick": 0,
-      "gold": 2,
+      "gold": 3,
       "wood": 0,
       "lion": 1,
       "rabbit": 1
     },
     "koin": 1743314,
-    "energi": 99968,
+    "energi": 99967,
     "quest": {
       "work10": {
         "progress": 0,
@@ -139432,7 +139432,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18320,
+    "exp": 18335,
     "name": "machiavellianism",
     "lastSeen": "2026-11-06T01:15:49.538Z",
     "cooldowns": {
