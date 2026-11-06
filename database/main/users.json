@@ -103306,7 +103306,7 @@
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
     "cooldowns": {
-      "afk": 1793746996479,
+      "afk": 1793966280672,
       "d": 1793962831714,
       "mutegc": 1788165687980,
       "ytmp4": 1793956149520,
@@ -133616,13 +133616,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 69,
-      "maxHealth": 780,
-      "maxMana": 440,
-      "maxStamina": 440,
-      "health": 780,
-      "mana": 440,
-      "stamina": 200,
+      "level": 70,
+      "maxHealth": 790,
+      "maxMana": 445,
+      "maxStamina": 445,
+      "health": 790,
+      "mana": 445,
+      "stamina": 445,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133641,9 +133641,9 @@
       ],
       "defense": 15
     },
-    "exp": 689380,
+    "exp": 690225,
     "name": "Fиз",
-    "lastSeen": "2026-11-06T11:57:47.889Z",
+    "lastSeen": "2026-11-06T11:58:05.515Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133720,7 +133720,7 @@
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 8,
-    "energi": 99999,
+    "energi": 99997,
     "koin": 1023487,
     "isRegistered": true,
     "regName": "Faeres",
@@ -133754,7 +133754,8 @@
       "whale": 1,
       "armor": 1,
       "wood": 2,
-      "mushroom": 3
+      "mushroom": 3,
+      "shark": 1
     },
     "unlockedFeatures": [
       "game"
