@@ -134240,7 +134240,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 170,
+      "stamina": 155,
       "health": 240,
       "mana": 170,
       "maxHealth": 240,
@@ -134256,9 +134256,9 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 144298,
+    "exp": 144328,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T00:48:59.265Z",
+    "lastSeen": "2026-11-06T00:49:11.404Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -134285,7 +134285,7 @@
       "pap": 1792999398457,
       "adventure": 1793780900186,
       "mywaifu": 1792999798476,
-      "sellall": 1793885864467,
+      "sellall": 1793926144881,
       "shop": 1793009302320,
       "money": 1793010029453,
       "energy": 1793009333504,
@@ -134301,7 +134301,7 @@
       "mulung": 1793867084792,
       "ngamen": 1793012041458,
       "ngemis": 1793886155101,
-      "stamina": 1793925970828,
+      "stamina": 1793926140613,
       "crime": 1793925942801,
       "jualan": 1793925760146,
       "garden": 1793012146949,
@@ -134351,15 +134351,15 @@
     "activeDays": 6,
     "inventory": {
       "uncommon": 3,
-      "trash": 1,
+      "trash": 0,
       "fish": 0,
       "prawn": 0,
       "herb": 7,
       "leather": 5,
-      "rock": 2,
+      "rock": 0,
       "iron": 0,
       "diamond": 0,
-      "coal": 3,
+      "coal": 0,
       "potion": 6,
       "deer": 0,
       "octopus": 0,
@@ -134372,8 +134372,8 @@
       "gold": 0,
       "wood": 0
     },
-    "koin": 977953,
-    "energi": 99992,
+    "koin": 978153,
+    "energi": 99991,
     "quest": {
       "work10": {
         "progress": 0,
