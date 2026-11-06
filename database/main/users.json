@@ -99406,7 +99406,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24465,
+    "exp": 24480,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99416,7 +99416,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T12:19:25.158Z",
+    "lastSeen": "2026-11-06T20:38:43.892Z",
     "cooldowns": {
       "play": 1793735091497,
       "menu": 1793721038099,
@@ -99440,7 +99440,7 @@
       "notifclosegroup": 1793224827022,
       "swgc": 1793224885685,
       "d": 1793655476339,
-      "allmenu": 1793495470408,
+      "allmenu": 1793997527214,
       "afk": 1793535004386,
       "mutemember": 1793291064756,
       "rvo": 1793577844567,
@@ -99466,8 +99466,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 15
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 16
   },
   "6283139500330": {
     "jid": "6283139500330",
