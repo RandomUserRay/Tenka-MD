@@ -9697,10 +9697,10 @@
     "jid": "6282125157549",
     "name": "Akbar",
     "number": "6282125157549",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 510,
+    "exp": 525,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9709,9 +9709,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-04T12:02:01.778Z",
+    "lastSeen": "2026-11-06T14:34:40.437Z",
     "cooldowns": {
-      "s": 1793793723528
+      "s": 1793975681459
     },
     "clanId": null,
     "isRegistered": false,
@@ -9722,8 +9722,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 3
   },
   "6288269674073": {
     "jid": "6288269674073",
@@ -131537,7 +131537,7 @@
   "6281220268747": {
     "jid": "6281220268747",
     "rpg": {},
-    "exp": 975,
+    "exp": 990,
     "energi": 99999
   },
   "6287742874697": {
@@ -138758,7 +138758,7 @@
   "6289679508874": {
     "jid": "6289679508874",
     "rpg": {},
-    "exp": 855,
+    "exp": 870,
     "energi": 99999
   },
   "6282192968472": {
