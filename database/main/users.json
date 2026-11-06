@@ -822,7 +822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69768,
+    "exp": 69783,
     "level": 1,
     "koin": 135542,
     "unlockedFeatures": [],
@@ -129656,8 +129656,15 @@
   "6285188512432": {
     "jid": "6285188512432",
     "rpg": {},
-    "exp": 615,
-    "energi": 99999
+    "exp": 630,
+    "energi": 99998,
+    "name": "reyy",
+    "lastSeen": "2026-11-06T02:16:42.115Z",
+    "cooldowns": {
+      "s": 1793931416425
+    },
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 1
   },
   "6285122141618": {
     "jid": "6285122141618",
