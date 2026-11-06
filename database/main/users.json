@@ -61219,7 +61219,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6855,
+    "exp": 6870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -140659,7 +140659,11 @@
   "6285352637808": {
     "jid": "6285352637808",
     "rpg": {},
-    "exp": 75
+    "exp": 90,
+    "name": "Arkhan",
+    "lastSeen": "2026-11-06T12:39:10.979Z",
+    "cooldowns": {},
+    "energi": 24
   },
   "6287794785405": {
     "jid": "6287794785405",
