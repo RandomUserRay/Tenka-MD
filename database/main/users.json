@@ -134240,7 +134240,7 @@
   "6282126863605": {
     "jid": "6282126863605",
     "rpg": {
-      "stamina": 132,
+      "stamina": 122,
       "health": 270,
       "mana": 185,
       "maxHealth": 270,
@@ -134256,9 +134256,9 @@
       "guildId": "guild_1793925831024",
       "expeditions": []
     },
-    "exp": 176341,
+    "exp": 176356,
     "name": "ハフィズ",
-    "lastSeen": "2026-11-06T01:10:42.544Z",
+    "lastSeen": "2026-11-06T01:10:50.938Z",
     "cooldowns": {
       "2048": 1792999483837,
       "daily": 1793780734721,
@@ -139428,7 +139428,7 @@
       "allgame": 1793880221803,
       "soulmatch": 1793880393578,
       "cekmesum": 1793880516943,
-      "tebakkata": 1793880936839,
+      "tebakkata": 1793927450646,
       "gay": 1793880976588,
       "tebakgambar": 1793881034702,
       "tebakanime": 1793881208365,
@@ -139445,8 +139445,8 @@
       "cuddle": 1793882289473,
       "terima": 1793882389208
     },
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 1,
+    "lastActiveDate": "6/11/2026",
+    "activeDays": 2,
     "energi": 99999,
     "koin": 5990,
     "registeredAt": 1793881327581,
