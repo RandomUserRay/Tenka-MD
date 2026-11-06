@@ -133616,13 +133616,13 @@
   "6283863082338": {
     "jid": "6283863082338",
     "rpg": {
-      "level": 75,
-      "maxHealth": 840,
-      "maxMana": 470,
-      "maxStamina": 470,
-      "health": 840,
-      "mana": 470,
-      "stamina": 470,
+      "level": 76,
+      "maxHealth": 850,
+      "maxMana": 475,
+      "maxStamina": 475,
+      "health": 850,
+      "mana": 475,
+      "stamina": 475,
       "attack": 11,
       "pet": {
         "type": "cat",
@@ -133641,9 +133641,9 @@
       ],
       "defense": 15
     },
-    "exp": 748996,
+    "exp": 751534,
     "name": "Fиз",
-    "lastSeen": "2026-11-06T12:07:54.183Z",
+    "lastSeen": "2026-11-06T12:08:01.076Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -133659,7 +133659,7 @@
       "catur": 1792986052915,
       "quiz": 1792987259273,
       "tidur": 1793796296618,
-      "tebaknegara": 1793966874814,
+      "tebaknegara": 1793966881908,
       "siapakahaku": 1792986508425,
       "inventory": 1793795202683,
       "me": 1793966673175,
@@ -133720,8 +133720,8 @@
     },
     "lastActiveDate": "6/11/2026",
     "activeDays": 8,
-    "energi": 100119,
-    "koin": 1105040,
+    "energi": 100125,
+    "koin": 1105886,
     "isRegistered": true,
     "regName": "Faeres",
     "regAge": 100,
@@ -135795,9 +135795,9 @@
   "6285974359896": {
     "jid": "6285974359896",
     "rpg": {},
-    "exp": 14364,
+    "exp": 14379,
     "name": "\"FURZYX\"",
-    "lastSeen": "2026-11-06T12:07:44.467Z",
+    "lastSeen": "2026-11-06T12:08:00.559Z",
     "cooldowns": {
       "jadibot": 1793157788711,
       "menu": 1793766819894,
@@ -139476,7 +139476,7 @@
       "mana": 130,
       "stamina": 130
     },
-    "exp": 66440,
+    "exp": 66455,
     "name": "machiavellianism",
     "lastSeen": "2026-11-06T11:18:40.417Z",
     "cooldowns": {
@@ -139538,7 +139538,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 52163,
+    "exp": 52178,
     "name": "Kiliän Nátch.",
     "lastSeen": "2026-11-06T09:45:35.126Z",
     "cooldowns": {
@@ -139717,7 +139717,7 @@
     "rpg": {
       "stamina": 95
     },
-    "exp": 1269,
+    "exp": 1284,
     "name": "subaru",
     "lastSeen": "2026-11-05T23:00:03.331Z",
     "cooldowns": {
