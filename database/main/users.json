@@ -18933,10 +18933,10 @@
     "jid": "62882003378504",
     "name": "Julian",
     "number": "62882003378504",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62865,
+    "exp": 62880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -18945,14 +18945,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-05T16:02:31.780Z",
+    "lastSeen": "2026-11-07T18:08:08.649Z",
     "cooldowns": {
       "tembak": 1782201336727,
       "terima": 1782201866422,
       "s": 1788148224685,
       "afk": 1786632112229,
       "play": 1793894568336,
-      "lirik": 1793894514861,
+      "lirik": 1794074894221,
       "menu": 1783008365486,
       "allmenu": 1783008382259,
       "gays": 1783008644104,
@@ -18987,8 +18987,8 @@
       "tembakCount": 1
     },
     "saldo": 0,
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 7
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 8
   },
   "6283871114819": {
     "jid": "6283871114819",
@@ -138123,7 +138123,7 @@
   "6285758216422": {
     "jid": "6285758216422",
     "rpg": {},
-    "exp": 1185,
+    "exp": 1200,
     "energi": 99999
   },
   "6285733007254": {
