@@ -1625,7 +1625,7 @@
       "play": 1793885533505,
       "werewolf": 1780194930580,
       "ww": 1782566950447,
-      "femboy": 1793928831963,
+      "femboy": 1794030815350,
       "profile": 1785307535812,
       "tembak": 1793882292204,
       "jodoh": 1780235036441,
@@ -93705,10 +93705,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99985,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12675,
+    "exp": 12705,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:53:22.322Z",
+    "lastSeen": "2026-11-07T05:53:48.326Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93756,8 +93756,9 @@
     "lastActiveDate": "7/11/2026",
     "activeDays": 5,
     "fun": {
-      "tembakCount": 2,
-      "ditolakCount": 1
+      "tembakCount": 3,
+      "ditolakCount": 1,
+      "tembakTarget": "62895626834807@s.whatsapp.net"
     }
   },
   "6285142868345": {
@@ -126043,10 +126044,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16410,
+    "exp": 16425,
     "energi": 99999,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T05:51:40.252Z",
+    "lastSeen": "2026-11-07T05:53:47.460Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1793984485004,
@@ -126054,7 +126055,7 @@
       "s": 1793676615275,
       "level": 1793704008915,
       "menu": 1793856989203,
-      "love": 1794030700483
+      "love": 1794030829030
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 8
@@ -130199,7 +130200,7 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {},
-    "exp": 8670,
+    "exp": 8685,
     "energi": 99993,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-07T03:13:39.180Z",
@@ -136456,7 +136457,7 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1575,
+    "exp": 1590,
     "energi": 99999,
     "name": "R.F.K",
     "lastSeen": "2026-11-07T05:52:54.749Z",
