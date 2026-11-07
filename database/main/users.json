@@ -138495,15 +138495,15 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 4200,
+    "exp": 4215,
     "name": "ndra",
-    "lastSeen": "2026-11-07T16:38:19.128Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-07T16:38:58.325Z",
+    "energi": 999998,
     "cooldowns": {
       "play": 1793799576161,
       "kiss": 1793890270364,
       "cekpacar": 1793889621787,
-      "tembak": 1793890151242,
+      "tembak": 1794069539464,
       "s": 1793889978320,
       "cekfemboy": 1794069220243,
       "top": 1794069499587
@@ -138511,8 +138511,8 @@
     "lastActiveDate": "7/11/2026",
     "activeDays": 3,
     "fun": {
-      "tembakTarget": "628981541757@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakTarget": "6285839381489@s.whatsapp.net",
+      "tembakCount": 2
     }
   },
   "6285771753583": {
@@ -141666,6 +141666,7 @@
       "cekfemboy": 1794069174690
     },
     "lastActiveDate": "7/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "fun": {}
   }
 }
