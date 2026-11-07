@@ -141490,12 +141490,13 @@
   "6285784418801": {
     "jid": "6285784418801",
     "rpg": {},
-    "exp": 390,
+    "exp": 405,
     "name": "FAJAR HYTAM PUTEH IRENG",
-    "lastSeen": "2026-11-07T16:12:27.372Z",
+    "lastSeen": "2026-11-07T16:12:44.909Z",
     "energi": 999999,
     "cooldowns": {
-      "help": 1794067952827
+      "help": 1794067952827,
+      "menu": 1794067966448
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
