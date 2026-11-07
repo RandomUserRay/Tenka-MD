@@ -93710,7 +93710,7 @@
     "energi": 99976,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14085,
+    "exp": 14100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T09:43:25.423Z",
+    "lastSeen": "2026-11-07T09:43:34.555Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794044317913,
@@ -93759,7 +93759,8 @@
       "top": 1794044518112,
       "jelek": 1794044571773,
       "miskin": 1794044597971,
-      "noob": 1794044605930
+      "noob": 1794044605930,
+      "bodoh": 1794044615155
     },
     "clanId": null,
     "isRegistered": false,
@@ -138883,7 +138884,7 @@
   "6282192968472": {
     "jid": "6282192968472",
     "rpg": {},
-    "exp": 2610,
+    "exp": 2625,
     "energi": 99999
   },
   "6285668800233": {
@@ -141061,15 +141062,16 @@
   "6288215399103": {
     "jid": "6288215399103",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "energi": 99999,
     "name": "Prince Niv`x",
-    "lastSeen": "2026-11-07T09:43:10.403Z",
+    "lastSeen": "2026-11-07T09:43:29.945Z",
     "cooldowns": {
       "menu": 1794029713657,
       "menucat": 1794029735327,
       "ganteng": 1794044504103,
-      "kaya": 1794044591284
+      "kaya": 1794044591284,
+      "pintar": 1794044610567
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
