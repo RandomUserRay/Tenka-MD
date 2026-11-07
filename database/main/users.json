@@ -67803,7 +67803,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179256,
+    "exp": 179271,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67818,7 +67818,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:27:04.443Z",
+    "lastSeen": "2026-11-07T15:27:39.392Z",
     "cooldowns": {
       "afk": 1794064046561,
       "s": 1794065170907,
@@ -67843,7 +67843,7 @@
       "owner": 1787574324932,
       "allmenu": 1785405109874,
       "cekfemboy": 1794065228857,
-      "cekganteng": 1793515601486,
+      "cekganteng": 1794065259555,
       "jelek": 1785514695642,
       "cekcantik": 1793515457277,
       "cektsundere": 1785417694671,
@@ -93710,7 +93710,7 @@
     "energi": 99971,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15810,
+    "exp": 15825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:25:16.330Z",
+    "lastSeen": "2026-11-07T15:27:41.306Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794064454074,
@@ -93772,7 +93772,7 @@
       "pintar": 1794044837416,
       "rate": 1794053518292,
       "tsundere": 1794064397594,
-      "yandere": 1794064339690,
+      "yandere": 1794065261673,
       "truth": 1794064885003,
       "renungan": 1794064966844,
       "mengapa": 1794065028116
@@ -97290,7 +97290,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41048,
+    "exp": 41063,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97300,7 +97300,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:25:44.097Z",
+    "lastSeen": "2026-11-07T15:27:36.552Z",
     "cooldowns": {
       "afk": 1793790750144,
       "play": 1794055299430,
@@ -97319,7 +97319,7 @@
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1793537433084,
-      "cekimut": 1793516369757,
+      "cekimut": 1794065257724,
       "d": 1793615346273,
       "mutegc": 1793623862996,
       "pin": 1793707376832,
@@ -122639,10 +122639,10 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 8940,
+    "exp": 8970,
     "energi": 99998,
     "name": "Noah",
-    "lastSeen": "2026-11-07T15:27:19.325Z",
+    "lastSeen": "2026-11-07T15:27:46.980Z",
     "cooldowns": {
       "femboy": 1794065201119,
       "s": 1793532751448,
@@ -122652,11 +122652,12 @@
       "smeme": 1793425061108,
       "cekganteng": 1794065239438,
       "top": 1793515449578,
-      "cekimut": 1794065230503,
+      "cekimut": 1794065268618,
       "mutegc": 1793721193619,
       "open": 1793747198407,
       "cektsundere": 1794065168684,
-      "yandere": 1794065214571
+      "yandere": 1794065214571,
+      "cekcantik": 1794065251898
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 7,
@@ -125900,10 +125901,10 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 5895,
+    "exp": 5925,
     "energi": 99999,
     "name": "yeas",
-    "lastSeen": "2026-11-07T15:27:24.253Z",
+    "lastSeen": "2026-11-07T15:27:44.869Z",
     "cooldowns": {
       "s": 1793506103575,
       "cekganteng": 1794065244362,
@@ -125912,7 +125913,7 @@
       "cekyandere": 1790215798603,
       "cekfemboy": 1794065192571,
       "cekcantik": 1794065137236,
-      "cekimut": 1790248360776,
+      "cekimut": 1794065266344,
       "smeme": 1793502678814,
       "play": 1793890139498,
       "top": 1793515538895,
@@ -138944,7 +138945,7 @@
   "6282192968472": {
     "jid": "6282192968472",
     "rpg": {},
-    "exp": 3645,
+    "exp": 3660,
     "energi": 99999
   },
   "6285668800233": {
@@ -138991,7 +138992,7 @@
   "6282131321591": {
     "jid": "6282131321591",
     "rpg": {},
-    "exp": 345,
+    "exp": 375,
     "energi": 99999
   },
   "6281533875869": {
