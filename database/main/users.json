@@ -54462,7 +54462,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6270,
+    "exp": 6285,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -136911,15 +136911,15 @@
   "6289513359336": {
     "jid": "6289513359336",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "energi": 99999,
     "name": "RYI",
-    "lastSeen": "2026-11-02T13:02:33.332Z",
+    "lastSeen": "2026-11-07T21:17:53.816Z",
     "cooldowns": {
-      "femboy": 1793624574086
+      "femboy": 1794086279853
     },
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 2
   },
   "6283890422368": {
     "jid": "6283890422368",
@@ -140187,11 +140187,15 @@
   "6283190128588": {
     "jid": "6283190128588",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "energi": 99999,
     "name": "F",
     "lastSeen": "2026-11-07T21:17:38.224Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1794086261446
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6282363999420": {
     "jid": "6282363999420",
