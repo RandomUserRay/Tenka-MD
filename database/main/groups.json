@@ -47310,8 +47310,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 2035,
-        "lastChat": 1794069244089,
+        "count": 2036,
+        "lastChat": 1794069259984,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47690,8 +47690,8 @@
         "name": "hm"
       },
       "6281241824284@s.whatsapp.net": {
-        "count": 285,
-        "lastChat": 1794069251230,
+        "count": 286,
+        "lastChat": 1794069257437,
         "name": "ndra"
       },
       "6287828207315@s.whatsapp.net": {
@@ -48075,8 +48075,8 @@
         "name": "Adwa Adam"
       },
       "62895703161397@s.whatsapp.net": {
-        "count": 97,
-        "lastChat": 1794069224422,
+        "count": 99,
+        "lastChat": 1794069263872,
         "name": "⏤͟͟͞͞✰sᴇᴘғɪᴀɴ⚡︎"
       },
       "6285143099793@s.whatsapp.net": {
@@ -48606,7 +48606,8 @@
     "autoreply": true,
     "notifSholat": true,
     "game": true,
-    "maxWarnings": 10
+    "maxWarnings": 10,
+    "notifCloseGroup": true
   },
   "120363426735184360@g.us": {
     "welcome": true,
