@@ -121770,7 +121770,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 2190,
+    "exp": 2205,
     "energi": 99993,
     "cooldowns": {
       "afk": 1793376379983,
@@ -131800,18 +131800,19 @@
   "6285862045950": {
     "jid": "6285862045950",
     "rpg": {},
-    "exp": 1530,
-    "energi": 99999,
+    "exp": 1545,
+    "energi": 999999,
     "name": "vanzzseliter",
-    "lastSeen": "2026-11-05T14:52:10.738Z",
+    "lastSeen": "2026-11-07T07:45:26.660Z",
     "cooldowns": {
       "s": 1793698909137,
       "wink": 1793799175020,
       "tembak": 1793890177055,
-      "kiss": 1793890336019
+      "kiss": 1793890336019,
+      "topchat": 1794037526832
     },
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 3,
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 4,
     "fun": {
       "tembakTarget": "6282131144804@s.whatsapp.net",
       "tembakCount": 1
