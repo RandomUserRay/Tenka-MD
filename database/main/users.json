@@ -54462,7 +54462,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6255,
+    "exp": 6270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93717,7 +93717,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16305,
+    "exp": 16335,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93727,7 +93727,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T21:14:16.631Z",
+    "lastSeen": "2026-11-07T21:15:22.753Z",
     "cooldowns": {
       "play": 1794065899717,
       "femboy": 1794065948225,
@@ -93743,7 +93743,7 @@
       "cekpacar": 1794064848264,
       "tembak": 1794064802323,
       "dare": 1794030518581,
-      "love": 1794065116629,
+      "love": 1794086123131,
       "cekfemboy": 1794030806812,
       "mimpi": 1794030891562,
       "yatim": 1794044808950,
@@ -141781,6 +141781,6 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 375
+    "exp": 390
   }
 }
