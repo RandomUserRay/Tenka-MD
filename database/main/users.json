@@ -93709,7 +93709,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13455,
+    "exp": 13470,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93719,7 +93719,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T06:25:30.666Z",
+    "lastSeen": "2026-11-07T06:27:19.690Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -138506,7 +138506,7 @@
   "6285183175033": {
     "jid": "6285183175033",
     "rpg": {},
-    "exp": 420,
+    "exp": 435,
     "energi": 99999
   },
   "6285817755682": {
@@ -141202,6 +141202,11 @@
   },
   "6282371910720": {
     "jid": "6282371910720",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281412476454": {
+    "jid": "6281412476454",
     "rpg": {},
     "exp": 15
   }
