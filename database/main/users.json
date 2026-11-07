@@ -93707,7 +93707,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10590,
+    "exp": 10605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -140716,7 +140716,7 @@
   "6285811340487": {
     "jid": "6285811340487",
     "rpg": {},
-    "exp": 300,
+    "exp": 330,
     "energi": 99999
   },
   "6285756973188": {
@@ -140958,7 +140958,11 @@
     "energi": 99998,
     "name": "Rangga",
     "lastSeen": "2026-11-07T03:41:01.143Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1794022883579
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "6289531977843": {
     "jid": "6289531977843",
