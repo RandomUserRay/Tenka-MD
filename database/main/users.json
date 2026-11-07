@@ -93705,10 +93705,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99980,
+    "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12900,
+    "exp": 12915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T06:00:12.928Z",
+    "lastSeen": "2026-11-07T06:01:07.631Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93740,7 +93740,8 @@
       "yatim": 1794030948632,
       "sangean": 1794030988885,
       "wibu": 1794031010584,
-      "pin": 1794031225361
+      "pin": 1794031225361,
+      "s": 1794031269139
     },
     "clanId": null,
     "isRegistered": false,
@@ -126049,10 +126050,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16665,
+    "exp": 16680,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T06:00:54.082Z",
+    "lastSeen": "2026-11-07T06:01:06.237Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1793984485004,
@@ -126060,7 +126061,7 @@
       "s": 1793676615275,
       "level": 1793704008915,
       "menu": 1793856989203,
-      "love": 1794031254252,
+      "love": 1794031266713,
       "terima": 1794030869325,
       "mimpi": 1794030915328
     },
@@ -140847,7 +140848,7 @@
   "628139938512": {
     "jid": "628139938512",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "6281957175250": {
