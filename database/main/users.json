@@ -126085,7 +126085,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19140,
+    "exp": 19185,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
     "lastSeen": "2026-11-07T11:31:29.078Z",
@@ -141449,5 +141449,10 @@
     "energi": 23,
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
+  },
+  "6285353843348": {
+    "jid": "6285353843348",
+    "rpg": {},
+    "exp": 15
   }
 }
