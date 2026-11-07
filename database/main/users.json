@@ -121772,10 +121772,11 @@
     "exp": 1725,
     "energi": 99997,
     "cooldowns": {
-      "afk": 1793376379983
+      "afk": 1793376379983,
+      "femboys": 1794035612630
     },
-    "lastActiveDate": "30/10/2026",
-    "activeDays": 1,
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 2,
     "name": "MINSXII★¹⁸⁶¹🇮🇹⚖️",
     "lastSeen": "2026-11-07T07:13:21.682Z"
   },
@@ -126063,10 +126064,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17355,
+    "exp": 17370,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T07:13:00.967Z",
+    "lastSeen": "2026-11-07T07:13:35.870Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1793984485004,
@@ -126074,7 +126075,7 @@
       "s": 1793676615275,
       "level": 1793704008915,
       "menu": 1793856989203,
-      "love": 1794035581248,
+      "love": 1794035616068,
       "terima": 1794030869325,
       "mimpi": 1794030915328,
       "me": 1794034497347
@@ -141227,7 +141228,11 @@
     "exp": 225,
     "name": "Zentenel Bot 𖣐",
     "lastSeen": "2026-11-07T07:13:32.098Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "femboys": 1794035615150
+    },
+    "energi": 23,
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   }
 }
