@@ -90665,7 +90665,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75,
+    "exp": 90,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139611,10 +139611,15 @@
   "6285381723912": {
     "jid": "6285381723912",
     "rpg": {},
-    "exp": 2415,
+    "exp": 2430,
     "name": "Tio🤓",
-    "lastSeen": "2026-11-07T00:54:12.503Z",
-    "energi": 99999
+    "lastSeen": "2026-11-07T17:18:10.452Z",
+    "energi": 999999,
+    "cooldowns": {
+      "cekfemboy": 1794071895411
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "62895703161397": {
     "jid": "62895703161397",
