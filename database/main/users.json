@@ -126085,7 +126085,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19245,
+    "exp": 19260,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
     "lastSeen": "2026-11-07T11:31:29.078Z",
@@ -131247,8 +131247,15 @@
   "6285701106957": {
     "jid": "6285701106957",
     "rpg": {},
-    "exp": 3345,
-    "energi": 99999
+    "exp": 3360,
+    "energi": 999999,
+    "name": "zangetsu",
+    "lastSeen": "2026-11-07T11:51:50.578Z",
+    "cooldowns": {
+      "top": 1794052312142
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "6289514871890": {
     "name": "Christ",
