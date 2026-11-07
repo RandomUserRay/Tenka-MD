@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1048887,
+    "exp": 1048902,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35902,14 +35902,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:59:14.455Z",
+    "lastSeen": "2026-11-07T16:00:05.819Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
       "cekgacha": 1783006304242,
       "cekbaik": 1783006317999,
       "cekmesum": 1783006398828,
-      "cekfemboy": 1794067132872,
+      "cekfemboy": 1794067209264,
       "cekpintar": 1783697733207,
       "cekjodoh": 1783765488011,
       "allmenu": 1793889586914,
@@ -54457,7 +54457,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5760,
+    "exp": 5790,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -129693,12 +129693,13 @@
   "6285722693315": {
     "jid": "6285722693315",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1680,
     "energi": 999999,
     "name": "adsyam",
-    "lastSeen": "2026-11-07T15:59:24.563Z",
+    "lastSeen": "2026-11-07T16:00:12.858Z",
     "cooldowns": {
-      "cekhoki": 1794067165186
+      "cekhoki": 1794067165186,
+      "cekfemboy": 1794067217388
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
@@ -141581,7 +141582,15 @@
   "6285810348037": {
     "jid": "6285810348037",
     "rpg": {},
-    "exp": 690
+    "exp": 720,
+    "name": "ejaa",
+    "lastSeen": "2026-11-07T16:00:06.637Z",
+    "energi": 999999,
+    "cooldowns": {
+      "cekhoki": 1794067206867
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "6282125410531": {
     "jid": "6282125410531",
