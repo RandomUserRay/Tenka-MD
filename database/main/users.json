@@ -93717,7 +93717,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16440,
+    "exp": 16455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93727,10 +93727,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T21:17:19.246Z",
+    "lastSeen": "2026-11-07T21:17:34.350Z",
     "cooldowns": {
       "play": 1794065899717,
-      "femboy": 1794086164215,
+      "femboy": 1794086257725,
       "afk": 1794044916752,
       "sticker": 1793671130053,
       "menu": 1794086057785,
@@ -93778,7 +93778,7 @@
       "bego": 1794044818393,
       "pintar": 1794044837416,
       "rate": 1794053518292,
-      "tsundere": 1794086185660,
+      "tsundere": 1794086242054,
       "yandere": 1794065261673,
       "truth": 1794064885003,
       "renungan": 1794064966844,
@@ -140187,8 +140187,11 @@
   "6283190128588": {
     "jid": "6283190128588",
     "rpg": {},
-    "exp": 270,
-    "energi": 99999
+    "exp": 285,
+    "energi": 99999,
+    "name": "F",
+    "lastSeen": "2026-11-07T21:17:38.224Z",
+    "cooldowns": {}
   },
   "6282363999420": {
     "jid": "6282363999420",
