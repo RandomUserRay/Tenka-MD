@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1049397,
+    "exp": 1049412,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35902,7 +35902,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T16:33:49.850Z",
+    "lastSeen": "2026-11-07T16:34:04.090Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36133,7 +36133,8 @@
       "listadmin": 1794066902776,
       "antisticker": 1794069075945,
       "tam": 1794069110191,
-      "totag": 1794069170214
+      "totag": 1794069170214,
+      "notifclosegroup": 1794069244233
     },
     "clanId": null,
     "isRegistered": false,
@@ -138493,7 +138494,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 3915,
+    "exp": 3930,
     "name": "ndra",
     "lastSeen": "2026-11-07T16:32:21.492Z",
     "energi": 999999,
