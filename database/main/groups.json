@@ -47310,8 +47310,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 2010,
-        "lastChat": 1794067333090,
+        "count": 2011,
+        "lastChat": 1794067340692,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -48425,8 +48425,8 @@
         "name": "Nnnann??"
       },
       "62882020574421@s.whatsapp.net": {
-        "count": 9,
-        "lastChat": 1794067321676,
+        "count": 10,
+        "lastChat": 1794067342059,
         "name": "Rizki Ramadhan"
       },
       "62895351372749@s.whatsapp.net": {
@@ -48550,7 +48550,7 @@
     "welcomeMsg": "Haloo {user}  ke {count} semoga betah betah ya disinii🤭😏\n{date}\n{time}",
     "antispam": "on",
     "antitoxic": false,
-    "antiswgc": "on",
+    "antiswgc": "off",
     "antilinkgc": "on",
     "intro": "@user",
     "toxicWarns": {
