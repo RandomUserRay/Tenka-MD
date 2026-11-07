@@ -47310,8 +47310,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 2037,
-        "lastChat": 1794069268420,
+        "count": 2038,
+        "lastChat": 1794069286575,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -48607,7 +48607,8 @@
     "notifSholat": true,
     "game": true,
     "maxWarnings": 10,
-    "notifCloseGroup": true
+    "notifCloseGroup": true,
+    "notifOpenGroup": true
   },
   "120363426735184360@g.us": {
     "welcome": true,
