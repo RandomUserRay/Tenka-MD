@@ -1604,7 +1604,7 @@
     "energi": 100008,
     "isPremium": false,
     "isBanned": false,
-    "exp": 328991,
+    "exp": 329006,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:34:25.470Z",
+    "lastSeen": "2026-11-07T05:37:12.401Z",
     "cooldowns": {
       "menu": 1793883515415,
       "allmenu": 1793877494778,
@@ -139436,7 +139436,7 @@
   "6285381723912": {
     "jid": "6285381723912",
     "rpg": {},
-    "exp": 2175,
+    "exp": 2190,
     "name": "Tio🤓",
     "lastSeen": "2026-11-07T00:54:12.503Z",
     "energi": 99999
@@ -141118,6 +141118,13 @@
   },
   "628131307988": {
     "jid": "628131307988",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281545627800": {
+    "name": "vvvv",
+    "lastSeen": "2026-11-07T05:37:03.731Z",
+    "jid": "6281545627800",
     "rpg": {},
     "exp": 15
   }
