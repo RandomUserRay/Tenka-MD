@@ -54457,7 +54457,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5805,
+    "exp": 5820,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -141422,7 +141422,15 @@
   "62882020574421": {
     "jid": "62882020574421",
     "rpg": {},
-    "exp": 75
+    "exp": 90,
+    "name": "Rizki Ramadhan",
+    "lastSeen": "2026-11-07T16:01:27.817Z",
+    "energi": 999999,
+    "cooldowns": {
+      "cekfemboy": 1794067292240
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "62895351372749": {
     "jid": "62895351372749",
