@@ -93717,7 +93717,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16695,
+    "exp": 16725,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -136911,13 +136911,14 @@
   "6289513359336": {
     "jid": "6289513359336",
     "rpg": {},
-    "exp": 510,
+    "exp": 540,
     "energi": 99999,
     "name": "RYI",
-    "lastSeen": "2026-11-07T21:21:18.024Z",
+    "lastSeen": "2026-11-07T21:22:06.934Z",
     "cooldowns": {
       "femboy": 1794086279853,
-      "tsundere": 1794086343051
+      "tsundere": 1794086343051,
+      "yandere": 1794086527285
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 2
@@ -141789,7 +141790,7 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "name": "poci kamochi",
     "lastSeen": "2026-11-07T21:20:51.542Z",
     "cooldowns": {
