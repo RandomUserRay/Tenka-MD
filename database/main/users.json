@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1048842,
+    "exp": 1048872,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -129693,8 +129693,15 @@
   "6285722693315": {
     "jid": "6285722693315",
     "rpg": {},
-    "exp": 1635,
-    "energi": 99999
+    "exp": 1665,
+    "energi": 999999,
+    "name": "adsyam",
+    "lastSeen": "2026-11-07T15:59:24.563Z",
+    "cooldowns": {
+      "cekhoki": 1794067165186
+    },
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 1
   },
   "6283179211339": {
     "jid": "6283179211339",
