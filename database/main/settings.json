@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
+      "at": 1794044459076
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
       "at": 1794030968964
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1790155426448
-    },
-    {
-      "cmd": "unknown",
-      "err": "rate-overlimit",
-      "at": 1790155426288
     }
   ],
   "jpmBlacklist": [],
