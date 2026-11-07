@@ -93707,10 +93707,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99972,
+    "energi": 99971,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15435,
+    "exp": 15465,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:18:27.096Z",
+    "lastSeen": "2026-11-07T15:20:01.443Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794064454074,
@@ -93734,7 +93734,7 @@
       "janda": 1794030331068,
       "cekhodam": 1794030361184,
       "cekpacar": 1794053353951,
-      "tembak": 1794053157123,
+      "tembak": 1794064802323,
       "dare": 1794030518581,
       "love": 1794064083824,
       "cekfemboy": 1794030806812,
@@ -93794,9 +93794,9 @@
     "lastActiveDate": "7/11/2026",
     "activeDays": 5,
     "fun": {
-      "tembakCount": 7,
+      "tembakCount": 8,
       "ditolakCount": 1,
-      "tembakTarget": "6285942842803@s.whatsapp.net"
+      "tembakTarget": "6282131343280@s.whatsapp.net"
     }
   },
   "6285142868345": {
@@ -122054,7 +122054,8 @@
     "jid": "6282131343280",
     "rpg": {},
     "exp": 270,
-    "energi": 99999
+    "energi": 99999,
+    "fun": {}
   },
   "6285198054967": {
     "jid": "6285198054967",
@@ -131320,7 +131321,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 2835,
+    "exp": 2850,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-04T13:40:43.819Z",
     "cooldowns": {
@@ -141532,7 +141533,7 @@
   "6285810348037": {
     "jid": "6285810348037",
     "rpg": {},
-    "exp": 210
+    "exp": 225
   },
   "6282125410531": {
     "jid": "6282125410531",
