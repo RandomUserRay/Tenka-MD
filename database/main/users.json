@@ -101550,7 +101550,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4215,
+    "exp": 4230,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126085,7 +126085,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18270,
+    "exp": 18285,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
     "lastSeen": "2026-11-07T09:58:44.447Z",
@@ -141380,5 +141380,10 @@
     "jid": "6283163694674",
     "rpg": {},
     "exp": 30
+  },
+  "6289668408070": {
+    "jid": "6289668408070",
+    "rpg": {},
+    "exp": 15
   }
 }
