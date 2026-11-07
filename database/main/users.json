@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1049292,
+    "exp": 1049322,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35902,7 +35902,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T16:30:36.744Z",
+    "lastSeen": "2026-11-07T16:31:15.681Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35981,7 +35981,7 @@
       "bratvid": 1793792547967,
       "bratvermeil": 1784468267607,
       "riddle": 1791362860642,
-      "menucat": 1793889681927,
+      "menucat": 1794069056121,
       "system": 1784299609834,
       "maling": 1784166618674,
       "afinitasml": 1783822870669,
@@ -36130,7 +36130,8 @@
       "sleep": 1793889705341,
       "fistbump": 1793889741204,
       "warnlist": 1794066697383,
-      "listadmin": 1794066902776
+      "listadmin": 1794066902776,
+      "antisticker": 1794069075945
     },
     "clanId": null,
     "isRegistered": false,
@@ -141642,6 +141643,8 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 180
+    "exp": 210,
+    "name": "iqrom",
+    "lastSeen": "2026-11-07T16:31:14.740Z"
   }
 }
