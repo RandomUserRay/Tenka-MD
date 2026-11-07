@@ -20724,7 +20724,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62189,
+    "exp": 62204,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20733,7 +20733,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T11:43:44.490Z",
+    "lastSeen": "2026-11-07T12:13:26.144Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
@@ -20794,7 +20794,7 @@
       "bratbahlil": 1787842906432,
       "qr": 1787924093420,
       "qrcustom": 1787924290619,
-      "p": 1789288537244,
+      "p": 1794053607815,
       "stopjadibot": 1789295362620,
       "h": 1789469106255,
       "ytmp4": 1790944811156,
@@ -126087,10 +126087,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19740,
+    "exp": 19755,
     "energi": 99996,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T12:13:11.111Z",
+    "lastSeen": "2026-11-07T12:13:20.589Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1794051091778,
@@ -131876,7 +131876,7 @@
   "6285785435035": {
     "jid": "6285785435035",
     "rpg": {},
-    "exp": 585,
+    "exp": 600,
     "energi": 99999
   },
   "6285708794062": {
@@ -136585,17 +136585,18 @@
   "6285272162707": {
     "jid": "6285272162707",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1560,
     "energi": 99996,
     "name": "katsuki kawaneko",
-    "lastSeen": "2026-11-07T12:12:36.742Z",
+    "lastSeen": "2026-11-07T12:13:23.922Z",
     "cooldowns": {
       "afk": 1793623992769,
       "play": 1794050402408,
       "ytmp4": 1793625817561,
       "lyrics": 1794050439958,
       "rate": 1794053507086,
-      "menu": 1794053563271
+      "menu": 1794053563271,
+      "owner": 1794053607416
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 2
