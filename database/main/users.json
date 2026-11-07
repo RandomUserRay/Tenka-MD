@@ -93710,7 +93710,7 @@
     "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14625,
+    "exp": 14640,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T12:09:13.216Z",
+    "lastSeen": "2026-11-07T12:10:22.164Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794044317913,
@@ -93769,7 +93769,8 @@
       "babi": 1794044841805,
       "pinter": 1794044773699,
       "bego": 1794044818393,
-      "pintar": 1794044837416
+      "pintar": 1794044837416,
+      "rate": 1794053423626
     },
     "clanId": null,
     "isRegistered": false,
@@ -141359,7 +141360,7 @@
   "62895351372749": {
     "jid": "62895351372749",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   },
   "6289675406877": {
     "jid": "6289675406877",
