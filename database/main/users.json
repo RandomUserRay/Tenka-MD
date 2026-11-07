@@ -93710,7 +93710,7 @@
     "energi": 99976,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14040,
+    "exp": 14055,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T09:43:01.047Z",
+    "lastSeen": "2026-11-07T09:43:08.101Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794044317913,
@@ -141059,14 +141059,15 @@
   "6288215399103": {
     "jid": "6288215399103",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "energi": 99999,
     "name": "Prince Niv`x",
-    "lastSeen": "2026-11-07T09:42:47.667Z",
+    "lastSeen": "2026-11-07T09:43:10.403Z",
     "cooldowns": {
       "menu": 1794029713657,
       "menucat": 1794029735327,
-      "ganteng": 1794044504103
+      "ganteng": 1794044504103,
+      "kaya": 1794044591284
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
