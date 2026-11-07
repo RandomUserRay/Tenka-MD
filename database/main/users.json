@@ -93705,10 +93705,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99988,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12300,
+    "exp": 12330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:46:38.886Z",
+    "lastSeen": "2026-11-07T05:46:58.052Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93731,7 +93731,8 @@
       "bucin": 1794030235277,
       "janda": 1794030331068,
       "cekhodam": 1794030361184,
-      "cekpacar": 1794030399537
+      "cekpacar": 1794030399537,
+      "tembak": 1794030418286
     },
     "clanId": null,
     "isRegistered": false,
@@ -93750,7 +93751,8 @@
     "inventory": {},
     "access": [],
     "lastActiveDate": "7/11/2026",
-    "activeDays": 5
+    "activeDays": 5,
+    "fun": {}
   },
   "6285142868345": {
     "jid": "6285142868345",
