@@ -97285,10 +97285,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99996,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41003,
+    "exp": 41018,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97298,7 +97298,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:14:19.693Z",
+    "lastSeen": "2026-11-07T15:22:33.018Z",
     "cooldowns": {
       "afk": 1793790750144,
       "play": 1794055299430,
@@ -97341,7 +97341,8 @@
       "intro": 1793263787686,
       "qc": 1793505763965,
       "close": 1793516916274,
-      "open": 1793657233741
+      "open": 1793657233741,
+      "kill": 1794064958213
     },
     "clanId": null,
     "isRegistered": false,
@@ -125894,7 +125895,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 5715,
+    "exp": 5730,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-11-05T14:44:59.241Z",
@@ -129532,7 +129533,7 @@
   "60173850654": {
     "jid": "60173850654",
     "rpg": {},
-    "exp": 4080,
+    "exp": 4095,
     "energi": 999999,
     "name": "𝑟𝑖𝑙𝑙 | 𝒛𝒚𝒐",
     "lastSeen": "2026-11-07T15:22:22.826Z",
@@ -131330,7 +131331,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 2895,
+    "exp": 2910,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-04T13:40:43.819Z",
     "cooldowns": {
