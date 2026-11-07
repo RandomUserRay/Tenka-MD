@@ -125333,7 +125333,11 @@
     "energi": 99999,
     "name": "btk .",
     "lastSeen": "2026-11-07T18:11:48.591Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1794075116447
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6283155300508": {
     "jid": "6283155300508",
