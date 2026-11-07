@@ -93708,7 +93708,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13140,
+    "exp": 13155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T06:05:11.200Z",
+    "lastSeen": "2026-11-07T06:05:24.117Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93747,7 +93747,8 @@
       "sultan": 1794031428499,
       "ganteng": 1794031433885,
       "horny": 1794031459283,
-      "catur": 1794031501212
+      "catur": 1794031501212,
+      "dungeon": 1794031524456
     },
     "clanId": null,
     "isRegistered": false,
@@ -93761,7 +93762,12 @@
       "maxStamina": 105,
       "health": 110,
       "mana": 105,
-      "stamina": 105
+      "stamina": 105,
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1794031524139
+      }
     },
     "inventory": {},
     "access": [],
