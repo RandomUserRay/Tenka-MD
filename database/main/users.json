@@ -54457,7 +54457,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5790,
+    "exp": 5805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -138968,12 +138968,13 @@
   "6282192968472": {
     "jid": "6282192968472",
     "rpg": {},
-    "exp": 4860,
+    "exp": 4875,
     "energi": 999999,
     "name": "￶Anda",
-    "lastSeen": "2026-11-07T15:59:49.388Z",
+    "lastSeen": "2026-11-07T16:00:42.647Z",
     "cooldowns": {
-      "cekhoki": 1794067189613
+      "cekhoki": 1794067189613,
+      "cekfemboy": 1794067245917
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1
