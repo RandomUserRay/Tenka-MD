@@ -93708,7 +93708,7 @@
     "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12600,
+    "exp": 12630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93755,8 +93755,8 @@
     "lastActiveDate": "7/11/2026",
     "activeDays": 5,
     "fun": {
-      "tembakTarget": "6285147275767@s.whatsapp.net",
-      "tembakCount": 2
+      "tembakCount": 2,
+      "ditolakCount": 1
     }
   },
   "6285142868345": {
@@ -135232,7 +135232,7 @@
   "6282345651078": {
     "jid": "6282345651078",
     "rpg": {},
-    "exp": 8100,
+    "exp": 8130,
     "energi": 99999,
     "name": "nothing",
     "lastSeen": "2026-11-03T11:19:26.896Z",
@@ -140209,13 +140209,14 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 3075,
+    "exp": 3090,
     "energi": 99994,
     "name": "Laufey",
-    "lastSeen": "2026-11-07T04:46:44.843Z",
+    "lastSeen": "2026-11-07T05:52:07.990Z",
     "cooldowns": {
       "play": 1794023145711,
-      "femboy": 1794024323727
+      "femboy": 1794024323727,
+      "tolak": 1794030728436
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 1,
