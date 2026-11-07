@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1045167,
+    "exp": 1045182,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -126085,10 +126085,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18300,
+    "exp": 18330,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T09:58:44.447Z",
+    "lastSeen": "2026-11-07T10:08:53.865Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1794045527208,
@@ -140276,7 +140276,7 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 3465,
+    "exp": 3480,
     "energi": 99994,
     "name": "Laufey",
     "lastSeen": "2026-11-07T05:52:07.990Z",
@@ -141384,6 +141384,6 @@
   "6289668408070": {
     "jid": "6289668408070",
     "rpg": {},
-    "exp": 30
+    "exp": 60
   }
 }
