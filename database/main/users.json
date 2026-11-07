@@ -93705,10 +93705,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99986,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12585,
+    "exp": 12600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:50:30.184Z",
+    "lastSeen": "2026-11-07T05:51:45.808Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93732,7 +93732,7 @@
       "janda": 1794030331068,
       "cekhodam": 1794030361184,
       "cekpacar": 1794030399537,
-      "tembak": 1794030466299,
+      "tembak": 1794030706150,
       "dare": 1794030518581,
       "love": 1794030630352
     },
@@ -93755,8 +93755,8 @@
     "lastActiveDate": "7/11/2026",
     "activeDays": 5,
     "fun": {
-      "tembakTarget": "62895626834807@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakTarget": "6285147275767@s.whatsapp.net",
+      "tembakCount": 2
     }
   },
   "6285142868345": {
@@ -126042,7 +126042,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16365,
+    "exp": 16380,
     "energi": 99999,
     "name": "Es Pino hasil buntung",
     "lastSeen": "2026-11-07T05:51:40.252Z",
@@ -136455,10 +136455,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1530,
+    "exp": 1545,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-07T05:44:27.250Z",
+    "lastSeen": "2026-11-07T05:51:50.125Z",
     "cooldowns": {
       "menu": 1794029686495,
       "allmenu": 1793298911907,
@@ -136477,7 +136477,8 @@
       "asu": 1794030137196,
       "jelek": 1794030172612,
       "gila": 1794030215591,
-      "puki": 1794030267591
+      "puki": 1794030267591,
+      "anjing": 1794030710393
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 5
@@ -140217,7 +140218,8 @@
       "femboy": 1794024323727
     },
     "lastActiveDate": "7/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "fun": {}
   },
   "6285740119981": {
     "name": "zz",
