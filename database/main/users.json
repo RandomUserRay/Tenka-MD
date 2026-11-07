@@ -4509,7 +4509,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236720,
+    "exp": 236735,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -4518,12 +4518,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T06:30:55.398Z",
+    "lastSeen": "2026-11-07T07:14:57.272Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1783059978077,
       "wink": 1780907705515,
-      "femboy": 1793488495683,
+      "femboy": 1794035702306,
       "luck": 1782892514957,
       "profile": 1782894145671,
       "cektsundere": 1785417747008,
@@ -4563,8 +4563,8 @@
     "access": [],
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 14
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 15
   },
   "6287860834638": {
     "jid": "6287860834638",
@@ -121769,16 +121769,17 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 1725,
+    "exp": 1740,
     "energi": 99997,
     "cooldowns": {
       "afk": 1793376379983,
-      "femboys": 1794035612630
+      "femboys": 1794035612630,
+      "femboy": 1794035694364
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 2,
     "name": "MINSXII★¹⁸⁶¹🇮🇹⚖️",
-    "lastSeen": "2026-11-07T07:13:21.682Z"
+    "lastSeen": "2026-11-07T07:14:48.166Z"
   },
   "62882006652000": {
     "jid": "62882006652000",
@@ -126064,7 +126065,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17415,
+    "exp": 17430,
     "energi": 99998,
     "name": "Es Pino hasil buntung",
     "lastSeen": "2026-11-07T07:13:35.870Z",
@@ -141225,7 +141226,7 @@
   "6287739810359": {
     "jid": "6287739810359",
     "rpg": {},
-    "exp": 255,
+    "exp": 285,
     "name": "Zentenel Bot 𖣐",
     "lastSeen": "2026-11-07T07:14:37.732Z",
     "cooldowns": {
