@@ -93708,7 +93708,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12105,
+    "exp": 12120,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:42:08.765Z",
+    "lastSeen": "2026-11-07T05:42:21.588Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -131230,7 +131230,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 2385,
+    "exp": 2400,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-04T13:40:43.819Z",
     "cooldowns": {
@@ -136440,10 +136440,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1425,
+    "exp": 1440,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-07T05:42:08.481Z",
+    "lastSeen": "2026-11-07T05:42:16.698Z",
     "cooldowns": {
       "menu": 1794029686495,
       "allmenu": 1793298911907,
@@ -136458,7 +136458,8 @@
       "bodoh": 1794029761764,
       "pantek": 1794029787960,
       "catur": 1794029894615,
-      "tekateki": 1794029996009
+      "tekateki": 1794029996009,
+      "asu": 1794030137196
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 5
