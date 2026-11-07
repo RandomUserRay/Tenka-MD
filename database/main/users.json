@@ -93708,7 +93708,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12135,
+    "exp": 12165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,14 +93718,16 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:42:21.588Z",
+    "lastSeen": "2026-11-07T05:43:12.686Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
       "afk": 1793664772465,
       "sticker": 1793671130053,
       "menu": 1794030046480,
-      "menucat": 1794030129164
+      "menucat": 1794030129164,
+      "tolol": 1794030180007,
+      "gay": 1794030192941
     },
     "clanId": null,
     "isRegistered": false,
@@ -136440,10 +136442,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1455,
+    "exp": 1470,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-07T05:42:52.240Z",
+    "lastSeen": "2026-11-07T05:43:07.983Z",
     "cooldowns": {
       "menu": 1794029686495,
       "allmenu": 1793298911907,
@@ -136460,7 +136462,8 @@
       "catur": 1794029894615,
       "tekateki": 1794029996009,
       "asu": 1794030137196,
-      "jelek": 1794030172612
+      "jelek": 1794030172612,
+      "gila": 1794030188315
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 5
