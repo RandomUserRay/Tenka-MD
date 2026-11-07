@@ -93717,7 +93717,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16590,
+    "exp": 16605,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -141789,6 +141789,13 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 420
+    "exp": 435,
+    "name": "poci kamochi",
+    "lastSeen": "2026-11-07T21:20:51.542Z",
+    "cooldowns": {
+      "femboy": 1794086456385
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   }
 }
