@@ -13384,7 +13384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9390,
+    "exp": 9405,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93714,10 +93714,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16935,
+    "exp": 16950,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93727,7 +93727,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T21:25:47.884Z",
+    "lastSeen": "2026-11-07T21:27:33.460Z",
     "cooldowns": {
       "play": 1794065899717,
       "femboy": 1794086303126,
@@ -93741,7 +93741,7 @@
       "janda": 1794030331068,
       "cekhodam": 1794030361184,
       "cekpacar": 1794064848264,
-      "tembak": 1794064802323,
+      "tembak": 1794086854366,
       "dare": 1794030518581,
       "love": 1794086123131,
       "cekfemboy": 1794030806812,
@@ -93805,9 +93805,9 @@
     "lastActiveDate": "8/11/2026",
     "activeDays": 6,
     "fun": {
-      "tembakCount": 8,
+      "tembakCount": 9,
       "ditolakCount": 1,
-      "tembakTarget": "6282131343280@s.whatsapp.net"
+      "tembakTarget": "6289682359923@s.whatsapp.net"
     }
   },
   "6285142868345": {
@@ -141798,6 +141798,7 @@
       "menu": 1794086776463
     },
     "lastActiveDate": "8/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "fun": {}
   }
 }
