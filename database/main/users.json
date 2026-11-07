@@ -93708,7 +93708,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12090,
+    "exp": 12105,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,13 +93718,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:41:38.291Z",
+    "lastSeen": "2026-11-07T05:42:08.765Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
       "afk": 1793664772465,
       "sticker": 1793671130053,
-      "menu": 1794030046480
+      "menu": 1794030046480,
+      "menucat": 1794030129164
     },
     "clanId": null,
     "isRegistered": false,
@@ -136439,10 +136440,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-07T05:39:55.695Z",
+    "lastSeen": "2026-11-07T05:42:08.481Z",
     "cooldowns": {
       "menu": 1794029686495,
       "allmenu": 1793298911907,
