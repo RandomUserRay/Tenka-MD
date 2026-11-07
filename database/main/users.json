@@ -13384,7 +13384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9330,
+    "exp": 9345,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1044927,
+    "exp": 1044957,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -140551,7 +140551,7 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 2250,
+    "exp": 2265,
     "energi": 999999,
     "name": "Finzz",
     "lastSeen": "2026-11-07T07:35:22.571Z",
@@ -141302,5 +141302,10 @@
     "jid": "6281371332181",
     "rpg": {},
     "exp": 60
+  },
+  "62882020574421": {
+    "jid": "62882020574421",
+    "rpg": {},
+    "exp": 15
   }
 }
