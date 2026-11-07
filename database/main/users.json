@@ -4509,7 +4509,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 236795,
+    "exp": 236810,
     "level": 1,
     "koin": 20020000,
     "unlockedFeatures": [],
@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1043727,
+    "exp": 1043742,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -137626,7 +137626,7 @@
   "62895351052890": {
     "jid": "62895351052890",
     "rpg": {},
-    "exp": 9090,
+    "exp": 9120,
     "name": "dfj",
     "lastSeen": "2026-11-07T07:12:23.617Z",
     "cooldowns": {
@@ -140253,7 +140253,7 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 3330,
+    "exp": 3345,
     "energi": 99994,
     "name": "Laufey",
     "lastSeen": "2026-11-07T05:52:07.990Z",
@@ -141263,13 +141263,24 @@
   "6287735377673": {
     "jid": "6287735377673",
     "rpg": {},
-    "exp": 45,
+    "exp": 300090,
     "name": "Kaela",
     "lastSeen": "2026-11-07T07:28:23.482Z",
     "cooldowns": {
       "daftar": 1794036506050
     },
     "lastActiveDate": "7/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "isRegistered": true,
+    "regName": "Kaela",
+    "regAge": 20,
+    "regGender": "Laki-laki",
+    "registeredAt": "2026-11-07T07:29:01.318Z",
+    "lastRegisteredAt": "2026-11-07T07:29:01.318Z",
+    "registrationCount": 1,
+    "hasClaimedRegisterReward": true,
+    "unregisteredAt": null,
+    "koin": 30000,
+    "energi": 325
   }
 }
