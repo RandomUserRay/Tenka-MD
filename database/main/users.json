@@ -93710,7 +93710,7 @@
     "energi": 99974,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14505,
+    "exp": 14520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93720,7 +93720,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T12:06:58.587Z",
+    "lastSeen": "2026-11-07T12:07:22.698Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794044317913,
@@ -93736,7 +93736,7 @@
       "cekpacar": 1794030399537,
       "tembak": 1794053157123,
       "dare": 1794030518581,
-      "love": 1794053219271,
+      "love": 1794053243026,
       "cekfemboy": 1794030806812,
       "mimpi": 1794030891562,
       "yatim": 1794044808950,
@@ -93793,7 +93793,8 @@
     "fun": {
       "tembakCount": 7,
       "ditolakCount": 1,
-      "tembakTarget": "6285942842803@s.whatsapp.net"
+      "tembakTarget": "6285942842803@s.whatsapp.net",
+      "pasangan": "6285942842803@s.whatsapp.net"
     }
   },
   "6285142868345": {
@@ -126085,10 +126086,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19485,
-    "energi": 99998,
+    "exp": 19530,
+    "energi": 99997,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T12:06:40.618Z",
+    "lastSeen": "2026-11-07T12:07:27.768Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1794051091778,
@@ -126100,11 +126101,14 @@
       "terima": 1794030869325,
       "mimpi": 1794030915328,
       "me": 1794034497347,
-      "tolak": 1794053172484
+      "tolak": 1794053172484,
+      "tembak": 1794053248468
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 8,
-    "fun": {},
+    "fun": {
+      "pasangan": "6285814847562@s.whatsapp.net"
+    },
     "registeredAt": 1794034496015
   },
   "6282274381730": {
@@ -141173,7 +141177,7 @@
   "60105433486": {
     "jid": "60105433486",
     "rpg": {},
-    "exp": 555
+    "exp": 570
   },
   "6285718116077": {
     "jid": "6285718116077",
