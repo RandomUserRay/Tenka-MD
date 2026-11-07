@@ -93705,10 +93705,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99990,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12165,
+    "exp": 12180,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93718,7 +93718,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T05:43:12.686Z",
+    "lastSeen": "2026-11-07T05:43:27.811Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -136442,10 +136442,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1500,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-07T05:43:07.983Z",
+    "lastSeen": "2026-11-07T05:43:35.293Z",
     "cooldowns": {
       "menu": 1794029686495,
       "allmenu": 1793298911907,
@@ -136463,7 +136463,7 @@
       "tekateki": 1794029996009,
       "asu": 1794030137196,
       "jelek": 1794030172612,
-      "gila": 1794030188315
+      "gila": 1794030215591
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 5
