@@ -67800,10 +67800,10 @@
     "jid": "6283135864303",
     "name": "killer Queen",
     "number": "6283135864303",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179211,
+    "exp": 179226,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67818,10 +67818,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T15:07:23.376Z",
+    "lastSeen": "2026-11-07T15:26:09.729Z",
     "cooldowns": {
       "afk": 1794064046561,
-      "s": 1794063614857,
+      "s": 1794065170907,
       "play": 1793880141829,
       "inv": 1786434391177,
       "profil": 1787746507275,
@@ -122639,10 +122639,10 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 8850,
+    "exp": 8865,
     "energi": 99998,
     "name": "Noah",
-    "lastSeen": "2026-11-07T10:50:08.213Z",
+    "lastSeen": "2026-11-07T15:26:02.017Z",
     "cooldowns": {
       "femboy": 1793515700699,
       "s": 1793532751448,
@@ -122654,7 +122654,8 @@
       "top": 1793515449578,
       "cekimut": 1793515520522,
       "mutegc": 1793721193619,
-      "open": 1793747198407
+      "open": 1793747198407,
+      "cektsundere": 1794065168684
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 7,
@@ -138989,7 +138990,7 @@
   "6282131321591": {
     "jid": "6282131321591",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "energi": 99999
   },
   "6281533875869": {
