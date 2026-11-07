@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1049442,
+    "exp": 1049472,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35902,7 +35902,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T16:34:28.420Z",
+    "lastSeen": "2026-11-07T16:34:50.497Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35975,7 +35975,7 @@
       "tebaktebakan": 1791362855531,
       "warn": 1794066710357,
       "ceklevel": 1783827040516,
-      "open": 1794001306093,
+      "open": 1794069291565,
       "buildml": 1783779937186,
       "tebaklirik": 1783780020469,
       "bratvid": 1793792547967,
@@ -36134,7 +36134,8 @@
       "antisticker": 1794069075945,
       "tam": 1794069110191,
       "totag": 1794069170214,
-      "notifclosegroup": 1794069260190
+      "notifclosegroup": 1794069260190,
+      "notifopengroup": 1794069286714
     },
     "clanId": null,
     "isRegistered": false,
