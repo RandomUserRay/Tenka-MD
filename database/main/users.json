@@ -93709,7 +93709,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13335,
+    "exp": 13350,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93719,7 +93719,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T06:25:05.027Z",
+    "lastSeen": "2026-11-07T06:25:19.319Z",
     "cooldowns": {
       "play": 1794026397609,
       "femboy": 1794024298784,
@@ -93750,7 +93750,8 @@
       "horny": 1794031459283,
       "catur": 1794031501212,
       "dungeon": 1794031524456,
-      "claninfo": 1794032705250
+      "claninfo": 1794032705250,
+      "clanleaderboard": 1794032719596
     },
     "clanId": null,
     "isRegistered": false,
@@ -141140,7 +141141,7 @@
   "6285823436453": {
     "jid": "6285823436453",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6288242465903": {
     "jid": "6288242465903",
