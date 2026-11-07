@@ -97282,10 +97282,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 40703,
+    "exp": 40718,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97295,12 +97295,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T14:32:27.564Z",
+    "lastSeen": "2026-11-07T12:34:16.459Z",
     "cooldowns": {
       "afk": 1793790750144,
       "play": 1793920468206,
       "smeme": 1793975409384,
-      "s": 1793975548692,
+      "s": 1794054858459,
       "menu": 1791020902791,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -97357,8 +97357,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 41
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 42
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -125880,7 +125880,7 @@
       "spouse": "6283867242353@s.whatsapp.net",
       "marriedAt": 1790240349017
     },
-    "exp": 5520,
+    "exp": 5535,
     "energi": 99999,
     "name": "yeas",
     "lastSeen": "2026-11-05T14:44:59.241Z",
