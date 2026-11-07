@@ -93710,7 +93710,7 @@
     "energi": 99973,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14775,
+    "exp": 14790,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93794,8 +93794,7 @@
     "fun": {
       "tembakCount": 7,
       "ditolakCount": 1,
-      "tembakTarget": "6285942842803@s.whatsapp.net",
-      "pasangan": "6285942842803@s.whatsapp.net"
+      "tembakTarget": "6285942842803@s.whatsapp.net"
     }
   },
   "6285142868345": {
@@ -107056,7 +107055,8 @@
       "fakeff": 1790594100378,
       "bratvid": 1790599561871,
       "bratvid2": 1791727222701,
-      "tt": 1793790137666
+      "tt": 1793790137666,
+      "me": 1794053619474
     },
     "clanId": null,
     "isRegistered": false,
@@ -107066,8 +107066,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 13
+    "lastActiveDate": "7/11/2026",
+    "activeDays": 14
   },
   "6283829647574": {
     "jid": "6283829647574",
@@ -126087,10 +126087,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 19755,
-    "energi": 99996,
+    "exp": 19785,
+    "energi": 99995,
     "name": "Es Pino hasil buntung",
-    "lastSeen": "2026-11-07T12:13:20.589Z",
+    "lastSeen": "2026-11-07T12:13:54.098Z",
     "cooldowns": {
       "femboy": 1793670722589,
       "afk": 1794051091778,
@@ -126103,13 +126103,15 @@
       "mimpi": 1794030915328,
       "me": 1794034497347,
       "tolak": 1794053267414,
-      "tembak": 1794053591506,
-      "rate": 1794053496752
+      "tembak": 1794053634683,
+      "rate": 1794053496752,
+      "putus": 1794053621418
     },
     "lastActiveDate": "7/11/2026",
     "activeDays": 8,
     "fun": {
-      "pasangan": "6285814847562@s.whatsapp.net"
+      "tembakTarget": "62895351052890@s.whatsapp.net",
+      "tembakCount": 1
     },
     "registeredAt": 1794034496015
   },
@@ -126988,10 +126990,10 @@
   },
   "62895348807500": {
     "name": "ziyann?",
-    "lastSeen": "2026-11-07T12:13:02.190Z",
+    "lastSeen": "2026-11-07T12:13:56.545Z",
     "jid": "62895348807500",
     "rpg": {},
-    "exp": 3045,
+    "exp": 3075,
     "cooldowns": {
       "iqc": 1790681486930,
       "brat": 1790686850312,
@@ -127023,7 +127025,7 @@
       "tt": 1794053584268,
       "s": 1791297266416
     },
-    "energi": 99997,
+    "energi": 99995,
     "lastActiveDate": "7/11/2026",
     "activeDays": 18
   },
@@ -130294,7 +130296,7 @@
       "mana": 135,
       "stamina": 135
     },
-    "exp": 79317,
+    "exp": 79332,
     "energi": 99996,
     "koin": 38094,
     "name": "botakgokss",
@@ -131876,7 +131878,7 @@
   "6285785435035": {
     "jid": "6285785435035",
     "rpg": {},
-    "exp": 600,
+    "exp": 615,
     "energi": 99999
   },
   "6285708794062": {
@@ -138275,7 +138277,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 4575,
+    "exp": 4590,
     "energi": 99999,
     "name": "ikzir",
     "lastSeen": "2026-11-05T14:53:33.234Z",
