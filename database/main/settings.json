@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1794102961947
+    },
+    {
+      "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
       "at": 1794053303151
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1790220423062
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1790220225613
     }
   ],
   "jpmBlacklist": [],
