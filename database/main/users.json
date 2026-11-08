@@ -1604,7 +1604,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 329156,
+    "exp": 329171,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T04:44:49.778Z",
+    "lastSeen": "2026-11-08T04:45:03.147Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1728,7 +1728,8 @@
       "slap": 1793882006093,
       "punch": 1793882083421,
       "h": 1794015787502,
-      "ht": 1794015741128
+      "ht": 1794015741128,
+      "sendbug": 1794113103254
     },
     "clanId": null,
     "isRegistered": false,
