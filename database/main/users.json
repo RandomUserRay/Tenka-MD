@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 700884,
+    "exp": 700959,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -54484,7 +54484,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6615,
+    "exp": 6660,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54493,9 +54493,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T15:30:14.312Z",
+    "lastSeen": "2026-11-08T15:31:13.839Z",
     "cooldowns": {
-      "demote": 1794151815572
+      "demote": 1794151868859,
+      "kick": 1794151875182
     },
     "clanId": null,
     "isRegistered": false,
@@ -126226,10 +126227,10 @@
       "mana": 170,
       "stamina": 170
     },
-    "exp": 142803,
+    "exp": 142833,
     "energi": 100279,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:30:41.347Z",
+    "lastSeen": "2026-11-08T15:31:12.640Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126250,7 +126251,7 @@
       "trap": 1794119537242,
       "femboys": 1794119599335,
       "tentacles": 1794119611020,
-      "quiz": 1794151731360,
+      "quiz": 1794151876254,
       "claninvite": 1794151828523,
       "bratbahlil": 1794129095859,
       "slap": 1794129166478,
@@ -135424,7 +135425,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22260,
+    "exp": 22275,
     "energi": 100006,
     "name": "SSA",
     "lastSeen": "2026-11-08T14:11:32.972Z",
