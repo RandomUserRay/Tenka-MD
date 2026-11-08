@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-08T07:07:03.480Z",
+    "lastSeen": "2026-11-08T07:08:34.073Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000215334,
+    "exp": 9000215409,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -93727,7 +93727,7 @@
     "energi": 100151,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91977,
+    "exp": 91992,
     "level": 1,
     "koin": 45338,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:08:10.371Z",
+    "lastSeen": "2026-11-08T07:08:37.189Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93822,7 +93822,8 @@
       "caklontong": 1794118163923,
       "asupan": 1794118376682,
       "cuntboy": 1794119498990,
-      "me": 1794121582270
+      "me": 1794121582270,
+      "bank": 1794121718216
     },
     "clanId": null,
     "isRegistered": false,
@@ -93837,7 +93838,8 @@
       "health": 190,
       "mana": 145,
       "stamina": 145,
-      "attack": 10
+      "attack": 10,
+      "bank": 0
     },
     "inventory": {
       "potion": 3,
@@ -121849,8 +121851,8 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 2850,
-    "energi": 99997,
+    "exp": 2865,
+    "energi": 99995,
     "cooldowns": {
       "afk": 1794050759007,
       "femboys": 1794116226955,
@@ -121861,7 +121863,7 @@
     "lastActiveDate": "8/11/2026",
     "activeDays": 3,
     "name": "MINSXII★¹⁸⁶¹🇮🇹⚖️",
-    "lastSeen": "2026-11-08T05:38:35.765Z"
+    "lastSeen": "2026-11-08T07:08:33.074Z"
   },
   "62882006652000": {
     "jid": "62882006652000",
@@ -135786,7 +135788,7 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 5340,
+    "exp": 5355,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
     "lastSeen": "2026-11-08T07:07:32.176Z",
     "energi": 99991,
