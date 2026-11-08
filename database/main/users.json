@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1055802,
+    "exp": 1055832,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -87510,7 +87510,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2805,
+    "exp": 2835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87540,8 +87540,10 @@
     "lastActiveDate": "8/11/2026",
     "activeDays": 3,
     "fun": {
-      "tembakTarget": "6285876361300@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakCount": 1,
+      "pasangan": "6285876361300@s.whatsapp.net",
+      "jadiPacar": 1794129253423,
+      "terimaCount": 1
     }
   },
   "6285792126411": {
@@ -126208,10 +126210,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 38820,
-    "energi": 100035,
+    "exp": 38835,
+    "energi": 100034,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T09:13:22.265Z",
+    "lastSeen": "2026-11-08T09:14:02.911Z",
     "cooldowns": {
       "femboy": 1794109531568,
       "afk": 1794128113738,
@@ -126236,7 +126238,8 @@
       "claninvite": 1794125306862,
       "bratbahlil": 1794129095859,
       "slap": 1794129166478,
-      "sniff": 1794129208051
+      "sniff": 1794129208051,
+      "headbutt": 1794129246441
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
@@ -129651,7 +129654,7 @@
   "60173850654": {
     "jid": "60173850654",
     "rpg": {},
-    "exp": 4950,
+    "exp": 4965,
     "energi": 999999,
     "name": "𝑟𝑖𝑙𝑙 | 𝒛𝒚𝒐",
     "lastSeen": "2026-11-08T09:13:29.396Z",
@@ -139848,7 +139851,7 @@
   "62895703161397": {
     "jid": "62895703161397",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1680,
     "energi": 999999,
     "name": "⏤͟͟͞͞✰sᴇᴘғɪᴀɴ⚡︎",
     "lastSeen": "2026-11-08T00:07:30.321Z",
@@ -142188,7 +142191,7 @@
   "6289514394509": {
     "jid": "6289514394509",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6281521663962": {
     "jid": "6281521663962",
@@ -142515,7 +142518,11 @@
     "name": "uy",
     "lastSeen": "2026-11-08T09:13:58.759Z",
     "energi": 999997,
-    "cooldowns": {}
+    "cooldowns": {
+      "pin": 1794129254573
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6282372567244": {
     "jid": "6282372567244",
@@ -142530,13 +142537,16 @@
   "6285876361300": {
     "jid": "6285876361300",
     "rpg": {},
-    "exp": 75,
-    "fun": {},
+    "exp": 90,
+    "fun": {
+      "pasangan": "6289671886267@s.whatsapp.net",
+      "jadiPacar": 1794129253423
+    },
     "name": "萧NoLiars/Liamスキ🤓☝️",
-    "lastSeen": "2026-11-08T09:13:51.733Z",
+    "lastSeen": "2026-11-08T09:14:13.421Z",
     "energi": 999999,
     "cooldowns": {
-      "terima": 1794129232034
+      "terima": 1794129254392
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 1
