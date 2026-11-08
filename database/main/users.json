@@ -93724,10 +93724,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 100450,
+    "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392247,
+    "exp": 392262,
     "level": 1,
     "koin": 75338,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:14:28.371Z",
+    "lastSeen": "2026-11-08T07:14:53.534Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93826,7 +93826,8 @@
       "bank": 1794121718216,
       "p": 1794121740849,
       "daftar": 1794121772622,
-      "hug": 1794122074006
+      "hug": 1794122074006,
+      "punch": 1794122098266
     },
     "clanId": null,
     "isRegistered": true,
@@ -121854,7 +121855,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 303135,
+    "exp": 303180,
     "energi": 100292,
     "cooldowns": {
       "afk": 1794050759007,
