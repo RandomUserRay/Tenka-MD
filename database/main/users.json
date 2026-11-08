@@ -87509,10 +87509,10 @@
     "jid": "6289671886267",
     "name": "Lintar Tempest",
     "number": "6289671886267",
-    "energi": 999998,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3180,
+    "exp": 3195,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87522,7 +87522,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T09:21:39.748Z",
+    "lastSeen": "2026-11-08T09:27:41.635Z",
     "cooldowns": {
       "menu": 1793799196728,
       "kiss": 1793841990016,
@@ -87531,7 +87531,8 @@
       "s": 1793842016665,
       "tembak": 1794129130107,
       "del": 1794129387195,
-      "smeme": 1794129718300
+      "smeme": 1794129718300,
+      "warn": 1794130062085
     },
     "clanId": null,
     "isRegistered": false,
