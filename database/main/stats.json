@@ -1,6 +1,6 @@
 {
   "commandErrors": 692,
-  "commandsExecuted": 143101,
+  "commandsExecuted": 143103,
   "command_totalchat": 28,
   "command_menu": 2617,
   "command_fb": 16,
@@ -1487,5 +1487,6 @@
   "command_sniff": 1,
   "command_nibble": 1,
   "command_rub": 1,
-  "command_selfmode": 2
+  "command_selfmode": 2,
+  "command_culik": 2
 }
