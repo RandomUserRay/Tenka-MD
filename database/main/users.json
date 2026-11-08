@@ -93724,10 +93724,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99969,
+    "energi": 99967,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18720,
+    "exp": 18735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:39:51.576Z",
+    "lastSeen": "2026-11-08T05:40:06.031Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -137411,15 +137411,16 @@
   "6281586114613": {
     "jid": "6281586114613",
     "rpg": {},
-    "exp": 4215,
-    "energi": 99994,
+    "exp": 4230,
+    "energi": 99992,
     "name": "𝐀𝐂𝐘𝐘⸸",
-    "lastSeen": "2026-11-08T05:38:56.595Z",
+    "lastSeen": "2026-11-08T05:40:02.433Z",
     "cooldowns": {
       "femboy": 1794116090566,
       "trap": 1794116011680,
       "tsundere": 1794116207542,
-      "tiktokstalk": 1794116337085
+      "tiktokstalk": 1794116337085,
+      "wastalk": 1794116404827
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 3
