@@ -140581,8 +140581,8 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 34638,
-    "energi": 100068,
+    "exp": 334653,
+    "energi": 100368,
     "name": "Laufey",
     "lastSeen": "2026-11-08T08:19:12.151Z",
     "cooldowns": {
@@ -140603,8 +140603,16 @@
     "activeDays": 2,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 17003,
-    "clanId": "FEM"
+    "koin": 47003,
+    "clanId": "FEM",
+    "isRegistered": true,
+    "regName": "Laufey",
+    "regAge": 14,
+    "regGender": "Laki-laki",
+    "lastRegisteredAt": "2026-11-08T08:20:03.595Z",
+    "registrationCount": 1,
+    "hasClaimedRegisterReward": true,
+    "unregisteredAt": null
   },
   "6285740119981": {
     "name": "zz",
