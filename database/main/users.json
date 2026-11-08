@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725621,
+    "exp": 725636,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -126170,8 +126170,8 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22920,
-    "energi": 99990,
+    "exp": 25329,
+    "energi": 99995,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T06:38:54.602Z",
     "cooldowns": {
@@ -126202,7 +126202,8 @@
       "tembakTarget": "62895351052890@s.whatsapp.net",
       "tembakCount": 1
     },
-    "registeredAt": 1794034496015
+    "registeredAt": 1794034496015,
+    "koin": 1547
   },
   "6282274381730": {
     "jid": "6282274381730",
