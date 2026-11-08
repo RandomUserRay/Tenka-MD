@@ -102582,7 +102582,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1260,
+    "exp": 1290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -102592,13 +102592,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T01:47:54.985Z",
+    "lastSeen": "2026-11-08T01:48:16.050Z",
     "cooldowns": {
       "s": 1789445409212,
       "play": 1789876214928,
       "cekcantik": 1790215476121,
       "cekganteng": 1790215449465,
-      "femboy": 1790415584660,
+      "femboy": 1794102501874,
       "cekfemboy": 1790415570855,
       "jadibot": 1790388845077
     },
@@ -102610,8 +102610,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/9/2026",
-    "activeDays": 7
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 8
   },
   "628984757583": {
     "jid": "628984757583",
@@ -141534,7 +141534,7 @@
   "62895351372749": {
     "jid": "62895351372749",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "energi": 99999
   },
   "6289675406877": {
