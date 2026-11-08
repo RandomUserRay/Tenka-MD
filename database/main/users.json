@@ -4257,10 +4257,10 @@
     "jid": "62881027137463",
     "name": "jehh",
     "number": "62881027137463",
-    "energi": 99995,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15550,
+    "exp": 15565,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -4269,7 +4269,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T12:14:31.464Z",
+    "lastSeen": "2026-11-08T12:21:19.683Z",
     "cooldowns": {
       "add": 1780188185320,
       "afk": 1794137699832,
@@ -4296,7 +4296,7 @@
       "bank": 1780227617742,
       "sleep": 1780223415893,
       "ping": 1780222856584,
-      "s": 1780226086018,
+      "s": 1794140482366,
       "hd": 1780226104346,
       "heal": 1780226793241,
       "gacha": 1780227635446,
@@ -93749,7 +93749,7 @@
     "energi": 100445,
     "isPremium": false,
     "isBanned": false,
-    "exp": 393627,
+    "exp": 393657,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93759,7 +93759,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T12:20:45.632Z",
+    "lastSeen": "2026-11-08T12:21:22.796Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -135856,9 +135856,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 5475,
+    "exp": 5490,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
-    "lastSeen": "2026-11-08T07:09:09.145Z",
+    "lastSeen": "2026-11-08T12:21:19.976Z",
     "energi": 99991,
     "cooldowns": {
       "femboy": 1793710249464,
@@ -135870,7 +135870,8 @@
       "profile": 1794121572517,
       "me": 1794121593741,
       "bank": 1794121652663,
-      "p": 1794121751951
+      "p": 1794121751951,
+      "quiz": 1794140481947
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 7,
@@ -142483,7 +142484,7 @@
   "6289681909093": {
     "jid": "6289681909093",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "name": "fix C.C.",
     "lastSeen": "2026-11-08T05:45:28.473Z",
     "cooldowns": {
