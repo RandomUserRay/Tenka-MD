@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392952,
+    "exp": 392967,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93745,7 +93745,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:27:25.816Z",
+    "lastSeen": "2026-11-08T07:28:19.716Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93836,7 +93836,7 @@
       "daftar": 1794121772622,
       "hug": 1794122074006,
       "punch": 1794122098266,
-      "claninvite": 1794122847179
+      "claninvite": 1794122900767
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -126235,7 +126235,8 @@
       "tembakCount": 1
     },
     "registeredAt": 1794034496015,
-    "koin": 4997
+    "koin": 4997,
+    "clanId": "FEM"
   },
   "6282274381730": {
     "jid": "6282274381730",
@@ -140554,7 +140555,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 34248,
+    "exp": 34263,
     "energi": 100068,
     "name": "Laufey",
     "lastSeen": "2026-11-08T07:19:59.882Z",
@@ -142401,7 +142402,7 @@
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 540
+    "exp": 555
   },
   "6282372567244": {
     "jid": "6282372567244",
