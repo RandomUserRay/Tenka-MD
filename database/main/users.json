@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1056687,
+    "exp": 1056702,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35912,7 +35912,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T09:31:32.137Z",
+    "lastSeen": "2026-11-08T09:31:49.303Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36148,7 +36148,8 @@
       "notifopengroup": 1794069286714,
       "cc": 1794106169914,
       "nikah": 1794129260197,
-      "listwarn": 1794129420393
+      "listwarn": 1794129420393,
+      "resetwarn": 1794130309616
     },
     "clanId": null,
     "isRegistered": false,
