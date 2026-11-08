@@ -93727,9 +93727,9 @@
     "energi": 99960,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25565,
+    "exp": 25783,
     "level": 1,
-    "koin": 3515,
+    "koin": 3760,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -93835,22 +93835,12 @@
       "health": 85,
       "mana": 105,
       "stamina": 45,
-      "attack": 10,
-      "dungeon_session": {
-        "stage": "encounter",
-        "dungeonId": 1,
-        "dungeonName": "🌲 Hutan Gelap",
-        "levelReq": 1,
-        "monster": "Goblin Liar",
-        "monsterPower": 34,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1794119415759
-      }
+      "attack": 10
     },
     "inventory": {
-      "potion": 3
+      "potion": 3,
+      "iron": 2,
+      "leather": 2
     },
     "access": [],
     "lastActiveDate": "8/11/2026",
@@ -126179,17 +126169,17 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22725,
+    "exp": 22740,
     "energi": 99996,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T05:48:06.728Z",
+    "lastSeen": "2026-11-08T06:30:38.629Z",
     "cooldowns": {
       "femboy": 1794109531568,
       "afk": 1794116890434,
       "play": 1793980213310,
       "s": 1793676615275,
       "level": 1793704008915,
-      "menu": 1794053509721,
+      "menu": 1794119440934,
       "love": 1794053201001,
       "terima": 1794030869325,
       "mimpi": 1794030915328,
