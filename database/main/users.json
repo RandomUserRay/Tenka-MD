@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1056012,
+    "exp": 1056027,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35912,7 +35912,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T09:16:26.230Z",
+    "lastSeen": "2026-11-08T09:16:59.986Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36147,7 +36147,8 @@
       "notifclosegroup": 1794069260190,
       "notifopengroup": 1794069286714,
       "cc": 1794106169914,
-      "nikah": 1794129260197
+      "nikah": 1794129260197,
+      "listwarn": 1794129420393
     },
     "clanId": null,
     "isRegistered": false,
@@ -126212,10 +126213,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 38910,
-    "energi": 100031,
+    "exp": 38925,
+    "energi": 100030,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T09:16:19.730Z",
+    "lastSeen": "2026-11-08T09:17:07.615Z",
     "cooldowns": {
       "femboy": 1794109531568,
       "afk": 1794128113738,
@@ -126244,7 +126245,8 @@
       "headbutt": 1794129246441,
       "fistbump": 1794129324235,
       "lick": 1794129360794,
-      "pat": 1794129384364
+      "pat": 1794129384364,
+      "nibble": 1794129431303
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
