@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 700434,
+    "exp": 700509,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -126222,8 +126222,8 @@
       "mana": 165,
       "stamina": 165
     },
-    "exp": 132269,
-    "energi": 100257,
+    "exp": 134576,
+    "energi": 100265,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T15:27:47.170Z",
     "cooldowns": {
@@ -126280,7 +126280,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 20893,
+    "koin": 21544,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -135419,7 +135419,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22170,
+    "exp": 22185,
     "energi": 100006,
     "name": "SSA",
     "lastSeen": "2026-11-08T14:11:32.972Z",
@@ -142706,6 +142706,6 @@
   "6282229411467": {
     "jid": "6282229411467",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   }
 }
