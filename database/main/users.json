@@ -4260,7 +4260,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15565,
+    "exp": 15580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93749,7 +93749,7 @@
     "energi": 100450,
     "isPremium": false,
     "isBanned": false,
-    "exp": 396156,
+    "exp": 396171,
     "level": 1,
     "koin": 37319,
     "saldo": 0,
@@ -101636,10 +101636,10 @@
     "jid": "6285821380504",
     "name": "Sthaviron",
     "number": "6285821380504",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4860,
+    "exp": 4875,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101649,9 +101649,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-07T10:17:25.121Z",
+    "lastSeen": "2026-11-08T12:21:43.941Z",
     "cooldowns": {
-      "s": 1788073358266,
+      "s": 1794140505537,
       "cekfemboy": 1790684839602,
       "smeme": 1788073449360,
       "cekganteng": 1790684858975,
@@ -101674,8 +101674,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "7/11/2026",
-    "activeDays": 6
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 7
   },
   "6282229557378": {
     "jid": "6282229557378",
@@ -135856,9 +135856,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 5520,
+    "exp": 5535,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
-    "lastSeen": "2026-11-08T12:21:19.976Z",
+    "lastSeen": "2026-11-08T12:21:51.329Z",
     "energi": 99991,
     "cooldowns": {
       "femboy": 1793710249464,
@@ -135871,7 +135871,7 @@
       "me": 1794121593741,
       "bank": 1794121652663,
       "p": 1794121751951,
-      "quiz": 1794140481947
+      "quiz": 1794140512385
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 7,
@@ -140647,7 +140647,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 336371,
+    "exp": 336386,
     "energi": 100370,
     "name": "Laufey",
     "lastSeen": "2026-11-08T10:15:48.713Z",
