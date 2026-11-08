@@ -93727,7 +93727,7 @@
     "energi": 99962,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18900,
+    "exp": 18915,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -141912,7 +141912,7 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 900,
+    "exp": 915,
     "name": "poci kamochi",
     "lastSeen": "2026-11-08T05:43:50.192Z",
     "cooldowns": {
@@ -142255,7 +142255,11 @@
     "exp": 120,
     "name": "fix C.C.",
     "lastSeen": "2026-11-08T05:44:54.152Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1794116701140
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6283898885391": {
     "jid": "6283898885391",
