@@ -126214,16 +126214,16 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {
-      "level": 5,
-      "maxHealth": 140,
-      "maxMana": 120,
-      "maxStamina": 120,
-      "health": 140,
-      "mana": 120,
-      "stamina": 120
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125,
+      "health": 150,
+      "mana": 125,
+      "stamina": 125
     },
-    "exp": 49835,
-    "energi": 100038,
+    "exp": 50930,
+    "energi": 100044,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T14:53:20.509Z",
     "cooldowns": {
@@ -126271,7 +126271,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 17064,
+    "koin": 17934,
     "clanId": "FEM"
   },
   "6282274381730": {
@@ -141750,7 +141750,7 @@
     "lastSeen": "2026-11-08T09:14:51.540Z",
     "energi": 999999,
     "cooldowns": {
-      "afk": 1794072659020,
+      "afk": 1794149612438,
       "cekhoki": 1794127977774,
       "cekfemboy": 1794112396007
     },
