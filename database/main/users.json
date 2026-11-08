@@ -3018,7 +3018,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5790,
+    "exp": 5805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392907,
+    "exp": 392922,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93745,7 +93745,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:26:30.996Z",
+    "lastSeen": "2026-11-08T07:27:25.816Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93836,7 +93836,7 @@
       "daftar": 1794121772622,
       "hug": 1794122074006,
       "punch": 1794122098266,
-      "claninvite": 1794122792656
+      "claninvite": 1794122847179
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -122747,7 +122747,8 @@
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 8,
-    "registeredAt": 1793255055602
+    "registeredAt": 1793255055602,
+    "clanId": "FEM"
   },
   "62882005686310": {
     "jid": "62882005686310",
@@ -137602,7 +137603,7 @@
   "6281110002769": {
     "jid": "6281110002769",
     "rpg": {},
-    "exp": 2340,
+    "exp": 2355,
     "name": "M",
     "lastSeen": "2026-11-07T14:37:48.198Z",
     "cooldowns": {
@@ -138219,7 +138220,7 @@
   "6283843371559": {
     "jid": "6283843371559",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "energi": 99999
   },
   "6285951451012": {
@@ -138480,7 +138481,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 5490,
+    "exp": 5505,
     "energi": 999999,
     "name": "kenal pot ga?",
     "lastSeen": "2026-11-08T00:21:25.482Z",
