@@ -1,6 +1,6 @@
 {
   "commandErrors": 691,
-  "commandsExecuted": 142829,
+  "commandsExecuted": 142830,
   "command_totalchat": 28,
   "command_menu": 2588,
   "command_fb": 16,
@@ -1486,5 +1486,6 @@
   "command_clanleave": 1,
   "command_sniff": 1,
   "command_nibble": 1,
-  "command_rub": 1
+  "command_rub": 1,
+  "command_selfmode": 1
 }
