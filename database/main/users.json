@@ -93724,10 +93724,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99959,
+    "energi": 99958,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19020,
+    "exp": 19035,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:49:46.536Z",
+    "lastSeen": "2026-11-08T05:50:19.825Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -93810,7 +93810,8 @@
       "stalkml": 1794116604861,
       "robloxstalk": 1794116650695,
       "stalkdc": 1794116793521,
-      "tiktokstalk": 1794116990458
+      "tiktokstalk": 1794116990458,
+      "robloxplayer": 1794117020425
     },
     "clanId": null,
     "isRegistered": false,
