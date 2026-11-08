@@ -126225,12 +126225,13 @@
       "maxStamina": 170,
       "health": 240,
       "mana": 170,
-      "stamina": 170
+      "stamina": 170,
+      "bank": 0
     },
-    "exp": 146600,
+    "exp": 146630,
     "energi": 100286,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:32:00.475Z",
+    "lastSeen": "2026-11-08T15:32:47.751Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126276,7 +126277,8 @@
       "superfast": 1794150882361,
       "tebakhewan": 1794150932371,
       "clanleave": 1794151517785,
-      "clanmembers": 1794151842798
+      "clanmembers": 1794151842798,
+      "bank": 1794151968434
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
@@ -136779,12 +136781,12 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1920,
+    "exp": 1935,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-08T15:32:27.436Z",
+    "lastSeen": "2026-11-08T15:32:42.875Z",
     "cooldowns": {
-      "menu": 1794151450347,
+      "menu": 1794151964850,
       "allmenu": 1793298911907,
       "menucat": 1794029882576,
       "cekmesum": 1793299103102,
