@@ -3341,7 +3341,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32729,
+    "exp": 32744,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126226,12 +126226,12 @@
       "health": 240,
       "mana": 170,
       "stamina": 170,
-      "bank": 0
+      "bank": 56
     },
-    "exp": 146630,
+    "exp": 146660,
     "energi": 100286,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:32:47.751Z",
+    "lastSeen": "2026-11-08T15:33:23.209Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126278,7 +126278,7 @@
       "tebakhewan": 1794150932371,
       "clanleave": 1794151517785,
       "clanmembers": 1794151842798,
-      "bank": 1794151968434
+      "bank": 1794152007574
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
@@ -126287,7 +126287,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 28582,
+    "koin": 28526,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -136781,10 +136781,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1950,
+    "exp": 1965,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-08T15:33:01.589Z",
+    "lastSeen": "2026-11-08T15:33:21.783Z",
     "cooldowns": {
       "menu": 1794151964850,
       "allmenu": 1793298911907,
@@ -136807,7 +136807,8 @@
       "anjing": 1794030710393,
       "piatu": 1794030961874,
       "quiz": 1794151612107,
-      "ping": 1794151949033
+      "ping": 1794151949033,
+      "pekok": 1794152001938
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 6
@@ -142721,5 +142722,10 @@
     "jid": "51950213065",
     "rpg": {},
     "exp": 30
+  },
+  "6289524813246": {
+    "jid": "6289524813246",
+    "rpg": {},
+    "exp": 15
   }
 }
