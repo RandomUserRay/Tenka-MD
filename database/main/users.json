@@ -35905,7 +35905,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1061202,
+    "exp": 1061217,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35914,7 +35914,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T14:32:43.494Z",
+    "lastSeen": "2026-11-08T14:33:09.763Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36153,7 +36153,8 @@
       "listwarn": 1794129420393,
       "resetwarn": 1794130309616,
       "autoai": 1794148289433,
-      "autodl": 1794148297475
+      "autodl": 1794148297475,
+      "jadwalgroup": 1794148391099
     },
     "clanId": null,
     "isRegistered": false,
@@ -142351,7 +142352,7 @@
   "6281250673350": {
     "jid": "6281250673350",
     "rpg": {},
-    "exp": 1170
+    "exp": 1185
   },
   "6285766878470": {
     "jid": "6285766878470",
