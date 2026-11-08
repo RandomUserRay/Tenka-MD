@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 393327,
+    "exp": 393342,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93745,7 +93745,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T08:08:08.994Z",
+    "lastSeen": "2026-11-08T08:08:30.207Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93837,7 +93837,8 @@
       "hug": 1794122074006,
       "punch": 1794122098266,
       "claninvite": 1794122915052,
-      "clanmembers": 1794123033603
+      "clanmembers": 1794123033603,
+      "clanleave": 1794125290384
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -126203,10 +126204,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 28321,
+    "exp": 28351,
     "energi": 100011,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T07:31:38.193Z",
+    "lastSeen": "2026-11-08T08:08:26.216Z",
     "cooldowns": {
       "femboy": 1794109531568,
       "afk": 1794119660878,
@@ -126227,7 +126228,8 @@
       "trap": 1794119537242,
       "femboys": 1794119599335,
       "tentacles": 1794119611020,
-      "quiz": 1794120467336
+      "quiz": 1794120467336,
+      "claninvite": 1794125306862
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
@@ -137886,7 +137888,8 @@
     "activeDays": 4,
     "fun": {},
     "registeredAt": 1794122408399,
-    "koin": 10000
+    "koin": 10000,
+    "clanId": "FEM"
   },
   "6289630601785": {
     "jid": "6289630601785",
@@ -140578,7 +140581,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 34443,
+    "exp": 34458,
     "energi": 100068,
     "name": "Laufey",
     "lastSeen": "2026-11-08T07:30:01.499Z",
