@@ -100732,7 +100732,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 375,
+    "exp": 390,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126222,10 +126222,10 @@
       "mana": 155,
       "stamina": 155
     },
-    "exp": 112635,
+    "exp": 112665,
     "energi": 100203,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:08:30.823Z",
+    "lastSeen": "2026-11-08T15:08:53.385Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126263,7 +126263,8 @@
       "kill": 1794145461952,
       "shoot": 1794129821006,
       "cry": 1794129866007,
-      "clanleaderboard": 1794150511449
+      "clanleaderboard": 1794150511449,
+      "claninfo": 1794150534276
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 9,
