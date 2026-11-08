@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1054437,
+    "exp": 1054467,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35912,7 +35912,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T08:52:44.273Z",
+    "lastSeen": "2026-11-08T08:52:55.292Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36001,7 +36001,7 @@
       "hunt": 1783781334100,
       "bank": 1794127964548,
       "ngemis": 1784335021442,
-      "saldo": 1789917366301,
+      "saldo": 1794127975506,
       "work": 1788077073124,
       "stats": 1783842525150,
       "boss": 1783782219966,
@@ -140875,13 +140875,16 @@
   },
   "62895384011144": {
     "jid": "62895384011144",
-    "rpg": {},
-    "exp": 1305,
+    "rpg": {
+      "bank": 0
+    },
+    "exp": 1320,
     "energi": 999999,
     "name": "Vyxx",
-    "lastSeen": "2026-11-08T08:52:34.649Z",
+    "lastSeen": "2026-11-08T08:53:01.609Z",
     "cooldowns": {
-      "cekhoki": 1794127955223
+      "cekhoki": 1794127955223,
+      "bank": 1794127981874
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 1
@@ -141660,13 +141663,13 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "name": "boss alip",
-    "lastSeen": "2026-11-08T04:35:04.327Z",
+    "lastSeen": "2026-11-08T08:52:57.409Z",
     "energi": 999999,
     "cooldowns": {
       "afk": 1794072659020,
-      "cekhoki": 1794112504541,
+      "cekhoki": 1794127977774,
       "cekfemboy": 1794112396007
     },
     "lastActiveDate": "8/11/2026",
