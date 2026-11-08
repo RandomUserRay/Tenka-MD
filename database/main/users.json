@@ -35894,7 +35894,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1051617,
+    "exp": 1051632,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35903,7 +35903,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T04:18:07.709Z",
+    "lastSeen": "2026-11-08T04:23:34.129Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36123,7 +36123,7 @@
       "notifpromote": 1793838359778,
       "notifdemote": 1793838371664,
       "promote": 1794095369725,
-      "autoreply": 1794111488583,
+      "autoreply": 1794111815100,
       "hug": 1793839220202,
       "kiss": 1793839251204,
       "demote": 1794095403766,
@@ -139442,9 +139442,9 @@
   "6285136237080": {
     "jid": "6285136237080",
     "rpg": {},
-    "exp": 1890,
+    "exp": 1905,
     "name": "Varo",
-    "lastSeen": "2026-11-08T04:22:19.487Z",
+    "lastSeen": "2026-11-08T04:23:45.490Z",
     "energi": 99999
   },
   "6285725539328": {
@@ -141944,7 +141944,7 @@
   "6283824413637": {
     "jid": "6283824413637",
     "rpg": {},
-    "exp": 360
+    "exp": 405
   },
   "6285781395783": {
     "jid": "6285781395783",
