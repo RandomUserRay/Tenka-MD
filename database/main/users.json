@@ -141237,7 +141237,11 @@
     "energi": 99998,
     "name": "Tetsu",
     "lastSeen": "2026-11-08T05:20:23.024Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1794115250626
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6281574053077": {
     "jid": "6281574053077",
