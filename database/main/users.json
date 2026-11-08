@@ -4260,7 +4260,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16450,
+    "exp": 16465,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -142386,7 +142386,14 @@
   "62881024824005": {
     "jid": "62881024824005",
     "rpg": {},
-    "exp": 1290
+    "exp": 1305,
+    "name": "ᥫ᭡𝙮𝙤𝙪𝙧 𝙡0𝙤𝙫𝙚𝙧ᥫ᭡",
+    "lastSeen": "2026-11-08T14:08:33.003Z",
+    "cooldowns": {
+      "owner": 1794146914750
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6287817185799": {
     "name": ".",
