@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1055562,
+    "exp": 1055577,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -136805,7 +136805,7 @@
       "maxHealth": 100,
       "maxStamina": 100
     },
-    "exp": 2424,
+    "exp": 4805,
     "name": "Arven",
     "lastSeen": "2026-11-08T09:08:52.728Z",
     "cooldowns": {
@@ -136825,11 +136825,12 @@
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 7,
-    "energi": 99993,
+    "energi": 99998,
     "inventory": {
       "wood": 3,
       "stick": 1
-    }
+    },
+    "koin": 1625
   },
   "6282319532129": {
     "jid": "6282319532129",
