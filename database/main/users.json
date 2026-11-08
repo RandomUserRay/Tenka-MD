@@ -126135,7 +126135,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21360,
+    "exp": 21390,
     "energi": 99999,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T03:27:39.773Z",
@@ -142143,14 +142143,14 @@
   },
   "628895124934": {
     "name": "Arka stecu",
-    "lastSeen": "2026-11-08T03:36:54.785Z",
+    "lastSeen": "2026-11-08T03:37:12.890Z",
     "jid": "628895124934",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "cooldowns": {
-      "hd": 1794109015009
+      "hd": 1794109032989
     },
-    "energi": 22,
+    "energi": 21,
     "lastActiveDate": "8/11/2026",
     "activeDays": 1
   }
