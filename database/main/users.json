@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1053762,
+    "exp": 1053777,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -139753,11 +139753,21 @@
   },
   "6281528517966": {
     "jid": "6281528517966",
-    "rpg": {},
-    "exp": 1380,
+    "rpg": {
+      "attack": 10,
+      "health": 100,
+      "maxHealth": 100,
+      "stamina": 100,
+      "maxStamina": 100,
+      "kyubigame_session": {
+        "stage": "lobi",
+        "time": 1794124550310
+      }
+    },
+    "exp": 1395,
     "energi": 999999,
     "name": "𝑭𝑨𝑹𝑬𝑳 𝑺𝑻𝑶𝑹𝑬",
-    "lastSeen": "2026-11-08T07:55:28.074Z",
+    "lastSeen": "2026-11-08T07:55:50.308Z",
     "cooldowns": {
       "menucat": 1793934384370,
       "totalfitur": 1793934400827,
@@ -139765,10 +139775,12 @@
       "menu": 1794124506370,
       "smeme": 1794027920936,
       "s": 1794027934727,
-      "allmenu": 1794124530155
+      "allmenu": 1794124530155,
+      "kyubigame": 1794124550673
     },
     "lastActiveDate": "8/11/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "inventory": {}
   },
   "6285381723912": {
     "jid": "6285381723912",
