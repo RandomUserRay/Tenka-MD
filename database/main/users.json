@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000217434,
+    "exp": 9000217509,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392967,
+    "exp": 392982,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93745,7 +93745,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:28:19.716Z",
+    "lastSeen": "2026-11-08T07:28:34.087Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -130424,7 +130424,8 @@
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 11,
-    "fun": {}
+    "fun": {},
+    "clanId": "FEM"
   },
   "6283865412573": {
     "jid": "6283865412573",
