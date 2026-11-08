@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1050672,
+    "exp": 1050687,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -38026,7 +38026,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9375,
+    "exp": 9390,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91347,10 +91347,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999998,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53280,
+    "exp": 53295,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91360,7 +91360,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T02:40:43.570Z",
+    "lastSeen": "2026-11-08T02:43:48.939Z",
     "cooldowns": {
       "play": 1793621118236,
       "toimg": 1790829435907,
@@ -91400,7 +91400,8 @@
       "delete": 1791121520025,
       "unmutegc": 1793530674905,
       "pin": 1793813497860,
-      "antispam": 1793866552839
+      "antispam": 1793866552839,
+      "antilinkall": 1794105829029
     },
     "clanId": null,
     "isRegistered": false,
@@ -99490,7 +99491,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25665,
+    "exp": 25680,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -141581,7 +141582,7 @@
   "6282281979629": {
     "jid": "6282281979629",
     "rpg": {},
-    "exp": 585,
+    "exp": 645,
     "energi": 99999,
     "cooldowns": {
       "ytmp4": 1794105463841
