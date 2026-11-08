@@ -93727,7 +93727,7 @@
     "energi": 100151,
     "isPremium": false,
     "isBanned": false,
-    "exp": 91992,
+    "exp": 92007,
     "level": 1,
     "koin": 45338,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:08:37.189Z",
+    "lastSeen": "2026-11-08T07:08:57.612Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -121851,19 +121851,21 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 2865,
+    "exp": 2880,
     "energi": 99995,
     "cooldowns": {
       "afk": 1794050759007,
       "femboys": 1794116226955,
       "femboy": 1794035694364,
       "yaoi": 1794035804085,
-      "daftar": 1794036553788
+      "daftar": 1794036553788,
+      "me": 1794121734555
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 3,
     "name": "MINSXII★¹⁸⁶¹🇮🇹⚖️",
-    "lastSeen": "2026-11-08T07:08:33.074Z"
+    "lastSeen": "2026-11-08T07:08:52.322Z",
+    "registeredAt": 1794121732323
   },
   "62882006652000": {
     "jid": "62882006652000",
