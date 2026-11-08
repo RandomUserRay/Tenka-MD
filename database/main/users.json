@@ -126214,18 +126214,18 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {
-      "level": 11,
-      "maxHealth": 200,
-      "maxMana": 150,
-      "maxStamina": 150,
-      "health": 200,
-      "mana": 150,
-      "stamina": 150
+      "level": 12,
+      "maxHealth": 210,
+      "maxMana": 155,
+      "maxStamina": 155,
+      "health": 210,
+      "mana": 155,
+      "stamina": 155
     },
-    "exp": 109863,
-    "energi": 100195,
+    "exp": 111005,
+    "energi": 100199,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:06:53.301Z",
+    "lastSeen": "2026-11-08T15:07:07.048Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126246,7 +126246,7 @@
       "trap": 1794119537242,
       "femboys": 1794119599335,
       "tentacles": 1794119611020,
-      "quiz": 1794150414448,
+      "quiz": 1794150427210,
       "claninvite": 1794125306862,
       "bratbahlil": 1794129095859,
       "slap": 1794129166478,
@@ -126271,7 +126271,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 53326,
+    "koin": 55041,
     "clanId": "FEM"
   },
   "6282274381730": {
@@ -135405,7 +135405,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20040,
+    "exp": 20070,
     "energi": 99998,
     "name": "SSA",
     "lastSeen": "2026-11-08T14:11:32.972Z",
