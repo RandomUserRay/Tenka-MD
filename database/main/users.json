@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-08T07:24:11.876Z",
+    "lastSeen": "2026-11-08T07:26:02.753Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000217059,
+    "exp": 9000217134,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -4566,7 +4566,15 @@
     "fun": {},
     "saldo": 0,
     "lastActiveDate": "8/11/2026",
-    "activeDays": 16
+    "activeDays": 16,
+    "customRoles": [
+      {
+        "name": "Zay BF",
+        "color": "#F8C8DC",
+        "emoji": "🥰",
+        "description": "cowo/pacar nya zay"
+      }
+    ]
   },
   "6287860834638": {
     "jid": "6287860834638",
