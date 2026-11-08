@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1049937,
+    "exp": 1049952,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -38026,7 +38026,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9210,
+    "exp": 9225,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130590,8 +130590,15 @@
   "6283849985417": {
     "jid": "6283849985417",
     "rpg": {},
-    "exp": 75,
-    "energi": 99999
+    "exp": 90,
+    "energi": 99999,
+    "name": "tuan muda Ханс",
+    "lastSeen": "2026-11-08T01:57:19.023Z",
+    "cooldowns": {
+      "cekfemboy": 1794103042424
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6283186164073": {
     "jid": "6283186164073",
@@ -141822,7 +141829,7 @@
   "6285600669046": {
     "jid": "6285600669046",
     "rpg": {},
-    "exp": 210
+    "exp": 225
   },
   "6289505730187": {
     "jid": "6289505730187",
