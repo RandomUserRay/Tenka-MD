@@ -35905,7 +35905,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1061127,
+    "exp": 1061142,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35914,7 +35914,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T14:30:57.004Z",
+    "lastSeen": "2026-11-08T14:31:10.764Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35993,7 +35993,7 @@
       "bratvid": 1794139986992,
       "bratvermeil": 1784468267607,
       "riddle": 1791362860642,
-      "menucat": 1794128201834,
+      "menucat": 1794148271402,
       "system": 1784299609834,
       "maling": 1784166618674,
       "afinitasml": 1783822870669,
@@ -130373,7 +130373,7 @@
     "lastSeen": "2026-11-01T16:18:25.543Z",
     "jid": "6285168650186",
     "rpg": {},
-    "exp": 735,
+    "exp": 750,
     "cooldowns": {
       "play": 1791898047216,
       "s": 1793549908673
@@ -142305,7 +142305,7 @@
   "6285835879287": {
     "jid": "6285835879287",
     "rpg": {},
-    "exp": 1290
+    "exp": 1320
   },
   "6285776310042": {
     "name": "pazz",
