@@ -3093,7 +3093,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725126,
+    "exp": 725141,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -101567,7 +101567,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4515,
+    "exp": 4530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -138340,16 +138340,18 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 4905,
-    "energi": 99999,
-    "name": "ikzir",
-    "lastSeen": "2026-11-05T14:53:33.234Z",
+    "exp": 4920,
+    "energi": 999999,
+    "name": "kenal pot ga?",
+    "lastSeen": "2026-11-08T00:21:25.482Z",
     "cooldowns": {
       "kiss": 1793890237110,
-      "menu": 1793890359651
+      "menu": 1793890359651,
+      "terima": 1794097285740
     },
-    "lastActiveDate": "5/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 2,
+    "fun": {}
   },
   "6285381607022": {
     "jid": "6285381607022",
