@@ -3018,7 +3018,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5730,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35895,7 +35895,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1053597,
+    "exp": 1053612,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -93724,12 +93724,12 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 100147,
+    "energi": 100151,
     "isPremium": false,
     "isBanned": false,
-    "exp": 89523,
+    "exp": 91692,
     "level": 1,
-    "koin": 44291,
+    "koin": 45338,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -93829,13 +93829,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 9,
-      "maxHealth": 180,
-      "maxMana": 140,
-      "maxStamina": 140,
-      "health": 180,
-      "mana": 140,
-      "stamina": 140,
+      "level": 10,
+      "maxHealth": 190,
+      "maxMana": 145,
+      "maxStamina": 145,
+      "health": 190,
+      "mana": 145,
+      "stamina": 145,
       "attack": 10
     },
     "inventory": {
@@ -135783,13 +135783,13 @@
   "6282148168133": {
     "jid": "6282148168133",
     "rpg": {},
-    "exp": 5205,
+    "exp": 5220,
     "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
-    "lastSeen": "2026-11-08T07:04:19.791Z",
-    "energi": 99997,
+    "lastSeen": "2026-11-08T07:04:52.091Z",
+    "energi": 99995,
     "cooldowns": {
       "femboy": 1793710249464,
-      "femboys": 1794023778411,
+      "femboys": 1794121496242,
       "hentai": 1793710291346,
       "ytmp4": 1793446690512,
       "play": 1793705514663,
@@ -140512,7 +140512,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 33783,
+    "exp": 33813,
     "energi": 100070,
     "name": "Laufey",
     "lastSeen": "2026-11-08T07:03:17.543Z",
@@ -142348,6 +142348,6 @@
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 270
+    "exp": 285
   }
 }
