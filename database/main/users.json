@@ -1247,7 +1247,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 532593,
+    "exp": 532608,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 393087,
+    "exp": 393117,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -93745,7 +93745,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:29:37.469Z",
+    "lastSeen": "2026-11-08T07:30:33.037Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93836,7 +93836,8 @@
       "daftar": 1794121772622,
       "hug": 1794122074006,
       "punch": 1794122098266,
-      "claninvite": 1794122915052
+      "claninvite": 1794122915052,
+      "clanmembers": 1794123033603
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -140320,7 +140321,7 @@
   "6283862668569": {
     "jid": "6283862668569",
     "rpg": {},
-    "exp": 270,
+    "exp": 285,
     "energi": 99999
   },
   "6287864271319": {
