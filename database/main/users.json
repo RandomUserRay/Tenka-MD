@@ -136801,13 +136801,13 @@
     "jid": "6285198037092",
     "rpg": {
       "health": 100,
-      "stamina": 100,
+      "stamina": 85,
       "maxHealth": 100,
       "maxStamina": 100
     },
-    "exp": 4835,
+    "exp": 4850,
     "name": "Arven",
-    "lastSeen": "2026-11-08T09:08:52.728Z",
+    "lastSeen": "2026-11-08T09:10:09.609Z",
     "cooldowns": {
       "menu": 1793318162944,
       "afk": 1793626449233,
@@ -136825,7 +136825,7 @@
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 7,
-    "energi": 99998,
+    "energi": 99997,
     "inventory": {
       "wood": 3,
       "stick": 1
@@ -142514,6 +142514,6 @@
   "6285876361300": {
     "jid": "6285876361300",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
