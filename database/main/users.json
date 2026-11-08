@@ -4260,7 +4260,7 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 16825,
+    "exp": 16840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -140782,14 +140782,15 @@
   "6285117167719": {
     "jid": "6285117167719",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "energi": 999999,
     "name": "neiebekebesoeoejb",
-    "lastSeen": "2026-11-08T14:33:55.117Z",
+    "lastSeen": "2026-11-08T14:46:41.802Z",
     "cooldowns": {
       "afk": 1794148438900,
       "cekfemboy": 1794112272056,
-      "cekhoki": 1794112523399
+      "cekhoki": 1794112523399,
+      "tebakbendera": 1794149203905
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 1
@@ -142329,7 +142330,7 @@
   "6285835879287": {
     "jid": "6285835879287",
     "rpg": {},
-    "exp": 2055
+    "exp": 2085
   },
   "6285776310042": {
     "name": "pazz",
