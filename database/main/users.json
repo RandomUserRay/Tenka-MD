@@ -3093,7 +3093,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 725546,
+    "exp": 725561,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -140501,8 +140501,11 @@
   "6283849676842": {
     "jid": "6283849676842",
     "rpg": {},
-    "exp": 300,
-    "energi": 99999
+    "exp": 315,
+    "energi": 999999,
+    "name": "Milo",
+    "lastSeen": "2026-11-08T04:31:28.298Z",
+    "cooldowns": {}
   },
   "6285767796541": {
     "jid": "6285767796541",
