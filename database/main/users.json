@@ -93727,7 +93727,7 @@
     "energi": 99955,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21533,
+    "exp": 21548,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:59:22.311Z",
+    "lastSeen": "2026-11-08T06:01:14.048Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -93816,7 +93816,8 @@
       "daily": 1794117460634,
       "profile": 1794117472504,
       "koin": 1794117521838,
-      "family100": 1794117563010
+      "family100": 1794117563010,
+      "quiz": 1794117675475
     },
     "clanId": null,
     "isRegistered": false,
