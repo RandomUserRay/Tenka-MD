@@ -135393,8 +135393,16 @@
   },
   "628211581085": {
     "jid": "628211581085",
-    "rpg": {},
-    "exp": 9945,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10020,
     "energi": 99998,
     "name": "SSA",
     "lastSeen": "2026-11-08T13:40:50.774Z",
