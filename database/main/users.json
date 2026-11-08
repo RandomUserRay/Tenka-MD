@@ -35895,7 +35895,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1053222,
+    "exp": 1053267,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -38029,7 +38029,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9570,
+    "exp": 9585,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93727,7 +93727,7 @@
     "energi": 100102,
     "isPremium": false,
     "isBanned": false,
-    "exp": 75621,
+    "exp": 75636,
     "level": 1,
     "koin": 35161,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T06:54:18.748Z",
+    "lastSeen": "2026-11-08T06:54:42.541Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93814,7 +93814,7 @@
       "robloxplayer": 1794117135508,
       "clancreate": 1794117384529,
       "daily": 1794117460634,
-      "profile": 1794120597704,
+      "profile": 1794120887588,
       "koin": 1794117521838,
       "family100": 1794117563010,
       "quiz": 1794120833819,
@@ -139504,7 +139504,7 @@
   "6285725539328": {
     "jid": "6285725539328",
     "rpg": {},
-    "exp": 1140,
+    "exp": 1170,
     "energi": 99999
   },
   "6285287567114": {
@@ -140498,7 +140498,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21807,
+    "exp": 21822,
     "energi": 100031,
     "name": "Laufey",
     "lastSeen": "2026-11-08T06:51:33.518Z",
@@ -140779,7 +140779,7 @@
   "62895384011144": {
     "jid": "62895384011144",
     "rpg": {},
-    "exp": 1230,
+    "exp": 1245,
     "energi": 99999
   },
   "6289531872914": {
@@ -142319,6 +142319,11 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 45
+    "exp": 60
+  },
+  "6282240032890": {
+    "jid": "6282240032890",
+    "rpg": {},
+    "exp": 15
   }
 }
