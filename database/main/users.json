@@ -93727,7 +93727,7 @@
     "energi": 100136,
     "isPremium": false,
     "isBanned": false,
-    "exp": 86471,
+    "exp": 86486,
     "level": 1,
     "koin": 42155,
     "saldo": 0,
@@ -140493,16 +140493,16 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 28315,
-    "energi": 100049,
+    "exp": 30676,
+    "energi": 100056,
     "name": "Laufey",
     "lastSeen": "2026-11-08T06:59:17.380Z",
     "cooldowns": {
@@ -140518,7 +140518,7 @@
     "activeDays": 2,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 11920
+    "koin": 13418
   },
   "6285740119981": {
     "name": "zz",
@@ -142332,11 +142332,11 @@
   "6281260739100": {
     "jid": "6281260739100",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 180
+    "exp": 195
   }
 }
