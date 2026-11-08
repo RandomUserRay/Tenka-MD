@@ -35893,7 +35893,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1051377,
+    "exp": 1051422,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35902,7 +35902,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T02:51:04.196Z",
+    "lastSeen": "2026-11-08T03:15:41.698Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36007,7 +36007,7 @@
       "removebg": 1789824702993,
       "papercutstyle": 1783822756929,
       "buyfitur": 1783823596991,
-      "ht": 1794038529020,
+      "ht": 1794107743216,
       "ngojek": 1788078106184,
       "rob": 1784799938212,
       "fishing": 1783824761153,
@@ -141933,5 +141933,10 @@
     "jid": "6282174062193",
     "rpg": {},
     "exp": 45
+  },
+  "62881026981901": {
+    "jid": "62881026981901",
+    "rpg": {},
+    "exp": 15
   }
 }
