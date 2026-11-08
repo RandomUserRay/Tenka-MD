@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-08T07:18:27.909Z",
+    "lastSeen": "2026-11-08T07:19:33.137Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000216159,
+    "exp": 9000216234,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -93727,7 +93727,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392547,
+    "exp": 392562,
     "level": 1,
     "koin": 25338,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:19:01.211Z",
+    "lastSeen": "2026-11-08T07:19:39.116Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93827,7 +93827,8 @@
       "p": 1794121740849,
       "daftar": 1794121772622,
       "hug": 1794122074006,
-      "punch": 1794122098266
+      "punch": 1794122098266,
+      "claninvite": 1794122380002
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -99535,7 +99536,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26085,
+    "exp": 26100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121855,7 +121856,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 303330,
+    "exp": 303345,
     "energi": 100292,
     "cooldowns": {
       "afk": 1794050759007,
@@ -121882,7 +121883,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 30000
+    "koin": 40000
   },
   "62882006652000": {
     "jid": "62882006652000",
@@ -137858,7 +137859,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10695,
+    "exp": 10710,
     "name": "dfj",
     "lastSeen": "2026-11-08T07:17:54.676Z",
     "cooldowns": {
@@ -140560,7 +140561,8 @@
     "activeDays": 2,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 17003
+    "koin": 17003,
+    "clanId": "FEM"
   },
   "6285740119981": {
     "name": "zz",
