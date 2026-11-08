@@ -12834,7 +12834,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 641845,
+    "exp": 641860,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -87497,7 +87497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2295,
+    "exp": 2310,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91198,7 +91198,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19845,
+    "exp": 19860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130393,7 +130393,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25980,
+    "exp": 26025,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-02T13:02:30.117Z",
@@ -141892,7 +141892,9 @@
   "6281521663962": {
     "jid": "6281521663962",
     "rpg": {},
-    "exp": 45
+    "exp": 60,
+    "name": "See You",
+    "lastSeen": "2026-11-08T02:47:03.908Z"
   },
   "6283128672858": {
     "jid": "6283128672858",
