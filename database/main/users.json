@@ -93727,7 +93727,7 @@
     "energi": 100034,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51497,
+    "exp": 51512,
     "level": 1,
     "koin": 20492,
     "saldo": 0,
@@ -126170,7 +126170,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 28111,
+    "exp": 28126,
     "energi": 100011,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T06:47:46.485Z",
@@ -140489,9 +140489,17 @@
   },
   "6285147275767": {
     "jid": "6285147275767",
-    "rpg": {},
-    "exp": 8807,
-    "energi": 100003,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10199,
+    "energi": 100009,
     "name": "Laufey",
     "lastSeen": "2026-11-08T06:09:00.073Z",
     "cooldowns": {
@@ -140506,7 +140514,7 @@
     "activeDays": 2,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 1555
+    "koin": 2609
   },
   "6285740119981": {
     "name": "zz",
