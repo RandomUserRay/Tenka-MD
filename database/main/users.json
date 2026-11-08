@@ -93724,10 +93724,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99988,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17955,
+    "exp": 17985,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:19:34.576Z",
+    "lastSeen": "2026-11-08T05:21:08.946Z",
     "cooldowns": {
       "play": 1794115185818,
       "femboy": 1794114877603,
@@ -135599,7 +135599,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22392,
+    "exp": 22407,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -141893,16 +141893,17 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "poci kamochi",
-    "lastSeen": "2026-11-08T01:16:53.940Z",
+    "lastSeen": "2026-11-08T05:21:10.203Z",
     "cooldowns": {
       "femboy": 1794100618806,
       "menu": 1794100580639
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 1,
-    "fun": {}
+    "fun": {},
+    "energi": 24
   },
   "62881010306670": {
     "jid": "62881010306670",
