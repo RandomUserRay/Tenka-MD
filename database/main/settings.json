@@ -48,6 +48,16 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1794133856698
+    },
+    {
+      "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1794133846343
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1794120859807
     },
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
       "at": 1790248715846
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1790234625402
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1790220577182
     }
   ],
   "jpmBlacklist": [],
