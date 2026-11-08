@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 700209,
+    "exp": 700284,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -126222,10 +126222,10 @@
       "mana": 160,
       "stamina": 160
     },
-    "exp": 128478,
+    "exp": 128493,
     "energi": 100244,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:25:05.526Z",
+    "lastSeen": "2026-11-08T15:25:16.642Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126279,7 +126279,7 @@
     },
     "registeredAt": 1794034496015,
     "koin": 68008,
-    "clanId": "FEM",
+    "clanId": null,
     "inventory": {
       "apple": 2,
       "wood": 5,
@@ -135417,7 +135417,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22110,
+    "exp": 22125,
     "energi": 100006,
     "name": "SSA",
     "lastSeen": "2026-11-08T14:11:32.972Z",
@@ -136771,10 +136771,10 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {},
-    "exp": 1830,
+    "exp": 1860,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-08T15:24:06.905Z",
+    "lastSeen": "2026-11-08T15:25:13.684Z",
     "cooldowns": {
       "menu": 1794151450347,
       "allmenu": 1793298911907,
@@ -136795,7 +136795,8 @@
       "gila": 1794030887793,
       "puki": 1794030267591,
       "anjing": 1794030710393,
-      "piatu": 1794030961874
+      "piatu": 1794030961874,
+      "quiz": 1794151514498
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 6
