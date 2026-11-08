@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
+      "at": 1794152088410
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1794133856698
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Cannot read properties of null (reading 'contextInfo')",
       "at": 1790264254256
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1790248715846
     }
   ],
   "jpmBlacklist": [],
