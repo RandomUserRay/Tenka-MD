@@ -93727,7 +93727,7 @@
     "energi": 99960,
     "isPremium": false,
     "isBanned": false,
-    "exp": 25520,
+    "exp": 25535,
     "level": 1,
     "koin": 3515,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T06:29:52.080Z",
+    "lastSeen": "2026-11-08T06:30:02.344Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93767,7 +93767,7 @@
       "ganteng": 1794031433885,
       "horny": 1794031459283,
       "catur": 1794031501212,
-      "dungeon": 1794031524456,
+      "dungeon": 1794119403227,
       "claninfo": 1794032705250,
       "clanleaderboard": 1794032719596,
       "akankah": 1794044196847,
@@ -93835,7 +93835,11 @@
       "health": 85,
       "mana": 105,
       "stamina": 75,
-      "attack": 10
+      "attack": 10,
+      "dungeon_session": {
+        "stage": "lobi",
+        "time": 1794119402346
+      }
     },
     "inventory": {
       "potion": 3
