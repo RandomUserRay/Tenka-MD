@@ -4510,7 +4510,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237230,
+    "exp": 237245,
     "level": 1,
     "koin": 1020019999,
     "unlockedFeatures": [],
@@ -4519,7 +4519,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:23:45.394Z",
+    "lastSeen": "2026-11-08T07:29:57.926Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1794122629633,
@@ -93735,7 +93735,7 @@
     "energi": 100449,
     "isPremium": false,
     "isBanned": false,
-    "exp": 393072,
+    "exp": 393087,
     "level": 1,
     "koin": 35338,
     "saldo": 0,
@@ -140556,10 +140556,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 34263,
+    "exp": 34278,
     "energi": 100068,
     "name": "Laufey",
-    "lastSeen": "2026-11-08T07:19:59.882Z",
+    "lastSeen": "2026-11-08T07:30:01.499Z",
     "cooldowns": {
       "play": 1794108384709,
       "femboy": 1794024323727,
@@ -140570,7 +140570,8 @@
       "profile": 1794121161461,
       "kill": 1794122120140,
       "cuddle": 1794122290239,
-      "me": 1794122403970
+      "me": 1794122403970,
+      "clanleaderboard": 1794123002034
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 2,
