@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 700059,
+    "exp": 700134,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -35905,7 +35905,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1061397,
+    "exp": 1061412,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -126222,10 +126222,10 @@
       "mana": 160,
       "stamina": 160
     },
-    "exp": 124990,
-    "energi": 100234,
+    "exp": 126792,
+    "energi": 100241,
     "name": "Pipo Pino suka hazelnut",
-    "lastSeen": "2026-11-08T15:22:50.950Z",
+    "lastSeen": "2026-11-08T15:23:05.672Z",
     "cooldowns": {
       "femboy": 1794140347627,
       "afk": 1794145503451,
@@ -126246,7 +126246,7 @@
       "trap": 1794119537242,
       "femboys": 1794119599335,
       "tentacles": 1794119611020,
-      "quiz": 1794151372109,
+      "quiz": 1794151386409,
       "claninvite": 1794125306862,
       "bratbahlil": 1794129095859,
       "slap": 1794129166478,
@@ -126278,7 +126278,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 64880,
+    "koin": 66299,
     "clanId": "FEM",
     "inventory": {
       "apple": 2,
@@ -135417,8 +135417,8 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20190,
-    "energi": 99998,
+    "exp": 22020,
+    "energi": 100006,
     "name": "SSA",
     "lastSeen": "2026-11-08T14:11:32.972Z",
     "cooldowns": {
@@ -135431,7 +135431,8 @@
       "jadibot": 1794144130956
     },
     "lastActiveDate": "8/11/2026",
-    "activeDays": 5
+    "activeDays": 5,
+    "koin": 1030
   },
   "62882020062234": {
     "jid": "62882020062234",
@@ -142697,7 +142698,7 @@
   "60148011362": {
     "jid": "60148011362",
     "rpg": {},
-    "exp": 240
+    "exp": 270
   },
   "6282229411467": {
     "jid": "6282229411467",
