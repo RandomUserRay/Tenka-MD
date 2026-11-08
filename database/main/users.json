@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1054392,
+    "exp": 1054422,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -137873,7 +137873,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11550,
+    "exp": 11580,
     "name": "dfj",
     "lastSeen": "2026-11-08T08:32:49.213Z",
     "cooldowns": {
@@ -140876,8 +140876,15 @@
   "62895384011144": {
     "jid": "62895384011144",
     "rpg": {},
-    "exp": 1245,
-    "energi": 99999
+    "exp": 1305,
+    "energi": 999999,
+    "name": "Vyxx",
+    "lastSeen": "2026-11-08T08:52:34.649Z",
+    "cooldowns": {
+      "cekhoki": 1794127955223
+    },
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   },
   "6289531872914": {
     "jid": "6289531872914",
@@ -142054,7 +142061,7 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1080,
     "name": "poci kamochi",
     "lastSeen": "2026-11-08T08:38:41.857Z",
     "cooldowns": {
