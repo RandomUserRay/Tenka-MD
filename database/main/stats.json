@@ -1,6 +1,6 @@
 {
   "commandErrors": 690,
-  "commandsExecuted": 142538,
+  "commandsExecuted": 142540,
   "command_totalchat": 28,
   "command_menu": 2578,
   "command_fb": 16,
@@ -252,7 +252,7 @@
   "command_hourly": 40,
   "command_mining": 336,
   "command_dungeon": 328,
-  "command_me": 2150,
+  "command_me": 2151,
   "command_rest": 521,
   "command_qwa": 32,
   "command_lyrics": 7,
@@ -1481,5 +1481,6 @@
   "command_futa": 3,
   "command_snaptik": 1,
   "command_stalkdc": 2,
-  "command_nftoken": 1
+  "command_nftoken": 1,
+  "command_clanmembers": 1
 }
