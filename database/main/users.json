@@ -35895,7 +35895,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1053132,
+    "exp": 1053147,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35904,7 +35904,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T06:52:28.128Z",
+    "lastSeen": "2026-11-08T06:53:41.821Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36092,7 +36092,7 @@
       "tebakanimechar": 1790251799705,
       "intro": 1791636439654,
       "mutegc": 1794112527734,
-      "unmutegc": 1793872993113,
+      "unmutegc": 1794120822252,
       "antitoxic": 1791467541507,
       "antispam": 1793889860211,
       "addcmdsticker": 1791467204540,
@@ -135614,7 +135614,7 @@
   "62895410214588": {
     "jid": "62895410214588",
     "rpg": {},
-    "exp": 3825,
+    "exp": 3840,
     "energi": 99999
   },
   "6285775762551": {
@@ -140490,16 +140490,16 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 18854,
-    "energi": 100025,
+    "exp": 21762,
+    "energi": 100031,
     "name": "Laufey",
     "lastSeen": "2026-11-08T06:51:33.518Z",
     "cooldowns": {
@@ -140515,7 +140515,7 @@
     "activeDays": 2,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 8678
+    "koin": 9238
   },
   "6285740119981": {
     "name": "zz",
