@@ -35903,7 +35903,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1055502,
+    "exp": 1055532,
     "level": 1,
     "koin": 5788550,
     "unlockedFeatures": [],
@@ -35912,7 +35912,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T09:07:30.816Z",
+    "lastSeen": "2026-11-08T09:08:40.839Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35983,7 +35983,7 @@
       "totalfitur": 1783766680074,
       "zodiak": 1783766838128,
       "tebaktebakan": 1791362855531,
-      "warn": 1794069333520,
+      "warn": 1794128921117,
       "ceklevel": 1783827040516,
       "open": 1794128788733,
       "buildml": 1783779937186,
@@ -97358,7 +97358,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42038,
+    "exp": 42053,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -136800,12 +136800,14 @@
   "6285198037092": {
     "jid": "6285198037092",
     "rpg": {
-      "health": 79,
-      "stamina": 85
+      "health": 100,
+      "stamina": 100,
+      "maxHealth": 100,
+      "maxStamina": 100
     },
-    "exp": 2379,
+    "exp": 2394,
     "name": "Arven",
-    "lastSeen": "2026-11-08T09:08:27.828Z",
+    "lastSeen": "2026-11-08T09:08:43.513Z",
     "cooldowns": {
       "menu": 1793318162944,
       "afk": 1793626449233,
@@ -139830,7 +139832,7 @@
   "62895703161397": {
     "jid": "62895703161397",
     "rpg": {},
-    "exp": 1575,
+    "exp": 1590,
     "energi": 999999,
     "name": "⏤͟͟͞͞✰sᴇᴘғɪᴀɴ⚡︎",
     "lastSeen": "2026-11-08T00:07:30.321Z",
