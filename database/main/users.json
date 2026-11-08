@@ -91192,13 +91192,13 @@
   },
   "6282168671203": {
     "name": "...",
-    "lastSeen": "2026-09-27T07:37:01.633Z",
+    "lastSeen": "2026-11-08T02:42:29.642Z",
     "jid": "6282168671203",
     "number": "6282168671203",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19755,
+    "exp": 19785,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91210,7 +91210,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "menu": 1790383208511,
-      "menucat": 1789999384095,
+      "menucat": 1794105750186,
       "allmenu": 1786612038951,
       "cekfemboy": 1786885869654,
       "tembak": 1786871826027,
@@ -91274,8 +91274,8 @@
       "jadiPacar": 1786874522046,
       "terimaCount": 1
     },
-    "lastActiveDate": "27/9/2026",
-    "activeDays": 12
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 13
   },
   "6285778236388": {
     "jid": "6285778236388",
@@ -94647,7 +94647,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 495,
+    "exp": 510,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130390,7 +130390,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25740,
+    "exp": 25755,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-02T13:02:30.117Z",
@@ -135577,7 +135577,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20532,
+    "exp": 20547,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -141579,7 +141579,7 @@
   "6282281979629": {
     "jid": "6282281979629",
     "rpg": {},
-    "exp": 495,
+    "exp": 525,
     "energi": 99999,
     "cooldowns": {
       "ytmp4": 1794105463841
