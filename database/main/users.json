@@ -87524,7 +87524,8 @@
     "inventory": {},
     "access": [],
     "lastActiveDate": "5/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "fun": {}
   },
   "6285792126411": {
     "jid": "6285792126411",
@@ -101566,7 +101567,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4500,
+    "exp": 4515,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -140702,17 +140703,22 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 4215,
-    "energi": 999999,
+    "exp": 4230,
+    "energi": 999998,
     "name": "Finzz",
-    "lastSeen": "2026-11-08T00:07:53.610Z",
+    "lastSeen": "2026-11-08T00:20:55.481Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
-      "cekfemboy": 1794096477482
+      "cekfemboy": 1794096477482,
+      "tembak": 1794097256082
     },
     "lastActiveDate": "8/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "fun": {
+      "tembakTarget": "6289671886267@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6283198669202": {
     "jid": "6283198669202",
