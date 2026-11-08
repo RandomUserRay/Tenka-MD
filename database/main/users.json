@@ -38029,7 +38029,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9675,
+    "exp": 9690,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93727,7 +93727,7 @@
     "energi": 100125,
     "isPremium": false,
     "isBanned": false,
-    "exp": 82384,
+    "exp": 82414,
     "level": 1,
     "koin": 39187,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T06:59:33.780Z",
+    "lastSeen": "2026-11-08T06:59:56.301Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794118304171,
@@ -93817,7 +93817,7 @@
       "profile": 1794120887588,
       "koin": 1794117521838,
       "family100": 1794117563010,
-      "quiz": 1794121175180,
+      "quiz": 1794121197370,
       "tebakgambar": 1794117980728,
       "caklontong": 1794118163923,
       "asupan": 1794118376682,
@@ -139596,7 +139596,7 @@
   "6285849243818": {
     "jid": "6285849243818",
     "rpg": {},
-    "exp": 615,
+    "exp": 630,
     "energi": 99999
   },
   "6282361248407": {
@@ -140500,7 +140500,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24453,
+    "exp": 24468,
     "energi": 100038,
     "name": "Laufey",
     "lastSeen": "2026-11-08T06:59:17.380Z",
@@ -142331,11 +142331,11 @@
   "6281260739100": {
     "jid": "6281260739100",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   }
 }
