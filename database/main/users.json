@@ -93727,7 +93727,7 @@
     "energi": 99965,
     "isPremium": false,
     "isBanned": false,
-    "exp": 24050,
+    "exp": 24080,
     "level": 1,
     "koin": 3515,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T06:03:22.804Z",
+    "lastSeen": "2026-11-08T06:04:14.653Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -93814,7 +93814,7 @@
       "robloxplayer": 1794117135508,
       "clancreate": 1794117384529,
       "daily": 1794117460634,
-      "profile": 1794117808540,
+      "profile": 1794117857648,
       "koin": 1794117521838,
       "family100": 1794117563010,
       "quiz": 1794117742446
@@ -140491,7 +140491,8 @@
     },
     "lastActiveDate": "8/11/2026",
     "activeDays": 2,
-    "fun": {}
+    "fun": {},
+    "registeredAt": 1794117854657
   },
   "6285740119981": {
     "name": "zz",
