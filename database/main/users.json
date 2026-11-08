@@ -93727,7 +93727,7 @@
     "energi": 99955,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21428,
+    "exp": 21443,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:59:09.608Z",
+    "lastSeen": "2026-11-08T05:59:22.311Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -93815,7 +93815,8 @@
       "clancreate": 1794117384529,
       "daily": 1794117460634,
       "profile": 1794117472504,
-      "koin": 1794117521838
+      "koin": 1794117521838,
+      "family100": 1794117563010
     },
     "clanId": null,
     "isRegistered": false,
@@ -140476,7 +140477,7 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {},
-    "exp": 5055,
+    "exp": 5070,
     "energi": 99995,
     "name": "Laufey",
     "lastSeen": "2026-11-08T05:46:54.761Z",
