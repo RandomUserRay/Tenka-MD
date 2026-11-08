@@ -93724,10 +93724,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99967,
+    "energi": 99965,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18810,
+    "exp": 18825,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93737,7 +93737,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T05:40:06.031Z",
+    "lastSeen": "2026-11-08T05:43:03.983Z",
     "cooldowns": {
       "play": 1794115551282,
       "femboy": 1794114877603,
@@ -93806,7 +93806,8 @@
       "lahelu": 1794116097417,
       "sendbug": 1794116172084,
       "bangb": 1794116232635,
-      "wastalk": 1794116410177
+      "wastalk": 1794116410177,
+      "stalkml": 1794116586539
     },
     "clanId": null,
     "isRegistered": false,
