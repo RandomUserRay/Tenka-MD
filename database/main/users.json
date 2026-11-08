@@ -97305,7 +97305,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41573,
+    "exp": 41603,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126135,7 +126135,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21300,
+    "exp": 21360,
     "energi": 99999,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T03:27:39.773Z",
@@ -135590,7 +135590,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21132,
+    "exp": 21192,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -141976,7 +141976,7 @@
   "6283871049395": {
     "jid": "6283871049395",
     "rpg": {},
-    "exp": 345
+    "exp": 375
   },
   "85616666619989": {
     "jid": "85616666619989",
@@ -142140,5 +142140,18 @@
     "jid": "6285759101105",
     "rpg": {},
     "exp": 30
+  },
+  "628895124934": {
+    "name": "Arka stecu",
+    "lastSeen": "2026-11-08T03:36:35.887Z",
+    "jid": "628895124934",
+    "rpg": {},
+    "exp": 30,
+    "cooldowns": {
+      "hd": 1794108996048
+    },
+    "energi": 23,
+    "lastActiveDate": "8/11/2026",
+    "activeDays": 1
   }
 }
