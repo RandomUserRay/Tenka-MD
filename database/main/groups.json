@@ -47332,8 +47332,8 @@
     "jid": "120363427666976507@g.us",
     "chatStats": {
       "6282131144804@s.whatsapp.net": {
-        "count": 2517,
-        "lastChat": 1794129345257,
+        "count": 2518,
+        "lastChat": 1794129386230,
         "name": "Radit Maendraa"
       },
       "6281339787411@s.whatsapp.net": {
@@ -47922,8 +47922,8 @@
         "name": "RIZKY"
       },
       "6289671886267@s.whatsapp.net": {
-        "count": 162,
-        "lastChat": 1794129363063,
+        "count": 163,
+        "lastChat": 1794129386123,
         "name": "Lintar Tempest"
       },
       "6285607883115@s.whatsapp.net": {
@@ -48677,7 +48677,7 @@
     "welcomeMsg": "Haloo {user}  ke {count} semoga betah betah ya disinii🤭😏\n{date}\n{time}",
     "antispam": "on",
     "antitoxic": false,
-    "antiswgc": "off",
+    "antiswgc": "on",
     "antilinkgc": "on",
     "intro": "@user",
     "toxicWarns": {
