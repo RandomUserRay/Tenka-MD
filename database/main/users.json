@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17035,
+    "exp": 17050,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97381,7 +97381,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42653,
+    "exp": 42668,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -142734,16 +142734,17 @@
   },
   "62895405249231": {
     "name": "Seiya 67",
-    "lastSeen": "2026-11-08T14:36:13.322Z",
+    "lastSeen": "2026-11-09T10:46:12.556Z",
     "jid": "62895405249231",
     "rpg": {},
-    "exp": 60,
-    "energi": 99999,
+    "exp": 75,
+    "energi": 999999,
     "cooldowns": {
-      "afk": 1794148576200
+      "afk": 1794148576200,
+      "gay": 1794221173460
     },
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 2
   },
   "6285707120782": {
     "jid": "6285707120782",
