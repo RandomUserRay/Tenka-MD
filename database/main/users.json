@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 728036,
+    "exp": 728051,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18205,
+    "exp": 18220,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91399,7 +91399,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59205,
+    "exp": 59220,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -138633,7 +138633,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 6135,
+    "exp": 6195,
     "energi": 999999,
     "name": "kenal pot ga?",
     "lastSeen": "2026-11-09T13:39:02.202Z",
@@ -138806,7 +138806,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 4980,
+    "exp": 4995,
     "name": "ndra",
     "lastSeen": "2026-11-09T13:35:50.150Z",
     "energi": 999999,
@@ -141844,7 +141844,7 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 1455,
+    "exp": 1500,
     "name": "boss alip",
     "lastSeen": "2026-11-09T13:39:00.186Z",
     "energi": 999999,
@@ -143051,12 +143051,13 @@
   "6282113725803": {
     "jid": "6282113725803",
     "rpg": {},
-    "exp": 645,
+    "exp": 660,
     "name": "Ghiff || Farzzz",
-    "lastSeen": "2026-11-09T13:37:00.965Z",
+    "lastSeen": "2026-11-09T13:39:45.013Z",
     "energi": 999999,
     "cooldowns": {
-      "cekfemboy": 1794231426856
+      "cekfemboy": 1794231426856,
+      "cekhoki": 1794231585646
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
@@ -143079,6 +143080,6 @@
   "6283146057793": {
     "jid": "6283146057793",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   }
 }
