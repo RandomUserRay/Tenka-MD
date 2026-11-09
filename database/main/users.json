@@ -3341,7 +3341,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33539,
+    "exp": 33554,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35906,7 +35906,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1062402,
+    "exp": 1062417,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -141727,12 +141727,13 @@
   "60105433486": {
     "jid": "60105433486",
     "rpg": {},
-    "exp": 1110,
+    "exp": 1125,
     "energi": 999999,
     "name": "kazim",
-    "lastSeen": "2026-11-09T13:37:04.002Z",
+    "lastSeen": "2026-11-09T13:38:15.929Z",
     "cooldowns": {
-      "cekfemboy": 1794231433386
+      "cekfemboy": 1794231433386,
+      "level": 1794231496551
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
