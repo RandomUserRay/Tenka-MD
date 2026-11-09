@@ -136815,9 +136815,17 @@
   },
   "6281283179005": {
     "jid": "6281283179005",
-    "rpg": {},
-    "exp": 3570,
-    "energi": 99999,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 15980,
+    "energi": 100004,
     "name": "R.F.K",
     "lastSeen": "2026-11-09T16:09:18.715Z",
     "cooldowns": {
@@ -136847,7 +136855,8 @@
       "jadibot": 1794239548753
     },
     "lastActiveDate": "9/11/2026",
-    "activeDays": 7
+    "activeDays": 7,
+    "koin": 1498
   },
   "628137531801": {
     "jid": "628137531801",
