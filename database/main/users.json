@@ -35906,7 +35906,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1062042,
+    "exp": 1062072,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -67842,7 +67842,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 179781,
+    "exp": 179796,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58980,
+    "exp": 58995,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -138625,7 +138625,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 5835,
+    "exp": 5850,
     "energi": 99999,
     "name": "kenal pot ga?",
     "lastSeen": "2026-11-08T00:21:25.482Z",
@@ -141824,7 +141824,7 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 1035,
+    "exp": 1065,
     "name": "boss alip",
     "lastSeen": "2026-11-09T11:09:34.980Z",
     "energi": 999999,
@@ -142743,8 +142743,11 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 630,
-    "energi": 99999
+    "exp": 645,
+    "energi": 999999,
+    "name": "terakomari🩸",
+    "lastSeen": "2026-11-09T13:35:17.727Z",
+    "cooldowns": {}
   },
   "6282164218238": {
     "jid": "6282164218238",
