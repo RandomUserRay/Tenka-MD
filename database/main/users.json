@@ -136816,16 +136816,16 @@
   "6281283179005": {
     "jid": "6281283179005",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 16055,
-    "energi": 100004,
+    "exp": 31165,
+    "energi": 100012,
     "name": "R.F.K",
     "lastSeen": "2026-11-09T16:09:54.462Z",
     "cooldowns": {
@@ -136856,7 +136856,7 @@
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 7,
-    "koin": 1498
+    "koin": 2657
   },
   "628137531801": {
     "jid": "628137531801",
