@@ -13073,7 +13073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26865,
+    "exp": 26880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97397,7 +97397,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43298,
+    "exp": 43313,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97407,7 +97407,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T14:33:17.066Z",
+    "lastSeen": "2026-11-09T16:51:00.159Z",
     "cooldowns": {
       "afk": 1794234800382,
       "play": 1794234280787,
@@ -97449,7 +97449,7 @@
       "unmutegc": 1793774890286,
       "intro": 1793263787686,
       "qc": 1793505763965,
-      "close": 1793516916274,
+      "close": 1794243062215,
       "open": 1793657233741,
       "kill": 1794064958213
     },
@@ -130461,7 +130461,7 @@
   "6288277332401": {
     "jid": "6288277332401",
     "rpg": {},
-    "exp": 7008,
+    "exp": 7023,
     "energi": 99999,
     "koin": 1493,
     "name": "𝐋𝐕𝐑|𝐕𝐌𝐑wlue_sky",
@@ -131437,9 +131437,9 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 3963,
+    "exp": 3978,
     "name": "Fyra Mikoto",
-    "lastSeen": "2026-10-25T08:55:12.055Z",
+    "lastSeen": "2026-11-09T16:50:56.797Z",
     "cooldowns": {
       "smeme": 1792587096388,
       "s": 1792587226158,
@@ -131453,11 +131453,12 @@
       "bank": 1792589650511,
       "daily": 1792598362288,
       "cekcantik": 1792676907563,
-      "afk": 1792717012516
+      "afk": 1792717012516,
+      "cantik": 1794243057955
     },
     "energi": 99999,
-    "lastActiveDate": "25/10/2026",
-    "activeDays": 5,
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 6,
     "koin": 10000000
   },
   "6285716195278": {
