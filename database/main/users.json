@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 726641,
+    "exp": 726656,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17050,
+    "exp": 17065,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -9871,7 +9871,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59025,
+    "exp": 59040,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -137970,7 +137970,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13140,
+    "exp": 13155,
     "name": "dfj",
     "lastSeen": "2026-11-08T13:08:16.165Z",
     "cooldowns": {
@@ -141972,17 +141972,18 @@
   "6285784418801": {
     "jid": "6285784418801",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "name": "FAJAR HYTAM PUTEH IRENG",
-    "lastSeen": "2026-11-07T16:13:15.998Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-09T10:46:29.273Z",
+    "energi": 999999,
     "cooldowns": {
       "help": 1794067952827,
       "menu": 1794067966448,
-      "menucat": 1794067996321
+      "menucat": 1794067996321,
+      "cekfemboy": 1794221193663
     },
-    "lastActiveDate": "7/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 2
   },
   "628973820302": {
     "jid": "628973820302",
@@ -142162,7 +142163,7 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 885,
+    "exp": 900,
     "name": "iqrom",
     "lastSeen": "2026-11-09T10:45:45.007Z",
     "energi": 999999,
