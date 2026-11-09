@@ -140747,16 +140747,16 @@
   "6285147275767": {
     "jid": "6285147275767",
     "rpg": {
-      "level": 4,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "health": 130,
-      "mana": 115,
-      "stamina": 115
+      "level": 35,
+      "maxHealth": 440,
+      "maxMana": 270,
+      "maxStamina": 270,
+      "health": 440,
+      "mana": 270,
+      "stamina": 270
     },
-    "exp": 338857,
-    "energi": 99998,
+    "exp": 341501,
+    "energi": 100006,
     "name": "Laufey",
     "lastSeen": "2026-11-09T16:01:13.139Z",
     "cooldowns": {
@@ -140777,7 +140777,7 @@
     "activeDays": 3,
     "fun": {},
     "registeredAt": 1794117854657,
-    "koin": 49063,
+    "koin": 49873,
     "clanId": "FEM",
     "isRegistered": true,
     "regName": "Laufey",
