@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58080,
+    "exp": 58110,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101819,7 +101819,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2670,
+    "exp": 2700,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121896,7 +121896,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 304035,
+    "exp": 304050,
     "energi": 99999,
     "cooldowns": {
       "afk": 1794050759007,
@@ -131556,7 +131556,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3165,
+    "exp": 3180,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-09T13:20:57.757Z",
     "cooldowns": {
@@ -142191,15 +142191,15 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 1800,
+    "exp": 1845,
     "name": "iqrom",
-    "lastSeen": "2026-11-09T13:21:02.554Z",
+    "lastSeen": "2026-11-09T13:21:33.267Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794230407101,
       "terima": 1794069561621,
       "afk": 1794069647204,
-      "cekhoki": 1794230456395
+      "cekhoki": 1794230494060
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 3,
