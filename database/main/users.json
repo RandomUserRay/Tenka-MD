@@ -91387,7 +91387,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57225,
+    "exp": 57255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101143,7 +101143,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 150,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101815,7 +101815,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2340,
+    "exp": 2355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121892,7 +121892,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 303630,
+    "exp": 303645,
     "energi": 99999,
     "cooldowns": {
       "afk": 1794050759007,
@@ -142972,6 +142972,6 @@
   "6282113725803": {
     "jid": "6282113725803",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   }
 }
