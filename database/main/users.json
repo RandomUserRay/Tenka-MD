@@ -142871,7 +142871,11 @@
     "name": "idc",
     "lastSeen": "2026-11-09T11:10:12.311Z",
     "energi": 999999,
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1794222618124
+    },
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   },
   "6289520766210": {
     "jid": "6289520766210",
