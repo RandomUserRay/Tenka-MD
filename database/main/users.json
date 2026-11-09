@@ -95994,7 +95994,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 600,
+    "exp": 615,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121904,7 +121904,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 304965,
+    "exp": 304980,
     "energi": 99999,
     "cooldowns": {
       "afk": 1794050759007,
@@ -141104,16 +141104,17 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 5115,
+    "exp": 5130,
     "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-09T13:55:29.739Z",
+    "lastSeen": "2026-11-09T13:55:55.523Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
       "cekfemboy": 1794096477482,
       "tembak": 1794097256082,
-      "promote": 1794232531185
+      "promote": 1794232531185,
+      "demote": 1794232556904
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 3,
