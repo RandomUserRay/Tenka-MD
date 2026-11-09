@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 727076,
+    "exp": 727091,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17410,
+    "exp": 17425,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -122748,8 +122748,16 @@
   },
   "6285165048021": {
     "jid": "6285165048021",
-    "rpg": {},
-    "exp": 9960,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10005,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-07T18:18:06.540Z",
@@ -130050,7 +130058,7 @@
   "62895602789802": {
     "jid": "62895602789802",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "energi": 99999
   },
   "6285821433928": {
