@@ -142804,5 +142804,17 @@
     "lastActiveDate": "8/11/2026",
     "activeDays": 1,
     "energi": 99999
+  },
+  "628134142736": {
+    "name": "Hum",
+    "lastSeen": "2026-11-09T02:13:19.079Z",
+    "jid": "628134142736",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "jadibot": 1794190403301
+    },
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   }
 }
