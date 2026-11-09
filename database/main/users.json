@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 727901,
+    "exp": 727916,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -6577,10 +6577,10 @@
     "jid": "6283170610553",
     "name": "A",
     "number": "6283170610553",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4051,
+    "exp": 4066,
     "level": 1,
     "koin": 1763,
     "unlockedFeatures": [],
@@ -6589,13 +6589,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T09:55:37.671Z",
+    "lastSeen": "2026-11-09T11:58:29.512Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1780824754541,
       "bank": 1780831741223,
       "menu": 1794131738190,
-      "menucat": 1794131737863
+      "menucat": 1794131737863,
+      "s": 1794225511091
     },
     "clanId": null,
     "isRegistered": false,
@@ -6615,8 +6616,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 3
   },
   "6282265435622": {
     "jid": "6282265435622",
