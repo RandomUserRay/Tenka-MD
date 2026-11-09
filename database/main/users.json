@@ -93768,10 +93768,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 403153,
+    "exp": 403168,
     "level": 1,
     "koin": 42142,
     "saldo": 0,
@@ -93781,7 +93781,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T15:59:04.843Z",
+    "lastSeen": "2026-11-09T15:59:22.267Z",
     "cooldowns": {
       "play": 1794143370823,
       "femboy": 1794140867665,
@@ -93874,7 +93874,8 @@
       "punch": 1794122098266,
       "claninvite": 1794122915052,
       "clanmembers": 1794123033603,
-      "clanleave": 1794125290384
+      "clanleave": 1794125290384,
+      "femboys": 1794239966048
     },
     "clanId": "FEM",
     "isRegistered": true,
