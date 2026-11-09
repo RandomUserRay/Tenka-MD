@@ -35906,7 +35906,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1062237,
+    "exp": 1062282,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -38046,7 +38046,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9960,
+    "exp": 10005,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -38064,7 +38064,15 @@
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -91391,7 +91399,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59040,
+    "exp": 59100,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93124,7 +93132,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 135,
+    "exp": 165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101819,7 +101827,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3060,
+    "exp": 3075,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121896,7 +121904,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 304320,
+    "exp": 304335,
     "energi": 99999,
     "cooldowns": {
       "afk": 1794050759007,
@@ -126243,7 +126251,7 @@
       "stamina": 140,
       "bank": 28056
     },
-    "exp": 147695,
+    "exp": 147710,
     "energi": 99999,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-08T15:44:33.513Z",
@@ -138504,7 +138512,7 @@
   "6285654272237": {
     "jid": "6285654272237",
     "rpg": {},
-    "exp": 1845,
+    "exp": 1860,
     "energi": 999999,
     "name": "Vinno Pratama",
     "lastSeen": "2026-11-09T13:34:20.040Z",
@@ -138625,7 +138633,7 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 5970,
+    "exp": 5985,
     "energi": 999999,
     "name": "kenal pot ga?",
     "lastSeen": "2026-11-09T13:36:28.334Z",
@@ -138797,7 +138805,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 4920,
+    "exp": 4935,
     "name": "ndra",
     "lastSeen": "2026-11-09T13:35:50.150Z",
     "energi": 999999,
@@ -141718,8 +141726,11 @@
   "60105433486": {
     "jid": "60105433486",
     "rpg": {},
-    "exp": 1095,
-    "energi": 99999
+    "exp": 1110,
+    "energi": 999999,
+    "name": "kazim",
+    "lastSeen": "2026-11-09T13:37:04.002Z",
+    "cooldowns": {}
   },
   "6285718116077": {
     "jid": "6285718116077",
@@ -141825,7 +141836,7 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 1215,
+    "exp": 1245,
     "name": "boss alip",
     "lastSeen": "2026-11-09T11:09:34.980Z",
     "energi": 999999,
@@ -142744,12 +142755,12 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 675,
+    "exp": 690,
     "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-09T13:35:17.727Z",
+    "lastSeen": "2026-11-09T13:36:53.386Z",
     "cooldowns": {
-      "cekfemboy": 1794231323512
+      "cekfemboy": 1794231423187
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
@@ -143030,9 +143041,9 @@
   "6282113725803": {
     "jid": "6282113725803",
     "rpg": {},
-    "exp": 615,
+    "exp": 630,
     "name": "Ghiff || Farzzz",
-    "lastSeen": "2026-11-09T13:24:30.306Z",
+    "lastSeen": "2026-11-09T13:37:00.965Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794230674447
@@ -143058,6 +143069,6 @@
   "6283146057793": {
     "jid": "6283146057793",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
