@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17530,
+    "exp": 17545,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -4269,10 +4269,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T11:07:50.529Z",
+    "lastSeen": "2026-11-09T11:10:24.547Z",
     "cooldowns": {
       "add": 1780188185320,
-      "afk": 1794222473072,
+      "afk": 1794222627043,
       "brathd": 1783767785836,
       "tebakbendera": 1780197149583,
       "allmenu": 1783915442481,
@@ -139156,7 +139156,7 @@
   "6287769926363": {
     "jid": "6287769926363",
     "rpg": {},
-    "exp": 1395,
+    "exp": 1410,
     "energi": 99999
   },
   "6285821723719": {
