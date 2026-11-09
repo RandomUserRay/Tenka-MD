@@ -38041,12 +38041,12 @@
   },
   "6289504533660": {
     "jid": "6289504533660",
-    "name": "Unknown",
+    "name": "RalzzKapanAjaJagonya",
     "number": "6289504533660",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9810,
+    "exp": 9825,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -38055,8 +38055,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-18T06:58:19.066Z",
-    "cooldowns": {},
+    "lastSeen": "2026-11-09T13:19:36.784Z",
+    "cooldowns": {
+      "cekfemboy": 1794230379937
+    },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
@@ -38065,7 +38067,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   },
   "6289614704000": {
     "name": "catcaine",
@@ -91387,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57990,
+    "exp": 58020,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101815,7 +101819,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2655,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -142187,12 +142191,12 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 1650,
+    "exp": 1680,
     "name": "iqrom",
-    "lastSeen": "2026-11-09T13:19:18.708Z",
+    "lastSeen": "2026-11-09T13:19:42.389Z",
     "energi": 999999,
     "cooldowns": {
-      "cekfemboy": 1794230365897,
+      "cekfemboy": 1794230387352,
       "terima": 1794069561621,
       "afk": 1794069647204,
       "cekhoki": 1794127995623
