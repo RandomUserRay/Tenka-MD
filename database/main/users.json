@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58515,
+    "exp": 58530,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139149,15 +139149,16 @@
   "6285126320318": {
     "jid": "6285126320318",
     "rpg": {},
-    "exp": 3240,
-    "energi": 99999,
+    "exp": 3255,
+    "energi": 999999,
     "name": "so asik lu",
-    "lastSeen": "2026-11-09T13:10:23.705Z",
+    "lastSeen": "2026-11-09T13:27:02.618Z",
     "cooldowns": {
-      "menucat": 1793918664886
+      "menucat": 1793918664886,
+      "cekfemboy": 1794230828614
     },
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 2
   },
   "6285936722691": {
     "jid": "6285936722691",
@@ -142950,9 +142951,15 @@
   "628877726471": {
     "jid": "628877726471",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "name": "Ceo Yang sedang Menyamar",
-    "lastSeen": "2026-11-09T12:15:33.292Z"
+    "lastSeen": "2026-11-09T13:27:01.766Z",
+    "energi": 999999,
+    "cooldowns": {
+      "cekfemboy": 1794230825233
+    },
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   },
   "6285156460240": {
     "jid": "6285156460240",
