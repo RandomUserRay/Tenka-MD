@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 727151,
+    "exp": 727166,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -4260,7 +4260,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17515,
+    "exp": 17530,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -141789,7 +141789,7 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 840,
+    "exp": 855,
     "name": "boss alip",
     "lastSeen": "2026-11-09T11:09:34.980Z",
     "energi": 999999,
@@ -142867,11 +142867,11 @@
   "6285973219550": {
     "jid": "6285973219550",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   },
   "6289520766210": {
     "jid": "6289520766210",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
