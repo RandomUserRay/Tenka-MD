@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 728006,
+    "exp": 728021,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -35906,7 +35906,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1062492,
+    "exp": 1062507,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -91399,7 +91399,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59145,
+    "exp": 59175,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99584,7 +99584,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 26835,
+    "exp": 26850,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -138633,10 +138633,10 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 6060,
+    "exp": 6075,
     "energi": 999999,
     "name": "kenal pot ga?",
-    "lastSeen": "2026-11-09T13:36:28.334Z",
+    "lastSeen": "2026-11-09T13:39:02.202Z",
     "cooldowns": {
       "kiss": 1793890237110,
       "menu": 1793890359651,
@@ -138805,7 +138805,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 4965,
+    "exp": 4980,
     "name": "ndra",
     "lastSeen": "2026-11-09T13:35:50.150Z",
     "energi": 999999,
@@ -141843,15 +141843,16 @@
   "6282128394420": {
     "jid": "6282128394420",
     "rpg": {},
-    "exp": 1410,
+    "exp": 1425,
     "name": "boss alip",
-    "lastSeen": "2026-11-09T11:09:34.980Z",
+    "lastSeen": "2026-11-09T13:39:00.186Z",
     "energi": 999999,
     "cooldowns": {
       "afk": 1794149612438,
       "cekhoki": 1794127977774,
       "cekfemboy": 1794112396007,
-      "femboy": 1794222582018
+      "femboy": 1794222582018,
+      "cekganteng": 1794231540899
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 3
