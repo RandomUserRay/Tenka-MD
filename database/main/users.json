@@ -101819,7 +101819,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2850,
+    "exp": 2865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -142208,16 +142208,17 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 1980,
+    "exp": 1995,
     "name": "iqrom",
-    "lastSeen": "2026-11-09T13:27:40.669Z",
+    "lastSeen": "2026-11-09T13:28:15.652Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794230407101,
       "terima": 1794069561621,
       "afk": 1794069647204,
       "cekhoki": 1794230647739,
-      "cekganteng": 1794230861641
+      "cekganteng": 1794230861641,
+      "cekcantik": 1794230896652
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 3,
