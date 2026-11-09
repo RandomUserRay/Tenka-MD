@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 703509,
+    "exp": 703584,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -142794,12 +142794,12 @@
   "6282192279704": {
     "jid": "6282192279704",
     "rpg": {},
-    "exp": 150,
+    "exp": 180,
     "energi": 99999,
     "name": "k",
-    "lastSeen": "2026-11-09T16:02:50.721Z",
+    "lastSeen": "2026-11-09T16:03:09.575Z",
     "cooldowns": {
-      "quiz": 1794240170172
+      "quiz": 1794240190673
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
