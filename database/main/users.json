@@ -95994,7 +95994,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 585,
+    "exp": 600,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101827,7 +101827,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3390,
+    "exp": 3405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -121904,7 +121904,7 @@
   "6281539964211": {
     "jid": "6281539964211",
     "rpg": {},
-    "exp": 304935,
+    "exp": 304950,
     "energi": 99999,
     "cooldowns": {
       "afk": 1794050759007,
@@ -141104,18 +141104,19 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 5100,
-    "energi": 99999,
+    "exp": 5115,
+    "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-08T10:23:58.664Z",
+    "lastSeen": "2026-11-09T13:55:29.739Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
       "cekfemboy": 1794096477482,
-      "tembak": 1794097256082
+      "tembak": 1794097256082,
+      "promote": 1794232531185
     },
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 2,
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 3,
     "fun": {
       "tembakTarget": "6289671886267@s.whatsapp.net",
       "tembakCount": 1
