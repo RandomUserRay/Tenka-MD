@@ -55019,7 +55019,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 237656,
+    "exp": 237731,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -97381,7 +97381,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42683,
+    "exp": 42698,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -137705,7 +137705,7 @@
   "6281110002769": {
     "jid": "6281110002769",
     "rpg": {},
-    "exp": 2715,
+    "exp": 2730,
     "name": "M",
     "lastSeen": "2026-11-08T15:12:32.775Z",
     "cooldowns": {
@@ -142826,6 +142826,10 @@
     "rpg": {},
     "exp": 15,
     "energi": 999999,
-    "cooldowns": {}
+    "cooldowns": {
+      "cekfemboy": 1794221306351
+    },
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   }
 }
