@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58455,
+    "exp": 58485,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139261,7 +139261,8 @@
     "name": "dugong_udara😏",
     "lastSeen": "2026-11-09T13:26:05.782Z",
     "cooldowns": {
-      "cekhoki": 1794230722548
+      "cekhoki": 1794230722548,
+      "cekfemboy": 1794230774016
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
@@ -143015,5 +143016,10 @@
     "jid": "6289677008346",
     "rpg": {},
     "exp": 120
+  },
+  "6283827115429": {
+    "jid": "6283827115429",
+    "rpg": {},
+    "exp": 15
   }
 }
