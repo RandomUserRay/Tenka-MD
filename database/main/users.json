@@ -3094,7 +3094,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 726746,
+    "exp": 726776,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -142818,5 +142818,14 @@
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
+  },
+  "6282373455755": {
+    "name": "entah",
+    "lastSeen": "2026-11-09T10:48:14.740Z",
+    "jid": "6282373455755",
+    "rpg": {},
+    "exp": 15,
+    "energi": 999999,
+    "cooldowns": {}
   }
 }
