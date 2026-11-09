@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58260,
+    "exp": 58290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -131556,7 +131556,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3180,
+    "exp": 3195,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-09T13:20:57.757Z",
     "cooldowns": {
@@ -138907,8 +138907,15 @@
   "6285183175033": {
     "jid": "6285183175033",
     "rpg": {},
-    "exp": 570,
-    "energi": 99999
+    "exp": 585,
+    "energi": 999999,
+    "name": "sty halal",
+    "lastSeen": "2026-11-09T13:24:01.511Z",
+    "cooldowns": {
+      "cekhoki": 1794230643282
+    },
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 1
   },
   "6285817755682": {
     "jid": "6285817755682",
