@@ -97397,7 +97397,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44153,
+    "exp": 44168,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -99585,7 +99585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 27600,
+    "exp": 27615,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -136828,10 +136828,10 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 47885,
+    "exp": 47960,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-09T22:18:20.206Z",
+    "lastSeen": "2026-11-09T23:14:27.676Z",
     "cooldowns": {
       "menu": 1794261316388,
       "allmenu": 1793298911907,
@@ -143224,12 +143224,12 @@
   "6283142336905": {
     "jid": "6283142336905",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6285188084291": {
     "jid": "6285188084291",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "name": "kaidenmambo",
     "lastSeen": "2026-11-09T23:06:55.235Z"
   },
