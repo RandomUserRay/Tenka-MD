@@ -35903,10 +35903,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1061892,
+    "exp": 1061922,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35915,7 +35915,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T14:33:35.531Z",
+    "lastSeen": "2026-11-09T13:33:46.636Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36102,7 +36102,7 @@
       "divorce": 1790250796141,
       "tebakanimechar": 1790251799705,
       "intro": 1791636439654,
-      "mutegc": 1794129306116,
+      "mutegc": 1794231228485,
       "unmutegc": 1794148415972,
       "antitoxic": 1791467541507,
       "antispam": 1794128616123,
@@ -36224,8 +36224,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 26
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 27
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -138504,7 +138504,7 @@
   "6285654272237": {
     "jid": "6285654272237",
     "rpg": {},
-    "exp": 1650,
+    "exp": 1665,
     "energi": 99999,
     "name": "Vinno Pratama",
     "lastSeen": "2026-11-09T13:33:27.821Z"
