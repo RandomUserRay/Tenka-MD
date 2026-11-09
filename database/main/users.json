@@ -4255,12 +4255,12 @@
   },
   "62881027137463": {
     "jid": "62881027137463",
-    "name": "jehh",
+    "name": "AL=alamat",
     "number": "62881027137463",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17110,
+    "exp": 17140,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -4269,10 +4269,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T15:13:27.185Z",
+    "lastSeen": "2026-11-09T10:49:24.824Z",
     "cooldowns": {
       "add": 1780188185320,
-      "afk": 1794150809390,
+      "afk": 1794221368067,
       "brathd": 1783767785836,
       "tebakbendera": 1780197149583,
       "allmenu": 1783915442481,
@@ -4327,8 +4327,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 5
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 6
   },
   "60149424655": {
     "jid": "60149424655",
@@ -122749,7 +122749,7 @@
   "6285165048021": {
     "jid": "6285165048021",
     "rpg": {},
-    "exp": 9780,
+    "exp": 9810,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-07T18:18:06.540Z",
@@ -130043,7 +130043,7 @@
   "62895602789802": {
     "jid": "62895602789802",
     "rpg": {},
-    "exp": 120,
+    "exp": 135,
     "energi": 99999
   },
   "6285821433928": {
@@ -141872,7 +141872,7 @@
   "6281371332181": {
     "jid": "6281371332181",
     "rpg": {},
-    "exp": 225,
+    "exp": 240,
     "energi": 99999
   },
   "62882020574421": {
@@ -142738,7 +142738,7 @@
     "lastSeen": "2026-11-09T10:48:43.901Z",
     "jid": "62895405249231",
     "rpg": {},
-    "exp": 105,
+    "exp": 120,
     "energi": 999999,
     "cooldowns": {
       "afk": 1794148576200,
@@ -142822,13 +142822,13 @@
   },
   "6282373455755": {
     "name": "entah",
-    "lastSeen": "2026-11-09T10:48:14.740Z",
+    "lastSeen": "2026-11-09T10:49:29.288Z",
     "jid": "6282373455755",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 999999,
     "cooldowns": {
-      "cekfemboy": 1794221306351
+      "cekfemboy": 1794221371933
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 1
