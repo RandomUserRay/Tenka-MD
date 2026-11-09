@@ -91391,7 +91391,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58530,
+    "exp": 58545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -101819,7 +101819,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2865,
+    "exp": 2880,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139149,13 +139149,14 @@
   "6285126320318": {
     "jid": "6285126320318",
     "rpg": {},
-    "exp": 3285,
+    "exp": 3300,
     "energi": 999999,
     "name": "so asik lu",
-    "lastSeen": "2026-11-09T13:27:58.508Z",
+    "lastSeen": "2026-11-09T13:28:21.468Z",
     "cooldowns": {
       "menucat": 1793918664886,
-      "cekfemboy": 1794230828614
+      "cekfemboy": 1794230828614,
+      "cekganteng": 1794230902008
     },
     "lastActiveDate": "9/11/2026",
     "activeDays": 2
@@ -143014,7 +143015,7 @@
   "6282113725803": {
     "jid": "6282113725803",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "name": "Ghiff || Farzzz",
     "lastSeen": "2026-11-09T13:24:30.306Z",
     "energi": 999999,
