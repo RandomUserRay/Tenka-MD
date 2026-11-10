@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 705759,
+    "exp": 705834,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -54497,7 +54497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6810,
+    "exp": 6840,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -135473,15 +135473,15 @@
     "lastSeen": "2026-11-10T14:11:44.723Z",
     "cooldowns": {
       "menu": 1794222302646,
-      "tt": 1794222347424,
+      "tt": 1794319918035,
       "s": 1794102450853,
       "hd": 1793864761106,
       "pin": 1793981859029,
       "tomp3": 1794049785624,
       "jadibot": 1794222551564
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 6,
+    "lastActiveDate": "10/11/2026",
+    "activeDays": 7,
     "koin": 1030
   },
   "62882020062234": {
@@ -136829,10 +136829,10 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 50090,
+    "exp": 50180,
     "energi": 99999,
     "name": "R.F.K",
-    "lastSeen": "2026-11-10T14:11:21.934Z",
+    "lastSeen": "2026-11-10T14:11:55.793Z",
     "cooldowns": {
       "menu": 1794319678205,
       "allmenu": 1793298911907,
