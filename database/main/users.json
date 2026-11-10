@@ -91247,7 +91247,7 @@
     "energi": 1000036,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29839,
+    "exp": 29854,
     "level": 1,
     "koin": 7602,
     "saldo": 0,
@@ -93769,12 +93769,12 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 999999,
+    "energi": 1000005,
     "isPremium": false,
     "isBanned": false,
-    "exp": 414564,
+    "exp": 417236,
     "level": 1,
-    "koin": 50202,
+    "koin": 51665,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -134491,15 +134491,16 @@
   "6285199596205": {
     "jid": "6285199596205",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1065,
     "name": "y u r r a",
-    "lastSeen": "2026-10-26T01:43:06.051Z",
+    "lastSeen": "2026-11-10T22:48:37.660Z",
     "cooldowns": {
-      "cekfemboy": 1792978989614
+      "cekfemboy": 1792978989614,
+      "quiz": 1794350917896
     },
-    "lastActiveDate": "26/10/2026",
-    "activeDays": 1,
-    "energi": 99999
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 2,
+    "energi": 999999
   },
   "6281952869706": {
     "jid": "6281952869706",
