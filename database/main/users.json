@@ -99585,7 +99585,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 28815,
+    "exp": 28830,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99595,7 +99595,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-10T17:26:18.441Z",
+    "lastSeen": "2026-11-10T17:28:34.516Z",
     "cooldowns": {
       "play": 1794232733507,
       "menu": 1794331533077,
@@ -99630,7 +99630,8 @@
       "del": 1793967565238,
       "antispam": 1793997626726,
       "benefitpremium": 1793998027692,
-      "mutebot": 1794331582404
+      "mutebot": 1794331582404,
+      "unmute": 1794331715522
     },
     "clanId": "FEM",
     "isRegistered": false,
