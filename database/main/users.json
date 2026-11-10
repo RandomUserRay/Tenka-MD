@@ -22818,10 +22818,10 @@
     "jid": "6289677467174",
     "name": "Lixxya :3",
     "number": "6289677467174",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29722,
+    "exp": 29737,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -22830,7 +22830,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:48:38.480Z",
+    "lastSeen": "2026-11-10T14:01:53.472Z",
     "cooldowns": {
       "me": 1783409070254,
       "jodoh": 1782632804137,
@@ -143239,6 +143239,11 @@
     "rpg": {},
     "exp": 15
   },
+  "6285925823928": {
+    "jid": "6285925823928",
+    "rpg": {},
+    "exp": 30
+  },
   "6283140460210": {
     "name": "Ehhh",
     "lastSeen": "2026-11-10T12:38:07.754Z",
@@ -143247,11 +143252,6 @@
     "exp": 300,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1
-  },
-  "6285925823928": {
-    "jid": "6285925823928",
-    "rpg": {},
-    "exp": 30
   },
   "6282264270713": {
     "jid": "6282264270713",
