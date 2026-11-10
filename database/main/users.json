@@ -91311,13 +91311,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
     "inventory": {},
     "access": [],
