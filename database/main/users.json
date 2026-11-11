@@ -71450,7 +71450,8 @@
       "s": 1789731778309,
       "tiktokstalk": 1789889359382,
       "khodam": 1789900334766,
-      "stacktower": 1791206950981
+      "stacktower": 1791206950981,
+      "underwater": 1794407258489
     },
     "clanId": null,
     "isRegistered": false,
@@ -100764,7 +100765,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 480,
+    "exp": 495,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -143436,6 +143437,6 @@
   "6283172231378": {
     "jid": "6283172231378",
     "rpg": {},
-    "exp": 75
+    "exp": 105
   }
 }
