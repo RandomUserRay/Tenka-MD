@@ -4508,10 +4508,10 @@
     "jid": "628565071625",
     "name": "XYFIZZ",
     "number": "628565071625",
-    "energi": 99999,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237260,
+    "exp": 237275,
     "level": 1,
     "koin": 1020019999,
     "unlockedFeatures": [],
@@ -4520,7 +4520,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T07:29:57.926Z",
+    "lastSeen": "2026-11-11T13:56:22.570Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1794123002671,
@@ -122785,7 +122785,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12525,
+    "exp": 12540,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-10T14:52:50.851Z",
@@ -130594,7 +130594,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 29835,
+    "exp": 29850,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-11T13:35:43.527Z",
@@ -143297,7 +143297,7 @@
   "628134953488": {
     "jid": "628134953488",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "energi": 99999
   },
   "6281222419305": {
