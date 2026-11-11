@@ -71399,7 +71399,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47514,
+    "exp": 47529,
     "level": 1,
     "koin": 346637,
     "unlockedFeatures": [],
@@ -71408,7 +71408,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-11T14:26:26.316Z",
+    "lastSeen": "2026-11-11T14:26:44.755Z",
     "cooldowns": {
       "afk": 1790993804471,
       "smeme": 1789731801068,
@@ -131582,7 +131582,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3375,
+    "exp": 3390,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-11T14:26:33.184Z",
     "cooldowns": {
@@ -143436,6 +143436,6 @@
   "6283172231378": {
     "jid": "6283172231378",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
