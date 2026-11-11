@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1066302,
+    "exp": 1066317,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -87538,7 +87538,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5730,
+    "exp": 5760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127059,7 +127059,7 @@
   "6285792449616": {
     "jid": "6285792449616",
     "rpg": {},
-    "exp": 1455,
+    "exp": 1470,
     "name": "Reiyu",
     "lastSeen": "2026-10-11T16:58:36.440Z",
     "cooldowns": {
@@ -142807,7 +142807,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 2490,
+    "exp": 2550,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-11T07:05:14.350Z",
@@ -143269,20 +143269,20 @@
     "exp": 15,
     "energi": 99999
   },
-  "6283140460210": {
-    "name": "Ehhh",
-    "lastSeen": "2026-11-11T13:05:13.113Z",
-    "jid": "6283140460210",
-    "rpg": {},
-    "exp": 525,
-    "lastActiveDate": "11/11/2026",
-    "activeDays": 2,
-    "energi": 99999
-  },
   "6285925823928": {
     "jid": "6285925823928",
     "rpg": {},
     "exp": 315,
+    "energi": 99999
+  },
+  "6283140460210": {
+    "name": "Ehhh",
+    "lastSeen": "2026-11-10T12:38:07.754Z",
+    "jid": "6283140460210",
+    "rpg": {},
+    "exp": 450,
+    "lastActiveDate": "10/11/2026",
+    "activeDays": 1,
     "energi": 99999
   },
   "6282264270713": {
