@@ -142810,10 +142810,12 @@
     "lastSeen": "2026-11-11T07:05:14.350Z",
     "cooldowns": {
       "cekfemboy": 1794231423187,
-      "allmenu": 1794380717540
+      "allmenu": 1794380717540,
+      "profile": 1794380765144
     },
     "lastActiveDate": "11/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "registeredAt": 1794380761027
   },
   "6282164218238": {
     "jid": "6282164218238",
