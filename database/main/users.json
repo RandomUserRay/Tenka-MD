@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1067157,
+    "exp": 1067187,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35916,7 +35916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-11T14:25:23.914Z",
+    "lastSeen": "2026-11-11T14:36:29.346Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36090,7 +36090,7 @@
       "playvid": 1788908767233,
       "komiku": 1789191666335,
       "ceksial": 1789280680813,
-      "cekhoki": 1794407124455,
+      "cekhoki": 1794407790116,
       "cektsundere": 1789287591647,
       "qc": 1789547735330,
       "spek": 1789547873884,
@@ -143458,5 +143458,10 @@
     },
     "lastActiveDate": "11/11/2026",
     "activeDays": 1
+  },
+  "6289675010378": {
+    "jid": "6289675010378",
+    "rpg": {},
+    "exp": 15
   }
 }
