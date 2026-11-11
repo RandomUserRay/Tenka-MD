@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1063557,
+    "exp": 1063572,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -142804,15 +142804,16 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 1440,
-    "energi": 99999,
+    "exp": 1455,
+    "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-09T13:36:53.386Z",
+    "lastSeen": "2026-11-11T07:05:14.350Z",
     "cooldowns": {
-      "cekfemboy": 1794231423187
+      "cekfemboy": 1794231423187,
+      "allmenu": 1794380717540
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 2
   },
   "6282164218238": {
     "jid": "6282164218238",
