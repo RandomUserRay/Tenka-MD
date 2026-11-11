@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1067007,
+    "exp": 1067022,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -131583,7 +131583,7 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3600,
+    "exp": 3615,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-11T14:30:20.540Z",
     "cooldowns": {
@@ -142813,7 +142813,8 @@
     "cooldowns": {
       "cekfemboy": 1794407343550,
       "allmenu": 1794380717540,
-      "profile": 1794380765144
+      "profile": 1794380765144,
+      "hug": 1794407494574
     },
     "lastActiveDate": "11/11/2026",
     "activeDays": 2,
