@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 707559,
+    "exp": 707484,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -102035,7 +102035,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8010,
+    "exp": 7980,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -134883,7 +134883,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14910,
+    "exp": 14895,
     "energi": 99999,
     "name": "FMZA",
     "lastSeen": "2026-11-08T11:31:36.634Z",
@@ -143269,20 +143269,20 @@
     "exp": 15,
     "energi": 99999
   },
-  "6285925823928": {
-    "jid": "6285925823928",
-    "rpg": {},
-    "exp": 300,
-    "energi": 99999
-  },
   "6283140460210": {
     "name": "Ehhh",
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 375,
+    "exp": 450,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
+    "energi": 99999
+  },
+  "6285925823928": {
+    "jid": "6285925823928",
+    "rpg": {},
+    "exp": 300,
     "energi": 99999
   },
   "6282264270713": {
