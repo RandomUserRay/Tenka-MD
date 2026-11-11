@@ -122785,7 +122785,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12570,
+    "exp": 12600,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-10T14:52:50.851Z",
@@ -130586,15 +130586,15 @@
   "6281997507827": {
     "jid": "6281997507827",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 29955,
+    "exp": 30000,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-11T13:35:43.527Z",
@@ -143409,6 +143409,6 @@
   "6281313789733": {
     "jid": "6281313789733",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   }
 }
