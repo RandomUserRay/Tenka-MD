@@ -38043,12 +38043,12 @@
   },
   "6289504533660": {
     "jid": "6289504533660",
-    "name": "RalzzKapanAjaJagonya",
+    "name": "Ralzz",
     "number": "6289504533660",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10305,
+    "exp": 10320,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -38057,9 +38057,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T13:19:36.784Z",
+    "lastSeen": "2026-11-11T14:31:46.848Z",
     "cooldowns": {
-      "cekfemboy": 1794230379937
+      "cekfemboy": 1794230379937,
+      "kiss": 1794407510634
     },
     "clanId": null,
     "isRegistered": false,
@@ -38078,8 +38079,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 2
   },
   "6289614704000": {
     "name": "catcaine",
