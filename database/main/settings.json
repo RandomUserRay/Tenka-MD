@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
+      "at": 1794407924607
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
       "at": 1794152088410
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
       "at": 1790430824080
-    },
-    {
-      "cmd": "unknown",
-      "err": "Cannot read properties of null (reading 'contextInfo')",
-      "at": 1790264254256
     }
   ],
   "jpmBlacklist": [],
