@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1066647,
+    "exp": 1066677,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35916,7 +35916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-11T14:23:58.653Z",
+    "lastSeen": "2026-11-11T14:24:19.216Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -131582,9 +131582,9 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3255,
+    "exp": 3285,
     "name": "sitepugiovan",
-    "lastSeen": "2026-11-09T13:25:31.918Z",
+    "lastSeen": "2026-11-11T14:24:14.592Z",
     "cooldowns": {
       "afk": 1793083424229,
       "menucat": 1794066780430,
@@ -131598,11 +131598,12 @@
       "s": 1793698924052,
       "kiss": 1793799647397,
       "gay": 1794066787691,
-      "cekfemboy": 1794230738801
+      "cekfemboy": 1794230738801,
+      "cekhoki": 1794407055158
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 9,
-    "energi": 99999
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 10,
+    "energi": 999999
   },
   "6285167005769": {
     "jid": "6285167005769",
@@ -141120,7 +141121,7 @@
   "6285762463308": {
     "jid": "6285762463308",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6282261969429": {
