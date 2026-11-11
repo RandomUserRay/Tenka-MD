@@ -134901,17 +134901,18 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15600,
-    "energi": 99999,
+    "exp": 15615,
+    "energi": 99998,
     "name": "FMZA",
-    "lastSeen": "2026-11-11T19:02:55.646Z",
+    "lastSeen": "2026-11-11T19:03:38.936Z",
     "cooldowns": {
-      "s": 1794137499622,
+      "s": 1794423820327,
       "afk": 1794078119305,
-      "femboy": 1794076521790
+      "femboy": 1794076521790,
+      "me": 1794423782426
     },
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 2,
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 3,
     "registeredAt": 1794423777540
   },
   "6283184530258": {
