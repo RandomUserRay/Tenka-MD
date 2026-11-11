@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1066812,
+    "exp": 1066857,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -38048,7 +38048,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10110,
+    "exp": 10140,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71396,10 +71396,10 @@
     "jid": "601163956586",
     "name": "harniza",
     "number": "601163956586",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47499,
+    "exp": 47514,
     "level": 1,
     "koin": 346637,
     "unlockedFeatures": [],
@@ -71408,7 +71408,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-10T15:36:30.019Z",
+    "lastSeen": "2026-11-11T14:26:26.316Z",
     "cooldowns": {
       "afk": 1790993804471,
       "smeme": 1789731801068,
@@ -71420,7 +71420,7 @@
       "me": 1786630541415,
       "menu": 1791264571595,
       "ping": 1785404257239,
-      "play": 1793547965078,
+      "play": 1794407199080,
       "judi": 1789739438795,
       "casino": 1789739457161,
       "gift": 1785419977995,
@@ -71489,8 +71489,8 @@
       "jadiPacar": 1785419925220,
       "terimaCount": 1
     },
-    "lastActiveDate": "10/11/2026",
-    "activeDays": 21,
+    "lastActiveDate": "11/11/2026",
+    "activeDays": 22,
     "lastStreamer": 1789730017380
   },
   "6287793284347": {
@@ -131582,9 +131582,9 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {},
-    "exp": 3360,
+    "exp": 3375,
     "name": "sitepugiovan",
-    "lastSeen": "2026-11-11T14:25:44.166Z",
+    "lastSeen": "2026-11-11T14:26:33.184Z",
     "cooldowns": {
       "afk": 1793083424229,
       "menucat": 1794066780430,
@@ -143436,6 +143436,6 @@
   "6283172231378": {
     "jid": "6283172231378",
     "rpg": {},
-    "exp": 15
+    "exp": 45
   }
 }
