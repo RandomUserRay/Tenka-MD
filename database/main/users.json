@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1069047,
+    "exp": 1069062,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -143310,12 +143310,13 @@
   "6281586516622": {
     "jid": "6281586516622",
     "rpg": {},
-    "exp": 825,
-    "energi": 999997,
+    "exp": 840,
+    "energi": 999998,
     "name": "bread",
-    "lastSeen": "2026-11-12T06:04:39.535Z",
+    "lastSeen": "2026-11-12T08:52:29.573Z",
     "cooldowns": {
-      "trap": 1794463483660
+      "trap": 1794463483660,
+      "smeme": 1794473550831
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 1
