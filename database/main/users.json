@@ -22822,7 +22822,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29752,
+    "exp": 29767,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93807,10 +93807,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99999,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435123,
+    "exp": 435333,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -93820,7 +93820,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T16:56:30.935Z",
+    "lastSeen": "2026-11-12T17:00:28.309Z",
     "cooldowns": {
       "play": 1794351167245,
       "femboy": 1794140867665,
@@ -93905,7 +93905,7 @@
       "caklontong": 1794118163923,
       "asupan": 1794118376682,
       "cuntboy": 1794119498990,
-      "me": 1794140650745,
+      "me": 1794502777045,
       "bank": 1794462984118,
       "p": 1794121740849,
       "daftar": 1794121772622,
@@ -130458,10 +130458,10 @@
       "stamina": 135,
       "bank": 0
     },
-    "exp": 78165,
-    "energi": 99999,
+    "exp": 78345,
+    "energi": 99997,
     "name": "Lana",
-    "lastSeen": "2026-11-12T16:57:20.773Z",
+    "lastSeen": "2026-11-12T17:00:13.382Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1794480799993,
@@ -130478,7 +130478,7 @@
       "afk": 1794063327268,
       "femboyvid": 1793711353571,
       "open": 1794247974159,
-      "profile": 1794502644242
+      "profile": 1794502766888
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 11,
@@ -135529,8 +135529,16 @@
   "6285828970573": {
     "jid": "6285828970573",
     "rpg": {},
-    "exp": 105,
-    "energi": 99999
+    "exp": 165,
+    "energi": 99999,
+    "registeredAt": 1794502764278,
+    "name": "𝔥𝔞𝔟𝔦𝔟𝔦 𝕰𝖑𝖊𝖛𝖊𝖓",
+    "lastSeen": "2026-11-12T16:59:24.372Z",
+    "cooldowns": {
+      "profile": 1794502767454
+    },
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 1
   },
   "628216185441": {
     "jid": "628216185441",
@@ -143325,7 +143333,7 @@
   "6281586516622": {
     "jid": "6281586516622",
     "rpg": {},
-    "exp": 885,
+    "exp": 900,
     "energi": 99999,
     "name": "bread",
     "lastSeen": "2026-11-12T08:55:51.247Z",
@@ -144059,9 +144067,10 @@
   "6282118452920": {
     "jid": "6282118452920",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1095,
     "name": "Om Renaldi",
     "lastSeen": "2026-11-12T15:09:46.267Z",
+    "registeredAt": 1794502762653,
     "energi": 99999
   },
   "6283110217928": {
