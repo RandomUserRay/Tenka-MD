@@ -38081,7 +38081,8 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "11/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "fun": {}
   },
   "6289614704000": {
     "name": "catcaine",
@@ -138990,7 +138991,7 @@
   "6285183175033": {
     "jid": "6285183175033",
     "rpg": {},
-    "exp": 675,
+    "exp": 690,
     "energi": 999999,
     "name": "sty halal",
     "lastSeen": "2026-11-12T05:26:25.348Z",
@@ -142902,10 +142903,10 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3555,
-    "energi": 999999,
+    "exp": 3585,
+    "energi": 999998,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-12T05:43:10.889Z",
+    "lastSeen": "2026-11-12T05:43:49.480Z",
     "cooldowns": {
       "cekfemboy": 1794407343550,
       "allmenu": 1794380717540,
@@ -142917,7 +142918,10 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 3,
     "registeredAt": 1794380761027,
-    "fun": {}
+    "fun": {
+      "tembakTarget": "6289504533660@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6282164218238": {
     "jid": "6282164218238",
