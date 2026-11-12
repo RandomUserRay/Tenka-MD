@@ -58088,10 +58088,10 @@
     "jid": "6285935360380",
     "name": "Anda.",
     "number": "6285935360380",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114055,
+    "exp": 114070,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -58100,7 +58100,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T06:33:12.112Z",
+    "lastSeen": "2026-11-12T06:33:42.388Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -58150,7 +58150,8 @@
       "training": 1784334696189,
       "truth": 1789963848256,
       "ytmp4": 1793799546671,
-      "tebaknegara": 1794465107112
+      "tebaknegara": 1794465107112,
+      "kiss": 1794465227451
     },
     "clanId": null,
     "isRegistered": false,
@@ -143728,8 +143729,8 @@
   "6289673257309": {
     "jid": "6289673257309",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "MILO Indonesia",
-    "lastSeen": "2026-11-12T06:31:41.437Z"
+    "lastSeen": "2026-11-12T06:33:48.174Z"
   }
 }
