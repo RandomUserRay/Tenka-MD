@@ -54502,7 +54502,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8265,
+    "exp": 8310,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54511,7 +54511,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:44:42.616Z",
+    "lastSeen": "2026-11-12T05:45:32.402Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
@@ -54533,7 +54533,6 @@
     "fun": {
       "tembakCount": 4,
       "ditolakCount": 1,
-      "pasangan": "628988955311@s.whatsapp.net",
       "jadiPacar": 1794462263901,
       "terimaCount": 1
     }
@@ -142474,21 +142473,21 @@
   "6282386666216": {
     "jid": "6282386666216",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "name": "yama",
-    "lastSeen": "2026-11-12T05:45:15.389Z",
+    "lastSeen": "2026-11-12T05:45:20.816Z",
     "energi": 999999,
     "cooldowns": {
       "afk": 1794148644693,
       "menu": 1794456509306,
       "menucat": 1794456524893,
-      "asu": 1794456532178,
-      "gay": 1794456540803,
+      "asu": 1794462318578,
+      "gay": 1794462338809,
       "lesby": 1794456548783,
       "cekpacar": 1794456565715,
       "tembak": 1794462071186,
       "siapa": 1794456864608,
-      "yatim": 1794456884451,
+      "yatim": 1794462324076,
       "kiss": 1794461989266,
       "putus": 1794462029846,
       "tolak": 1794462140410
@@ -142907,7 +142906,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3660,
+    "exp": 3675,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-12T05:44:45.058Z",
@@ -142926,7 +142925,6 @@
     "fun": {
       "tembakTarget": "6289504533660@s.whatsapp.net",
       "tembakCount": 1,
-      "pasangan": "6281339787411@s.whatsapp.net",
       "jadiPacar": 1794462263901
     }
   },
@@ -143681,5 +143679,10 @@
     "jid": "628132954423",
     "rpg": {},
     "exp": 15
+  },
+  "6283151290492": {
+    "jid": "6283151290492",
+    "rpg": {},
+    "exp": 45
   }
 }
