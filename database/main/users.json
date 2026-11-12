@@ -54501,7 +54501,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7635,
+    "exp": 7650,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54513,7 +54513,7 @@
     "lastSeen": "2026-11-12T04:43:55.894Z",
     "cooldowns": {
       "demote": 1794151868859,
-      "kick": 1794151875182
+      "kick": 1794458640921
     },
     "clanId": null,
     "isRegistered": false,
@@ -54524,8 +54524,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 2
   },
   "601128191960": {
     "jid": "601128191960",
