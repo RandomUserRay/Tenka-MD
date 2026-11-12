@@ -93789,10 +93789,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 419967,
+    "exp": 419982,
     "level": 1,
     "koin": 52621,
     "saldo": 0,
@@ -93802,7 +93802,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-10T23:07:44.303Z",
+    "lastSeen": "2026-11-12T05:46:24.431Z",
     "cooldowns": {
       "play": 1794351167245,
       "femboy": 1794140867665,
@@ -142907,7 +142907,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3675,
+    "exp": 3690,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-12T05:44:45.058Z",
@@ -143608,9 +143608,9 @@
   "6289529092640": {
     "jid": "6289529092640",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "kenz abiz",
-    "lastSeen": "2026-11-12T05:45:41.631Z",
+    "lastSeen": "2026-11-12T05:46:24.958Z",
     "energi": 999999,
     "cooldowns": {
       "owner": 1794439761539,
@@ -143684,6 +143684,6 @@
   "6283151290492": {
     "jid": "6283151290492",
     "rpg": {},
-    "exp": 75
+    "exp": 105
   }
 }
