@@ -54501,7 +54501,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8070,
+    "exp": 8085,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,12 +54510,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:40:56.213Z",
+    "lastSeen": "2026-11-12T05:41:45.885Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
       "tembak": 1794462044394,
-      "terima": 1794462057000
+      "terima": 1794462057000,
+      "menu": 1794462110511
     },
     "clanId": null,
     "isRegistered": false,
@@ -141032,7 +141033,7 @@
   "6283124992715": {
     "jid": "6283124992715",
     "rpg": {},
-    "exp": 915,
+    "exp": 930,
     "energi": 999999,
     "name": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎",
     "lastSeen": "2026-11-11T23:37:32.376Z",
@@ -142468,7 +142469,7 @@
   "6282386666216": {
     "jid": "6282386666216",
     "rpg": {},
-    "exp": 705,
+    "exp": 720,
     "name": "yama",
     "lastSeen": "2026-11-12T05:41:07.393Z",
     "energi": 999998,
