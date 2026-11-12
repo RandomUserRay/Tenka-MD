@@ -93810,7 +93810,7 @@
     "energi": 10003,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435183,
+    "exp": 435213,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -130458,10 +130458,10 @@
       "stamina": 135,
       "bank": 0
     },
-    "exp": 78165,
+    "exp": 78255,
     "energi": 9999,
     "name": "Lana",
-    "lastSeen": "2026-11-12T16:57:20.773Z",
+    "lastSeen": "2026-11-12T16:59:20.780Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1794480799993,
@@ -144007,7 +144007,8 @@
     "rpg": {},
     "exp": 1095,
     "name": "Om Renaldi",
-    "lastSeen": "2026-11-12T15:09:46.267Z"
+    "lastSeen": "2026-11-12T15:09:46.267Z",
+    "registeredAt": 1794502762653
   },
   "6283110217928": {
     "jid": "6283110217928",
