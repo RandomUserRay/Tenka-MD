@@ -142843,16 +142843,16 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 5709,
+    "exp": 5739,
     "name": "JSM",
-    "lastSeen": "2026-11-12T06:32:43.762Z",
+    "lastSeen": "2026-11-12T06:34:09.839Z",
     "energi": 999998,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
       "tebaknegara": 1794465041551,
-      "tembak": 1794465165047,
+      "tembak": 1794465251336,
       "putus": 1794462958526,
       "tolak": 1794463090194
     },
@@ -142860,10 +142860,11 @@
     "activeDays": 2,
     "koin": 4275,
     "fun": {
-      "tembakCount": 4,
+      "tembakCount": 5,
       "jadiPacar": 1794462951003,
       "terimaCount": 1,
-      "ditolakCount": 1
+      "ditolakCount": 1,
+      "tembakTarget": "6282131144804@s.whatsapp.net"
     }
   },
   "6282240032890": {
