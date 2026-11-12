@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 711909,
+    "exp": 711984,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -135535,10 +135535,11 @@
     "name": "𝔥𝔞𝔟𝔦𝔟𝔦 𝕰𝖑𝖊𝖛𝖊𝖓",
     "lastSeen": "2026-11-12T17:03:59.619Z",
     "cooldowns": {
-      "profile": 1794502767454
+      "profile": 1794502767454,
+      "pin": 1794503048180
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 2
   },
   "628216185441": {
     "jid": "628216185441",
@@ -136919,7 +136920,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 55250,
+    "exp": 55265,
     "energi": 99999,
     "name": "R.F.K",
     "lastSeen": "2026-11-12T13:16:42.659Z",
