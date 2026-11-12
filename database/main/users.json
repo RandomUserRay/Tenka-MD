@@ -143859,8 +143859,12 @@
     "exp": 60,
     "name": "muha-madha dhaffaella ash",
     "lastSeen": "2026-11-12T12:47:05.475Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "play": 1794487644959
+    },
+    "energi": 23,
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 1
   },
   "6287728868134": {
     "jid": "6287728868134",
