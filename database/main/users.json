@@ -54502,7 +54502,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8550,
+    "exp": 8580,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54535,8 +54535,7 @@
       "tembakCount": 4,
       "ditolakCount": 1,
       "jadiPacar": 1794462951003,
-      "terimaCount": 1,
-      "pasangan": "6281273632015@s.whatsapp.net"
+      "terimaCount": 1
     }
   },
   "601128191960": {
@@ -142837,23 +142836,23 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 3189,
+    "exp": 3219,
     "name": "JSM",
-    "lastSeen": "2026-11-12T05:55:37.497Z",
-    "energi": 999998,
+    "lastSeen": "2026-11-12T05:55:56.405Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
       "tebaknegara": 1794461710212,
-      "tembak": 1794462939399
+      "tembak": 1794462939399,
+      "putus": 1794462958526
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "koin": 1962,
     "fun": {
       "tembakCount": 1,
-      "pasangan": "6281339787411@s.whatsapp.net",
       "jadiPacar": 1794462951003,
       "terimaCount": 1
     }
