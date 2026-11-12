@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 708159,
+    "exp": 708084,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -54502,7 +54502,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8625,
+    "exp": 8535,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54511,12 +54511,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:55:51.001Z",
+    "lastSeen": "2026-11-12T05:52:06.009Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794462727993,
       "tembak": 1794462268256,
-      "terima": 1794462952774,
+      "terima": 1794462284414,
       "menu": 1794462110511,
       "putus": 1794462365579
     },
@@ -54534,7 +54534,7 @@
     "fun": {
       "tembakCount": 4,
       "ditolakCount": 1,
-      "jadiPacar": 1794462951003,
+      "jadiPacar": 1794462263901,
       "terimaCount": 1
     }
   },
@@ -93789,10 +93789,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 430907,
+    "exp": 430877,
     "level": 1,
     "koin": 58563,
     "saldo": 0,
@@ -93802,7 +93802,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:56:23.730Z",
+    "lastSeen": "2026-11-12T05:55:07.827Z",
     "cooldowns": {
       "play": 1794351167245,
       "femboy": 1794140867665,
@@ -93888,7 +93888,7 @@
       "asupan": 1794118376682,
       "cuntboy": 1794119498990,
       "me": 1794140650745,
-      "bank": 1794462984118,
+      "bank": 1794121718216,
       "p": 1794121740849,
       "daftar": 1794121772622,
       "hug": 1794122074006,
@@ -142836,26 +142836,20 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 3234,
+    "exp": 3159,
     "name": "JSM",
-    "lastSeen": "2026-11-12T05:55:56.405Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-12T05:44:17.836Z",
+    "energi": 999998,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
       "tebaknegara": 1794461710212,
-      "tembak": 1794462939399,
-      "putus": 1794462958526
+      "tembak": 1794462260422
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
-    "koin": 1962,
-    "fun": {
-      "tembakCount": 1,
-      "jadiPacar": 1794462951003,
-      "terimaCount": 1
-    }
+    "koin": 1962
   },
   "6282240032890": {
     "jid": "6282240032890",
@@ -142914,7 +142908,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3795,
+    "exp": 3765,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-12T05:44:45.058Z",
@@ -143419,20 +143413,20 @@
     "exp": 15,
     "energi": 99999
   },
-  "6285925823928": {
-    "jid": "6285925823928",
-    "rpg": {},
-    "exp": 330,
-    "energi": 99999
-  },
   "6283140460210": {
     "name": "Ehhh",
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 525,
+    "exp": 600,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
+    "energi": 99999
+  },
+  "6285925823928": {
+    "jid": "6285925823928",
+    "rpg": {},
+    "exp": 330,
     "energi": 99999
   },
   "6282264270713": {
