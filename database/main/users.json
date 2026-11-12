@@ -54501,7 +54501,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8025,
+    "exp": 8040,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -142462,9 +142462,9 @@
   "6282386666216": {
     "jid": "6282386666216",
     "rpg": {},
-    "exp": 645,
+    "exp": 660,
     "name": "yama",
-    "lastSeen": "2026-11-12T05:39:44.390Z",
+    "lastSeen": "2026-11-12T05:40:20.030Z",
     "energi": 999998,
     "cooldowns": {
       "afk": 1794148644693,
@@ -142474,7 +142474,7 @@
       "gay": 1794456540803,
       "lesby": 1794456548783,
       "cekpacar": 1794456565715,
-      "tembak": 1794456580684,
+      "tembak": 1794462020693,
       "siapa": 1794456864608,
       "yatim": 1794456884451,
       "kiss": 1794461989266
@@ -143107,10 +143107,12 @@
     "cooldowns": {
       "cekfemboy": 1794229900642,
       "cekhoki": 1794230667973,
-      "cekganteng": 1794230889449
+      "cekganteng": 1794230889449,
+      "kiss": 1794462017257
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 2,
+    "fun": {}
   },
   "628812051098": {
     "jid": "628812051098",
