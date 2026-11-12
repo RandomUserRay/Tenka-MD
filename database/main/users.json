@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 712284,
+    "exp": 712359,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -126305,7 +126305,7 @@
       "stamina": 175,
       "bank": 28056
     },
-    "exp": 151476,
+    "exp": 151491,
     "energi": 99999,
     "name": "Pipo Pino suka hazelnut",
     "lastSeen": "2026-11-12T14:16:02.209Z",
@@ -144149,6 +144149,11 @@
   },
   "6287849673656": {
     "jid": "6287849673656",
+    "rpg": {},
+    "exp": 15
+  },
+  "6283179362376": {
+    "jid": "6283179362376",
     "rpg": {},
     "exp": 15
   }
