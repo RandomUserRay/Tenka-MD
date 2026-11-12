@@ -54498,10 +54498,10 @@
     "jid": "6281339787411",
     "name": "tt:bocil67",
     "number": "6281339787411",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8085,
+    "exp": 8115,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,11 +54510,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:41:45.885Z",
+    "lastSeen": "2026-11-12T05:41:53.483Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
-      "tembak": 1794462044394,
+      "tembak": 1794462117070,
       "terima": 1794462057000,
       "menu": 1794462110511
     },
@@ -54530,8 +54530,8 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
-      "tembakTarget": "6282131144804@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakTarget": "6282386666216@s.whatsapp.net",
+      "tembakCount": 2
     }
   },
   "601128191960": {
@@ -142900,7 +142900,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3510,
+    "exp": 3540,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-12T05:40:58.094Z",
