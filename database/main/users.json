@@ -131614,15 +131614,15 @@
   "6282373503633": {
     "jid": "6282373503633",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 18497,
+    "exp": 21114,
     "name": "sitepugiovan",
     "lastSeen": "2026-11-12T06:47:43.700Z",
     "cooldowns": {
@@ -131648,8 +131648,8 @@
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 11,
-    "energi": 999999,
-    "koin": 7980
+    "energi": 1000003,
+    "koin": 9014
   },
   "6285167005769": {
     "jid": "6285167005769",
