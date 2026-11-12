@@ -81514,7 +81514,7 @@
     "cooldowns": {
       "play": 1787637739862,
       "s": 1787751681463,
-      "naked": 1793647610465
+      "naked": 1794491052914
     },
     "clanId": null,
     "isRegistered": false,
@@ -81524,8 +81524,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "3/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 3
   },
   "62895630205708": {
     "jid": "62895630205708",
@@ -99622,10 +99622,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 32535,
+    "exp": 32550,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99635,7 +99635,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T11:44:04.137Z",
+    "lastSeen": "2026-11-12T13:44:30.332Z",
     "cooldowns": {
       "play": 1794232733507,
       "menu": 1794353524121,
@@ -99646,7 +99646,7 @@
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517,
       "open": 1793784791496,
-      "me": 1794122614065,
+      "me": 1794491075242,
       "owner": 1793223857562,
       "intro": 1794052222572,
       "setintro": 1793224197412,
@@ -142962,7 +142962,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 4995,
+    "exp": 5025,
     "energi": 999999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-12T10:09:31.573Z",
