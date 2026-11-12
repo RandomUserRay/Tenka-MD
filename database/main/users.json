@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1067472,
+    "exp": 1067487,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -58092,7 +58092,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114100,
+    "exp": 114115,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -142854,7 +142854,7 @@
     "lastSeen": "2026-11-12T06:35:25.185Z",
     "energi": 999999,
     "cooldowns": {
-      "menu": 1794124625513,
+      "menu": 1794465334426,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
       "tebaknegara": 1794465041551,
@@ -143736,8 +143736,14 @@
   "6289673257309": {
     "jid": "6289673257309",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "MILO Indonesia",
-    "lastSeen": "2026-11-12T06:33:48.174Z"
+    "lastSeen": "2026-11-12T06:35:32.524Z",
+    "energi": 999999,
+    "cooldowns": {
+      "owner": 1794465337339
+    },
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 1
   }
 }
