@@ -38081,8 +38081,7 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "11/11/2026",
-    "activeDays": 2,
-    "fun": {}
+    "activeDays": 2
   },
   "6289614704000": {
     "name": "catcaine",
@@ -54502,7 +54501,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8235,
+    "exp": 8220,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -138991,7 +138990,7 @@
   "6285183175033": {
     "jid": "6285183175033",
     "rpg": {},
-    "exp": 690,
+    "exp": 675,
     "energi": 999999,
     "name": "sty halal",
     "lastSeen": "2026-11-12T05:26:25.348Z",
@@ -142903,26 +142902,22 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3585,
-    "energi": 999998,
+    "exp": 3555,
+    "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-12T05:43:49.480Z",
+    "lastSeen": "2026-11-12T05:43:10.889Z",
     "cooldowns": {
       "cekfemboy": 1794407343550,
       "allmenu": 1794380717540,
       "profile": 1794380765144,
       "hug": 1794407494574,
       "menu": 1794462070312,
-      "terima": 1794462192788,
-      "tembak": 1794462233920
+      "terima": 1794462192788
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 3,
     "registeredAt": 1794380761027,
-    "fun": {
-      "tembakTarget": "6289504533660@s.whatsapp.net",
-      "tembakCount": 1
-    }
+    "fun": {}
   },
   "6282164218238": {
     "jid": "6282164218238",
@@ -143407,20 +143402,20 @@
     "exp": 15,
     "energi": 99999
   },
-  "6285925823928": {
-    "jid": "6285925823928",
-    "rpg": {},
-    "exp": 330,
-    "energi": 99999
-  },
   "6283140460210": {
     "name": "Ehhh",
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 525,
+    "exp": 600,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
+    "energi": 99999
+  },
+  "6285925823928": {
+    "jid": "6285925823928",
+    "rpg": {},
+    "exp": 330,
     "energi": 99999
   },
   "6282264270713": {
