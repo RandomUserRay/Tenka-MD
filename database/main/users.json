@@ -54498,10 +54498,10 @@
     "jid": "6281339787411",
     "name": "tt:bocil67",
     "number": "6281339787411",
-    "energi": 999998,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8055,
+    "exp": 8070,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,11 +54510,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:40:42.554Z",
+    "lastSeen": "2026-11-12T05:40:56.213Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
-      "tembak": 1794462044394
+      "tembak": 1794462044394,
+      "terima": 1794462057000
     },
     "clanId": null,
     "isRegistered": false,
@@ -142897,7 +142898,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3480,
+    "exp": 3495,
     "energi": 99999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-11T14:31:30.389Z",
