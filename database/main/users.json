@@ -54502,7 +54502,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8625,
+    "exp": 8640,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54511,14 +54511,15 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:55:51.001Z",
+    "lastSeen": "2026-11-12T05:57:51.476Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794462727993,
       "tembak": 1794462268256,
       "terima": 1794462952774,
       "menu": 1794462110511,
-      "putus": 1794462365579
+      "putus": 1794462365579,
+      "tolak": 1794463074082
     },
     "clanId": null,
     "isRegistered": false,
