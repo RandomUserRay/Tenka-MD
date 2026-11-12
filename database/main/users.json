@@ -54498,10 +54498,10 @@
     "jid": "6281339787411",
     "name": "tt:bocil67",
     "number": "6281339787411",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8040,
+    "exp": 8055,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,10 +54510,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T04:43:55.894Z",
+    "lastSeen": "2026-11-12T05:40:42.554Z",
     "cooldowns": {
       "demote": 1794151868859,
-      "kick": 1794458640921
+      "kick": 1794458640921,
+      "tembak": 1794462044394
     },
     "clanId": null,
     "isRegistered": false,
@@ -54525,7 +54526,11 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "12/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "fun": {
+      "tembakTarget": "6282131144804@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "601128191960": {
     "jid": "601128191960",
@@ -142462,10 +142467,10 @@
   "6282386666216": {
     "jid": "6282386666216",
     "rpg": {},
-    "exp": 660,
+    "exp": 690,
     "name": "yama",
-    "lastSeen": "2026-11-12T05:40:20.030Z",
-    "energi": 999998,
+    "lastSeen": "2026-11-12T05:40:40.683Z",
+    "energi": 999999,
     "cooldowns": {
       "afk": 1794148644693,
       "menu": 1794456509306,
@@ -142477,13 +142482,13 @@
       "tembak": 1794462020693,
       "siapa": 1794456864608,
       "yatim": 1794456884451,
-      "kiss": 1794461989266
+      "kiss": 1794461989266,
+      "putus": 1794462029846
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
       "tembakCount": 1,
-      "pasangan": "6282396814820@s.whatsapp.net",
       "jadiPacar": 1794456593562,
       "terimaCount": 1
     }
@@ -143547,7 +143552,6 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
-      "pasangan": "6282386666216@s.whatsapp.net",
       "jadiPacar": 1794456593562
     }
   },
