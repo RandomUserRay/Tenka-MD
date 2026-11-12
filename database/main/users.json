@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 709884,
+    "exp": 710034,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -1884,13 +1884,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 71,
-      "health": 800,
-      "maxHealth": 800,
-      "mana": 450,
-      "maxMana": 450,
-      "stamina": 450,
-      "maxStamina": 450
+      "level": 72,
+      "health": 810,
+      "maxHealth": 810,
+      "mana": 455,
+      "maxMana": 455,
+      "stamina": 455,
+      "maxStamina": 455
     },
     "inventory": {
       "potion": 1,
