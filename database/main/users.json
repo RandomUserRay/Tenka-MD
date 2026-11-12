@@ -54501,7 +54501,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8145,
+    "exp": 8175,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,11 +54510,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:41:53.483Z",
+    "lastSeen": "2026-11-12T05:42:38.223Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
-      "tembak": 1794462117070,
+      "tembak": 1794462160652,
       "terima": 1794462057000,
       "menu": 1794462110511
     },
@@ -54530,8 +54530,9 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
-      "tembakCount": 2,
-      "ditolakCount": 1
+      "tembakCount": 3,
+      "ditolakCount": 1,
+      "tembakTarget": "628988955311@s.whatsapp.net"
     }
   },
   "601128191960": {
@@ -142914,7 +142915,8 @@
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 3,
-    "registeredAt": 1794380761027
+    "registeredAt": 1794380761027,
+    "fun": {}
   },
   "6282164218238": {
     "jid": "6282164218238",
