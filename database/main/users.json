@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1070292,
+    "exp": 1070307,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -91281,7 +91281,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 30364,
+    "exp": 30379,
     "level": 1,
     "koin": 7602,
     "saldo": 0,
@@ -125545,7 +125545,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 22131,
+    "exp": 22146,
     "name": "paduka riyy",
     "lastSeen": "2026-11-07T03:23:10.568Z",
     "cooldowns": {
@@ -143908,6 +143908,11 @@
   },
   "6285355318167": {
     "jid": "6285355318167",
+    "rpg": {},
+    "exp": 15
+  },
+  "6287782308142": {
+    "jid": "6287782308142",
     "rpg": {},
     "exp": 15
   }
