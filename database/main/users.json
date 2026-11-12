@@ -54530,8 +54530,8 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
-      "tembakTarget": "6282386666216@s.whatsapp.net",
-      "tembakCount": 2
+      "tembakCount": 2,
+      "ditolakCount": 1
     }
   },
   "601128191960": {
@@ -142469,10 +142469,10 @@
   "6282386666216": {
     "jid": "6282386666216",
     "rpg": {},
-    "exp": 720,
+    "exp": 735,
     "name": "yama",
-    "lastSeen": "2026-11-12T05:41:07.393Z",
-    "energi": 999998,
+    "lastSeen": "2026-11-12T05:42:16.311Z",
+    "energi": 999999,
     "cooldowns": {
       "afk": 1794148644693,
       "menu": 1794456509306,
@@ -142485,7 +142485,8 @@
       "siapa": 1794456864608,
       "yatim": 1794456884451,
       "kiss": 1794461989266,
-      "putus": 1794462029846
+      "putus": 1794462029846,
+      "tolak": 1794462140410
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
