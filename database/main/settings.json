@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
+      "at": 1794464322560
+    },
+    {
+      "cmd": "unknown",
+      "err": "db.getAllUsers is not a function",
       "at": 1794407924607
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
       "at": 1790490026440
-    },
-    {
-      "cmd": "unknown",
-      "err": "Source harus berupa Buffer, URL string, path file, object { url }, atau payload media",
-      "at": 1790430824080
     }
   ],
   "jpmBlacklist": [],
