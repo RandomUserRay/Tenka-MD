@@ -93789,10 +93789,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 1000003,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 424358,
+    "exp": 424373,
     "level": 1,
     "koin": 54205,
     "saldo": 0,
@@ -93802,7 +93802,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:50:15.690Z",
+    "lastSeen": "2026-11-12T05:50:38.636Z",
     "cooldowns": {
       "play": 1794351167245,
       "femboy": 1794140867665,
@@ -93882,7 +93882,7 @@
       "profile": 1794350588374,
       "koin": 1794117521838,
       "family100": 1794117563010,
-      "quiz": 1794462615949,
+      "quiz": 1794462638967,
       "tebakgambar": 1794117980728,
       "caklontong": 1794118163923,
       "asupan": 1794118376682,
@@ -138486,7 +138486,7 @@
   "6285758216422": {
     "jid": "6285758216422",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1680,
     "energi": 99999
   },
   "6285733007254": {
