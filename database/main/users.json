@@ -142866,7 +142866,7 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 6609,
+    "exp": 6624,
     "name": "JSM",
     "lastSeen": "2026-11-12T07:28:51.909Z",
     "energi": 999998,
@@ -143148,15 +143148,20 @@
   "6285973219550": {
     "jid": "6285973219550",
     "rpg": {},
-    "exp": 750,
-    "name": "idc",
-    "lastSeen": "2026-11-09T11:35:18.428Z",
-    "energi": 99999,
+    "exp": 765,
+    "name": "Finzz Stur",
+    "lastSeen": "2026-11-12T07:30:23.556Z",
+    "energi": 999998,
     "cooldowns": {
-      "femboy": 1794224125573
+      "femboy": 1794224125573,
+      "tembak": 1794468626612
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 2,
+    "fun": {
+      "tembakTarget": "6282131144804@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6289520766210": {
     "jid": "6289520766210",
