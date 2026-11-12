@@ -35907,7 +35907,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1067457,
+    "exp": 1067472,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35916,7 +35916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T06:33:09.513Z",
+    "lastSeen": "2026-11-12T06:34:27.268Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36158,7 +36158,8 @@
       "autodl": 1794148297475,
       "jadwalgroup": 1794148407230,
       "profile": 1794380902445,
-      "tembak": 1794465162786
+      "tembak": 1794465162786,
+      "terima": 1794465267991
     },
     "clanId": null,
     "isRegistered": false,
@@ -58091,7 +58092,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114070,
+    "exp": 114085,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -58100,7 +58101,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T06:33:42.388Z",
+    "lastSeen": "2026-11-12T06:34:18.058Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -58151,7 +58152,8 @@
       "truth": 1789963848256,
       "ytmp4": 1793799546671,
       "tebaknegara": 1794465107112,
-      "kiss": 1794465227451
+      "kiss": 1794465227451,
+      "tembak": 1794465259415
     },
     "clanId": null,
     "isRegistered": false,
@@ -58184,7 +58186,11 @@
     "access": [],
     "lastStreamer": 1784166392345,
     "lastActiveDate": "12/11/2026",
-    "activeDays": 3
+    "activeDays": 3,
+    "fun": {
+      "tembakTarget": "6282131144804@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6281260046909": {
     "jid": "6281260046909",
