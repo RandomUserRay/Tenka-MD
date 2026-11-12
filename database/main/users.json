@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 708009,
+    "exp": 708084,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -38081,7 +38081,8 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "11/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "fun": {}
   },
   "6289614704000": {
     "name": "catcaine",
@@ -54498,10 +54499,10 @@
     "jid": "6281339787411",
     "name": "tt:bocil67",
     "number": "6281339787411",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8220,
+    "exp": 8250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54510,11 +54511,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T05:43:25.859Z",
+    "lastSeen": "2026-11-12T05:44:20.853Z",
     "cooldowns": {
       "demote": 1794151868859,
       "kick": 1794458640921,
-      "tembak": 1794462160652,
+      "tembak": 1794462268256,
       "terima": 1794462207211,
       "menu": 1794462110511
     },
@@ -54530,9 +54531,11 @@
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
     "fun": {
-      "tembakCount": 3,
+      "tembakCount": 4,
       "ditolakCount": 1,
-      "tembakTarget": "628988955311@s.whatsapp.net"
+      "pasangan": "628988955311@s.whatsapp.net",
+      "jadiPacar": 1794462263901,
+      "terimaCount": 1
     }
   },
   "601128191960": {
@@ -138990,7 +138993,7 @@
   "6285183175033": {
     "jid": "6285183175033",
     "rpg": {},
-    "exp": 675,
+    "exp": 690,
     "energi": 999999,
     "name": "sty halal",
     "lastSeen": "2026-11-12T05:26:25.348Z",
@@ -141034,7 +141037,7 @@
   "6283124992715": {
     "jid": "6283124992715",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "energi": 999999,
     "name": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎",
     "lastSeen": "2026-11-11T23:37:32.376Z",
@@ -142831,15 +142834,16 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 3039,
+    "exp": 3054,
     "name": "JSM",
-    "lastSeen": "2026-11-12T05:35:07.945Z",
-    "energi": 1000002,
+    "lastSeen": "2026-11-12T05:44:17.836Z",
+    "energi": 999998,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
-      "tebaknegara": 1794461710212
+      "tebaknegara": 1794461710212,
+      "tembak": 1794462260422
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 2,
@@ -142902,22 +142906,28 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 3555,
+    "exp": 3600,
     "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-12T05:43:10.889Z",
+    "lastSeen": "2026-11-12T05:44:23.893Z",
     "cooldowns": {
       "cekfemboy": 1794407343550,
       "allmenu": 1794380717540,
       "profile": 1794380765144,
       "hug": 1794407494574,
       "menu": 1794462070312,
-      "terima": 1794462192788
+      "terima": 1794462276734,
+      "tembak": 1794462233920
     },
     "lastActiveDate": "12/11/2026",
     "activeDays": 3,
     "registeredAt": 1794380761027,
-    "fun": {}
+    "fun": {
+      "tembakTarget": "6289504533660@s.whatsapp.net",
+      "tembakCount": 1,
+      "pasangan": "6281339787411@s.whatsapp.net",
+      "jadiPacar": 1794462263901
+    }
   },
   "6282164218238": {
     "jid": "6282164218238",
@@ -143402,20 +143412,20 @@
     "exp": 15,
     "energi": 99999
   },
+  "6285925823928": {
+    "jid": "6285925823928",
+    "rpg": {},
+    "exp": 330,
+    "energi": 99999
+  },
   "6283140460210": {
     "name": "Ehhh",
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 600,
+    "exp": 525,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
-    "energi": 99999
-  },
-  "6285925823928": {
-    "jid": "6285925823928",
-    "rpg": {},
-    "exp": 330,
     "energi": 99999
   },
   "6282264270713": {
