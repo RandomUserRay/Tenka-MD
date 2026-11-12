@@ -54502,7 +54502,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8370,
+    "exp": 8385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93789,12 +93789,12 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 999999,
+    "energi": 1000007,
     "isPremium": false,
     "isBanned": false,
-    "exp": 429344,
+    "exp": 430817,
     "level": 1,
-    "koin": 57206,
+    "koin": 58563,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -93905,13 +93905,13 @@
     "regAge": 1,
     "regGender": "Laki-laki",
     "rpg": {
-      "level": 43,
-      "maxHealth": 520,
-      "maxMana": 310,
-      "maxStamina": 310,
-      "health": 520,
-      "mana": 310,
-      "stamina": 310,
+      "level": 44,
+      "maxHealth": 530,
+      "maxMana": 315,
+      "maxStamina": 315,
+      "health": 530,
+      "mana": 315,
+      "stamina": 315,
       "attack": 10,
       "bank": 0
     },
@@ -141038,7 +141038,7 @@
   "6283124992715": {
     "jid": "6283124992715",
     "rpg": {},
-    "exp": 1020,
+    "exp": 1035,
     "energi": 999999,
     "name": "‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎",
     "lastSeen": "2026-11-11T23:37:32.376Z",
@@ -141066,8 +141066,8 @@
   "62882015211195": {
     "jid": "62882015211195",
     "rpg": {},
-    "exp": 1005,
-    "energi": 999999,
+    "exp": 2141,
+    "energi": 1000003,
     "name": "Rift💦💦",
     "lastSeen": "2026-11-12T05:51:59.390Z",
     "cooldowns": {
@@ -141075,7 +141075,8 @@
       "tebaknegara": 1794462722478
     },
     "lastActiveDate": "12/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "koin": 741
   },
   "6285946758250": {
     "jid": "6285946758250",
