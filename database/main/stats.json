@@ -1,6 +1,6 @@
 {
   "commandErrors": 694,
-  "commandsExecuted": 143929,
+  "commandsExecuted": 143930,
   "command_totalchat": 28,
   "command_menu": 2686,
   "command_fb": 17,
@@ -1491,5 +1491,6 @@
   "command_culik": 2,
   "command_otpspam": 2,
   "command_cs": 1,
-  "command_cscheck": 2
+  "command_cscheck": 2,
+  "command_guildmembers": 1
 }
