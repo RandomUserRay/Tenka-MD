@@ -35904,10 +35904,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1067412,
+    "exp": 1067427,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35916,7 +35916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T03:30:37.468Z",
+    "lastSeen": "2026-11-12T06:32:41.397Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36157,7 +36157,8 @@
       "autoai": 1794148289433,
       "autodl": 1794148297475,
       "jadwalgroup": 1794148407230,
-      "profile": 1794380902445
+      "profile": 1794380902445,
+      "tembak": 1794465162786
     },
     "clanId": null,
     "isRegistered": false,
@@ -36215,7 +36216,10 @@
       "koran": 6
     },
     "access": [],
-    "fun": {},
+    "fun": {
+      "tembakTarget": "6281339787411@s.whatsapp.net",
+      "tembakCount": 1
+    },
     "quest": {
       "mining5": {
         "progress": 0,
@@ -58087,7 +58091,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114010,
+    "exp": 114025,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -142361,7 +142365,7 @@
   "6285839381489": {
     "jid": "6285839381489",
     "rpg": {},
-    "exp": 2160,
+    "exp": 2175,
     "name": "iqrom",
     "lastSeen": "2026-11-09T13:39:22.152Z",
     "energi": 99999,
@@ -142838,16 +142842,16 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 5664,
+    "exp": 5679,
     "name": "JSM",
-    "lastSeen": "2026-11-12T06:30:39.938Z",
-    "energi": 1000009,
+    "lastSeen": "2026-11-12T06:32:43.762Z",
+    "energi": 999998,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
       "caklontong": 1794124544405,
       "tebaknegara": 1794465041551,
-      "tembak": 1794463268739,
+      "tembak": 1794465165047,
       "putus": 1794462958526,
       "tolak": 1794463090194
     },
@@ -142855,7 +142859,7 @@
     "activeDays": 2,
     "koin": 4275,
     "fun": {
-      "tembakCount": 3,
+      "tembakCount": 4,
       "jadiPacar": 1794462951003,
       "terimaCount": 1,
       "tembakTarget": "6282131144804@s.whatsapp.net"
