@@ -142820,17 +142820,18 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1485,
     "name": "JSM",
-    "lastSeen": "2026-11-12T02:57:25.904Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-12T05:33:22.098Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1794124625513,
       "menucat": 1794124645487,
-      "caklontong": 1794124544405
+      "caklontong": 1794124544405,
+      "tebaknegara": 1794461604583
     },
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "12/11/2026",
+    "activeDays": 2
   },
   "6282240032890": {
     "jid": "6282240032890",
