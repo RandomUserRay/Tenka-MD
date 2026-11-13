@@ -93661,7 +93661,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6720,
+    "exp": 6735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125545,9 +125545,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 22731,
+    "exp": 22746,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-07T03:23:10.568Z",
+    "lastSeen": "2026-11-13T10:36:26.498Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125589,11 +125589,12 @@
       "bego": 1793799678247,
       "tendang": 1793800300284,
       "kick": 1794019211399,
-      "antikudeta": 1794017641718
+      "antikudeta": 1794017641718,
+      "ht": 1794566187928
     },
-    "energi": 99999,
-    "lastActiveDate": "7/11/2026",
-    "activeDays": 9,
+    "energi": 999999,
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 10,
     "fun": {
       "jadiPacar": 1789917115599
     },
