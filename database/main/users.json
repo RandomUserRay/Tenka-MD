@@ -144289,18 +144289,21 @@
   "62895323925694": {
     "jid": "62895323925694",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "name": "manusia seribu iq",
-    "lastSeen": "2026-11-13T09:37:27.548Z",
+    "lastSeen": "2026-11-13T09:50:19.234Z",
     "cooldowns": {
       "bucin": 1794562398201,
-      "tembak": 1794562455563,
+      "tembak": 1794563420781,
       "menucat": 1794562647939
     },
     "lastActiveDate": "13/11/2026",
     "activeDays": 1,
-    "energi": 24,
-    "fun": {}
+    "energi": 23,
+    "fun": {
+      "tembakTarget": "6281255484985@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6285828315051": {
     "jid": "6285828315051",
