@@ -144301,8 +144301,10 @@
     "activeDays": 1,
     "energi": 23,
     "fun": {
-      "tembakTarget": "6281255484985@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakCount": 1,
+      "pasangan": "6281255484985@s.whatsapp.net",
+      "jadiPacar": 1794563458479,
+      "terimaCount": 1
     }
   },
   "6285828315051": {
@@ -144322,14 +144324,17 @@
   },
   "6281255484985": {
     "name": "ell parker",
-    "lastSeen": "2026-11-13T09:50:48.015Z",
+    "lastSeen": "2026-11-13T09:50:58.477Z",
     "jid": "6281255484985",
     "rpg": {},
-    "exp": 15,
+    "exp": 45,
     "cooldowns": {
-      "terima": 1794563448518
+      "terima": 1794563459186
     },
-    "fun": {},
+    "fun": {
+      "pasangan": "62895323925694@s.whatsapp.net",
+      "jadiPacar": 1794563458479
+    },
     "lastActiveDate": "13/11/2026",
     "activeDays": 1
   }
