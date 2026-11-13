@@ -50641,8 +50641,8 @@
         "name": "Unknown"
       },
       "6281939062025@s.whatsapp.net": {
-        "count": 1123,
-        "lastChat": 1794573789133,
+        "count": 1125,
+        "lastChat": 1794573812948,
         "name": "Rayen🕸️"
       },
       "6283867242353@s.whatsapp.net": {
@@ -55302,16 +55302,18 @@
         "name": "AoiMizu"
       },
       "6285284891404@s.whatsapp.net": {
-        "count": 18,
-        "lastChat": 1794573749484,
+        "count": 19,
+        "lastChat": 1794573817452,
         "name": "Lana"
       },
       "6285755379245@s.whatsapp.net": {
-        "count": 4,
-        "lastChat": 1794573800182,
+        "count": 5,
+        "lastChat": 1794573808767,
         "name": "Zay"
       }
     },
-    "name": "After Math"
+    "name": "After Math",
+    "antispam": "on",
+    "spamTimeoutTime": 120
   }
 }
