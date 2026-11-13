@@ -55307,13 +55307,15 @@
         "name": "Lana"
       },
       "6285755379245@s.whatsapp.net": {
-        "count": 5,
-        "lastChat": 1794573808767,
+        "count": 6,
+        "lastChat": 1794573875633,
         "name": "Zay"
       }
     },
     "name": "After Math",
     "antispam": "on",
-    "spamTimeoutTime": 120
+    "spamTimeoutTime": 120,
+    "spamLimitCount": 8,
+    "spamLimitTime": 15
   }
 }
