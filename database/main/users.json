@@ -67883,7 +67883,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180021,
+    "exp": 180036,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67898,9 +67898,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-13T09:41:05.792Z",
+    "lastSeen": "2026-11-13T11:41:01.108Z",
     "cooldowns": {
-      "afk": 1794138424206,
+      "afk": 1794570064124,
       "s": 1794562868491,
       "play": 1794137022474,
       "inv": 1786434391177,
@@ -93810,7 +93810,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435558,
+    "exp": 435573,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -99625,7 +99625,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34320,
+    "exp": 34350,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -143500,7 +143500,7 @@
   "6285188084291": {
     "jid": "6285188084291",
     "rpg": {},
-    "exp": 1575,
+    "exp": 1590,
     "name": "kaidenmambo",
     "lastSeen": "2026-11-09T23:06:55.235Z",
     "energi": 99999
