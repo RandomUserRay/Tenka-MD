@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 713034,
+    "exp": 713109,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -143514,7 +143514,7 @@
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 675,
+    "exp": 600,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
     "energi": 99999
@@ -144104,8 +144104,15 @@
   "6283813553057": {
     "jid": "6283813553057",
     "rpg": {},
-    "exp": 270,
-    "energi": 99999
+    "exp": 300,
+    "energi": 99999,
+    "name": "Widy suka dkv",
+    "lastSeen": "2026-11-13T09:31:57.635Z",
+    "cooldowns": {
+      "menucat": 1794562317971
+    },
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 1
   },
   "628388379533": {
     "jid": "628388379533",
@@ -144279,10 +144286,14 @@
   "62895323925694": {
     "jid": "62895323925694",
     "rpg": {},
-    "exp": 120,
+    "exp": 150,
     "name": "manusia seribu iq",
-    "lastSeen": "2026-11-13T09:31:33.721Z",
-    "cooldowns": {}
+    "lastSeen": "2026-11-13T09:33:17.838Z",
+    "cooldowns": {
+      "bucin": 1794562398201
+    },
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 1
   },
   "6285828315051": {
     "jid": "6285828315051",
