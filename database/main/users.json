@@ -35904,10 +35904,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1070787,
+    "exp": 1070802,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35916,7 +35916,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T11:57:56.758Z",
+    "lastSeen": "2026-11-13T09:49:10.188Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36108,7 +36108,7 @@
       "antitoxic": 1791467541507,
       "antispam": 1794469502402,
       "addcmdsticker": 1791467204540,
-      "antiswgc": 1794129386991,
+      "antiswgc": 1794563350547,
       "listtoxic": 1791478857550,
       "antilinkgc": 1791478899306,
       "jahy": 1791478974837,
@@ -36234,8 +36234,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 29
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 30
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -144309,6 +144309,11 @@
   },
   "6285143406867": {
     "jid": "6285143406867",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282256367672": {
+    "jid": "6282256367672",
     "rpg": {},
     "exp": 15
   }
