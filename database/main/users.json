@@ -97437,7 +97437,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44783,
+    "exp": 44813,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97447,13 +97447,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-12T04:05:12.153Z",
+    "lastSeen": "2026-11-13T07:53:20.238Z",
     "cooldowns": {
       "afk": 1794263927875,
       "play": 1794234280787,
       "smeme": 1794446840909,
       "s": 1794446765350,
-      "menu": 1791020902791,
+      "menu": 1794556407880,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
       "gay": 1788076153175,
@@ -97510,8 +97510,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 47
+    "lastActiveDate": "13/11/2026",
+    "activeDays": 48
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -143505,7 +143505,7 @@
   "6285925823928": {
     "jid": "6285925823928",
     "rpg": {},
-    "exp": 615,
+    "exp": 645,
     "energi": 99999
   },
   "6283140460210": {
