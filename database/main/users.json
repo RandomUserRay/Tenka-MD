@@ -97434,10 +97434,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44903,
+    "exp": 44918,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97447,12 +97447,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-13T14:13:38.538Z",
+    "lastSeen": "2026-11-13T17:52:12.423Z",
     "cooldowns": {
       "afk": 1794263927875,
       "play": 1794234280787,
       "smeme": 1794446840909,
-      "s": 1794446765350,
+      "s": 1794592333243,
       "menu": 1794556407880,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -97510,8 +97510,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/11/2026",
-    "activeDays": 48
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 49
   },
   "6285814414356": {
     "jid": "6285814414356",
