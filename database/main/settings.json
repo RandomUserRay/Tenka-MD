@@ -28,7 +28,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-11-13T17:00:00.089Z",
+  "lastLimitReset": "2026-11-13T17:00:00.239Z",
   "onlyThisGroup": false,
   "autoJpm": {
     "enabled": false,
@@ -33675,6 +33675,10 @@
     "6283117354740@s.whatsapp.net": {
       "jid": "6283117354740@s.whatsapp.net",
       "name": "𝘳𝘦𝘥𝘻𝘻"
+    },
+    "6285659321316@s.whatsapp.net": {
+      "jid": "6285659321316@s.whatsapp.net",
+      "name": "A. Jean Clarissa"
     }
   },
   "antiCall": false,
