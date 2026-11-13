@@ -144084,7 +144084,8 @@
     "registeredAt": 1794502762653,
     "energi": 99971,
     "cooldowns": {
-      "s": 1794526351102
+      "s": 1794526351102,
+      "menu": 1794562639654
     },
     "lastActiveDate": "13/11/2026",
     "activeDays": 1
@@ -144288,12 +144289,13 @@
   "62895323925694": {
     "jid": "62895323925694",
     "rpg": {},
-    "exp": 195,
+    "exp": 210,
     "name": "manusia seribu iq",
-    "lastSeen": "2026-11-13T09:34:31.625Z",
+    "lastSeen": "2026-11-13T09:37:27.548Z",
     "cooldowns": {
       "bucin": 1794562398201,
-      "tembak": 1794562455563
+      "tembak": 1794562455563,
+      "menucat": 1794562647939
     },
     "lastActiveDate": "13/11/2026",
     "activeDays": 1,
