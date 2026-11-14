@@ -35908,7 +35908,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1071717,
+    "exp": 1071732,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -130667,12 +130667,12 @@
   "60148092084": {
     "jid": "60148092084",
     "rpg": {},
-    "exp": 9353,
+    "exp": 9368,
     "name": "Baim/Leo/zar",
-    "lastSeen": "2026-11-14T05:31:47.038Z",
+    "lastSeen": "2026-11-14T05:32:08.464Z",
     "cooldowns": {
       "teka": 1793709748970,
-      "menu": 1794458003955,
+      "menu": 1794634314587,
       "play": 1794485307095,
       "ytmp4": 1793293690898,
       "me": 1794108608424,
@@ -130683,9 +130683,9 @@
       "afk": 1794126654683,
       "tsundere": 1793515624564
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 9,
-    "energi": 99999,
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 10,
+    "energi": 99998,
     "koin": 2459,
     "registeredAt": 1793368783037
   },
