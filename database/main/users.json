@@ -106527,7 +106527,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 278315,
+    "exp": 278330,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106537,9 +106537,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-13T07:33:13.687Z",
+    "lastSeen": "2026-11-14T04:08:26.406Z",
     "cooldowns": {
-      "menu": 1793771618229,
+      "menu": 1794629314037,
       "owner": 1793769454839,
       "menucat": 1793769487684,
       "tebakgambar": 1788623686903,
@@ -106629,8 +106629,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "13/11/2026",
-    "activeDays": 24
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 25
   },
   "6285859080403": {
     "jid": "6285859080403",
@@ -144595,6 +144595,6 @@
   "86793085005975": {
     "jid": "86793085005975",
     "rpg": {},
-    "exp": 180
+    "exp": 195
   }
 }
