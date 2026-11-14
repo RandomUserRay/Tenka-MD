@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1071882,
+    "exp": 1071897,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -141287,10 +141287,10 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 6960,
-    "energi": 99999,
+    "exp": 6975,
+    "energi": 999999,
     "name": "Finzz Stur",
-    "lastSeen": "2026-11-11T11:18:16.105Z",
+    "lastSeen": "2026-11-14T06:45:50.379Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -141300,10 +141300,11 @@
       "demote": 1794395228352,
       "femboy": 1794232816034,
       "warn": 1794395851177,
-      "resetwarn": 1794395896691
+      "resetwarn": 1794395896691,
+      "menu": 1794638758440
     },
-    "lastActiveDate": "11/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 5,
     "fun": {
       "tembakTarget": "6289671886267@s.whatsapp.net",
       "tembakCount": 1
@@ -143324,7 +143325,7 @@
   "60179037504": {
     "jid": "60179037504",
     "rpg": {},
-    "exp": 1500,
+    "exp": 1515,
     "energi": 99999
   },
   "6281519265525": {
