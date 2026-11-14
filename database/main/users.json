@@ -1601,10 +1601,10 @@
     "jid": "6285811674575",
     "name": "kirafkasuw",
     "number": "6285811674575",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 329636,
+    "exp": 329651,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-08T04:45:03.147Z",
+    "lastSeen": "2026-11-14T13:15:53.729Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1629,7 +1629,7 @@
       "profile": 1785307535812,
       "tembak": 1793882292204,
       "jodoh": 1780235036441,
-      "smeme": 1785540947956,
+      "smeme": 1794662154625,
       "kill": 1780404847290,
       "s": 1794029667741,
       "bank": 1790499461443,
@@ -1827,8 +1827,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 14
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 15
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -137492,7 +137492,7 @@
   "6281939062025": {
     "jid": "6281939062025",
     "rpg": {},
-    "exp": 8610,
+    "exp": 8625,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-14T10:46:06.840Z",
