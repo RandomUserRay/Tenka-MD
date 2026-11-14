@@ -67879,12 +67879,12 @@
   },
   "6283135864303": {
     "jid": "6283135864303",
-    "name": "el zio",
+    "name": "bukan diriku",
     "number": "6283135864303",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180126,
+    "exp": 180141,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67899,9 +67899,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-13T13:00:09.022Z",
+    "lastSeen": "2026-11-14T14:40:43.348Z",
     "cooldowns": {
-      "afk": 1794574807562,
+      "afk": 1794667246763,
       "s": 1794562868491,
       "play": 1794137022474,
       "inv": 1786434391177,
@@ -68038,8 +68038,8 @@
       "jadiPacar": 1786715009248,
       "terimaCount": 1
     },
-    "lastActiveDate": "13/11/2026",
-    "activeDays": 42
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 43
   },
   "6283157535809": {
     "jid": "6283157535809",
@@ -138151,7 +138151,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14100,
+    "exp": 14115,
     "name": "dfj",
     "lastSeen": "2026-11-08T13:08:16.165Z",
     "cooldowns": {
