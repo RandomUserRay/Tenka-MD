@@ -1604,7 +1604,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 329711,
+    "exp": 329696,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1613,7 +1613,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-14T13:18:39.920Z",
+    "lastSeen": "2026-11-14T13:16:36.728Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1727,7 +1727,7 @@
       "setwelcome": 1793882724073,
       "slap": 1793882006093,
       "punch": 1793882083421,
-      "h": 1794662322092,
+      "h": 1794015787502,
       "ht": 1794015741128,
       "sendbug": 1794113103254
     },
@@ -132941,11 +132941,11 @@
       "attack": 11,
       "guildId": "guild_1793887888393"
     },
-    "exp": 56970,
+    "exp": 56940,
     "name": "Thur rawring",
     "lastSeen": "2026-11-14T13:18:11.171Z",
     "cooldowns": {
-      "menu": 1794662301413,
+      "menu": 1793859007078,
       "menucat": 1793859222723,
       "cekkhodam": 1792945130859,
       "gay": 1793866936524,
@@ -132990,8 +132990,8 @@
       "sellall": 1793885876280,
       "guild": 1793887908799
     },
-    "lastActiveDate": "14/11/2026",
-    "activeDays": 10,
+    "lastActiveDate": "5/11/2026",
+    "activeDays": 9,
     "energi": 99999,
     "koin": 48928,
     "inventory": {
@@ -137492,7 +137492,7 @@
   "6281939062025": {
     "jid": "6281939062025",
     "rpg": {},
-    "exp": 8655,
+    "exp": 8670,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-14T10:46:06.840Z",
