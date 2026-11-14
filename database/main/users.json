@@ -143933,16 +143933,17 @@
   "6283138871360": {
     "jid": "6283138871360",
     "rpg": {},
-    "exp": 705,
+    "exp": 720,
     "name": "muha-madha dhaffaella ash",
-    "lastSeen": "2026-11-12T14:14:03.614Z",
+    "lastSeen": "2026-11-14T11:15:01.633Z",
     "cooldowns": {
       "play": 1794487654961,
-      "guild": 1794492844733
+      "guild": 1794492844733,
+      "afk": 1794654906305
     },
     "energi": 99999,
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 2
   },
   "6287728868134": {
     "jid": "6287728868134",
