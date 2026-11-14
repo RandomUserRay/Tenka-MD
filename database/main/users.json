@@ -134711,7 +134711,11 @@
     "energi": 99999,
     "name": "Hai",
     "lastSeen": "2026-11-14T13:47:20.301Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1794664047494
+    },
+    "lastActiveDate": "14/11/2026",
+    "activeDays": 1
   },
   "6285756389136": {
     "jid": "6285756389136",
