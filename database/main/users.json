@@ -97440,7 +97440,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45923,
+    "exp": 45938,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97450,7 +97450,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T05:33:56.697Z",
+    "lastSeen": "2026-11-15T05:34:25.130Z",
     "cooldowns": {
       "afk": 1794263927875,
       "play": 1794234280787,
@@ -97496,7 +97496,8 @@
       "open": 1793657233741,
       "kill": 1794064958213,
       "psikopat": 1794720480251,
-      "ceksetia": 1794720837041
+      "ceksetia": 1794720837041,
+      "ceksexy": 1794720865516
     },
     "clanId": null,
     "isRegistered": false,
@@ -144989,5 +144990,18 @@
     "jid": "6285726761184",
     "rpg": {},
     "exp": 15
+  },
+  "6285722111583": {
+    "name": "ini icam",
+    "lastSeen": "2026-11-15T05:34:13.468Z",
+    "jid": "6285722111583",
+    "rpg": {},
+    "exp": 15,
+    "energi": 999999,
+    "cooldowns": {
+      "owner": 1794720856159
+    },
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 1
   }
 }
