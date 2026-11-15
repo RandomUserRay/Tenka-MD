@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 716634,
+    "exp": 716559,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -38057,7 +38057,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10785,
+    "exp": 10740,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51039,7 +51039,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15765,
+    "exp": 15780,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61305,7 +61305,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7635,
+    "exp": 7665,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126310,13 +126310,13 @@
       "stamina": 175,
       "bank": 28056
     },
-    "exp": 154116,
+    "exp": 154101,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
-    "lastSeen": "2026-11-15T03:18:12.962Z",
+    "lastSeen": "2026-11-15T02:32:53.986Z",
     "cooldowns": {
       "femboy": 1794140347627,
-      "afk": 1794712695904,
+      "afk": 1794709976982,
       "play": 1793980213310,
       "s": 1794549434349,
       "level": 1793704008915,
@@ -136086,7 +136086,7 @@
   "6282226151250": {
     "jid": "6282226151250",
     "rpg": {},
-    "exp": 2835,
+    "exp": 2820,
     "energi": 99999
   },
   "6288271497955": {
@@ -138789,21 +138789,20 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 9270,
-    "energi": 999999,
+    "exp": 9195,
+    "energi": 99999,
     "name": "kenal pot ga?",
-    "lastSeen": "2026-11-15T03:19:09.696Z",
+    "lastSeen": "2026-11-15T03:11:55.446Z",
     "cooldowns": {
       "kiss": 1793890237110,
       "menu": 1793890359651,
       "terima": 1794097285740,
       "cekfemboy": 1794231393937,
       "level": 1794231543136,
-      "cekhoki": 1794231592606,
-      "asahotak": 1794712750353
+      "cekhoki": 1794231592606
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "9/11/2026",
+    "activeDays": 3,
     "fun": {}
   },
   "6285381607022": {
@@ -139964,7 +139963,7 @@
   "6285706288290": {
     "jid": "6285706288290",
     "rpg": {},
-    "exp": 1545,
+    "exp": 1470,
     "energi": 99999,
     "name": "Jeje aja",
     "lastSeen": "2026-11-12T06:18:42.549Z",
@@ -142023,7 +142022,7 @@
   "6287750218855": {
     "jid": "6287750218855",
     "rpg": {},
-    "exp": 4845,
+    "exp": 4740,
     "energi": 99999
   },
   "6281373789850": {
@@ -142391,18 +142390,18 @@
   "6285810348037": {
     "jid": "6285810348037",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
     },
-    "exp": 22249,
+    "exp": 17941,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:20:12.260Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-15T03:16:38.435Z",
+    "energi": 1000007,
     "cooldowns": {
       "cekhoki": 1794067206867,
       "afk": 1794708030891,
@@ -142410,12 +142409,12 @@
       "menu": 1794712305935,
       "owner": 1794712309595,
       "menucat": 1794712333882,
-      "asahotak": 1794712812886,
+      "asahotak": 1794712599077,
       "tebaknegara": 1794712562019
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 9767
+    "koin": 7196
   },
   "6282125410531": {
     "jid": "6282125410531",
@@ -143567,7 +143566,7 @@
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 975,
+    "exp": 1050,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
     "energi": 99999
@@ -144782,10 +144781,20 @@
     "rpg": {},
     "exp": 15
   },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 15
+  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 45
+    "exp": 30
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 135
   },
   "6282140545125": {
     "jid": "6282140545125",
