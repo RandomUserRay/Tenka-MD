@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117603918,
+    "exp": 117603933,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -9931,8 +9931,8 @@
       "stamina": 125,
       "maxStamina": 125,
       "bank": 3061303963,
-      "spouse": "6283135864303@s.whatsapp.net",
-      "marriedAt": 1790002539475
+      "spouse": null,
+      "marriedAt": null
     },
     "inventory": {},
     "access": [],
@@ -67884,9 +67884,9 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180321,
+    "exp": 180351,
     "level": 1,
-    "koin": 963,
+    "koin": 75963,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -67899,7 +67899,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T08:23:41.546Z",
+    "lastSeen": "2026-11-15T08:27:07.349Z",
     "cooldowns": {
       "afk": 1794667246763,
       "s": 1794714589199,
@@ -67912,7 +67912,7 @@
       "fishing": 1786373201603,
       "mining": 1786714545903,
       "work": 1786709664775,
-      "bank": 1790003366974,
+      "bank": 1794731217948,
       "dungeon": 1786372632927,
       "sleep": 1785611894098,
       "bot": 1785306167271,
@@ -67975,7 +67975,7 @@
       "training": 1790003956393,
       "tolak": 1786714790971,
       "love": 1791123756478,
-      "cerai": 1789475061902,
+      "cerai": 1794731228107,
       "tutup": 1789476760860,
       "open": 1789478015816,
       "close": 1789478007974,
@@ -68002,10 +68002,10 @@
       "maxMana": 190,
       "stamina": 190,
       "maxStamina": 190,
-      "bank": 1360637524,
+      "bank": 1360537524,
       "attack": 21,
-      "spouse": "6281310184404@s.whatsapp.net",
-      "marriedAt": 1790002539475,
+      "spouse": null,
+      "marriedAt": null,
       "defense": 15,
       "fishing": 20,
       "luck": 13
@@ -98929,7 +98929,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 780,
+    "exp": 795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130478,10 +130478,10 @@
       "stamina": 145,
       "bank": 0
     },
-    "exp": 91680,
+    "exp": 91755,
     "energi": 99997,
-    "name": "Devvarajha",
-    "lastSeen": "2026-11-15T03:33:47.774Z",
+    "name": "cum|and|jizz",
+    "lastSeen": "2026-11-15T08:26:26.300Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1794507230233,
@@ -130504,7 +130504,8 @@
       "yandere": 1794507387054,
       "tonaked": 1794543205147,
       "top": 1794713139170,
-      "smeme": 1794713636987
+      "smeme": 1794713636987,
+      "withdraw": 1794731186837
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 13,
@@ -145047,6 +145048,11 @@
   },
   "62895382151557": {
     "jid": "62895382151557",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285600812216": {
+    "jid": "6285600812216",
     "rpg": {},
     "exp": 15
   }
