@@ -488,12 +488,12 @@
   },
   "6282161002671": {
     "jid": "6282161002671",
-    "name": "Kyoi",
+    "name": "kyoi ntahlah",
     "number": "6282161002671",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117605253,
+    "exp": 117605268,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -502,7 +502,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T12:23:33.090Z",
+    "lastSeen": "2026-11-15T12:01:19.903Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
       "femboy": 1783060022213,
@@ -531,7 +531,8 @@
       "d": 1782823575996,
       "tebaknegara": 1783164611876,
       "money": 1785682485659,
-      "ytmp4": 1786717025940
+      "ytmp4": 1786717025940,
+      "love": 1794744080257
     },
     "clanId": null,
     "isRegistered": false,
@@ -559,8 +560,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 6
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 7
   },
   "6285696697553": {
     "jid": "6285696697553",
@@ -142088,7 +142089,7 @@
   "6288242465903": {
     "jid": "6288242465903",
     "rpg": {},
-    "exp": 1485,
+    "exp": 1500,
     "energi": 999999,
     "name": "Farel Stur",
     "lastSeen": "2026-11-15T11:58:45.629Z",
