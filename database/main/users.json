@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117604008,
+    "exp": 117604023,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -91440,7 +91440,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64140,
+    "exp": 64155,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91450,7 +91450,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T08:56:21.068Z",
+    "lastSeen": "2026-11-15T09:01:55.314Z",
     "cooldowns": {
       "play": 1794638251479,
       "toimg": 1790829435907,
@@ -91478,7 +91478,7 @@
       "kimia": 1787826058387,
       "mutegrup": 1791293301314,
       "femboy": 1793530753086,
-      "h": 1794732983330,
+      "h": 1794733315317,
       "tovid": 1789870210191,
       "antitagsw": 1790149921551,
       "closegroup": 1790149945257,
@@ -136823,7 +136823,7 @@
   "6281992698621": {
     "jid": "6281992698621",
     "rpg": {},
-    "exp": 660,
+    "exp": 675,
     "energi": 99999
   },
   "27688940066": {
@@ -145084,11 +145084,11 @@
   "6283170813414": {
     "jid": "6283170813414",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285757307911": {
     "jid": "6285757307911",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
