@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117605493,
+    "exp": 117605508,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -502,10 +502,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T12:11:07.791Z",
+    "lastSeen": "2026-11-15T12:11:39.646Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
-      "femboy": 1794744598690,
+      "femboy": 1794744708871,
       "cektsundere": 1783059729109,
       "profile": 1782621811613,
       "rob": 1782622086614,
@@ -3092,10 +3092,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 729971,
+    "exp": 729986,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T12:10:42.434Z",
+    "lastSeen": "2026-11-15T12:11:40.542Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -95111,13 +95111,13 @@
   },
   "6288747420323": {
     "name": "lee  honey 1.4",
-    "lastSeen": "2026-11-15T12:11:07.900Z",
+    "lastSeen": "2026-11-15T12:11:47.103Z",
     "jid": "6288747420323",
     "number": "6288747420323",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3315,
+    "exp": 3330,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95129,7 +95129,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "cekfemboy": 1786887773921,
-      "femboy": 1793624766833,
+      "femboy": 1794744712003,
       "pin": 1793454268270,
       "play": 1794661187001,
       "ytmp4": 1794661215302
@@ -95142,8 +95142,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "14/11/2026",
-    "activeDays": 6
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 7
   },
   "6282224234226": {
     "jid": "6282224234226",
@@ -139426,7 +139426,7 @@
   "6283833096795": {
     "jid": "6283833096795",
     "rpg": {},
-    "exp": 1950,
+    "exp": 1965,
     "energi": 99999
   },
   "6287769926363": {
