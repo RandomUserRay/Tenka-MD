@@ -38057,7 +38057,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10785,
+    "exp": 10800,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -143351,7 +143351,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11685,
+    "exp": 11700,
     "name": "Ceo Yang sedang Menyamar",
     "lastSeen": "2026-11-15T03:30:16.249Z",
     "energi": 999998,
@@ -144825,5 +144825,10 @@
     "exp": 30,
     "name": "WhatsApp",
     "lastSeen": "2026-11-15T03:25:23.095Z"
+  },
+  "6285111441162": {
+    "jid": "6285111441162",
+    "rpg": {},
+    "exp": 15
   }
 }
