@@ -125557,7 +125557,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 23391,
+    "exp": 23406,
     "name": "paduka riyy",
     "lastSeen": "2026-11-15T13:43:42.865Z",
     "cooldowns": {
@@ -138872,7 +138872,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13800,
+    "exp": 13815,
     "energi": 999999,
     "name": "kenal pot ga?",
     "lastSeen": "2026-11-15T13:07:46.962Z",
@@ -143125,16 +143125,16 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26371,
+    "exp": 26386,
     "name": "JSM",
-    "lastSeen": "2026-11-15T13:44:35.470Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-15T13:49:47.503Z",
+    "energi": 999998,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794468374392,
       "caklontong": 1794124544405,
       "tebaknegara": 1794748932885,
-      "tembak": 1794714121073,
+      "tembak": 1794750588325,
       "putus": 1794462958526,
       "tolak": 1794463090194,
       "cekcantik": 1794749983744,
@@ -143157,10 +143157,11 @@
     "activeDays": 3,
     "koin": 11915,
     "fun": {
-      "tembakCount": 7,
+      "tembakCount": 8,
       "jadiPacar": 1794462951003,
       "terimaCount": 1,
-      "ditolakCount": 3
+      "ditolakCount": 3,
+      "tembakTarget": "628818156657@s.whatsapp.net"
     }
   },
   "6282240032890": {
