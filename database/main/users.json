@@ -126989,7 +126989,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16710,
+    "exp": 16725,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-15T05:29:52.109Z",
@@ -145024,6 +145024,14 @@
   "6282345650766": {
     "jid": "6282345650766",
     "rpg": {},
-    "exp": 30
+    "exp": 45,
+    "name": "epan",
+    "lastSeen": "2026-11-15T05:42:29.959Z",
+    "energi": 999999,
+    "cooldowns": {
+      "kuis": 1794721350892
+    },
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 1
   }
 }
