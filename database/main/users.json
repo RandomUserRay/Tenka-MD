@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117603993,
+    "exp": 117604008,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3094,7 +3094,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 729416,
+    "exp": 729446,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -91631,7 +91631,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1560,
+    "exp": 1575,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130484,7 +130484,7 @@
       "stamina": 145,
       "bank": 0
     },
-    "exp": 93630,
+    "exp": 93705,
     "energi": 99997,
     "name": "cum|and|jizz",
     "lastSeen": "2026-11-15T08:56:24.522Z",
@@ -135996,7 +135996,7 @@
   "6285817308867": {
     "jid": "6285817308867",
     "rpg": {},
-    "exp": 7470,
+    "exp": 7485,
     "name": "val",
     "lastSeen": "2026-11-01T13:48:40.232Z",
     "energi": 99999,
@@ -145080,5 +145080,15 @@
     "jid": "6285138443289",
     "rpg": {},
     "exp": 45
+  },
+  "6283170813414": {
+    "jid": "6283170813414",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285757307911": {
+    "jid": "6285757307911",
+    "rpg": {},
+    "exp": 15
   }
 }
