@@ -3094,7 +3094,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 728651,
+    "exp": 728666,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -142032,7 +142032,8 @@
     "name": "all",
     "lastSeen": "2026-11-15T03:40:10.276Z",
     "cooldowns": {
-      "asah": 1794713152758
+      "asah": 1794713152758,
+      "cekfemboy": 1794714022755
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
@@ -142410,7 +142411,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 40050,
+    "exp": 40065,
     "name": "ejaa",
     "lastSeen": "2026-11-15T03:40:02.648Z",
     "energi": 999999,
@@ -142980,7 +142981,7 @@
       "tebakgambar": 1794466478098,
       "murottal": 1794468402406,
       "cekimut": 1794713878822,
-      "cekfemboy": 1794713962255
+      "cekfemboy": 1794714020113
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 3,
@@ -144843,7 +144844,7 @@
   "6285111441162": {
     "jid": "6285111441162",
     "rpg": {},
-    "exp": 285,
+    "exp": 300,
     "name": "Kyek",
     "lastSeen": "2026-11-15T03:39:44.665Z",
     "energi": 999999,
