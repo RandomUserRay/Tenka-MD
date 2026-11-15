@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076217,
+    "exp": 1076262,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -87573,7 +87573,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6660,
+    "exp": 6675,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -132015,7 +132015,7 @@
   "6281220268747": {
     "jid": "6281220268747",
     "rpg": {},
-    "exp": 1275,
+    "exp": 1305,
     "energi": 99999
   },
   "6287742874697": {
@@ -139021,7 +139021,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 5505,
+    "exp": 5520,
     "name": "ndra",
     "lastSeen": "2026-11-15T10:51:28.902Z",
     "energi": 999999,
@@ -140241,16 +140241,18 @@
   "62895703161397": {
     "jid": "62895703161397",
     "rpg": {},
-    "exp": 2115,
-    "energi": 99999,
+    "exp": 2130,
+    "energi": 999999,
     "name": "⏤͟͟͞͞✰sᴇᴘғɪᴀɴ⚡︎",
-    "lastSeen": "2026-11-12T06:48:16.613Z",
+    "lastSeen": "2026-11-15T10:52:57.782Z",
     "cooldowns": {
       "cekfemboy": 1794229829382,
-      "tebaknegara": 1794466097405
+      "tebaknegara": 1794466097405,
+      "profile": 1794739979892
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 5,
+    "registeredAt": 1794739977784
   },
   "6289527105739": {
     "jid": "6289527105739",
@@ -143404,15 +143406,15 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21794,
-    "energi": 99999,
+    "exp": 21809,
+    "energi": 999999,
     "name": ".",
-    "lastSeen": "2026-11-12T05:25:02.174Z",
+    "lastSeen": "2026-11-15T10:52:56.406Z",
     "cooldowns": {
       "cekhoki": 1794407134623,
       "cekfemboy": 1794407836659,
       "noob": 1794407944470,
-      "menu": 1794460982187,
+      "menu": 1794739979213,
       "menucat": 1794460986717,
       "owner": 1794408045108,
       "tebakgambar": 1794408757521,
@@ -143426,8 +143428,8 @@
       "tebakkalimat": 1794460932654,
       "catur": 1794461073461
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 2,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 3,
     "koin": 12331
   },
   "62895322311121": {
@@ -143447,9 +143449,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15952,
+    "exp": 15982,
     "name": "Ceo Yang sedang Menyamar",
-    "lastSeen": "2026-11-15T10:51:48.016Z",
+    "lastSeen": "2026-11-15T10:52:54.727Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794714009955,
@@ -143462,7 +143464,8 @@
       "tebaklagu": 1794713824418,
       "cekimut": 1794713972906,
       "tembak": 1794714147961,
-      "topchat": 1794739779744
+      "topchat": 1794739779744,
+      "top": 1794739966066
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
