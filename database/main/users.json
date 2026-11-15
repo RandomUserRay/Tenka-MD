@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1075032,
+    "exp": 1075047,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -54508,10 +54508,10 @@
     "jid": "6281339787411",
     "name": "tt:bocil67",
     "number": "6281339787411",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9735,
+    "exp": 9750,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54520,10 +54520,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-13T08:36:39.765Z",
+    "lastSeen": "2026-11-15T05:35:50.769Z",
     "cooldowns": {
       "demote": 1794151868859,
-      "kick": 1794462727993,
+      "kick": 1794720951498,
       "tembak": 1794477124789,
       "terima": 1794462952774,
       "menu": 1794462110511,
@@ -54539,8 +54539,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 2,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 3,
     "fun": {
       "tembakCount": 4,
       "ditolakCount": 1,
@@ -134941,16 +134941,17 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 7860,
+    "exp": 7875,
     "energi": 99999,
     "name": "Matias Torres Ar-Rasyid",
-    "lastSeen": "2026-11-15T05:26:53.736Z",
+    "lastSeen": "2026-11-15T05:35:51.874Z",
     "cooldowns": {
       "play": 1794580013617,
       "femboy": 1794719968702,
       "cekmesum": 1793387694586,
       "me": 1793705478574,
-      "tsundere": 1794720418141
+      "tsundere": 1794720418141,
+      "ceksexy": 1794720952365
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 11,
@@ -145008,10 +145009,15 @@
   "6289673410237": {
     "jid": "6289673410237",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   },
   "6285113237291": {
     "jid": "6285113237291",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282345650766": {
+    "jid": "6282345650766",
     "rpg": {},
     "exp": 15
   }
