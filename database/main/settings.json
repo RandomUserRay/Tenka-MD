@@ -49,6 +49,11 @@
     {
       "cmd": "unknown",
       "err": "AIRich is not a constructor",
+      "at": 1794750299547
+    },
+    {
+      "cmd": "unknown",
+      "err": "AIRich is not a constructor",
       "at": 1794749238337
     },
     {
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791043573716
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1791041316221
     }
   ],
   "jpmBlacklist": [],
@@ -9157,7 +9157,7 @@
     },
     "6283135864303@s.whatsapp.net": {
       "jid": "6283135864303@s.whatsapp.net",
-      "name": "femboy"
+      "name": "ABC 😸"
     },
     "6283157535809@s.whatsapp.net": {
       "jid": "6283157535809@s.whatsapp.net",
