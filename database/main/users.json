@@ -136090,12 +136090,13 @@
   "6282226151250": {
     "jid": "6282226151250",
     "rpg": {},
-    "exp": 3000,
+    "exp": 3015,
     "energi": 99999,
     "name": "zaki anggara",
     "lastSeen": "2026-11-15T05:12:25.147Z",
     "cooldowns": {
-      "femboy": 1794719452262
+      "femboy": 1794719452262,
+      "tsundere": 1794719551064
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
@@ -138173,7 +138174,7 @@
     "name": "darah pekad",
     "lastSeen": "2026-11-15T05:12:10.296Z",
     "cooldowns": {
-      "play": 1794142890938,
+      "play": 1794719550575,
       "femboy": 1793670540815,
       "ytmp4": 1793636857172,
       "afk": 1794140839231,
@@ -138181,8 +138182,8 @@
       "pin": 1794143296915
     },
     "energi": 99998,
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 5,
     "fun": {},
     "registeredAt": 1794122408399,
     "koin": 10000,
