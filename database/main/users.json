@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117606003,
+    "exp": 117606033,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -91258,7 +91258,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 390,
+    "exp": 405,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130480,16 +130480,16 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 10,
-      "maxHealth": 190,
-      "maxMana": 145,
-      "maxStamina": 145,
-      "health": 190,
-      "mana": 145,
-      "stamina": 145,
+      "level": 11,
+      "maxHealth": 200,
+      "maxMana": 150,
+      "maxStamina": 150,
+      "health": 200,
+      "mana": 150,
+      "stamina": 150,
       "bank": 0
     },
-    "exp": 99930,
+    "exp": 100005,
     "energi": 99991,
     "name": "cum|and|jizz",
     "lastSeen": "2026-11-15T12:13:50.613Z",
@@ -138894,7 +138894,7 @@
   "6282177728614": {
     "jid": "6282177728614",
     "rpg": {},
-    "exp": 1935,
+    "exp": 1950,
     "energi": 99999,
     "name": "Manusia",
     "lastSeen": "2026-11-04T11:34:02.805Z"
@@ -145213,7 +145213,7 @@
   "6282379676762": {
     "jid": "6282379676762",
     "rpg": {},
-    "exp": 300,
+    "exp": 315,
     "name": "L",
     "lastSeen": "2026-11-15T12:20:36.648Z",
     "cooldowns": {
