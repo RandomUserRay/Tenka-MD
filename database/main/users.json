@@ -142401,18 +142401,18 @@
   "6285810348037": {
     "jid": "6285810348037",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 29004,
+    "exp": 31602,
     "name": "ejaa",
     "lastSeen": "2026-11-15T03:23:13.941Z",
-    "energi": 1000002,
+    "energi": 1000005,
     "cooldowns": {
       "cekhoki": 1794067206867,
       "afk": 1794708030891,
@@ -142425,7 +142425,7 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 11822
+    "koin": 13325
   },
   "6282125410531": {
     "jid": "6282125410531",
