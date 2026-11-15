@@ -136094,7 +136094,11 @@
     "energi": 99999,
     "name": "zaki anggara",
     "lastSeen": "2026-11-15T05:10:42.676Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1794719452262
+    },
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 1
   },
   "6288271497955": {
     "jid": "6288271497955",
