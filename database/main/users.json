@@ -126305,17 +126305,17 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {
-      "level": 16,
-      "maxHealth": 250,
-      "maxMana": 175,
-      "maxStamina": 175,
-      "health": 250,
-      "mana": 175,
-      "stamina": 175,
+      "level": 17,
+      "maxHealth": 260,
+      "maxMana": 180,
+      "maxStamina": 180,
+      "health": 260,
+      "mana": 180,
+      "stamina": 180,
       "bank": 28056
     },
-    "exp": 158844,
-    "energi": 100008,
+    "exp": 160575,
+    "energi": 100012,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-15T08:25:09.619Z",
     "cooldowns": {
@@ -126388,7 +126388,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 5261,
+    "koin": 6110,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130478,7 +130478,7 @@
       "stamina": 145,
       "bank": 0
     },
-    "exp": 91530,
+    "exp": 91605,
     "energi": 99997,
     "name": "Devvarajha",
     "lastSeen": "2026-11-15T03:33:47.774Z",
@@ -137542,7 +137542,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10245,
+    "exp": 10260,
     "energi": 99999,
     "name": "Zeon🕸️",
     "lastSeen": "2026-11-14T10:46:06.840Z",
