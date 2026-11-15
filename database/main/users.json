@@ -97440,7 +97440,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45788,
+    "exp": 45803,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97450,7 +97450,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T05:26:02.645Z",
+    "lastSeen": "2026-11-15T05:27:59.344Z",
     "cooldowns": {
       "afk": 1794263927875,
       "play": 1794234280787,
@@ -97494,7 +97494,8 @@
       "qc": 1793505763965,
       "close": 1794243062215,
       "open": 1793657233741,
-      "kill": 1794064958213
+      "kill": 1794064958213,
+      "psikopat": 1794720480251
     },
     "clanId": null,
     "isRegistered": false,
