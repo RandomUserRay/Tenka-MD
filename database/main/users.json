@@ -27126,7 +27126,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 182541,
+    "exp": 182571,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27135,7 +27135,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T03:25:54.584Z",
+    "lastSeen": "2026-11-15T03:26:21.943Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -27149,7 +27149,7 @@
       "s": 1793764121443,
       "d": 1791625868246,
       "cekhoki": 1783269818738,
-      "menu": 1790150372108,
+      "menu": 1794713192537,
       "tebaknegara": 1785228313783,
       "allmenu": 1785228839198,
       "bodoh": 1783582426228,
@@ -61306,7 +61306,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7710,
+    "exp": 7725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61315,13 +61315,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T03:25:50.379Z",
+    "lastSeen": "2026-11-15T03:26:24.287Z",
     "cooldowns": {
       "d": 1784184995942,
       "play": 1791550262883,
       "absen": 1793969138282,
       "s": 1791442654992,
-      "smeme": 1794713156337
+      "smeme": 1794713156337,
+      "no": 1794713184379
     },
     "clanId": null,
     "isRegistered": false,
@@ -61333,7 +61334,8 @@
     "access": [],
     "saldo": 0,
     "lastActiveDate": "15/11/2026",
-    "activeDays": 9
+    "activeDays": 9,
+    "fun": {}
   },
   "628133123394": {
     "jid": "628133123394",
@@ -143572,7 +143574,8 @@
     "exp": 975,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
-    "energi": 99999
+    "energi": 99999,
+    "fun": {}
   },
   "6282264270713": {
     "jid": "6282264270713",
@@ -144797,7 +144800,7 @@
   "6285361596129": {
     "jid": "6285361596129",
     "rpg": {},
-    "exp": 240
+    "exp": 270
   },
   "6282140545125": {
     "jid": "6282140545125",
