@@ -102498,7 +102498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1425,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -145409,7 +145409,15 @@
   "6282124833611": {
     "jid": "6282124833611",
     "rpg": {},
-    "exp": 150
+    "exp": 165,
+    "name": "(⁠｡⁠☬⁠０⁠☬⁠｡⁠)",
+    "lastSeen": "2026-11-15T14:17:18.593Z",
+    "energi": 999999,
+    "cooldowns": {
+      "tebaklagu": 1794752239387
+    },
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 1
   },
   "6281958373908": {
     "jid": "6281958373908",
