@@ -35905,10 +35905,10 @@
     "jid": "6282131144804",
     "name": "Radit Maendraa",
     "number": "6282131144804",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076472,
+    "exp": 1076487,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35917,7 +35917,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T10:56:36.342Z",
+    "lastSeen": "2026-11-15T10:58:02.211Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35944,7 +35944,7 @@
       "waifutohitam": 1783788616737,
       "owner": 1791636808062,
       "setwelcome": 1793876883988,
-      "brat": 1794708889726,
+      "brat": 1794740282631,
       "bratanime": 1783697700663,
       "bratimg": 1794709064649,
       "cekganteng": 1783697727900,
@@ -131614,14 +131614,14 @@
   "6285701106957": {
     "jid": "6285701106957",
     "rpg": {},
-    "exp": 5175,
+    "exp": 5205,
     "energi": 999999,
     "name": "zangetsu",
-    "lastSeen": "2026-11-15T10:48:54.501Z",
+    "lastSeen": "2026-11-15T10:58:04.904Z",
     "cooldowns": {
       "top": 1794052312142,
       "cekfemboy": 1794739704082,
-      "kapan": 1794739735042
+      "kapan": 1794740285365
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 3
@@ -139021,7 +139021,7 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 5685,
+    "exp": 5700,
     "name": "ndra",
     "lastSeen": "2026-11-15T10:57:44.109Z",
     "energi": 999999,
@@ -142070,7 +142070,7 @@
   "6288242465903": {
     "jid": "6288242465903",
     "rpg": {},
-    "exp": 1200,
+    "exp": 1215,
     "energi": 999999,
     "name": "Farel Stur",
     "lastSeen": "2026-11-15T10:50:05.899Z",
@@ -143452,9 +143452,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16387,
+    "exp": 16402,
     "name": "Ceo Yang sedang Menyamar",
-    "lastSeen": "2026-11-15T10:52:54.727Z",
+    "lastSeen": "2026-11-15T10:57:52.581Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794714009955,
@@ -143468,7 +143468,8 @@
       "cekimut": 1794713972906,
       "tembak": 1794714147961,
       "topchat": 1794739779744,
-      "top": 1794739966066
+      "top": 1794739966066,
+      "kapan": 1794740272923
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
@@ -145152,6 +145153,11 @@
   },
   "628218745223": {
     "jid": "628218745223",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285725123423": {
+    "jid": "6285725123423",
     "rpg": {},
     "exp": 15
   }
