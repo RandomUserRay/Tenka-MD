@@ -138862,10 +138862,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10470,
+    "exp": 10485,
     "energi": 999998,
     "name": "kenal pot ga?",
-    "lastSeen": "2026-11-15T12:43:03.545Z",
+    "lastSeen": "2026-11-15T12:43:28.344Z",
     "cooldowns": {
       "kiss": 1793890237110,
       "menu": 1793890359651,
@@ -138874,7 +138874,7 @@
       "level": 1794231543136,
       "cekhoki": 1794231592606,
       "asahotak": 1794713181267,
-      "bratbahlil": 1794746585532
+      "bratbahlil": 1794746613944
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 4,
@@ -145293,8 +145293,14 @@
   "6281958373908": {
     "jid": "6281958373908",
     "rpg": {},
-    "exp": 45,
+    "exp": 60,
     "name": "ichann!",
-    "lastSeen": "2026-11-15T12:43:17.685Z"
+    "lastSeen": "2026-11-15T12:43:29.779Z",
+    "energi": 999998,
+    "cooldowns": {
+      "bratbahlil": 1794746611776
+    },
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 1
   }
 }
