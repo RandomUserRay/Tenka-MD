@@ -139491,7 +139491,7 @@
   "6282192968472": {
     "jid": "6282192968472",
     "rpg": {},
-    "exp": 5925,
+    "exp": 5940,
     "energi": 99999,
     "name": "￶Anda",
     "lastSeen": "2026-11-07T16:14:08.321Z",
@@ -142440,7 +142440,8 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 18593
+    "koin": 18593,
+    "fun": {}
   },
   "6282125410531": {
     "jid": "6282125410531",
@@ -142973,16 +142974,16 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 6954,
+    "exp": 6969,
     "name": "JSM",
-    "lastSeen": "2026-11-15T03:40:13.723Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-15T03:42:00.138Z",
+    "energi": 999998,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794468374392,
       "caklontong": 1794124544405,
       "tebaknegara": 1794466129051,
-      "tembak": 1794468533956,
+      "tembak": 1794714121073,
       "putus": 1794462958526,
       "tolak": 1794463090194,
       "cekcantik": 1794714000999,
@@ -142999,10 +143000,11 @@
     "activeDays": 3,
     "koin": 4275,
     "fun": {
-      "tembakCount": 6,
+      "tembakCount": 7,
       "jadiPacar": 1794462951003,
       "terimaCount": 1,
-      "ditolakCount": 2
+      "ditolakCount": 2,
+      "tembakTarget": "6285810348037@s.whatsapp.net"
     }
   },
   "6282240032890": {
