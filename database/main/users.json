@@ -139970,19 +139970,7 @@
       "health": 75,
       "maxHealth": 100,
       "stamina": 70,
-      "maxStamina": 100,
-      "kyubigame_session": {
-        "stage": "encounter",
-        "locationId": 1,
-        "locationName": "🍃 Desa Konoha",
-        "levelReq": 1,
-        "monster": "Ninja Pengintai",
-        "monsterPower": 30,
-        "maxReward": 300,
-        "minReward": 100,
-        "dropChance": 40,
-        "time": 1794714141728
-      }
+      "maxStamina": 100
     },
     "exp": 2085,
     "energi": 999999,
@@ -142431,10 +142419,10 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 44593,
+    "exp": 44608,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:42:19.930Z",
-    "energi": 1000003,
+    "lastSeen": "2026-11-15T03:42:49.428Z",
+    "energi": 999999,
     "cooldowns": {
       "cekhoki": 1794067206867,
       "afk": 1794708030891,
@@ -142445,7 +142433,7 @@
       "asahotak": 1794713714246,
       "tebaknegara": 1794714075398,
       "cekganteng": 1794714003352,
-      "tolak": 1794714140960
+      "tolak": 1794714170372
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
@@ -143405,8 +143393,8 @@
     "activeDays": 2,
     "koin": 8129,
     "fun": {
-      "tembakTarget": "6285810348037@s.whatsapp.net",
-      "tembakCount": 1
+      "tembakCount": 1,
+      "ditolakCount": 1
     }
   },
   "6285156460240": {
