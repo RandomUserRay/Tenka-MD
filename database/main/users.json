@@ -130454,16 +130454,16 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 9,
-      "maxHealth": 180,
-      "maxMana": 140,
-      "maxStamina": 140,
-      "health": 180,
-      "mana": 140,
-      "stamina": 140,
+      "level": 10,
+      "maxHealth": 190,
+      "maxMana": 145,
+      "maxStamina": 145,
+      "health": 190,
+      "mana": 145,
+      "stamina": 145,
       "bank": 0
     },
-    "exp": 89880,
+    "exp": 90030,
     "energi": 99997,
     "name": "Devvarajha",
     "lastSeen": "2026-11-15T03:33:47.774Z",
@@ -142411,9 +142411,9 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 40080,
+    "exp": 40095,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:40:02.648Z",
+    "lastSeen": "2026-11-15T03:40:59.821Z",
     "energi": 999999,
     "cooldowns": {
       "cekhoki": 1794067206867,
@@ -142423,7 +142423,7 @@
       "owner": 1794712309595,
       "menucat": 1794713885845,
       "asahotak": 1794713714246,
-      "tebaknegara": 1794712562019,
+      "tebaknegara": 1794714060712,
       "cekganteng": 1794714003352
     },
     "lastActiveDate": "15/11/2026",
@@ -143362,7 +143362,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15637,
+    "exp": 15652,
     "name": "Ceo Yang sedang Menyamar",
     "lastSeen": "2026-11-15T03:40:04.126Z",
     "energi": 999999,
