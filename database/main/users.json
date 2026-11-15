@@ -1837,7 +1837,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 716559,
+    "exp": 716634,
     "level": 1,
     "koin": 267400,
     "unlockedFeatures": [],
@@ -38057,7 +38057,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10740,
+    "exp": 10785,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51039,7 +51039,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15780,
+    "exp": 15765,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61305,7 +61305,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7665,
+    "exp": 7635,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97440,7 +97440,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45578,
+    "exp": 45593,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -126310,13 +126310,13 @@
       "stamina": 175,
       "bank": 28056
     },
-    "exp": 154101,
+    "exp": 154116,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
-    "lastSeen": "2026-11-15T02:32:53.986Z",
+    "lastSeen": "2026-11-15T03:18:12.962Z",
     "cooldowns": {
       "femboy": 1794140347627,
-      "afk": 1794709976982,
+      "afk": 1794712695904,
       "play": 1793980213310,
       "s": 1794549434349,
       "level": 1793704008915,
@@ -134984,7 +134984,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17565,
+    "exp": 17595,
     "energi": 99999,
     "name": "FMZA",
     "lastSeen": "2026-11-13T13:33:08.246Z",
@@ -136086,7 +136086,7 @@
   "6282226151250": {
     "jid": "6282226151250",
     "rpg": {},
-    "exp": 2820,
+    "exp": 2850,
     "energi": 99999
   },
   "6288271497955": {
@@ -138789,20 +138789,21 @@
   "6285701050337": {
     "jid": "6285701050337",
     "rpg": {},
-    "exp": 9195,
-    "energi": 99999,
+    "exp": 9270,
+    "energi": 999999,
     "name": "kenal pot ga?",
-    "lastSeen": "2026-11-15T03:11:55.446Z",
+    "lastSeen": "2026-11-15T03:19:09.696Z",
     "cooldowns": {
       "kiss": 1793890237110,
       "menu": 1793890359651,
       "terima": 1794097285740,
       "cekfemboy": 1794231393937,
       "level": 1794231543136,
-      "cekhoki": 1794231592606
+      "cekhoki": 1794231592606,
+      "asahotak": 1794712750353
     },
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 3,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 4,
     "fun": {}
   },
   "6285381607022": {
@@ -139963,7 +139964,7 @@
   "6285706288290": {
     "jid": "6285706288290",
     "rpg": {},
-    "exp": 1470,
+    "exp": 1545,
     "energi": 99999,
     "name": "Jeje aja",
     "lastSeen": "2026-11-12T06:18:42.549Z",
@@ -142022,7 +142023,7 @@
   "6287750218855": {
     "jid": "6287750218855",
     "rpg": {},
-    "exp": 4740,
+    "exp": 4935,
     "energi": 99999
   },
   "6281373789850": {
@@ -142390,18 +142391,18 @@
   "6285810348037": {
     "jid": "6285810348037",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 17941,
+    "exp": 24302,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:16:38.435Z",
-    "energi": 1000007,
+    "lastSeen": "2026-11-15T03:20:12.260Z",
+    "energi": 1000006,
     "cooldowns": {
       "cekhoki": 1794067206867,
       "afk": 1794708030891,
@@ -142409,12 +142410,12 @@
       "menu": 1794712305935,
       "owner": 1794712309595,
       "menucat": 1794712333882,
-      "asahotak": 1794712599077,
+      "asahotak": 1794712812886,
       "tebaknegara": 1794712562019
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 7196
+    "koin": 10708
   },
   "6282125410531": {
     "jid": "6282125410531",
@@ -143331,7 +143332,7 @@
   "628877726471": {
     "jid": "628877726471",
     "rpg": {},
-    "exp": 690,
+    "exp": 720,
     "name": "Ceo Yang sedang Menyamar",
     "lastSeen": "2026-11-09T13:27:39.100Z",
     "energi": 99999,
@@ -143566,7 +143567,7 @@
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 1050,
+    "exp": 975,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
     "energi": 99999
@@ -144781,20 +144782,10 @@
     "rpg": {},
     "exp": 15
   },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 15
-  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 30
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 135
+    "exp": 45
   },
   "6282140545125": {
     "jid": "6282140545125",
