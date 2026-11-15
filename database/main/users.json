@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330026,
+    "exp": 330041,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -126323,7 +126323,7 @@
       "stamina": 165,
       "bank": 28056
     },
-    "exp": 161843,
+    "exp": 161858,
     "energi": 100010,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-15T14:45:50.787Z",
@@ -131622,7 +131622,11 @@
   },
   "6285701106957": {
     "jid": "6285701106957",
-    "rpg": {},
+    "rpg": {
+      "stamina": 100,
+      "health": 105,
+      "mana": 53
+    },
     "exp": 5355,
     "energi": 999999,
     "name": "zangetsu",
@@ -131631,7 +131635,8 @@
       "top": 1794052312142,
       "cekfemboy": 1794739704082,
       "kapan": 1794740285365,
-      "tebakanime": 1794753914155
+      "tebakanime": 1794753914155,
+      "istirahat": 1794754171192
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 3
@@ -145107,7 +145112,7 @@
   "6282384616063": {
     "jid": "6282384616063",
     "rpg": {},
-    "exp": 6392,
+    "exp": 6407,
     "name": "Fair😁😁😁",
     "lastSeen": "2026-11-15T14:17:15.879Z",
     "energi": 1000014,
@@ -145388,7 +145393,7 @@
   "6282379676762": {
     "jid": "6282379676762",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "L",
     "lastSeen": "2026-11-15T14:46:14.459Z",
     "cooldowns": {
