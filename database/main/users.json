@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1075947,
+    "exp": 1075962,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -142067,10 +142067,11 @@
     "name": "Farel Stur",
     "lastSeen": "2026-11-15T10:47:07.604Z",
     "cooldowns": {
-      "afk": 1794122423850
+      "afk": 1794122423850,
+      "menu": 1794739635132
     },
-    "lastActiveDate": "8/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 2
   },
   "6282285249002": {
     "jid": "6282285249002",
@@ -143554,7 +143555,7 @@
   "6282181033115": {
     "jid": "6282181033115",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "energi": 99999
   },
   "6283146057793": {
