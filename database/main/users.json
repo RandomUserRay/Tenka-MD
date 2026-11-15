@@ -126310,7 +126310,7 @@
       "stamina": 175,
       "bank": 28056
     },
-    "exp": 154116,
+    "exp": 154131,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-15T03:18:12.962Z",
@@ -139965,11 +139965,21 @@
   },
   "6285706288290": {
     "jid": "6285706288290",
-    "rpg": {},
-    "exp": 2040,
+    "rpg": {
+      "attack": 10,
+      "health": 100,
+      "maxHealth": 100,
+      "stamina": 100,
+      "maxStamina": 100,
+      "kyubigame_session": {
+        "stage": "lobi",
+        "time": 1794714114174
+      }
+    },
+    "exp": 2055,
     "energi": 999999,
     "name": "Jeje aja",
-    "lastSeen": "2026-11-15T03:33:21.121Z",
+    "lastSeen": "2026-11-15T03:41:54.171Z",
     "cooldowns": {
       "cekhoki": 1794407710675,
       "cekfemboy": 1794407813119,
@@ -139981,10 +139991,12 @@
       "tebakanime": 1794408327556,
       "bocil": 1794408551553,
       "ukhty": 1794408573418,
-      "asahotak": 1794713601882
+      "asahotak": 1794713601882,
+      "kyubigame": 1794714115743
     },
     "lastActiveDate": "15/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "inventory": {}
   },
   "6281367315837": {
     "jid": "6281367315837",
@@ -143255,16 +143267,17 @@
   "6285973219550": {
     "jid": "6285973219550",
     "rpg": {},
-    "exp": 915,
+    "exp": 930,
     "name": "Vinoo",
-    "lastSeen": "2026-11-15T03:41:43.736Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-15T03:41:54.055Z",
+    "energi": 999999,
     "cooldowns": {
       "femboy": 1794224125573,
-      "tembak": 1794468626612
+      "tembak": 1794468626612,
+      "tebaknegara": 1794714115355
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 2,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 3,
     "fun": {
       "tembakTarget": "6282131144804@s.whatsapp.net",
       "tembakCount": 1
@@ -144844,7 +144857,7 @@
   "6285111441162": {
     "jid": "6285111441162",
     "rpg": {},
-    "exp": 1482,
+    "exp": 1497,
     "name": "Kyek",
     "lastSeen": "2026-11-15T03:39:44.665Z",
     "energi": 1000007,
