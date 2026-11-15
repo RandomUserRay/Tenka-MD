@@ -67881,10 +67881,10 @@
     "jid": "6283135864303",
     "name": "amba",
     "number": "6283135864303",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180186,
+    "exp": 180201,
     "level": 1,
     "koin": 963,
     "unlockedFeatures": [
@@ -67899,7 +67899,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T03:30:44.513Z",
+    "lastSeen": "2026-11-15T03:49:46.854Z",
     "cooldowns": {
       "afk": 1794667246763,
       "s": 1794713446028,
@@ -144819,7 +144819,7 @@
   "6285953753433": {
     "jid": "6285953753433",
     "rpg": {},
-    "exp": 675
+    "exp": 690
   },
   "6285604275646": {
     "jid": "6285604275646",
