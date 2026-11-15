@@ -139969,14 +139969,22 @@
       "attack": 10,
       "health": 100,
       "maxHealth": 100,
-      "stamina": 100,
+      "stamina": 70,
       "maxStamina": 100,
       "kyubigame_session": {
-        "stage": "lobi",
-        "time": 1794714114174
+        "stage": "encounter",
+        "locationId": 1,
+        "locationName": "🍃 Desa Konoha",
+        "levelReq": 1,
+        "monster": "Ninja Pengintai",
+        "monsterPower": 30,
+        "maxReward": 300,
+        "minReward": 100,
+        "dropChance": 40,
+        "time": 1794714141728
       }
     },
-    "exp": 2055,
+    "exp": 2070,
     "energi": 999999,
     "name": "Jeje aja",
     "lastSeen": "2026-11-15T03:41:54.171Z",
@@ -142423,9 +142431,9 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 41232,
+    "exp": 42850,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:41:14.721Z",
+    "lastSeen": "2026-11-15T03:42:19.930Z",
     "energi": 999999,
     "cooldowns": {
       "cekhoki": 1794067206867,
@@ -142436,11 +142444,12 @@
       "menucat": 1794713885845,
       "asahotak": 1794713714246,
       "tebaknegara": 1794714075398,
-      "cekganteng": 1794714003352
+      "cekganteng": 1794714003352,
+      "tolak": 1794714140960
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 18593,
+    "koin": 19775,
     "fun": {}
   },
   "6282125410531": {
@@ -142974,7 +142983,7 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 6969,
+    "exp": 6984,
     "name": "JSM",
     "lastSeen": "2026-11-15T03:42:00.138Z",
     "energi": 999998,
@@ -143003,8 +143012,7 @@
       "tembakCount": 7,
       "jadiPacar": 1794462951003,
       "terimaCount": 1,
-      "ditolakCount": 2,
-      "tembakTarget": "6285810348037@s.whatsapp.net"
+      "ditolakCount": 3
     }
   },
   "6282240032890": {
@@ -143269,14 +143277,14 @@
   "6285973219550": {
     "jid": "6285973219550",
     "rpg": {},
-    "exp": 930,
+    "exp": 960,
     "name": "Vinoo",
-    "lastSeen": "2026-11-15T03:41:54.055Z",
+    "lastSeen": "2026-11-15T03:42:18.456Z",
     "energi": 999999,
     "cooldowns": {
       "femboy": 1794224125573,
       "tembak": 1794468626612,
-      "tebaknegara": 1794714115355
+      "tebaknegara": 1794714139025
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 3,
@@ -143377,10 +143385,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15697,
+    "exp": 15712,
     "name": "Ceo Yang sedang Menyamar",
-    "lastSeen": "2026-11-15T03:41:42.551Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-15T03:42:27.038Z",
+    "energi": 999998,
     "cooldowns": {
       "cekfemboy": 1794714009955,
       "cekganteng": 1794713887652,
@@ -143390,11 +143398,16 @@
       "menu": 1794713688728,
       "menucat": 1794713706509,
       "tebaklagu": 1794713824418,
-      "cekimut": 1794713972906
+      "cekimut": 1794713972906,
+      "tembak": 1794714147961
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
-    "koin": 8129
+    "koin": 8129,
+    "fun": {
+      "tembakTarget": "6285810348037@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6285156460240": {
     "jid": "6285156460240",
@@ -144859,9 +144872,9 @@
   "6285111441162": {
     "jid": "6285111441162",
     "rpg": {},
-    "exp": 1497,
+    "exp": 1512,
     "name": "Kyek",
-    "lastSeen": "2026-11-15T03:39:44.665Z",
+    "lastSeen": "2026-11-15T03:42:17.761Z",
     "energi": 1000007,
     "cooldowns": {
       "tebaknegara": 1794713985656
