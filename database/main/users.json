@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117604623,
+    "exp": 117604608,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3521,7 +3521,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 432302,
+    "exp": 432227,
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1075872,
+    "exp": 1075857,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -54511,7 +54511,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9900,
+    "exp": 9870,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -54520,10 +54520,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T10:40:48.798Z",
+    "lastSeen": "2026-11-15T05:37:28.084Z",
     "cooldowns": {
       "demote": 1794720987408,
-      "kick": 1794739251030,
+      "kick": 1794720951498,
       "tembak": 1794477124789,
       "terima": 1794462952774,
       "menu": 1794462110511,
@@ -130585,7 +130585,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13515,
+    "exp": 13485,
     "energi": 99995,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-15T10:35:52.640Z",
@@ -135996,7 +135996,7 @@
   "6285817308867": {
     "jid": "6285817308867",
     "rpg": {},
-    "exp": 8580,
+    "exp": 8550,
     "name": "𝒯he Válentína –·",
     "lastSeen": "2026-11-15T10:38:55.122Z",
     "energi": 99999,
@@ -138205,7 +138205,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16080,
+    "exp": 16065,
     "name": "darah pekad",
     "lastSeen": "2026-11-15T05:25:58.887Z",
     "cooldowns": {
@@ -144913,10 +144913,20 @@
     "rpg": {},
     "exp": 15
   },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 105
+  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
     "exp": 75
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 345
   },
   "6282140545125": {
     "jid": "6282140545125",
@@ -144975,16 +144985,6 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
-  },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 90
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 345
   },
   "6285724618167": {
     "jid": "6285724618167",
