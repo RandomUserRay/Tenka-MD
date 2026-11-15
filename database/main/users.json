@@ -139972,7 +139972,7 @@
       "stamina": 70,
       "maxStamina": 100
     },
-    "exp": 2085,
+    "exp": 2100,
     "energi": 999999,
     "name": "Jeje aja",
     "lastSeen": "2026-11-15T03:41:54.171Z",
@@ -142419,10 +142419,10 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 44608,
+    "exp": 44638,
     "name": "ejaa",
-    "lastSeen": "2026-11-15T03:42:49.428Z",
-    "energi": 999999,
+    "lastSeen": "2026-11-15T03:43:09.311Z",
+    "energi": 999998,
     "cooldowns": {
       "cekhoki": 1794067206867,
       "afk": 1794708030891,
@@ -142433,12 +142433,16 @@
       "asahotak": 1794713714246,
       "tebaknegara": 1794714075398,
       "cekganteng": 1794714003352,
-      "tolak": 1794714170372
+      "tolak": 1794714170372,
+      "tembak": 1794714190230
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 2,
     "koin": 20354,
-    "fun": {}
+    "fun": {
+      "tembakTarget": "6285701050337@s.whatsapp.net",
+      "tembakCount": 1
+    }
   },
   "6282125410531": {
     "jid": "6282125410531",
@@ -142971,10 +142975,10 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {},
-    "exp": 7044,
+    "exp": 9242,
     "name": "JSM",
     "lastSeen": "2026-11-15T03:42:00.138Z",
-    "energi": 999998,
+    "energi": 1000002,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794468374392,
@@ -142995,7 +142999,7 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 3,
-    "koin": 4275,
+    "koin": 5018,
     "fun": {
       "tembakCount": 7,
       "jadiPacar": 1794462951003,
@@ -144860,9 +144864,9 @@
   "6285111441162": {
     "jid": "6285111441162",
     "rpg": {},
-    "exp": 1542,
+    "exp": 1557,
     "name": "Kyek",
-    "lastSeen": "2026-11-15T03:42:56.055Z",
+    "lastSeen": "2026-11-15T03:43:08.126Z",
     "energi": 1000007,
     "cooldowns": {
       "tebaknegara": 1794713985656
