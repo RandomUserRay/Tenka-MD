@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "AIRich is not a constructor",
+      "at": 1794749238337
+    },
+    {
+      "cmd": "unknown",
       "err": "rate-overlimit",
       "at": 1794709134987
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791041316221
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1791034212586
     }
   ],
   "jpmBlacklist": [],
