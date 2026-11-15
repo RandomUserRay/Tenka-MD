@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117604773,
+    "exp": 117604788,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3094,7 +3094,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 729551,
+    "exp": 729566,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -35908,7 +35908,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076067,
+    "exp": 1076082,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -125554,9 +125554,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 23016,
+    "exp": 23031,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-15T04:15:36.064Z",
+    "lastSeen": "2026-11-15T10:49:20.083Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125599,7 +125599,7 @@
       "tendang": 1793800300284,
       "kick": 1794716137546,
       "antikudeta": 1794017641718,
-      "ht": 1794627682737
+      "ht": 1794739762424
     },
     "energi": 999999,
     "lastActiveDate": "15/11/2026",
@@ -139021,9 +139021,9 @@
   "6281241824284": {
     "jid": "6281241824284",
     "rpg": {},
-    "exp": 5340,
+    "exp": 5355,
     "name": "ndra",
-    "lastSeen": "2026-11-15T10:48:41.681Z",
+    "lastSeen": "2026-11-15T10:49:23.409Z",
     "energi": 999999,
     "cooldowns": {
       "play": 1793799576161,
@@ -139034,7 +139034,7 @@
       "cekfemboy": 1794739700885,
       "top": 1794112237583,
       "cekhoki": 1794112519254,
-      "kapan": 1794739722321
+      "kapan": 1794739763829
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 6,
@@ -143147,15 +143147,15 @@
     "cooldowns": {
       "cekfemboy": 1794407343550,
       "allmenu": 1794380717540,
-      "profile": 1794380765144,
+      "profile": 1794739761879,
       "hug": 1794407494574,
       "menu": 1794478181243,
       "terima": 1794462301054,
       "tembak": 1794462233920,
       "afk": 1794475517557
     },
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 3,
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 4,
     "registeredAt": 1794380761027,
     "fun": {
       "tembakTarget": "6289504533660@s.whatsapp.net",
