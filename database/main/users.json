@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117605448,
+    "exp": 117605403,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -505,7 +505,7 @@
     "lastSeen": "2026-11-15T12:09:51.980Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
-      "femboy": 1794744598690,
+      "femboy": 1783060022213,
       "cektsundere": 1783059729109,
       "profile": 1782621811613,
       "rob": 1782622086614,
@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 329936,
+    "exp": 329966,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -3092,10 +3092,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99994,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 729971,
+    "exp": 729956,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T12:10:42.434Z",
+    "lastSeen": "2026-11-15T12:08:31.873Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -27129,7 +27129,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 182391,
+    "exp": 182421,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -93814,10 +93814,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435753,
+    "exp": 435738,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -93827,9 +93827,9 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T12:09:53.629Z",
+    "lastSeen": "2026-11-15T08:55:10.336Z",
     "cooldowns": {
-      "play": 1794744610909,
+      "play": 1794351167245,
       "femboy": 1794732914667,
       "afk": 1794570089754,
       "sticker": 1793671130053,
@@ -97445,7 +97445,7 @@
     "energi": 999995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46403,
+    "exp": 46388,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -97458,7 +97458,7 @@
     "lastSeen": "2026-11-15T12:09:29.035Z",
     "cooldowns": {
       "afk": 1794721541289,
-      "play": 1794744622355,
+      "play": 1794736976134,
       "smeme": 1794708300679,
       "s": 1794721206631,
       "menu": 1794556407880,
@@ -130489,13 +130489,13 @@
       "stamina": 145,
       "bank": 0
     },
-    "exp": 98430,
+    "exp": 98130,
     "energi": 99991,
     "name": "cum|and|jizz",
-    "lastSeen": "2026-11-15T12:10:38.225Z",
+    "lastSeen": "2026-11-15T12:08:30.373Z",
     "cooldowns": {
       "mutegc": 1793217082639,
-      "femboy": 1794744646131,
+      "femboy": 1794744514010,
       "bank": 1793222937102,
       "me": 1794480511993,
       "imut": 1794743538579,
@@ -144959,10 +144959,20 @@
     "rpg": {},
     "exp": 15
   },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 90
+  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
     "exp": 75
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 345
   },
   "6282140545125": {
     "jid": "6282140545125",
@@ -145023,16 +145033,6 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
-  },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 90
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 345
   },
   "6285724618167": {
     "jid": "6285724618167",
@@ -145215,15 +145215,15 @@
     "rpg": {},
     "exp": 210
   },
-  "6285755984802": {
-    "jid": "6285755984802",
-    "rpg": {},
-    "exp": 135
-  },
   "6282233141480": {
     "jid": "6282233141480",
     "rpg": {},
     "exp": 15
+  },
+  "6285755984802": {
+    "jid": "6285755984802",
+    "rpg": {},
+    "exp": 135
   },
   "628218618409": {
     "jid": "628218618409",
