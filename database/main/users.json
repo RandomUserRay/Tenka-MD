@@ -126349,10 +126349,10 @@
       "stamina": 185,
       "bank": 58406
     },
-    "exp": 176520,
+    "exp": 176535,
     "energi": 100014,
     "name": "Pipo cinta es Pino",
-    "lastSeen": "2026-11-16T11:01:55.396Z",
+    "lastSeen": "2026-11-16T11:02:48.797Z",
     "cooldowns": {
       "femboy": 1794732865925,
       "afk": 1794825309909,
@@ -126422,7 +126422,8 @@
       "deposit": 1794731683633,
       "rob": 1794826496211,
       "heal": 1794826669273,
-      "work": 1794826748685
+      "work": 1794826748685,
+      "susun": 1794826970852
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 14,
@@ -130618,17 +130619,17 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {
-      "level": 4,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "health": 130,
-      "mana": 115,
-      "stamina": 115,
+      "level": 5,
+      "maxHealth": 140,
+      "maxMana": 120,
+      "maxStamina": 120,
+      "health": 140,
+      "mana": 120,
+      "stamina": 120,
       "bank": 17318
     },
-    "exp": 39247,
-    "energi": 100039,
+    "exp": 40704,
+    "energi": 100042,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-16T11:02:32.292Z",
     "cooldowns": {
@@ -130666,7 +130667,7 @@
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 1048
+    "koin": 2000
   },
   "6283865412573": {
     "jid": "6283865412573",
