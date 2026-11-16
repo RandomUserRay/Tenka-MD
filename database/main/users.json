@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-16T10:34:57.304Z",
+    "lastSeen": "2026-11-16T10:37:01.995Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000225909,
+    "exp": 9000225984,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3520,19 +3520,19 @@
     "jid": "6282135848247",
     "name": "~Captain^ REEy~|",
     "number": "6282135848247",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 432917,
+    "exp": 432932,
     "level": 1,
-    "koin": 8027,
+    "koin": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794825381239,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:36:01.253Z",
+    "lastSeen": "2026-11-16T10:37:00.901Z",
     "cooldowns": {
       "femboy": 1790758747915,
       "profile": 1794825363649,
@@ -3540,7 +3540,7 @@
       "bank": 1783150240217,
       "profil": 1780487725718,
       "afk": 1790672331173,
-      "rob": 1790499488685,
+      "rob": 1794825424588,
       "me": 1790085329309,
       "work": 1783060174370,
       "topixel": 1781183602489,
@@ -3610,7 +3610,7 @@
     "regGender": null,
     "rpg": {
       "level": 44,
-      "health": 530,
+      "health": 505,
       "maxHealth": 530,
       "mana": 315,
       "maxMana": 315,
@@ -67900,7 +67900,7 @@
     "isBanned": false,
     "exp": 181191,
     "level": 1,
-    "koin": 75963,
+    "koin": 53862,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -71626,19 +71626,19 @@
     "jid": "6282135836023",
     "name": "Invis",
     "number": "6282135836023",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1155,
+    "exp": 1470,
     "level": 1,
-    "koin": 0,
+    "koin": 22101,
     "unlockedFeatures": [],
     "registeredAt": 1794825361254,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:36:21.236Z",
+    "lastSeen": "2026-11-16T10:37:17.460Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -71648,14 +71648,17 @@
       "play": 1790684684491,
       "femboy": 1790758597413,
       "cektsundere": 1790685022546,
-      "gay": 1790758603763
+      "gay": 1790758603763,
+      "rob": 1794825440911
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "health": 100
+    },
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -71663,8 +71666,8 @@
       "pasangan": "6282135848247@s.whatsapp.net",
       "jadiPacar": 1790509221141
     },
-    "lastActiveDate": "30/9/2026",
-    "activeDays": 4
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 5
   },
   "6285753958897": {
     "jid": "6285753958897",
@@ -126418,7 +126421,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 6110,
+    "koin": 3575,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130613,10 +130616,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14310,
-    "energi": 99995,
+    "exp": 14625,
+    "energi": 99994,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:36:21.705Z",
+    "lastSeen": "2026-11-16T10:37:22.912Z",
     "cooldowns": {
       "pin": 1794825164981,
       "menu": 1794542460967,
@@ -130636,13 +130639,15 @@
       "yandere": 1794825241902,
       "cekkhodam": 1794064748432,
       "renungan": 1794064980570,
-      "mengapa": 1794065025802
+      "mengapa": 1794065025802,
+      "rob": 1794825446615
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
     "fun": {},
     "clanId": "FEM",
-    "registeredAt": 1794825381707
+    "registeredAt": 1794825381707,
+    "koin": 2535
   },
   "6283865412573": {
     "jid": "6283865412573",
@@ -142762,7 +142767,7 @@
   "6289682359923": {
     "jid": "6289682359923",
     "rpg": {},
-    "exp": 1380,
+    "exp": 1395,
     "name": "poci kamochi",
     "lastSeen": "2026-11-16T10:35:26.140Z",
     "cooldowns": {
@@ -145226,22 +145231,10 @@
     "exp": 15,
     "energi": 99999
   },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 180,
-    "energi": 99999
-  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
     "exp": 75,
-    "energi": 99999
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 345,
     "energi": 99999
   },
   "6282140545125": {
@@ -145309,6 +145302,18 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1,
+    "energi": 99999
+  },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 180,
+    "energi": 99999
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 345,
     "energi": 99999
   },
   "6285724618167": {
@@ -145534,16 +145539,16 @@
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
   },
-  "6282233141480": {
-    "jid": "6282233141480",
-    "rpg": {},
-    "exp": 75,
-    "energi": 99999
-  },
   "6285755984802": {
     "jid": "6285755984802",
     "rpg": {},
     "exp": 960,
+    "energi": 99999
+  },
+  "6282233141480": {
+    "jid": "6282233141480",
+    "rpg": {},
+    "exp": 75,
     "energi": 99999
   },
   "628218618409": {
@@ -145759,7 +145764,7 @@
   "9647901747704": {
     "jid": "9647901747704",
     "rpg": {},
-    "exp": 210
+    "exp": 225
   },
   "62883113841066": {
     "jid": "62883113841066",
