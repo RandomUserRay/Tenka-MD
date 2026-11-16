@@ -145743,8 +145743,12 @@
     "exp": 1710,
     "name": "tebe",
     "lastSeen": "2026-11-16T10:04:16.626Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "play": 1794823473750
+    },
+    "energi": 23,
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 1
   },
   "9647901747704": {
     "jid": "9647901747704",
