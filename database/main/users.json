@@ -3523,7 +3523,7 @@
     "energi": 100013,
     "isPremium": false,
     "isBanned": false,
-    "exp": 438745,
+    "exp": 438760,
     "level": 1,
     "koin": 5674,
     "unlockedFeatures": [],
@@ -3532,7 +3532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:41:31.685Z",
+    "lastSeen": "2026-11-16T10:42:09.083Z",
     "cooldowns": {
       "femboy": 1794825551765,
       "profile": 1794825363649,
@@ -3614,7 +3614,7 @@
       "maxHealth": 530,
       "mana": 315,
       "maxMana": 315,
-      "stamina": 315,
+      "stamina": 305,
       "maxStamina": 315,
       "bank": 98264668,
       "luck": 6,
@@ -130617,10 +130617,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14700,
+    "exp": 14715,
     "energi": 99993,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:40:26.766Z",
+    "lastSeen": "2026-11-16T10:42:07.774Z",
     "cooldowns": {
       "pin": 1794825164981,
       "menu": 1794542460967,
@@ -142695,7 +142695,7 @@
   "6285278540242": {
     "jid": "6285278540242",
     "rpg": {},
-    "exp": 855,
+    "exp": 870,
     "energi": 99999,
     "name": "Airil",
     "lastSeen": "2026-11-09T10:56:26.831Z",
