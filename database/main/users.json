@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330131,
+    "exp": 330161,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1614,7 +1614,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-14T13:16:36.728Z",
+    "lastSeen": "2026-11-16T11:09:30.702Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1634,7 +1634,7 @@
       "kill": 1780404847290,
       "s": 1794029667741,
       "bank": 1790499461443,
-      "me": 1794034477465,
+      "me": 1794827375384,
       "menucat": 1794113089894,
       "craft": 1780391866507,
       "ping": 1793885441879,
@@ -1828,8 +1828,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "14/11/2026",
-    "activeDays": 15
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 16
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -126349,10 +126349,10 @@
       "stamina": 190,
       "bank": 83937
     },
-    "exp": 184573,
-    "energi": 100030,
+    "exp": 186244,
+    "energi": 100037,
     "name": "Pipo cinta es Pino",
-    "lastSeen": "2026-11-16T11:09:08.466Z",
+    "lastSeen": "2026-11-16T11:09:25.527Z",
     "cooldowns": {
       "femboy": 1794732865925,
       "afk": 1794825309909,
@@ -126423,7 +126423,7 @@
       "rob": 1794827191981,
       "heal": 1794827290041,
       "work": 1794827132785,
-      "susun": 1794826985632,
+      "susun": 1794827366504,
       "gacha": 1794827223376,
       "jual": 1794827243006,
       "shop": 1794827266853
@@ -126435,7 +126435,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 0,
+    "koin": 1439,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130631,10 +130631,10 @@
       "stamina": 70,
       "bank": 38596
     },
-    "exp": 49035,
+    "exp": 49050,
     "energi": 100055,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T11:08:55.144Z",
+    "lastSeen": "2026-11-16T11:09:33.238Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -143270,7 +143270,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 43459,
+    "exp": 43699,
     "name": "JSM",
     "lastSeen": "2026-11-16T08:24:40.159Z",
     "energi": 999999,
@@ -143334,8 +143334,16 @@
   },
   "6285647744842": {
     "jid": "6285647744842",
-    "rpg": {},
-    "exp": 9900,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10125,
     "name": "ap!nn",
     "lastSeen": "2026-11-15T13:17:03.288Z",
     "energi": 99999,
@@ -145396,7 +145404,7 @@
   "6285752052066": {
     "jid": "6285752052066",
     "rpg": {},
-    "exp": 2205,
+    "exp": 2475,
     "name": "sumedang cik",
     "lastSeen": "2026-11-16T11:06:46.492Z",
     "energi": 999999,
@@ -145686,7 +145694,7 @@
   "62882005296437": {
     "jid": "62882005296437",
     "rpg": {},
-    "exp": 810,
+    "exp": 825,
     "energi": 99999
   },
   "6283849745782": {
