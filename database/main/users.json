@@ -20747,10 +20747,10 @@
     "jid": "6285126515982",
     "name": "Nerpp",
     "number": "6285126515982",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 62279,
+    "exp": 62294,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -20759,13 +20759,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T00:46:08.323Z",
+    "lastSeen": "2026-11-16T12:07:18.733Z",
     "cooldowns": {
       "ganteng": 1782489455913,
       "gay": 1782489411107,
       "cekkhodam": 1782394003134,
       "ww": 1782394062099,
-      "brat": 1793704795571,
+      "brat": 1794830839639,
       "bratimg": 1787842926048,
       "bratvid2": 1793704810841,
       "s": 1789196991027,
@@ -20858,8 +20858,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "13/11/2026",
-    "activeDays": 36
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 37
   },
   "6282182476988": {
     "jid": "6282182476988",
@@ -139697,16 +139697,17 @@
   "6285924583218": {
     "jid": "6285924583218",
     "rpg": {},
-    "exp": 3514,
+    "exp": 3529,
     "energi": 999999,
     "name": "Rey",
-    "lastSeen": "2026-11-16T12:03:19.433Z",
+    "lastSeen": "2026-11-16T12:07:24.816Z",
     "cooldowns": {
       "cekfemboy": 1794817178442,
       "asah": 1794829085685,
       "asahotak": 1794830544324,
       "tebakgambar": 1794830601145,
-      "menu": 1794830376523
+      "menu": 1794830376523,
+      "tebakbendera": 1794830845241
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 1,
@@ -140286,7 +140287,7 @@
   "62881024923495": {
     "jid": "62881024923495",
     "rpg": {},
-    "exp": 465,
+    "exp": 480,
     "energi": 99999
   },
   "6285726159447": {
@@ -140368,17 +140369,17 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10147,
+    "exp": 10162,
     "energi": 999999,
     "name": "person",
-    "lastSeen": "2026-11-16T12:06:41.001Z",
+    "lastSeen": "2026-11-16T12:07:20.529Z",
     "cooldowns": {
       "tebakgambar": 1794830741485,
       "tebaknegara": 1794830704857,
       "tebakkata": 1794409147989,
       "cekfemboy": 1794830629159,
       "asahotak": 1794830471347,
-      "tebakbendera": 1794830803225
+      "tebakbendera": 1794830841766
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
@@ -143001,14 +143002,15 @@
   "6283128672858": {
     "jid": "6283128672858",
     "rpg": {},
-    "exp": 4670,
+    "exp": 4685,
     "name": "ryann🕷",
-    "lastSeen": "2026-11-16T11:58:47.239Z",
-    "energi": 1000002,
+    "lastSeen": "2026-11-16T12:07:20.740Z",
+    "energi": 999999,
     "cooldowns": {
       "gay": 1794128107717,
       "afk": 1794440049897,
-      "asahotak": 1794830328360
+      "asahotak": 1794830328360,
+      "tebakbendera": 1794830842308
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
