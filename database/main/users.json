@@ -142379,16 +142379,16 @@
   "6288242465903": {
     "jid": "6288242465903",
     "rpg": {
-      "level": 6,
-      "maxHealth": 150,
-      "maxMana": 125,
-      "maxStamina": 125,
-      "health": 150,
-      "mana": 125,
-      "stamina": 125
+      "level": 7,
+      "maxHealth": 160,
+      "maxMana": 130,
+      "maxStamina": 130,
+      "health": 160,
+      "mana": 130,
+      "stamina": 130
     },
-    "exp": 57690,
-    "energi": 999999,
+    "exp": 60352,
+    "energi": 1000005,
     "name": "Farel Stur",
     "lastSeen": "2026-11-16T14:46:31.307Z",
     "cooldowns": {
@@ -142405,7 +142405,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
-    "koin": 32830
+    "koin": 33674
   },
   "6282285249002": {
     "jid": "6282285249002",
