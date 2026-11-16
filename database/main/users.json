@@ -13400,7 +13400,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10695,
+    "exp": 10725,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126334,7 +126334,7 @@
       "stamina": 165,
       "bank": 28056
     },
-    "exp": 163988,
+    "exp": 164003,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-16T01:20:27.521Z",
@@ -143184,10 +143184,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30268,
+    "exp": 30283,
     "name": "JSM",
-    "lastSeen": "2026-11-16T02:43:55.892Z",
-    "energi": 1000004,
+    "lastSeen": "2026-11-16T02:46:30.349Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794784198137,
@@ -143213,7 +143213,8 @@
       "femboy": 1794749884761,
       "brat": 1794796402881,
       "bratimg": 1794796566501,
-      "tenka": 1794796525859
+      "tenka": 1794796525859,
+      "level": 1794797191759
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4,
