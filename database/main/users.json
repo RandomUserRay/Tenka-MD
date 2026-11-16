@@ -91727,15 +91727,15 @@
   },
   "6288268008253": {
     "name": "loser gem",
-    "lastSeen": "2026-11-16T00:43:17.873Z",
+    "lastSeen": "2026-11-16T00:44:24.031Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3481,
+    "exp": 3496,
     "level": 1,
-    "koin": 0,
+    "koin": 100000,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794789800170,
@@ -91765,7 +91765,7 @@
     "rpg": {
       "stamina": 60,
       "health": 85,
-      "bank": 99950000,
+      "bank": 99850000,
       "spouse": "6285650881944@s.whatsapp.net",
       "marriedAt": 1790499492152
     },
