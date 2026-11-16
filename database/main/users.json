@@ -13400,7 +13400,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10545,
+    "exp": 10575,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -126334,7 +126334,7 @@
       "stamina": 165,
       "bank": 28056
     },
-    "exp": 163913,
+    "exp": 163928,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-16T01:20:27.521Z",
@@ -135109,7 +135109,7 @@
   "6288983933532": {
     "jid": "6288983933532",
     "rpg": {},
-    "exp": 405,
+    "exp": 435,
     "energi": 99999,
     "name": "Seho",
     "lastSeen": "2026-11-03T09:25:20.175Z",
@@ -143176,18 +143176,18 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 27995,
+    "exp": 30253,
     "name": "JSM",
     "lastSeen": "2026-11-16T02:43:55.892Z",
-    "energi": 999999,
+    "energi": 1000004,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794784198137,
@@ -143217,7 +143217,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4,
-    "koin": 13402,
+    "koin": 14607,
     "fun": {
       "tembakCount": 8,
       "jadiPacar": 1794462951003,
