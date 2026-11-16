@@ -91389,7 +91389,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2880,
+    "exp": 2895,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97455,7 +97455,7 @@
     "energi": 999996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47048,
+    "exp": 47063,
     "level": 1,
     "koin": 552,
     "saldo": 0,
@@ -135954,7 +135954,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17100,
+    "exp": 17115,
     "name": "!𝔜𝔢𝔰",
     "lastSeen": "2026-10-27T12:49:23.518Z",
     "energi": 99999
@@ -145329,15 +145329,16 @@
   "6285752052066": {
     "jid": "6285752052066",
     "rpg": {},
-    "exp": 1635,
+    "exp": 1650,
     "name": "sumedang cik",
-    "lastSeen": "2026-11-15T14:57:18.330Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-16T09:25:34.190Z",
+    "energi": 999999,
     "cooldowns": {
-      "topchat": 1794754638716
+      "topchat": 1794754638716,
+      "tebakgambar": 1794821135484
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 2
   },
   "6285367187550": {
     "jid": "6285367187550",
