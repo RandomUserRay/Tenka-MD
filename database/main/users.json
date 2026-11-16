@@ -67888,7 +67888,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 180981,
+    "exp": 180996,
     "level": 1,
     "koin": 75963,
     "unlockedFeatures": [
@@ -67903,7 +67903,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T16:26:14.526Z",
+    "lastSeen": "2026-11-16T00:43:18.013Z",
     "cooldowns": {
       "afk": 1794759978751,
       "s": 1794735734654,
@@ -91727,18 +91727,18 @@
   },
   "6288268008253": {
     "name": "loser gem",
-    "lastSeen": "2026-10-06T11:03:07.042Z",
+    "lastSeen": "2026-11-16T00:43:17.873Z",
     "jid": "6288268008253",
     "number": "6288268008253",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3466,
+    "exp": 3481,
     "level": 1,
     "koin": 0,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1794789800170,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
@@ -91754,7 +91754,8 @@
       "s": 1789618441384,
       "bank": 1790499514481,
       "afk": 1791284588748,
-      "marry": 1790499492556
+      "marry": 1790499492556,
+      "me": 1794789802464
     },
     "clanId": null,
     "isRegistered": false,
@@ -91770,8 +91771,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "6/10/2026",
-    "activeDays": 4
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 5
   },
   "6287737013754": {
     "jid": "6287737013754",
@@ -126324,7 +126325,7 @@
       "stamina": 165,
       "bank": 28056
     },
-    "exp": 163073,
+    "exp": 163088,
     "energi": 99999,
     "name": "Pipo Pino jadi L",
     "lastSeen": "2026-11-15T16:06:26.292Z",
