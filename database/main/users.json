@@ -130628,7 +130628,7 @@
       "stamina": 90,
       "bank": 38596
     },
-    "exp": 48474,
+    "exp": 48774,
     "energi": 100056,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-16T11:06:21.978Z",
@@ -130669,7 +130669,9 @@
     "clanId": "FEM",
     "registeredAt": 1794825381707,
     "koin": 0,
-    "inventory": {}
+    "inventory": {
+      "gold": 1
+    }
   },
   "6283865412573": {
     "jid": "6283865412573",
