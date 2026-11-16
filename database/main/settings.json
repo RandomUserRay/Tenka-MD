@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "rate-overlimit",
+      "at": 1794832765346
+    },
+    {
+      "cmd": "unknown",
       "err": "AIRich is not a constructor",
       "at": 1794827608935
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791569270378
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1791478467799
     }
   ],
   "jpmBlacklist": [],
