@@ -139525,7 +139525,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17025,
+    "exp": 17040,
     "energi": 999999,
     "name": "😕",
     "lastSeen": "2026-11-16T12:34:00.561Z",
@@ -139723,7 +139723,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24960,
+    "exp": 24975,
     "energi": 999999,
     "name": "Rey",
     "lastSeen": "2026-11-16T12:30:45.513Z",
@@ -143372,18 +143372,18 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {
-      "level": 5,
-      "maxHealth": 140,
-      "maxMana": 120,
-      "maxStamina": 120,
-      "health": 140,
-      "mana": 120,
-      "stamina": 120
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125,
+      "health": 150,
+      "mana": 125,
+      "stamina": 125
     },
-    "exp": 49336,
+    "exp": 50466,
     "name": "JSM",
     "lastSeen": "2026-11-16T08:24:40.159Z",
-    "energi": 1000011,
+    "energi": 1000014,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794784198137,
@@ -143414,7 +143414,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4,
-    "koin": 26913,
+    "koin": 28660,
     "fun": {
       "tembakCount": 8,
       "jadiPacar": 1794462951003,
@@ -144409,7 +144409,7 @@
   "6283151290492": {
     "jid": "6283151290492",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "energi": 99999
   },
   "6283846153835": {
