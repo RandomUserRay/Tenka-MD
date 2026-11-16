@@ -126347,12 +126347,12 @@
       "health": 290,
       "mana": 195,
       "stamina": 195,
-      "bank": 83937
+      "bank": 88721
     },
-    "exp": 191555,
+    "exp": 191570,
     "energi": 100040,
     "name": "Pipo cinta es Pino",
-    "lastSeen": "2026-11-16T11:14:12.673Z",
+    "lastSeen": "2026-11-16T11:14:23.403Z",
     "cooldowns": {
       "femboy": 1794732865925,
       "afk": 1794825309909,
@@ -126399,7 +126399,7 @@
       "tebakhewan": 1794150932371,
       "clanleave": 1794151517785,
       "clanmembers": 1794492893060,
-      "bank": 1794827354228,
+      "bank": 1794827663982,
       "culik": 1794152093217,
       "curi": 1794152102194,
       "clan": 1794731594458,
@@ -126435,7 +126435,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 4784,
+    "koin": 0,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130622,19 +130622,19 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {
-      "level": 5,
-      "maxHealth": 140,
-      "maxMana": 120,
-      "maxStamina": 120,
-      "health": 140,
-      "mana": 120,
-      "stamina": 110,
+      "level": 6,
+      "maxHealth": 150,
+      "maxMana": 125,
+      "maxStamina": 125,
+      "health": 150,
+      "mana": 125,
+      "stamina": 125,
       "bank": 42616
     },
-    "exp": 49662,
+    "exp": 51580,
     "energi": 100054,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T11:14:16.437Z",
+    "lastSeen": "2026-11-16T11:14:24.898Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794827590743,
@@ -130657,7 +130657,7 @@
       "mengapa": 1794065025802,
       "rob": 1794827154327,
       "slot": 1794825618747,
-      "work": 1794827406112,
+      "work": 1794827671271,
       "top": 1794826198040,
       "deposit": 1794826575677,
       "profile": 1794826541632,
@@ -130677,7 +130677,7 @@
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 0,
+    "koin": 19039,
     "inventory": {
       "gold": 1,
       "rock": 5
@@ -142699,7 +142699,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 45478,
+    "exp": 45493,
     "name": "ejaa",
     "lastSeen": "2026-11-15T03:44:14.303Z",
     "energi": 99999,
@@ -143273,7 +143273,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 44284,
+    "exp": 44299,
     "name": "JSM",
     "lastSeen": "2026-11-16T08:24:40.159Z",
     "energi": 999999,
@@ -143346,7 +143346,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11535,
+    "exp": 11550,
     "name": "ap!nn",
     "lastSeen": "2026-11-16T11:12:29.511Z",
     "energi": 999999,
@@ -143726,9 +143726,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 18911,
+    "exp": 18941,
     "name": "Ceo Yang sedang Menyamar",
-    "lastSeen": "2026-11-16T10:40:07.003Z",
+    "lastSeen": "2026-11-16T11:14:32.233Z",
     "energi": 999999,
     "cooldowns": {
       "cekfemboy": 1794714009955,
@@ -145697,7 +145697,7 @@
   "62882005296437": {
     "jid": "62882005296437",
     "rpg": {},
-    "exp": 1530,
+    "exp": 1575,
     "energi": 99999
   },
   "6283849745782": {
