@@ -93836,7 +93836,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435918,
+    "exp": 435933,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T22:34:07.302Z",
+    "lastSeen": "2026-11-16T10:52:35.763Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -93932,7 +93932,7 @@
       "asupan": 1794118376682,
       "cuntboy": 1794119498990,
       "me": 1794502777045,
-      "bank": 1794462984118,
+      "bank": 1794826356198,
       "p": 1794121740849,
       "daftar": 1794121772622,
       "hug": 1794122074006,
@@ -97464,7 +97464,7 @@
     "energi": 10002,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51949,
+    "exp": 51964,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -130620,10 +130620,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31138,
-    "energi": 100025,
+    "exp": 31153,
+    "energi": 100024,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:51:16.989Z",
+    "lastSeen": "2026-11-16T10:52:34.348Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -135966,8 +135966,11 @@
   "6289669373652": {
     "jid": "6289669373652",
     "rpg": {},
-    "exp": 435,
-    "energi": 99999
+    "exp": 450,
+    "energi": 99999,
+    "name": "~Furuwa",
+    "lastSeen": "2026-11-16T10:52:35.709Z",
+    "cooldowns": {}
   },
   "6282199507449": {
     "jid": "6282199507449",
