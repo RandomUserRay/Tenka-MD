@@ -143178,18 +143178,18 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {
-      "level": 4,
-      "maxHealth": 130,
-      "maxMana": 115,
-      "maxStamina": 115,
-      "health": 130,
-      "mana": 115,
-      "stamina": 115
+      "level": 5,
+      "maxHealth": 140,
+      "maxMana": 120,
+      "maxStamina": 120,
+      "health": 140,
+      "mana": 120,
+      "stamina": 120
     },
-    "exp": 39675,
+    "exp": 40771,
     "name": "JSM",
     "lastSeen": "2026-11-16T03:50:37.752Z",
-    "energi": 999999,
+    "energi": 1000002,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794784198137,
@@ -143220,7 +143220,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4,
-    "koin": 22310,
+    "koin": 23591,
     "fun": {
       "tembakCount": 8,
       "jadiPacar": 1794462951003,
