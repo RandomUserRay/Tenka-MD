@@ -138949,16 +138949,16 @@
   "6283843354185": {
     "jid": "6283843354185",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "name": "q",
-    "lastSeen": "2026-11-15T13:43:18.498Z",
+    "lastSeen": "2026-11-16T12:04:26.860Z",
     "cooldowns": {
       "s": 1793698958265,
-      "cekfemboy": 1794750203185
+      "cekfemboy": 1794830670895
     },
-    "energi": 99999,
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 2
+    "energi": 999999,
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 3
   },
   "6281267359680": {
     "jid": "6281267359680",
@@ -140359,14 +140359,22 @@
   },
   "6285606425473": {
     "jid": "6285606425473",
-    "rpg": {},
-    "exp": 9997,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10012,
     "energi": 999999,
     "name": "person",
-    "lastSeen": "2026-11-16T12:03:32.463Z",
+    "lastSeen": "2026-11-16T12:04:22.767Z",
     "cooldowns": {
       "tebakgambar": 1794748153704,
-      "tebaknegara": 1794748717942,
+      "tebaknegara": 1794830666854,
       "tebakkata": 1794409147989,
       "cekfemboy": 1794830629159,
       "asahotak": 1794830471347
