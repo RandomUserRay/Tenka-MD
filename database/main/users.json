@@ -97446,17 +97446,17 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46688,
+    "exp": 46703,
     "level": 1,
     "koin": 552,
     "saldo": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1794789910284,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T22:14:42.781Z",
+    "lastSeen": "2026-11-16T00:45:08.371Z",
     "cooldowns": {
       "afk": 1794721541289,
       "play": 1794744622355,
@@ -97504,7 +97504,8 @@
       "psikopat": 1794720480251,
       "ceksetia": 1794720837041,
       "ceksexy": 1794720939412,
-      "ceksial": 1794721021007
+      "ceksial": 1794721021007,
+      "me": 1794789912121
     },
     "clanId": null,
     "isRegistered": false,
@@ -97523,8 +97524,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 50
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 51
   },
   "6285814414356": {
     "jid": "6285814414356",
