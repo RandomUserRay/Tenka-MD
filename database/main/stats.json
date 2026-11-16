@@ -1,6 +1,6 @@
 {
   "commandErrors": 700,
-  "commandsExecuted": 145408,
+  "commandsExecuted": 145411,
   "command_totalchat": 28,
   "command_menu": 2748,
   "command_fb": 21,
@@ -18,7 +18,7 @@
   "command_hapusproduk": 3,
   "command_done": 9,
   "command_ping": 369,
-  "command_tt": 1314,
+  "command_tt": 1315,
   "command_list": 21,
   "command_addlist": 3,
   "command_hapuslist": 2,
@@ -480,7 +480,7 @@
   "command_truth": 387,
   "command_dare": 390,
   "command_love": 554,
-  "command_asahotak": 317,
+  "command_asahotak": 318,
   "command_babi": 22,
   "command_anjing": 22,
   "command_bully": 10,
@@ -1494,6 +1494,6 @@
   "command_cscheck": 2,
   "command_guildmembers": 2,
   "command_snake": 1,
-  "command_asah": 2,
+  "command_asah": 3,
   "command_cekrezeki": 1
 }
