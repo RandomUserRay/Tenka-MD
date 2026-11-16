@@ -141488,13 +141488,14 @@
   "6285762463308": {
     "jid": "6285762463308",
     "rpg": {},
-    "exp": 6871,
-    "energi": 1000009,
+    "exp": 6886,
+    "energi": 999999,
     "name": "Juice",
-    "lastSeen": "2026-11-16T08:29:08.014Z",
+    "lastSeen": "2026-11-16T08:35:08.988Z",
     "cooldowns": {
       "cekfemboy": 1794817325671,
-      "tebakgambar": 1794817751321
+      "tebakgambar": 1794817751321,
+      "tebakmakanan": 1794818111434
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 1,
