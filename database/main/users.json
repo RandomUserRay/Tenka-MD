@@ -130619,12 +130619,12 @@
       "maxStamina": 115,
       "health": 105,
       "mana": 115,
-      "stamina": 115
+      "stamina": 105
     },
-    "exp": 31213,
+    "exp": 31642,
     "energi": 100024,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:53:13.768Z",
+    "lastSeen": "2026-11-16T10:53:19.162Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -130655,7 +130655,7 @@
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 8354
+    "koin": 12495
   },
   "6283865412573": {
     "jid": "6283865412573",
