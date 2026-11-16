@@ -93836,9 +93836,9 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436807,
+    "exp": 436822,
     "level": 1,
-    "koin": 47508,
+    "koin": 508,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:58:52.915Z",
+    "lastSeen": "2026-11-16T10:59:18.805Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -93932,7 +93932,7 @@
       "asupan": 1794118376682,
       "cuntboy": 1794119498990,
       "me": 1794502777045,
-      "bank": 1794826356198,
+      "bank": 1794826759396,
       "p": 1794121740849,
       "daftar": 1794121772622,
       "hug": 1794122074006,
@@ -93961,7 +93961,7 @@
       "mana": 315,
       "stamina": 305,
       "attack": 10,
-      "bank": 0
+      "bank": 47000
     },
     "inventory": {
       "potion": 8,
@@ -130622,9 +130622,9 @@
       "maxHealth": 130,
       "maxMana": 115,
       "maxStamina": 115,
-      "health": 105,
+      "health": 130,
       "mana": 115,
-      "stamina": 95,
+      "stamina": 115,
       "bank": 14614
     },
     "exp": 32138,
@@ -130657,7 +130657,8 @@
       "top": 1794826198040,
       "deposit": 1794826575677,
       "profile": 1794826541632,
-      "bank": 1794826742254
+      "bank": 1794826742254,
+      "heal": 1794826760135
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
