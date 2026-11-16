@@ -139705,16 +139705,16 @@
   "6285924583218": {
     "jid": "6285924583218",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 19707,
-    "energi": 999999,
+    "exp": 21895,
+    "energi": 1000004,
     "name": "Rey",
     "lastSeen": "2026-11-16T12:23:03.268Z",
     "cooldowns": {
@@ -139728,7 +139728,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 1,
-    "koin": 11889
+    "koin": 13769
   },
   "6283186961688": {
     "jid": "6283186961688",
