@@ -67897,7 +67897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181086,
+    "exp": 181101,
     "level": 1,
     "koin": 75963,
     "unlockedFeatures": [
@@ -131621,15 +131621,16 @@
   "6282343111013": {
     "jid": "6282343111013",
     "rpg": {},
-    "exp": 6690,
+    "exp": 6705,
     "energi": 999999,
     "name": "καi?",
-    "lastSeen": "2026-11-16T08:31:46.613Z",
+    "lastSeen": "2026-11-16T08:31:57.440Z",
     "cooldowns": {
       "intro": 1792626924305,
       "am": 1792733639778,
       "afk": 1793020443472,
-      "fisht": 1794799262956
+      "fisht": 1794799262956,
+      "tebakgambar": 1794817919219
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4
