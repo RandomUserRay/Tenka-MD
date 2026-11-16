@@ -97460,12 +97460,12 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 999998,
+    "energi": 1000004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 47588,
+    "exp": 50307,
     "level": 1,
-    "koin": 552,
+    "koin": 2080,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794789910284,
@@ -97530,13 +97530,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 5,
-      "health": 140,
-      "maxHealth": 140,
-      "mana": 120,
-      "maxMana": 120,
-      "stamina": 120,
-      "maxStamina": 120,
+      "level": 6,
+      "health": 150,
+      "maxHealth": 150,
+      "mana": 125,
+      "maxMana": 125,
+      "stamina": 125,
+      "maxStamina": 125,
       "bank": 2000000
     },
     "inventory": {},
@@ -130617,10 +130617,10 @@
       "mana": 105,
       "stamina": 95
     },
-    "exp": 15749,
-    "energi": 99993,
+    "exp": 15764,
+    "energi": 99991,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:42:59.879Z",
+    "lastSeen": "2026-11-16T10:44:15.095Z",
     "cooldowns": {
       "pin": 1794825164981,
       "menu": 1794542460967,
@@ -143299,7 +143299,7 @@
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 8670,
+    "exp": 8685,
     "name": "ap!nn",
     "lastSeen": "2026-11-15T13:17:03.288Z",
     "energi": 99999,
@@ -143592,7 +143592,7 @@
   "6281243120928": {
     "jid": "6281243120928",
     "rpg": {},
-    "exp": 360,
+    "exp": 375,
     "name": "zaa",
     "lastSeen": "2026-11-12T05:41:25.616Z",
     "energi": 99999,
@@ -145204,7 +145204,7 @@
   "6285604275646": {
     "jid": "6285604275646",
     "rpg": {},
-    "exp": 120,
+    "exp": 150,
     "energi": 99999
   },
   "6282384616063": {
