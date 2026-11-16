@@ -3861,10 +3861,10 @@
     "jid": "6283893466512",
     "name": "wkwkwk",
     "number": "6283893466512",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 125750272,
+    "exp": 125750287,
     "level": 1,
     "koin": 2943,
     "unlockedFeatures": [],
@@ -3873,7 +3873,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T03:17:21.741Z",
+    "lastSeen": "2026-11-16T11:59:46.493Z",
     "cooldowns": {
       "cekfemboy": 1780119579237,
       "work": 1780487923944,
@@ -3916,7 +3916,7 @@
       "cool": 1782292577260,
       "ytmp3": 1787834708481,
       "tt": 1794633419996,
-      "fb": 1794712650853
+      "fb": 1794830394790
     },
     "clanId": null,
     "isRegistered": false,
@@ -3940,8 +3940,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 13
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 14
   },
   "6285338336939": {
     "jid": "6285338336939",
@@ -140360,7 +140360,7 @@
   "6285606425473": {
     "jid": "6285606425473",
     "rpg": {},
-    "exp": 9772,
+    "exp": 9787,
     "energi": 1000006,
     "name": "person",
     "lastSeen": "2026-11-16T08:19:18.137Z",
