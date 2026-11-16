@@ -136089,10 +136089,10 @@
   "6285713932730": {
     "jid": "6285713932730",
     "rpg": {},
-    "exp": 1260,
-    "energi": 99998,
+    "exp": 1275,
+    "energi": 99997,
     "name": "haru",
-    "lastSeen": "2026-11-16T13:17:56.772Z",
+    "lastSeen": "2026-11-16T13:33:47.365Z",
     "cooldowns": {
       "play": 1794835092906,
       "ytmp4": 1794743645785
@@ -139715,15 +139715,15 @@
   "6285924583218": {
     "jid": "6285924583218",
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 4,
+      "maxHealth": 130,
+      "maxMana": 115,
+      "maxStamina": 115,
+      "health": 130,
+      "mana": 115,
+      "stamina": 115
     },
-    "exp": 29994,
+    "exp": 30024,
     "energi": 999999,
     "name": "Rey",
     "lastSeen": "2026-11-16T13:33:18.886Z",
