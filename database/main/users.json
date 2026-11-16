@@ -139517,26 +139517,26 @@
   "6282134927106": {
     "jid": "6282134927106",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 18778,
+    "exp": 21489,
     "energi": 999999,
     "name": "😕",
-    "lastSeen": "2026-11-16T12:35:12.616Z",
+    "lastSeen": "2026-11-16T12:35:27.926Z",
     "cooldowns": {
       "gay": 1794066830550,
       "cekcantik": 1794750071024,
-      "tebakkata": 1794832513250
+      "tebakkata": 1794832529049
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
-    "koin": 10831
+    "koin": 12577
   },
   "6281389716834": {
     "jid": "6281389716834",
@@ -139723,7 +139723,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25005,
+    "exp": 25050,
     "energi": 999999,
     "name": "Rey",
     "lastSeen": "2026-11-16T12:30:45.513Z",
@@ -143380,10 +143380,10 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 54849,
+    "exp": 57090,
     "name": "JSM",
     "lastSeen": "2026-11-16T08:24:40.159Z",
-    "energi": 1000025,
+    "energi": 1000031,
     "cooldowns": {
       "menu": 1794468381489,
       "menucat": 1794784198137,
@@ -143414,7 +143414,7 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 4,
-    "koin": 31685,
+    "koin": 32350,
     "fun": {
       "tembakCount": 8,
       "jadiPacar": 1794462951003,
@@ -145993,7 +145993,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15686,
+    "exp": 15716,
     "name": "Rehann",
     "lastSeen": "2026-11-16T12:28:07.877Z",
     "energi": 1000020,
