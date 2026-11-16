@@ -93836,7 +93836,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436792,
+    "exp": 436807,
     "level": 1,
     "koin": 47508,
     "saldo": 0,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:58:34.548Z",
+    "lastSeen": "2026-11-16T10:58:52.915Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -130652,7 +130652,7 @@
       "mengapa": 1794065025802,
       "rob": 1794826358662,
       "slot": 1794825618747,
-      "work": 1794826403371,
+      "work": 1794826722843,
       "top": 1794826198040,
       "deposit": 1794826575677,
       "profile": 1794826541632,
@@ -143396,15 +143396,17 @@
   "6282164218238": {
     "jid": "6282164218238",
     "rpg": {},
-    "exp": 960,
+    "exp": 975,
     "energi": 99999,
     "name": "Cihuyyy",
-    "lastSeen": "2026-11-15T16:07:15.645Z",
+    "lastSeen": "2026-11-16T10:58:44.832Z",
     "cooldowns": {
-      "afk": 1794758840022
+      "afk": 1794758840022,
+      "me": 1794826732504
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 2,
+    "registeredAt": 1794826727324
   },
   "6282192279704": {
     "jid": "6282192279704",
