@@ -91394,7 +91394,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3405,
+    "exp": 3420,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93687,7 +93687,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7530,
+    "exp": 7545,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -95139,7 +95139,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3915,
+    "exp": 3930,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99662,7 +99662,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 36465,
+    "exp": 36480,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -138341,7 +138341,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17025,
+    "exp": 17040,
     "name": "darah pekad",
     "lastSeen": "2026-11-15T14:06:30.489Z",
     "cooldowns": {
@@ -145531,17 +145531,18 @@
   "6285752052066": {
     "jid": "6285752052066",
     "rpg": {},
-    "exp": 4095,
+    "exp": 6895,
     "name": "sumedang cik",
     "lastSeen": "2026-11-16T13:52:42.426Z",
-    "energi": 999999,
+    "energi": 1000003,
     "cooldowns": {
       "topchat": 1794836955241,
       "tebakgambar": 1794821135484,
       "asahotak": 1794837164415
     },
     "lastActiveDate": "16/11/2026",
-    "activeDays": 2
+    "activeDays": 2,
+    "koin": 1190
   },
   "6285367187550": {
     "jid": "6285367187550",
@@ -145982,7 +145983,7 @@
   "6285182482078": {
     "jid": "6285182482078",
     "rpg": {},
-    "exp": 195
+    "exp": 210
   },
   "62882016490316": {
     "jid": "62882016490316",
