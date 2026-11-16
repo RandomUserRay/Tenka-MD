@@ -3520,10 +3520,10 @@
     "jid": "6282135848247",
     "name": "~Captain^ REEy~|",
     "number": "6282135848247",
-    "energi": 100013,
+    "energi": 100012,
     "isPremium": false,
     "isBanned": false,
-    "exp": 439092,
+    "exp": 439107,
     "level": 1,
     "koin": 8695,
     "unlockedFeatures": [],
@@ -3532,7 +3532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:42:28.767Z",
+    "lastSeen": "2026-11-16T10:42:34.740Z",
     "cooldowns": {
       "femboy": 1794825551765,
       "profile": 1794825363649,
@@ -3546,7 +3546,7 @@
       "topixel": 1781183602489,
       "play": 1794067790750,
       "kiss": 1782457615417,
-      "slap": 1782457591965,
+      "slap": 1794825758639,
       "level": 1781266941070,
       "exp": 1781530053122,
       "s": 1794824809092,
@@ -130615,12 +130615,12 @@
       "maxStamina": 105,
       "health": 110,
       "mana": 105,
-      "stamina": 105
+      "stamina": 95
     },
-    "exp": 14715,
+    "exp": 15719,
     "energi": 99993,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:42:07.774Z",
+    "lastSeen": "2026-11-16T10:42:41.963Z",
     "cooldowns": {
       "pin": 1794825164981,
       "menu": 1794542460967,
@@ -130642,14 +130642,15 @@
       "renungan": 1794064980570,
       "mengapa": 1794065025802,
       "rob": 1794825446615,
-      "slot": 1794825618747
+      "slot": 1794825618747,
+      "work": 1794825766365
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 2535
+    "koin": 12429
   },
   "6283865412573": {
     "jid": "6283865412573",
