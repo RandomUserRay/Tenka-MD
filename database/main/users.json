@@ -3523,7 +3523,7 @@
     "energi": 100043,
     "isPremium": false,
     "isBanned": false,
-    "exp": 451569,
+    "exp": 451554,
     "level": 1,
     "koin": 15682,
     "unlockedFeatures": [],
@@ -3532,7 +3532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:50:13.057Z",
+    "lastSeen": "2026-11-16T10:49:51.071Z",
     "cooldowns": {
       "femboy": 1794826090364,
       "profile": 1794825363649,
@@ -3593,7 +3593,7 @@
       "cantik": 1783150678520,
       "hytamkan": 1783508218400,
       "cekfemboy": 1790248808185,
-      "top": 1794826213921,
+      "top": 1794826192037,
       "cekcantik": 1790422485278,
       "tembak": 1790509148699,
       "judi": 1790422669748,
@@ -34854,7 +34854,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 288210,
+    "exp": 288255,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67898,7 +67898,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181341,
+    "exp": 181326,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67913,7 +67913,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:50:11.404Z",
+    "lastSeen": "2026-11-16T10:48:06.480Z",
     "cooldowns": {
       "afk": 1794759978751,
       "s": 1794825232155,
@@ -68001,8 +68001,7 @@
       "pin": 1793883363956,
       "naked": 1793526647779,
       "cekyandere": 1794243567222,
-      "tsundere": 1794741485687,
-      "susun": 1794826212663
+      "tsundere": 1794741485687
     },
     "clanId": null,
     "isRegistered": false,
@@ -97461,12 +97460,12 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 10002,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51904,
+    "exp": 50457,
     "level": 1,
-    "koin": 4018,
+    "koin": 2080,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794789910284,
@@ -97474,7 +97473,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:50:08.026Z",
+    "lastSeen": "2026-11-16T10:49:01.234Z",
     "cooldowns": {
       "afk": 1794721541289,
       "play": 1794822230221,
@@ -97487,7 +97486,7 @@
       "cekcantik": 1794721044821,
       "cekganteng": 1794721058265,
       "tolol": 1788075743705,
-      "top": 1794826208029,
+      "top": 1794720709218,
       "pintar": 1788075965074,
       "femboy": 1794744662490,
       "dadu": 1788079899385,
@@ -130620,10 +130619,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31123,
+    "exp": 31078,
     "energi": 100025,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:50:04.226Z",
+    "lastSeen": "2026-11-16T10:44:15.095Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -130646,8 +130645,7 @@
       "mengapa": 1794065025802,
       "rob": 1794825446615,
       "slot": 1794825618747,
-      "work": 1794825766365,
-      "top": 1794826198040
+      "work": 1794825766365
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
@@ -142900,7 +142898,7 @@
   "6289514394509": {
     "jid": "6289514394509",
     "rpg": {},
-    "exp": 600,
+    "exp": 585,
     "energi": 99999
   },
   "6281521663962": {
@@ -145241,10 +145239,22 @@
     "exp": 15,
     "energi": 99999
   },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 180,
+    "energi": 99999
+  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 345,
     "energi": 99999
   },
   "6282140545125": {
@@ -145312,18 +145322,6 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1,
-    "energi": 99999
-  },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 180,
-    "energi": 99999
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 345,
     "energi": 99999
   },
   "6285724618167": {
@@ -145549,16 +145547,16 @@
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
   },
-  "6285755984802": {
-    "jid": "6285755984802",
-    "rpg": {},
-    "exp": 960,
-    "energi": 99999
-  },
   "6282233141480": {
     "jid": "6282233141480",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6285755984802": {
+    "jid": "6285755984802",
+    "rpg": {},
+    "exp": 960,
     "energi": 99999
   },
   "628218618409": {
@@ -145588,7 +145586,7 @@
   "62895323193040": {
     "jid": "62895323193040",
     "rpg": {},
-    "exp": 60,
+    "exp": 45,
     "energi": 99999
   },
   "6282124833611": {
