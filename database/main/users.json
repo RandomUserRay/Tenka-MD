@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330131,
+    "exp": 330161,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -16186,7 +16186,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9398957,
+    "exp": 9398987,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34854,7 +34854,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 288210,
+    "exp": 288285,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -44431,7 +44431,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2145,
+    "exp": 2205,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93836,9 +93836,9 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436687,
+    "exp": 436278,
     "level": 1,
-    "koin": 47508,
+    "koin": 63029,
     "saldo": 0,
     "unlockedFeatures": [],
     "registeredAt": 1794117470499,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:55:04.182Z",
+    "lastSeen": "2026-11-16T10:53:46.864Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -93923,7 +93923,7 @@
       "robloxplayer": 1794117135508,
       "clancreate": 1794122341799,
       "daily": 1794463000066,
-      "profile": 1794826484646,
+      "profile": 1794462761879,
       "koin": 1794117521838,
       "family100": 1794117563010,
       "quiz": 1794502592541,
@@ -93944,8 +93944,7 @@
       "sleep": 1794350981006,
       "cekimut": 1794732881457,
       "rob": 1794826384335,
-      "deposit": 1794826427422,
-      "work": 1794826467403
+      "deposit": 1794826427422
     },
     "clanId": "FEM",
     "isRegistered": true,
@@ -93959,7 +93958,7 @@
       "maxStamina": 315,
       "health": 530,
       "mana": 315,
-      "stamina": 305,
+      "stamina": 315,
       "attack": 10,
       "bank": 0
     },
@@ -126347,12 +126346,12 @@
       "health": 260,
       "mana": 180,
       "stamina": 165,
-      "bank": 48056
+      "bank": 28056
     },
-    "exp": 167053,
-    "energi": 100000,
+    "exp": 166693,
+    "energi": 100001,
     "name": "Pipo cinta es Pino",
-    "lastSeen": "2026-11-16T10:55:04.733Z",
+    "lastSeen": "2026-11-16T10:52:51.793Z",
     "cooldowns": {
       "femboy": 1794732865925,
       "afk": 1794825309909,
@@ -126399,7 +126398,7 @@
       "tebakhewan": 1794150932371,
       "clanleave": 1794151517785,
       "clanmembers": 1794492893060,
-      "bank": 1794826457268,
+      "bank": 1794152067673,
       "culik": 1794152093217,
       "curi": 1794152102194,
       "clan": 1794731594458,
@@ -126419,8 +126418,7 @@
       "topkoin": 1794731405702,
       "topexp": 1794731425297,
       "guild": 1794731671514,
-      "deposit": 1794731683633,
-      "rob": 1794826496211
+      "deposit": 1794731683633
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 14,
@@ -126429,7 +126427,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 3526,
+    "koin": 4357,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130622,13 +130620,12 @@
       "maxStamina": 115,
       "health": 105,
       "mana": 115,
-      "stamina": 105,
-      "bank": 0
+      "stamina": 105
     },
-    "exp": 31762,
+    "exp": 31672,
     "energi": 100024,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:54:42.185Z",
+    "lastSeen": "2026-11-16T10:53:42.706Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -130652,8 +130649,7 @@
       "rob": 1794826358662,
       "slot": 1794825618747,
       "work": 1794826403371,
-      "top": 1794826198040,
-      "deposit": 1794826437446
+      "top": 1794826198040
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
@@ -145254,10 +145250,22 @@
     "exp": 15,
     "energi": 99999
   },
+  "6285137424384": {
+    "jid": "6285137424384",
+    "rpg": {},
+    "exp": 180,
+    "energi": 99999
+  },
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6285361596129": {
+    "jid": "6285361596129",
+    "rpg": {},
+    "exp": 345,
     "energi": 99999
   },
   "6282140545125": {
@@ -145325,18 +145333,6 @@
     },
     "lastActiveDate": "15/11/2026",
     "activeDays": 1,
-    "energi": 99999
-  },
-  "6285137424384": {
-    "jid": "6285137424384",
-    "rpg": {},
-    "exp": 180,
-    "energi": 99999
-  },
-  "6285361596129": {
-    "jid": "6285361596129",
-    "rpg": {},
-    "exp": 345,
     "energi": 99999
   },
   "6285724618167": {
@@ -145562,16 +145558,16 @@
     "lastActiveDate": "15/11/2026",
     "activeDays": 1
   },
-  "6285755984802": {
-    "jid": "6285755984802",
-    "rpg": {},
-    "exp": 960,
-    "energi": 99999
-  },
   "6282233141480": {
     "jid": "6282233141480",
     "rpg": {},
     "exp": 75,
+    "energi": 99999
+  },
+  "6285755984802": {
+    "jid": "6285755984802",
+    "rpg": {},
+    "exp": 960,
     "energi": 99999
   },
   "628218618409": {
