@@ -93833,10 +93833,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 435933,
+    "exp": 435948,
     "level": 1,
     "koin": 60294,
     "saldo": 0,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:52:35.763Z",
+    "lastSeen": "2026-11-16T10:53:00.809Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -100830,7 +100830,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 615,
+    "exp": 630,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -126346,10 +126346,10 @@
       "stamina": 165,
       "bank": 28056
     },
-    "exp": 164513,
+    "exp": 164543,
     "energi": 99998,
     "name": "Pipo cinta es Pino",
-    "lastSeen": "2026-11-16T10:35:05.950Z",
+    "lastSeen": "2026-11-16T10:52:51.793Z",
     "cooldowns": {
       "femboy": 1794732865925,
       "afk": 1794825309909,
@@ -126370,7 +126370,7 @@
       "trap": 1794119537242,
       "femboys": 1794119599335,
       "tentacles": 1794119611020,
-      "quiz": 1794731110156,
+      "quiz": 1794826372877,
       "claninvite": 1794492965800,
       "bratbahlil": 1794129095859,
       "slap": 1794129166478,
@@ -130620,10 +130620,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31153,
+    "exp": 31168,
     "energi": 100024,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:52:34.348Z",
+    "lastSeen": "2026-11-16T10:52:48.359Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -135970,7 +135970,11 @@
     "energi": 99999,
     "name": "~Furuwa",
     "lastSeen": "2026-11-16T10:52:35.709Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboy": 1794826364451
+    },
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 1
   },
   "6282199507449": {
     "jid": "6282199507449",
@@ -142282,7 +142286,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24071,
+    "exp": 24116,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
