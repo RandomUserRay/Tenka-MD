@@ -3523,7 +3523,7 @@
     "energi": 100022,
     "isPremium": false,
     "isBanned": false,
-    "exp": 444016,
+    "exp": 444046,
     "level": 1,
     "koin": 11883,
     "unlockedFeatures": [],
@@ -3532,7 +3532,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:45:04.674Z",
+    "lastSeen": "2026-11-16T10:45:20.279Z",
     "cooldowns": {
       "femboy": 1794825551765,
       "profile": 1794825363649,
@@ -3589,7 +3589,7 @@
       "withdraw": 1782620694764,
       "cerai": 1784372174222,
       "d": 1782982267379,
-      "tebaknegara": 1794825905442,
+      "tebaknegara": 1794825920830,
       "cantik": 1783150678520,
       "hytamkan": 1783508218400,
       "cekfemboy": 1790248808185,
@@ -67898,7 +67898,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181251,
+    "exp": 181266,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -97463,7 +97463,7 @@
     "energi": 1000004,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50307,
+    "exp": 50322,
     "level": 1,
     "koin": 2080,
     "saldo": 0,
@@ -130609,16 +130609,16 @@
   "62895626834807": {
     "jid": "62895626834807",
     "rpg": {
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 95
+      "level": 3,
+      "maxHealth": 120,
+      "maxMana": 110,
+      "maxStamina": 110,
+      "health": 120,
+      "mana": 110,
+      "stamina": 110
     },
-    "exp": 17339,
-    "energi": 99997,
+    "exp": 20307,
+    "energi": 100002,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-16T10:44:15.095Z",
     "cooldowns": {
@@ -130650,7 +130650,7 @@
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 13777
+    "koin": 15746
   },
   "6283865412573": {
     "jid": "6283865412573",
@@ -145204,7 +145204,7 @@
   "6285604275646": {
     "jid": "6285604275646",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "energi": 99999
   },
   "6282384616063": {
