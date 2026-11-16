@@ -93833,10 +93833,10 @@
     "jid": "6285814847562",
     "name": ".",
     "number": "6285814847562",
-    "energi": 99995,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 436852,
+    "exp": 436897,
     "level": 1,
     "koin": 508,
     "saldo": 0,
@@ -93846,7 +93846,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T10:59:33.365Z",
+    "lastSeen": "2026-11-16T11:00:34.263Z",
     "cooldowns": {
       "play": 1794782064844,
       "femboy": 1794732914667,
@@ -93940,7 +93940,7 @@
       "claninvite": 1794122915052,
       "clanmembers": 1794123033603,
       "clanleave": 1794125290384,
-      "femboys": 1794502833279,
+      "femboys": 1794826841211,
       "sleep": 1794350981006,
       "cekimut": 1794732881457,
       "rob": 1794826384335,
@@ -126340,17 +126340,17 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {
-      "level": 17,
-      "maxHealth": 260,
-      "maxMana": 180,
-      "maxStamina": 180,
-      "health": 260,
-      "mana": 180,
-      "stamina": 155,
+      "level": 18,
+      "maxHealth": 270,
+      "maxMana": 185,
+      "maxStamina": 185,
+      "health": 270,
+      "mana": 185,
+      "stamina": 185,
       "bank": 51056
     },
-    "exp": 169290,
-    "energi": 100002,
+    "exp": 171732,
+    "energi": 100006,
     "name": "Pipo cinta es Pino",
     "lastSeen": "2026-11-16T11:00:15.714Z",
     "cooldowns": {
@@ -126431,7 +126431,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 6170,
+    "koin": 7350,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -130627,10 +130627,10 @@
       "stamina": 115,
       "bank": 14614
     },
-    "exp": 32168,
-    "energi": 100024,
+    "exp": 34530,
+    "energi": 100030,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T11:00:14.768Z",
+    "lastSeen": "2026-11-16T11:00:59.483Z",
     "cooldowns": {
       "pin": 1794825869622,
       "menu": 1794542460967,
@@ -130658,14 +130658,15 @@
       "deposit": 1794826575677,
       "profile": 1794826541632,
       "bank": 1794826742254,
-      "heal": 1794826760135
+      "heal": 1794826760135,
+      "quiz": 1794826860460
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
     "fun": {},
     "clanId": "FEM",
     "registeredAt": 1794825381707,
-    "koin": 0
+    "koin": 828
   },
   "6283865412573": {
     "jid": "6283865412573",
@@ -142829,7 +142830,7 @@
   "6289505730187": {
     "jid": "6289505730187",
     "rpg": {},
-    "exp": 405,
+    "exp": 420,
     "name": "M ganedra S",
     "lastSeen": "2026-11-09T13:24:17.620Z",
     "energi": 99999,
@@ -143322,7 +143323,7 @@
   "6285647744842": {
     "jid": "6285647744842",
     "rpg": {},
-    "exp": 8745,
+    "exp": 8775,
     "name": "ap!nn",
     "lastSeen": "2026-11-15T13:17:03.288Z",
     "energi": 99999,
