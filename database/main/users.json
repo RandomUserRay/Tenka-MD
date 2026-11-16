@@ -143386,15 +143386,15 @@
   "6281273632015": {
     "jid": "6281273632015",
     "rpg": {
-      "level": 10,
-      "maxHealth": 190,
-      "maxMana": 145,
-      "maxStamina": 145,
-      "health": 190,
-      "mana": 145,
-      "stamina": 145
+      "level": 11,
+      "maxHealth": 200,
+      "maxMana": 150,
+      "maxStamina": 150,
+      "health": 200,
+      "mana": 150,
+      "stamina": 150
     },
-    "exp": 99988,
+    "exp": 100003,
     "name": "JSM",
     "lastSeen": "2026-11-16T14:13:01.231Z",
     "energi": 999999,
