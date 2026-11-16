@@ -35920,7 +35920,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076727,
+    "exp": 1076772,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -126340,17 +126340,17 @@
   "6285942842803": {
     "jid": "6285942842803",
     "rpg": {
-      "level": 20,
-      "maxHealth": 290,
-      "maxMana": 195,
-      "maxStamina": 195,
-      "health": 290,
-      "mana": 195,
-      "stamina": 195,
+      "level": 21,
+      "maxHealth": 300,
+      "maxMana": 200,
+      "maxStamina": 200,
+      "health": 300,
+      "mana": 200,
+      "stamina": 200,
       "bank": 88721
     },
-    "exp": 198479,
-    "energi": 100057,
+    "exp": 200712,
+    "energi": 100064,
     "name": "Pipo cinta es Pino",
     "lastSeen": "2026-11-16T11:18:56.757Z",
     "cooldowns": {
@@ -126435,7 +126435,7 @@
       "tembakCount": 2
     },
     "registeredAt": 1794034496015,
-    "koin": 4252,
+    "koin": 6206,
     "clanId": "CHI",
     "inventory": {
       "apple": 2,
@@ -142700,7 +142700,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 45733,
+    "exp": 45748,
     "name": "ejaa",
     "lastSeen": "2026-11-16T11:18:20.367Z",
     "energi": 999999,
@@ -143275,7 +143275,7 @@
       "mana": 120,
       "stamina": 120
     },
-    "exp": 49036,
+    "exp": 49051,
     "name": "JSM",
     "lastSeen": "2026-11-16T08:24:40.159Z",
     "energi": 1000011,
@@ -143348,9 +143348,9 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 11985,
+    "exp": 12000,
     "name": "ap!nn",
-    "lastSeen": "2026-11-16T11:18:26.512Z",
+    "lastSeen": "2026-11-16T11:19:09.083Z",
     "energi": 999999,
     "cooldowns": {
       "pin": 1794129293411,
@@ -143359,7 +143359,7 @@
       "bratbahlil": 1794746695210,
       "ping": 1794746485150,
       "topchat": 1794827550492,
-      "tebakgambar": 1794827908087
+      "tebakgambar": 1794827951230
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
@@ -143685,7 +143685,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24935,
+    "exp": 24950,
     "energi": 1000006,
     "name": ".",
     "lastSeen": "2026-11-16T08:51:15.008Z",
