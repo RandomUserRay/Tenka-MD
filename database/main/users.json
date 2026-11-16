@@ -3527,7 +3527,7 @@
     "level": 1,
     "koin": 8027,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1794825381239,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
@@ -71624,12 +71624,12 @@
   },
   "6282135836023": {
     "jid": "6282135836023",
-    "name": "Adolf",
+    "name": "Invis",
     "number": "6282135836023",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1140,
+    "exp": 1155,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -71638,7 +71638,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-29T06:24:03.697Z",
+    "lastSeen": "2026-11-16T10:36:21.236Z",
     "cooldowns": {
       "tolak": 1790457360268,
       "s": 1790685045135,
@@ -130613,10 +130613,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14295,
+    "exp": 14310,
     "energi": 99995,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-16T10:34:01.276Z",
+    "lastSeen": "2026-11-16T10:36:21.705Z",
     "cooldowns": {
       "pin": 1794825164981,
       "menu": 1794542460967,
@@ -130641,7 +130641,8 @@
     "lastActiveDate": "16/11/2026",
     "activeDays": 18,
     "fun": {},
-    "clanId": "FEM"
+    "clanId": "FEM",
+    "registeredAt": 1794825381707
   },
   "6283865412573": {
     "jid": "6283865412573",
