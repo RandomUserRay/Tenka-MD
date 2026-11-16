@@ -139713,10 +139713,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21895,
-    "energi": 1000004,
+    "exp": 21925,
+    "energi": 999999,
     "name": "Rey",
-    "lastSeen": "2026-11-16T12:23:03.268Z",
+    "lastSeen": "2026-11-16T12:23:46.435Z",
     "cooldowns": {
       "cekfemboy": 1794817178442,
       "asah": 1794829085685,
@@ -139724,7 +139724,7 @@
       "tebakgambar": 1794830601145,
       "menu": 1794831317405,
       "tebakbendera": 1794830845241,
-      "tebakkata": 1794831783840
+      "tebakkata": 1794831827040
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 1,
@@ -143040,17 +143040,17 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23481,
+    "exp": 23511,
     "name": "ryann🕷",
-    "lastSeen": "2026-11-16T12:22:28.287Z",
-    "energi": 1000006,
+    "lastSeen": "2026-11-16T12:23:28.979Z",
+    "energi": 999999,
     "cooldowns": {
       "gay": 1794128107717,
       "afk": 1794440049897,
       "asahotak": 1794830328360,
       "tebakbendera": 1794831644621,
       "stat": 1794831313510,
-      "tebakkata": 1794831748880
+      "tebakkata": 1794831809443
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 3,
@@ -143713,7 +143713,7 @@
   "6285973219550": {
     "jid": "6285973219550",
     "rpg": {},
-    "exp": 9225,
+    "exp": 9270,
     "name": "Vinoo",
     "lastSeen": "2026-11-16T12:19:03.110Z",
     "energi": 1000020,
@@ -145975,10 +145975,10 @@
   "6285191541272": {
     "jid": "6285191541272",
     "rpg": {},
-    "exp": 2099,
+    "exp": 4810,
     "name": "Rehann",
     "lastSeen": "2026-11-16T12:19:19.866Z",
-    "energi": 1000005,
+    "energi": 1000013,
     "cooldowns": {
       "owner": 1794830611276,
       "tebakbendera": 1794831092956,
@@ -145986,6 +145986,6 @@
     },
     "lastActiveDate": "16/11/2026",
     "activeDays": 1,
-    "koin": 539
+    "koin": 1580
   }
 }
