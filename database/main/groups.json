@@ -53912,14 +53912,16 @@
   "120363421626513133@g.us": {
     "chatStats": {
       "6282142632981@s.whatsapp.net": {
-        "count": 3,
-        "lastChat": 1794910328753,
+        "count": 4,
+        "lastChat": 1794910361365,
         "name": "𝑧𝑒𝑙𝑖𝑛𝑒🦋⋆. 𐙚 ˚"
       }
     },
     "jid": "120363421626513133@g.us",
     "notifSholat": true,
-    "name": "༻𓊈𒆜 class fifth grade 𒆜𓊉༺"
+    "name": "༻𓊈𒆜 class fifth grade 𒆜𓊉༺",
+    "antispam": "on",
+    "spamAction": "warn"
   },
   "120363428571639198@g.us": {
     "chatStats": {
