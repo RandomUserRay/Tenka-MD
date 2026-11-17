@@ -27360,7 +27360,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 722823,
+    "exp": 722853,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -27369,7 +27369,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-17T12:08:36.330Z",
+    "lastSeen": "2026-11-17T12:08:50.717Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -28777,12 +28777,12 @@
   },
   "6285789845646": {
     "jid": "6285789845646",
-    "name": "gok gok",
+    "name": "slasher",
     "number": "6285789845646",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392628,
+    "exp": 392643,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
@@ -28791,7 +28791,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-10-13T14:17:10.260Z",
+    "lastSeen": "2026-11-17T12:08:45.103Z",
     "cooldowns": {
       "afk": 1791901031981,
       "tebakkata": 1782879384285,
@@ -28879,7 +28879,8 @@
       "ganteng": 1786280196418,
       "ytmp4": 1788066760256,
       "black": 1786707732496,
-      "sleep": 1788181329443
+      "sleep": 1788181329443,
+      "truth": 1794917325196
     },
     "clanId": null,
     "isRegistered": false,
@@ -28970,8 +28971,8 @@
       "levelupNotif": true
     },
     "lastStreamer": 1788181493631,
-    "lastActiveDate": "13/10/2026",
-    "activeDays": 10
+    "lastActiveDate": "17/11/2026",
+    "activeDays": 11
   },
   "6287818651936": {
     "jid": "6287818651936",
