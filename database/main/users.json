@@ -30726,22 +30726,23 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2250,
+    "exp": 2265,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1794917808123,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-17T12:16:34.670Z",
+    "lastSeen": "2026-11-17T12:16:48.121Z",
     "cooldowns": {
       "tembak": 1782821815900,
       "qwa": 1783161831119,
       "play": 1784464244954,
       "jodoh": 1783674059649,
-      "jelek": 1783673998402
+      "jelek": 1783673998402,
+      "me": 1794917810230
     },
     "clanId": null,
     "isRegistered": false,
@@ -30751,7 +30752,9 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "saldo": 0
+    "saldo": 0,
+    "lastActiveDate": "17/11/2026",
+    "activeDays": 1
   },
   "6282225534347": {
     "jid": "6282225534347",
@@ -129269,7 +129272,7 @@
       "expeditions": [],
       "defense": 15
     },
-    "exp": 287316,
+    "exp": 287331,
     "energi": 99999,
     "name": "MaLa ?",
     "lastSeen": "2026-11-17T11:02:45.946Z",
@@ -146152,7 +146155,7 @@
   "6283186556453": {
     "jid": "6283186556453",
     "rpg": {},
-    "exp": 660
+    "exp": 675
   },
   "628134644200": {
     "jid": "628134644200",
