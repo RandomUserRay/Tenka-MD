@@ -49,6 +49,16 @@
     {
       "cmd": "unknown",
       "err": "Cannot read properties of undefined (reading 'id')",
+      "at": 1794912396995
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of undefined (reading 'id')",
+      "at": 1794912373198
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of undefined (reading 'id')",
       "at": 1794912361385
     },
     {
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
       "at": 1791694006562
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1791689727035
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1791648414314
     }
   ],
   "jpmBlacklist": [],
