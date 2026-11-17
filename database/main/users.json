@@ -28782,16 +28782,16 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 392838,
+    "exp": 392853,
     "level": 1,
     "koin": 26852,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1794917796110,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-17T12:16:23.879Z",
+    "lastSeen": "2026-11-17T12:16:35.471Z",
     "cooldowns": {
       "afk": 1791901031981,
       "tebakkata": 1782879384285,
@@ -28799,7 +28799,7 @@
       "tebakhewan": 1782876211536,
       "ww": 1782877310493,
       "level": 1790771376240,
-      "me": 1787809506632,
+      "me": 1794917797080,
       "bank": 1788182356494,
       "susunkata": 1783080878941,
       "ut": 1783048753984,
@@ -30726,7 +30726,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2235,
+    "exp": 2250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -30735,7 +30735,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-17T12:16:11.115Z",
+    "lastSeen": "2026-11-17T12:16:34.670Z",
     "cooldowns": {
       "tembak": 1782821815900,
       "qwa": 1783161831119,
@@ -146147,12 +146147,12 @@
   "6285293810875": {
     "jid": "6285293810875",
     "rpg": {},
-    "exp": 405
+    "exp": 420
   },
   "6283186556453": {
     "jid": "6283186556453",
     "rpg": {},
-    "exp": 645
+    "exp": 660
   },
   "628134644200": {
     "jid": "628134644200",
