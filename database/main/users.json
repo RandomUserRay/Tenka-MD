@@ -26885,7 +26885,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 81331,
+    "exp": 81346,
     "level": 1,
     "koin": 293511,
     "unlockedFeatures": [],
@@ -26894,7 +26894,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-17T14:02:30.727Z",
+    "lastSeen": "2026-11-17T15:02:01.343Z",
     "cooldowns": {
       "menu": 1791727247503,
       "allmenu": 1788956252855,
@@ -26982,7 +26982,8 @@
       "anichin": 1789383689465,
       "ammagic": 1789465527252,
       "mediafire": 1790819542466,
-      "mfdl": 1790819577062
+      "mfdl": 1790819577062,
+      "setgoodbye": 1794927721704
     },
     "clanId": null,
     "isRegistered": false,
@@ -27003,8 +27004,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "1/11/2026",
-    "activeDays": 27,
+    "lastActiveDate": "17/11/2026",
+    "activeDays": 28,
     "fun": {
       "tembakTarget": "6285641569049@s.whatsapp.net",
       "tembakCount": 1
@@ -146155,7 +146156,7 @@
   "6283186556453": {
     "jid": "6283186556453",
     "rpg": {},
-    "exp": 765
+    "exp": 780
   },
   "628134644200": {
     "jid": "628134644200",
