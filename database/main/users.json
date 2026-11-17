@@ -30721,12 +30721,12 @@
   },
   "62882019371133": {
     "jid": "62882019371133",
-    "name": "—",
+    "name": "21",
     "number": "62882019371133",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2205,
+    "exp": 2220,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -30735,7 +30735,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-08-17T12:33:23.020Z",
+    "lastSeen": "2026-11-17T12:16:11.115Z",
     "cooldowns": {
       "tembak": 1782821815900,
       "qwa": 1783161831119,
@@ -146152,7 +146152,7 @@
   "6283186556453": {
     "jid": "6283186556453",
     "rpg": {},
-    "exp": 615
+    "exp": 630
   },
   "628134644200": {
     "jid": "628134644200",
