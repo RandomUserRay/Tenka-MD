@@ -49,6 +49,16 @@
     {
       "cmd": "unknown",
       "err": "Cannot read properties of undefined (reading 'id')",
+      "at": 1794912361385
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of undefined (reading 'id')",
+      "at": 1794912349698
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot read properties of undefined (reading 'id')",
       "at": 1794912339252
     },
     {
@@ -285,16 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791648414314
-    },
-    {
-      "cmd": "unknown",
-      "err": "Connection Closed",
-      "at": 1791645132148
-    },
-    {
-      "cmd": "unknown",
-      "err": "fetch failed",
-      "at": 1791570870026
     }
   ],
   "jpmBlacklist": [],
