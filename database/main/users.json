@@ -27360,10 +27360,10 @@
     "jid": "6288804612621",
     "name": "— someone",
     "number": "6288804612621",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 723108,
+    "exp": 723123,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -27372,7 +27372,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-18T11:36:23.879Z",
+    "lastSeen": "2026-11-18T11:40:48.947Z",
     "cooldowns": {
       "smeme": 1788425005670,
       "menu": 1788089625514,
@@ -48451,7 +48451,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 581423,
+    "exp": 581498,
     "level": 1,
     "koin": 906994,
     "unlockedFeatures": [],
@@ -128783,7 +128783,7 @@
       "defense": 16,
       "bank": 403810
     },
-    "exp": 63416,
+    "exp": 63431,
     "energi": 99999,
     "name": "Virberzo",
     "lastSeen": "2026-10-11T09:57:34.097Z",
@@ -146207,7 +146207,7 @@
   "6288991582600": {
     "jid": "6288991582600",
     "rpg": {},
-    "exp": 240
+    "exp": 255
   },
   "6285767777759": {
     "jid": "6285767777759",
@@ -146222,6 +146222,6 @@
   "6285733169902": {
     "jid": "6285733169902",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
