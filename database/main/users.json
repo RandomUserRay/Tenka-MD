@@ -32256,7 +32256,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13205,
+    "exp": 13220,
     "level": 1,
     "koin": 3103,
     "unlockedFeatures": [],
@@ -32265,11 +32265,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-07-26T06:42:26.502Z",
+    "lastSeen": "2026-11-18T14:00:33.605Z",
     "cooldowns": {
       "susun": 1783232126311,
       "robloxstalk": 1783286853206,
-      "play": 1784125637365
+      "play": 1784125637365,
+      "owner": 1795010434966
     },
     "clanId": null,
     "isRegistered": false,
@@ -32286,7 +32287,9 @@
       "stamina": 105
     },
     "inventory": {},
-    "access": []
+    "access": [],
+    "lastActiveDate": "18/11/2026",
+    "activeDays": 1
   },
   "6281248149443": {
     "jid": "6281248149443",
@@ -128917,7 +128920,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 5269,
+    "exp": 5284,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
