@@ -27363,7 +27363,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 723258,
+    "exp": 723318,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -41862,7 +41862,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 284444,
+    "exp": 284459,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -41873,13 +41873,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-18T11:21:23.840Z",
+    "lastSeen": "2026-11-18T11:45:19.708Z",
     "cooldowns": {
       "superfast": 1784374024854,
       "superslow": 1783221145056,
       "play": 1791362918886,
       "susun": 1786887999576,
-      "afk": 1788351197696,
+      "afk": 1795002321754,
       "topglobal": 1783232075320,
       "lirik": 1783233217628,
       "tebakbendera": 1783233460128,
@@ -146207,7 +146207,7 @@
   "6288991582600": {
     "jid": "6288991582600",
     "rpg": {},
-    "exp": 315
+    "exp": 330
   },
   "6285767777759": {
     "jid": "6285767777759",
