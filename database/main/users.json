@@ -43771,7 +43771,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6240,
+    "exp": 6270,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -43780,13 +43780,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-18T12:58:52.499Z",
+    "lastSeen": "2026-11-18T13:43:18.457Z",
     "cooldowns": {
       "truth": 1783430463613,
       "play": 1783430212997,
       "simi": 1783432086480,
       "afk": 1791648155566,
-      "s": 1795006733003
+      "s": 1795006733003,
+      "open": 1795009399678
     },
     "clanId": null,
     "isRegistered": false,
@@ -105933,7 +105934,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5100,
+    "exp": 5115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124946,7 +124947,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 7365,
+    "exp": 7380,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-10-10T00:52:14.018Z",
     "cooldowns": {
@@ -141200,7 +141201,7 @@
   "6281378737700": {
     "jid": "6281378737700",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1815,
     "energi": 99999
   },
   "6285776262239": {
@@ -146169,7 +146170,7 @@
   "6283186556453": {
     "jid": "6283186556453",
     "rpg": {},
-    "exp": 825,
+    "exp": 840,
     "energi": 99999
   },
   "628134644200": {
