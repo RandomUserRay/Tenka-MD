@@ -26896,7 +26896,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-11-18T13:59:46.996Z",
     "cooldowns": {
-      "menu": 1791727247503,
+      "menu": 1795010393555,
       "allmenu": 1788956252855,
       "s": 1793470973671,
       "wm": 1793470987798,
@@ -27006,8 +27006,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "17/11/2026",
-    "activeDays": 28,
+    "lastActiveDate": "18/11/2026",
+    "activeDays": 29,
     "fun": {
       "tembakTarget": "6285641569049@s.whatsapp.net",
       "tembakCount": 1
@@ -48760,7 +48760,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18896,
+    "exp": 18911,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -128917,7 +128917,7 @@
       "maxStamina": 100,
       "mana": 53
     },
-    "exp": 5239,
+    "exp": 5254,
     "name": "npc",
     "lastSeen": "2026-10-09T04:14:49.880Z",
     "cooldowns": {
@@ -129598,7 +129598,7 @@
   "6288808783933": {
     "jid": "6288808783933",
     "rpg": {},
-    "exp": 3945,
+    "exp": 3960,
     "name": "사랑해 주훈아",
     "lastSeen": "2026-10-11T03:55:35.141Z",
     "cooldowns": {
