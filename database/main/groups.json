@@ -53293,8 +53293,8 @@
         "name": "Volcano"
       },
       "6283181407349@s.whatsapp.net": {
-        "count": 447,
-        "lastChat": 1795004643550,
+        "count": 448,
+        "lastChat": 1795009039780,
         "name": "Robben"
       },
       "6282274280240@s.whatsapp.net": {
@@ -56459,5 +56459,16 @@
     },
     "jid": "120363430556664623@g.us",
     "name": "bot"
+  },
+  "120363430247634225@g.us": {
+    "chatStats": {
+      "6283181407349@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795009040299,
+        "name": "Robben"
+      }
+    },
+    "jid": "120363430247634225@g.us",
+    "name": "Happy zone"
   }
 }
