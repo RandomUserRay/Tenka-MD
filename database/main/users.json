@@ -27363,7 +27363,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 723363,
+    "exp": 723378,
     "level": 1,
     "koin": 463481,
     "unlockedFeatures": [],
@@ -146210,7 +146210,11 @@
     "exp": 345,
     "name": "Ss Ayah",
     "lastSeen": "2026-11-18T11:45:57.671Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1795002366407
+    },
+    "lastActiveDate": "18/11/2026",
+    "activeDays": 1
   },
   "6285767777759": {
     "jid": "6285767777759",
