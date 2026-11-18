@@ -26700,8 +26700,8 @@
     "chat": {},
     "chatStats": {
       "6282142632981@s.whatsapp.net": {
-        "count": 23,
-        "lastChat": 1794999512823,
+        "count": 25,
+        "lastChat": 1794999533087,
         "name": "𝑧𝑒𝑙𝑖𝑛𝑒🦋⋆. 𐙚 ˚"
       },
       "6287790641120@s.whatsapp.net": {
@@ -26724,7 +26724,9 @@
         "lastChat": 1794920773382,
         "name": "{N}🤫"
       }
-    }
+    },
+    "antispam": "on",
+    "spamAction": "kick"
   },
   "120363412443778517@g.us": {
     "chatStats": {
