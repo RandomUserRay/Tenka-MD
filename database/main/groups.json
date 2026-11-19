@@ -54521,8 +54521,8 @@
         "name": "gacaaniii"
       },
       "6285185706441@s.whatsapp.net": {
-        "count": 47,
-        "lastChat": 1795007884597,
+        "count": 48,
+        "lastChat": 1795071236601,
         "name": "irsul muta'affif"
       },
       "6283159444839@s.whatsapp.net": {
@@ -56496,5 +56496,11 @@
     },
     "jid": "120363430247634225@g.us",
     "name": "Happy zone"
+  },
+  "120363426876049342@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363426876049342@g.us"
   }
 }
