@@ -97484,7 +97484,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52399,
+    "exp": 52414,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -146301,13 +146301,14 @@
   },
   "6281527446588": {
     "name": "☆REEY☆",
-    "lastSeen": "2026-11-20T11:11:36.246Z",
+    "lastSeen": "2026-11-20T11:37:59.720Z",
     "jid": "6281527446588",
     "rpg": {},
-    "exp": 165,
-    "energi": 999999,
+    "exp": 180,
+    "energi": 999998,
     "cooldowns": {
-      "p": 1795173097269
+      "p": 1795173097269,
+      "s": 1795174681985
     },
     "lastActiveDate": "20/11/2026",
     "activeDays": 1
