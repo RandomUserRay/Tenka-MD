@@ -3095,7 +3095,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 730616,
+    "exp": 730646,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -97482,10 +97482,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52594,
+    "exp": 52609,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97495,12 +97495,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T11:34:23.303Z",
+    "lastSeen": "2026-11-20T11:48:50.413Z",
     "cooldowns": {
       "afk": 1794721541289,
       "play": 1794822230221,
       "smeme": 1795174470219,
-      "s": 1795174305538,
+      "s": 1795175331418,
       "menu": 1795174358659,
       "menucat": 1791020922728,
       "cekfemboy": 1790085994641,
@@ -141771,7 +141771,7 @@
   "6285185706441": {
     "jid": "6285185706441",
     "rpg": {},
-    "exp": 750,
+    "exp": 720,
     "energi": 99999,
     "name": "irsul muta'affif",
     "lastSeen": "2026-11-18T12:58:29.679Z",
@@ -146332,5 +146332,18 @@
     "jid": "6285710742546",
     "rpg": {},
     "exp": 15
+  },
+  "1576974422179": {
+    "name": "Graze",
+    "lastSeen": "2026-11-20T11:49:04.961Z",
+    "jid": "1576974422179",
+    "rpg": {},
+    "exp": 15,
+    "energi": 999998,
+    "cooldowns": {
+      "s": 1795175347227
+    },
+    "lastActiveDate": "20/11/2026",
+    "activeDays": 1
   }
 }
