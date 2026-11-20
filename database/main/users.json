@@ -35060,7 +35060,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33144,
+    "exp": 33114,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -36815,7 +36815,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231575,
+    "exp": 231545,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -99681,7 +99681,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39195,
+    "exp": 39225,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130565,10 +130565,10 @@
       "stamina": 125,
       "bank": 0
     },
-    "exp": 109080,
-    "energi": 99998,
+    "exp": 109155,
+    "energi": 99997,
     "name": "The Visionary",
-    "lastSeen": "2026-11-20T18:35:16.257Z",
+    "lastSeen": "2026-11-20T23:35:16.526Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1794744834991,
@@ -130581,7 +130581,7 @@
       "slot": 1793255031666,
       "ship": 1794743381250,
       "naked": 1794507595609,
-      "rvo": 1794360569168,
+      "rvo": 1795217716534,
       "afk": 1794063327268,
       "femboyvid": 1794507289052,
       "open": 1794247974159,
@@ -136108,7 +136108,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26877,
+    "exp": 26922,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -139736,7 +139736,7 @@
   "6285835955975": {
     "jid": "6285835955975",
     "rpg": {},
-    "exp": 825,
+    "exp": 840,
     "energi": 99999
   },
   "6283189410205": {
