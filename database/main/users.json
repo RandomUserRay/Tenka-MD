@@ -4084,7 +4084,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 101430,
+    "exp": 101445,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -9878,7 +9878,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59550,
+    "exp": 59595,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91477,7 +91477,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65355,
+    "exp": 65385,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -127386,14 +127386,14 @@
       "ffstalk": 1790684853285,
       "menu": 1790740592411,
       "ttmp3": 1790827155446,
-      "tt": 1794620562414,
+      "tt": 1795178126300,
       "s": 1791297266416,
       "tt2": 1794060200323,
       "ig": 1794810549068
     },
     "energi": 99997,
-    "lastActiveDate": "16/11/2026",
-    "activeDays": 25
+    "lastActiveDate": "20/11/2026",
+    "activeDays": 26
   },
   "6285788985156": {
     "jid": "6285788985156",
@@ -136098,7 +136098,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24987,
+    "exp": 25017,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -143596,7 +143596,7 @@
     "rpg": {
       "stamina": 90
     },
-    "exp": 1494,
+    "exp": 1509,
     "energi": 99999,
     "name": "Cihuyyy",
     "lastSeen": "2026-11-16T11:05:32.782Z",
@@ -144155,7 +144155,7 @@
   "6285925823928": {
     "jid": "6285925823928",
     "rpg": {},
-    "exp": 1740,
+    "exp": 1755,
     "energi": 99999
   },
   "6283140460210": {
@@ -146379,6 +146379,6 @@
   "6287778423487": {
     "jid": "6287778423487",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
