@@ -3095,7 +3095,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 732041,
+    "exp": 731966,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -34868,7 +34868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 288690,
+    "exp": 288705,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -138209,7 +138209,7 @@
   "6287779627473": {
     "jid": "6287779627473",
     "rpg": {},
-    "exp": 2070,
+    "exp": 2025,
     "name": "Not your problem",
     "lastSeen": "2026-11-14T10:09:09.534Z",
     "cooldowns": {
@@ -138370,7 +138370,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17790,
+    "exp": 17775,
     "name": "hitam",
     "lastSeen": "2026-11-16T14:08:37.925Z",
     "cooldowns": {
@@ -146365,7 +146365,7 @@
   "628895454304": {
     "jid": "628895454304",
     "rpg": {},
-    "exp": 1020
+    "exp": 990
   },
   "6281234464168": {
     "jid": "6281234464168",
@@ -146438,10 +146438,5 @@
     "jid": "6287840000670",
     "rpg": {},
     "exp": 30
-  },
-  "6282171805793": {
-    "jid": "6282171805793",
-    "rpg": {},
-    "exp": 45
   }
 }
