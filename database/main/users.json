@@ -3092,10 +3092,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 730391,
+    "exp": 730406,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T14:13:44.972Z",
+    "lastSeen": "2026-11-20T11:36:38.588Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3139,7 +3139,7 @@
       "menu": 1793950910538,
       "tf": 1782461497203,
       "adventure": 1780401640145,
-      "smeme": 1791686502654,
+      "smeme": 1795174598708,
       "transfer": 1788080585092,
       "me": 1794142105261,
       "tarik": 1780903358064,
@@ -3245,8 +3245,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 31,
+    "lastActiveDate": "20/11/2026",
+    "activeDays": 32,
     "fun": {}
   },
   "6283171708445": {
@@ -97484,7 +97484,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 52369,
+    "exp": 52384,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -127082,7 +127082,7 @@
       "naked": 1794449554302,
       "ship": 1794743981377,
       "d": 1794821030748,
-      "smeme": 1795174525382
+      "smeme": 1795174579571
     },
     "lastActiveDate": "20/11/2026",
     "activeDays": 10
