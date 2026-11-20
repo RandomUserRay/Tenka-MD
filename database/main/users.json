@@ -127061,7 +127061,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21075,
+    "exp": 21090,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-20T11:36:19.431Z",
@@ -146308,13 +146308,14 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 2430,
+    "exp": 2445,
     "name": "JIWURA is dead, I DUMISTH",
-    "lastSeen": "2026-11-20T23:52:14.774Z",
+    "lastSeen": "2026-11-20T23:52:33.523Z",
     "energi": 999999,
     "cooldowns": {
       "s": 1795218588963,
-      "menu": 1795218741382
+      "menu": 1795218741382,
+      "menucat": 1795218753595
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 2
