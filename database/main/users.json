@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-20T11:47:46.922Z",
+    "lastSeen": "2026-11-20T11:49:43.211Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000228309,
+    "exp": 9000228384,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -100851,7 +100851,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 930,
+    "exp": 945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100861,10 +100861,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T11:47:12.181Z",
+    "lastSeen": "2026-11-20T11:49:45.716Z",
     "cooldowns": {
       "p": 1795173159424,
-      "s": 1795175232330
+      "s": 1795175386111
     },
     "clanId": null,
     "isRegistered": false,
