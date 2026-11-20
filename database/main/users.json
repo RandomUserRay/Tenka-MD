@@ -99678,10 +99678,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 37065,
+    "exp": 37080,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99691,7 +99691,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-14T08:06:47.781Z",
+    "lastSeen": "2026-11-20T17:33:39.830Z",
     "cooldowns": {
       "play": 1794232733507,
       "menu": 1794353524121,
@@ -99718,7 +99718,7 @@
       "allmenu": 1793997527214,
       "afk": 1793535004386,
       "mutemember": 1794331743222,
-      "rvo": 1793577844567,
+      "rvo": 1795196019839,
       "mutegc": 1794587099261,
       "unmutegc": 1794643608329,
       "close": 1793727627264,
@@ -99746,8 +99746,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "14/11/2026",
-    "activeDays": 22
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 23
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -130775,7 +130775,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 334815,
+    "exp": 334830,
     "energi": 99999,
     "name": "Savan",
     "lastSeen": "2026-11-14T08:06:14.038Z",
@@ -146498,6 +146498,6 @@
   "6288976273615": {
     "jid": "6288976273615",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
