@@ -141878,11 +141878,12 @@
     "name": "ZIKK",
     "lastSeen": "2026-11-20T08:43:08.879Z",
     "cooldowns": {
-      "bratvid": 1793960012239
+      "bratvid": 1793960012239,
+      "menu": 1795164195349
     },
     "energi": 99999,
-    "lastActiveDate": "6/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "20/11/2026",
+    "activeDays": 2
   },
   "628135366019": {
     "jid": "628135366019",
