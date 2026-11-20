@@ -91489,7 +91489,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-11-20T23:56:04.384Z",
     "cooldowns": {
-      "play": 1794638251479,
+      "play": 1795218980372,
       "toimg": 1790829435907,
       "hitamkan": 1793745509270,
       "benefitpremium": 1786929820395,
@@ -91546,8 +91546,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/11/2026",
-    "activeDays": 38
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 39
   },
   "6287780573884": {
     "jid": "6287780573884",
@@ -146308,7 +146308,7 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 2565,
+    "exp": 2580,
     "name": "JIWURA is dead, I DUMISTH",
     "lastSeen": "2026-11-20T23:55:48.343Z",
     "energi": 999998,
@@ -146393,12 +146393,13 @@
   "6288905043665": {
     "jid": "6288905043665",
     "rpg": {},
-    "exp": 1170,
+    "exp": 1185,
     "energi": 999997,
     "name": "𝐅ujimoto 𝐌iwa",
     "lastSeen": "2026-11-20T23:55:59.458Z",
     "cooldowns": {
-      "apakah": 1795218844778
+      "apakah": 1795218844778,
+      "pin": 1795218970702
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 1
@@ -146539,6 +146540,6 @@
   "6282190983430": {
     "jid": "6282190983430",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
