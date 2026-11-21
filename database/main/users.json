@@ -97483,10 +97483,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 999995,
+    "energi": 999993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54799,
+    "exp": 54814,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97496,7 +97496,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T03:50:48.999Z",
+    "lastSeen": "2026-11-21T03:51:38.436Z",
     "cooldowns": {
       "afk": 1794721541289,
       "play": 1795181205353,
@@ -97518,7 +97518,7 @@
       "cekimut": 1794720984690,
       "d": 1794244360596,
       "mutegc": 1793623862996,
-      "pin": 1795233061296,
+      "pin": 1795233108853,
       "pat": 1789909412342,
       "unmute": 1789936512011,
       "slap": 1790084016014,
@@ -146516,7 +146516,7 @@
   "6281371207475": {
     "jid": "6281371207475",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6288976273615": {
