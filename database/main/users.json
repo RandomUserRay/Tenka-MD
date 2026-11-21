@@ -61338,7 +61338,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8265,
+    "exp": 8250,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105902,7 +105902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10890,
+    "exp": 10860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -138114,7 +138114,7 @@
   "6289674165969": {
     "jid": "6289674165969",
     "rpg": {},
-    "exp": 1125,
+    "exp": 1110,
     "name": "໒꒰ྀི ˶• ༝ •˶ ྀི১",
     "lastSeen": "2026-11-21T14:34:50.419Z",
     "cooldowns": {
@@ -146679,5 +146679,18 @@
     "jid": "6283164786377",
     "rpg": {},
     "exp": 225
+  },
+  "6283134984982": {
+    "name": "~vian",
+    "lastSeen": "2026-11-21T14:39:59.136Z",
+    "jid": "6283134984982",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "ytmp4": 1795272034370
+    },
+    "energi": 23,
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 1
   }
 }
