@@ -91001,12 +91001,12 @@
   },
   "6285147498740": {
     "jid": "6285147498740",
-    "name": "viu",
+    "name": "umm",
     "number": "6285147498740",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12030,
+    "exp": 12060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91016,7 +91016,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T11:49:24.087Z",
+    "lastSeen": "2026-11-21T07:35:16.382Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -91066,7 +91066,8 @@
       "bratimg": 1791079675048,
       "bratcewek": 1791079696448,
       "pin": 1791122224215,
-      "jadibot": 1791389507574
+      "jadibot": 1791389507574,
+      "twitter": 1795246509227
     },
     "clanId": null,
     "isRegistered": false,
@@ -91085,8 +91086,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 21
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 22
   },
   "6282229809440": {
     "jid": "6282229809440",
