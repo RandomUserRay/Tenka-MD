@@ -93706,7 +93706,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8325,
+    "exp": 8340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97486,7 +97486,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 54619,
+    "exp": 54634,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -146545,7 +146545,7 @@
   "6282190983430": {
     "jid": "6282190983430",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "name": "~alex",
     "lastSeen": "2026-11-21T00:05:23.429Z",
     "energi": 999997,
@@ -146564,6 +146564,6 @@
   "62895622621820": {
     "jid": "62895622621820",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
