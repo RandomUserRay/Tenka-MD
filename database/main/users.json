@@ -3095,7 +3095,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 732686,
+    "exp": 732701,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -16185,10 +16185,10 @@
     "jid": "6285753061976",
     "name": "bct",
     "number": "6285753061976",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9400157,
+    "exp": 9400112,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16197,7 +16197,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T00:29:12.714Z",
+    "lastSeen": "2026-11-21T00:12:32.845Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16429,8 +16429,7 @@
       "fakeml": 1790595322571,
       "pin": 1793619400234,
       "stalkml": 1790685762802,
-      "ttmp4": 1794373171790,
-      "brat": 1795220942350
+      "ttmp4": 1794373171790
     },
     "clanId": null,
     "isRegistered": false,
@@ -16488,8 +16487,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 50
+    "lastActiveDate": "19/11/2026",
+    "activeDays": 49
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -34869,7 +34868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 290295,
+    "exp": 290265,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91478,7 +91477,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66120,
+    "exp": 66150,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99682,7 +99681,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39435,
+    "exp": 39450,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -146389,7 +146388,7 @@
   "6281234464168": {
     "jid": "6281234464168",
     "rpg": {},
-    "exp": 60,
+    "exp": 105,
     "energi": 99999
   },
   "6288905043665": {
