@@ -27144,7 +27144,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 184611,
+    "exp": 184506,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -51072,7 +51072,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17910,
+    "exp": 17805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61338,7 +61338,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7980,
+    "exp": 7935,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -93706,7 +93706,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9120,
+    "exp": 9165,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99681,7 +99681,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 41415,
+    "exp": 41475,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -105900,7 +105900,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10110,
+    "exp": 9885,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105910,7 +105910,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T07:02:44.154Z",
+    "lastSeen": "2026-11-21T06:56:13.844Z",
     "cooldowns": {
       "simi": 1788510820788,
       "p": 1788615165195,
@@ -105921,8 +105921,7 @@
       "warn": 1790953774096,
       "hapus": 1790954668452,
       "absen": 1790998242059,
-      "s": 1791531989109,
-      "level": 1795244564943
+      "s": 1791531989109
     },
     "clanId": null,
     "isRegistered": false,
@@ -105933,19 +105932,12 @@
       "garden": {
         "plots": [],
         "maxPlots": 3
-      },
-      "level": 2,
-      "maxHealth": 110,
-      "maxMana": 105,
-      "maxStamina": 105,
-      "health": 110,
-      "mana": 105,
-      "stamina": 105
+      }
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 8
+    "lastActiveDate": "9/10/2026",
+    "activeDays": 7
   },
   "6285373779557": {
     "jid": "6285373779557",
@@ -144813,7 +144805,7 @@
   "6282118452920": {
     "jid": "6282118452920",
     "rpg": {},
-    "exp": 4680,
+    "exp": 4695,
     "name": "Renaldi-Sempai",
     "lastSeen": "2026-11-15T10:02:29.450Z",
     "registeredAt": 1794502762653,
@@ -146350,7 +146342,7 @@
     "lastSeen": "2026-11-21T05:14:43.520Z",
     "jid": "6281527446588",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "energi": 999998,
     "cooldowns": {
       "p": 1795173097269,
