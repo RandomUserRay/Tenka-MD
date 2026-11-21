@@ -16188,7 +16188,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9399977,
+    "exp": 9400067,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16438,13 +16438,13 @@
     "regGender": null,
     "rpg": {
       "bank": 0,
-      "health": 9490,
-      "stamina": 4795,
-      "level": 940,
-      "maxHealth": 9490,
-      "maxMana": 4795,
-      "maxStamina": 4795,
-      "mana": 4795,
+      "health": 9500,
+      "stamina": 4800,
+      "level": 941,
+      "maxHealth": 9500,
+      "maxMana": 4800,
+      "maxStamina": 4800,
+      "mana": 4800,
       "lastHourly": 1782907735259,
       "spouse": null,
       "marriedAt": null
@@ -34868,7 +34868,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 290025,
+    "exp": 290160,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36815,7 +36815,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 231890,
+    "exp": 231905,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -99681,7 +99681,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 39450,
+    "exp": 39435,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -139736,7 +139736,7 @@
   "6285835955975": {
     "jid": "6285835955975",
     "rpg": {},
-    "exp": 945,
+    "exp": 930,
     "energi": 99999
   },
   "6283189410205": {
@@ -146308,15 +146308,15 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 2700,
+    "exp": 2685,
     "name": "JIWURA is dead, I DUMISTH",
-    "lastSeen": "2026-11-21T00:25:01.210Z",
+    "lastSeen": "2026-11-21T00:06:09.074Z",
     "energi": 999998,
     "cooldowns": {
       "s": 1795218949780,
       "menu": 1795218776623,
       "menucat": 1795218753595,
-      "play": 1795220722676
+      "play": 1795219587741
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 2
