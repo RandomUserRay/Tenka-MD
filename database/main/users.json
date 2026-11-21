@@ -101934,7 +101934,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5340,
+    "exp": 5355,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -137076,15 +137076,16 @@
   "6282323874453": {
     "jid": "6282323874453",
     "rpg": {},
-    "exp": 1275,
+    "exp": 1290,
     "energi": 99995,
     "name": "Arif",
-    "lastSeen": "2026-11-21T11:12:37.790Z",
+    "lastSeen": "2026-11-21T11:12:53.485Z",
     "cooldowns": {
       "femboys": 1795259563223,
       "s": 1793442551191,
       "pin": 1793449719984,
-      "menu": 1793449844585
+      "menu": 1793449844585,
+      "femboy": 1795259579222
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 8
