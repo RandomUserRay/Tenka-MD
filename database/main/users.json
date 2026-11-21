@@ -99683,7 +99683,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42480,
+    "exp": 42510,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99693,7 +99693,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T10:59:25.106Z",
+    "lastSeen": "2026-11-21T11:01:52.615Z",
     "cooldowns": {
       "play": 1794232733507,
       "menu": 1794353524121,
@@ -130689,12 +130689,12 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 52675,
+    "exp": 52690,
     "energi": 99991,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-21T11:01:19.974Z",
     "cooldowns": {
-      "pin": 1794825869622,
+      "pin": 1795258910832,
       "menu": 1794827590743,
       "ai": 1795258428537,
       "tt": 1794738966662,
@@ -141129,7 +141129,7 @@
   "6283190128588": {
     "jid": "6283190128588",
     "rpg": {},
-    "exp": 2610,
+    "exp": 2625,
     "energi": 99999,
     "name": "F",
     "lastSeen": "2026-11-08T11:35:15.094Z",
