@@ -99683,7 +99683,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 42255,
+    "exp": 42270,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99693,13 +99693,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T17:33:39.830Z",
+    "lastSeen": "2026-11-21T10:56:05.300Z",
     "cooldowns": {
       "play": 1794232733507,
       "menu": 1794353524121,
       "menucat": 1793483061389,
       "cekfemboy": 1794507312145,
-      "femboy": 1793505206712,
+      "femboy": 1795258573114,
       "s": 1793561197635,
       "cekganteng": 1791848951834,
       "cekcantik": 1791848981517,
@@ -130689,7 +130689,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 52435,
+    "exp": 52450,
     "energi": 99995,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-21T10:53:42.128Z",
@@ -146623,5 +146623,10 @@
     "jid": "6285252956687",
     "rpg": {},
     "exp": 195
+  },
+  "6285165965994": {
+    "jid": "6285165965994",
+    "rpg": {},
+    "exp": 15
   }
 }
