@@ -61338,7 +61338,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7995,
+    "exp": 8100,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105900,7 +105900,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10230,
+    "exp": 10245,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122888,7 +122888,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 21450,
+    "exp": 21390,
     "energi": 99984,
     "name": "Noah",
     "lastSeen": "2026-11-21T06:20:57.740Z",
@@ -143755,14 +143755,13 @@
   },
   "628134142736": {
     "name": "Hum",
-    "lastSeen": "2026-11-21T07:19:11.857Z",
+    "lastSeen": "2026-11-21T07:18:28.953Z",
     "jid": "628134142736",
     "rpg": {},
-    "exp": 1500,
+    "exp": 1470,
     "cooldowns": {
       "jadibot": 1794224587630,
-      "p": 1795245510056,
-      "menu": 1795245559536
+      "p": 1795245510056
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 2,
