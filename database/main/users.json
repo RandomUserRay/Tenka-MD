@@ -51072,7 +51072,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 17865,
+    "exp": 17880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51081,7 +51081,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-06T10:38:10.495Z",
+    "lastSeen": "2026-11-21T07:01:16.266Z",
     "cooldowns": {
       "s": 1793764106661,
       "d": 1783741421008,
@@ -51107,7 +51107,8 @@
       "mengkane45": 1791549061135,
       "tekateki": 1791549192677,
       "play": 1791640393206,
-      "notiftidur": 1791642021675
+      "notiftidur": 1791642021675,
+      "level": 1795244476363
     },
     "clanId": null,
     "isRegistered": false,
@@ -51126,8 +51127,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 12
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 13
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -105900,7 +105901,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9960,
+    "exp": 9975,
     "level": 1,
     "koin": 0,
     "saldo": 0,
