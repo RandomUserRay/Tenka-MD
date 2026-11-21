@@ -51072,7 +51072,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18180,
+    "exp": 18165,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61338,7 +61338,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8325,
+    "exp": 8280,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105956,7 +105956,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5730,
+    "exp": 5715,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122890,7 +122890,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22470,
+    "exp": 22485,
     "energi": 99984,
     "name": "Noah",
     "lastSeen": "2026-11-21T07:51:28.460Z",
@@ -146679,5 +146679,18 @@
     "jid": "6283164786377",
     "rpg": {},
     "exp": 225
+  },
+  "6283134984982": {
+    "name": "~vian",
+    "lastSeen": "2026-11-21T14:39:59.136Z",
+    "jid": "6283134984982",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "ytmp4": 1795272034370
+    },
+    "energi": 23,
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 1
   }
 }
