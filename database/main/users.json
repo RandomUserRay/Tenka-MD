@@ -3095,7 +3095,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 733136,
+    "exp": 733151,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -146311,15 +146311,16 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 3570,
+    "exp": 3585,
     "name": "JIWURA is dead, I DUMISTH",
-    "lastSeen": "2026-11-21T00:31:12.430Z",
-    "energi": 999998,
+    "lastSeen": "2026-11-21T03:40:30.460Z",
+    "energi": 999997,
     "cooldowns": {
       "s": 1795218949780,
       "menu": 1795218776623,
       "menucat": 1795218753595,
-      "play": 1795221093707
+      "play": 1795221093707,
+      "tt": 1795232433833
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 2
