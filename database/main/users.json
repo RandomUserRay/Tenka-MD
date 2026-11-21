@@ -51072,7 +51072,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18180,
+    "exp": 18150,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -101934,7 +101934,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5970,
+    "exp": 6000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105902,7 +105902,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10770,
+    "exp": 10695,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -146635,11 +146635,12 @@
   "6285252956687": {
     "jid": "6285252956687",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "name": "☾ ✧ エルセリオン  ✧ ☽",
-    "lastSeen": "2026-11-21T11:02:34.761Z",
+    "lastSeen": "2026-11-21T12:22:02.538Z",
     "cooldowns": {
-      "femboy": 1795258958236
+      "femboy": 1795258958236,
+      "tsundere": 1795263724739
     },
     "lastActiveDate": "21/11/2026",
     "activeDays": 1
