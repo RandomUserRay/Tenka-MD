@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330311,
+    "exp": 330296,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1614,7 +1614,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T12:00:05.895Z",
+    "lastSeen": "2026-11-16T11:09:30.702Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1634,7 +1634,7 @@
       "kill": 1780404847290,
       "s": 1794029667741,
       "bank": 1790499461443,
-      "me": 1795348810119,
+      "me": 1794827375384,
       "menucat": 1794113089894,
       "craft": 1780391866507,
       "ping": 1793885441879,
@@ -1828,8 +1828,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "22/11/2026",
-    "activeDays": 17
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 16
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -51073,7 +51073,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18360,
+    "exp": 18390,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105911,7 +105911,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11805,
+    "exp": 11835,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -141977,7 +141977,7 @@
   "6285261499341": {
     "jid": "6285261499341",
     "rpg": {},
-    "exp": 2340,
+    "exp": 2355,
     "name": "Pesta Tambunan S.keb",
     "lastSeen": "2026-11-22T11:09:18.069Z",
     "energi": 99999
@@ -146885,16 +146885,11 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 165
+    "exp": 150
   },
   "6282151801120": {
     "jid": "6282151801120",
     "rpg": {},
     "exp": 60
-  },
-  "6287892042718": {
-    "jid": "6287892042718",
-    "rpg": {},
-    "exp": 30
   }
 }
