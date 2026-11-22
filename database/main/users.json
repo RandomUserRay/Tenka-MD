@@ -493,7 +493,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117610893,
+    "exp": 117610923,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -50610,7 +50610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1995,
+    "exp": 1875,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51074,7 +51074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19065,
+    "exp": 18945,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61340,7 +61340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9180,
+    "exp": 9135,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -99693,7 +99693,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 46230,
+    "exp": 46245,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -105912,7 +105912,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 13140,
+    "exp": 12945,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -146485,7 +146485,7 @@
   "6287869604928": {
     "jid": "6287869604928",
     "rpg": {},
-    "exp": 885,
+    "exp": 915,
     "energi": 99999,
     "name": "Saljuajah",
     "lastSeen": "2026-11-21T18:00:04.770Z"
@@ -146763,17 +146763,17 @@
   "6283179842510": {
     "jid": "6283179842510",
     "rpg": {},
-    "exp": 885
+    "exp": 930
   },
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 1380
+    "exp": 1410
   },
   "6285808433932": {
     "jid": "6285808433932",
     "rpg": {},
-    "exp": 300
+    "exp": 330
   },
   "6285606977706": {
     "jid": "6285606977706",
@@ -146902,6 +146902,11 @@
   },
   "6285147848552": {
     "jid": "6285147848552",
+    "rpg": {},
+    "exp": 15
+  },
+  "6282272559234": {
+    "jid": "6282272559234",
     "rpg": {},
     "exp": 15
   }
