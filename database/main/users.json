@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117610458,
+    "exp": 117610473,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -135126,7 +135126,7 @@
   "6282120201570": {
     "jid": "6282120201570",
     "rpg": {},
-    "exp": 9540,
+    "exp": 9555,
     "energi": 99999,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-21T15:02:49.587Z",
@@ -146513,7 +146513,7 @@
   "6288228853696": {
     "jid": "6288228853696",
     "rpg": {},
-    "exp": 1560,
+    "exp": 1575,
     "energi": 999998,
     "name": "enigma",
     "lastSeen": "2026-11-22T01:53:53.657Z",
@@ -146795,5 +146795,10 @@
     },
     "lastActiveDate": "22/11/2026",
     "activeDays": 1
+  },
+  "6285810919923": {
+    "jid": "6285810919923",
+    "rpg": {},
+    "exp": 15
   }
 }
