@@ -27145,7 +27145,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 184656,
+    "exp": 184641,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -122899,7 +122899,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23685,
+    "exp": 23730,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
@@ -130852,7 +130852,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12119,
+    "exp": 12179,
     "name": "Baim/Leo/zar",
     "lastSeen": "2026-11-16T10:07:51.522Z",
     "cooldowns": {
@@ -146736,6 +146736,6 @@
   "6283179842510": {
     "jid": "6283179842510",
     "rpg": {},
-    "exp": 75
+    "exp": 90
   }
 }
