@@ -3092,10 +3092,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99997,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 737036,
+    "exp": 737051,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T05:58:13.324Z",
+    "lastSeen": "2026-11-22T05:58:40.518Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3162,7 +3162,7 @@
       "onlynsfw": 1782917368455,
       "redeem": 1783176436583,
       "job": 1782983146136,
-      "play": 1795327096663,
+      "play": 1795327123357,
       "tebaknegara": 1787747090717,
       "kicks": 1782998068424,
       "cekkhodam": 1783062546427,
@@ -146831,8 +146831,12 @@
     "exp": 120,
     "name": "kambing",
     "lastSeen": "2026-11-22T05:58:31.054Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1795327116151
+    },
+    "energi": 23,
+    "lastActiveDate": "22/11/2026",
+    "activeDays": 1
   },
   "128234888892638": {
     "jid": "128234888892638",
