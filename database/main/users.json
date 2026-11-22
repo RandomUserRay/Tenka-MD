@@ -3092,10 +3092,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 737006,
+    "exp": 737021,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3104,7 +3104,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T23:16:18.216Z",
+    "lastSeen": "2026-11-22T05:55:53.764Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3162,7 +3162,7 @@
       "onlynsfw": 1782917368455,
       "redeem": 1783176436583,
       "job": 1782983146136,
-      "play": 1795180988546,
+      "play": 1795326956203,
       "tebaknegara": 1787747090717,
       "kicks": 1782998068424,
       "cekkhodam": 1783062546427,
@@ -3245,8 +3245,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "20/11/2026",
-    "activeDays": 32,
+    "lastActiveDate": "22/11/2026",
+    "activeDays": 33,
     "fun": {}
   },
   "6283171708445": {
@@ -97497,7 +97497,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57859,
+    "exp": 57874,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -99692,7 +99692,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44535,
+    "exp": 44550,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -136376,7 +136376,7 @@
   "628567971306": {
     "jid": "628567971306",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6281329869074": {
