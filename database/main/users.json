@@ -100861,10 +100861,10 @@
     "jid": "6285817260268",
     "name": "lmo",
     "number": "6285817260268",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1245,
+    "exp": 1260,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100874,7 +100874,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T11:49:45.716Z",
+    "lastSeen": "2026-11-22T15:50:33.174Z",
     "cooldowns": {
       "p": 1795173159424,
       "s": 1795175386111
