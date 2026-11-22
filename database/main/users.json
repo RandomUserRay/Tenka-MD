@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330371,
+    "exp": 330386,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1614,7 +1614,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T12:08:12.865Z",
+    "lastSeen": "2026-11-22T12:09:07.475Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1730,7 +1730,8 @@
       "punch": 1793882083421,
       "h": 1794015787502,
       "ht": 1794015741128,
-      "sendbug": 1794113103254
+      "sendbug": 1794113103254,
+      "pacar": 1795349347959
     },
     "clanId": "CHI",
     "isRegistered": false,
@@ -97497,7 +97498,7 @@
     "energi": 999996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58159,
+    "exp": 58174,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
