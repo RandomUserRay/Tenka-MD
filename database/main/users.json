@@ -91476,10 +91476,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 999999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68850,
+    "exp": 68865,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91489,7 +91489,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T01:38:51.711Z",
+    "lastSeen": "2026-11-22T01:40:00.577Z",
     "cooldowns": {
       "play": 1795311525422,
       "toimg": 1790829435907,
@@ -122899,7 +122899,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23910,
+    "exp": 23925,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
@@ -146741,7 +146741,7 @@
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 240
+    "exp": 255
   },
   "6285808433932": {
     "jid": "6285808433932",
