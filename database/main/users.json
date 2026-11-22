@@ -100864,7 +100864,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1260,
+    "exp": 1290,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100877,7 +100877,7 @@
     "lastSeen": "2026-11-22T15:50:33.174Z",
     "cooldowns": {
       "p": 1795173159424,
-      "s": 1795175386111
+      "s": 1795362634986
     },
     "clanId": null,
     "isRegistered": false,
@@ -100887,8 +100887,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "20/11/2026",
-    "activeDays": 1
+    "lastActiveDate": "22/11/2026",
+    "activeDays": 2
   },
   "6283873678893": {
     "jid": "6283873678893",
@@ -140899,12 +140899,12 @@
   "60146734682": {
     "jid": "60146734682",
     "rpg": {},
-    "exp": 3525,
+    "exp": 3540,
     "energi": 999998,
     "name": "Milky Tiger",
-    "lastSeen": "2026-11-22T15:49:09.040Z",
+    "lastSeen": "2026-11-22T15:50:40.759Z",
     "cooldowns": {
-      "smeme": 1795362549226
+      "smeme": 1795362640940
     },
     "lastActiveDate": "22/11/2026",
     "activeDays": 1
