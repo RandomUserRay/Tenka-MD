@@ -493,7 +493,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117611208,
+    "exp": 117611223,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3524,7 +3524,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 451824,
+    "exp": 451854,
     "level": 1,
     "koin": 15682,
     "unlockedFeatures": [],
@@ -50610,7 +50610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2640,
+    "exp": 2595,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51074,7 +51074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19815,
+    "exp": 19800,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61340,7 +61340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9540,
+    "exp": 9450,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105912,7 +105912,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14025,
+    "exp": 14010,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135198,7 +135198,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24360,
+    "exp": 24375,
     "energi": 99999,
     "name": "1𝐹𝑀𝒵𝒜",
     "lastSeen": "2026-11-22T04:55:15.201Z",
@@ -146733,7 +146733,7 @@
   "6283164786377": {
     "jid": "6283164786377",
     "rpg": {},
-    "exp": 1005,
+    "exp": 1035,
     "energi": 99999
   },
   "6283134984982": {
@@ -146768,7 +146768,7 @@
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 1485
+    "exp": 1500
   },
   "6285808433932": {
     "jid": "6285808433932",
@@ -146915,13 +146915,13 @@
     "rpg": {},
     "exp": 30
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15
   }
