@@ -100864,7 +100864,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1485,
+    "exp": 1500,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100874,11 +100874,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T15:55:55.430Z",
+    "lastSeen": "2026-11-22T15:56:52.669Z",
     "cooldowns": {
       "p": 1795173159424,
       "s": 1795362634986,
-      "smeme": 1795362964912
+      "smeme": 1795363017657
     },
     "clanId": null,
     "isRegistered": false,
@@ -130672,7 +130672,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10383,
+    "exp": 10398,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -138849,7 +138849,7 @@
   "6285758216422": {
     "jid": "6285758216422",
     "rpg": {},
-    "exp": 1965,
+    "exp": 1980,
     "energi": 99999,
     "name": "A",
     "lastSeen": "2026-11-22T14:47:48.840Z"
