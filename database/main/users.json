@@ -100864,7 +100864,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1470,
+    "exp": 1455,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100874,11 +100874,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T15:55:55.430Z",
+    "lastSeen": "2026-11-22T15:55:10.964Z",
     "cooldowns": {
       "p": 1795173159424,
       "s": 1795362634986,
-      "smeme": 1795362964912
+      "smeme": 1795362913746
     },
     "clanId": null,
     "isRegistered": false,
@@ -133144,7 +133144,7 @@
       "attack": 11,
       "guildId": "guild_1793887888393"
     },
-    "exp": 57690,
+    "exp": 57705,
     "name": "Thur rawring",
     "lastSeen": "2026-11-18T12:12:13.381Z",
     "cooldowns": {
@@ -135199,7 +135199,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25050,
+    "exp": 25035,
     "energi": 99999,
     "name": "1𝐹𝑀𝒵𝒜",
     "lastSeen": "2026-11-22T04:55:15.201Z",
@@ -140900,12 +140900,12 @@
   "60146734682": {
     "jid": "60146734682",
     "rpg": {},
-    "exp": 3690,
+    "exp": 3675,
     "energi": 999998,
     "name": "Milky Tiger",
-    "lastSeen": "2026-11-22T15:56:12.113Z",
+    "lastSeen": "2026-11-22T15:54:22.605Z",
     "cooldowns": {
-      "smeme": 1795362976834
+      "smeme": 1795362866646
     },
     "lastActiveDate": "22/11/2026",
     "activeDays": 1
@@ -146520,7 +146520,7 @@
   "6287758401494": {
     "jid": "6287758401494",
     "rpg": {},
-    "exp": 1965,
+    "exp": 1950,
     "energi": 999998,
     "name": "iyan",
     "lastSeen": "2026-11-22T14:17:29.363Z",
@@ -146931,13 +146931,13 @@
     "rpg": {},
     "exp": 105
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15
   },
