@@ -27145,7 +27145,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 184641,
+    "exp": 184701,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -105911,7 +105911,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 10980,
+    "exp": 11025,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105921,7 +105921,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T08:33:18.974Z",
+    "lastSeen": "2026-11-22T01:13:16.988Z",
     "cooldowns": {
       "simi": 1788510820788,
       "p": 1788615165195,
@@ -122304,7 +122304,7 @@
   "6282131343280": {
     "jid": "6282131343280",
     "rpg": {},
-    "exp": 9030,
+    "exp": 9000,
     "energi": 99999,
     "fun": {},
     "name": "Dita",
@@ -122899,7 +122899,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23745,
+    "exp": 23685,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
@@ -130852,7 +130852,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12239,
+    "exp": 12119,
     "name": "Baim/Leo/zar",
     "lastSeen": "2026-11-16T10:07:51.522Z",
     "cooldowns": {
@@ -146736,6 +146736,6 @@
   "6283179842510": {
     "jid": "6283179842510",
     "rpg": {},
-    "exp": 120
+    "exp": 75
   }
 }
