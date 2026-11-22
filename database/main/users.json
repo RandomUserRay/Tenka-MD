@@ -100864,7 +100864,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1425,
+    "exp": 1440,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100874,11 +100874,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T15:53:11.730Z",
+    "lastSeen": "2026-11-22T15:55:10.964Z",
     "cooldowns": {
       "p": 1795173159424,
       "s": 1795362634986,
-      "smeme": 1795362797564
+      "smeme": 1795362913746
     },
     "clanId": null,
     "isRegistered": false,
@@ -122901,7 +122901,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24900,
+    "exp": 24915,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
