@@ -897,7 +897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45578,
+    "exp": 45593,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61340,7 +61340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9405,
+    "exp": 9390,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105966,7 +105966,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5760,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135137,7 +135137,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10665,
+    "exp": 10710,
     "energi": 99998,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-22T05:58:52.040Z",
@@ -146362,7 +146362,7 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 5715,
+    "exp": 5730,
     "name": "Ver? u ok?",
     "lastSeen": "2026-11-22T01:59:13.557Z",
     "energi": 999998,
@@ -146907,6 +146907,11 @@
   },
   "6282272559234": {
     "jid": "6282272559234",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285139615605": {
+    "jid": "6285139615605",
     "rpg": {},
     "exp": 15
   }
