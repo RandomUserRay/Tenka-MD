@@ -50610,7 +50610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1740,
+    "exp": 1845,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51074,7 +51074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18855,
+    "exp": 18900,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61340,7 +61340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 8970,
+    "exp": 9075,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97498,7 +97498,7 @@
     "energi": 999996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58459,
+    "exp": 58444,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -105912,7 +105912,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12750,
+    "exp": 12870,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122900,7 +122900,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24855,
+    "exp": 24825,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
@@ -127086,7 +127086,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 22965,
+    "exp": 22950,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-21T15:09:36.258Z",
@@ -146485,7 +146485,7 @@
   "6287869604928": {
     "jid": "6287869604928",
     "rpg": {},
-    "exp": 930,
+    "exp": 885,
     "energi": 99999,
     "name": "Saljuajah",
     "lastSeen": "2026-11-21T18:00:04.770Z"
@@ -146664,7 +146664,7 @@
   "923026101595": {
     "jid": "923026101595",
     "rpg": {},
-    "exp": 120,
+    "exp": 90,
     "energi": 99999
   },
   "6282279600044": {
@@ -146768,7 +146768,7 @@
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 1395
+    "exp": 1380
   },
   "6285808433932": {
     "jid": "6285808433932",
@@ -146902,11 +146902,6 @@
   },
   "6285147848552": {
     "jid": "6285147848552",
-    "rpg": {},
-    "exp": 15
-  },
-  "6282272559234": {
-    "jid": "6282272559234",
     "rpg": {},
     "exp": 15
   }
