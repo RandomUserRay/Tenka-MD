@@ -106603,10 +106603,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 278495,
+    "exp": 278510,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106616,7 +106616,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T13:55:34.470Z",
+    "lastSeen": "2026-11-22T01:36:07.597Z",
     "cooldowns": {
       "menu": 1794629314037,
       "owner": 1793769454839,
@@ -122899,7 +122899,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 23895,
+    "exp": 23910,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-21T15:10:40.830Z",
@@ -146366,7 +146366,7 @@
   "6283114662019": {
     "jid": "6283114662019",
     "rpg": {},
-    "exp": 1515,
+    "exp": 1530,
     "name": "Chandra",
     "lastSeen": "2026-11-20T11:39:36.219Z",
     "energi": 99999,
@@ -146741,11 +146741,16 @@
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   },
   "6285808433932": {
     "jid": "6285808433932",
     "rpg": {},
     "exp": 45
+  },
+  "6285606977706": {
+    "jid": "6285606977706",
+    "rpg": {},
+    "exp": 15
   }
 }
