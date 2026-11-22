@@ -493,7 +493,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117611523,
+    "exp": 117611553,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99992,
     "isPremium": false,
     "isBanned": false,
-    "exp": 738281,
+    "exp": 738356,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -51074,7 +51074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20040,
+    "exp": 20025,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51083,7 +51083,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T14:12:29.122Z",
+    "lastSeen": "2026-11-22T13:44:09.629Z",
     "cooldowns": {
       "s": 1793764106661,
       "d": 1783741421008,
@@ -51109,8 +51109,7 @@
       "mengkane45": 1791549061135,
       "tekateki": 1791549192677,
       "play": 1791640393206,
-      "notiftidur": 1791642021675,
-      "p": 1795356750201
+      "notiftidur": 1791642021675
     },
     "clanId": null,
     "isRegistered": false,
@@ -51129,8 +51128,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/11/2026",
-    "activeDays": 13
+    "lastActiveDate": "4/11/2026",
+    "activeDays": 12
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -105967,7 +105966,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5775,
+    "exp": 5760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130582,16 +130581,16 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 13,
-      "maxHealth": 220,
-      "maxMana": 160,
-      "maxStamina": 160,
-      "health": 220,
-      "mana": 160,
-      "stamina": 135,
+      "level": 14,
+      "maxHealth": 230,
+      "maxMana": 165,
+      "maxStamina": 165,
+      "health": 230,
+      "mana": 165,
+      "stamina": 165,
       "bank": 0
     },
-    "exp": 129780,
+    "exp": 130005,
     "energi": 99997,
     "name": "The Visionary",
     "lastSeen": "2026-11-22T12:05:20.776Z",
@@ -135199,7 +135198,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24570,
+    "exp": 24585,
     "energi": 99999,
     "name": "1𝐹𝑀𝒵𝒜",
     "lastSeen": "2026-11-22T04:55:15.201Z",
@@ -145843,7 +145842,7 @@
   "6282379676762": {
     "jid": "6282379676762",
     "rpg": {},
-    "exp": 1065,
+    "exp": 1215,
     "name": "L",
     "lastSeen": "2026-11-15T14:46:14.459Z",
     "cooldowns": {
@@ -146916,13 +146915,13 @@
     "rpg": {},
     "exp": 60
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15
   },
