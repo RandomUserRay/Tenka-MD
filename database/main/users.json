@@ -100864,7 +100864,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1350,
+    "exp": 1365,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100874,10 +100874,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T15:52:01.607Z",
+    "lastSeen": "2026-11-22T15:53:11.730Z",
     "cooldowns": {
       "p": 1795173159424,
-      "s": 1795362634986
+      "s": 1795362634986,
+      "smeme": 1795362797564
     },
     "clanId": null,
     "isRegistered": false,
@@ -146775,7 +146776,7 @@
   "6282338638547": {
     "jid": "6282338638547",
     "rpg": {},
-    "exp": 1950,
+    "exp": 1965,
     "name": "ANU • Remonzzz🎟[MRN]",
     "lastSeen": "2026-11-22T15:48:09.234Z",
     "energi": 999998,
