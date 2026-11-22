@@ -1605,7 +1605,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330311,
+    "exp": 330326,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -1614,7 +1614,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T12:06:24.574Z",
+    "lastSeen": "2026-11-22T12:07:12.667Z",
     "cooldowns": {
       "menu": 1794113076217,
       "allmenu": 1793877494778,
@@ -1635,7 +1635,7 @@
       "s": 1794029667741,
       "bank": 1790499461443,
       "me": 1794827375384,
-      "menucat": 1794113089894,
+      "menucat": 1795349232896,
       "craft": 1780391866507,
       "ping": 1793885441879,
       "buy": 1780381845790,
@@ -1828,8 +1828,8 @@
       }
     },
     "saldo": 0,
-    "lastActiveDate": "16/11/2026",
-    "activeDays": 16
+    "lastActiveDate": "22/11/2026",
+    "activeDays": 17
   },
   "6283174193922": {
     "jid": "6283174193922",
@@ -130812,7 +130812,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 339615,
+    "exp": 339660,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-21T11:56:13.489Z",
