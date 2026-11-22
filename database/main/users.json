@@ -490,10 +490,10 @@
     "jid": "6282161002671",
     "name": "kyoi ntahlah",
     "number": "6282161002671",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117610833,
+    "exp": 117610848,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -502,7 +502,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T03:07:51.139Z",
+    "lastSeen": "2026-11-22T06:36:00.735Z",
     "cooldowns": {
       "cekfemboy": 1780119633806,
       "femboy": 1794744906344,
@@ -146861,11 +146861,12 @@
   "6282156433003": {
     "jid": "6282156433003",
     "rpg": {},
-    "exp": 210,
+    "exp": 225,
     "name": "your favorite raa",
-    "lastSeen": "2026-11-22T06:31:26.417Z",
+    "lastSeen": "2026-11-22T06:35:56.298Z",
     "cooldowns": {
-      "play": 1795329091122
+      "play": 1795329091122,
+      "menu": 1795329364415
     },
     "energi": 24,
     "lastActiveDate": "22/11/2026",
