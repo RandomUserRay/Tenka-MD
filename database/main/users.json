@@ -897,7 +897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45578,
+    "exp": 45623,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -50610,7 +50610,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2550,
+    "exp": 2520,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51074,7 +51074,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19665,
+    "exp": 19635,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61340,7 +61340,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9435,
+    "exp": 9390,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97498,7 +97498,7 @@
     "energi": 999996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58444,
+    "exp": 58459,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -105966,7 +105966,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5775,
+    "exp": 5745,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -135137,7 +135137,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10665,
+    "exp": 10740,
     "energi": 99998,
     "name": "Matias Torres Ar-Rasyid",
     "lastSeen": "2026-11-22T05:58:52.040Z",
@@ -141980,7 +141980,7 @@
   "6285261499341": {
     "jid": "6285261499341",
     "rpg": {},
-    "exp": 3255,
+    "exp": 3150,
     "name": "Pesta Tambunan S.keb",
     "lastSeen": "2026-11-22T11:09:18.069Z",
     "energi": 99999
@@ -146362,7 +146362,7 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 5715,
+    "exp": 5775,
     "name": "Ver? u ok?",
     "lastSeen": "2026-11-22T01:59:13.557Z",
     "energi": 999998,
@@ -146907,6 +146907,11 @@
   },
   "6282272559234": {
     "jid": "6282272559234",
+    "rpg": {},
+    "exp": 15
+  },
+  "6285139615605": {
+    "jid": "6285139615605",
     "rpg": {},
     "exp": 15
   }
