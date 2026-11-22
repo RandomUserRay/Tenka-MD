@@ -897,7 +897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 45683,
+    "exp": 45713,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -130580,16 +130580,16 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 13,
-      "maxHealth": 220,
-      "maxMana": 160,
-      "maxStamina": 160,
-      "health": 220,
-      "mana": 160,
-      "stamina": 160,
+      "level": 14,
+      "maxHealth": 230,
+      "maxMana": 165,
+      "maxStamina": 165,
+      "health": 230,
+      "mana": 165,
+      "stamina": 165,
       "bank": 0
     },
-    "exp": 129930,
+    "exp": 130005,
     "energi": 99997,
     "name": "The Visionary",
     "lastSeen": "2026-11-22T05:56:21.473Z",
@@ -137488,7 +137488,7 @@
     "lastSeen": "2026-11-10T15:19:17.427Z",
     "jid": "628987627284",
     "rpg": {},
-    "exp": 720,
+    "exp": 735,
     "cooldowns": {
       "tt": 1793674600442,
       "femboy": 1793515067137,
@@ -146895,6 +146895,6 @@
   "6287892042718": {
     "jid": "6287892042718",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
