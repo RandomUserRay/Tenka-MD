@@ -91476,10 +91476,10 @@
     "jid": "6281262657079",
     "name": "Leon Bethel",
     "number": "6281262657079",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 68760,
+    "exp": 68775,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91489,7 +91489,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T15:20:41.976Z",
+    "lastSeen": "2026-11-22T01:36:31.528Z",
     "cooldowns": {
       "play": 1795274495407,
       "toimg": 1790829435907,
@@ -99692,7 +99692,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43545,
+    "exp": 43560,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -146751,6 +146751,6 @@
   "6285606977706": {
     "jid": "6285606977706",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
