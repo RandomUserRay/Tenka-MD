@@ -97499,7 +97499,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 61189,
+    "exp": 61204,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -146893,13 +146893,14 @@
   "6285743769562": {
     "jid": "6285743769562",
     "rpg": {},
-    "exp": 930,
+    "exp": 945,
     "name": "RICE",
-    "lastSeen": "2026-11-23T05:00:28.981Z",
+    "lastSeen": "2026-11-23T05:01:26.070Z",
     "cooldowns": {
       "m": 1795409976445,
       "menucat": 1795410029327,
-      "menu": 1795410019244
+      "menu": 1795410019244,
+      "cekmalas": 1795410086454
     },
     "energi": 99999,
     "lastActiveDate": "23/11/2026",
