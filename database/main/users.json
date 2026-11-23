@@ -97498,7 +97498,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58849,
+    "exp": 58879,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97508,9 +97508,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T11:44:27.742Z",
+    "lastSeen": "2026-11-23T00:03:09.271Z",
     "cooldowns": {
-      "afk": 1795347190285,
+      "afk": 1795392192723,
       "play": 1795347901935,
       "smeme": 1795254967849,
       "s": 1795228431533,
@@ -97578,8 +97578,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/11/2026",
-    "activeDays": 54
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 55
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -142625,7 +142625,7 @@
   "6287739810359": {
     "jid": "6287739810359",
     "rpg": {},
-    "exp": 870,
+    "exp": 900,
     "name": "Zentenel Bot 𖣐",
     "lastSeen": "2026-11-07T07:24:40.032Z",
     "cooldowns": {
@@ -146927,7 +146927,7 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 420,
+    "exp": 450,
     "energi": 99999
   },
   "6282151801120": {
