@@ -135235,7 +135235,11 @@
     "energi": 99997,
     "name": "~",
     "lastSeen": "2026-11-23T11:16:22.152Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "femboys": 1795432586694
+    },
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 1
   },
   "6285151640823": {
     "jid": "6285151640823",
