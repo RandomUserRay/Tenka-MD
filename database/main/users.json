@@ -35937,7 +35937,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076862,
+    "exp": 1076967,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35946,7 +35946,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-23T10:21:15.887Z",
+    "lastSeen": "2026-11-23T10:23:10.194Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36133,12 +36133,12 @@
       "divorce": 1790250796141,
       "tebakanimechar": 1790251799705,
       "intro": 1791636439654,
-      "mutegc": 1794721489522,
+      "mutegc": 1795429390310,
       "unmutegc": 1794739614730,
       "antitoxic": 1791467541507,
       "antispam": 1794469502402,
       "addcmdsticker": 1791467204540,
-      "antiswgc": 1794827958634,
+      "antiswgc": 1795429362909,
       "listtoxic": 1791478857550,
       "antilinkgc": 1791478899306,
       "jahy": 1791478974837,
@@ -51075,7 +51075,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20055,
+    "exp": 20040,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105915,7 +105915,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14130,
+    "exp": 14115,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125637,9 +125637,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 24111,
+    "exp": 24141,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-23T10:22:38.624Z",
+    "lastSeen": "2026-11-23T10:23:28.710Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125685,7 +125685,8 @@
       "ht": 1794743651600,
       "d": 1794751384472,
       "leaderboard": 1794751530360,
-      "topkoin": 1794751542170
+      "topkoin": 1794751542170,
+      "demote": 1795429384539
     },
     "energi": 999999,
     "lastActiveDate": "23/11/2026",
@@ -140611,7 +140612,7 @@
   "62895703161397": {
     "jid": "62895703161397",
     "rpg": {},
-    "exp": 2280,
+    "exp": 2295,
     "energi": 99999,
     "name": "⏤͟͟͞͞✰sᴇᴘғɪᴀɴ⚡︎",
     "lastSeen": "2026-11-15T10:52:57.782Z",
@@ -141795,17 +141796,17 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 7815,
+    "exp": 7845,
     "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-23T10:21:55.695Z",
+    "lastSeen": "2026-11-23T10:22:46.003Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
       "cekfemboy": 1794096477482,
       "tembak": 1794097256082,
       "promote": 1794395198608,
-      "demote": 1794395228352,
+      "demote": 1795429366124,
       "femboy": 1794232816034,
       "warn": 1794742616221,
       "resetwarn": 1794395896691,
@@ -142470,7 +142471,7 @@
   "60162857246": {
     "jid": "60162857246",
     "rpg": {},
-    "exp": 510,
+    "exp": 525,
     "name": "Man",
     "lastSeen": "2026-11-07T02:17:11.156Z",
     "energi": 99999
@@ -143522,10 +143523,10 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 101529,
+    "exp": 101559,
     "name": "JSM",
-    "lastSeen": "2026-11-16T14:17:26.842Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-23T10:22:56.130Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1794832824920,
       "menucat": 1794784198137,
@@ -143552,12 +143553,12 @@
       "brat": 1794817358348,
       "bratimg": 1794838466512,
       "tenka": 1794796525859,
-      "level": 1794838365438,
+      "level": 1795429376277,
       "owner": 1794832985672,
       "asahotak": 1794838382420
     },
-    "lastActiveDate": "16/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 5,
     "koin": 58740,
     "fun": {
       "tembakCount": 8,
@@ -143647,10 +143648,10 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 7215,
-    "energi": 99999,
+    "exp": 7245,
+    "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-15T13:39:10.828Z",
+    "lastSeen": "2026-11-23T10:23:09.992Z",
     "cooldowns": {
       "cekfemboy": 1794749955526,
       "allmenu": 1794380717540,
@@ -143660,10 +143661,11 @@
       "terima": 1794462301054,
       "tembak": 1794462233920,
       "afk": 1794475517557,
-      "kapan": 1794740269975
+      "kapan": 1794740269975,
+      "close": 1795429390767
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 5,
     "registeredAt": 1794380761027,
     "fun": {
       "tembakTarget": "6289504533660@s.whatsapp.net",
@@ -145524,7 +145526,7 @@
   "6285604275646": {
     "jid": "6285604275646",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "6282384616063": {
@@ -146978,14 +146980,14 @@
     "exp": 1110,
     "energi": 99999
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15,
     "energi": 99999
