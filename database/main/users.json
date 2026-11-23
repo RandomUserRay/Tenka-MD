@@ -6588,7 +6588,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4066,
+    "exp": 4081,
     "level": 1,
     "koin": 1763,
     "unlockedFeatures": [],
@@ -6597,10 +6597,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-09T11:58:29.512Z",
+    "lastSeen": "2026-11-23T12:49:58.099Z",
     "cooldowns": {
       "profil": 1780205174104,
-      "afk": 1780824754541,
+      "afk": 1795438203087,
       "bank": 1780831741223,
       "menu": 1794131738190,
       "menucat": 1794131737863,
@@ -6624,8 +6624,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "9/11/2026",
-    "activeDays": 3
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 4
   },
   "6282265435622": {
     "jid": "6282265435622",
@@ -136441,10 +136441,10 @@
   "6285828600992": {
     "jid": "6285828600992",
     "rpg": {},
-    "exp": 1905,
-    "energi": 99995,
+    "exp": 1920,
+    "energi": 99993,
     "name": "kitsury",
-    "lastSeen": "2026-11-23T12:49:21.558Z",
+    "lastSeen": "2026-11-23T12:50:00.239Z",
     "cooldowns": {
       "play": 1794127025093,
       "afk": 1794226877592,
@@ -146983,7 +146983,7 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 1500,
+    "exp": 1515,
     "energi": 99999
   },
   "6282151801120": {
