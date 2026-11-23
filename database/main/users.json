@@ -91481,7 +91481,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 69990,
+    "exp": 70005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91540,13 +91540,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 7,
-      "maxHealth": 160,
-      "maxMana": 130,
-      "maxStamina": 130,
-      "health": 160,
-      "mana": 130,
-      "stamina": 130
+      "level": 8,
+      "maxHealth": 170,
+      "maxMana": 135,
+      "maxStamina": 135,
+      "health": 170,
+      "mana": 135,
+      "stamina": 135
     },
     "inventory": {},
     "access": [],
@@ -122902,7 +122902,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26115,
+    "exp": 26130,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-23T04:15:33.404Z",
