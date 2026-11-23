@@ -3093,10 +3093,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 739031,
+    "exp": 739046,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -3105,7 +3105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T14:04:38.917Z",
+    "lastSeen": "2026-11-23T11:03:06.472Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3201,7 +3201,8 @@
       "gay": 1790421886610,
       "terima": 1790422607894,
       "tembak": 1790422620349,
-      "ship": 1794743946817
+      "ship": 1794743946817,
+      "femboys": 1795431790527
     },
     "clanId": null,
     "isRegistered": false,
@@ -3246,8 +3247,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "22/11/2026",
-    "activeDays": 33,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 34,
     "fun": {}
   },
   "6283171708445": {
@@ -146963,7 +146964,7 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 945,
+    "exp": 960,
     "energi": 99999
   },
   "6282151801120": {
