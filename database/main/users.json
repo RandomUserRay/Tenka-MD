@@ -97499,7 +97499,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59419,
+    "exp": 59434,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -130592,7 +130592,7 @@
       "stamina": 165,
       "bank": 0
     },
-    "exp": 132855,
+    "exp": 133005,
     "energi": 99998,
     "name": "The Visionary",
     "lastSeen": "2026-11-23T02:41:32.415Z",
@@ -131553,17 +131553,18 @@
   "6285181624890": {
     "jid": "6285181624890",
     "rpg": {},
-    "exp": 1575,
-    "energi": 99999,
+    "exp": 1590,
+    "energi": 99998,
     "name": "𝗦𝗹𝗮𝘆𝗲𝗿 𝗔𝗻𝗱𝗿𝗮𝘀",
-    "lastSeen": "2026-11-21T12:28:51.801Z",
+    "lastSeen": "2026-11-23T02:42:26.813Z",
     "cooldowns": {
       "femboy": 1792580333899,
       "toimg": 1795263985042,
-      "smeme": 1795264136802
+      "smeme": 1795264136802,
+      "s": 1795401748384
     },
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 3
   },
   "6285855061664": {
     "jid": "6285855061664",
