@@ -35937,7 +35937,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1076892,
+    "exp": 1076907,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35946,7 +35946,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-23T10:22:42.835Z",
+    "lastSeen": "2026-11-23T10:23:10.194Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36133,7 +36133,7 @@
       "divorce": 1790250796141,
       "tebakanimechar": 1790251799705,
       "intro": 1791636439654,
-      "mutegc": 1794721489522,
+      "mutegc": 1795429390310,
       "unmutegc": 1794739614730,
       "antitoxic": 1791467541507,
       "antispam": 1794469502402,
@@ -125637,9 +125637,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 24111,
+    "exp": 24126,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-23T10:22:38.624Z",
+    "lastSeen": "2026-11-23T10:23:03.649Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125685,7 +125685,8 @@
       "ht": 1794743651600,
       "d": 1794751384472,
       "leaderboard": 1794751530360,
-      "topkoin": 1794751542170
+      "topkoin": 1794751542170,
+      "demote": 1795429384539
     },
     "energi": 999999,
     "lastActiveDate": "23/11/2026",
@@ -143522,7 +143523,7 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 101544,
+    "exp": 101559,
     "name": "JSM",
     "lastSeen": "2026-11-23T10:22:56.130Z",
     "energi": 999999,
@@ -143647,10 +143648,10 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 7215,
-    "energi": 99999,
+    "exp": 7230,
+    "energi": 999999,
     "name": "terakomari🩸",
-    "lastSeen": "2026-11-15T13:39:10.828Z",
+    "lastSeen": "2026-11-23T10:23:09.992Z",
     "cooldowns": {
       "cekfemboy": 1794749955526,
       "allmenu": 1794380717540,
@@ -143660,10 +143661,11 @@
       "terima": 1794462301054,
       "tembak": 1794462233920,
       "afk": 1794475517557,
-      "kapan": 1794740269975
+      "kapan": 1794740269975,
+      "close": 1795429390767
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 4,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 5,
     "registeredAt": 1794380761027,
     "fun": {
       "tembakTarget": "6289504533660@s.whatsapp.net",
@@ -145524,7 +145526,7 @@
   "6285604275646": {
     "jid": "6285604275646",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "6282384616063": {
