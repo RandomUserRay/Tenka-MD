@@ -16187,10 +16187,10 @@
     "jid": "6285753061976",
     "name": "bct",
     "number": "6285753061976",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9400862,
+    "exp": 9400877,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16199,7 +16199,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T00:43:20.299Z",
+    "lastSeen": "2026-11-23T00:37:52.641Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16431,7 +16431,8 @@
       "fakeml": 1790595322571,
       "pin": 1793619400234,
       "stalkml": 1790685762802,
-      "ttmp4": 1794373171790
+      "ttmp4": 1794373171790,
+      "brat": 1795394273354
     },
     "clanId": null,
     "isRegistered": false,
@@ -16489,8 +16490,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 50
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 51
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -34870,7 +34871,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 292440,
+    "exp": 292455,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
