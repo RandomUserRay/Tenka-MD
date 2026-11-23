@@ -4516,7 +4516,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237560,
+    "exp": 237545,
     "level": 1,
     "koin": 1020019999,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59700,
+    "exp": 59685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48770,7 +48770,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19646,
+    "exp": 19691,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -51076,7 +51076,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20385,
+    "exp": 20460,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105917,7 +105917,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14415,
+    "exp": 14505,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105927,7 +105927,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T13:44:12.350Z",
+    "lastSeen": "2026-11-23T10:55:54.167Z",
     "cooldowns": {
       "simi": 1788510820788,
       "p": 1788615165195,
@@ -130603,7 +130603,7 @@
       "stamina": 165,
       "bank": 0
     },
-    "exp": 137130,
+    "exp": 136905,
     "energi": 99998,
     "name": "The Visionary",
     "lastSeen": "2026-11-23T04:14:29.996Z",
@@ -136304,13 +136304,13 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 6360,
-    "name": "kyzo",
-    "lastSeen": "2026-11-23T10:56:26.478Z",
-    "energi": 99993,
+    "exp": 6315,
+    "name": "˚₊‧꒰ა Kyzo ໒꒱‧₊˚",
+    "lastSeen": "2026-11-16T11:12:25.041Z",
+    "energi": 99999,
     "cooldowns": {
       "femboy": 1793710249464,
-      "femboys": 1795431327275,
+      "femboys": 1794824978880,
       "hentai": 1794742994038,
       "ytmp4": 1793446690512,
       "play": 1793705514663,
@@ -136322,8 +136322,8 @@
       "quiz": 1794827545738,
       "ship": 1794743359474
     },
-    "lastActiveDate": "23/11/2026",
-    "activeDays": 10,
+    "lastActiveDate": "16/11/2026",
+    "activeDays": 9,
     "registeredAt": 1794121569176
   },
   "6282226151250": {
@@ -139105,7 +139105,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 15225,
+    "exp": 15210,
     "energi": 999999,
     "name": "kenal pot?",
     "lastSeen": "2026-11-23T10:21:59.883Z",
@@ -144162,7 +144162,7 @@
   "263905003753626": {
     "jid": "263905003753626",
     "rpg": {},
-    "exp": 480,
+    "exp": 465,
     "energi": 99999
   },
   "6282166486367": {
@@ -146996,14 +146996,14 @@
     "exp": 1110,
     "energi": 99999
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -147053,11 +147053,6 @@
   },
   "62895637328195": {
     "jid": "62895637328195",
-    "rpg": {},
-    "exp": 15
-  },
-  "6287713068368": {
-    "jid": "6287713068368",
     "rpg": {},
     "exp": 15
   }
