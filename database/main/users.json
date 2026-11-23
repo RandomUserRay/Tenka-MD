@@ -11683,10 +11683,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43054,
+    "exp": 43069,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11695,7 +11695,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T16:56:30.741Z",
+    "lastSeen": "2026-11-23T05:00:44.057Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1790421860555,
@@ -11712,7 +11712,7 @@
       "menucat": 1791108254292,
       "freelance": 1786708363322,
       "money": 1790240307090,
-      "s": 1794052656433,
+      "s": 1795410045890,
       "tidur": 1787894206113,
       "gojek": 1790240279523,
       "dagang": 1788080798118,
@@ -11767,8 +11767,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 15,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 16,
     "fun": {
       "tembakTarget": "628981194866@s.whatsapp.net",
       "tembakCount": 1
@@ -122902,10 +122902,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26265,
+    "exp": 26280,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-23T05:00:16.997Z",
+    "lastSeen": "2026-11-23T05:00:49.256Z",
     "cooldowns": {
       "femboy": 1795407339065,
       "s": 1795242058628,
@@ -122927,7 +122927,7 @@
       "menu": 1795406598440,
       "menucat": 1795406613383,
       "del": 1795228117255,
-      "cekpsikopat": 1795410017333
+      "cekpsikopat": 1795410049632
     },
     "lastActiveDate": "23/11/2026",
     "activeDays": 14,
@@ -136152,7 +136152,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 29472,
+    "exp": 29487,
     "name": "Noshi or Nala",
     "lastSeen": "2026-11-06T23:31:36.100Z",
     "energi": 99999,
@@ -146939,7 +146939,7 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 555,
+    "exp": 570,
     "energi": 99999
   },
   "6282151801120": {
