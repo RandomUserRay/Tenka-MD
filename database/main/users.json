@@ -4516,7 +4516,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237560,
+    "exp": 237545,
     "level": 1,
     "koin": 1020019999,
     "unlockedFeatures": [],
@@ -9879,7 +9879,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 59730,
+    "exp": 59685,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -48770,7 +48770,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19571,
+    "exp": 19646,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -51076,7 +51076,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20250,
+    "exp": 20385,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -105917,7 +105917,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14220,
+    "exp": 14415,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130603,7 +130603,7 @@
       "stamina": 165,
       "bank": 0
     },
-    "exp": 136980,
+    "exp": 136905,
     "energi": 99998,
     "name": "The Visionary",
     "lastSeen": "2026-11-23T04:14:29.996Z",
@@ -146996,14 +146996,14 @@
     "exp": 1110,
     "energi": 99999
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15,
     "energi": 99999
@@ -147053,11 +147053,6 @@
   },
   "62895637328195": {
     "jid": "62895637328195",
-    "rpg": {},
-    "exp": 15
-  },
-  "6287713068368": {
-    "jid": "6287713068368",
     "rpg": {},
     "exp": 15
   }
