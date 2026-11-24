@@ -6588,7 +6588,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4111,
+    "exp": 4126,
     "level": 1,
     "koin": 1763,
     "unlockedFeatures": [],
@@ -6597,12 +6597,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-23T12:49:58.099Z",
+    "lastSeen": "2026-11-24T03:54:58.530Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1795438203087,
       "bank": 1780831741223,
-      "menu": 1794131738190,
+      "menu": 1795492506263,
       "menucat": 1794131737863,
       "s": 1794225511091
     },
@@ -6624,8 +6624,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "23/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "24/11/2026",
+    "activeDays": 5
   },
   "6282265435622": {
     "jid": "6282265435622",
@@ -146418,7 +146418,7 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 7755,
+    "exp": 7800,
     "name": "Ver? u ok?",
     "lastSeen": "2026-11-24T02:08:52.080Z",
     "energi": 999998,
@@ -146986,7 +146986,7 @@
   "6283189190391": {
     "jid": "6283189190391",
     "rpg": {},
-    "exp": 1860,
+    "exp": 1875,
     "energi": 99999
   },
   "6282151801120": {
