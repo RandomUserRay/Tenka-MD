@@ -16188,10 +16188,10 @@
     "jid": "6285753061976",
     "name": "bct",
     "number": "6285753061976",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9401642,
+    "exp": 9401582,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16200,11 +16200,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-24T00:29:08.923Z",
+    "lastSeen": "2026-11-23T00:38:00.140Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
-      "play": 1795480154149,
+      "play": 1795394284648,
       "cektinggi": 1783042983811,
       "cekvillain": 1781512169777,
       "menu": 1794373110020,
@@ -16491,8 +16491,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "24/11/2026",
-    "activeDays": 52
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 51
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -34872,7 +34872,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 293625,
+    "exp": 293610,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35064,7 +35064,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 33714,
+    "exp": 33699,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -144077,7 +144077,7 @@
   "6281519265525": {
     "jid": "6281519265525",
     "rpg": {},
-    "exp": 75,
+    "exp": 105,
     "energi": 99999
   },
   "6285250986593": {
@@ -146418,7 +146418,7 @@
   "6288986292261": {
     "jid": "6288986292261",
     "rpg": {},
-    "exp": 6465,
+    "exp": 6495,
     "name": "Ver? u ok?",
     "lastSeen": "2026-11-24T00:18:03.987Z",
     "energi": 999997,
@@ -147019,14 +147019,14 @@
     "exp": 1260,
     "energi": 99999
   },
-  "6282255070728": {
-    "jid": "6282255070728",
+  "6283116002282": {
+    "jid": "6283116002282",
     "rpg": {},
     "exp": 15,
     "energi": 99999
   },
-  "6283116002282": {
-    "jid": "6283116002282",
+  "6282255070728": {
+    "jid": "6282255070728",
     "rpg": {},
     "exp": 15,
     "energi": 99999
