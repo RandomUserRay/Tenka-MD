@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-25T13:05:38.444Z",
+    "lastSeen": "2026-11-25T13:06:38.817Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000246534,
+    "exp": 9000246609,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -35946,7 +35946,7 @@
     "energi": 999989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1078197,
+    "exp": 1078182,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -48777,10 +48777,10 @@
     "jid": "6281377143900",
     "name": "Diszz🪽",
     "number": "6281377143900",
-    "energi": 99995,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19841,
+    "exp": 19826,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48789,7 +48789,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T13:06:34.961Z",
+    "lastSeen": "2026-11-25T12:36:15.392Z",
     "cooldowns": {
       "menu": 1789209648334,
       "tebaknegara": 1783670524132,
@@ -48800,7 +48800,7 @@
       "brat": 1791464913062,
       "bratwhite": 1783638022279,
       "d": 1784640877018,
-      "smeme": 1795611995661,
+      "smeme": 1791680783054,
       "bratimg": 1788660592875,
       "absen": 1794863647246,
       "warn": 1791708840441,
@@ -125666,7 +125666,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 24861,
+    "exp": 24876,
     "name": "paduka riyy",
     "lastSeen": "2026-11-25T06:04:27.033Z",
     "cooldowns": {
@@ -147507,15 +147507,5 @@
     "jid": "6287753111210",
     "rpg": {},
     "exp": 30
-  },
-  "6281930716035": {
-    "jid": "6281930716035",
-    "rpg": {},
-    "exp": 30
-  },
-  "6282352440876": {
-    "jid": "6282352440876",
-    "rpg": {},
-    "exp": 15
   }
 }
