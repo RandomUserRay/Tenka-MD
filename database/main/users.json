@@ -11694,7 +11694,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43204,
+    "exp": 43219,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11703,10 +11703,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:45:57.584Z",
+    "lastSeen": "2026-11-25T11:46:38.994Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1795607159213,
+      "femboy": 1795607201636,
       "handsome": 1781865174539,
       "afk": 1783054537484,
       "tebaknegara": 1783149555979,
@@ -147457,6 +147457,11 @@
   },
   "6288226044206": {
     "jid": "6288226044206",
+    "rpg": {},
+    "exp": 15
+  },
+  "62895633083456": {
+    "jid": "62895633083456",
     "rpg": {},
     "exp": 15
   }
