@@ -69748,14 +69748,14 @@
     "access": []
   },
   "6281324631258": {
-    "name": "epic face mystery Daffa",
-    "lastSeen": "2026-10-08T11:59:56.696Z",
+    "name": "s0rrow mysterious daffa",
+    "lastSeen": "2026-11-25T11:55:37.575Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14347,
+    "exp": 14362,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -69766,7 +69766,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "ai-chat": 1784636027998,
-      "allmenu": 1791210856130,
+      "allmenu": 1795607740173,
       "daily": 1786105218545,
       "ai": 1784636032708,
       "ai4chat": 1784949988030,
@@ -69857,8 +69857,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "8/10/2026",
-    "activeDays": 19
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 20
   },
   "6287797980617": {
     "jid": "6287797980617",
@@ -105941,7 +105941,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14520,
+    "exp": 14580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -146853,7 +146853,7 @@
   "6283164786377": {
     "jid": "6283164786377",
     "rpg": {},
-    "exp": 2520,
+    "exp": 2490,
     "energi": 99999
   },
   "6283134984982": {
@@ -147274,7 +147274,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 3060
+    "exp": 3045
   },
   "6282339936375": {
     "jid": "6282339936375",
@@ -147480,5 +147480,15 @@
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
+  },
+  "6281269055247": {
+    "jid": "6281269055247",
+    "rpg": {},
+    "exp": 30
+  },
+  "6287753111210": {
+    "jid": "6287753111210",
+    "rpg": {},
+    "exp": 30
   }
 }
