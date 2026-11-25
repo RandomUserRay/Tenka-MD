@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117614118,
+    "exp": 117614148,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743591,
+    "exp": 743651,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -91036,10 +91036,10 @@
     "jid": "6285147498740",
     "name": "umm",
     "number": "6285147498740",
-    "energi": 99991,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12285,
+    "exp": 12255,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91049,7 +91049,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:28:19.104Z",
+    "lastSeen": "2026-11-25T14:26:54.201Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -91074,7 +91074,7 @@
       "hitamkan": 1791436283314,
       "gayvid": 1786931392747,
       "yaoi": 1786931963652,
-      "stickerlydl": 1795616901921,
+      "stickerlydl": 1795616819331,
       "bikini": 1786932636636,
       "masturbation": 1786933069146,
       "ryaoivid": 1786933119742,
@@ -93740,7 +93740,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12600,
+    "exp": 12645,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97299,13 +97299,13 @@
   },
   "6285817724197": {
     "name": "fael karbu",
-    "lastSeen": "2026-11-25T14:27:57.519Z",
+    "lastSeen": "2026-11-25T14:26:52.172Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5235,
+    "exp": 5205,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97318,7 +97318,7 @@
     "cooldowns": {
       "allmenu": 1789646628808,
       "benefitpremium": 1791174335472,
-      "play": 1795616844243,
+      "play": 1793965162174,
       "samehadaku": 1787581234110,
       "del": 1787658285091,
       "swgc": 1787658518064,
@@ -130723,7 +130723,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12063,
+    "exp": 12123,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -130756,7 +130756,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 54550,
+    "exp": 54580,
     "energi": 99974,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T13:40:07.615Z",
@@ -146511,7 +146511,7 @@
   "6283114662019": {
     "jid": "6283114662019",
     "rpg": {},
-    "exp": 3120,
+    "exp": 3135,
     "name": "Chandra",
     "lastSeen": "2026-11-22T01:37:04.587Z",
     "energi": 99999,
@@ -147050,7 +147050,7 @@
   "6282348638639": {
     "jid": "6282348638639",
     "rpg": {},
-    "exp": 540,
+    "exp": 555,
     "energi": 99999
   },
   "6287747500914": {
@@ -147429,7 +147429,7 @@
   "6285179988506": {
     "jid": "6285179988506",
     "rpg": {},
-    "exp": 120,
+    "exp": 150,
     "name": "~ᴷᶻᶻᶻ🦈vexoid_",
     "lastSeen": "2026-11-25T11:48:10.572Z",
     "cooldowns": {
@@ -147542,6 +147542,6 @@
   "6289672664802": {
     "jid": "6289672664802",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
