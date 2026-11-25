@@ -6588,7 +6588,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9385,
+    "exp": 9400,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -6597,12 +6597,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T00:28:16.789Z",
+    "lastSeen": "2026-11-25T06:33:23.531Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1795438203087,
       "bank": 1780831741223,
-      "menu": 1795492506263,
+      "menu": 1795588406921,
       "menucat": 1795493176955,
       "s": 1794225511091,
       "susunkata": 1795492740714,
@@ -6628,8 +6628,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "24/11/2026",
-    "activeDays": 5
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 6
   },
   "6282265435622": {
     "jid": "6282265435622",
@@ -93716,7 +93716,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11925,
+    "exp": 11970,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93726,9 +93726,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T11:44:12.039Z",
+    "lastSeen": "2026-11-25T06:33:32.970Z",
     "cooldowns": {
-      "cekfemboy": 1786888838706,
+      "cekfemboy": 1795588414389,
       "femboy": 1793711065442,
       "afk": 1795347854683,
       "imut": 1793711134367,
@@ -93750,8 +93750,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "22/11/2026",
-    "activeDays": 6
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 7
   },
   "6282342552074": {
     "jid": "6282342552074",
@@ -99702,7 +99702,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49200,
+    "exp": 49215,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99712,7 +99712,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:32:54.229Z",
+    "lastSeen": "2026-11-25T06:33:24.447Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
@@ -99721,7 +99721,7 @@
       "femboy": 1795260259603,
       "s": 1795266364715,
       "cekganteng": 1795587846120,
-      "cekcantik": 1791848981517,
+      "cekcantik": 1795588404512,
       "open": 1793784791496,
       "me": 1794491075242,
       "owner": 1793223857562,
@@ -130833,10 +130833,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347160,
+    "exp": 347190,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:33:01.655Z",
+    "lastSeen": "2026-11-25T06:33:14.225Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -130851,7 +130851,7 @@
       "prabowo-ai": 1793622857553,
       "daftar": 1794643576336,
       "cekganteng": 1795588220137,
-      "cekcantik": 1795588297532,
+      "cekcantik": 1795588394286,
       "cekfemboy": 1795587975562
     },
     "lastActiveDate": "25/11/2026",
@@ -138488,13 +138488,13 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 2835,
+    "exp": 2850,
     "energi": 99999,
     "name": "Azh'khaur",
-    "lastSeen": "2026-11-25T06:32:27.735Z",
+    "lastSeen": "2026-11-25T06:33:28.591Z",
     "cooldowns": {
       "afk": 1795247656098,
-      "cekfemboy": 1795587916885,
+      "cekfemboy": 1795588412075,
       "cekganteng": 1795588347809,
       "cekcantik": 1795588067008
     },
@@ -147194,11 +147194,12 @@
   "6285869738806": {
     "jid": "6285869738806",
     "rpg": {},
-    "exp": 645,
+    "exp": 675,
     "name": "𝚂𝚞𝚔𝚒",
-    "lastSeen": "2026-11-25T06:32:58.775Z",
+    "lastSeen": "2026-11-25T06:33:47.055Z",
     "cooldowns": {
-      "cekfemboy": 1795588382181
+      "cekfemboy": 1795588382181,
+      "cekcantik": 1795588427453
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
@@ -147256,7 +147257,7 @@
   "628131161663": {
     "jid": "628131161663",
     "rpg": {},
-    "exp": 645,
+    "exp": 675,
     "name": "Kaizen",
     "lastSeen": "2026-11-25T05:10:58.101Z",
     "cooldowns": {
@@ -147298,15 +147299,20 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 135,
+    "exp": 150,
     "name": "Wni",
-    "lastSeen": "2026-11-25T06:32:33.131Z",
+    "lastSeen": "2026-11-25T06:33:18.478Z",
     "cooldowns": {
-      "cekfemboy": 1795588355210,
+      "cekfemboy": 1795588402125,
       "cekganteng": 1795588093555,
       "cekcantik": 1795588312387
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
+  },
+  "62895351677376": {
+    "jid": "62895351677376",
+    "rpg": {},
+    "exp": 15
   }
 }
