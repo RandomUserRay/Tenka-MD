@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117614073,
+    "exp": 117614103,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743546,
+    "exp": 743561,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -58161,7 +58161,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114625,
+    "exp": 114610,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -130756,7 +130756,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 54490,
+    "exp": 54505,
     "energi": 99974,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T13:40:07.615Z",
@@ -147542,6 +147542,6 @@
   "6289672664802": {
     "jid": "6289672664802",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
