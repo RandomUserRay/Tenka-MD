@@ -136348,13 +136348,13 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 6570,
+    "exp": 6585,
     "name": "kyzo",
-    "lastSeen": "2026-11-23T12:50:19.087Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-25T11:45:41.389Z",
+    "energi": 99997,
     "cooldowns": {
       "femboy": 1795431661640,
-      "femboys": 1795438224623,
+      "femboys": 1795607143529,
       "hentai": 1795431676306,
       "ytmp4": 1793446690512,
       "play": 1793705514663,
@@ -136367,8 +136367,8 @@
       "ship": 1794743359474,
       "pin": 1795438177338
     },
-    "lastActiveDate": "23/11/2026",
-    "activeDays": 10,
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 11,
     "registeredAt": 1794121569176
   },
   "6282226151250": {
@@ -139162,7 +139162,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16440,
+    "exp": 16470,
     "energi": 99999,
     "name": "kenal pot?",
     "lastSeen": "2026-11-23T10:21:59.883Z",
@@ -144530,8 +144530,15 @@
   "6285648592838": {
     "jid": "6285648592838",
     "rpg": {},
-    "exp": 1125,
-    "energi": 99999
+    "exp": 1140,
+    "energi": 99999,
+    "name": "jakk want to be the best",
+    "lastSeen": "2026-11-25T11:45:30.489Z",
+    "cooldowns": {
+      "femboy": 1795607133876
+    },
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   },
   "6289529092640": {
     "jid": "6289529092640",
