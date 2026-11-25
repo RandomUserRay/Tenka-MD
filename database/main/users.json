@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743321,
+    "exp": 743306,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -97523,7 +97523,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64069,
+    "exp": 64054,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -142065,7 +142065,7 @@
   "6285261499341": {
     "jid": "6285261499341",
     "rpg": {},
-    "exp": 3150,
+    "exp": 3195,
     "name": "Pesta Tambunan S.keb",
     "lastSeen": "2026-11-22T11:09:18.069Z",
     "energi": 99999
@@ -147480,5 +147480,10 @@
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
+  },
+  "6281269055247": {
+    "jid": "6281269055247",
+    "rpg": {},
+    "exp": 30
   }
 }
