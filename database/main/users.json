@@ -99721,7 +99721,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50925,
+    "exp": 50910,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -105939,10 +105939,10 @@
     "jid": "628216487300",
     "name": "Robby",
     "number": "628216487300",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14565,
+    "exp": 14580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105952,7 +105952,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T13:15:58.742Z",
+    "lastSeen": "2026-11-25T13:16:29.913Z",
     "cooldowns": {
       "simi": 1788510820788,
       "p": 1788615165195,
@@ -105964,7 +105964,8 @@
       "hapus": 1790954668452,
       "absen": 1790998242059,
       "s": 1791531989109,
-      "level": 1795244564943
+      "level": 1795244564943,
+      "smeme": 1795612595888
     },
     "clanId": null,
     "isRegistered": false,
@@ -105986,8 +105987,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 8
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 9
   },
   "6285373779557": {
     "jid": "6285373779557",
