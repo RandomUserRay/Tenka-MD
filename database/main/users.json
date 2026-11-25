@@ -57185,16 +57185,16 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14325,
+    "exp": 14849,
     "level": 1,
-    "koin": 18390,
+    "koin": 22583,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T09:31:24.495Z",
+    "lastSeen": "2026-11-25T10:44:26.334Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57207,8 +57207,8 @@
       "s": 1784197155731,
       "buat": 1783951855432,
       "level": 1783951917695,
-      "kerja": 1784019639688,
-      "menu": 1795599058722,
+      "kerja": 1795603469481,
+      "menu": 1795603335936,
       "admin": 1784020269067,
       "kick": 1787623423493,
       "promote": 1783952562232,
@@ -57240,9 +57240,10 @@
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
       "owner": 1787616410003,
-      "menucat": 1795599069623,
+      "menucat": 1795603357574,
       "ulartangga": 1795598920534,
-      "ut": 1795599035580
+      "ut": 1795599035580,
+      "clancreate": 1795603425705
     },
     "clanId": null,
     "isRegistered": false,
@@ -57250,7 +57251,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 105,
+      "stamina": 95,
       "health": 110,
       "mana": 105,
       "level": 2,
@@ -72006,10 +72007,10 @@
     "jid": "6287811930699",
     "name": "SONy",
     "number": "6287811930699",
-    "energi": 99989,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74221,
+    "exp": 74206,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -72018,7 +72019,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:44:11.760Z",
+    "lastSeen": "2026-11-21T03:51:31.448Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -72082,8 +72083,7 @@
       "bratvid": 1790600121499,
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
-      "ai": 1790779136102,
-      "caudiosticker": 1795603457433
+      "ai": 1790779136102
     },
     "clanId": null,
     "isRegistered": false,
@@ -72107,8 +72107,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 32,
+    "lastActiveDate": "21/11/2026",
+    "activeDays": 31,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -123762,7 +123762,7 @@
   "162131374796815": {
     "jid": "162131374796815",
     "rpg": {},
-    "exp": 915,
+    "exp": 900,
     "energi": 99999,
     "name": "Miminnn卍",
     "lastSeen": "2026-11-04T00:45:48.974Z",
@@ -130736,7 +130736,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 53920,
+    "exp": 53905,
     "energi": 99984,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T04:20:25.598Z",
@@ -147222,7 +147222,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 720,
+    "exp": 675,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
