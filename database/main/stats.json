@@ -23,7 +23,7 @@
   "command_addlist": 3,
   "command_hapuslist": 2,
   "command_editlist": 2,
-  "command_ai": 187,
+  "command_ai": 186,
   "command_savekontak": 6,
   "command_playch": 13,
   "command_cekidch": 16,
@@ -349,7 +349,7 @@
   "command_resetwarn": 18,
   "command_ceksexy": 17,
   "command_adminonly": 29,
-  "command_smeme": 1158,
+  "command_smeme": 1159,
   "command_benefitpremium": 115,
   "command_buy": 17,
   "command_hentai": 104,
@@ -1496,6 +1496,6 @@
   "command_snake": 1,
   "command_asah": 4,
   "command_cekrezeki": 1,
-  "command_caudiosticker": 56,
-  "command_saudio": 5
+  "command_caudiosticker": 57,
+  "command_saudio": 4
 }
