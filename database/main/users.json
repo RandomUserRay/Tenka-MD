@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612873,
+    "exp": 117612888,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -57182,10 +57182,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14355,
+    "exp": 14325,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:46:24.656Z",
+    "lastSeen": "2026-11-25T09:31:24.495Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57240,10 +57240,9 @@
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
       "owner": 1787616410003,
-      "menucat": 1795603565726,
+      "menucat": 1795599069623,
       "ulartangga": 1795598920534,
-      "ut": 1795599035580,
-      "tanyaustad": 1795603584752
+      "ut": 1795599035580
     },
     "clanId": null,
     "isRegistered": false,
@@ -72084,7 +72083,7 @@
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
       "ai": 1790779136102,
-      "caudiosticker": 1795603457433
+      "caudiosticker": 1795603555811
     },
     "clanId": null,
     "isRegistered": false,
@@ -99714,7 +99713,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50670,
+    "exp": 50685,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -147223,7 +147222,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 795,
+    "exp": 810,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
@@ -147427,6 +147426,6 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 105
+    "exp": 120
   }
 }
