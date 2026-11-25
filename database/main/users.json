@@ -99702,7 +99702,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49185,
+    "exp": 49200,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99712,12 +99712,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:28:31.433Z",
+    "lastSeen": "2026-11-25T06:32:54.229Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
       "menucat": 1793483061389,
-      "cekfemboy": 1795588114359,
+      "cekfemboy": 1795588375503,
       "femboy": 1795260259603,
       "s": 1795266364715,
       "cekganteng": 1795587846120,
@@ -130833,10 +130833,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347115,
+    "exp": 347160,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:31:37.474Z",
+    "lastSeen": "2026-11-25T06:33:01.655Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -147194,7 +147194,14 @@
   "6285869738806": {
     "jid": "6285869738806",
     "rpg": {},
-    "exp": 630
+    "exp": 645,
+    "name": "𝚂𝚞𝚔𝚒",
+    "lastSeen": "2026-11-25T06:32:58.775Z",
+    "cooldowns": {
+      "cekfemboy": 1795588382181
+    },
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   },
   "6282329754113": {
     "jid": "6282329754113",
