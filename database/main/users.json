@@ -57200,7 +57200,7 @@
     "lastSeen": "2026-11-25T14:06:44.682Z",
     "cooldowns": {
       "siapa": 1787623380343,
-      "tidur": 1783953896752,
+      "tidur": 1795615607943,
       "ngemis": 1783951055610,
       "femboy": 1783950983156,
       "gojo": 1783953215203,
@@ -57261,9 +57261,9 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 72,
-      "health": 110,
-      "mana": 105,
+      "stamina": 100,
+      "health": 105,
+      "mana": 53,
       "level": 2,
       "maxHealth": 110,
       "maxMana": 105,
@@ -147522,6 +147522,6 @@
   "6282352440876": {
     "jid": "6282352440876",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   }
 }
