@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117614118,
+    "exp": 117614133,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743591,
+    "exp": 743606,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -13413,7 +13413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11130,
+    "exp": 11145,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91036,10 +91036,10 @@
     "jid": "6285147498740",
     "name": "umm",
     "number": "6285147498740",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12240,
+    "exp": 12225,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91049,7 +91049,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:25:58.740Z",
+    "lastSeen": "2026-11-22T11:53:44.210Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -91074,7 +91074,7 @@
       "hitamkan": 1791436283314,
       "gayvid": 1786931392747,
       "yaoi": 1786931963652,
-      "stickerlydl": 1795616772817,
+      "stickerlydl": 1790154835499,
       "bikini": 1786932636636,
       "masturbation": 1786933069146,
       "ryaoivid": 1786933119742,
@@ -91119,8 +91119,8 @@
     "inventory": {},
     "access": [],
     "fun": {},
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 24
+    "lastActiveDate": "22/11/2026",
+    "activeDays": 23
   },
   "6282229809440": {
     "jid": "6282229809440",
@@ -125677,7 +125677,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 24951,
+    "exp": 24936,
     "name": "paduka riyy",
     "lastSeen": "2026-11-25T06:04:27.033Z",
     "cooldowns": {
@@ -130723,7 +130723,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12063,
+    "exp": 12093,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -130756,10 +130756,10 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 54550,
+    "exp": 54565,
     "energi": 99974,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-25T13:40:07.615Z",
+    "lastSeen": "2026-11-25T14:25:48.030Z",
     "cooldowns": {
       "pin": 1795258910832,
       "menu": 1794827590743,
@@ -147429,16 +147429,16 @@
   "6285179988506": {
     "jid": "6285179988506",
     "rpg": {},
-    "exp": 120,
+    "exp": 180,
     "name": "~ᴷᶻᶻᶻ🦈vexoid_",
-    "lastSeen": "2026-11-25T11:48:10.572Z",
+    "lastSeen": "2026-11-25T14:25:09.076Z",
     "cooldowns": {
       "femboy": 1795607227171,
-      "s": 1795607295895
+      "s": 1795616710266
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1,
-    "energi": 24
+    "energi": 23
   },
   "6285260220199": {
     "jid": "6285260220199",
@@ -147537,11 +147537,11 @@
   "6283160291659": {
     "jid": "6283160291659",
     "rpg": {},
-    "exp": 60
+    "exp": 75
   },
   "6289672664802": {
     "jid": "6289672664802",
     "rpg": {},
-    "exp": 60
+    "exp": 90
   }
 }
