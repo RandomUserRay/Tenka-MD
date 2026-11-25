@@ -93716,7 +93716,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12015,
+    "exp": 12030,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93726,9 +93726,9 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:34:54.325Z",
+    "lastSeen": "2026-11-25T06:35:44.277Z",
     "cooldowns": {
-      "cekfemboy": 1795588414389,
+      "cekfemboy": 1795588545781,
       "femboy": 1793711065442,
       "afk": 1795347854683,
       "imut": 1793711134367,
@@ -99705,7 +99705,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49275,
+    "exp": 49290,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130836,10 +130836,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347325,
+    "exp": 347370,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:35:09.956Z",
+    "lastSeen": "2026-11-25T06:35:41.696Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -130856,7 +130856,8 @@
       "cekganteng": 1795588220137,
       "cekcantik": 1795588394286,
       "cekfemboy": 1795587975562,
-      "cekbucin": 1795588510553
+      "cekbucin": 1795588510553,
+      "cektsundere": 1795588544499
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 9,
@@ -138492,7 +138493,7 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 2880,
+    "exp": 2895,
     "energi": 99999,
     "name": "Azh'khaur",
     "lastSeen": "2026-11-25T06:35:23.565Z",
@@ -147305,7 +147306,7 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 180,
+    "exp": 195,
     "name": "Wni",
     "lastSeen": "2026-11-25T06:34:04.155Z",
     "cooldowns": {
