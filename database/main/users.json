@@ -72006,10 +72006,10 @@
     "jid": "6287811930699",
     "name": "SONy",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74206,
+    "exp": 74221,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -72018,7 +72018,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-21T03:51:31.448Z",
+    "lastSeen": "2026-11-25T10:44:11.760Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -72082,7 +72082,8 @@
       "bratvid": 1790600121499,
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
-      "ai": 1790779136102
+      "ai": 1790779136102,
+      "caudiosticker": 1795603457433
     },
     "clanId": null,
     "isRegistered": false,
@@ -72106,8 +72107,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "21/11/2026",
-    "activeDays": 31,
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 32,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -147221,7 +147222,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 705,
+    "exp": 720,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
