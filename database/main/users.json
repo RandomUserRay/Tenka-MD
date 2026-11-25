@@ -147686,6 +147686,10 @@
     "jid": "13026954629237",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {}
+    "cooldowns": {
+      "afk": 1795643224226
+    },
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 1
   }
 }
