@@ -58497,7 +58497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6885,
+    "exp": 6900,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -146399,8 +146399,11 @@
   "6285199080093": {
     "jid": "6285199080093",
     "rpg": {},
-    "exp": 45,
-    "energi": 99999
+    "exp": 60,
+    "energi": 99998,
+    "name": "Robert Topala james🗿",
+    "lastSeen": "2026-11-25T10:55:30.903Z",
+    "cooldowns": {}
   },
   "6288991582600": {
     "jid": "6288991582600",
