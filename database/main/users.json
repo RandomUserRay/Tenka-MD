@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117613833,
+    "exp": 117613863,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743531,
+    "exp": 743546,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -13413,7 +13413,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11085,
+    "exp": 11100,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -57188,16 +57188,16 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18723,
+    "exp": 18678,
     "level": 1,
-    "koin": 46531,
+    "koin": 56531,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:12:07.047Z",
+    "lastSeen": "2026-11-25T14:10:45.090Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57256,8 +57256,7 @@
       "ngojek": 1795615732138,
       "streamer": 1795615772635,
       "claninvite": 1795615825765,
-      "clan": 1795615845213,
-      "guild": 1795615927136
+      "clan": 1795615845213
     },
     "clanId": "TOM",
     "isRegistered": false,
@@ -57272,8 +57271,7 @@
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
-      "bank": 0,
-      "guildId": "guild_1795615915987"
+      "bank": 0
     },
     "inventory": {},
     "access": [],
@@ -130723,7 +130721,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12063,
+    "exp": 12108,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -142490,7 +142488,7 @@
   "6282226574368": {
     "jid": "6282226574368",
     "rpg": {},
-    "exp": 495,
+    "exp": 450,
     "energi": 99999
   },
   "628214146195": {
@@ -144125,7 +144123,7 @@
   "60179037504": {
     "jid": "60179037504",
     "rpg": {},
-    "exp": 4065,
+    "exp": 4095,
     "energi": 99999,
     "name": "HARU \\(*＾＾*)/",
     "lastSeen": "2026-11-22T17:47:26.451Z",
@@ -145658,7 +145656,7 @@
   "6285137424384": {
     "jid": "6285137424384",
     "rpg": {},
-    "exp": 270,
+    "exp": 255,
     "energi": 99999
   },
   "6289667399696": {
@@ -146323,7 +146321,7 @@
   "6282323513259": {
     "jid": "6282323513259",
     "rpg": {},
-    "exp": 870,
+    "exp": 885,
     "energi": 99999,
     "name": "ディー",
     "lastSeen": "2026-11-25T11:10:50.314Z",
@@ -147522,16 +147520,11 @@
   "6281930716035": {
     "jid": "6281930716035",
     "rpg": {},
-    "exp": 180
+    "exp": 120
   },
   "6282352440876": {
     "jid": "6282352440876",
     "rpg": {},
-    "exp": 120
-  },
-  "6287786685787": {
-    "jid": "6287786685787",
-    "rpg": {},
-    "exp": 15
+    "exp": 75
   }
 }
