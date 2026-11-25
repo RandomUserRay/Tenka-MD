@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117613068,
+    "exp": 117613083,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -58494,10 +58494,10 @@
     "jid": "6285751419457",
     "name": "~TommyLen",
     "number": "6285751419457",
-    "energi": 99997,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6900,
+    "exp": 6885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58506,12 +58506,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:03:12.047Z",
+    "lastSeen": "2026-11-25T09:18:46.072Z",
     "cooldowns": {
       "play": 1788342162777,
       "lirik": 1784020192213,
-      "s": 1784021070320,
-      "prabowo": 1795604592126
+      "s": 1784021070320
     },
     "clanId": null,
     "isRegistered": false,
@@ -58522,8 +58521,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "2/9/2026",
+    "activeDays": 1
   },
   "6281532188450": {
     "jid": "6281532188450",
@@ -99716,7 +99715,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50745,
+    "exp": 50760,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -146297,7 +146296,7 @@
   "6282323513259": {
     "jid": "6282323513259",
     "rpg": {},
-    "exp": 435,
+    "exp": 450,
     "energi": 99999,
     "name": "ディー",
     "lastSeen": "2026-11-25T06:46:14.003Z",
@@ -147430,15 +147429,5 @@
     "jid": "6285126446109",
     "rpg": {},
     "exp": 135
-  },
-  "6285249540697": {
-    "jid": "6285249540697",
-    "rpg": {},
-    "exp": 30
-  },
-  "6285199112317": {
-    "jid": "6285199112317",
-    "rpg": {},
-    "exp": 15
   }
 }
