@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-25T08:08:10.058Z",
+    "lastSeen": "2026-11-25T08:13:16.043Z",
     "jid": "6285755379245",
     "number": "6285755379245",
-    "energi": 999999,
+    "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000239859,
+    "exp": 9000240084,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -26,13 +26,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 900024,
-      "health": 9000330,
-      "maxHealth": 9000330,
-      "mana": 4500215,
-      "maxMana": 4500215,
-      "stamina": 4500215,
-      "maxStamina": 4500215,
+      "level": 900025,
+      "health": 9000340,
+      "maxHealth": 9000340,
+      "mana": 4500220,
+      "maxMana": 4500220,
+      "stamina": 4500220,
+      "maxStamina": 4500220,
       "bank": 1000016137013563,
       "luck": 12,
       "spouse": "628565071625@s.whatsapp.net",
@@ -99708,7 +99708,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50175,
+    "exp": 50160,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -147363,18 +147363,5 @@
     "jid": "6285167441096",
     "rpg": {},
     "exp": 45
-  },
-  "628131534583": {
-    "name": "danz",
-    "lastSeen": "2026-11-25T08:13:01.264Z",
-    "jid": "628131534583",
-    "rpg": {},
-    "exp": 15,
-    "cooldowns": {
-      "ytmp4": 1795594422115
-    },
-    "energi": 23,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 1
   }
 }
