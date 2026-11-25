@@ -147370,7 +147370,11 @@
     "jid": "628131534583",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1795594422115
+    },
+    "energi": 23,
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   }
 }
