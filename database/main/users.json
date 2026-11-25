@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117615228,
+    "exp": 117615243,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 744701,
+    "exp": 744731,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -91511,7 +91511,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 72030,
+    "exp": 72060,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91521,7 +91521,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T08:16:41.242Z",
+    "lastSeen": "2026-11-25T15:11:51.340Z",
     "cooldowns": {
       "play": 1795501787883,
       "toimg": 1790829435907,
@@ -91561,7 +91561,7 @@
       "delete": 1791121520025,
       "unmutegc": 1793530674905,
       "pin": 1793813497860,
-      "antispam": 1794367692172,
+      "antispam": 1795619511480,
       "antilinkall": 1795594603359
     },
     "clanId": null,
@@ -92994,7 +92994,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 765,
+    "exp": 795,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93740,7 +93740,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12720,
+    "exp": 12735,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130723,7 +130723,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12318,
+    "exp": 12333,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -130865,7 +130865,7 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 348690,
+    "exp": 348720,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-25T06:43:12.167Z",
@@ -134850,7 +134850,7 @@
   "6285199596205": {
     "jid": "6285199596205",
     "rpg": {},
-    "exp": 1635,
+    "exp": 1650,
     "name": "y u r r a",
     "lastSeen": "2026-11-22T00:01:53.596Z",
     "cooldowns": {
@@ -144172,7 +144172,7 @@
   "6281586516622": {
     "jid": "6281586516622",
     "rpg": {},
-    "exp": 2175,
+    "exp": 2190,
     "energi": 99999,
     "name": "bread",
     "lastSeen": "2026-11-12T08:55:51.247Z",
@@ -144421,7 +144421,7 @@
   "6288294574429": {
     "jid": "6288294574429",
     "rpg": {},
-    "exp": 3555,
+    "exp": 3570,
     "energi": 99999,
     "name": "ig : altairsznn",
     "lastSeen": "2026-11-12T05:52:46.325Z",
@@ -147302,7 +147302,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 3105
+    "exp": 3120
   },
   "6282339936375": {
     "jid": "6282339936375",
@@ -147544,7 +147544,7 @@
   "6289672664802": {
     "jid": "6289672664802",
     "rpg": {},
-    "exp": 1095
+    "exp": 1110
   },
   "6285742947792": {
     "jid": "6285742947792",
@@ -147574,6 +147574,6 @@
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
-    "exp": 30
+    "exp": 45
   }
 }
