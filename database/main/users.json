@@ -57185,7 +57185,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14400,
+    "exp": 14325,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:43:05.319Z",
+    "lastSeen": "2026-11-25T09:31:24.495Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57208,7 +57208,7 @@
       "buat": 1783951855432,
       "level": 1783951917695,
       "kerja": 1784019639688,
-      "menu": 1795603335936,
+      "menu": 1795599058722,
       "admin": 1784020269067,
       "kick": 1787623423493,
       "promote": 1783952562232,
@@ -57240,10 +57240,9 @@
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
       "owner": 1787616410003,
-      "menucat": 1795603357574,
+      "menucat": 1795599069623,
       "ulartangga": 1795598920534,
-      "ut": 1795599035580,
-      "clancreate": 1795603385461
+      "ut": 1795599035580
     },
     "clanId": null,
     "isRegistered": false,
@@ -123762,7 +123761,7 @@
   "162131374796815": {
     "jid": "162131374796815",
     "rpg": {},
-    "exp": 900,
+    "exp": 915,
     "energi": 99999,
     "name": "Miminnn卍",
     "lastSeen": "2026-11-04T00:45:48.974Z",
@@ -130736,7 +130735,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 53905,
+    "exp": 53920,
     "energi": 99984,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T04:20:25.598Z",
@@ -147222,7 +147221,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 675,
+    "exp": 690,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
