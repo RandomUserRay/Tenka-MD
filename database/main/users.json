@@ -57188,16 +57188,16 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18693,
+    "exp": 18708,
     "level": 1,
-    "koin": 56531,
+    "koin": 46531,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:11:21.421Z",
+    "lastSeen": "2026-11-25T14:11:55.985Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57257,7 +57257,7 @@
       "streamer": 1795615772635,
       "claninvite": 1795615825765,
       "clan": 1795615845213,
-      "guild": 1795615882159
+      "guild": 1795615916083
     },
     "clanId": "TOM",
     "isRegistered": false,
@@ -57272,7 +57272,8 @@
       "maxHealth": 110,
       "maxMana": 105,
       "maxStamina": 105,
-      "bank": 0
+      "bank": 0,
+      "guildId": "guild_1795615915987"
     },
     "inventory": {},
     "access": [],
@@ -142489,7 +142490,7 @@
   "6282226574368": {
     "jid": "6282226574368",
     "rpg": {},
-    "exp": 450,
+    "exp": 465,
     "energi": 99999
   },
   "628214146195": {
@@ -147521,7 +147522,7 @@
   "6281930716035": {
     "jid": "6281930716035",
     "rpg": {},
-    "exp": 135
+    "exp": 165
   },
   "6282352440876": {
     "jid": "6282352440876",
