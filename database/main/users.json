@@ -91487,7 +91487,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 71130,
+    "exp": 71145,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -99702,7 +99702,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49065,
+    "exp": 49125,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99712,12 +99712,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:24:06.033Z",
+    "lastSeen": "2026-11-25T06:28:31.433Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
       "menucat": 1793483061389,
-      "cekfemboy": 1795587829932,
+      "cekfemboy": 1795588114359,
       "femboy": 1795260259603,
       "s": 1795266364715,
       "cekganteng": 1795587846120,
@@ -130833,10 +130833,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 346770,
+    "exp": 346890,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:27:07.574Z",
+    "lastSeen": "2026-11-25T06:28:14.005Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -130851,7 +130851,7 @@
       "prabowo-ai": 1793622857553,
       "daftar": 1794643576336,
       "cekganteng": 1795588017687,
-      "cekcantik": 1795588027650,
+      "cekcantik": 1795588094437,
       "cekfemboy": 1795587975562
     },
     "lastActiveDate": "25/11/2026",
@@ -135253,7 +135253,7 @@
   "6285151640823": {
     "jid": "6285151640823",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "energi": 99999
   },
   "6283854564154": {
@@ -138488,14 +138488,15 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 2775,
+    "exp": 2805,
     "energi": 99999,
     "name": "Azh'khaur",
-    "lastSeen": "2026-11-25T06:26:18.188Z",
+    "lastSeen": "2026-11-25T06:27:46.947Z",
     "cooldowns": {
       "afk": 1795247656098,
       "cekfemboy": 1795587916885,
-      "cekganteng": 1795587978261
+      "cekganteng": 1795587978261,
+      "cekcantik": 1795588067008
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 2
@@ -147290,6 +147291,14 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 30
+    "exp": 60,
+    "name": "Wni",
+    "lastSeen": "2026-11-25T06:28:13.040Z",
+    "cooldowns": {
+      "cekfemboy": 1795588074920,
+      "cekganteng": 1795588093555
+    },
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   }
 }
