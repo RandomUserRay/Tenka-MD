@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743546,
+    "exp": 743531,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -57188,7 +57188,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18678,
+    "exp": 18693,
     "level": 1,
     "koin": 56531,
     "unlockedFeatures": [],
@@ -57197,7 +57197,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:10:45.090Z",
+    "lastSeen": "2026-11-25T14:11:21.421Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57256,7 +57256,8 @@
       "ngojek": 1795615732138,
       "streamer": 1795615772635,
       "claninvite": 1795615825765,
-      "clan": 1795615845213
+      "clan": 1795615845213,
+      "guild": 1795615882159
     },
     "clanId": "TOM",
     "isRegistered": false,
@@ -130721,7 +130722,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12078,
+    "exp": 12063,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -144123,7 +144124,7 @@
   "60179037504": {
     "jid": "60179037504",
     "rpg": {},
-    "exp": 4080,
+    "exp": 4065,
     "energi": 99999,
     "name": "HARU \\(*＾＾*)/",
     "lastSeen": "2026-11-22T17:47:26.451Z",
@@ -145656,7 +145657,7 @@
   "6285137424384": {
     "jid": "6285137424384",
     "rpg": {},
-    "exp": 255,
+    "exp": 270,
     "energi": 99999
   },
   "6289667399696": {
@@ -147520,7 +147521,7 @@
   "6281930716035": {
     "jid": "6281930716035",
     "rpg": {},
-    "exp": 120
+    "exp": 135
   },
   "6282352440876": {
     "jid": "6282352440876",
