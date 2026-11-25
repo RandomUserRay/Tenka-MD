@@ -57182,10 +57182,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14340,
+    "exp": 14355,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:46:05.625Z",
+    "lastSeen": "2026-11-25T10:46:24.656Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57242,7 +57242,8 @@
       "owner": 1787616410003,
       "menucat": 1795603565726,
       "ulartangga": 1795598920534,
-      "ut": 1795599035580
+      "ut": 1795599035580,
+      "tanyaustad": 1795603584752
     },
     "clanId": null,
     "isRegistered": false,
