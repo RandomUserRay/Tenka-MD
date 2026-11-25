@@ -131826,19 +131826,20 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5460,
-    "energi": 99999,
+    "exp": 5490,
+    "energi": 999999,
     "name": "zangetsu",
-    "lastSeen": "2026-11-15T23:37:02.810Z",
+    "lastSeen": "2026-11-25T12:07:04.836Z",
     "cooldowns": {
       "top": 1794052312142,
       "cekfemboy": 1794739704082,
       "kapan": 1794740285365,
       "tebakanime": 1794753914155,
-      "istirahat": 1794754171192
+      "istirahat": 1794754171192,
+      "topchat": 1795608425080
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 3
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 4
   },
   "6289514871890": {
     "name": "Christ",
@@ -146822,7 +146823,7 @@
   "6285165965994": {
     "jid": "6285165965994",
     "rpg": {},
-    "exp": 30,
+    "exp": 45,
     "energi": 99999
   },
   "6285972566556": {
