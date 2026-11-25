@@ -35944,7 +35944,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1078002,
+    "exp": 1077972,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -57185,7 +57185,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14370,
+    "exp": 14400,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:46:49.074Z",
+    "lastSeen": "2026-11-25T10:53:53.155Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57240,10 +57240,11 @@
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
       "owner": 1787616410003,
-      "menucat": 1795603565726,
+      "menucat": 1795603992791,
       "ulartangga": 1795598920534,
       "ut": 1795599035580,
-      "tanyaustad": 1795603584752
+      "tanyaustad": 1795603584752,
+      "siapakahaku": 1795604033671
     },
     "clanId": null,
     "isRegistered": false,
@@ -87625,7 +87626,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6825,
+    "exp": 6810,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -146483,7 +146484,7 @@
   "6283114662019": {
     "jid": "6283114662019",
     "rpg": {},
-    "exp": 3075,
+    "exp": 3060,
     "name": "Chandra",
     "lastSeen": "2026-11-22T01:37:04.587Z",
     "energi": 99999,
@@ -147223,7 +147224,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 960,
+    "exp": 945,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
