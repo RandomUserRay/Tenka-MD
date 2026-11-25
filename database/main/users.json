@@ -93716,7 +93716,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11970,
+    "exp": 11985,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93726,13 +93726,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:33:32.970Z",
+    "lastSeen": "2026-11-25T06:33:48.588Z",
     "cooldowns": {
       "cekfemboy": 1795588414389,
       "femboy": 1793711065442,
       "afk": 1795347854683,
       "imut": 1793711134367,
-      "s": 1795254401844
+      "s": 1795254401844,
+      "cekganteng": 1795588428643
     },
     "clanId": null,
     "isRegistered": false,
@@ -147299,7 +147300,7 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 150,
+    "exp": 165,
     "name": "Wni",
     "lastSeen": "2026-11-25T06:33:18.478Z",
     "cooldowns": {
