@@ -99706,7 +99706,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49335,
+    "exp": 49350,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99716,7 +99716,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T06:37:00.517Z",
+    "lastSeen": "2026-11-25T06:37:26.193Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
@@ -130837,10 +130837,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347460,
+    "exp": 347475,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:36:57.768Z",
+    "lastSeen": "2026-11-25T06:37:30.234Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -130859,7 +130859,8 @@
       "cekfemboy": 1795588588001,
       "cekbucin": 1795588510553,
       "cektsundere": 1795588544499,
-      "cekgila": 1795588617840
+      "cekgila": 1795588617840,
+      "cekumur": 1795588650355
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 9,
@@ -138495,7 +138496,7 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 2910,
+    "exp": 2925,
     "energi": 99999,
     "name": "Azh'khaur",
     "lastSeen": "2026-11-25T06:37:18.390Z",
