@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-25T09:26:23.153Z",
+    "lastSeen": "2026-11-25T09:23:30.005Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000244884,
+    "exp": 9000244734,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -57185,7 +57185,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14145,
+    "exp": 14175,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-09-06T04:51:00.845Z",
+    "lastSeen": "2026-11-25T09:26:36.830Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57239,7 +57239,8 @@
       "bagaimana": 1784202098772,
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
-      "owner": 1787616410003
+      "owner": 1787616410003,
+      "menucat": 1795598797443
     },
     "clanId": null,
     "isRegistered": false,
@@ -57258,8 +57259,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "2/9/2026",
-    "activeDays": 1
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 2
   },
   "6285124316709": {
     "name": "Messi senggol dong",
