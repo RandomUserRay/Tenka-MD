@@ -97523,7 +97523,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64009,
+    "exp": 64024,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97533,7 +97533,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:21:19.823Z",
+    "lastSeen": "2026-11-25T11:48:04.628Z",
     "cooldowns": {
       "afk": 1795605682731,
       "play": 1795593982652,
@@ -97548,7 +97548,7 @@
       "tolol": 1788075743705,
       "top": 1794826208029,
       "pintar": 1788075965074,
-      "femboy": 1795605326233,
+      "femboy": 1795607287760,
       "dadu": 1788079899385,
       "bank": 1789119647649,
       "cekyandere": 1795605385543,
@@ -130629,7 +130629,7 @@
       "stamina": 170,
       "bank": 0
     },
-    "exp": 142830,
+    "exp": 143055,
     "energi": 99999,
     "name": "The Visionary",
     "lastSeen": "2026-11-23T04:14:29.996Z",
@@ -136353,7 +136353,7 @@
     "lastSeen": "2026-11-25T11:47:50.233Z",
     "energi": 99995,
     "cooldowns": {
-      "femboy": 1795607213689,
+      "femboy": 1795607272826,
       "femboys": 1795607172913,
       "hentai": 1795431676306,
       "ytmp4": 1793446690512,
@@ -139162,7 +139162,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16515,
+    "exp": 16530,
     "energi": 99999,
     "name": "kenal pot?",
     "lastSeen": "2026-11-23T10:21:59.883Z",
@@ -147401,14 +147401,16 @@
   "6285179988506": {
     "jid": "6285179988506",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "name": "~ᴷᶻᶻᶻ🦈vexoid_",
-    "lastSeen": "2026-11-25T11:47:04.790Z",
+    "lastSeen": "2026-11-25T11:48:10.572Z",
     "cooldowns": {
-      "femboy": 1795607227171
+      "femboy": 1795607227171,
+      "s": 1795607295895
     },
     "lastActiveDate": "25/11/2026",
-    "activeDays": 1
+    "activeDays": 1,
+    "energi": 24
   },
   "6285260220199": {
     "jid": "6285260220199",
