@@ -57188,7 +57188,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18648,
+    "exp": 18663,
     "level": 1,
     "koin": 56531,
     "unlockedFeatures": [],
@@ -57197,7 +57197,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:09:49.958Z",
+    "lastSeen": "2026-11-25T14:10:25.616Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57254,7 +57254,8 @@
       "kurir": 1795615707410,
       "bank": 1795615565320,
       "ngojek": 1795615732138,
-      "streamer": 1795615772635
+      "streamer": 1795615772635,
+      "claninvite": 1795615825765
     },
     "clanId": "TOM",
     "isRegistered": false,
@@ -61960,7 +61961,7 @@
     "unregisteredAt": null,
     "lastSeen": "2026-09-05T11:20:52.105Z",
     "cooldowns": {},
-    "clanId": null,
+    "clanId": "TOM",
     "isRegistered": false,
     "regName": null,
     "regAge": null,
