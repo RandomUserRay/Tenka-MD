@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612993,
+    "exp": 117613053,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -57182,10 +57182,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99995,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14550,
+    "exp": 14460,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:00:42.090Z",
+    "lastSeen": "2026-11-25T10:57:39.625Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57241,11 +57241,10 @@
       "kapan": 1785025110136,
       "owner": 1787616410003,
       "menucat": 1795604204787,
-      "ulartangga": 1795604386240,
-      "ut": 1795604393346,
+      "ulartangga": 1795598920534,
+      "ut": 1795599035580,
       "tanyaustad": 1795603584752,
-      "siapakahaku": 1795604033671,
-      "pussy": 1795604445214
+      "siapakahaku": 1795604033671
     },
     "clanId": null,
     "isRegistered": false,
@@ -57375,7 +57374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 3555,
+    "exp": 3540,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58498,7 +58497,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6975,
+    "exp": 6885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58507,7 +58506,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:00:01.883Z",
+    "lastSeen": "2026-11-25T09:18:46.072Z",
     "cooldowns": {
       "play": 1788342162777,
       "lirik": 1784020192213,
@@ -142472,7 +142471,7 @@
   "6282226574368": {
     "jid": "6282226574368",
     "rpg": {},
-    "exp": 420,
+    "exp": 405,
     "energi": 99999
   },
   "628214146195": {
@@ -146297,7 +146296,7 @@
   "6282323513259": {
     "jid": "6282323513259",
     "rpg": {},
-    "exp": 420,
+    "exp": 435,
     "energi": 99999,
     "name": "ディー",
     "lastSeen": "2026-11-25T06:46:14.003Z",
@@ -146400,11 +146399,8 @@
   "6285199080093": {
     "jid": "6285199080093",
     "rpg": {},
-    "exp": 60,
-    "energi": 99998,
-    "name": "Robert Topala james🗿",
-    "lastSeen": "2026-11-25T11:01:07.270Z",
-    "cooldowns": {}
+    "exp": 45,
+    "energi": 99999
   },
   "6288991582600": {
     "jid": "6288991582600",
@@ -146622,12 +146618,12 @@
   "6287758401494": {
     "jid": "6287758401494",
     "rpg": {},
-    "exp": 2310,
+    "exp": 2340,
     "energi": 999998,
     "name": "iyan",
-    "lastSeen": "2026-11-25T10:52:17.269Z",
+    "lastSeen": "2026-11-25T11:00:43.906Z",
     "cooldowns": {
-      "s": 1795604293202,
+      "s": 1795604444753,
       "smeme": 1795400912021
     },
     "lastActiveDate": "25/11/2026",
@@ -147228,7 +147224,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 945,
+    "exp": 975,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
@@ -147433,15 +147429,5 @@
     "jid": "6285126446109",
     "rpg": {},
     "exp": 135
-  },
-  "6285249540697": {
-    "jid": "6285249540697",
-    "rpg": {},
-    "exp": 30
-  },
-  "6285199112317": {
-    "jid": "6285199112317",
-    "rpg": {},
-    "exp": 15
   }
 }
