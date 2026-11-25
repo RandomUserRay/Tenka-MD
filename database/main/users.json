@@ -99708,7 +99708,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49530,
+    "exp": 49545,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130839,10 +130839,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347610,
+    "exp": 347640,
     "energi": 99999,
     "name": "just call me Savan!",
-    "lastSeen": "2026-11-25T06:42:12.314Z",
+    "lastSeen": "2026-11-25T06:43:12.167Z",
     "cooldowns": {
       "play": 1793471438371,
       "hentai": 1793350822662,
@@ -130864,7 +130864,8 @@
       "cekgila": 1795588617840,
       "cekumur": 1795588650355,
       "cekmesum": 1795588735793,
-      "ceksetia": 1795588932383
+      "ceksetia": 1795588932383,
+      "cekimut": 1795588992235
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 9,
@@ -146853,10 +146854,15 @@
   "6283179842510": {
     "jid": "6283179842510",
     "rpg": {},
-    "exp": 1185,
+    "exp": 1215,
     "energi": 99999,
     "name": "Xav",
-    "lastSeen": "2026-11-25T06:42:26.947Z"
+    "lastSeen": "2026-11-25T06:42:53.574Z",
+    "cooldowns": {
+      "cekfemboy": 1795588975756
+    },
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   },
   "6282338638547": {
     "jid": "6282338638547",
@@ -147320,16 +147326,16 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 315,
+    "exp": 330,
     "name": "Rudo",
-    "lastSeen": "2026-11-25T06:40:11.555Z",
+    "lastSeen": "2026-11-25T06:43:02.808Z",
     "cooldowns": {
       "cekfemboy": 1795588620712,
       "cekganteng": 1795588093555,
       "cekcantik": 1795588312387,
       "cekumur": 1795588667383,
       "cekmesum": 1795588737124,
-      "ceksetia": 1795588812227
+      "ceksetia": 1795588982889
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
