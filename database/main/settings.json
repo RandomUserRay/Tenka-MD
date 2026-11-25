@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "Connection Closed",
+      "at": 1795576345284
+    },
+    {
+      "cmd": "unknown",
       "err": "Cannot read properties of undefined (reading 'id')",
       "at": 1794912396995
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "db.getAllUsers is not a function",
       "at": 1791694006964
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1791694006562
     }
   ],
   "jpmBlacklist": [],
