@@ -69748,14 +69748,14 @@
     "access": []
   },
   "6281324631258": {
-    "name": "s0rrow mysterious daffa",
-    "lastSeen": "2026-11-25T11:55:37.575Z",
+    "name": "epic face mystery Daffa",
+    "lastSeen": "2026-10-08T11:59:56.696Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14377,
+    "exp": 14347,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -69766,7 +69766,7 @@
     "unregisteredAt": null,
     "cooldowns": {
       "ai-chat": 1784636027998,
-      "allmenu": 1795607740173,
+      "allmenu": 1791210856130,
       "daily": 1786105218545,
       "ai": 1784636032708,
       "ai4chat": 1784949988030,
@@ -69857,8 +69857,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 20
+    "lastActiveDate": "8/10/2026",
+    "activeDays": 19
   },
   "6287797980617": {
     "jid": "6287797980617",
@@ -101808,7 +101808,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6990,
+    "exp": 7005,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -105941,7 +105941,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14625,
+    "exp": 14520,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -139162,7 +139162,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 16530,
+    "exp": 16545,
     "energi": 99999,
     "name": "kenal pot?",
     "lastSeen": "2026-11-23T10:21:59.883Z",
@@ -142065,7 +142065,7 @@
   "6285261499341": {
     "jid": "6285261499341",
     "rpg": {},
-    "exp": 3180,
+    "exp": 3150,
     "name": "Pesta Tambunan S.keb",
     "lastSeen": "2026-11-22T11:09:18.069Z",
     "energi": 99999
@@ -146853,7 +146853,7 @@
   "6283164786377": {
     "jid": "6283164786377",
     "rpg": {},
-    "exp": 2490,
+    "exp": 2535,
     "energi": 99999
   },
   "6283134984982": {
@@ -147274,7 +147274,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 3045
+    "exp": 3060
   },
   "6282339936375": {
     "jid": "6282339936375",
@@ -147480,15 +147480,5 @@
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
-  },
-  "6281269055247": {
-    "jid": "6281269055247",
-    "rpg": {},
-    "exp": 30
-  },
-  "6287753111210": {
-    "jid": "6287753111210",
-    "rpg": {},
-    "exp": 30
   }
 }
