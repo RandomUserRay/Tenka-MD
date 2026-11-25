@@ -69748,14 +69748,14 @@
     "access": []
   },
   "6281324631258": {
-    "name": "epic face mystery Daffa",
-    "lastSeen": "2026-10-08T11:59:56.696Z",
+    "name": "s0rrow mysterious daffa",
+    "lastSeen": "2026-11-25T12:07:12.469Z",
     "jid": "6281324631258",
     "number": "6281324631258",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14347,
+    "exp": 14392,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -97523,7 +97523,7 @@
     "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64084,
+    "exp": 64069,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -124926,7 +124926,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 8625,
+    "exp": 8670,
     "energi": 99999,
     "name": "-ULO_BOY-🪫🐦‍🔥ᕦ😎ᕤ",
     "lastSeen": "2026-11-06T11:01:10.373Z",
@@ -125014,7 +125014,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 8145,
+    "exp": 8175,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-11-18T13:49:54.548Z",
     "cooldowns": {
@@ -127123,7 +127123,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24510,
+    "exp": 24480,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-21T15:09:36.258Z",
@@ -131826,20 +131826,19 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5490,
-    "energi": 999999,
+    "exp": 5460,
+    "energi": 99999,
     "name": "zangetsu",
-    "lastSeen": "2026-11-25T12:07:04.836Z",
+    "lastSeen": "2026-11-15T23:37:02.810Z",
     "cooldowns": {
       "top": 1794052312142,
       "cekfemboy": 1794739704082,
       "kapan": 1794740285365,
       "tebakanime": 1794753914155,
-      "istirahat": 1794754171192,
-      "topchat": 1795608425080
+      "istirahat": 1794754171192
     },
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "15/11/2026",
+    "activeDays": 3
   },
   "6289514871890": {
     "name": "Christ",
@@ -134361,9 +134360,9 @@
       ],
       "defense": 15
     },
-    "exp": 755712,
+    "exp": 755727,
     "name": "Fиз",
-    "lastSeen": "2026-11-18T12:07:06.770Z",
+    "lastSeen": "2026-11-25T12:05:09.095Z",
     "cooldowns": {
       "menu": 1793535633223,
       "menucat": 1793535635125,
@@ -134419,7 +134418,7 @@
       "ngemis": 1793000590497,
       "petshop": 1793000641435,
       "training": 1793010366742,
-      "afk": 1795003628773,
+      "afk": 1795608311481,
       "buyfitur": 1793009377946,
       "allmenu": 1793010011467,
       "gay": 1793010096691,
@@ -134438,8 +134437,8 @@
       "nambalban": 1793966335176,
       "expedition": 1793928372309
     },
-    "lastActiveDate": "18/11/2026",
-    "activeDays": 9,
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 10,
     "energi": 99999,
     "koin": 1110463,
     "isRegistered": true,
@@ -137373,7 +137372,7 @@
       "maxHealth": 100,
       "maxStamina": 100
     },
-    "exp": 7178,
+    "exp": 7133,
     "name": "Arven",
     "lastSeen": "2026-11-21T11:28:03.881Z",
     "cooldowns": {
@@ -146823,7 +146822,7 @@
   "6285165965994": {
     "jid": "6285165965994",
     "rpg": {},
-    "exp": 45,
+    "exp": 15,
     "energi": 99999
   },
   "6285972566556": {
@@ -147265,7 +147264,7 @@
   "6282329754113": {
     "jid": "6282329754113",
     "rpg": {},
-    "exp": 90
+    "exp": 60
   },
   "6285840717981": {
     "jid": "6285840717981",
@@ -147481,5 +147480,15 @@
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 1
+  },
+  "6281269055247": {
+    "jid": "6281269055247",
+    "rpg": {},
+    "exp": 30
+  },
+  "6287753111210": {
+    "jid": "6287753111210",
+    "rpg": {},
+    "exp": 30
   }
 }
