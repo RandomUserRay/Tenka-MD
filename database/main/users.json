@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117613833,
+    "exp": 117613878,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743531,
+    "exp": 743546,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -57185,19 +57185,19 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99989,
+    "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 18648,
+    "exp": 15738,
     "level": 1,
-    "koin": 56531,
+    "koin": 37656,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:09:49.958Z",
+    "lastSeen": "2026-11-25T14:06:05.235Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57250,19 +57250,17 @@
       "siapakahaku": 1795604033671,
       "lesbian": 1795604647308,
       "tts": 1795604866452,
-      "clancreate": 1795615794521,
-      "kurir": 1795615707410,
-      "bank": 1795615565320,
-      "ngojek": 1795615732138,
-      "streamer": 1795615772635
+      "clancreate": 1795614640799,
+      "kurir": 1795615542375,
+      "bank": 1795615565320
     },
-    "clanId": "TOM",
+    "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 40,
+      "stamina": 90,
       "health": 110,
       "mana": 105,
       "level": 2,
@@ -130719,7 +130717,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12063,
+    "exp": 12093,
     "energi": 99999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -145547,7 +145545,7 @@
   "6282170710726": {
     "jid": "6282170710726",
     "rpg": {},
-    "exp": 630,
+    "exp": 675,
     "energi": 99999
   },
   "628211775661": {
@@ -145654,7 +145652,7 @@
   "6285137424384": {
     "jid": "6285137424384",
     "rpg": {},
-    "exp": 240,
+    "exp": 225,
     "energi": 99999
   },
   "6289667399696": {
@@ -146319,7 +146317,7 @@
   "6282323513259": {
     "jid": "6282323513259",
     "rpg": {},
-    "exp": 870,
+    "exp": 915,
     "energi": 99999,
     "name": "ディー",
     "lastSeen": "2026-11-25T11:10:50.314Z",
@@ -147518,7 +147516,7 @@
   "6281930716035": {
     "jid": "6281930716035",
     "rpg": {},
-    "exp": 105
+    "exp": 60
   },
   "6282352440876": {
     "jid": "6282352440876",
