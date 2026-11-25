@@ -57188,16 +57188,16 @@
     "energi": 99990,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15738,
+    "exp": 17013,
     "level": 1,
-    "koin": 37656,
+    "koin": 62871,
     "unlockedFeatures": [],
     "registeredAt": null,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T14:06:05.235Z",
+    "lastSeen": "2026-11-25T14:06:15.187Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57252,7 +57252,8 @@
       "tts": 1795604866452,
       "clancreate": 1795614640799,
       "kurir": 1795615542375,
-      "bank": 1795615565320
+      "bank": 1795615565320,
+      "jualan": 1795615578959
     },
     "clanId": null,
     "isRegistered": false,
@@ -57260,7 +57261,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 90,
+      "stamina": 72,
       "health": 110,
       "mana": 105,
       "level": 2,
@@ -146810,7 +146811,7 @@
   "212617917832": {
     "jid": "212617917832",
     "rpg": {},
-    "exp": 1020,
+    "exp": 1005,
     "energi": 99999
   },
   "6285252956687": {
