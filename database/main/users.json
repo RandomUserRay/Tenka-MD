@@ -493,7 +493,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 117612903,
+    "exp": 117612873,
     "level": 1,
     "koin": 1038,
     "unlockedFeatures": [],
@@ -57182,10 +57182,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14325,
+    "exp": 14370,
     "level": 1,
     "koin": 18390,
     "unlockedFeatures": [],
@@ -57194,7 +57194,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T09:31:24.495Z",
+    "lastSeen": "2026-11-25T10:46:49.074Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57234,15 +57234,16 @@
       "bratsquidward": 1784193932502,
       "bratbahlil": 1784193958859,
       "bratvermeil": 1784193783880,
-      "pakustad": 1784201995218,
+      "pakustad": 1795603609786,
       "tictactoe": 1784202071576,
       "bagaimana": 1784202098772,
       "pinpack": 1784202214917,
       "kapan": 1785025110136,
       "owner": 1787616410003,
-      "menucat": 1795599069623,
+      "menucat": 1795603565726,
       "ulartangga": 1795598920534,
-      "ut": 1795599035580
+      "ut": 1795599035580,
+      "tanyaustad": 1795603584752
     },
     "clanId": null,
     "isRegistered": false,
@@ -72083,7 +72084,7 @@
       "fakeff": 1790636299897,
       "fakeml": 1790640532640,
       "ai": 1790779136102,
-      "caudiosticker": 1795603555811
+      "caudiosticker": 1795603457433
     },
     "clanId": null,
     "isRegistered": false,
@@ -99713,7 +99714,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 50700,
+    "exp": 50670,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130736,7 +130737,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 53935,
+    "exp": 53920,
     "energi": 99984,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T04:20:25.598Z",
@@ -147222,7 +147223,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 825,
+    "exp": 795,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
@@ -147426,6 +147427,6 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 120
+    "exp": 105
   }
 }
