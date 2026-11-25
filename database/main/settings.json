@@ -48,6 +48,11 @@
   "errorLog": [
     {
       "cmd": "unknown",
+      "err": "AIRich is not a constructor",
+      "at": 1795608419540
+    },
+    {
+      "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1795576345284
     },
@@ -290,11 +295,6 @@
       "cmd": "unknown",
       "err": "Connection Closed",
       "at": 1791702313107
-    },
-    {
-      "cmd": "unknown",
-      "err": "db.getAllUsers is not a function",
-      "at": 1791694006964
     }
   ],
   "jpmBlacklist": [],
