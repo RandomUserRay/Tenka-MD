@@ -99705,7 +99705,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49260,
+    "exp": 49275,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130836,7 +130836,7 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 347295,
+    "exp": 347325,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-25T06:35:09.956Z",
@@ -138492,16 +138492,17 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 2865,
+    "exp": 2880,
     "energi": 99999,
     "name": "Azh'khaur",
-    "lastSeen": "2026-11-25T06:34:29.412Z",
+    "lastSeen": "2026-11-25T06:35:23.565Z",
     "cooldowns": {
       "afk": 1795247656098,
       "cekfemboy": 1795588412075,
       "cekganteng": 1795588347809,
       "cekcantik": 1795588067008,
-      "cekbucin": 1795588469485
+      "cekbucin": 1795588469485,
+      "cektsundere": 1795588526890
     },
     "lastActiveDate": "25/11/2026",
     "activeDays": 2
