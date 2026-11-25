@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 743831,
+    "exp": 743846,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -130756,7 +130756,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 54640,
+    "exp": 54655,
     "energi": 99974,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-25T13:40:07.615Z",
@@ -141845,7 +141845,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12486,
+    "exp": 12501,
     "energi": 99999,
     "name": "Juice",
     "lastSeen": "2026-11-16T11:45:05.008Z",
@@ -147537,7 +147537,7 @@
   "6283160291659": {
     "jid": "6283160291659",
     "rpg": {},
-    "exp": 240,
+    "exp": 255,
     "name": "N Pizza Of Embrigo",
     "lastSeen": "2026-11-25T14:34:41.316Z"
   },
@@ -147549,6 +147549,6 @@
   "6285742947792": {
     "jid": "6285742947792",
     "rpg": {},
-    "exp": 165
+    "exp": 180
   }
 }
