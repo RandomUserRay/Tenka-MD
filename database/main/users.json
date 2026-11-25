@@ -146403,7 +146403,11 @@
     "energi": 99998,
     "name": "Robert Topala james🗿",
     "lastSeen": "2026-11-25T10:55:30.903Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "s": 1795604136306
+    },
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 1
   },
   "6288991582600": {
     "jid": "6288991582600",
