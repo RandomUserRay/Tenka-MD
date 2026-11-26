@@ -4514,12 +4514,12 @@
   },
   "628565071625": {
     "jid": "628565071625",
-    "name": "who?",
+    "name": "Fizz",
     "number": "628565071625",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 237800,
+    "exp": 237815,
     "level": 1,
     "koin": 1020019999,
     "unlockedFeatures": [],
@@ -4528,7 +4528,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T08:11:56.743Z",
+    "lastSeen": "2026-11-26T13:11:43.087Z",
     "cooldowns": {
       "sleep": 1780228611833,
       "me": 1794123002671,
@@ -4546,7 +4546,7 @@
       "soulmatch": 1785417903950,
       "ganteng": 1785417947367,
       "hd5": 1786226381732,
-      "s": 1793668860259,
+      "s": 1795698704256,
       "love": 1787654948948,
       "play": 1791685216190,
       "top": 1790422178358,
@@ -4576,8 +4576,8 @@
     "access": [],
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 21,
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 22,
     "customRoles": [
       {
         "name": "Zay BF",
@@ -147729,12 +147729,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 135,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147753,12 +147747,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 135,
     "energi": 99999
   },
   "6289675546758": {
@@ -147771,6 +147763,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
