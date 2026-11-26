@@ -134702,12 +134702,12 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 559677,
+    "exp": 559692,
     "name": "miss",
-    "lastSeen": "2026-11-26T16:30:39.184Z",
+    "lastSeen": "2026-11-26T16:30:51.183Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1795710554715,
+      "casino": 1795710654288,
       "weekly": 1793714130056,
       "daily": 1793750036287,
       "register": 1792984923121,
@@ -134746,7 +134746,7 @@
     },
     "lastActiveDate": "26/11/2026",
     "activeDays": 10,
-    "energi": 99997,
+    "energi": 99996,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134756,7 +134756,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 23805,
+    "koin": 0,
     "inventory": {
       "trash": 0,
       "prawn": 0,
