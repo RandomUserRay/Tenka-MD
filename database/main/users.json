@@ -134693,7 +134693,7 @@
     "jid": "6282128407162",
     "rpg": {
       "stamina": 200,
-      "health": 620,
+      "health": 608,
       "mana": 360,
       "maxHealth": 620,
       "maxMana": 360,
@@ -134702,9 +134702,9 @@
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 559662,
+    "exp": 559677,
     "name": "miss",
-    "lastSeen": "2026-11-26T16:30:29.357Z",
+    "lastSeen": "2026-11-26T16:30:39.184Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1795710554715,
@@ -134723,7 +134723,7 @@
       "quiz": 1793361784336,
       "inventory": 1792992573520,
       "mancing": 1793343952628,
-      "adventure": 1793350540560,
+      "adventure": 1795710641822,
       "xp": 1792987337602,
       "shop": 1792987447094,
       "sell": 1792987418021,
@@ -134746,7 +134746,7 @@
     },
     "lastActiveDate": "26/11/2026",
     "activeDays": 10,
-    "energi": 99998,
+    "energi": 99997,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
