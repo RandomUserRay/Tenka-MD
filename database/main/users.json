@@ -3096,7 +3096,7 @@
     "energi": 99969,
     "isPremium": false,
     "isBanned": false,
-    "exp": 750800,
+    "exp": 750845,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -91522,7 +91522,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74400,
+    "exp": 74415,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -93751,7 +93751,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14520,
+    "exp": 14580,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97552,7 +97552,7 @@
     "energi": 99960,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65569,
+    "exp": 65584,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -99751,7 +99751,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 51420,
+    "exp": 51435,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -130897,7 +130897,7 @@
       "mana": 275,
       "stamina": 275
     },
-    "exp": 352230,
+    "exp": 352260,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-26T06:18:39.450Z",
@@ -146748,7 +146748,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10830,
+    "exp": 10860,
     "energi": 99999
   },
   "6285820164268": {
@@ -147384,7 +147384,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 4140,
+    "exp": 4170,
     "registeredAt": 1795622011542,
     "name": "Hex4goN",
     "lastSeen": "2026-11-26T09:40:58.496Z",
@@ -147864,6 +147864,11 @@
   "6285668070284": {
     "jid": "6285668070284",
     "rpg": {},
-    "exp": 420
+    "exp": 465
+  },
+  "6281916013150": {
+    "jid": "6281916013150",
+    "rpg": {},
+    "exp": 30
   }
 }
