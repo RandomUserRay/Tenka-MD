@@ -35947,10 +35947,10 @@
     "jid": "6282131144804",
     "name": "r.maendr",
     "number": "6282131144804",
-    "energi": 999989,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1078332,
+    "exp": 1078347,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35959,7 +35959,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T00:36:38.241Z",
+    "lastSeen": "2026-11-26T10:17:36.444Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -35985,7 +35985,7 @@
       "hytamkan": 1783788774165,
       "waifutohitam": 1783788616737,
       "owner": 1791636808062,
-      "setwelcome": 1793876883988,
+      "setwelcome": 1795688257004,
       "brat": 1794740282631,
       "bratanime": 1783697700663,
       "bratimg": 1794740292633,
@@ -36280,8 +36280,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 35
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 36
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -147706,12 +147706,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147730,12 +147724,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147748,6 +147740,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
