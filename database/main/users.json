@@ -147760,7 +147760,11 @@
     "name": "Alek Fushiguro",
     "lastSeen": "2026-11-26T13:27:30.767Z",
     "energi": 99998,
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1795699657749
+    },
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 1
   },
   "6289675546758": {
     "jid": "6289675546758",
