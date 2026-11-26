@@ -72030,10 +72030,10 @@
     "jid": "6287811930699",
     "name": "SONy",
     "number": "6287811930699",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 74236,
+    "exp": 74251,
     "level": 1,
     "koin": 18768,
     "unlockedFeatures": [],
@@ -72042,7 +72042,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T10:45:28.212Z",
+    "lastSeen": "2026-11-26T08:42:22.498Z",
     "cooldowns": {
       "allmenu": 1785158983555,
       "carbon": 1784895972889,
@@ -72063,7 +72063,7 @@
       "freelance": 1790851733720,
       "kerja": 1788181561472,
       "live": 1788181403399,
-      "play": 1794076913891,
+      "play": 1795682547701,
       "tambang": 1785145280191,
       "jual": 1788181246623,
       "stickerpack": 1794140613544,
@@ -72131,8 +72131,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 32,
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 33,
     "lastStreamer": 1788181523137
   },
   "6287793883633": {
@@ -147698,12 +147698,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147722,12 +147716,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147740,6 +147732,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
