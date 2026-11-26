@@ -57189,10 +57189,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99993,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19188,
+    "exp": 19173,
     "level": 1,
     "koin": 49982,
     "unlockedFeatures": [],
@@ -57201,7 +57201,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T10:09:35.317Z",
+    "lastSeen": "2026-11-26T10:08:38.598Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57241,7 +57241,7 @@
       "bratsquidward": 1784193932502,
       "bratbahlil": 1784193958859,
       "bratvermeil": 1784193783880,
-      "pakustad": 1795687776098,
+      "pakustad": 1795603609786,
       "tictactoe": 1784202071576,
       "bagaimana": 1784202098772,
       "pinpack": 1784202214917,
@@ -141917,10 +141917,10 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 8970,
+    "exp": 8985,
     "energi": 99999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-26T09:48:14.032Z",
+    "lastSeen": "2026-11-26T10:09:34.124Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -147703,12 +147703,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147727,12 +147721,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147745,6 +147737,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
