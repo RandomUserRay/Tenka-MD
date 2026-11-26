@@ -91047,10 +91047,10 @@
     "jid": "6285147498740",
     "name": "umm",
     "number": "6285147498740",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12270,
+    "exp": 12285,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91060,7 +91060,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T20:37:50.434Z",
+    "lastSeen": "2026-11-26T20:38:57.292Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
@@ -91111,7 +91111,7 @@
       "bratcewek": 1791079696448,
       "pin": 1791122224215,
       "jadibot": 1791389507574,
-      "twitter": 1795246509227
+      "twitter": 1795725538848
     },
     "clanId": null,
     "isRegistered": false,
