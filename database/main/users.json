@@ -6611,7 +6611,7 @@
       "tebaknegara": 1795492981928,
       "cekmalas": 1795493235652,
       "cekgila": 1795588587524,
-      "cekfemboy": 1795588964101
+      "cekfemboy": 1795673893900
     },
     "clanId": null,
     "isRegistered": false,
@@ -6631,8 +6631,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 6
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 7
   },
   "6282265435622": {
     "jid": "6282265435622",
@@ -11694,7 +11694,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43369,
+    "exp": 43399,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11703,10 +11703,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T11:46:38.994Z",
+    "lastSeen": "2026-11-26T06:18:29.836Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1795607201636,
+      "femboy": 1795673912987,
       "handsome": 1781865174539,
       "afk": 1783054537484,
       "tebaknegara": 1783149555979,
@@ -11775,8 +11775,8 @@
     },
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 17,
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 18,
     "fun": {
       "tembakTarget": "628981194866@s.whatsapp.net",
       "tembakCount": 1
@@ -130880,7 +130880,7 @@
       "mana": 275,
       "stamina": 275
     },
-    "exp": 351345,
+    "exp": 351375,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-25T15:53:31.847Z",
@@ -147555,7 +147555,7 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 690,
+    "exp": 705,
     "energi": 99999
   },
   "6285249540697": {
