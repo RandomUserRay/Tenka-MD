@@ -29219,12 +29219,12 @@
   },
   "6285187171485": {
     "jid": "6285187171485",
-    "name": "Ryuu",
+    "name": "ラム",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299036,
+    "exp": 299051,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29235,7 +29235,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-02T08:11:02.692Z",
+    "lastSeen": "2026-11-26T11:47:22.681Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -29402,7 +29402,8 @@
       "bratvid2": 1793354854935,
       "tovid": 1791033422165,
       "stiker": 1790924697960,
-      "stickerpack": 1793607085825
+      "stickerpack": 1793607085825,
+      "pin": 1795693643374
     },
     "clanId": null,
     "isRegistered": false,
@@ -29437,8 +29438,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 32
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 33
   },
   "6285810482980": {
     "jid": "6285810482980",
