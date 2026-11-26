@@ -97534,10 +97534,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64504,
+    "exp": 64519,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97547,7 +97547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T12:44:07.115Z",
+    "lastSeen": "2026-11-26T05:39:19.684Z",
     "cooldowns": {
       "afk": 1795610649693,
       "play": 1795593982652,
@@ -138544,7 +138544,7 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 3165,
+    "exp": 3180,
     "energi": 99989,
     "name": "Azh'khaur",
     "lastSeen": "2026-11-26T05:38:54.159Z",
@@ -138558,10 +138558,11 @@
       "cekumur": 1795588638503,
       "cekmesum": 1795588688726,
       "ceksetia": 1795588779467,
-      "cekoverpower": 1795588847397
+      "cekoverpower": 1795588847397,
+      "saudio": 1795671541706
     },
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 3
   },
   "6282181384842": {
     "jid": "6282181384842",
@@ -147291,7 +147292,7 @@
     "lastSeen": "2026-11-26T05:38:52.267Z",
     "cooldowns": {
       "s": 1795564378591,
-      "saudio": 1795671493842
+      "saudio": 1795671541498
     },
     "energi": 99979,
     "lastActiveDate": "26/11/2026",
