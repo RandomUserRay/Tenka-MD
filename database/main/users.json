@@ -11692,10 +11692,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99993,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43879,
+    "exp": 43834,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11704,7 +11704,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T10:34:21.332Z",
+    "lastSeen": "2026-11-26T10:30:49.903Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1795673912987,
@@ -11752,7 +11752,7 @@
       "toimg": 1790685481294,
       "allmenu": 1791108243922,
       "ytmp4": 1795280202007,
-      "hitamkan": 1795689281935
+      "hitamkan": 1795689070425
     },
     "clanId": null,
     "isRegistered": false,
@@ -97310,13 +97310,13 @@
   },
   "6285817724197": {
     "name": "fael karbu",
-    "lastSeen": "2026-11-25T14:26:52.172Z",
+    "lastSeen": "2026-11-26T10:34:56.791Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5205,
+    "exp": 5250,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97375,7 +97375,10 @@
       "addsender": 1791174434994,
       "owner": 1791174543537,
       "smeme": 1791434227956,
-      "caudiosticker": 1795602397805
+      "caudiosticker": 1795602397805,
+      "harilibur": 1795689262682,
+      "pay": 1795689290064,
+      "shop": 1795689296855
     },
     "clanId": null,
     "isRegistered": false,
@@ -97385,8 +97388,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 30
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 31
   },
   "6285758156410": {
     "jid": "6285758156410",
@@ -147707,6 +147710,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147725,10 +147734,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147741,14 +147752,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
@@ -147810,5 +147813,15 @@
     "energi": 23,
     "lastActiveDate": "26/11/2026",
     "activeDays": 1
+  },
+  "6289601723448": {
+    "jid": "6289601723448",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281212930827": {
+    "jid": "6281212930827",
+    "rpg": {},
+    "exp": 15
   }
 }
