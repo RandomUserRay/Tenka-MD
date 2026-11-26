@@ -3096,7 +3096,7 @@
     "energi": 99975,
     "isPremium": false,
     "isBanned": false,
-    "exp": 747536,
+    "exp": 747551,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -147764,7 +147764,8 @@
     "rpg": {},
     "exp": 45,
     "cooldowns": {
-      "afk": 1795643224226
+      "afk": 1795643224226,
+      "hitamkan": 1795689549386
     },
     "lastActiveDate": "26/11/2026",
     "activeDays": 1,
