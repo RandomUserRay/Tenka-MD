@@ -16892,7 +16892,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 4650,
+    "exp": 4680,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -33735,10 +33735,10 @@
     "jid": "6289654944433",
     "name": "Kiki",
     "number": "6289654944433",
-    "energi": 99999,
+    "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 555799,
+    "exp": 555814,
     "level": 1,
     "koin": 26172,
     "unlockedFeatures": [],
@@ -33747,7 +33747,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-20T11:31:26.105Z",
+    "lastSeen": "2026-11-26T08:24:26.562Z",
     "cooldowns": {
       "allmenu": 1788532388048,
       "jadibot": 1785411094619,
@@ -33995,7 +33995,8 @@
       "absen": 1791035410592,
       "mulaiabsen": 1791035420825,
       "blockblast": 1791268703863,
-      "tt2": 1791548787600
+      "tt2": 1791548787600,
+      "caudiosticker": 1795681498207
     },
     "clanId": null,
     "isRegistered": false,
@@ -34079,8 +34080,8 @@
       "streak": 0,
       "lastFishTime": 0
     },
-    "lastActiveDate": "20/11/2026",
-    "activeDays": 34
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 35
   },
   "6283850963531": {
     "jid": "6283850963531",
@@ -61371,10 +61372,10 @@
     "jid": "6282160628923",
     "name": "eman😹😹",
     "number": "6282160628923",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9735,
+    "exp": 9690,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61383,12 +61384,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T08:24:03.113Z",
+    "lastSeen": "2026-11-26T08:07:39.398Z",
     "cooldowns": {
       "d": 1795243623221,
       "play": 1791550262883,
       "absen": 1795680446276,
-      "s": 1795681453232,
+      "s": 1795610074488,
       "smeme": 1795244257414,
       "mulaiabsen": 1795680459454
     },
@@ -132992,7 +132993,7 @@
     "lastSeen": "2026-11-18T13:27:19.542Z",
     "jid": "6281374953937",
     "rpg": {},
-    "exp": 4875,
+    "exp": 4860,
     "cooldowns": {
       "play": 1793953809931,
       "ytmp4": 1793953727009,
@@ -138959,18 +138960,18 @@
   "6285181045411": {
     "jid": "6285181045411",
     "rpg": {},
-    "exp": 1305,
-    "energi": 99999,
-    "name": "hanya low tier",
-    "lastSeen": "2026-11-14T17:20:52.211Z",
+    "exp": 1320,
+    "energi": 99997,
+    "name": "tung skidibidi",
+    "lastSeen": "2026-11-26T08:24:45.182Z",
     "cooldowns": {
       "femboy": 1793785810857,
-      "femboys": 1794676856519,
+      "femboys": 1795681487377,
       "stiker": 1793814791548,
       "top": 1794045163063
     },
-    "lastActiveDate": "15/11/2026",
-    "activeDays": 4
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 5
   },
   "6285758216422": {
     "jid": "6285758216422",
@@ -147566,7 +147567,7 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 990,
+    "exp": 1020,
     "energi": 99999,
     "name": "joy",
     "lastSeen": "2026-11-26T08:22:38.314Z",
@@ -147696,12 +147697,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147720,12 +147715,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147738,6 +147731,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
