@@ -97541,7 +97541,7 @@
     "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64819,
+    "exp": 64834,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97551,7 +97551,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T07:59:09.735Z",
+    "lastSeen": "2026-11-26T09:12:31.328Z",
     "cooldowns": {
       "afk": 1795671911003,
       "play": 1795593982652,
@@ -97605,7 +97605,8 @@
       "susunkata": 1794826141802,
       "cekpsikopat": 1795410059049,
       "pindl": 1795429949785,
-      "saudio": 1795671636565
+      "saudio": 1795671636565,
+      "kick": 1795684353050
     },
     "clanId": null,
     "isRegistered": false,
