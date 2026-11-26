@@ -1,8 +1,8 @@
 {
   "commandErrors": 710,
-  "commandsExecuted": 147348,
+  "commandsExecuted": 147349,
   "command_totalchat": 28,
-  "command_menu": 2810,
+  "command_menu": 2811,
   "command_fb": 22,
   "command_brat": 1473,
   "command_antidocument": 2,
@@ -262,7 +262,7 @@
   "command_heal": 145,
   "command_work": 1620,
   "command_stat": 10,
-  "command_menucat": 1298,
+  "command_menucat": 1299,
   "command_woodcut": 21,
   "command_ojek": 3,
   "command_maling": 458,
@@ -733,7 +733,7 @@
   "command_femboyvid": 225,
   "command_gayvid": 9,
   "command_tovn": 5,
-  "command_hitamkan": 362,
+  "command_hitamkan": 361,
   "command_toaudio": 40,
   "command_wm": 579,
   "command_cekcupu": 23,
@@ -1500,5 +1500,7 @@
   "command_saudio": 38,
   "command_stikeraudio": 3,
   "command_caudiostiker": 6,
-  "command_sandsummer": 3
+  "command_sandsummer": 3,
+  "command_bluearchive-char": 1,
+  "command_ba": 1
 }
