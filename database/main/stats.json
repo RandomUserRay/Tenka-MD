@@ -7,7 +7,7 @@
   "command_brat": 1473,
   "command_antidocument": 2,
   "command_antimedia": 11,
-  "command_play": 6095,
+  "command_play": 6094,
   "command_setmenu": 22,
   "command_botmode": 21,
   "command_listproduk": 26,
@@ -1498,5 +1498,6 @@
   "command_cekrezeki": 1,
   "command_caudiosticker": 61,
   "command_saudio": 38,
-  "command_stikeraudio": 3
+  "command_stikeraudio": 3,
+  "command_caudiostiker": 1
 }
