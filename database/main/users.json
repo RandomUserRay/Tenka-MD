@@ -130884,7 +130884,7 @@
       "mana": 275,
       "stamina": 275
     },
-    "exp": 351480,
+    "exp": 351495,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-26T06:18:39.450Z",
@@ -143653,7 +143653,7 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 102054,
+    "exp": 102069,
     "name": "JSM",
     "lastSeen": "2026-11-23T10:43:25.161Z",
     "energi": 99999,
@@ -147791,5 +147791,18 @@
     "jid": "6283844791252",
     "rpg": {},
     "exp": 30
+  },
+  "628136741590": {
+    "name": "Imam Aziz",
+    "lastSeen": "2026-11-26T09:14:10.992Z",
+    "jid": "628136741590",
+    "rpg": {},
+    "exp": 15,
+    "cooldowns": {
+      "ytmp4": 1795684454102
+    },
+    "energi": 23,
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 1
   }
 }
