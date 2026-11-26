@@ -134692,19 +134692,19 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 200,
-      "health": 608,
-      "mana": 360,
-      "maxHealth": 620,
-      "maxMana": 360,
-      "maxStamina": 360,
-      "level": 53,
+      "stamina": 380,
+      "health": 660,
+      "mana": 380,
+      "maxHealth": 660,
+      "maxMana": 380,
+      "maxStamina": 380,
+      "level": 57,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 559737,
+    "exp": 560318,
     "name": "miss",
-    "lastSeen": "2026-11-26T16:32:58.675Z",
+    "lastSeen": "2026-11-26T16:33:02.055Z",
     "cooldowns": {
       "menu": 1792986072697,
       "casino": 1795710654288,
@@ -134756,7 +134756,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 0,
+    "koin": 17003,
     "inventory": {
       "trash": 0,
       "prawn": 0,
