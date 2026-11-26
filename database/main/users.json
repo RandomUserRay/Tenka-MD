@@ -3096,7 +3096,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 745601,
+    "exp": 745616,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -11694,7 +11694,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43564,
+    "exp": 43609,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -130656,7 +130656,7 @@
       "stamina": 175,
       "bank": 0
     },
-    "exp": 153930,
+    "exp": 154005,
     "energi": 999999,
     "name": "The Visionary",
     "lastSeen": "2026-11-26T00:44:50.770Z",
@@ -147749,6 +147749,6 @@
   "6285236712419": {
     "jid": "6285236712419",
     "rpg": {},
-    "exp": 555
+    "exp": 570
   }
 }
