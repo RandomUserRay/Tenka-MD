@@ -262,7 +262,7 @@
   "command_heal": 145,
   "command_work": 1620,
   "command_stat": 10,
-  "command_menucat": 1299,
+  "command_menucat": 1298,
   "command_woodcut": 21,
   "command_ojek": 3,
   "command_maling": 458,
@@ -733,7 +733,7 @@
   "command_femboyvid": 225,
   "command_gayvid": 9,
   "command_tovn": 5,
-  "command_hitamkan": 361,
+  "command_hitamkan": 362,
   "command_toaudio": 40,
   "command_wm": 579,
   "command_cekcupu": 23,
@@ -1500,7 +1500,5 @@
   "command_saudio": 38,
   "command_stikeraudio": 3,
   "command_caudiostiker": 6,
-  "command_sandsummer": 3,
-  "command_bluearchive-char": 1,
-  "command_ba": 1
+  "command_sandsummer": 3
 }
