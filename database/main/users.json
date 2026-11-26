@@ -6587,10 +6587,10 @@
     "jid": "6283170610553",
     "name": "π",
     "number": "6283170610553",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9700,
+    "exp": 9685,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -6599,7 +6599,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T09:54:56.339Z",
+    "lastSeen": "2026-11-26T06:18:10.741Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1795438203087,
@@ -6612,8 +6612,7 @@
       "tebaknegara": 1795492981928,
       "cekmalas": 1795493235652,
       "cekgila": 1795588587524,
-      "cekfemboy": 1795673893900,
-      "play": 1795686901083
+      "cekfemboy": 1795673893900
     },
     "clanId": null,
     "isRegistered": false,
@@ -97542,7 +97541,7 @@
     "energi": 99971,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65119,
+    "exp": 65104,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -105962,7 +105961,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14745,
+    "exp": 14910,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -110940,7 +110939,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 11295,
+    "exp": 11400,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -124958,7 +124957,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 8700,
+    "exp": 8745,
     "energi": 99999,
     "name": "-ULO_BOY-🪫🐦‍🔥ᕦ😎ᕤ",
     "lastSeen": "2026-11-06T11:01:10.373Z",
@@ -125046,7 +125045,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 8205,
+    "exp": 8235,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-11-18T13:49:54.548Z",
     "cooldowns": {
@@ -141917,10 +141916,10 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 9030,
-    "energi": 999989,
+    "exp": 8970,
+    "energi": 99999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-26T09:54:42.579Z",
+    "lastSeen": "2026-11-26T09:48:14.032Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -141932,12 +141931,10 @@
       "warn": 1794742616221,
       "resetwarn": 1794395896691,
       "menu": 1795592334144,
-      "owner": 1794737380804,
-      "kick": 1795686843995,
-      "caudiosticker": 1795686900169
+      "owner": 1794737380804
     },
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 9,
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 8,
     "fun": {
       "tembakTarget": "6289671886267@s.whatsapp.net",
       "tembakCount": 1
@@ -143066,7 +143063,7 @@
       "mana": 125,
       "stamina": 125
     },
-    "exp": 56572,
+    "exp": 56512,
     "name": "ejaa",
     "lastSeen": "2026-11-25T11:37:25.370Z",
     "energi": 99999,
@@ -147704,6 +147701,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147722,10 +147725,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147738,14 +147743,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
