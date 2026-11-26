@@ -97534,10 +97534,10 @@
     "jid": "6283139380069",
     "name": "shiro",
     "number": "6283139380069",
-    "energi": 99989,
+    "energi": 99979,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64519,
+    "exp": 64534,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97547,7 +97547,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T05:39:19.684Z",
+    "lastSeen": "2026-11-26T05:40:30.034Z",
     "cooldowns": {
       "afk": 1795610649693,
       "play": 1795593982652,
@@ -97600,7 +97600,8 @@
       "susun": 1794826100595,
       "susunkata": 1794826141802,
       "cekpsikopat": 1795410059049,
-      "pindl": 1795429949785
+      "pindl": 1795429949785,
+      "saudio": 1795671636565
     },
     "clanId": null,
     "isRegistered": false,
@@ -97619,8 +97620,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 57
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 58
   },
   "6285814414356": {
     "jid": "6285814414356",
