@@ -6586,10 +6586,10 @@
     "jid": "6283170610553",
     "name": "π",
     "number": "6283170610553",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9505,
+    "exp": 9490,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -6598,14 +6598,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T00:27:13.747Z",
+    "lastSeen": "2026-11-26T00:18:37.384Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1795438203087,
       "bank": 1780831741223,
       "menu": 1795588406921,
       "menucat": 1795588436883,
-      "s": 1795652834748,
+      "s": 1794225511091,
       "susunkata": 1795492740714,
       "tebakjkt48": 1795492854514,
       "tebaknegara": 1795492981928,
@@ -6631,8 +6631,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 7
+    "lastActiveDate": "25/11/2026",
+    "activeDays": 6
   },
   "6282265435622": {
     "jid": "6282265435622",
@@ -34880,7 +34880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295575,
+    "exp": 295605,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -36831,7 +36831,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233000,
+    "exp": 233015,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -147074,7 +147074,7 @@
   "6282348638639": {
     "jid": "6282348638639",
     "rpg": {},
-    "exp": 1350,
+    "exp": 1335,
     "energi": 99999
   },
   "6287747500914": {
@@ -147647,6 +147647,12 @@
     "exp": 30,
     "energi": 99999
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147665,10 +147671,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147681,14 +147689,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
