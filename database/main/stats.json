@@ -1,13 +1,13 @@
 {
   "commandErrors": 710,
-  "commandsExecuted": 147351,
+  "commandsExecuted": 147350,
   "command_totalchat": 28,
   "command_menu": 2811,
   "command_fb": 22,
   "command_brat": 1473,
   "command_antidocument": 2,
   "command_antimedia": 11,
-  "command_play": 6130,
+  "command_play": 6131,
   "command_setmenu": 22,
   "command_botmode": 21,
   "command_listproduk": 26,
@@ -262,7 +262,7 @@
   "command_heal": 145,
   "command_work": 1620,
   "command_stat": 10,
-  "command_menucat": 1300,
+  "command_menucat": 1299,
   "command_woodcut": 21,
   "command_ojek": 3,
   "command_maling": 458,
@@ -1502,6 +1502,5 @@
   "command_caudiostiker": 6,
   "command_sandsummer": 3,
   "command_bluearchive-char": 1,
-  "command_ba": 1,
-  "command_musiccard": 1
+  "command_ba": 1
 }
