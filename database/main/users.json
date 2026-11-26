@@ -16198,7 +16198,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9403007,
+    "exp": 9403037,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34880,7 +34880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296100,
+    "exp": 296160,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34889,7 +34889,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T00:49:35.060Z",
+    "lastSeen": "2026-11-26T00:50:55.405Z",
     "cooldowns": {
       "ping": 1782994512723,
       "bego": 1782994588639,
@@ -34982,7 +34982,7 @@
       "neko": 1784204742048,
       "redeem": 1784205949724,
       "lirik": 1786689060415,
-      "all": 1786689154300,
+      "all": 1795654234343,
       "hd": 1786874235070,
       "hd2": 1786874317386
     },
@@ -34992,7 +34992,7 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "stamina": 245,
+      "stamina": 220,
       "health": 390,
       "bank": 8308,
       "level": 30,
@@ -144820,7 +144820,7 @@
   "6283138871360": {
     "jid": "6283138871360",
     "rpg": {},
-    "exp": 840,
+    "exp": 825,
     "name": "muha-madha dhaffaella ash",
     "lastSeen": "2026-11-14T11:15:01.633Z",
     "cooldowns": {
@@ -147648,6 +147648,12 @@
     "exp": 30,
     "energi": 99999
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147666,10 +147672,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147682,14 +147690,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
