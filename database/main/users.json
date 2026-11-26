@@ -130672,7 +130672,7 @@
       "stamina": 175,
       "bank": 0
     },
-    "exp": 157605,
+    "exp": 157830,
     "energi": 9996,
     "name": "The Visionary",
     "lastSeen": "2026-11-26T11:23:28.179Z",
@@ -134692,22 +134692,22 @@
   "6282128407162": {
     "jid": "6282128407162",
     "rpg": {
-      "stamina": 380,
-      "health": 660,
-      "mana": 380,
-      "maxHealth": 660,
-      "maxMana": 380,
-      "maxStamina": 380,
-      "level": 57,
+      "stamina": 230,
+      "health": 620,
+      "mana": 360,
+      "maxHealth": 620,
+      "maxMana": 360,
+      "maxStamina": 360,
+      "level": 53,
       "attack": 10,
       "lastHourly": 1793012751892
     },
-    "exp": 564886,
+    "exp": 557919,
     "name": "miss",
-    "lastSeen": "2026-11-26T16:27:27.800Z",
+    "lastSeen": "2026-11-17T03:13:31.885Z",
     "cooldowns": {
       "menu": 1792986072697,
-      "casino": 1795710386540,
+      "casino": 1794885212706,
       "weekly": 1793714130056,
       "daily": 1793750036287,
       "register": 1792984923121,
@@ -134718,9 +134718,9 @@
       "top": 1793750065071,
       "help": 1792985748534,
       "burung": 1792985824005,
-      "job": 1795710376399,
+      "job": 1793470466692,
       "susunkata": 1792985996374,
-      "quiz": 1795710447951,
+      "quiz": 1793361784336,
       "inventory": 1792992573520,
       "mancing": 1793343952628,
       "adventure": 1793350540560,
@@ -134731,8 +134731,8 @@
       "dungeon": 1793343049663,
       "nikah": 1793012484545,
       "me": 1792998194636,
-      "inv": 1795710353629,
-      "streamer": 1795710363492,
+      "inv": 1793879911542,
+      "streamer": 1793792731809,
       "tebakkata": 1793012297481,
       "woodcut": 1793012361148,
       "freelance": 1793012374505,
@@ -134744,9 +134744,9 @@
       "nulis": 1793012949751,
       "exp": 1793343069889
     },
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 10,
-    "energi": 100010,
+    "lastActiveDate": "17/11/2026",
+    "activeDays": 9,
+    "energi": 99999,
     "isRegistered": true,
     "regName": "misss",
     "regAge": 77,
@@ -134756,7 +134756,7 @@
     "registrationCount": 1,
     "hasClaimedRegisterReward": true,
     "unregisteredAt": null,
-    "koin": 37187,
+    "koin": 0,
     "inventory": {
       "trash": 0,
       "prawn": 0,
@@ -135298,7 +135298,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26820,
+    "exp": 26895,
     "energi": 99998,
     "name": "Z.𝕱𝕴𝕽𝖅𝕬",
     "lastSeen": "2026-11-26T05:21:07.219Z",
@@ -147740,12 +147740,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 135,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147764,12 +147758,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 135,
     "energi": 99999
   },
   "6289675546758": {
@@ -147782,6 +147774,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
