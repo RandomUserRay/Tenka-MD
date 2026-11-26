@@ -57189,10 +57189,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99996,
+    "energi": 99994,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19143,
+    "exp": 19158,
     "level": 1,
     "koin": 49982,
     "unlockedFeatures": [],
@@ -57201,7 +57201,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T10:06:25.291Z",
+    "lastSeen": "2026-11-26T10:06:45.540Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57261,7 +57261,8 @@
       "streamer": 1795615772635,
       "claninvite": 1795615825765,
       "clan": 1795615845213,
-      "guild": 1795615927136
+      "guild": 1795615927136,
+      "stickerpack": 1795687605637
     },
     "clanId": "TOM",
     "isRegistered": false,
