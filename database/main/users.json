@@ -1,7 +1,7 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-26T05:35:40.840Z",
+    "lastSeen": "2026-11-26T05:35:55.627Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
@@ -97537,7 +97537,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64459,
+    "exp": 64489,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -106649,10 +106649,10 @@
     "jid": "6285717515172",
     "name": "Thiryzty X Wanzty",
     "number": "6285717515172",
-    "energi": 99995,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 278720,
+    "exp": 278750,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -106662,7 +106662,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T05:30:36.458Z",
+    "lastSeen": "2026-11-26T05:35:52.740Z",
     "cooldowns": {
       "menu": 1794629314037,
       "owner": 1793769454839,
@@ -106738,7 +106738,8 @@
       "pin": 1794059635048,
       "s": 1794059819792,
       "brathd": 1794750968966,
-      "caudiosticker": 1795601577678
+      "caudiosticker": 1795601577678,
+      "tt": 1795671334224
     },
     "clanId": null,
     "isRegistered": false,
@@ -130645,7 +130646,7 @@
       "stamina": 175,
       "bank": 0
     },
-    "exp": 151080,
+    "exp": 151305,
     "energi": 999999,
     "name": "The Visionary",
     "lastSeen": "2026-11-26T00:44:50.770Z",
@@ -130869,7 +130870,7 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 349845,
+    "exp": 349875,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-25T15:53:31.847Z",
@@ -147285,7 +147286,7 @@
   "6289677535930": {
     "jid": "6289677535930",
     "rpg": {},
-    "exp": 1635,
+    "exp": 1650,
     "name": "Kranky kranky",
     "lastSeen": "2026-11-24T23:52:58.517Z",
     "cooldowns": {
@@ -147651,12 +147652,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147675,12 +147670,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147693,6 +147686,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
