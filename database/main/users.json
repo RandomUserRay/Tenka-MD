@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-26T08:58:11.110Z",
+    "lastSeen": "2026-11-26T09:28:47.283Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000258459,
+    "exp": 9000258534,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3523,10 +3523,10 @@
     "jid": "6282135848247",
     "name": "Vyra o_0",
     "number": "6282135848247",
-    "energi": 99994,
+    "energi": 99993,
     "isPremium": false,
     "isBanned": false,
-    "exp": 453129,
+    "exp": 453144,
     "level": 1,
     "koin": 15682,
     "unlockedFeatures": [],
@@ -3535,7 +3535,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T09:26:57.034Z",
+    "lastSeen": "2026-11-26T09:27:07.900Z",
     "cooldowns": {
       "femboy": 1795685113333,
       "profile": 1794825363649,
@@ -3547,7 +3547,7 @@
       "me": 1794825695430,
       "work": 1794825733233,
       "topixel": 1781183602489,
-      "play": 1795685150862,
+      "play": 1795685233089,
       "kiss": 1782457615417,
       "slap": 1794825758639,
       "level": 1781266941070,
@@ -61372,10 +61372,10 @@
     "jid": "6282160628923",
     "name": "eman😹😹",
     "number": "6282160628923",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9735,
+    "exp": 9720,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61384,12 +61384,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T09:27:58.050Z",
+    "lastSeen": "2026-11-26T08:07:39.398Z",
     "cooldowns": {
       "d": 1795243623221,
       "play": 1791550262883,
       "absen": 1795680446276,
-      "s": 1795685279546,
+      "s": 1795610074488,
       "smeme": 1795244257414,
       "mulaiabsen": 1795680459454
     },
@@ -97541,7 +97541,7 @@
     "energi": 99975,
     "isPremium": false,
     "isBanned": false,
-    "exp": 64984,
+    "exp": 64999,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -147701,12 +147701,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147725,12 +147719,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147743,6 +147735,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
