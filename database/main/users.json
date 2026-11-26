@@ -6589,7 +6589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9505,
+    "exp": 9520,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -6858,7 +6858,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 63140,
+    "exp": 63155,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -16195,10 +16195,10 @@
     "jid": "6285753061976",
     "name": "bct",
     "number": "6285753061976",
-    "energi": 99997,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9403127,
+    "exp": 9403037,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -16207,7 +16207,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T00:51:48.943Z",
+    "lastSeen": "2026-11-26T00:20:39.119Z",
     "cooldowns": {
       "spotify": 1785217333353,
       "stopjadibot": 1781511201058,
@@ -16236,7 +16236,7 @@
       "ping2": 1782707255796,
       "caribug": 1782707328203,
       "peak": 1782707424186,
-      "bank": 1795654287492,
+      "bank": 1789568311682,
       "rob": 1783059462716,
       "slot": 1789476459691,
       "work": 1789999434571,
@@ -16319,7 +16319,7 @@
       "nsfwloli": 1789488712321,
       "topexp": 1789473657450,
       "femboys": 1783004071467,
-      "duel": 1795654281190,
+      "duel": 1789473635005,
       "bored": 1782997846750,
       "hentaivid": 1789490167454,
       "hentai": 1783488217313,
@@ -16498,8 +16498,8 @@
     },
     "fun": {},
     "saldo": 0,
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 52
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 51
   },
   "62895331392055": {
     "jid": "62895331392055",
@@ -34880,7 +34880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 296280,
+    "exp": 296160,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -91514,7 +91514,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 73830,
+    "exp": 73860,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100905,7 +100905,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1785,
+    "exp": 1800,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -144195,7 +144195,7 @@
   "6281586516622": {
     "jid": "6281586516622",
     "rpg": {},
-    "exp": 2265,
+    "exp": 2280,
     "energi": 99999,
     "name": "bread",
     "lastSeen": "2026-11-12T08:55:51.247Z",
@@ -147648,12 +147648,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147672,12 +147666,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147690,6 +147682,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
