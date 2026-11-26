@@ -16200,7 +16200,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9403877,
+    "exp": 9403862,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -36835,7 +36835,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233480,
+    "exp": 233465,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -91366,7 +91366,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 31114,
+    "exp": 31144,
     "level": 1,
     "koin": 7602,
     "saldo": 0,
@@ -122973,7 +122973,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 29295,
+    "exp": 29310,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-23T06:57:13.025Z",
@@ -127173,7 +127173,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25230,
+    "exp": 25245,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-21T15:09:36.258Z",
@@ -147752,12 +147752,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147776,12 +147770,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 150,
     "energi": 99999
   },
   "6289675546758": {
@@ -147794,6 +147786,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
