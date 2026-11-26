@@ -97310,13 +97310,13 @@
   },
   "6285817724197": {
     "name": "fael karbu",
-    "lastSeen": "2026-11-26T10:34:56.791Z",
+    "lastSeen": "2026-11-26T10:35:25.570Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99998,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5250,
+    "exp": 5265,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97378,7 +97378,8 @@
       "caudiosticker": 1795602397805,
       "harilibur": 1795689262682,
       "pay": 1795689290064,
-      "shop": 1795689296855
+      "shop": 1795689296855,
+      "bluearchive-char": 1795689325663
     },
     "clanId": null,
     "isRegistered": false,
