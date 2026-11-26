@@ -3093,10 +3093,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99985,
+    "energi": 99986,
     "isPremium": false,
     "isBanned": false,
-    "exp": 747251,
+    "exp": 747236,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3105,7 +3105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T09:22:07.204Z",
+    "lastSeen": "2026-11-26T08:14:43.418Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3163,7 +3163,7 @@
       "onlynsfw": 1782917368455,
       "redeem": 1783176436583,
       "job": 1782983146136,
-      "play": 1795684932821,
+      "play": 1795679568043,
       "tebaknegara": 1787747090717,
       "kicks": 1795679734648,
       "cekkhodam": 1783062546427,
@@ -61372,10 +61372,10 @@
     "jid": "6282160628923",
     "name": "eman😹😹",
     "number": "6282160628923",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9720,
+    "exp": 9735,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61384,13 +61384,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T08:07:39.398Z",
+    "lastSeen": "2026-11-26T09:22:57.266Z",
     "cooldowns": {
       "d": 1795243623221,
       "play": 1791550262883,
       "absen": 1795680446276,
       "s": 1795610074488,
-      "smeme": 1795244257414,
+      "smeme": 1795684981858,
       "mulaiabsen": 1795680459454
     },
     "clanId": null,
@@ -105961,7 +105961,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14745,
+    "exp": 14760,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -130775,10 +130775,10 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 55465,
-    "energi": 99985,
+    "exp": 55420,
+    "energi": 99987,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-26T09:22:12.379Z",
+    "lastSeen": "2026-11-26T09:21:01.206Z",
     "cooldowns": {
       "pin": 1795258910832,
       "menu": 1794827590743,
@@ -130787,7 +130787,7 @@
       "cekmesum": 1793301924656,
       "femboy": 1795258742363,
       "afk": 1795623705055,
-      "play": 1795684937366,
+      "play": 1795684830760,
       "s": 1795423828368,
       "level": 1793703999316,
       "allmenu": 1793711394408,
@@ -142669,7 +142669,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24536,
+    "exp": 24506,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
@@ -147701,6 +147701,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147719,10 +147725,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147735,14 +147743,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
