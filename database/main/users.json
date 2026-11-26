@@ -61374,7 +61374,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9675,
+    "exp": 9690,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61383,13 +61383,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T08:07:25.647Z",
+    "lastSeen": "2026-11-26T08:07:39.398Z",
     "cooldowns": {
       "d": 1795243623221,
       "play": 1791550262883,
       "absen": 1795680446276,
       "s": 1795610074488,
-      "smeme": 1795244257414
+      "smeme": 1795244257414,
+      "mulaiabsen": 1795680459454
     },
     "clanId": null,
     "isRegistered": false,
