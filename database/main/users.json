@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-26T07:13:23.496Z",
+    "lastSeen": "2026-11-26T07:07:48.554Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000257784,
+    "exp": 9000257484,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3096,7 +3096,7 @@
     "energi": 99989,
     "isPremium": false,
     "isBanned": false,
-    "exp": 746051,
+    "exp": 746036,
     "level": 1,
     "koin": 200000,
     "unlockedFeatures": [],
@@ -57191,7 +57191,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19083,
+    "exp": 19143,
     "level": 1,
     "koin": 49982,
     "unlockedFeatures": [],
@@ -57200,7 +57200,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T22:20:14.862Z",
+    "lastSeen": "2026-11-26T07:12:59.640Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
@@ -57260,7 +57260,8 @@
       "streamer": 1795615772635,
       "claninvite": 1795615825765,
       "clan": 1795615845213,
-      "guild": 1795615927136
+      "guild": 1795615927136,
+      "rpg": 1795677180329
     },
     "clanId": "TOM",
     "isRegistered": false,
@@ -58515,7 +58516,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7065,
+    "exp": 7095,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58524,7 +58525,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T22:20:54.748Z",
+    "lastSeen": "2026-11-26T07:13:18.507Z",
     "cooldowns": {
       "play": 1788342162777,
       "lirik": 1784020192213,
@@ -127151,7 +127152,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 24930,
+    "exp": 24870,
     "energi": 99999,
     "name": "Sins keren",
     "lastSeen": "2026-11-21T15:09:36.258Z",
@@ -130772,7 +130773,7 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 54925,
+    "exp": 54910,
     "energi": 99992,
     "name": "Nero Aditya",
     "lastSeen": "2026-11-26T07:09:47.145Z",
@@ -144381,7 +144382,7 @@
     "lastSeen": "2026-11-10T12:38:07.754Z",
     "jid": "6283140460210",
     "rpg": {},
-    "exp": 5400,
+    "exp": 5475,
     "lastActiveDate": "10/11/2026",
     "activeDays": 1,
     "energi": 99999
@@ -147666,6 +147667,12 @@
     "exp": 75,
     "energi": 99999
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147684,10 +147691,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147700,14 +147709,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
