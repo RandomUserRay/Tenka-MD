@@ -4087,7 +4087,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 102735,
+    "exp": 102750,
     "level": 1,
     "koin": 17577472,
     "unlockedFeatures": [],
@@ -16198,7 +16198,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9402677,
+    "exp": 9402647,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34880,7 +34880,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295740,
+    "exp": 295665,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -147647,12 +147647,6 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147671,12 +147665,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147689,6 +147681,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
