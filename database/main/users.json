@@ -3096,7 +3096,7 @@
     "energi": 99969,
     "isPremium": false,
     "isBanned": false,
-    "exp": 750290,
+    "exp": 750305,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -97551,7 +97551,7 @@
     "energi": 99970,
     "isPremium": false,
     "isBanned": false,
-    "exp": 65194,
+    "exp": 65209,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -141899,7 +141899,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 12756,
+    "exp": 12771,
     "energi": 99999,
     "name": "Juice",
     "lastSeen": "2026-11-16T11:45:05.008Z",
@@ -147842,6 +147842,11 @@
   },
   "6285150849339": {
     "jid": "6285150849339",
+    "rpg": {},
+    "exp": 30
+  },
+  "6283865990104": {
+    "jid": "6283865990104",
     "rpg": {},
     "exp": 30
   }
