@@ -1,6 +1,6 @@
 {
   "commandErrors": 710,
-  "commandsExecuted": 147347,
+  "commandsExecuted": 147348,
   "command_totalchat": 28,
   "command_menu": 2810,
   "command_fb": 22,
@@ -1501,5 +1501,6 @@
   "command_stikeraudio": 3,
   "command_caudiostiker": 6,
   "command_sandsummer": 3,
-  "command_bluearchive-char": 1
+  "command_bluearchive-char": 1,
+  "command_ba": 1
 }
