@@ -3526,7 +3526,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 453174,
+    "exp": 453189,
     "level": 1,
     "koin": 15682,
     "unlockedFeatures": [],
@@ -22846,10 +22846,10 @@
     "jid": "6289677467174",
     "name": "Lixxya :3",
     "number": "6289677467174",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 29872,
+    "exp": 29887,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -22858,7 +22858,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-25T12:58:21.960Z",
+    "lastSeen": "2026-11-26T22:40:58.602Z",
     "cooldowns": {
       "me": 1783409070254,
       "jodoh": 1782632804137,
@@ -22889,7 +22889,7 @@
       "yurivid": 1793209442403,
       "naked": 1794542195097,
       "hd": 1794031853208,
-      "smeme": 1794594308600,
+      "smeme": 1795732861713,
       "saudio": 1795611563202
     },
     "clanId": null,
@@ -22915,8 +22915,8 @@
       "jadiPacar": 1786871525605,
       "terimaCount": 1
     },
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 14
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 15
   },
   "6281370701148": {
     "jid": "6281370701148",
@@ -93752,7 +93752,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 14985,
+    "exp": 15000,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97550,10 +97550,10 @@
     "jid": "6283139380069",
     "name": "shiro (／。＼)",
     "number": "6283139380069",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66004,
+    "exp": 66034,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97563,11 +97563,11 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T16:04:05.123Z",
+    "lastSeen": "2026-11-26T22:41:25.325Z",
     "cooldowns": {
       "afk": 1795671911003,
       "play": 1795690483813,
-      "smeme": 1795709049988,
+      "smeme": 1795732828408,
       "s": 1795707333847,
       "menu": 1795429835254,
       "menucat": 1795429828624,
@@ -97637,8 +97637,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 58
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 59
   },
   "6285814414356": {
     "jid": "6285814414356",
@@ -141387,7 +141387,7 @@
   "6281929024810": {
     "jid": "6281929024810",
     "rpg": {},
-    "exp": 210,
+    "exp": 195,
     "energi": 99999
   },
   "6285520705826": {
@@ -147639,7 +147639,7 @@
   "6285199112317": {
     "jid": "6285199112317",
     "rpg": {},
-    "exp": 1095,
+    "exp": 975,
     "energi": 99999,
     "name": "Vakum",
     "lastSeen": "2026-11-26T12:21:20.651Z"
@@ -147680,7 +147680,7 @@
   "6281930716035": {
     "jid": "6281930716035",
     "rpg": {},
-    "exp": 435,
+    "exp": 405,
     "energi": 99999
   },
   "6282352440876": {
@@ -147751,12 +147751,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147775,12 +147769,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 150,
     "energi": 99999
   },
   "6289675546758": {
@@ -147793,6 +147785,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
