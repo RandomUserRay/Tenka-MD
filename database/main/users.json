@@ -3093,10 +3093,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 99973,
+    "energi": 99975,
     "isPremium": false,
     "isBanned": false,
-    "exp": 747551,
+    "exp": 747536,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -3105,7 +3105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T10:36:09.762Z",
+    "lastSeen": "2026-11-26T10:33:14.305Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3171,7 +3171,7 @@
       "rfemboyvid": 1783239608583,
       "furryvid": 1783229351946,
       "hytamkan": 1783777396215,
-      "hitamkan": 1795689389896,
+      "hitamkan": 1795689214663,
       "slot": 1785674419517,
       "ojek": 1785162024404,
       "ojol": 1788080869595,
@@ -11692,10 +11692,10 @@
     "jid": "6283867242353",
     "name": "Zhao Fey",
     "number": "6283867242353",
-    "energi": 99992,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 43894,
+    "exp": 43834,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11704,7 +11704,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T10:36:10.538Z",
+    "lastSeen": "2026-11-26T10:30:49.903Z",
     "cooldowns": {
       "ww": 1780828288017,
       "femboy": 1795673912987,
@@ -11752,7 +11752,7 @@
       "toimg": 1790685481294,
       "allmenu": 1791108243922,
       "ytmp4": 1795280202007,
-      "hitamkan": 1795689281935
+      "hitamkan": 1795689070425
     },
     "clanId": null,
     "isRegistered": false,
@@ -97310,13 +97310,13 @@
   },
   "6285817724197": {
     "name": "fael karbu",
-    "lastSeen": "2026-11-25T14:26:52.172Z",
+    "lastSeen": "2026-11-26T10:36:30.031Z",
     "jid": "6285817724197",
     "number": "6285817724197",
-    "energi": 99999,
+    "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 5205,
+    "exp": 5340,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -97334,7 +97334,7 @@
       "del": 1787658285091,
       "swgc": 1787658518064,
       "bratvid": 1788916698372,
-      "menu": 1795602268461,
+      "menu": 1795689391713,
       "d": 1787839799290,
       "hentai": 1789655460929,
       "onlynsfw": 1787839903379,
@@ -97353,7 +97353,7 @@
       "hytamkan": 1789440210635,
       "wm": 1789646097708,
       "stacktower": 1788183945146,
-      "menucat": 1791174422268,
+      "menucat": 1795689380424,
       "ytmp4": 1789742299556,
       "playvid": 1789385292570,
       "s": 1789702927648,
@@ -97375,7 +97375,12 @@
       "addsender": 1791174434994,
       "owner": 1791174543537,
       "smeme": 1791434227956,
-      "caudiosticker": 1795602397805
+      "caudiosticker": 1795602397805,
+      "harilibur": 1795689262682,
+      "pay": 1795689290064,
+      "shop": 1795689296855,
+      "bluearchive-char": 1795689325663,
+      "ba": 1795689349118
     },
     "clanId": null,
     "isRegistered": false,
@@ -97385,8 +97390,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 30
+    "lastActiveDate": "26/11/2026",
+    "activeDays": 31
   },
   "6285758156410": {
     "jid": "6285758156410",
@@ -135671,16 +135676,16 @@
   "6289524326679": {
     "jid": "6289524326679",
     "rpg": {},
-    "exp": 1350,
-    "energi": 99977,
+    "exp": 1335,
+    "energi": 99978,
     "name": "Sylphiette Greyrat",
-    "lastSeen": "2026-11-26T10:35:49.217Z",
+    "lastSeen": "2026-11-26T10:24:37.054Z",
     "cooldowns": {
       "ytmp4": 1795564653090,
       "menu": 1795623923485,
       "menucat": 1793165697378,
       "totalfitur": 1793165722697,
-      "play": 1795689354522,
+      "play": 1795688683828,
       "ping": 1795623471149,
       "afk": 1795625115842
     },
@@ -147599,7 +147604,7 @@
   "6285199112317": {
     "jid": "6285199112317",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 99999
   },
   "6288226044206": {
@@ -147707,6 +147712,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147725,10 +147736,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147741,14 +147754,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
@@ -147810,5 +147815,15 @@
     "energi": 23,
     "lastActiveDate": "26/11/2026",
     "activeDays": 1
+  },
+  "6289601723448": {
+    "jid": "6289601723448",
+    "rpg": {},
+    "exp": 15
+  },
+  "6281212930827": {
+    "jid": "6281212930827",
+    "rpg": {},
+    "exp": 30
   }
 }
