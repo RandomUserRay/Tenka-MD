@@ -29221,10 +29221,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99997,
+    "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299051,
+    "exp": 299066,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29235,7 +29235,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T11:47:22.681Z",
+    "lastSeen": "2026-11-26T11:47:42.318Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -141929,7 +141929,7 @@
   "6285196007841": {
     "jid": "6285196007841",
     "rpg": {},
-    "exp": 9090,
+    "exp": 9120,
     "energi": 999989,
     "name": "Finzz Str",
     "lastSeen": "2026-11-26T10:12:00.305Z",
