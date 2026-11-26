@@ -1,6 +1,6 @@
 {
   "commandErrors": 710,
-  "commandsExecuted": 147207,
+  "commandsExecuted": 147206,
   "command_totalchat": 28,
   "command_menu": 2805,
   "command_fb": 22,
@@ -18,7 +18,7 @@
   "command_hapusproduk": 3,
   "command_done": 9,
   "command_ping": 370,
-  "command_tt": 1425,
+  "command_tt": 1424,
   "command_list": 22,
   "command_addlist": 3,
   "command_hapuslist": 2,
@@ -788,7 +788,7 @@
   "command_plugindisable": 4,
   "command_notifmakan": 47,
   "command_cave": 4,
-  "command_rpg": 35,
+  "command_rpg": 36,
   "command_setgoodbye": 48,
   "command_resetgoodbye": 6,
   "command_pacar": 41,
@@ -1497,6 +1497,6 @@
   "command_asah": 4,
   "command_cekrezeki": 1,
   "command_caudiosticker": 58,
-  "command_saudio": 37,
+  "command_saudio": 36,
   "command_stikeraudio": 3
 }
