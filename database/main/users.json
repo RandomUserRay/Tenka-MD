@@ -6589,7 +6589,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9505,
+    "exp": 9490,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -16198,7 +16198,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9402392,
+    "exp": 9402422,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34875,12 +34875,12 @@
   },
   "6282221996953": {
     "jid": "6282221996953",
-    "name": "Hihu",
+    "name": "padil",
     "number": "6282221996953",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 295125,
+    "exp": 295155,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -34889,7 +34889,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-23T00:13:20.390Z",
+    "lastSeen": "2026-11-26T00:19:31.501Z",
     "cooldowns": {
       "ping": 1782994512723,
       "bego": 1782994588639,
@@ -147645,6 +147645,12 @@
     "exp": 30,
     "energi": 99999
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 90,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147663,10 +147669,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 90,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147679,14 +147687,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
