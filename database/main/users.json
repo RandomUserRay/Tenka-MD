@@ -57189,10 +57189,10 @@
     "jid": "6282213423907",
     "name": "hanz",
     "number": "6282213423907",
-    "energi": 99998,
+    "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 19098,
+    "exp": 19083,
     "level": 1,
     "koin": 49982,
     "unlockedFeatures": [],
@@ -57201,14 +57201,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T09:59:33.431Z",
+    "lastSeen": "2026-11-25T22:20:14.862Z",
     "cooldowns": {
       "siapa": 1787623380343,
       "tidur": 1783953896752,
       "ngemis": 1783951055610,
       "femboy": 1783950983156,
       "gojo": 1783953215203,
-      "play": 1795687179781,
+      "play": 1788341924362,
       "meme": 1784020719584,
       "sticker": 1783951257284,
       "s": 1784197155731,
@@ -105961,7 +105961,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15120,
+    "exp": 15090,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -125045,7 +125045,7 @@
   "6285177316497": {
     "jid": "6285177316497",
     "rpg": {},
-    "exp": 8280,
+    "exp": 8265,
     "name": "Domenic Siringoringo",
     "lastSeen": "2026-11-18T13:49:54.548Z",
     "cooldowns": {
@@ -139216,7 +139216,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17745,
+    "exp": 17760,
     "energi": 99999,
     "name": "kenal pot?",
     "lastSeen": "2026-11-25T12:26:47.410Z",
@@ -147701,12 +147701,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 90,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147725,12 +147719,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 90,
     "energi": 99999
   },
   "6289675546758": {
@@ -147743,6 +147735,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
