@@ -141965,10 +141965,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14032,
-    "energi": 1000003,
+    "exp": 14077,
+    "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-27T07:49:25.454Z",
+    "lastSeen": "2026-11-27T11:09:48.553Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -141984,7 +141984,8 @@
       "caudiosticker": 1795687929825,
       "setwelcome": 1795753687605,
       "antiswgc": 1795753724348,
-      "notifclosegroup": 1795756726738
+      "notifclosegroup": 1795756726738,
+      "level": 1795777788597
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 10,
@@ -146764,12 +146765,12 @@
   "6287758401494": {
     "jid": "6287758401494",
     "rpg": {},
-    "exp": 2640,
+    "exp": 2655,
     "energi": 999998,
     "name": "iyan",
-    "lastSeen": "2026-11-27T11:09:30.356Z",
+    "lastSeen": "2026-11-27T11:09:43.115Z",
     "cooldowns": {
-      "s": 1795777771003,
+      "s": 1795777783688,
       "smeme": 1795400912021
     },
     "lastActiveDate": "27/11/2026",
@@ -148086,13 +148087,14 @@
   },
   "6285284835843": {
     "name": "~ SOMEONE",
-    "lastSeen": "2026-11-27T11:08:26.866Z",
+    "lastSeen": "2026-11-27T11:10:01.808Z",
     "jid": "6285284835843",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "energi": 999999,
     "cooldowns": {
-      "menu": 1795777707565
+      "menu": 1795777707565,
+      "owner": 1795777804072
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 1
