@@ -16204,7 +16204,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9404192,
+    "exp": 9404162,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -27157,12 +27157,12 @@
   },
   "6283181407349": {
     "jid": "6283181407349",
-    "name": "Dyo Robben Jowni Nababan",
+    "name": "Robben",
     "number": "6283181407349",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 185166,
+    "exp": 185106,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27171,7 +27171,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T12:32:49.392Z",
+    "lastSeen": "2026-11-19T07:42:59.416Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -27195,7 +27195,7 @@
       "pakustad": 1788354793905,
       "h": 1791285984156,
       "kick": 1791683997429,
-      "p": 1795782770430,
+      "p": 1793696033208,
       "mutegc": 1784883707440,
       "unmutegc": 1783738607801,
       "hytamkan": 1785385527679,
@@ -27301,8 +27301,8 @@
     "access": [],
     "birthday": "02-10",
     "saldo": 0,
-    "lastActiveDate": "27/11/2026",
-    "activeDays": 25
+    "lastActiveDate": "19/11/2026",
+    "activeDays": 24
   },
   "6285643414265": {
     "jid": "6285643414265",
@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080342,
+    "exp": 1080387,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -36839,7 +36839,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233600,
+    "exp": 233585,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -44473,7 +44473,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2385,
+    "exp": 2370,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51096,7 +51096,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21045,
+    "exp": 21030,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58171,10 +58171,10 @@
     "jid": "6285935360380",
     "name": "Anda.",
     "number": "6285935360380",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 114745,
+    "exp": 114835,
     "level": 1,
     "koin": 71044,
     "unlockedFeatures": [],
@@ -58183,7 +58183,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-15T13:36:03.451Z",
+    "lastSeen": "2026-11-27T12:30:36.732Z",
     "cooldowns": {
       "menu": 1784015076571,
       "allmenu": 1784015163967,
@@ -58236,7 +58236,8 @@
       "tebaknegara": 1794465107112,
       "kiss": 1794465227451,
       "tembak": 1794465259415,
-      "topchat": 1794465577391
+      "topchat": 1794465577391,
+      "antilinkgc": 1795782636787
     },
     "clanId": null,
     "isRegistered": false,
@@ -58268,8 +58269,8 @@
     },
     "access": [],
     "lastStreamer": 1784166392345,
-    "lastActiveDate": "12/11/2026",
-    "activeDays": 3,
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 4,
     "fun": {
       "tembakTarget": "6282131144804@s.whatsapp.net",
       "tembakCount": 1
@@ -61384,7 +61385,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9900,
+    "exp": 9885,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -99756,10 +99757,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 999997,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 55605,
+    "exp": 55620,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99769,7 +99770,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T11:56:31.530Z",
+    "lastSeen": "2026-11-27T12:30:03.153Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
@@ -99794,7 +99795,7 @@
       "swgc": 1793224885685,
       "d": 1793998265377,
       "allmenu": 1793997527214,
-      "afk": 1795743881491,
+      "afk": 1795782605177,
       "mutemember": 1794331743222,
       "rvo": 1795196019839,
       "mutegc": 1795777873712,
@@ -125723,7 +125724,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 25581,
+    "exp": 25626,
     "name": "paduka riyy",
     "lastSeen": "2026-11-27T07:51:34.071Z",
     "cooldowns": {
@@ -139129,7 +139130,7 @@
   "6285654272237": {
     "jid": "6285654272237",
     "rpg": {},
-    "exp": 2580,
+    "exp": 2640,
     "energi": 99999,
     "name": "Vinno Pratama",
     "lastSeen": "2026-11-27T12:28:17.194Z",
@@ -142686,10 +142687,10 @@
       "mana": 135,
       "stamina": 135
     },
-    "exp": 72203,
-    "energi": 9999,
+    "exp": 72128,
+    "energi": 999999,
     "name": "{𝗙𝗔𝗥𝗘𝗟 𝗖𝗘𝗢 𝗝𝗕}",
-    "lastSeen": "2026-11-27T12:22:13.782Z",
+    "lastSeen": "2026-11-27T12:30:18.384Z",
     "cooldowns": {
       "afk": 1794122423850,
       "menu": 1795778431778,
@@ -143720,7 +143721,7 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 104694,
+    "exp": 104934,
     "name": "ilan",
     "lastSeen": "2026-11-27T11:24:01.979Z",
     "energi": 99999,
@@ -145776,7 +145777,7 @@
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 315,
+    "exp": 375,
     "energi": 99999
   },
   "6285361596129": {
@@ -147814,12 +147815,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147840,12 +147835,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 150,
     "energi": 99999
   },
   "6289675546758": {
@@ -147858,6 +147851,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
@@ -148129,16 +148130,15 @@
   "6287818872530": {
     "jid": "6287818872530",
     "rpg": {},
-    "exp": 450,
+    "exp": 300,
     "name": "{𝗚𝗶𝗼𝘃𝗮𝗻 𝗔𝗱𝗺𝗶𝗻 𝗝𝗕}😈✌️",
-    "lastSeen": "2026-11-27T12:29:34.381Z",
+    "lastSeen": "2026-11-27T12:21:53.240Z",
     "cooldowns": {
       "play": 1795778568104,
       "promote": 1795782093688,
-      "demote": 1795782113953,
-      "bratbahlil": 1795782575751
+      "demote": 1795782113953
     },
-    "energi": 23,
+    "energi": 24,
     "lastActiveDate": "27/11/2026",
     "activeDays": 1
   },
@@ -148146,6 +148146,11 @@
     "jid": "6283183331963",
     "rpg": {},
     "exp": 30
+  },
+  "6285272063066": {
+    "jid": "6285272063066",
+    "rpg": {},
+    "exp": 345
   },
   "62881036648068": {
     "jid": "62881036648068",
@@ -148166,11 +148171,6 @@
     "jid": "6282191100594",
     "rpg": {},
     "exp": 30
-  },
-  "6285272063066": {
-    "jid": "6285272063066",
-    "rpg": {},
-    "exp": 330
   },
   "6282374594779": {
     "jid": "6282374594779",
@@ -148200,7 +148200,7 @@
   "6282117136705": {
     "jid": "6282117136705",
     "rpg": {},
-    "exp": 30
+    "exp": 15
   },
   "6285731235792": {
     "jid": "6285731235792",
@@ -148216,10 +148216,5 @@
     "jid": "6287869263368",
     "rpg": {},
     "exp": 60
-  },
-  "628212610797": {
-    "jid": "628212610797",
-    "rpg": {},
-    "exp": 15
   }
 }
