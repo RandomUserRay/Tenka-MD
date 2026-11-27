@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-27T11:02:26.070Z",
+    "lastSeen": "2026-11-27T11:10:21.415Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 9999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000264309,
+    "exp": 9000264459,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -138600,10 +138600,10 @@
   "6289630601785": {
     "jid": "6289630601785",
     "rpg": {},
-    "exp": 4515,
-    "energi": 99999,
+    "exp": 4530,
+    "energi": 999999,
     "name": "Azh'khaur",
-    "lastSeen": "2026-11-26T06:39:43.307Z",
+    "lastSeen": "2026-11-27T11:10:09.488Z",
     "cooldowns": {
       "afk": 1795247656098,
       "cekfemboy": 1795588412075,
@@ -138615,10 +138615,11 @@
       "cekmesum": 1795588688726,
       "ceksetia": 1795588779467,
       "cekoverpower": 1795588847397,
-      "saudio": 1795675206047
+      "saudio": 1795675206047,
+      "femboy": 1795777811814
     },
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 3
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 4
   },
   "6282181384842": {
     "jid": "6282181384842",
