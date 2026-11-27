@@ -29573,8 +29573,8 @@
         "name": "マワルーちゃん"
       },
       "6283192611663@s.whatsapp.net": {
-        "count": 17,
-        "lastChat": 1795796795280,
+        "count": 16,
+        "lastChat": 1795692486737,
         "name": "Kepo"
       },
       "6285814847562@s.whatsapp.net": {
@@ -29988,8 +29988,8 @@
         "name": "Putri"
       },
       "62895393491908@s.whatsapp.net": {
-        "count": 68,
-        "lastChat": 1795796787233,
+        "count": 66,
+        "lastChat": 1795794217205,
         "name": "tyo"
       },
       "6282137499434@s.whatsapp.net": {
@@ -51736,8 +51736,8 @@
         "name": "RANGGA ST"
       },
       "6285240302212@s.whatsapp.net": {
-        "count": 1774,
-        "lastChat": 1795796774391,
+        "count": 1773,
+        "lastChat": 1795796762500,
         "name": "ㅤ                            ㅤ"
       },
       "6285835955975@s.whatsapp.net": {
@@ -51976,8 +51976,8 @@
         "name": "swan"
       },
       "6283138871360@s.whatsapp.net": {
-        "count": 160,
-        "lastChat": 1795796768944,
+        "count": 159,
+        "lastChat": 1795796656524,
         "name": "m.madha dhaffaella Ergash"
       },
       "6287746331266@s.whatsapp.net": {
@@ -52681,8 +52681,8 @@
         "name": "Kai renata~"
       },
       "6285750341224@s.whatsapp.net": {
-        "count": 452,
-        "lastChat": 1795796782683,
+        "count": 451,
+        "lastChat": 1795796753495,
         "name": "Hex4goN"
       },
       "6282339936375@s.whatsapp.net": {
@@ -57975,6 +57975,11 @@
         "count": 14,
         "lastChat": 1795795416338,
         "name": "[Tikus nak fruit]"
+      },
+      "6285834663268@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795796784645,
+        "name": "aamel"
       }
     },
     "jid": "120363430524580988@g.us",
@@ -57985,5 +57990,16 @@
     "leave": true,
     "welcome": true,
     "antiswgc": "on"
+  },
+  "120363413609682150@g.us": {
+    "chatStats": {
+      "62895425005352@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1795796796348,
+        "name": "~ digidaw"
+      }
+    },
+    "jid": "120363413609682150@g.us",
+    "name": "bot"
   }
 }
