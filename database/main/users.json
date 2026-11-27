@@ -16202,7 +16202,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9403892,
+    "exp": 9403952,
     "level": 1,
     "koin": 3314102,
     "unlockedFeatures": [],
@@ -34886,7 +34886,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297390,
+    "exp": 297420,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35080,7 +35080,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34464,
+    "exp": 34479,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -99754,7 +99754,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 53970,
+    "exp": 53955,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -147400,7 +147400,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 4380,
+    "exp": 4365,
     "registeredAt": 1795622011542,
     "name": "Hex4goN",
     "lastSeen": "2026-11-26T15:01:28.535Z",
@@ -147754,6 +147754,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147772,10 +147778,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147788,14 +147796,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
