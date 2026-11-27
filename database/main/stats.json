@@ -1,6 +1,6 @@
 {
   "commandErrors": 710,
-  "commandsExecuted": 148020,
+  "commandsExecuted": 148022,
   "command_totalchat": 29,
   "command_menu": 2826,
   "command_fb": 22,
@@ -262,7 +262,7 @@
   "command_heal": 145,
   "command_work": 1620,
   "command_stat": 10,
-  "command_menucat": 1310,
+  "command_menucat": 1311,
   "command_woodcut": 21,
   "command_ojek": 3,
   "command_maling": 458,
@@ -1505,5 +1505,6 @@
   "command_ba": 1,
   "command_musiccard": 3,
   "command_stickeraudio": 2,
-  "command_ar": 1
+  "command_ar": 1,
+  "command_tema": 1
 }
