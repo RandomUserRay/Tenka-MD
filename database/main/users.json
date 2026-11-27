@@ -87658,7 +87658,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6885,
+    "exp": 6900,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87668,7 +87668,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T07:48:31.418Z",
+    "lastSeen": "2026-11-27T07:49:00.597Z",
     "cooldowns": {
       "menu": 1793799196728,
       "kiss": 1793841990016,
@@ -87680,7 +87680,8 @@
       "smeme": 1794129718300,
       "warn": 1794458197975,
       "cekfemboy": 1794817217416,
-      "demote": 1795765712051
+      "demote": 1795765712051,
+      "promote": 1795765741266
     },
     "clanId": null,
     "isRegistered": false,
@@ -125716,9 +125717,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 25191,
+    "exp": 25206,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-25T06:04:27.033Z",
+    "lastSeen": "2026-11-27T07:48:59.911Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125771,7 +125772,7 @@
       "autoreply": 1795429783109,
       "promote": 1795430322333
     },
-    "energi": 99999,
+    "energi": 999999,
     "lastActiveDate": "23/11/2026",
     "activeDays": 14,
     "fun": {
@@ -141958,7 +141959,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10575,
+    "exp": 10590,
     "energi": 999999,
     "name": "Finzz Str",
     "lastSeen": "2026-11-27T07:48:43.249Z",
