@@ -7,7 +7,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000262809,
+    "exp": 9000262734,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -48790,7 +48790,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20006,
+    "exp": 20036,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -51096,7 +51096,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20805,
+    "exp": 20955,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61384,7 +61384,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9780,
+    "exp": 9795,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -122984,10 +122984,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32925,
+    "exp": 32850,
     "energi": 99998,
     "name": "Noah",
-    "lastSeen": "2026-11-27T09:02:09.741Z",
+    "lastSeen": "2026-11-27T08:45:03.206Z",
     "cooldowns": {
       "femboy": 1795762812565,
       "s": 1795242058628,
@@ -123003,7 +123003,7 @@
       "cektsundere": 1794065168684,
       "yandere": 1794625817962,
       "cekcantik": 1795761037109,
-      "afk": 1795770131961,
+      "afk": 1795761338609,
       "tsundere": 1795761007268,
       "cekyandere": 1795760972662,
       "menu": 1795406598440,
@@ -124981,7 +124981,7 @@
   "6285371947945": {
     "jid": "6285371947945",
     "rpg": {},
-    "exp": 8775,
+    "exp": 8820,
     "energi": 99999,
     "name": "-ULO_BOY-🪫🐦‍🔥ᕦ😎ᕤ",
     "lastSeen": "2026-11-06T11:01:10.373Z",
@@ -141964,7 +141964,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13672,
+    "exp": 13642,
     "energi": 1000003,
     "name": "Finzz Str",
     "lastSeen": "2026-11-27T07:49:25.454Z",
@@ -142724,7 +142724,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 26021,
+    "exp": 25991,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
@@ -147801,6 +147801,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147821,10 +147827,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147837,14 +147845,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
@@ -148037,15 +148037,7 @@
   "6283168882599": {
     "jid": "6283168882599",
     "rpg": {},
-    "exp": 30,
-    "name": "~SiApA?",
-    "lastSeen": "2026-11-27T09:02:35.377Z",
-    "energi": 999999,
-    "cooldowns": {
-      "topexp": 1795770156003
-    },
-    "lastActiveDate": "27/11/2026",
-    "activeDays": 1
+    "exp": 15
   },
   "923362082377": {
     "jid": "923362082377",
