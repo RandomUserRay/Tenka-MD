@@ -57488,8 +57488,8 @@
         "name": "ejaa"
       },
       "6282131144804@s.whatsapp.net": {
-        "count": 211,
-        "lastChat": 1795787137408,
+        "count": 206,
+        "lastChat": 1795787052589,
         "name": "r.maendr"
       },
       "6285973219550@s.whatsapp.net": {
@@ -57528,8 +57528,8 @@
         "name": "𝑟𝑖𝑙𝑙 | 𝒛𝒚𝒐"
       },
       "6287750218855@s.whatsapp.net": {
-        "count": 210,
-        "lastChat": 1795787127583,
+        "count": 209,
+        "lastChat": 1795786317377,
         "name": "all"
       },
       "6281273632015@s.whatsapp.net": {
@@ -57679,8 +57679,7 @@
     "goodbyeMsg": "noo member😢💦",
     "goodbye": true,
     "leave": true,
-    "antitagsw": "on",
-    "autosticker": true
+    "antitagsw": "on"
   },
   "120363411773241917@g.us": {
     "chatStats": {
@@ -57818,8 +57817,8 @@
   "120363430524580988@g.us": {
     "chatStats": {
       "6288242465903@s.whatsapp.net": {
-        "count": 159,
-        "lastChat": 1795786965860,
+        "count": 161,
+        "lastChat": 1795787138491,
         "name": "{𝗙𝗔𝗥𝗘𝗟 𝗖𝗘𝗢 𝗝𝗕}"
       },
       "6285199691543@s.whatsapp.net": {
@@ -57833,8 +57832,8 @@
         "name": "ANNA-NOVA CREW ADMIN"
       },
       "6287818872530@s.whatsapp.net": {
-        "count": 112,
-        "lastChat": 1795784644700,
+        "count": 114,
+        "lastChat": 1795787146743,
         "name": "{𝗚𝗶𝗼𝘃𝗮𝗻 𝗔𝗱𝗺𝗶𝗻 𝗝𝗕}😈✌️"
       },
       "6283183331963@s.whatsapp.net": {
@@ -57933,17 +57932,18 @@
         "name": "sriltore"
       },
       "628981541757@s.whatsapp.net": {
-        "count": 10,
-        "lastChat": 1795786958958,
+        "count": 12,
+        "lastChat": 1795787138558,
         "name": "{𝗞𝗵𝗮𝗶𝗿𝗮𝘁 𝗔𝗱𝗺𝗶𝗻 𝗝𝗕}"
       }
     },
     "jid": "120363430524580988@g.us",
     "name": "Group Mabar Blox Fruit Comunity",
     "antilinkgc": "on",
-    "antisticker": true,
+    "antisticker": false,
     "goodbye": true,
     "leave": true,
-    "welcome": true
+    "welcome": true,
+    "antiswgc": "on"
   }
 }
