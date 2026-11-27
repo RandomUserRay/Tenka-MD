@@ -3098,7 +3098,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 751790,
+    "exp": 751805,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -93757,7 +93757,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 15120,
+    "exp": 15135,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -100900,7 +100900,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 735,
+    "exp": 750,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -122980,10 +122980,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31350,
+    "exp": 31395,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-27T06:30:04.867Z",
+    "lastSeen": "2026-11-27T06:30:36.962Z",
     "cooldowns": {
       "femboy": 1795760818054,
       "s": 1795242058628,
@@ -122993,12 +122993,12 @@
       "smeme": 1793425061108,
       "cekganteng": 1795760924389,
       "top": 1794243550419,
-      "cekimut": 1795760890356,
+      "cekimut": 1795761026142,
       "mutegc": 1793721193619,
       "open": 1793747198407,
       "cektsundere": 1794065168684,
       "yandere": 1794625817962,
-      "cekcantik": 1795760950409,
+      "cekcantik": 1795761037109,
       "afk": 1795743787589,
       "tsundere": 1795761007268,
       "cekyandere": 1795760972662,
@@ -147645,16 +147645,17 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 1920,
+    "exp": 1935,
     "energi": 99999,
     "name": "joy",
-    "lastSeen": "2026-11-27T06:29:51.066Z",
+    "lastSeen": "2026-11-27T06:30:37.116Z",
     "cooldowns": {
       "allmenu": 1795681287952,
       "femboy": 1795760486171,
       "tsundere": 1795760852707,
       "cekganteng": 1795760972492,
-      "cekcantik": 1795760991977
+      "cekcantik": 1795760991977,
+      "cekimut": 1795761037333
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 2
@@ -147972,13 +147973,14 @@
   "6283870052917": {
     "jid": "6283870052917",
     "rpg": {},
-    "exp": 360,
+    "exp": 390,
     "name": "☆『𝒜𝓁𝒶𝓃』♡ 🅺 🆄 🅽 🆉 🆉",
-    "lastSeen": "2026-11-27T05:29:48.909Z",
+    "lastSeen": "2026-11-27T06:30:26.148Z",
     "cooldowns": {
       "afk": 1795753402750,
       "femboy": 1795756935801,
-      "pin": 1795757395217
+      "pin": 1795757395217,
+      "cekimut": 1795761026405
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 1,
