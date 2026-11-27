@@ -148384,6 +148384,14 @@
   "6285834663268": {
     "jid": "6285834663268",
     "rpg": {},
-    "exp": 60
+    "exp": 75,
+    "name": "aamel",
+    "lastSeen": "2026-11-27T16:43:16.731Z",
+    "cooldowns": {
+      "play": 1795797803418
+    },
+    "energi": 24,
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   }
 }
