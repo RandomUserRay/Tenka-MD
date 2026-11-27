@@ -148450,6 +148450,10 @@
     "jid": "6285119284508",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1795799620917
+    },
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   }
 }
