@@ -148504,7 +148504,11 @@
     "jid": "6285708447827",
     "rpg": {},
     "exp": 30,
-    "cooldowns": {},
-    "energi": 22
+    "cooldowns": {
+      "play": 1795819921833
+    },
+    "energi": 22,
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   }
 }
