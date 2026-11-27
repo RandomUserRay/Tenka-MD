@@ -29225,10 +29225,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99999,
+    "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299111,
+    "exp": 299126,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29239,7 +29239,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T13:38:50.705Z",
+    "lastSeen": "2026-11-27T08:35:08.256Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -29407,7 +29407,7 @@
       "tovid": 1791033422165,
       "stiker": 1790924697960,
       "stickerpack": 1793607085825,
-      "pin": 1795693668717
+      "pin": 1795768512325
     },
     "clanId": null,
     "isRegistered": false,
@@ -29442,8 +29442,8 @@
     },
     "lastStreamer": 1785228390775,
     "saldo": 0,
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 33
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 34
   },
   "6285810482980": {
     "jid": "6285810482980",
@@ -122982,7 +122982,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32310,
+    "exp": 32325,
     "energi": 99998,
     "name": "Noah",
     "lastSeen": "2026-11-27T07:00:01.756Z",
