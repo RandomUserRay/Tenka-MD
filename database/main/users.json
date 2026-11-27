@@ -11699,7 +11699,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44224,
+    "exp": 44239,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -11708,10 +11708,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T00:20:36.214Z",
+    "lastSeen": "2026-11-27T06:59:26.764Z",
     "cooldowns": {
       "ww": 1780828288017,
-      "femboy": 1795673912987,
+      "femboy": 1795762768944,
       "handsome": 1781865174539,
       "afk": 1795738838754,
       "tebaknegara": 1783149555979,
@@ -97558,7 +97558,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67249,
+    "exp": 67264,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -130804,17 +130804,17 @@
       "stamina": 125,
       "bank": 61655
     },
-    "exp": 57565,
+    "exp": 57595,
     "energi": 99984,
     "name": "Nero Aditya",
-    "lastSeen": "2026-11-27T06:56:39.782Z",
+    "lastSeen": "2026-11-27T06:59:30.481Z",
     "cooldowns": {
       "pin": 1795757368562,
       "menu": 1794827590743,
       "ai": 1795757520181,
       "tt": 1795753946958,
       "cekmesum": 1793301924656,
-      "femboy": 1795762603871,
+      "femboy": 1795762765760,
       "afk": 1795623705055,
       "play": 1795685627821,
       "s": 1795708350379,
@@ -146712,8 +146712,15 @@
   "6287778423487": {
     "jid": "6287778423487",
     "rpg": {},
-    "exp": 1095,
-    "energi": 99999
+    "exp": 1110,
+    "energi": 99999,
+    "name": "PUTIH",
+    "lastSeen": "2026-11-27T06:59:02.978Z",
+    "cooldowns": {
+      "femboy": 1795762745864
+    },
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   },
   "6287869604928": {
     "jid": "6287869604928",
@@ -147405,11 +147412,11 @@
   "6282329754113": {
     "jid": "6282329754113",
     "rpg": {},
-    "exp": 1170,
+    "exp": 1215,
     "name": "~ ★ ♥ D•R•A•G•O•N ★  ♥ ~",
-    "lastSeen": "2026-11-27T06:58:27.758Z",
+    "lastSeen": "2026-11-27T06:59:42.796Z",
     "cooldowns": {
-      "femboy": 1795762711678,
+      "femboy": 1795762784185,
       "afk": 1795738836485
     },
     "lastActiveDate": "27/11/2026",
@@ -147646,13 +147653,13 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 2205,
+    "exp": 2250,
     "energi": 99999,
     "name": "joy",
-    "lastSeen": "2026-11-27T06:58:45.358Z",
+    "lastSeen": "2026-11-27T06:59:39.505Z",
     "cooldowns": {
       "allmenu": 1795681287952,
-      "femboy": 1795762727395,
+      "femboy": 1795762781295,
       "tsundere": 1795760852707,
       "cekganteng": 1795760972492,
       "cekcantik": 1795760991977,
