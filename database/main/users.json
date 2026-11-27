@@ -122984,7 +122984,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 33825,
+    "exp": 33840,
     "energi": 999999,
     "name": "Noah",
     "lastSeen": "2026-11-27T11:08:09.040Z",
@@ -146769,7 +146769,7 @@
     "name": "iyan",
     "lastSeen": "2026-11-27T11:08:26.489Z",
     "cooldowns": {
-      "s": 1795777678205,
+      "s": 1795777707602,
       "smeme": 1795400912021
     },
     "lastActiveDate": "27/11/2026",
@@ -147556,9 +147556,9 @@
   "6287813010545": {
     "jid": "6287813010545",
     "rpg": {},
-    "exp": 780,
+    "exp": 795,
     "name": "Rudo",
-    "lastSeen": "2026-11-27T11:08:25.115Z",
+    "lastSeen": "2026-11-27T11:08:31.163Z",
     "cooldowns": {
       "cekfemboy": 1795760457416,
       "cekganteng": 1795588093555,
@@ -148077,15 +148077,23 @@
     "rpg": {},
     "exp": 15,
     "energi": 999999,
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1795777708362
+    },
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   },
   "6285284835843": {
     "name": "~ SOMEONE",
     "lastSeen": "2026-11-27T11:08:26.866Z",
     "jid": "6285284835843",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "energi": 999999,
-    "cooldowns": {}
+    "cooldowns": {
+      "menu": 1795777707565
+    },
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   }
 }
