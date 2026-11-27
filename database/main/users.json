@@ -148333,8 +148333,12 @@
     "exp": 75,
     "name": "[Tikus nak fruit]",
     "lastSeen": "2026-11-27T14:31:49.792Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "play": 1795789992783
+    },
+    "energi": 23,
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   },
   "6281515206102": {
     "jid": "6281515206102",
