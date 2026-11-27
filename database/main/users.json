@@ -52445,7 +52445,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1064110,
+    "exp": 1064125,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -52454,7 +52454,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T15:28:51.742Z",
+    "lastSeen": "2026-11-27T15:29:03.599Z",
     "cooldowns": {
       "mesum": 1783764738795,
       "tolol": 1783765270673,
@@ -52511,7 +52511,8 @@
       "mancing": 1784292674796,
       "level": 1784334713837,
       "menucat": 1795793314263,
-      "menu": 1795793338855
+      "menu": 1795793338855,
+      "owner": 1795793346252
     },
     "clanId": null,
     "isRegistered": false,
