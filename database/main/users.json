@@ -897,7 +897,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 49478,
+    "exp": 49403,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -11697,7 +11697,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44134,
+    "exp": 44089,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -58520,10 +58520,10 @@
     "jid": "6285751419457",
     "name": "~TommyLen",
     "number": "6285751419457",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 7110,
+    "exp": 7140,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -58532,13 +58532,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T07:21:14.092Z",
+    "lastSeen": "2026-11-27T04:41:55.130Z",
     "cooldowns": {
       "play": 1795677687487,
       "lirik": 1784020192213,
       "s": 1784021070320,
       "prabowo": 1795604592126,
-      "monyet": 1795645205203
+      "monyet": 1795645205203,
+      "tiktokstalk": 1795754518878
     },
     "clanId": null,
     "isRegistered": false,
@@ -58549,8 +58550,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 3
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 4
   },
   "6281532188450": {
     "jid": "6281532188450",
@@ -97556,7 +97557,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66544,
+    "exp": 66529,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -127075,7 +127076,7 @@
   "601137556368": {
     "jid": "601137556368",
     "rpg": {},
-    "exp": 1305,
+    "exp": 1245,
     "energi": 99999
   },
   "62882020097464": {
@@ -135309,7 +135310,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 28320,
+    "exp": 28290,
     "energi": 99985,
     "name": "Z.𝕱𝕴𝕽𝖅𝕬",
     "lastSeen": "2026-11-27T00:23:44.100Z",
@@ -141059,7 +141060,7 @@
   "60146734682": {
     "jid": "60146734682",
     "rpg": {},
-    "exp": 6285,
+    "exp": 6225,
     "energi": 99999,
     "name": "milky Tiger",
     "lastSeen": "2026-11-26T04:58:38.417Z",
@@ -146847,7 +146848,7 @@
   "6287734382932": {
     "jid": "6287734382932",
     "rpg": {},
-    "exp": 150,
+    "exp": 105,
     "energi": 99999
   },
   "6283199686496": {
@@ -147757,6 +147758,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147775,10 +147782,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147791,14 +147800,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
