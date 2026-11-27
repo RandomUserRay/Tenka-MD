@@ -58025,8 +58025,8 @@
         "name": "Shi Yuo Len To"
       },
       "120363413318793343@g.us": {
-        "count": 1,
-        "lastChat": 1795801029790,
+        "count": 2,
+        "lastChat": 1795801485177,
         "name": "Unknown"
       },
       "6283165984204@s.whatsapp.net": {
@@ -58038,7 +58038,10 @@
     "jid": "120363413318793343@g.us",
     "name": "Grup Mabar Roblox | STC Audio || Akbar💫",
     "antitoxic": true,
-    "toxicMethod": "kick"
+    "toxicMethod": "kick",
+    "toxicWarns": {
+      "6283165984204@s.whatsapp.net": 1
+    }
   },
   "120363416650834406@g.us": {
     "chatStats": {
