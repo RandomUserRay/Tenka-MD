@@ -3098,7 +3098,7 @@
     "energi": 99997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 751625,
+    "exp": 751685,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -3107,7 +3107,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T06:27:11.696Z",
+    "lastSeen": "2026-11-27T06:27:46.508Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3130,7 +3130,7 @@
       "fishing": 1782555252495,
       "mine": 1782555255716,
       "heal": 1780402148890,
-      "tsundere": 1794741485289,
+      "tsundere": 1795760833782,
       "cekganteng": 1793537350505,
       "cekmesum": 1780229323038,
       "inv": 1780307135542,
@@ -3205,7 +3205,9 @@
       "tembak": 1790422620349,
       "ship": 1794743946817,
       "femboys": 1795436005977,
-      "saudio": 1795675026847
+      "saudio": 1795675026847,
+      "imut": 1795760850959,
+      "cantik": 1795760867048
     },
     "clanId": null,
     "isRegistered": false,
@@ -97556,7 +97558,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67024,
+    "exp": 67039,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97566,7 +97568,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T06:27:07.410Z",
+    "lastSeen": "2026-11-27T06:27:26.844Z",
     "cooldowns": {
       "afk": 1795752058156,
       "play": 1795690483813,
@@ -97594,7 +97596,7 @@
       "slap": 1790084016014,
       "kiss": 1790084032681,
       "lick": 1790084444399,
-      "tsundere": 1795605189284,
+      "tsundere": 1795760849572,
       "yandere": 1794720566060,
       "rvo": 1794824697119,
       "ytmp4": 1790600773998,
@@ -122976,10 +122978,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31170,
+    "exp": 31215,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-27T06:26:55.068Z",
+    "lastSeen": "2026-11-27T06:27:19.872Z",
     "cooldowns": {
       "femboy": 1795760818054,
       "s": 1795242058628,
@@ -122996,7 +122998,7 @@
       "yandere": 1794625817962,
       "cekcantik": 1795406717197,
       "afk": 1795743787589,
-      "tsundere": 1795406771237,
+      "tsundere": 1795760841116,
       "cekyandere": 1795406934128,
       "menu": 1795406598440,
       "menucat": 1795406613383,
@@ -130911,7 +130913,7 @@
       "mana": 275,
       "stamina": 275
     },
-    "exp": 354720,
+    "exp": 354735,
     "energi": 99999,
     "name": "just call me Savan!",
     "lastSeen": "2026-11-26T06:18:39.450Z",
@@ -147641,13 +147643,14 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 1845,
+    "exp": 1875,
     "energi": 99999,
     "name": "joy",
-    "lastSeen": "2026-11-27T06:26:57.715Z",
+    "lastSeen": "2026-11-27T06:27:31.986Z",
     "cooldowns": {
       "allmenu": 1795681287952,
-      "femboy": 1795760486171
+      "femboy": 1795760486171,
+      "tsundere": 1795760852707
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 2
