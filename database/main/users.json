@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1079037,
+    "exp": 1079052,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -141967,10 +141967,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 14302,
+    "exp": 14317,
     "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-27T11:15:58.369Z",
+    "lastSeen": "2026-11-27T11:16:40.828Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -141987,7 +141987,8 @@
       "setwelcome": 1795753687605,
       "antiswgc": 1795753724348,
       "notifclosegroup": 1795756726738,
-      "level": 1795777788597
+      "level": 1795777788597,
+      "closegroup": 1795778201469
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 10,
@@ -143713,7 +143714,7 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 102354,
+    "exp": 102369,
     "name": "JSM",
     "lastSeen": "2026-11-23T10:43:25.161Z",
     "energi": 99999,
@@ -143838,7 +143839,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 8175,
+    "exp": 8190,
     "energi": 99999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-27T07:51:59.467Z",
