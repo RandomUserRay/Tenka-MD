@@ -87655,10 +87655,10 @@
     "jid": "6289671886267",
     "name": "Lintar Tempest",
     "number": "6289671886267",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 6825,
+    "exp": 6840,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -87668,7 +87668,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-16T08:20:09.571Z",
+    "lastSeen": "2026-11-27T07:48:31.418Z",
     "cooldowns": {
       "menu": 1793799196728,
       "kiss": 1793841990016,
@@ -87679,7 +87679,8 @@
       "del": 1794400736929,
       "smeme": 1794129718300,
       "warn": 1794458197975,
-      "cekfemboy": 1794817217416
+      "cekfemboy": 1794817217416,
+      "demote": 1795765712051
     },
     "clanId": null,
     "isRegistered": false,
@@ -87689,8 +87690,8 @@
     "rpg": {},
     "inventory": {},
     "access": [],
-    "lastActiveDate": "16/11/2026",
-    "activeDays": 6,
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 7,
     "fun": {
       "tembakCount": 1,
       "pasangan": "6285876361300@s.whatsapp.net",
@@ -125715,7 +125716,7 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 25146,
+    "exp": 25161,
     "name": "paduka riyy",
     "lastSeen": "2026-11-25T06:04:27.033Z",
     "cooldowns": {
@@ -142671,7 +142672,7 @@
       "mana": 130,
       "stamina": 130
     },
-    "exp": 60412,
+    "exp": 60427,
     "energi": 99999,
     "name": "Farel Stur",
     "lastSeen": "2026-11-16T14:46:31.307Z",
