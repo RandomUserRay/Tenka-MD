@@ -51091,12 +51091,12 @@
   },
   "6289506676085": {
     "jid": "6289506676085",
-    "name": "jovzboii🪶",
+    "name": "Jovan",
     "number": "6289506676085",
-    "energi": 99999,
+    "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20790,
+    "exp": 20805,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51105,7 +51105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-22T13:44:09.629Z",
+    "lastSeen": "2026-11-27T08:42:44.264Z",
     "cooldowns": {
       "s": 1793764106661,
       "d": 1783741421008,
@@ -147796,6 +147796,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147816,10 +147822,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147832,14 +147840,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
