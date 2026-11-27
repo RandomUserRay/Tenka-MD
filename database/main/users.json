@@ -3098,7 +3098,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 751535,
+    "exp": 751550,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -122976,7 +122976,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31065,
+    "exp": 31080,
     "energi": 99999,
     "name": "Noah",
     "lastSeen": "2026-11-27T06:24:11.972Z",
@@ -147265,8 +147265,15 @@
   "6285602860756": {
     "jid": "6285602860756",
     "rpg": {},
-    "exp": 540,
-    "energi": 99999
+    "exp": 555,
+    "energi": 99999,
+    "name": "remmy",
+    "lastSeen": "2026-11-27T06:24:48.422Z",
+    "cooldowns": {
+      "femboy": 1795760690901
+    },
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 1
   },
   "6281215585641": {
     "jid": "6281215585641",
