@@ -67979,9 +67979,9 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181686,
+    "exp": 181701,
     "level": 1,
-    "koin": 0,
+    "koin": 200000,
     "unlockedFeatures": [
       "game",
       "sticker",
@@ -67994,7 +67994,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T14:44:35.697Z",
+    "lastSeen": "2026-11-27T14:46:00.566Z",
     "cooldowns": {
       "afk": 1795787020643,
       "s": 1794825232155,
@@ -68098,7 +68098,7 @@
       "maxMana": 190,
       "stamina": 190,
       "maxStamina": 190,
-      "bank": 1360591386,
+      "bank": 1360391386,
       "attack": 21,
       "spouse": null,
       "marriedAt": null,
@@ -135342,7 +135342,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 28590,
+    "exp": 28605,
     "energi": 999999,
     "name": "Z.𝕱𝕴𝕽𝖅𝕬",
     "lastSeen": "2026-11-27T14:44:09.307Z",
@@ -147860,7 +147860,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 765,
+    "exp": 780,
     "energi": 99999
   },
   "6285959174999": {
