@@ -51041,8 +51041,8 @@
         "name": "Angga?"
       },
       "6285183144501@s.whatsapp.net": {
-        "count": 1792,
-        "lastChat": 1795797616168,
+        "count": 1791,
+        "lastChat": 1795797525892,
         "name": "Z.𝕱𝕴𝕽𝖅𝕬"
       },
       "6285196654535@s.whatsapp.net": {
@@ -57975,6 +57975,11 @@
         "count": 14,
         "lastChat": 1795795416338,
         "name": "[Tikus nak fruit]"
+      },
+      "6285834663268@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795797623723,
+        "name": "aamel"
       }
     },
     "jid": "120363430524580988@g.us",
@@ -57985,5 +57990,16 @@
     "leave": true,
     "welcome": true,
     "antiswgc": "on"
+  },
+  "120363413609682150@g.us": {
+    "chatStats": {
+      "62895425005352@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1795796815297,
+        "name": "~ digidaw"
+      }
+    },
+    "jid": "120363413609682150@g.us",
+    "name": "bot"
   }
 }
