@@ -51951,8 +51951,8 @@
         "name": "Hoshina R. Satori"
       },
       "6283135864303@s.whatsapp.net": {
-        "count": 426,
-        "lastChat": 1795786784839,
+        "count": 425,
+        "lastChat": 1795786281340,
         "name": "ABC 😸"
       },
       "6282118452920@s.whatsapp.net": {
@@ -57816,8 +57816,8 @@
   "120363430524580988@g.us": {
     "chatStats": {
       "6288242465903@s.whatsapp.net": {
-        "count": 149,
-        "lastChat": 1795786740682,
+        "count": 152,
+        "lastChat": 1795786771470,
         "name": "{𝗙𝗔𝗥𝗘𝗟 𝗖𝗘𝗢 𝗝𝗕}"
       },
       "6285199691543@s.whatsapp.net": {
@@ -57929,6 +57929,11 @@
         "count": 1,
         "lastChat": 1795784758727,
         "name": "sriltore"
+      },
+      "628981541757@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795786780596,
+        "name": "{𝗞𝗵𝗮𝗶𝗿𝗮𝘁 𝗔𝗱𝗺𝗶𝗻 𝗝𝗕}"
       }
     },
     "jid": "120363430524580988@g.us",
@@ -57936,6 +57941,7 @@
     "antilinkgc": "on",
     "antisticker": true,
     "goodbye": true,
-    "leave": true
+    "leave": true,
+    "welcome": true
   }
 }
