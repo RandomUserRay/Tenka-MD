@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1081167,
+    "exp": 1081182,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T13:51:40.144Z",
+    "lastSeen": "2026-11-27T13:52:21.490Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36217,7 +36217,8 @@
       "anticustom": 1795787052650,
       "delantilink": 1795787087866,
       "autosticker": 1795787186107,
-      "rulesgrup": 1795787231219
+      "rulesgrup": 1795787231219,
+      "ar": 1795787541765
     },
     "clanId": null,
     "isRegistered": false,
@@ -143744,9 +143745,9 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 105024,
+    "exp": 105054,
     "name": "ilan",
-    "lastSeen": "2026-11-27T13:51:30.903Z",
+    "lastSeen": "2026-11-27T13:52:15.812Z",
     "energi": 999999,
     "cooldowns": {
       "menu": 1795787345735,
