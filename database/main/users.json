@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-27T08:59:21.903Z",
+    "lastSeen": "2026-11-27T08:54:58.090Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000262734,
+    "exp": 9000262434,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -48790,7 +48790,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20006,
+    "exp": 20036,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48799,7 +48799,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T08:57:28.433Z",
+    "lastSeen": "2026-11-27T08:58:38.077Z",
     "cooldowns": {
       "menu": 1789209648334,
       "tebaknegara": 1783670524132,
@@ -51096,7 +51096,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20805,
+    "exp": 20880,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51105,7 +51105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T08:42:44.264Z",
+    "lastSeen": "2026-11-27T08:58:41.619Z",
     "cooldowns": {
       "s": 1793764106661,
       "d": 1783741421008,
@@ -51131,7 +51131,8 @@
       "mengkane45": 1791549061135,
       "tekateki": 1791549192677,
       "play": 1791640393206,
-      "notiftidur": 1791642021675
+      "notiftidur": 1791642021675,
+      "level": 1795769902512
     },
     "clanId": null,
     "isRegistered": false,
@@ -51150,8 +51151,8 @@
     "inventory": {},
     "access": [],
     "saldo": 0,
-    "lastActiveDate": "4/11/2026",
-    "activeDays": 12
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 13
   },
   "62895339459494": {
     "jid": "62895339459494",
@@ -122984,7 +122985,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 32820,
+    "exp": 32655,
     "energi": 99998,
     "name": "Noah",
     "lastSeen": "2026-11-27T08:45:03.206Z",
@@ -141964,7 +141965,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13642,
+    "exp": 13612,
     "energi": 1000003,
     "name": "Finzz Str",
     "lastSeen": "2026-11-27T07:49:25.454Z",
@@ -142724,7 +142725,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25991,
+    "exp": 25961,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
@@ -147801,6 +147802,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147821,10 +147828,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147837,14 +147846,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
