@@ -27162,7 +27162,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 185256,
+    "exp": 185361,
     "level": 1,
     "koin": 1302993,
     "unlockedFeatures": [],
@@ -27171,7 +27171,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T12:32:49.392Z",
+    "lastSeen": "2026-11-27T12:38:35.724Z",
     "cooldowns": {
       "afk": 1789121430469,
       "play": 1791552202634,
@@ -27226,7 +27226,7 @@
       "maling": 1785667197851,
       "beli": 1785152898277,
       "exp": 1785152911172,
-      "level": 1785389730258,
+      "level": 1795783115791,
       "tebakepep": 1785231408536,
       "live": 1785329361976,
       "bank": 1785412383466,
@@ -35082,7 +35082,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 34479,
+    "exp": 34569,
     "level": 1,
     "koin": 103250,
     "unlockedFeatures": [],
@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080357,
+    "exp": 1080342,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -51096,7 +51096,7 @@
     "energi": 99998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 21165,
+    "exp": 21255,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -51105,7 +51105,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T12:35:29.700Z",
+    "lastSeen": "2026-11-27T12:38:02.148Z",
     "cooldowns": {
       "s": 1793764106661,
       "d": 1783741421008,
@@ -51132,7 +51132,8 @@
       "tekateki": 1791549192677,
       "play": 1791640393206,
       "notiftidur": 1791642021675,
-      "p": 1795782927241
+      "p": 1795782927241,
+      "level": 1795783082813
     },
     "clanId": null,
     "isRegistered": false,
@@ -61385,7 +61386,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9975,
+    "exp": 10050,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -61394,7 +61395,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T12:35:00.466Z",
+    "lastSeen": "2026-11-27T12:38:22.577Z",
     "cooldowns": {
       "d": 1795243623221,
       "play": 1791550262883,
@@ -61402,14 +61403,23 @@
       "s": 1795685434531,
       "smeme": 1795244257414,
       "mulaiabsen": 1795680459454,
-      "p": 1795782901575
+      "p": 1795782901575,
+      "level": 1795783102659
     },
     "clanId": null,
     "isRegistered": false,
     "regName": null,
     "regAge": null,
     "regGender": null,
-    "rpg": {},
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
     "inventory": {},
     "access": [],
     "saldo": 0,
@@ -147817,6 +147827,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147837,10 +147853,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147853,14 +147871,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
@@ -148132,7 +148142,7 @@
   "6287818872530": {
     "jid": "6287818872530",
     "rpg": {},
-    "exp": 570,
+    "exp": 585,
     "name": "{𝗚𝗶𝗼𝘃𝗮𝗻 𝗔𝗱𝗺𝗶𝗻 𝗝𝗕}😈✌️",
     "lastSeen": "2026-11-27T12:36:58.558Z",
     "cooldowns": {
@@ -148149,11 +148159,6 @@
     "jid": "6283183331963",
     "rpg": {},
     "exp": 45
-  },
-  "6285272063066": {
-    "jid": "6285272063066",
-    "rpg": {},
-    "exp": 345
   },
   "62881036648068": {
     "jid": "62881036648068",
@@ -148174,6 +148179,11 @@
     "jid": "6282191100594",
     "rpg": {},
     "exp": 30
+  },
+  "6285272063066": {
+    "jid": "6285272063066",
+    "rpg": {},
+    "exp": 330
   },
   "6282374594779": {
     "jid": "6282374594779",
