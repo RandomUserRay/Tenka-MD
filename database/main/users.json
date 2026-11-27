@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-27T06:51:11.171Z",
+    "lastSeen": "2026-11-27T06:54:06.211Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000260184,
+    "exp": 9000260334,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -3098,7 +3098,7 @@
     "energi": 99995,
     "isPremium": false,
     "isBanned": false,
-    "exp": 752045,
+    "exp": 752090,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -3107,7 +3107,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T06:50:02.577Z",
+    "lastSeen": "2026-11-27T06:54:18.689Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3120,7 +3120,7 @@
       "daily": 1782555185906,
       "profil": 1780487704267,
       "work": 1788080921273,
-      "femboy": 1795762207768,
+      "femboy": 1795762461822,
       "afk": 1793542054233,
       "warn": 1786250798434,
       "sleep": 1780313933427,
@@ -91055,7 +91055,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 12540,
+    "exp": 12525,
     "level": 1,
     "koin": 0,
     "saldo": 0,
@@ -91065,12 +91065,12 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T06:54:24.097Z",
+    "lastSeen": "2026-11-27T04:48:02.955Z",
     "cooldowns": {
       "rvo": 1786611947315,
       "toimg": 1786929501093,
       "s": 1795754883162,
-      "getpp": 1795762466104,
+      "getpp": 1795754734286,
       "allmenu": 1786847518688,
       "cekfemboy": 1786871000052,
       "horny": 1786871160339,
@@ -122980,12 +122980,12 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31725,
+    "exp": 31785,
     "energi": 99998,
     "name": "Noah",
-    "lastSeen": "2026-11-27T06:52:42.936Z",
+    "lastSeen": "2026-11-27T06:54:25.570Z",
     "cooldowns": {
-      "femboy": 1795762366976,
+      "femboy": 1795762469207,
       "s": 1795242058628,
       "me": 1795406513945,
       "cekmesum": 1793388210554,
@@ -147405,11 +147405,11 @@
   "6282329754113": {
     "jid": "6282329754113",
     "rpg": {},
-    "exp": 1050,
+    "exp": 1065,
     "name": "~ ★ ♥ D•R•A•G•O•N ★  ♥ ~",
-    "lastSeen": "2026-11-27T06:52:21.118Z",
+    "lastSeen": "2026-11-27T06:54:09.802Z",
     "cooldowns": {
-      "femboy": 1795762343626,
+      "femboy": 1795762451918,
       "afk": 1795738836485
     },
     "lastActiveDate": "27/11/2026",
@@ -147646,13 +147646,13 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 2025,
+    "exp": 2040,
     "energi": 99999,
     "name": "joy",
-    "lastSeen": "2026-11-27T06:53:54.245Z",
+    "lastSeen": "2026-11-27T06:54:03.161Z",
     "cooldowns": {
       "allmenu": 1795681287952,
-      "femboy": 1795762436597,
+      "femboy": 1795762448146,
       "tsundere": 1795760852707,
       "cekganteng": 1795760972492,
       "cekcantik": 1795760991977,
@@ -147784,12 +147784,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147810,12 +147804,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 150,
     "energi": 99999
   },
   "6289675546758": {
@@ -147828,6 +147820,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
