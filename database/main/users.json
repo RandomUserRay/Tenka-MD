@@ -11697,7 +11697,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 44194,
+    "exp": 44209,
     "level": 1,
     "koin": 57945,
     "unlockedFeatures": [],
@@ -97556,7 +97556,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 66859,
+    "exp": 66874,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -122976,12 +122976,12 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 30675,
+    "exp": 30975,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-27T06:15:48.663Z",
+    "lastSeen": "2026-11-27T06:18:39.443Z",
     "cooldowns": {
-      "femboy": 1795760150548,
+      "femboy": 1795760322154,
       "s": 1795242058628,
       "me": 1795406513945,
       "cekmesum": 1793388210554,
@@ -125423,16 +125423,17 @@
   "6285882172857": {
     "jid": "6285882172857",
     "rpg": {},
-    "exp": 5910,
+    "exp": 5940,
     "energi": 99999,
     "name": "Zulfiqar",
-    "lastSeen": "2026-11-02T11:39:18.601Z",
+    "lastSeen": "2026-11-27T06:18:51.882Z",
     "cooldowns": {
       "sticker": 1793483921942,
-      "femboy": 1793619565764
+      "femboy": 1793619565764,
+      "cekfemboy": 1795760336728
     },
-    "lastActiveDate": "2/11/2026",
-    "activeDays": 2
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 3
   },
   "6285881075054": {
     "jid": "6285881075054",
@@ -147632,10 +147633,10 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 1605,
+    "exp": 1620,
     "energi": 99999,
     "name": "joy",
-    "lastSeen": "2026-11-26T08:22:38.314Z",
+    "lastSeen": "2026-11-27T06:19:21.239Z",
     "cooldowns": {
       "allmenu": 1795681287952,
       "femboy": 1795681362974
