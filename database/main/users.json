@@ -143744,13 +143744,13 @@
       "mana": 150,
       "stamina": 150
     },
-    "exp": 104874,
+    "exp": 104904,
     "name": "ilan",
-    "lastSeen": "2026-11-27T11:24:01.979Z",
-    "energi": 99999,
+    "lastSeen": "2026-11-27T13:48:49.287Z",
+    "energi": 999999,
     "cooldowns": {
       "menu": 1795430611737,
-      "menucat": 1794784198137,
+      "menucat": 1795787329355,
       "caklontong": 1794124544405,
       "tebaknegara": 1794748932885,
       "tembak": 1794750588325,
@@ -143776,10 +143776,11 @@
       "tenka": 1794796525859,
       "level": 1795429376277,
       "owner": 1794832985672,
-      "asahotak": 1794838382420
+      "asahotak": 1794838382420,
+      "allmenu": 1795787320320
     },
-    "lastActiveDate": "23/11/2026",
-    "activeDays": 5,
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 6,
     "koin": 58740,
     "fun": {
       "tembakCount": 8,
