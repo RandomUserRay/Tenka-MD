@@ -48790,7 +48790,7 @@
     "energi": 99996,
     "isPremium": false,
     "isBanned": false,
-    "exp": 20006,
+    "exp": 19991,
     "level": 1,
     "koin": 8560,
     "unlockedFeatures": [],
@@ -48822,13 +48822,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 3,
-      "maxHealth": 120,
-      "maxMana": 110,
-      "maxStamina": 110,
-      "health": 120,
-      "mana": 110,
-      "stamina": 110
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
     },
     "inventory": {},
     "access": [],
@@ -131896,7 +131896,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 5640,
+    "exp": 5655,
     "energi": 99999,
     "name": "zangetsu",
     "lastSeen": "2026-11-15T23:37:02.810Z",
@@ -141964,7 +141964,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13567,
+    "exp": 13612,
     "energi": 1000003,
     "name": "Finzz Str",
     "lastSeen": "2026-11-27T07:49:25.454Z",
@@ -142671,18 +142671,18 @@
   "6288242465903": {
     "jid": "6288242465903",
     "rpg": {
-      "level": 7,
-      "maxHealth": 160,
-      "maxMana": 130,
-      "maxStamina": 130,
-      "health": 160,
-      "mana": 130,
-      "stamina": 130
+      "level": 8,
+      "maxHealth": 170,
+      "maxMana": 135,
+      "maxStamina": 135,
+      "health": 170,
+      "mana": 135,
+      "stamina": 135
     },
-    "exp": 67285,
-    "energi": 999999,
+    "exp": 71588,
+    "energi": 1000002,
     "name": "{𝗙𝗔𝗥𝗘𝗟 𝗖𝗘𝗢 𝗝𝗕}",
-    "lastSeen": "2026-11-27T08:56:02.846Z",
+    "lastSeen": "2026-11-27T08:56:34.976Z",
     "cooldowns": {
       "afk": 1794122423850,
       "menu": 1794838214704,
@@ -142692,14 +142692,14 @@
       "brat": 1794746261637,
       "bratcewek": 1794811153703,
       "bratbahlil": 1794819057430,
-      "asahotak": 1795769762915,
+      "asahotak": 1795769795035,
       "tebaknegara": 1795769591196,
       "rank": 1795769518470,
       "topkoin": 1795769525725
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 4,
-    "koin": 37966
+    "koin": 40100
   },
   "6282285249002": {
     "jid": "6282285249002",
@@ -142724,7 +142724,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25901,
+    "exp": 25961,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
@@ -147801,12 +147801,6 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
-  "6285183685392": {
-    "jid": "6285183685392",
-    "rpg": {},
-    "exp": 150,
-    "energi": 99999
-  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147827,12 +147821,10 @@
     "exp": 30,
     "energi": 99999
   },
-  "628812672552": {
-    "jid": "628812672552",
+  "6285183685392": {
+    "jid": "6285183685392",
     "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
+    "exp": 150,
     "energi": 99999
   },
   "6289675546758": {
@@ -147845,6 +147837,14 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
+    "energi": 99999
+  },
+  "628812672552": {
+    "jid": "628812672552",
+    "rpg": {},
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
