@@ -67979,7 +67979,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181641,
+    "exp": 181671,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -67994,13 +67994,13 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T13:43:38.784Z",
+    "lastSeen": "2026-11-27T14:44:35.697Z",
     "cooldowns": {
       "afk": 1795787020643,
       "s": 1794825232155,
       "play": 1794754715908,
       "inv": 1786434391177,
-      "profil": 1787746507275,
+      "profil": 1795790676634,
       "rob": 1787849540817,
       "menu": 1785405080799,
       "femboy": 1795785549806,
@@ -130703,19 +130703,19 @@
   "6285284891404": {
     "jid": "6285284891404",
     "rpg": {
-      "level": 17,
-      "maxHealth": 260,
-      "maxMana": 180,
-      "maxStamina": 180,
-      "health": 260,
-      "mana": 180,
-      "stamina": 180,
+      "level": 18,
+      "maxHealth": 270,
+      "maxMana": 185,
+      "maxStamina": 185,
+      "health": 270,
+      "mana": 185,
+      "stamina": 185,
       "bank": 0
     },
-    "exp": 169230,
+    "exp": 171885,
     "energi": 999999,
     "name": "The Visionary",
-    "lastSeen": "2026-11-27T14:22:20.079Z",
+    "lastSeen": "2026-11-27T14:44:34.402Z",
     "cooldowns": {
       "mutegc": 1793217082639,
       "femboy": 1795785603027,
@@ -130748,12 +130748,13 @@
       "hitamkan": 1795692166336,
       "unmute": 1795782441755,
       "unmutegc": 1795784915388,
-      "cekimut": 1795789340307
+      "cekimut": 1795789340307,
+      "work": 1795790679145
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 19,
     "registeredAt": 1793222982015,
-    "koin": 79733
+    "koin": 84894
   },
   "6285168650186": {
     "name": "pratama 🐜",
@@ -147859,7 +147860,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 750,
+    "exp": 765,
     "energi": 99999
   },
   "6285959174999": {
