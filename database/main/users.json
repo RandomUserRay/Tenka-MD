@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080867,
+    "exp": 1080882,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T13:44:12.589Z",
+    "lastSeen": "2026-11-27T13:44:47.791Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36214,7 +36214,8 @@
       "kapan": 1794740196791,
       "buka": 1795430023909,
       "caudiosticker": 1795606816988,
-      "anticustom": 1795787052650
+      "anticustom": 1795787052650,
+      "delantilink": 1795787087866
     },
     "clanId": null,
     "isRegistered": false,
