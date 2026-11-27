@@ -34886,7 +34886,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 297315,
+    "exp": 297360,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -44471,7 +44471,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 2310,
+    "exp": 2325,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -122975,10 +122975,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 29940,
+    "exp": 29925,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-27T00:32:06.722Z",
+    "lastSeen": "2026-11-23T06:57:13.025Z",
     "cooldowns": {
       "femboy": 1795407339065,
       "s": 1795242058628,
@@ -122994,7 +122994,7 @@
       "cektsundere": 1794065168684,
       "yandere": 1794625817962,
       "cekcantik": 1795406717197,
-      "afk": 1795739529314,
+      "afk": 1795247491498,
       "tsundere": 1795406771237,
       "cekyandere": 1795406934128,
       "menu": 1795406598440,
@@ -123003,8 +123003,8 @@
       "cekpsikopat": 1795410049632,
       "pin": 1795417043154
     },
-    "lastActiveDate": "27/11/2026",
-    "activeDays": 15,
+    "lastActiveDate": "23/11/2026",
+    "activeDays": 14,
     "registeredAt": 1793255055602,
     "clanId": "FEM"
   },
@@ -147754,6 +147754,12 @@
     "activeDays": 1,
     "registeredAt": 1795679887513
   },
+  "6285183685392": {
+    "jid": "6285183685392",
+    "rpg": {},
+    "exp": 150,
+    "energi": 99999
+  },
   "6288272018843": {
     "jid": "6288272018843",
     "rpg": {},
@@ -147772,10 +147778,12 @@
     "exp": 30,
     "energi": 99999
   },
-  "6285183685392": {
-    "jid": "6285183685392",
+  "628812672552": {
+    "jid": "628812672552",
     "rpg": {},
-    "exp": 150,
+    "exp": 75,
+    "name": "Alek Fushiguro",
+    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "6289675546758": {
@@ -147788,14 +147796,6 @@
     "jid": "6283141602617",
     "rpg": {},
     "exp": 60,
-    "energi": 99999
-  },
-  "628812672552": {
-    "jid": "628812672552",
-    "rpg": {},
-    "exp": 75,
-    "name": "Alek Fushiguro",
-    "lastSeen": "2026-11-25T15:34:07.829Z",
     "energi": 99999
   },
   "13026954629237": {
