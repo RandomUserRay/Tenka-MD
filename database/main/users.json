@@ -3095,10 +3095,10 @@
     "jid": "6285240302212",
     "name": "ㅤ                            ㅤ",
     "number": "6285240302212",
-    "energi": 999998,
+    "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 752165,
+    "exp": 752180,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -3107,7 +3107,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T13:30:12.809Z",
+    "lastSeen": "2026-11-27T13:31:33.519Z",
     "cooldowns": {
       "iqc": 1780115533418,
       "cektsundere": 1794741346619,
@@ -3187,7 +3187,7 @@
       "pet": 1787973759309,
       "petshop": 1787973780917,
       "breeding": 1787977386102,
-      "ytmp4": 1795327175783,
+      "ytmp4": 1795786309426,
       "love": 1790084553042,
       "top": 1795761311641,
       "dadu": 1788080107307,
@@ -35956,7 +35956,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1080747,
+    "exp": 1080762,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -147840,7 +147840,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "energi": 99999
   },
   "6285959174999": {
@@ -148205,7 +148205,7 @@
   "6282229099600": {
     "jid": "6282229099600",
     "rpg": {},
-    "exp": 225
+    "exp": 240
   },
   "6283161979014": {
     "jid": "6283161979014",
@@ -148273,7 +148273,8 @@
     "exp": 135,
     "energi": 999998,
     "cooldowns": {
-      "femboy": 1795785775249
+      "femboy": 1795785775249,
+      "play": 1795786294885
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 1
