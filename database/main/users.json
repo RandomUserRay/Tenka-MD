@@ -141952,10 +141952,10 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10395,
+    "exp": 10410,
     "energi": 999999,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-27T05:17:07.185Z",
+    "lastSeen": "2026-11-27T05:18:46.690Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -141970,7 +141970,8 @@
       "owner": 1794737380804,
       "caudiosticker": 1795687929825,
       "setwelcome": 1795753687605,
-      "antiswgc": 1795753724348
+      "antiswgc": 1795753724348,
+      "notifclosegroup": 1795756726738
     },
     "lastActiveDate": "27/11/2026",
     "activeDays": 10,
