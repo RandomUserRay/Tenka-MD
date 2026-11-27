@@ -97558,7 +97558,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 67099,
+    "exp": 67114,
     "level": 1,
     "koin": 4018,
     "saldo": 0,
@@ -97568,7 +97568,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T06:28:40.524Z",
+    "lastSeen": "2026-11-27T06:28:59.316Z",
     "cooldowns": {
       "afk": 1795752058156,
       "play": 1795690483813,
@@ -97578,7 +97578,7 @@
       "menucat": 1795429828624,
       "cekfemboy": 1790085994641,
       "gay": 1788076153175,
-      "cekcantik": 1795605261444,
+      "cekcantik": 1795760939546,
       "cekganteng": 1795605271924,
       "tolol": 1788075743705,
       "top": 1794826208029,
@@ -122383,11 +122383,11 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10530,
+    "exp": 10560,
     "energi": 99999,
     "fun": {},
     "name": "Dita",
-    "lastSeen": "2026-11-24T23:55:21.173Z",
+    "lastSeen": "2026-11-27T06:29:13.634Z",
     "cooldowns": {
       "tolak": 1794064816689,
       "truth": 1794064937722,
@@ -122396,10 +122396,12 @@
       "play": 1795181026329,
       "s": 1795564521353,
       "afk": 1794573218770,
-      "iqc": 1794754806505
+      "iqc": 1794754806505,
+      "cekcantik": 1795760944425,
+      "cekganteng": 1795760953795
     },
-    "lastActiveDate": "25/11/2026",
-    "activeDays": 6
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 7
   },
   "6285198054967": {
     "jid": "6285198054967",
@@ -122978,10 +122980,10 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 31275,
+    "exp": 31305,
     "energi": 99999,
     "name": "Noah",
-    "lastSeen": "2026-11-27T06:28:44.197Z",
+    "lastSeen": "2026-11-27T06:29:09.936Z",
     "cooldowns": {
       "femboy": 1795760818054,
       "s": 1795242058628,
@@ -122996,7 +122998,7 @@
       "open": 1793747198407,
       "cektsundere": 1794065168684,
       "yandere": 1794625817962,
-      "cekcantik": 1795406717197,
+      "cekcantik": 1795760950409,
       "afk": 1795743787589,
       "tsundere": 1795760841116,
       "cekyandere": 1795406934128,
@@ -141955,7 +141957,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 10410,
+    "exp": 10440,
     "energi": 999999,
     "name": "Finzz Str",
     "lastSeen": "2026-11-27T05:18:46.690Z",
@@ -147643,7 +147645,7 @@
   "6285126446109": {
     "jid": "6285126446109",
     "rpg": {},
-    "exp": 1875,
+    "exp": 1890,
     "energi": 99999,
     "name": "joy",
     "lastSeen": "2026-11-27T06:27:31.986Z",
