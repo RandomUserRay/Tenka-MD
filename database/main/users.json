@@ -35953,10 +35953,10 @@
     "jid": "6282131144804",
     "name": "r.maendr",
     "number": "6282131144804",
-    "energi": 99999,
+    "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1078632,
+    "exp": 1078647,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-26T13:30:16.870Z",
+    "lastSeen": "2026-11-27T08:46:58.543Z",
     "cooldowns": {
       "toimg": 1784896295473,
       "tovideo": 1783750078239,
@@ -36181,7 +36181,7 @@
       "antitagsw": 1794720004959,
       "antinsfw": 1794112399425,
       "goodbye": 1793833217636,
-      "setgoodbye": 1793833247915,
+      "setgoodbye": 1795769219209,
       "notifpromote": 1794119917935,
       "notifdemote": 1794119887464,
       "promote": 1795429537213,
@@ -36286,8 +36286,8 @@
     "settings": {},
     "lastStreamer": 1788077179017,
     "saldo": 0,
-    "lastActiveDate": "26/11/2026",
-    "activeDays": 36
+    "lastActiveDate": "27/11/2026",
+    "activeDays": 37
   },
   "6285752659355": {
     "jid": "6285752659355",
@@ -142720,7 +142720,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 25856,
+    "exp": 25871,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
