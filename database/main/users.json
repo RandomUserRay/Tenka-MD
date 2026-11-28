@@ -4935,7 +4935,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1665,
+    "exp": 1680,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -35965,7 +35965,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1082982,
+    "exp": 1083027,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -55130,7 +55130,7 @@
     "energi": 99999,
     "isPremium": true,
     "isBanned": false,
-    "exp": 246881,
+    "exp": 246956,
     "level": 1,
     "koin": 5915501,
     "unlockedFeatures": [],
@@ -125760,9 +125760,9 @@
       "health": 120,
       "mana": 110
     },
-    "exp": 25896,
+    "exp": 25911,
     "name": "paduka riyy",
-    "lastSeen": "2026-11-27T07:51:34.071Z",
+    "lastSeen": "2026-11-28T11:26:15.468Z",
     "cooldowns": {
       "qc": 1789548022323,
       "brat": 1789917087888,
@@ -125803,7 +125803,7 @@
       "open": 1793799577810,
       "bego": 1793799678247,
       "tendang": 1793800300284,
-      "kick": 1794811815456,
+      "kick": 1795865176336,
       "antikudeta": 1794017641718,
       "ht": 1795429579047,
       "d": 1794751384472,
@@ -125815,9 +125815,9 @@
       "autoreply": 1795429783109,
       "promote": 1795765894773
     },
-    "energi": 99999,
-    "lastActiveDate": "27/11/2026",
-    "activeDays": 15,
+    "energi": 999999,
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 16,
     "fun": {
       "jadiPacar": 1789917115599
     },
@@ -132963,7 +132963,7 @@
       "health": 105,
       "mana": 53
     },
-    "exp": 52208,
+    "exp": 52238,
     "cooldowns": {
       "gacha": 1793749342310,
       "judi": 1793408578662,
@@ -145888,7 +145888,7 @@
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 375,
+    "exp": 390,
     "energi": 99999
   },
   "6285361596129": {
