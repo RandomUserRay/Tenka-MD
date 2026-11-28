@@ -149406,13 +149406,14 @@
   "6281373334023": {
     "jid": "6281373334023",
     "rpg": {},
-    "exp": 165,
+    "exp": 180,
     "name": "Kids Udah Punya Pacar",
-    "lastSeen": "2026-11-28T15:44:07.246Z",
+    "lastSeen": "2026-11-28T15:44:52.873Z",
     "cooldowns": {
-      "brat": 1795880647940
+      "brat": 1795880647940,
+      "bratimg": 1795880696855
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "28/11/2026",
     "activeDays": 1
   },
