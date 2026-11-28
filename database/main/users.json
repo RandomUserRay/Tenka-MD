@@ -9892,7 +9892,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60510,
+    "exp": 60540,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -123013,7 +123013,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 35580,
+    "exp": 35595,
     "energi": 999999,
     "name": "Noah",
     "lastSeen": "2026-11-28T02:52:54.284Z",
@@ -130815,7 +130815,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13458,
+    "exp": 13473,
     "energi": 999999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -149021,6 +149021,6 @@
   "6285212821381": {
     "jid": "6285212821381",
     "rpg": {},
-    "exp": 105
+    "exp": 165
   }
 }
