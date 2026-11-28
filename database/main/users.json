@@ -142760,16 +142760,16 @@
   "6288242465903": {
     "jid": "6288242465903",
     "rpg": {
-      "level": 8,
-      "maxHealth": 170,
-      "maxMana": 135,
-      "maxStamina": 135,
-      "health": 170,
-      "mana": 135,
-      "stamina": 135
+      "level": 9,
+      "maxHealth": 180,
+      "maxMana": 140,
+      "maxStamina": 140,
+      "health": 180,
+      "mana": 140,
+      "stamina": 140
     },
-    "exp": 79786,
-    "energi": 10017,
+    "exp": 81530,
+    "energi": 10022,
     "name": "{𝗙𝗔𝗥𝗘𝗟 𝗖𝗘𝗢 𝗝𝗕}",
     "lastSeen": "2026-11-28T11:40:05.776Z",
     "cooldowns": {
@@ -142804,7 +142804,7 @@
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 5,
-    "koin": 45372,
+    "koin": 46001,
     "registeredAt": 1795865842510
   },
   "6282285249002": {
