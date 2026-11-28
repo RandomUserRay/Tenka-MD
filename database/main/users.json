@@ -3098,7 +3098,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 752750,
+    "exp": 752780,
     "level": 1,
     "koin": 4090405,
     "unlockedFeatures": [],
@@ -99782,10 +99782,10 @@
     "jid": "6285817456389",
     "name": "kitsune meru",
     "number": "6285817456389",
-    "energi": 99999,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57120,
+    "exp": 57180,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99795,7 +99795,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-27T11:56:31.530Z",
+    "lastSeen": "2026-11-28T03:29:16.075Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
@@ -99822,7 +99822,7 @@
       "allmenu": 1793997527214,
       "afk": 1795743881491,
       "mutemember": 1794331743222,
-      "rvo": 1795196019839,
+      "rvo": 1795836556089,
       "mutegc": 1795777873712,
       "unmutegc": 1795724920911,
       "close": 1793727627264,
@@ -99851,8 +99851,8 @@
     },
     "inventory": {},
     "access": [],
-    "lastActiveDate": "27/11/2026",
-    "activeDays": 27
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 28
   },
   "6283139500330": {
     "jid": "6283139500330",
@@ -123013,7 +123013,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 35190,
+    "exp": 35205,
     "energi": 999999,
     "name": "Noah",
     "lastSeen": "2026-11-28T02:52:54.284Z",
@@ -130728,7 +130728,7 @@
       "stamina": 185,
       "bank": 0
     },
-    "exp": 174210,
+    "exp": 174360,
     "energi": 99999,
     "name": "The Visionary",
     "lastSeen": "2026-11-27T15:45:02.593Z",
@@ -147919,7 +147919,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 1665,
+    "exp": 1680,
     "energi": 99999
   },
   "6285959174999": {
@@ -148836,6 +148836,6 @@
   "628973987066": {
     "jid": "628973987066",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
