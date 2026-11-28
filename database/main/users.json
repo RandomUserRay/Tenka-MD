@@ -29235,7 +29235,7 @@
     "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299306,
+    "exp": 299336,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -141649,10 +141649,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 346927,
+    "exp": 346942,
     "energi": 99999,
     "name": "Laufey",
-    "lastSeen": "2026-11-28T15:15:51.407Z",
+    "lastSeen": "2026-11-28T15:16:19.564Z",
     "cooldowns": {
       "play": 1794234995132,
       "femboy": 1794024323727,
@@ -141667,7 +141667,7 @@
       "clanleaderboard": 1794123002034,
       "daftar": 1794125955799,
       "menu": 1795878943930,
-      "menucat": 1795878951455
+      "menucat": 1795878979629
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 4,
@@ -149386,6 +149386,6 @@
   "6281373334023": {
     "jid": "6281373334023",
     "rpg": {},
-    "exp": 45
+    "exp": 60
   }
 }
