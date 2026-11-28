@@ -1607,7 +1607,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 330671,
+    "exp": 330701,
     "level": 1,
     "koin": 44507,
     "unlockedFeatures": [],
@@ -67986,7 +67986,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181986,
+    "exp": 182001,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -68001,10 +68001,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T04:40:18.565Z",
+    "lastSeen": "2026-11-28T04:42:05.357Z",
     "cooldowns": {
       "afk": 1795794101290,
-      "s": 1795840820479,
+      "s": 1795840926627,
       "play": 1794754715908,
       "inv": 1786434391177,
       "profil": 1795790676634,
@@ -147544,7 +147544,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 6210,
+    "exp": 6240,
     "registeredAt": 1795622011542,
     "name": "Hex4goN",
     "lastSeen": "2026-11-28T00:58:07.252Z",
@@ -147919,7 +147919,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 1785,
+    "exp": 1800,
     "energi": 99999
   },
   "6285959174999": {
@@ -149021,6 +149021,6 @@
   "6285212821381": {
     "jid": "6285212821381",
     "rpg": {},
-    "exp": 90
+    "exp": 105
   }
 }
