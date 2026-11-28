@@ -148624,7 +148624,11 @@
     "jid": "6285717667963",
     "rpg": {},
     "exp": 15,
-    "cooldowns": {},
-    "energi": 15
+    "cooldowns": {
+      "saudio": 1795827928966
+    },
+    "energi": 15,
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   }
 }
