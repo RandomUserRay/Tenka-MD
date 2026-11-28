@@ -149191,14 +149191,15 @@
   "6285183054883": {
     "jid": "6285183054883",
     "rpg": {},
-    "exp": 60,
+    "exp": 75,
     "name": "Shino",
-    "lastSeen": "2026-11-28T13:40:40.648Z",
+    "lastSeen": "2026-11-28T13:40:53.559Z",
     "cooldowns": {
       "brat": 1795873217360,
-      "bratimg": 1795873244026
+      "bratimg": 1795873244026,
+      "bratbahlil": 1795873256094
     },
-    "energi": 23,
+    "energi": 22,
     "lastActiveDate": "28/11/2026",
     "activeDays": 1
   },
