@@ -148586,15 +148586,16 @@
   },
   "6285708447827": {
     "name": "Ruweturu",
-    "lastSeen": "2026-11-27T23:39:16.174Z",
+    "lastSeen": "2026-11-28T07:14:10.537Z",
     "jid": "6285708447827",
     "rpg": {},
-    "exp": 90,
+    "exp": 105,
     "cooldowns": {
       "play": 1795822794859,
-      "ytmp4": 1795819944031
+      "ytmp4": 1795819944031,
+      "audiostiker": 1795850057124
     },
-    "energi": 21,
+    "energi": 11,
     "lastActiveDate": "28/11/2026",
     "activeDays": 1
   },
