@@ -16602,8 +16602,8 @@
         "name": "alex"
       },
       "6285187171485@s.whatsapp.net": {
-        "count": 97,
-        "lastChat": 1795877203571,
+        "count": 95,
+        "lastChat": 1795876744790,
         "name": "ラム"
       },
       "6285378997479@s.whatsapp.net": {
@@ -58585,5 +58585,36 @@
       }
     },
     "jid": "120363414722942104@g.us"
+  },
+  "120363410471540300@g.us": {
+    "chatStats": {
+      "6287776322996@s.whatsapp.net": {
+        "count": 4,
+        "lastChat": 1795877215519,
+        "name": "farr"
+      },
+      "6285893028915@s.whatsapp.net": {
+        "count": 5,
+        "lastChat": 1795877213709,
+        "name": "farrr"
+      },
+      "6285717515172@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1795877210348,
+        "name": "Thiryzty X Wanzty"
+      },
+      "6283163738775@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795877212222,
+        "name": "I Am Zynra"
+      },
+      "6287793046240@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795877213141,
+        "name": "Yoga"
+      }
+    },
+    "jid": "120363410471540300@g.us",
+    "name": "debug FarrMdV3"
   }
 }
