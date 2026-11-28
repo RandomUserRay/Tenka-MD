@@ -148757,8 +148757,16 @@
   },
   "6287793046240": {
     "jid": "6287793046240",
-    "rpg": {},
-    "exp": 9911,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 11680,
     "name": "Yoga",
     "lastSeen": "2026-11-28T16:22:10.174Z",
     "cooldowns": {
@@ -148769,10 +148777,10 @@
       "tekateki": 1795882244090,
       "transfer": 1795882861133
     },
-    "energi": 40,
+    "energi": 47,
     "lastActiveDate": "28/11/2026",
     "activeDays": 1,
-    "koin": 4920
+    "koin": 5689
   },
   "628568780781": {
     "name": "Fairuz E. F",
@@ -149585,7 +149593,7 @@
   "6287869298687": {
     "jid": "6287869298687",
     "rpg": {},
-    "exp": 11532,
+    "exp": 11547,
     "energi": 47,
     "koin": 4680,
     "name": "rahar",
