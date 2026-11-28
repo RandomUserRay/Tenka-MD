@@ -29232,10 +29232,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99986,
+    "energi": 99985,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299246,
+    "exp": 299261,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29246,14 +29246,14 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T15:14:19.844Z",
+    "lastSeen": "2026-11-28T15:14:51.289Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
       "s": 1795700331478,
       "brat": 1783160134077,
       "brathd": 1782800037546,
-      "bratimg": 1790777492945,
+      "bratimg": 1795878893315,
       "close": 1788084734360,
       "open": 1790154851284,
       "bratvid": 1782929796745,
@@ -141649,10 +141649,10 @@
       "mana": 270,
       "stamina": 270
     },
-    "exp": 346882,
+    "exp": 346897,
     "energi": 99999,
     "name": "Laufey",
-    "lastSeen": "2026-11-28T15:14:39.936Z",
+    "lastSeen": "2026-11-28T15:15:02.569Z",
     "cooldowns": {
       "play": 1794234995132,
       "femboy": 1794024323727,
@@ -141666,7 +141666,8 @@
       "me": 1794240257410,
       "clanleaderboard": 1794123002034,
       "daftar": 1794125955799,
-      "menu": 1795878885870
+      "menu": 1795878885870,
+      "menucat": 1795878902619
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 4,
