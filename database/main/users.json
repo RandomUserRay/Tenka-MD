@@ -1,13 +1,13 @@
 {
   "6285755379245": {
     "name": "Zay",
-    "lastSeen": "2026-11-28T05:59:08.235Z",
+    "lastSeen": "2026-11-28T06:00:29.728Z",
     "jid": "6285755379245",
     "number": "6285755379245",
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9000269634,
+    "exp": 9000269709,
     "level": 1,
     "koin": 90036390,
     "unlockedFeatures": [],
@@ -99787,7 +99787,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 57915,
+    "exp": 57945,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -136474,7 +136474,7 @@
     "rpg": {
       "bank": 0
     },
-    "exp": 7035,
+    "exp": 7050,
     "name": "kyzo",
     "lastSeen": "2026-11-28T05:57:22.669Z",
     "energi": 999997,
@@ -142808,7 +142808,7 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 27386,
+    "exp": 27401,
     "energi": 99999,
     "koin": 10396,
     "name": "all",
@@ -147549,8 +147549,16 @@
   },
   "6285750341224": {
     "jid": "6285750341224",
-    "rpg": {},
-    "exp": 9385,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 11438,
     "registeredAt": 1795622011542,
     "name": "Hex4goN",
     "lastSeen": "2026-11-28T05:58:57.451Z",
@@ -147569,8 +147577,8 @@
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 4,
-    "energi": 1000002,
-    "koin": 1986
+    "energi": 1000005,
+    "koin": 2628
   },
   "6282339936375": {
     "jid": "6282339936375",
@@ -148758,7 +148766,7 @@
   "6285881212475": {
     "jid": "6285881212475",
     "rpg": {},
-    "exp": 75,
+    "exp": 90,
     "name": ":l",
     "lastSeen": "2026-11-28T06:00:03.165Z",
     "energi": 999999,
