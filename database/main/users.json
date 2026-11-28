@@ -148402,7 +148402,11 @@
     "energi": 99997,
     "name": "Az-Ril +&?!90",
     "lastSeen": "2026-11-28T11:25:14.956Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "pin": 1795865121977
+    },
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   },
   "6287869263368": {
     "jid": "6287869263368",
