@@ -35963,7 +35963,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1081947,
+    "exp": 1081962,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -99787,7 +99787,7 @@
     "energi": 999999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 58095,
+    "exp": 58110,
     "level": 1,
     "koin": 1000000,
     "saldo": 0,
@@ -99797,7 +99797,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T06:24:14.966Z",
+    "lastSeen": "2026-11-28T07:39:25.714Z",
     "cooldowns": {
       "play": 1795280158555,
       "menu": 1794353524121,
@@ -99836,7 +99836,8 @@
       "unmute": 1794331715522,
       "unmutemember": 1794353595784,
       "ammagic": 1795780592778,
-      "antilinkgc": 1795847055175
+      "antilinkgc": 1795847055175,
+      "ht": 1795851566640
     },
     "clanId": "FEM",
     "isRegistered": false,
@@ -142024,7 +142025,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 17167,
+    "exp": 17182,
     "energi": 999999,
     "name": "Finzz Str",
     "lastSeen": "2026-11-28T06:45:26.813Z",
@@ -145865,7 +145866,7 @@
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 345,
+    "exp": 360,
     "energi": 99999
   },
   "6285361596129": {
