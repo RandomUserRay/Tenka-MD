@@ -6594,16 +6594,16 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9805,
+    "exp": 9820,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
-    "registeredAt": null,
+    "registeredAt": 1795854200112,
     "lastRegisteredAt": null,
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T05:13:24.465Z",
+    "lastSeen": "2026-11-28T08:23:19.721Z",
     "cooldowns": {
       "profil": 1780205174104,
       "afk": 1795438203087,
@@ -6616,7 +6616,8 @@
       "tebaknegara": 1795492981928,
       "cekmalas": 1795493235652,
       "cekgila": 1795588587524,
-      "cekfemboy": 1795673893900
+      "cekfemboy": 1795673893900,
+      "me": 1795854200814
     },
     "clanId": null,
     "isRegistered": false,
@@ -143931,7 +143932,7 @@
   "628988955311": {
     "jid": "628988955311",
     "rpg": {},
-    "exp": 8550,
+    "exp": 8565,
     "energi": 99999,
     "name": "terakomari🩸",
     "lastSeen": "2026-11-27T07:51:59.467Z",
