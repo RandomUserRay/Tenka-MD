@@ -58772,7 +58772,15 @@
     "welcome": false,
     "goodbye": false,
     "leave": false,
-    "jid": "120363426474599651@g.us"
+    "jid": "120363426474599651@g.us",
+    "chatStats": {
+      "6282191679904@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795881559665,
+        "name": "where I am"
+      }
+    },
+    "name": "Seputar doksli dokslian"
   },
   "120363431035614263@g.us": {
     "chatStats": {
