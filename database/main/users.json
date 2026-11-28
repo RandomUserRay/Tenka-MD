@@ -106724,7 +106724,7 @@
     "energi": 99981,
     "isPremium": false,
     "isBanned": false,
-    "exp": 279485,
+    "exp": 279500,
     "level": 1,
     "koin": 20000,
     "saldo": 0,
@@ -148816,7 +148816,8 @@
     "exp": 75,
     "cooldowns": {
       "s": 1795828868270,
-      "bratimg": 1795835521002
+      "bratimg": 1795835521002,
+      "saudio": 1795877390269
     },
     "energi": 13,
     "lastActiveDate": "28/11/2026",
