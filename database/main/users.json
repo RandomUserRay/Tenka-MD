@@ -148866,14 +148866,15 @@
   },
   "6285742165711": {
     "name": "Michael nglakson!",
-    "lastSeen": "2026-11-28T03:40:11.310Z",
+    "lastSeen": "2026-11-28T03:40:25.499Z",
     "jid": "6285742165711",
     "rpg": {},
-    "exp": 15,
+    "exp": 30,
     "cooldowns": {
-      "bratanime": 1795837213440
+      "bratanime": 1795837213440,
+      "bratimg": 1795837227147
     },
-    "energi": 24,
+    "energi": 23,
     "lastActiveDate": "28/11/2026",
     "activeDays": 1
   }
