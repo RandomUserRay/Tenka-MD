@@ -29231,10 +29231,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99997,
+    "energi": 99987,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299156,
+    "exp": 299171,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29245,7 +29245,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T06:57:36.173Z",
+    "lastSeen": "2026-11-28T09:46:13.414Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -29413,7 +29413,8 @@
       "tovid": 1791033422165,
       "stiker": 1790924697960,
       "stickerpack": 1793607085825,
-      "pin": 1795849061940
+      "pin": 1795849061940,
+      "caudiosticker": 1795859179026
     },
     "clanId": null,
     "isRegistered": false,
