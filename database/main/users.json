@@ -6594,7 +6594,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 9985,
+    "exp": 10000,
     "level": 1,
     "koin": 5857,
     "unlockedFeatures": [],
@@ -6625,13 +6625,13 @@
     "regAge": null,
     "regGender": null,
     "rpg": {
-      "level": 1,
-      "health": 100,
-      "maxHealth": 100,
-      "mana": 100,
-      "maxMana": 100,
-      "stamina": 100,
-      "maxStamina": 100,
+      "level": 2,
+      "health": 110,
+      "maxHealth": 110,
+      "mana": 105,
+      "maxMana": 105,
+      "stamina": 105,
+      "maxStamina": 105,
       "bank": 0
     },
     "inventory": {},
@@ -145892,7 +145892,7 @@
   "6289667399696": {
     "jid": "6289667399696",
     "rpg": {},
-    "exp": 840,
+    "exp": 855,
     "energi": 99999
   },
   "6285361596129": {
