@@ -36851,7 +36851,7 @@
     "energi": 99999,
     "isPremium": false,
     "isBanned": false,
-    "exp": 233945,
+    "exp": 233960,
     "level": 1,
     "koin": 223,
     "unlockedFeatures": [],
@@ -140281,16 +140281,17 @@
       "bank": 0,
       "stamina": 75
     },
-    "exp": 4397,
+    "exp": 4457,
     "energi": 99999,
-    "name": "P",
-    "lastSeen": "2026-11-07T01:53:25.284Z",
+    "name": "Padl",
+    "lastSeen": "2026-11-28T02:17:04.010Z",
     "cooldowns": {
       "bank": 1794016394563,
-      "freelance": 1794016409458
+      "freelance": 1794016409458,
+      "kick": 1795832224358
     },
-    "lastActiveDate": "7/11/2026",
-    "activeDays": 1,
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 2,
     "koin": 51344
   },
   "6289675610939": {
