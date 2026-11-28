@@ -145799,7 +145799,11 @@
     "energi": 99998,
     "name": "ZoeL",
     "lastSeen": "2026-11-28T02:10:17.337Z",
-    "cooldowns": {}
+    "cooldowns": {
+      "play": 1795831823268
+    },
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   },
   "6285953753433": {
     "jid": "6285953753433",
