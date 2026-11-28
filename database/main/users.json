@@ -9892,7 +9892,7 @@
     "energi": 999997,
     "isPremium": false,
     "isBanned": false,
-    "exp": 60390,
+    "exp": 60405,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [],
@@ -67983,10 +67983,10 @@
     "jid": "6283135864303",
     "name": "ABC 😸",
     "number": "6283135864303",
-    "energi": 999989,
+    "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 181971,
+    "exp": 181986,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -68001,10 +68001,10 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T04:29:09.586Z",
+    "lastSeen": "2026-11-28T04:40:18.565Z",
     "cooldowns": {
       "afk": 1795794101290,
-      "s": 1794825232155,
+      "s": 1795840820479,
       "play": 1794754715908,
       "inv": 1786434391177,
       "profil": 1795790676634,
@@ -123013,7 +123013,7 @@
       "mana": 115,
       "stamina": 115
     },
-    "exp": 35535,
+    "exp": 35550,
     "energi": 999999,
     "name": "Noah",
     "lastSeen": "2026-11-28T02:52:54.284Z",
@@ -130815,7 +130815,7 @@
       "mana": 105,
       "stamina": 105
     },
-    "exp": 13368,
+    "exp": 13383,
     "energi": 999999,
     "koin": 1493,
     "name": "wlue_sky",
@@ -147544,7 +147544,7 @@
   "6285750341224": {
     "jid": "6285750341224",
     "rpg": {},
-    "exp": 6120,
+    "exp": 6150,
     "registeredAt": 1795622011542,
     "name": "Hex4goN",
     "lastSeen": "2026-11-28T00:58:07.252Z",
@@ -147919,7 +147919,7 @@
   "186398023901300": {
     "jid": "186398023901300",
     "rpg": {},
-    "exp": 1770,
+    "exp": 1785,
     "energi": 99999
   },
   "6285959174999": {
@@ -149017,5 +149017,10 @@
     "jid": "6282252942284",
     "rpg": {},
     "exp": 45
+  },
+  "6285212821381": {
+    "jid": "6285212821381",
+    "rpg": {},
+    "exp": 30
   }
 }
