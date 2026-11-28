@@ -149498,8 +149498,16 @@
     "name": "where I am",
     "lastSeen": "2026-11-28T16:52:25.947Z",
     "jid": "6282191679904",
-    "rpg": {},
-    "exp": 8401,
+    "rpg": {
+      "level": 2,
+      "maxHealth": 110,
+      "maxMana": 105,
+      "maxStamina": 105,
+      "health": 110,
+      "mana": 105,
+      "stamina": 105
+    },
+    "exp": 10456,
     "cooldowns": {
       "antikudeta": 1795880799799,
       "settema": 1795880855640,
@@ -149527,9 +149535,9 @@
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 1,
-    "energi": 99947,
+    "energi": 99950,
     "registeredAt": 1795881337802,
-    "koin": 1329
+    "koin": 2429
   },
   "62881022223777": {
     "jid": "62881022223777",
