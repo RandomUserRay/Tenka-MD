@@ -29232,10 +29232,10 @@
     "jid": "6285187171485",
     "name": "ラム",
     "number": "6285187171485",
-    "energi": 99985,
+    "energi": 99984,
     "isPremium": false,
     "isBanned": false,
-    "exp": 299261,
+    "exp": 299276,
     "level": 1,
     "koin": 0,
     "unlockedFeatures": [
@@ -29246,7 +29246,7 @@
     "registrationCount": 0,
     "hasClaimedRegisterReward": false,
     "unregisteredAt": null,
-    "lastSeen": "2026-11-28T15:14:51.289Z",
+    "lastSeen": "2026-11-28T15:15:22.651Z",
     "cooldowns": {
       "menu": 1788620000470,
       "allmenu": 1786790208296,
@@ -29283,7 +29283,7 @@
       "cekganteng": 1785157128268,
       "tsundere": 1787572897160,
       "kapan": 1782841354176,
-      "simi": 1786795299141,
+      "simi": 1795878925834,
       "unmute": 1782850221870,
       "opengroup": 1782850250105,
       "mutegrup": 1782850269848,
@@ -149386,6 +149386,6 @@
   "6281373334023": {
     "jid": "6281373334023",
     "rpg": {},
-    "exp": 15
+    "exp": 30
   }
 }
