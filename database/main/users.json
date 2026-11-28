@@ -35966,7 +35966,7 @@
     "energi": 999998,
     "isPremium": false,
     "isBanned": false,
-    "exp": 1084497,
+    "exp": 1084512,
     "level": 1,
     "koin": 5888550,
     "unlockedFeatures": [],
@@ -142044,10 +142044,10 @@
       "mana": 110,
       "stamina": 110
     },
-    "exp": 20332,
-    "energi": 999999,
+    "exp": 20347,
+    "energi": 999998,
     "name": "Finzz Str",
-    "lastSeen": "2026-11-28T13:14:31.768Z",
+    "lastSeen": "2026-11-28T13:21:05.419Z",
     "cooldowns": {
       "topchat": 1794064007423,
       "goblok": 1794066799223,
@@ -142072,7 +142072,8 @@
       "antiremove": 1795867994290,
       "antidelete": 1795868028899,
       "rank": 1795871665869,
-      "topexp": 1795871671842
+      "topexp": 1795871671842,
+      "reactch": 1795872065663
     },
     "lastActiveDate": "28/11/2026",
     "activeDays": 11,
