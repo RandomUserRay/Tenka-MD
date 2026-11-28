@@ -58585,5 +58585,21 @@
       }
     },
     "jid": "120363414722942104@g.us"
+  },
+  "120363410471540300@g.us": {
+    "chatStats": {
+      "6287776322996@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1795877184518,
+        "name": "farr"
+      },
+      "6285893028915@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1795877196983,
+        "name": "farrr"
+      }
+    },
+    "jid": "120363410471540300@g.us",
+    "name": "debug FarrMdV3"
   }
 }
