@@ -149205,8 +149205,12 @@
     "exp": 75,
     "name": "Shino",
     "lastSeen": "2026-11-28T13:56:07.451Z",
-    "cooldowns": {},
-    "energi": 23
+    "cooldowns": {
+      "ytmp4": 1795874189167
+    },
+    "energi": 23,
+    "lastActiveDate": "28/11/2026",
+    "activeDays": 1
   },
   "6288210717430": {
     "jid": "6288210717430",
